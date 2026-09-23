@@ -4,38 +4,40 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019/questions/39/a79d7338-8d7a-4a3e-b736-0182f95a3971.png)\n\nEssa lua enlutada, esse desassossego\nA convulsão de dentro, ilharga\nDentro da solidão, corpo morrendo\nTudo isso te devo. E eram tão vastas\nAs coisas planejadas, navios,\nMuralhas de marfim, palavras largas\nConsentimento sempre. E seria dezembro.\nUm cavalo de jade sob as águas\nDupla transparência, fio suspenso\nTodas essas coisas na ponta dos teus dedos\nE tudo se desfez no pórtico do tempo\nEm lívido silêncio. Umas manhãs de vidro\nVento, a alma esvaziada, um sol que não vejo\nTambém isso te devo.\n\nHILST, H. Júbilo, memória, noviciado da paixão.\nSão Paulo: Cia. das Letras, 2018.",
+    "files": [
+        "https://enem.dev/2019/questions/39/a79d7338-8d7a-4a3e-b736-0182f95a3971.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Essa lua enlutada, esse desassossego\nA convulsão de dentro, ilharga\nDentro da solidão, corpo morrendo\nTudo isso te devo.\nE eram tão vastas\nAs coisas planejadas, navios,\nMuralhas de marfim, palavras largas\nConsentimento sempre.\nE seria dezembro.\nUm cavalo de jade sob as águas\nDupla transparência, fio suspenso\nTodas essas coisas na ponta dos teus dedos\nE tudo se desfez no pórtico do tempo Em lívido silêncio.\nUmas manhãs de vidro\nVento, a alma esvaziada, um sol que não vejo\nTambém isso te devo.\nHILST, H. Júbilo, memória, noviciado da paixão. São Paulo: Cia. Das Letras, 2018.\n \nNo poema, o eu lírico faz um inventário de estados passados espelhados no presente. Nesse processo, aflora o",
+    "alternativesIntroduction": "No poema, o eu lírico faz um inventário de estados\npassados espelhados no presente. Nesse processo,\naflora o",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Cuidado em apagar da memória os restos do amor.",
+            "text": "cuidado em apagar da memória os restos do amor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Amadurecimento revestido de ironia e desapego.",
+            "text": "amadurecimento revestido de ironia e desapego.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "Mosaico de alegrias formado seletivamente.",
+            "text": "mosaico de alegrias formado seletivamente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Desejo reprimido convertido em delírio.",
+            "text": "desejo reprimido convertido em delírio.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Arrependimento dos erros cometidos.",
+            "text": "arrependimento dos erros cometidos.",
             "file": null,
             "isCorrect": false
         }

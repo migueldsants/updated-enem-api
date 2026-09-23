@@ -4,38 +4,40 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019/questions/19/0d768ede-2f29-4ce1-9cda-3913a723b49f.png)\n\nExpostos na web desde a gravidez\n\nMais da metade das mães e um terço dos pais\nouvidos em uma pesquisa sobre compartilhamento\npaterno em mídias sociais discutem nas redes sociais\nsobre a educação dos filhos. Muitos são pais e mães de\nprimeira viagem, frutos da geração Y (que nasceu junto\ncom a internet) e usam esses canais para saberem\nque não estão sozinhos na empreitada de educar\numa criança. Há, contudo, um risco no modo como as\npessoas estão compartilhando essas experiências.\nÉ a chamada exposição parental exagerada, alertam\nos pesquisadores.\n\nDe acordo com os especialistas no assunto,\nse você compartilha uma foto ou vídeo do seu filho\npequeno fazendo algo ridículo, por achar engraçadinho,\nquando a criança tiver seus 11, 12 anos, pode se sentir\nconstrangida. A autoconsciência vem com a idade.\n\nA exibição da privacidade dos filhos começa a\nassumir uma característica de linha do tempo e eles\nnão participaram da aprovação ou recusa quanto à\nveiculação desses conteúdos. Assim, quando a criança\ncresce, sua privacidade pode já estar violada.\n\nOTONI, A. C. O Globo, 31 mar. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2019/questions/19/0d768ede-2f29-4ce1-9cda-3913a723b49f.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Expostos na web desde a gravidez\nMais da metade das mães e um terço dos pais ouvidos em uma pesquisa sobre compartilhamento paterno em mídias sociais discutem nas redes sociais sobre a educação dos filhos. Muitos são pais e mães de primeira viagem, frutos da geração Y (que nasceu junto com a internet) e usam esses canais para saberem que não estão sozinhos na empreitada de educar uma criança. Há, contudo, um risco no modo como as pessoas estão compartilhando essas experiências. É a chamada exposição parental exagerada, alertam os pesquisadores.\nDe acordo com os especialistas no assunto, se você compartilha uma foto ou video do seu filho pequeno fazendo algo ridículo, por achar engraçadinho, quando a criança tiver seus 11, 12 anos, pode se sentir constrangida. A autoconsciência vem com a idade.\nA exibição da privacidade dos filhos começa a assumir uma característica de linha do tempo e eles não participaram da aprovação ou recusa quanto à veiculação desses conteúdos. Assim, quando a criança cresce, sua privacidade pode já estar violada.\nOTONI, A. C. O Globo, 31 mar. 2015 (adaptado).\nSobre o compartilhamento parental excessivo em mídias sociais, o texto destaca como impacto o(a)",
+    "alternativesIntroduction": "Sobre o compartilhamento parental excessivo em mídias\nsociais, o texto destaca como impacto o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Interferência das novas tecnologias na comunicação entre pais e filhos.",
+            "text": "interferência das novas tecnologias na comunicação entre pais e filhos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Desatenção dos pais em relação ao comportamento dos filhos na internet.",
+            "text": "desatenção dos pais em relação ao comportamento dos filhos na internet.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Distanciamento na relação entre pais e filhos é provocado pelo uso das redes sociais.",
+            "text": "distanciamento na relação entre pais e filhos provocado pelo uso das redes sociais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Fortalecimento das redes de relações decorrente da troca de experiências entre as famílias.",
+            "text": "fortalecimento das redes de relações decorrente da troca de experiências entre as famílias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Desrespeito à intimidade das crianças cujas imagens têm sido divulgadas nas redes sociais.",
+            "text": "desrespeito à intimidade das crianças cujas imagens têm sido divulgadas nas redes sociais.",
             "file": null,
             "isCorrect": true
         }

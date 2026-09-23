@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "TEXTO I\n\nComo presença consciente no mundo não posso\nescapar à responsabilidade ética no meu mover-me no\nmundo. Se sou puro produto da determinação genética ou\ncultural ou de classe, sou irresponsável pelo que faço no\nmeu mover-me no mundo e, se careço de responsabilidade,\nnão posso falar em ética.\n\nFREIRE,P. Pedagogia da autonomia: saberes necessários\nà prática educativa. São Paulo: Paz e Terra, 1996.\n\nTEXTO II\nPaulo Freire construiu uma pedagogia da esperança.\nNa sua concepção, a história não é algo pronto e acabado.\nAs estruturas de opressão e as desigualdades, apesar\nde serem naturalizadas, são sócio e historicamente\nconstruídas. Daí a importância de os educandos tomarem\nconsciência da sua realidade para, assim, transformá-la.\n\nDEMARCHI, J. L. Paulo Freire. Disponívelem: https://diplomatique.org.br.\nAcesso em: 6 out. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "TEXTO I\nComo presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe, sou irresponsável pelo que faço no meu mover-me no mundo e, se careço de responsabilidade, não posso falar em ética.\nFREIRE, P. Pedagogia da autonomia: saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996\nТЕХТО II\nPaulo Freire construiu uma pedagogia da esperança. Na sua concepção, a história não é algo pronto e acabado. As estruturas de opressão e as desigualdades, apesar de serem naturalizadas, são sócio e historicamente construídas. Daí a importância de os educandos tomarem consciência da sua realidade para, assim, transformá-la.\nDEMARCHI, J. L. Paulo Freire. Disponivel em: https://diplomatique.org.br. Acesso em: 6 out. 2021 (adaptado).\nCom base no conceito de ética pedagógica presente nos textos, os educandos tornam-se responsáveis pela",
+    "alternativesIntroduction": "Com base no conceito de ética pedagógica presente nos\ntextos, os educandos tornam-se responsáveis pela",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Participação sociopolítica.",
+            "text": "participação sociopolítica.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Definição estético-cultural.",
+            "text": "definição estético-cultural.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Competição econômica local.",
+            "text": "competição econômica local.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Manutenção do sistema escolar.",
+            "text": "manutenção do sistema escolar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Capacitação de mobilidade individual.",
+            "text": "capacitação de mobilidade individual.",
             "file": null,
             "isCorrect": false
         }

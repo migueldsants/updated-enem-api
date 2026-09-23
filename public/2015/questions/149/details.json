@@ -4,10 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Para o modelo de um troféu foi escolhido um poliedro\nP, obtido a partir de cortes nos vértices de um cubo. Com\num corte plano em cada um dos cantos do cubo, retira-se\no canto, que é um tetraedro de arestas menores do que\nmetade da aresta do cubo. Cada face do poliedro P, então,\né pintada usando uma cor distinta das demais faces.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Com base nas informações, qual é a quantidade de cores que serão utilizadas na pintura das faces do troféu?",
+    "alternativesIntroduction": "Com base nas informações, qual é a quantidade de cores\nque serão utilizadas na pintura das faces do troféu?",
     "alternatives": [
         {
             "letter": "A",

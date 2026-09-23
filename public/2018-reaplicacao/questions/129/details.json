@@ -4,10 +4,12 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
+    "context": "A fotossíntese é um processo físico-químico realizado\npor organismos clorofilados. Nos vegetais, é dividido\nem duas fases complementares: uma responsável pela\n\n![](https://enem.dev/2018-reaplicacao/questions/129/b94cdd5c-56f3-4d8b-abce-d8efcfd72a04.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/129/b94cdd5c-56f3-4d8b-abce-d8efcfd72a04.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A fotossíntese é um processo físico-químico realizado por organismos clorofilados. Nos vegetais, é dividido em duas fases complementares: uma responsável pela síntese de ATP e pela redução do NADP+ e a outra pela fixação de carbono. Para que a etapa produtora de ATP e NADPH ocorra, são essenciais",
+    "alternativesIntroduction": "síntese de ATP e pela redução do NADP⁺ e a outra pela\nfixação de carbono.\nPara que a etapa produtora de ATP e NADPH ocorra,\nsão essenciais",
     "alternatives": [
         {
             "letter": "A",

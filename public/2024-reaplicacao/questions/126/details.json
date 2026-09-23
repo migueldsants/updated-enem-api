@@ -4,33 +4,32 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Na fissão do urânio-235, esse átomo é dividido em\nátomos mais leves quando bombardeado por um nêutron.\n\nNos reatores nucleares, novas reações ocorrem a partir\ndos nêutrons liberados na fissão, caracterizando uma reação\nem cadeia. Essa reação é mais eficiente quando esses\nnêutrons têm energia cinética baixa. Por isso, é utilizada\numa substância moderadora na qual os nêutrons possam\ncolidir, transferindo parte da energia.\n\nConsidere que essas colisões são frontais e\naproximadamente elásticas, que a substância moderadora é\num alvo em repouso e que as velocidades dos nêutrons,υ_(nf),\ne da substância moderadora, υ_(sf), após a colisão, são:\n\n![](https://enem.dev/2024-reaplicacao/questions/126/3f0f66ed-4bee-4e93-ac71-c92351a9fa0f.png)\n\nem que m_(n) é a massa do nêutron, m_(s) é a massa da\nsubstância moderadora e υ₀ é a velocidade inicial do nêutron.",
+    "context": "Na fissão do urânio-235, esse átomo é dividido em\nátomos mais leves quando bombardeado por um nêutron.\n\nNos reatores nucleares, novas reações ocorrem a partir\ndos nêutrons liberados na fissão, caracterizando uma reação\nem cadeia. Essa reação é mais eficiente quando esses\nnêutrons têm energia cinética baixa. Por isso, é utilizada\numa substância moderadora na qual os nêutrons possam\ncolidir, transferindo parte da energia.\n\nConsidere que essas colisões são frontais e\naproximadamente elásticas, que a substância moderadora é\num alvo em repouso e que as velocidades dos nêutrons,υ_nf,\ne da substância moderadora, υ_sf, após a colisão, são:\n\n![](https://enem.dev/2024-reaplicacao/questions/126/c3146c3c-ef15-42e2-9583-bfc1781a4bc1.png)\n\nem que m_n é a massa do nêutron, m_s é a massa da\nsubstância moderadora e υ₀ é a velocidade inicial do nêutron.",
     "files": [
-        "https://enem.dev/2024-reaplicacao/questions/126/3f0f66ed-4bee-4e93-ac71-c92351a9fa0f.png",
-        "https://enem.dev/2024-reaplicacao/questions/126/f2f65238-0c2d-4111-8d7d-a24751246616.png",
-        "https://enem.dev/2024-reaplicacao/questions/126/be303f92-a93f-4657-a3bf-2d37c1f62e1d.png",
-        "https://enem.dev/2024-reaplicacao/questions/126/95f796d2-4881-4556-8a7a-772e6c1558a3.png",
-        "https://enem.dev/2024-reaplicacao/questions/126/d1ad1794-7fd3-4873-b38d-567e7e774c15.png"
+        "https://enem.dev/2024-reaplicacao/questions/126/c3146c3c-ef15-42e2-9583-bfc1781a4bc1.png",
+        "https://enem.dev/2024-reaplicacao/questions/126/5e285f2b-b69c-4da6-8908-f6d2b760db6d.png",
+        "https://enem.dev/2024-reaplicacao/questions/126/69de8468-f545-48c5-b6cb-74f808d087e6.png",
+        "https://enem.dev/2024-reaplicacao/questions/126/21537fda-60d3-4cbd-872c-ea7cb68920f0.png"
     ],
     "correctAlternative": "A",
     "alternativesIntroduction": "A substância moderadora que promoverá a maior redução\nde velocidade dos nêutrons, nesse processo de colisão,\nserá:",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2024-reaplicacao/questions/126/f2f65238-0c2d-4111-8d7d-a24751246616.png",
+            "text": "_N^Oa",
+            "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2024-reaplicacao/questions/126/be303f92-a93f-4657-a3bf-2d37c1f62e1d.png",
+            "file": "https://enem.dev/2024-reaplicacao/questions/126/5e285f2b-b69c-4da6-8908-f6d2b760db6d.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2024-reaplicacao/questions/126/95f796d2-4881-4556-8a7a-772e6c1558a3.png",
+            "file": "https://enem.dev/2024-reaplicacao/questions/126/69de8468-f545-48c5-b6cb-74f808d087e6.png",
             "isCorrect": false
         },
         {
@@ -42,7 +41,7 @@
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2024-reaplicacao/questions/126/d1ad1794-7fd3-4873-b38d-567e7e774c15.png",
+            "file": "https://enem.dev/2024-reaplicacao/questions/126/21537fda-60d3-4cbd-872c-ea7cb68920f0.png",
             "isCorrect": false
         }
     ]

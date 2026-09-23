@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
+    "context": "E assim as coisas continuaram acontecendo entre os\ndois, em quase sustos, um grande por acaso com cacoetes\nde gestos definitivos. Com o Nunca Mais se oferecendo\no tempo todo, bastaria dizer foi um prazer ter te conhecido,\nbastaria não trocar telefones nem e-mails e enterrar\na casualidade com a cal da sabedoria — nada poderia\nser definitivo, os encontros duravam duas horas ou duas\ndécadas ou duas vezes isso, mas em algum momento\nnecessariamente seria o fim. De todos os grandes amores.\nDe todos os pequenos. De todas as juras, das promessas,\nde todos os na-alegria-e-na-tristeza. De todos os não\namores, os desamores, os casamentos para sempre,\nos rancores para sempre, de todas as paralelas que só\nse viabilizam na abstração da geometria, de todas as\npequenas paixões e de todas as grandes paixões, de tudo\nque para na antessala da paixão, de todos os vínculos não\nexperimentados, de todos.\n\nLISBOA, A. Rakushisha. Rio de Janeiro: Objetiva, 2014.",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "E assim as coisas continuaram acontecendo entre os dois, em quase sustos, um grande por acaso com cacoetes de gestos definitivos. Com o Nunca Mais se oferecendo o tempo todo, bastaria dizer foi um prazer ter te conhecido, bastaria não trocar telefones nem e-mails e enterrar a casualidade com a cal da sabedoria – nada poderia ser definitivo, os encontros duravam duas horas ou duas décadas ou duas vezes isso, mas em algum momento necessariamente seria o fim. De todos os grandes amores, De todos os pequenos. De todas as juras, das promessas, de todos os na-alegria-e-na-tristeza. De todos os não amores, os desamores, os casamentos para sempre, os rancores para sempre, de todas as paralelas que só se viabilizam na abstração da geometria, de todas as pequenas paixões e de todas as grandes paixões, de tudo que para na antessala da paixão, de todos os vínculos não experimentados, de todos.\nLISBOA, A. Rahushisha. Rio de Janeiro Objetiva 2014.\nO recurso que promove a progressão textual, contribuindo para a construção da ideia de que as relações amorosas têm um enredo comum, é a",
+    "alternativesIntroduction": "O recurso que promove a progressão textual, contribuindo\npara a construção da ideia de que as relações amorosas\ntêm um enredo comum, é a",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Repetição do pronome indefinido \"todos\".",
+            "text": "repetição do pronome indefinido “todos”.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Utilização do travessão na marcação do oposto.",
+            "text": "utilização do travessão na marcação do aposto.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Retomada do antecedente pelo pronome \"isso\".",
+            "text": "retomada do antecedente pelo pronome “isso”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Contraposição de ideias marcada pela conjunção mas.",
+            "text": "contraposição de ideias marcada pela conjunção “mas”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Substantivação de expressões pela anteposição do artigo.",
+            "text": "substantivação de expressões pela anteposição do artigo.",
             "file": null,
             "isCorrect": false
         }

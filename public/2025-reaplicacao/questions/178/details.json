@@ -8,7 +8,10 @@
     "files": [
         "https://enem.dev/2025-reaplicacao/questions/178/48094ca4-74ab-4033-93e6-a57a3385c8b8.png",
         "https://enem.dev/2025-reaplicacao/questions/178/ba1c3281-dffc-49ea-aa16-473222f3fcad.png",
-        "https://enem.dev/2025-reaplicacao/questions/178/f787024a-edff-40a7-8615-5f9fb2fd4ce8.png"
+        "https://enem.dev/2025-reaplicacao/questions/178/f787024a-edff-40a7-8615-5f9fb2fd4ce8.png",
+        "https://enem.dev/2025-reaplicacao/questions/178/2eec1520-05e4-44ef-9293-22bccf8f5439.png",
+        "https://enem.dev/2025-reaplicacao/questions/178/21ac1071-580e-4027-abff-9584324fe9fa.png",
+        "https://enem.dev/2025-reaplicacao/questions/178/29581d02-7d6b-4d11-a49e-ce9879887ff3.png"
     ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A expressão algébrica que relaciona T e C indicando o risco de doença arterial coronariana é",
@@ -28,19 +31,19 @@
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2025-reaplicacao/questions/178/48094ca4-74ab-4033-93e6-a57a3385c8b8.png",
+            "file": "https://enem.dev/2025-reaplicacao/questions/178/2eec1520-05e4-44ef-9293-22bccf8f5439.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2025-reaplicacao/questions/178/ba1c3281-dffc-49ea-aa16-473222f3fcad.png",
+            "file": "https://enem.dev/2025-reaplicacao/questions/178/21ac1071-580e-4027-abff-9584324fe9fa.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2025-reaplicacao/questions/178/f787024a-edff-40a7-8615-5f9fb2fd4ce8.png",
+            "file": "https://enem.dev/2025-reaplicacao/questions/178/29581d02-7d6b-4d11-a49e-ce9879887ff3.png",
             "isCorrect": true
         }
     ]

@@ -4,10 +4,12 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Um túnel deve ser lacrado com uma tampa de concreto.\nA seção transversal do túnel e a tampa de concreto têm\ncontornos de um arco de parábola e mesmas dimensões.\nPara determinar o custo da obra, um engenheiro deve\ncalcular a área sob o arco parabólico em questão. Usando\no eixo horizontal no nível do chão e o eixo de simetria da\nparábola como eixo vertical, obteve a seguinte equação\npara a parábola:\n\ny = 9 − x², sendo x e y medidos em metros.\n\nSabe-se que a área sob uma parábola como esta é\n\n![](https://enem.dev/2016/questions/167/22717748-21c8-4b1e-8b44-95a4533554bb.png)\n\nrespectivamente, iguais à base e à altura da entrada do túnel.",
+    "files": [
+        "https://enem.dev/2016/questions/167/22717748-21c8-4b1e-8b44-95a4533554bb.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
+    "alternativesIntroduction": "Qual é a área da parte frontal da tampa de concreto, em\nmetro quadrado?",
     "alternatives": [
         {
             "letter": "A",

@@ -4,39 +4,45 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
+    "context": "Dois veículos que trafegam com velocidade\nconstante em uma estrada, na mesma direção e\nsentido, devem manter entre si uma distância mínima.\nIsso porque o movimento de um veículo, até que ele\npare totalmente, ocorre em duas etapas, a partir do\nmomento em que o motorista detecta um problema que\nexige uma freada brusca. A primeira etapa é associada\nà distância que o veículo percorre entre o intervalo de\ntempo da detecção do problema e o acionamento dos\nfreios. Já a segunda se relaciona com a distância que\no automóvel percorre enquanto os freios agem com\ndesaceleração constante.",
+    "files": [
+        "https://enem.dev/2016/questions/63/194c01bb-cd95-4c4e-9c5d-12a018e14c4d.png",
+        "https://enem.dev/2016/questions/63/d30e3661-4c83-4438-8468-2e217b5772d2.png",
+        "https://enem.dev/2016/questions/63/638fe9e9-9701-4287-a63b-69a4b721c9af.png",
+        "https://enem.dev/2016/questions/63/f8332073-c266-4492-8c02-62d724a16283.png",
+        "https://enem.dev/2016/questions/63/1463960f-6556-4b5c-a35e-8e7234d7f529.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Considerando a situação descrita, qual esboço gráfico representa a velocidade do automóvel em relação à distância percorrida até parar totalmente?",
+    "alternativesIntroduction": "Considerando a situação descrita, qual esboço gráfico\nrepresenta a velocidade do automóvel em relação à\ndistância percorrida até parar totalmente?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2016/questions/63/38b23660-032c-403e-b938-8b64e40af10d.png",
+            "file": "https://enem.dev/2016/questions/63/194c01bb-cd95-4c4e-9c5d-12a018e14c4d.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2016/questions/63/4597eef6-a364-4579-951a-18539ab724f0.png",
+            "file": "https://enem.dev/2016/questions/63/d30e3661-4c83-4438-8468-2e217b5772d2.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2016/questions/63/9126bd93-a8bb-4f82-8426-47b0c234b526.png",
+            "file": "https://enem.dev/2016/questions/63/638fe9e9-9701-4287-a63b-69a4b721c9af.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2016/questions/63/5c565c97-56e7-4e0e-9f84-86534984bb58.png",
+            "file": "https://enem.dev/2016/questions/63/f8332073-c266-4492-8c02-62d724a16283.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2016/questions/63/b0952a42-0246-43f6-b3c6-2fee3ad589d5.png",
+            "file": "https://enem.dev/2016/questions/63/1463960f-6556-4b5c-a35e-8e7234d7f529.png",
             "isCorrect": false
         }
     ]

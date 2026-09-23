@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "No Cerrado, o conhecimento local está sendo cada\nvez mais subordinado à lógica do agronegócio. De um\nlado, o capital impõe os conhecimentos biotecnológicos,\ncomo mecanismo de universalização de práticas agrícolas\ne de novas tecnologias, e de outro, o modelo capitalista\nsubordina homens e mulheres à lógica do mercado. Assim,\nas águas, as sementes, os minerais, as terras (bens\ncomuns) tornam-se propriedade privada. Além do mais,\nhá outros fatores negativos, como a mecanização pesada,\na “pragatização” dos seres humanos e não humanos, a\nviolência simbólica, a superexploração, as chuvas de\nveneno e a violência contra a pessoa.\n\nCALAÇA,M.; SILVA,E.B.; JESUS,J.N. Territorializaçãodo agronegócioe subordinação\n\ndo campesinato no Cerrado. Élisée, Rev. Geo. UEG,n.1, jan.-jun.2021 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "No Cerrado, o conhecimento local está sendo cada vez mais subordinado à lógica do agronegócio. De um lado, o capital impõe os conhecimentos biotecnológicos, como mecanismo de universalização de práticas agrícolas e de novas tecnologias, e de outro, o modelo capitalista subordina homens e mulheres à lógica do mercado. Assim, as águas, as sementes, os minerais, as terras (bens comuns) tornam-se propriedade privada. Além do mais, há outros fatores negativos, como a mecanização pesada, a “pragatização” dos seres humanos e não humanos, a violência simbólica, a superexploração, as chuvas de veneno e a violência contra a pessoa.\nCALAÇA, M.; SILVA, E. B.; JESUS, J. N. Territorialização do agronegócio e subordinação\ndo campesinato no Cerrado, Élisée, Rev. Geo. ÚEG, n. 1, jan.-jun. 2021 (adaptado).\nOs elementos descritos no texto, a respeito da territorialização da produção, demonstram que há um:",
+    "alternativesIntroduction": "Os elementos descritos no texto, a respeito da\nterritorialização da produção, demonstram que há um",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Cerco aos camponeses, inviabilizando a manutenção das condições para a vida.",
+            "text": "cerco aos camponeses, inviabilizando a manutenção das condições para a vida.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Descaso aos latifundiários, impactando a plantação de alimentos para a exportação.",
+            "text": "descaso aos latifundiários, impactando a plantação de alimentos para a exportação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.",
+            "text": "desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.",
+            "text": "desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Assédio ao empresariado, dificultando o investimento de maquinários para a produção.",
+            "text": "assédio ao empresariado, dificultando o investimento de maquinários para a produção.",
             "file": null,
             "isCorrect": false
         }

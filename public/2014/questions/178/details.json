@@ -4,10 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Diariamente, uma residência consome 20 160 Wh.\nEssa residência possui 100 células solares retangulares\n(dispositivos capazes de converter a luz solar em energia\nelétrica) de dimensões 6 cm × 8 cm. Cada uma das tais\ncélulas produz, ao longo do dia, 24 Wh por centímetro de\ndiagonal. O proprietário dessa residência quer produzir,\npor dia, exatamente a mesma quantidade de energia que\nsua casa consome.",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?",
+    "alternativesIntroduction": "Qual deve ser a ação desse proprietário para que ele\natinja o seu objetivo?",
     "alternatives": [
         {
             "letter": "A",

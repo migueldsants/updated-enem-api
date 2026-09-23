@@ -4,14 +4,14 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "Um automóvel pode ser abastecido com os\ncombustíveis A ou B e tem capacidade para armazenar\nT litro. O quadro indica os preços e mostra o rendimento\ndesse automóvel, por litro, quando abastecido com esses\ncombustíveis.\n\n![](https://enem.dev/2018-reaplicacao/questions/161/b7448ba0-c984-4b10-ae9c-ba056d280507.png)\n\nA P_(A) 18 km/L\n\nB P_(B) 12 km/L\n\nO dono desse automóvel estabelece duas estratégias\nde viagem. Em ambas ele irá abastecer duas vezes. O\nprimeiro abastecimento é feito a partir do tanque vazio\ne o reabastecimento é feito quando o tanque esvaziar\nnovamente.\n\n1ª estratégia de viagem: abastecer meio tanque com\no combustível A e depois abastecer um quarto de tanque\ncom o combustível B.",
+    "context": "Um automóvel pode ser abastecido com os\ncombustíveis A ou B e tem capacidade para armazenar\nT litro. O quadro indica os preços e mostra o rendimento\ndesse automóvel, por litro, quando abastecido com esses\ncombustíveis.\n\n![](https://enem.dev/2018-reaplicacao/questions/161/cd44f532-4adf-4529-bfe0-6331dd36add0.png)\n\nA P_A 18 km/L\n\nB P_B 12 km/L\n\nO dono desse automóvel estabelece duas estratégias\nde viagem. Em ambas ele irá abastecer duas vezes. O\nprimeiro abastecimento é feito a partir do tanque vazio\ne o reabastecimento é feito quando o tanque esvaziar\nnovamente.\n\n1ª estratégia de viagem: abastecer meio tanque com\no combustível A e depois abastecer um quarto de tanque\ncom o combustível B.",
     "files": [
-        "https://enem.dev/2018-reaplicacao/questions/161/b7448ba0-c984-4b10-ae9c-ba056d280507.png",
-        "https://enem.dev/2018-reaplicacao/questions/161/8648cebb-d0ba-44db-9f4e-a0122508a731.png",
-        "https://enem.dev/2018-reaplicacao/questions/161/8acef925-74d5-4483-aff3-bf4e95e529d0.png",
-        "https://enem.dev/2018-reaplicacao/questions/161/8afb6598-46c3-4d7a-b1bb-0d00b53549c2.png",
-        "https://enem.dev/2018-reaplicacao/questions/161/910a27ff-4073-455e-a279-a6d336fcc48f.png",
-        "https://enem.dev/2018-reaplicacao/questions/161/faae3b32-bbcf-45ab-8d9b-786990bcab36.png"
+        "https://enem.dev/2018-reaplicacao/questions/161/cd44f532-4adf-4529-bfe0-6331dd36add0.png",
+        "https://enem.dev/2018-reaplicacao/questions/161/b63a9a4e-0d89-4782-8434-e2e0f571e517.png",
+        "https://enem.dev/2018-reaplicacao/questions/161/23113536-4306-425f-b81e-2c950dde13cc.png",
+        "https://enem.dev/2018-reaplicacao/questions/161/e2b0ab90-62bd-4695-b331-c42efb44b8e0.png",
+        "https://enem.dev/2018-reaplicacao/questions/161/0a58cfc4-6a53-4da7-8684-475953d341e4.png",
+        "https://enem.dev/2018-reaplicacao/questions/161/5261f241-cec9-40e5-be2f-f524faa068c2.png"
     ],
     "correctAlternative": "A",
     "alternativesIntroduction": "2ª estratégia de viagem: abastecer meio tanque com\no combustível B e depois abastecer um quarto de tanque\ncom o combustível A.\nO custo (C) da estratégia que possibilita percorrer a maior\ndistância é",
@@ -19,31 +19,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2018-reaplicacao/questions/161/8648cebb-d0ba-44db-9f4e-a0122508a731.png",
+            "file": "https://enem.dev/2018-reaplicacao/questions/161/b63a9a4e-0d89-4782-8434-e2e0f571e517.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2018-reaplicacao/questions/161/8acef925-74d5-4483-aff3-bf4e95e529d0.png",
+            "file": "https://enem.dev/2018-reaplicacao/questions/161/23113536-4306-425f-b81e-2c950dde13cc.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2018-reaplicacao/questions/161/8afb6598-46c3-4d7a-b1bb-0d00b53549c2.png",
+            "file": "https://enem.dev/2018-reaplicacao/questions/161/e2b0ab90-62bd-4695-b331-c42efb44b8e0.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2018-reaplicacao/questions/161/910a27ff-4073-455e-a279-a6d336fcc48f.png",
+            "file": "https://enem.dev/2018-reaplicacao/questions/161/0a58cfc4-6a53-4da7-8684-475953d341e4.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2018-reaplicacao/questions/161/faae3b32-bbcf-45ab-8d9b-786990bcab36.png",
+            "file": "https://enem.dev/2018-reaplicacao/questions/161/5261f241-cec9-40e5-be2f-f524faa068c2.png",
             "isCorrect": false
         }
     ]

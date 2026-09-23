@@ -4,10 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Um banho propicia ao indivíduo um momento de\nconforto e reenergização. Porém, o desperdício de água\ngera prejuízo para todos.",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Um banho propicia ao indivíduo um momento de conforto e reenergização. Porém, o desperdício de água gera prejuízo para todos.",
+    "alternativesIntroduction": "Considere que cada uma das cinco pessoas de\numa família toma dois banhos por dia, de 15 minutos\ncada. Sabe-se que a cada hora de banho são gastos\naproximadamente 540 litros de água. Considerando que\num mês tem 30 dias, podemos perceber que o consumo\nde água é bem significativo.\nA quantidade total de litros de água consumida, nos banhos\ndessa família, durante um mês, é mais próxima de",
     "alternatives": [
         {
             "letter": "A",

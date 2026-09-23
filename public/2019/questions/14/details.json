@@ -4,38 +4,40 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019/questions/14/6e50bfce-fddb-4ec1-9962-1a8852d47295.png)\n\nQue coisas devo levar\nnesta viagem em que partes?\nAs cartas de navegação só servem\na quem fica.\nCom que mapas desvendar\num continente\nque falta?\nEstrangeira do teu corpo\ntão comum\nquantas línguas aprender\npara calar-me?\nTambém quem fica\nprocura\num oriente.\nTambém\na quem fica\ncabe uma paisagem nova\ne a travessia insone do desconhecido\ne a alegria difícil da descoberta.\nO que levas do que fica,\no que, do que levas, retiro?\n\nMARQUES, A. M. In: SANT’ANNA, A. (Org.). Rua Aribau.\nPorto Alegre: Tag, 2018.",
+    "files": [
+        "https://enem.dev/2019/questions/14/6e50bfce-fddb-4ec1-9962-1a8852d47295.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A viagem\nQue coisas devo levar\nnesta viagem em que partes?\nAs cartas de navegação só servem\na quem fica.\nCom que mapas desvendar\num continente\nque falta?\nEstrangeira do teu corpo\ntão comum\nquantas línguas aprender\npara calar-me?\nTambém quem fica\nprocura\num oriente.\nTambém\na quem fica\ncabe uma paisagem nova\ne a travessia insone do desconhecido\ne a alegria difícil da descoberta.\nO que levas do que fica,\no que, do que levas, retiro?\nMARQUES, A. M. In: SANT’ANNA, A (Org.).\nRua Aribau. Porto Alegre: Tag, 2018\n \n\n\n\n\nA viagem e a ausência remetem a um repertório poético tradicional. No poema, a voz lírica dialoga com essa tradição, repercutindo a",
+    "alternativesIntroduction": "A viagem e a ausência remetem a um repertório poético\ntradicional. No poema, a voz lírica dialoga com essa\ntradição, repercutindo a",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Saudade como experiência de apatia.",
+            "text": "saudade como experiência de apatia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Presença da fragmentação da identidade.",
+            "text": "presença da fragmentação da identidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Negação do desejo como expressão de culpa.",
+            "text": "negação do desejo como expressão de culpa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Persistência da memória na valorização do passado.",
+            "text": "persistência da memória na valorização do passado.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Revelação de rumos projetada pela vivência da solidão.",
+            "text": "revelação de rumos projetada pela vivência da solidão.",
             "file": null,
             "isCorrect": true
         }

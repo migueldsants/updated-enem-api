@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "Superar a história da escravidão como principal marca\nda trajetória do negro no país tem sido uma tônica daqueles\nque se dedicam a pesquisar as heranças de origem afro\nà cultura brasileira. A esse esforço de reconstrução\nda própria história do país, alia-se agora a criação da\nplataforma digital Ancestralidades. “A história do negro\nno Brasil vai continuar sendo contada, e cada passo que\na gente dá para trás é um passo que a gente avança”, diz\nMárcio Black, idealizador da plataforma, sobre o estudo\nde figuras ainda encobertas pela perspectiva histórica\nimposta pelos colonizadores da América.\n\nFIORATI,G. Projeto joga luz sobre negros e revê perspectiva histórica.\nDisponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Superar a história da escravidão como principal marca da trajetória do negro no país tem sido uma tônica daqueles que se dedicam a pesquisar as heranças de origem afro à cultura brasileira. A esse esforço de reconstrução da própria história do país, alia-se agora a criação da plataforma digital Ancestralidades. “A história do negro no Brasil vai continuar sendo contada, e cada passo que a gente dá para trás é um passo que a gente avança”, diz Márcio Black, idealizador da plataforma, sobre o estudo de figuras ainda encobertas pela perspectiva histórica imposta pelos colonizadores da América.\nFIORATI, G. Projeto joga luz sobre negros e revê perspectiva histórica Disponivel em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado)\nEm relação ao conhecimento sobre a formação cultural brasileira, iniciativas como a descrita no texto favorecem o(a)",
+    "alternativesIntroduction": "Em relação ao conhecimento sobre a formação cultural\nbrasileira, iniciativas como a descrita no texto favorecem o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Recuperação do tradicionalismo.",
+            "text": "recuperação do tradicionalismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Estímulo ao antropocentrismo.",
+            "text": "estímulo ao antropocentrismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Reforço do etnocentrismo.",
+            "text": "reforço do etnocentrismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Resgate do teocentrismo.",
+            "text": "resgate do teocentrismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Crítica ao eurocentrismo.",
+            "text": "crítica ao eurocentrismo.",
             "file": null,
             "isCorrect": true
         }

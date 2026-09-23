@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "Não tinha outra filosofia. Nem eu. Não digo que a Universidade\nsó as fórmulas, o vocabulário, o esqueleto. Tratei-a como\nHorácio, uma dúzia de locuções morais e políticas, para as\ne a jurisprudência. Colhi de todas as cousas a fraseologia, a casca, a ornamentação.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse ensinado alguma; mas eu decorei-lhe só as fórmulas, o vocabulário, o esqueleto. Tratei-a como tratei o latim; embolsei três versos de Virgílio, dois de Horácio, uma dúzia de locuções morais e políticas, para as despesas da conversação. Tratei-os como tratei a história e a jurisprudência. Colhi de todas as cousas a fraseologia, a casca, a ornamentação.\nASSIS, M. Memórias póstumas do Brás Cubas. Belo Horizonte: Autêntica. 1999.\nA descrição crítica do personagem de Machado de Assis assemelha-se às características dos sofistas, contestados pelos filósofos gregos da Antiguidade, porque se mostra alinhada à",
+    "alternativesIntroduction": "A descrição crítica do personagem de Machado de Assis\npelos filósofos gregos da Antiguidade, porque se mostra",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Elaboração conceitual de entendimentos.",
+            "text": "elaboração conceitual de entendimentos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Utilização persuasiva do discurso.",
+            "text": "utilização persuasiva do discurso.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "Narração alegórica dos rapsodos.",
+            "text": "narração alegórica dos rapsodos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Investigação empírica da physis.",
+            "text": "investigação empírica da physis.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Expressão pictográfica da pólis.",
+            "text": "expressão pictográfica da pólis.",
             "file": null,
             "isCorrect": false
         }

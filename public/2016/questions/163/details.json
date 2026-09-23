@@ -4,38 +4,42 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Densidade absoluta (d) é a razão entre a massa de um\ncorpo e o volume por ele ocupado. Um professor propôs à\nsua turma que os alunos analisassem a densidade de três\ncorpos: d_A, d_B, d_C. Os alunos verificaram que o corpo A\npossuía 1,5 vez a massa do corpo B e esse, por sua vez,\n\n![](https://enem.dev/2016/questions/163/9285b4c6-ec1c-4789-80e1-8f8cd9d11a4c.png)\n\n![](https://enem.dev/2016/questions/163/1adb47cd-cfb2-4b9e-ac53-281e61e99844.png)\n\n![](https://enem.dev/2016/questions/163/1d52eaae-67dd-4e75-9400-faf9d1c03107.png)",
+    "files": [
+        "https://enem.dev/2016/questions/163/9285b4c6-ec1c-4789-80e1-8f8cd9d11a4c.png",
+        "https://enem.dev/2016/questions/163/1adb47cd-cfb2-4b9e-ac53-281e61e99844.png",
+        "https://enem.dev/2016/questions/163/1d52eaae-67dd-4e75-9400-faf9d1c03107.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Após a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "DB < dA < dC",
+            "text": "d_B < d_A < d_C",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "DB = dA < dC",
+            "text": "d_B = d_A < d_C",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "DC < dB = dA",
+            "text": "d_C < d_B = d_A",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "DB < dC < dA",
+            "text": "d_B < d_C < d_A",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "DC < dB < dA",
+            "text": "d_C < d_B < d_A",
             "file": null,
             "isCorrect": false
         }

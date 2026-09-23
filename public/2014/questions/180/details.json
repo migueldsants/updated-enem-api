@@ -4,10 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Um executivo sempre viaja entre as cidades A e B, que\nestão localizadas em fusos horários distintos. O tempo de\nduração da viagem de avião entre as duas cidades é de\n6 horas. Ele sempre pega um voo que sai de A às 15h e\nchega à cidade B às 18h (respectivos horários locais).\n\nCerto dia, ao chegar à cidade B, soube que precisava\nestar de volta à cidade A, no máximo, até as 13h do dia\nseguinte (horário local de A).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Para que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)",
+    "alternativesIntroduction": "Para que o executivo chegue à cidade A no horário correto\ne admitindo que não haja atrasos, ele deve pegar um voo\nsaindo da cidade B, em horário local de B, no máximo à(s)",
     "alternatives": [
         {
             "letter": "A",

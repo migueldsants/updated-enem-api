@@ -4,10 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Segundo regras da Fifa, em um campo de futebol, a área\nfigura, cujo lado AB mede, aproximadamente, 16 m. O ponto penal\n11 m do lado AD. O arco de circunferência, exterior à região penal,\n\nA B\n\nE\n\nD C",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Segundo regras da Fifa, em um campo de futebol, a área penal é a região limitada pelo retângulo ABCD, indicado na figura, cujo lado AB mede, aproximadamente, 16 m. O ponto penal P, equidistante dos lados AB e CD, fica localizado a 11 m do lado AD. O arco de circunferência, exterior à região penal, tem centro em P, e o raio mede, aproximadamente, 9 m.",
+    "alternativesIntroduction": "De acordo com as medidas especificadas no texto e na\ncírculo é",
     "alternatives": [
         {
             "letter": "A",

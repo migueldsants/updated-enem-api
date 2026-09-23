@@ -4,10 +4,12 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2013/questions/171/31496193-1d9e-4889-abd8-c7fc15188955.png)",
+    "files": [
+        "https://enem.dev/2013/questions/171/31496193-1d9e-4889-abd8-c7fc15188955.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Qual é a expressão que representa a relação entre X e Y",
+    "alternativesIntroduction": "Qual é a expressão que representa a relação entre X e Y?",
     "alternatives": [
         {
             "letter": "A",

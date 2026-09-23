@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "No sul da Bahia, desde o século XVIII, tem-se\nregistros de um tipo de sistema agroflorestal. Até hoje,\nesse sistema é característica marcante da paisagem\nda região, conhecido como cabruca, que consiste no\ncultivo do cacau à sombra do dossel da floresta nativa.\nEsse sistema de cultivo do cacau (graças à tolerância\nda espécie à sombra) é considerado amigável para a\nvida silvestre, pois apresenta superioridade em termos\nde conservação da biodiversidade quando comparado\ncom outras plantações tropicais (monoculturas de dendê,\nseringa ou café), agricultura ou pastagens.\n\nSOLLBERG, I.; SCHIAVETTI, A.; MORAES, M. E. B. Manejo agrícola no\nRefúgiodeVida SilvestredeUna: agroflorestascomouma perspectiva\nde conservação. Revista Árvore, n. 2, 2014 (adaptado).",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje, esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste no cultivo do cacau à sombra do dossel da floresta nativa. Esse sistema de cultivo do cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparado com outras plantações tropicais (monoculturas de dendê, seringa ou café), agricultura ou pastagens.\nSOLLBERG, I.; SCHIAVETTI, A. MORAES M. E. B. Manejo agrícola no Refúgio de Vida Silvestre de Una: agroflorestas como uma perspectiva de conservação. Revista Árvore. n. 2, 2014 (adaptado)\nA prática produtiva apresentada é um exemplo de",
+    "alternativesIntroduction": "A prática produtiva apresentada é um exemplo de",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Difusão comercial de lavouras temporárias.",
+            "text": "difusão comercial de lavouras temporárias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Utilização sustentável dos recursos naturais.",
+            "text": "utilização sustentável dos recursos naturais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "Ampliação tecnológica da pecuária intensiva.",
+            "text": "ampliação tecnológica da pecuária intensiva.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Padronização alimentar dos povos tradicionais.",
+            "text": "padronização alimentar dos povos tradicionais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Modernização logística de plantios convencionais.",
+            "text": "modernização logística de plantios convencionais.",
             "file": null,
             "isCorrect": false
         }

@@ -4,10 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "Felizes tempos eram esses! As moças iam à missa de\nmadrugada. De dia ninguém as via e se alguma, em dia\nde festa, queria passear com a avó ou a tia, havia de ir de\ncadeirinhas. Bem razão têm os nossos velhos de chorar\npor esses tempos, em que as filhas não sabiam escrever,\ne por isso não mandavam nem recebiam bilhetinhos.\n\nNovo Correio de Modas, 1853,apud DONEGÁ,A.L. Publicar ficção em\nmeados do século XIX: um estudo das revistas femininas editadas\npelos irmãos Laemmert. Campinas: Unicamp,2013 (adaptado).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Felizes tempos eram esses! As moças iam à missa de madrugada. De dia ninguém as via e se alguma, em dia de festa, queria passear com a avó ou a tia, havia de ir de cadeirinhas. Bem razão têm os nossos velhos de chorar por esses tempos, em que as filhas não sabiam escrever, e por isso não mandavam nem recebiam bilhetinhos.\n \nNovo correio de Modas, 1853, apud DONEGÁ, A. L.\nPublicar ficção em meado do século XIX,: um estudo de revistas femininas editadas pelos irmãos Laemmert. Campinas, unicamp, 2013 (adaptado)\nNa perspectiva do autor,  as tradições e os costumes sociofamiliares sofreram alterações no século XIX, decorrentes de quais fatores?",
+    "alternativesIntroduction": "Na perspectiva do autor, as tradições e os costumes\nsociofamiliares sofreram alterações, no século XIX,\ndecorrentes de quais fatores?",
     "alternatives": [
         {
             "letter": "A",
@@ -23,7 +23,7 @@
         },
         {
             "letter": "C",
-            "text": "Valorização da lingua e imigração estrangeira.",
+            "text": "Valorização da língua e imigração estrangeira.",
             "file": null,
             "isCorrect": false
         },

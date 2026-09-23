@@ -4,7 +4,7 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "Uma competição esportiva envolveu 20 equipes\ncom 10 atletas cada. Uma denúncia à organização dizia\nque um dos atletas havia utilizado substância proibida.\nOs organizadores, então, decidiram fazer um exame\nantidoping. Foram propostos três modos diferentes para\nescolher os atletas que irão realizá-lo:\n\nModo I: sortear três atletas dentre todos os\nparticipantes;\n\nModo II: sortear primeiro uma das equipes e, desta,\nsortear três atletas;\n\nModo III: sortear primeiro três equipes e, então,\nsortear um atleta de cada uma dessas três equipes.\n\nConsidere que todos os atletas têm igual probabilidade\nde serem sorteados e que P(I), P(II) e P(III) sejam as\nprobabilidades de o atleta que utilizou a substância\nproibida seja um dos escolhidos para o exame no caso do\nsorteio ser feito pelo modo I, II ou III.",
     "files": [],
     "correctAlternative": "E",
     "alternativesIntroduction": "Comparando-se essas probabilidades, obtém-se",

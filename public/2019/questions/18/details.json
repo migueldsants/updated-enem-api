@@ -4,38 +4,38 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
-    "context": "",
+    "context": "Software livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma\ncomunidade internacional de desenvolvedores independentes. São centenas de milhares de hackers, que negam\nsua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer\no significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e\nque gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte\naberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade.\nNos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu,\nsendo quase impossível decifrar a programação.\n\nO que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão\ne não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma\ne uma comunidade de usuários com milhões de membros no mundo.\n\nBRANCO, M. Software livre e desenvolvimento social e económico. In: CASTELLS, M.; CARDOSO, G. (Org).\nA sociedade em rede: do conhecimento à acção política. Lisboa: Imprensa Nacional, 2005 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "O que é software livre\nSoftware livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma comunidade internacional de desenvolvedores indepen – dentes. São centenas de milhares de hackers, que negam sua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer o significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e que gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte aberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade. Nos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu, sendo quase impossível decifrar a programação.\nO que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão e não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma e uma comunidade de usuários com milhões de membros no mundo.\nBRANCO, M. Software livre e desenvolvimento social e econômico. In: CASTELLS, M.; CARDOSO, G. (Org). A sociedade em rede: do conhecimento à ação política. Lisboa: Imprensa Nacional, 2005 (adaptado).\n \nA criação de softwares livres contribui para a produção do conhecimento na sociedade porque",
+    "alternativesIntroduction": "A criação de softwares livres contribui para a produção do conhecimento na sociedade porque",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Democratiza o acesso a produtos construídos coletivamente.",
+            "text": "democratiza o acesso a produtos construídos coletivamente.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Complexifica os sistemas operacionais disponíveis no mercado.",
+            "text": "complexifica os sistemas operacionais disponíveis no mercado.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Qualifica um maior número de pessoas para o uso de tecnologias.",
+            "text": "qualifica um maior número de pessoas para o uso de tecnologias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Possibilita a coleta de dados confidenciais para seus desenvolvedores.",
+            "text": "possibilita a coleta de dados confidenciais para seus desenvolvedores.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Insere profissionalmente os hackers na área de inovação tecnológica.",
+            "text": "insere profissionalmente os hackers na área de inov",
             "file": null,
             "isCorrect": false
         }

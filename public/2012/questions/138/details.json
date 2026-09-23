@@ -4,10 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "José, Carlos e Paulo devem transportar em suas\nbicicletas uma certa quantidade de laranjas. Decidiram\ndividir o trajeto a ser percorrido em duas partes, sendo que\nao final da primeira parte eles redistribuiriam a quantidade\nde laranjas que cada um carregava dependendo do\ncansaço de cada um. Na primeira parte do trajeto\nJosé, Carlos e Paulo dividiram as laranjas na\nproporção 6 : 5 : 4, respectivamente. Na segunda\nparte do trajeto José, Carlos e Paulo dividiram as\nlaranjas na proporção 4 : 4 : 2, respectivamente.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Sabendo-se que um deles levou 50 laranjas a mais no segundo trajeto, qual a quantidade de laranjas que José, Carlos e Paulo, nessa ordem, transportaram na segunda parte do trajeto?",
+    "alternativesIntroduction": "Sabendo-se que um deles levou 50 laranjas a mais no\nsegundo trajeto, qual a quantidade de laranjas que José,\nCarlos e Paulo, nessa ordem, transportaram na segunda\nparte do trajeto?",
     "alternatives": [
         {
             "letter": "A",

@@ -4,10 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
+    "context": "O carvão ativado é um material que possui elevado\nteor de carbono, sendo muito utilizado para a remoção de\ncompostos orgânicos voláteis do meio, como o benzeno.\nPara a remoção desses compostos, utiliza-se a adsorção.\nEsse fenômeno ocorre por meio de interações do tipo\nintermoleculares entre a superfície do carvão (adsorvente)\ne o benzeno (adsorvato, substância adsorvida).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "No caso apresentado, entre o adsorvente e a substância adsorvida ocorre a formação de:",
+    "alternativesIntroduction": "No caso apresentado, entre o adsorvente e a substância\nadsorvida ocorre a formação de:",
     "alternatives": [
         {
             "letter": "A",

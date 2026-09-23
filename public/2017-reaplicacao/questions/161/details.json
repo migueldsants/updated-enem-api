@@ -4,38 +4,38 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "No primeiro ano do ensino médio de uma escola,\né hábito os alunos dançarem quadrilha na festa junina.\nNeste ano, há 12 meninas e 13 meninos na turma, e para\na quadrilha foram formados 12 pares distintos, compostos\npor uma menina e um menino. Considere que as meninas\nsejam os elementos que compõem o conjunto ^ e os\nmeninos, o conjunto _, de modo que os pares formados\nrepresentem uma função Ñ de ^ em _.",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Com base nessas informações, a classificação do tipo de função que está presente nessa relação é",
+    "alternativesIntroduction": "Com base nessas informações, a classificação do tipo de\nfunção que está presente nessa relação é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "f é injetora, pois para cada menina pertencente ao conjunto A está associado um menino diferente pertencente ao conjunto B.",
+            "text": "Ñ é injetora, pois para cada menina pertencente ao conjunto ^ está associado um menino diferente pertencente ao conjunto _.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "f é sobrejetora, pois cada par é formado por uma menina pertencente ao conjunto A e um menino pertencente ao conjunto B, sobrando um menino sem formar par.",
+            "text": "Ñ é sobrejetora, pois cada par é formado por uma menina pertencente ao conjunto ^ e um menino pertencente ao conjunto _, sobrando um menino sem formar par.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "f é injetora, pois duas meninas quaisquer pertencentes ao conjunto A formam par com um mesmo menino pertencente ao conjunto B, para envolver a totalidade de alunos da turma.",
+            "text": "Ñ é injetora, pois duas meninas quaisquer pertencentes ao conjunto ^ formam par com um mesmo menino pertencente ao conjunto _, para envolver a totalidade de alunos da turma.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "f é bijetora, pois dois meninos quaisquer pertencentes ao conjunto B formam par com uma mesma menina pertencente ao conjunto A.",
+            "text": "Ñ é bijetora, pois dois meninos quaisquer pertencentes ao conjunto _ formam par com uma mesma menina pertencente ao conjunto ^.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "f é sobrejetora, pois basta que uma menina do conjunto A forme par com dois meninos pertencentes ao conjunto B, assim nenhum menino ficará sem par.",
+            "text": "Ñ é sobrejetora, pois basta que uma menina do conjunto ^ forme par com dois meninos pertencentes ao conjunto _, assim nenhum menino ficará sem par.",
             "file": null,
             "isCorrect": false
         }

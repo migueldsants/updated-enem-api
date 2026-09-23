@@ -4,10 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Em uma escola, a probabilidade de um aluno\ncompreender e falar inglês é de 30%. Três alunos\ndessa escola, que estão em fase final de seleção de\nintercâmbio, aguardam, em uma sala, serem chamados\npara uma entrevista. Mas, ao invés de chamá-los um a\num, o entrevistador entra na sala e faz, oralmente, uma\npergunta em inglês que pode ser respondida por qualquer\num dos alunos.",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A probabilidade de o entrevistador ser entendido e ter sua pergunta oralmente respondida em inglês é",
+    "alternativesIntroduction": "A probabilidade de o entrevistador ser entendido e ter sua\npergunta oralmente respondida em inglês é",
     "alternatives": [
         {
             "letter": "A",

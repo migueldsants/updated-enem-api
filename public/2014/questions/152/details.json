@@ -4,10 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Uma organização não governamental divulgou um\nlevantamento de dados realizado em algumas cidades\nbrasileiras sobre saneamento básico. Os resultados\nindicam que somente 36% do esgoto gerado nessas\ncidades é tratado, o que mostra que 8 bilhões de litros de\nesgoto sem nenhum tratamento são lançados todos os\ndias nas águas.\n\nUma campanha para melhorar o saneamento básico\nnessas cidades tem como meta a redução da quantidade\nde esgoto lançado nas águas diariamente, sem\ntratamento, para 4 bilhões de litros nos próximos meses.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Se o volume de esgoto gerado permanecer o mesmo e a meta dessa campanha se concretizar, o percentual de esgoto tratado passará a ser",
+    "alternativesIntroduction": "Se o volume de esgoto gerado permanecer o mesmo e\na meta dessa campanha se concretizar, o percentual de\nesgoto tratado passará a ser",
     "alternatives": [
         {
             "letter": "A",

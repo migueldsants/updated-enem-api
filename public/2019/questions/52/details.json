@@ -4,38 +4,40 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019/questions/52/2202c720-1a9d-461b-9eb4-5d83fc391313.png)\n\nO processamento da mandioca era uma atividade\njá realizada pelos nativos que viviam no Brasil antes da\nchegada de portugueses e africanos. Entretanto, ao longo\ndo processo de colonização portuguesa, a produção\nde farinha foi aperfeiçoada e ampliada, tornando-se\nlugar-comum em todo o território da colônia portuguesa\nna América. Com a consolidação do comércio atlântico\nem suas diferentes conexões, a farinha atravessou os\nmares e chegou aos mercados africanos.\n\nBEZERRA, N. R. Escravidão, farinha e tráfico atlântico:\num novo olhar sobre as relações entre o Rio de Janeiro e\nBenguela (1790-1830). Disponível em: www.bn.br.\nAcesso em: 20 ago. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2019/questions/52/2202c720-1a9d-461b-9eb4-5d83fc391313.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "O processamento da mandioca era uma atividade já realizada pelos nativos que viviam no Brasil antes da chegada de portugueses e africanos. Entretanto, ao longo do processo de colonização portuguesa, a produção da farinha foi aperfeiçoada e ampliada, tornando-se lugar comum em todo o território da colônia portuguesa na América. Com a consolidação do comércio atlântico em suas diferentes conexões, a farinha atravessou os mares e chegou aos mercados africanos.\nBEZERRA, N. R. Escravidão, farinha e tráfico atlântico: um novo olhar sobre as relações entre o Rio de Janeiro e Benguela (1790-1830). Disponível em: www.bn.br. Acesso em: 20 ago. 2014 (adaptado)\n\n\n\n\nConsiderando a formação do espaço atlântico, esse produto exemplifica historicamente a",
+    "alternativesIntroduction": "Considerando a formação do espaço atlântico,\nesse produto exemplifica historicamente a",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Difusão de hábitos alimentares.",
+            "text": "difusão de hábitos alimentares.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Disseminação de rituais festivos.",
+            "text": "disseminação de rituais festivos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Ampliação dos saberes autóctones.",
+            "text": "ampliação dos saberes autóctones.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Apropriação de costumes guerreiros.",
+            "text": "apropriação de costumes guerreiros.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Diversificação de oferendas religiosas.",
+            "text": "diversificação de oferendas religiosas.",
             "file": null,
             "isCorrect": false
         }

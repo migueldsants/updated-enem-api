@@ -4,38 +4,38 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
+    "context": "A magnetohipertermia é um procedimento terapêutico\nque se baseia na elevação da temperatura das células\nde uma região específica do corpo que estejam afetadas\npor um tumor. Nesse tipo de tratamento, nanopartículas\nmagnéticas são fagocitadas pelas células tumorais, e\num campo magnético alternado externo é utilizado para\npromover a agitação das nanopartículas e consequente\naquecimento da célula.",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": "A elevação de temperatura descrita ocorre porque",
     "alternatives": [
         {
             "letter": "A",
-            "text": "O campo magnético gerado pela oscilação das nanopartículas é absorvido pelo tumor.",
+            "text": "o campo magnético gerado pela oscilação das nanopartículas é absorvido pelo tumor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "O campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito.",
+            "text": "o campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "As nanopartículas interagem magneticamente com as células do corpo, transferindo calor.",
+            "text": "as nanopartículas interagem magneticamente com as células do corpo, transferindo calor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "O campo magnético alternado fornece calor para as nanopartículas que o transfere às células do corpo.",
+            "text": "o campo magnético alternado fornece calor para as nanopartículas que o transfere às células do corpo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "As nanopartículas são aceleradas em um único sentido em razão da interação com o campo magnético, fazendo-as colidir com as células e transferir calor.",
+            "text": "as nanopartículas são aceleradas em um único sentido em razão da interação com o campo magnético, fazendo-as colidir com as células e transferir calor.",
             "file": null,
             "isCorrect": false
         }

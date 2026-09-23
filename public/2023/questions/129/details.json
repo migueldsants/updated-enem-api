@@ -4,10 +4,13 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula ![](https://enem.dev/broken-image.svg), está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.\n\n![](https://enem.dev/broken-image.svg)\n\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).\n\nUm pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
-    "files": [],
+    "context": "O Aldrin é um inseticida agrícola organoclorado\nsintético de baixa polaridade, cuja estrutura molecular\nsimétrica, de fórmula C₁₂H₈Cl₆, está representada na\nfigura. Introduzido na agricultura a partir da década de\n1950, esse composto apresenta alta persistência no meio\nambiente e acumulação nos organismos, sendo danoso\npara a saúde.\n\n![](https://enem.dev/2023/questions/129/3cf91f25-7bd3-41ce-92f0-6394ab22379e.png)\n\n![](https://enem.dev/2023/questions/129/bd9ca265-e7e8-498f-bc28-07383b3f004c.png)\n\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para\no controle químico de insetos. Química Nova, v. 26, n. 3, 2003 (adaptado).",
+    "files": [
+        "https://enem.dev/2023/questions/129/3cf91f25-7bd3-41ce-92f0-6394ab22379e.png",
+        "https://enem.dev/2023/questions/129/bd9ca265-e7e8-498f-bc28-07383b3f004c.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+    "alternativesIntroduction": "Um pesquisador coletou fluidos biológicos de indivíduos\nde uma população contaminada por esse inseticida agrícola.\nEle analisou amostras de saliva, sangue, lágrima, urina e\nleite quanto à presença dessa substância.\nEm qual dos fluidos o pesquisador provavelmente encontrou\na maior concentração dessa substância?",
     "alternatives": [
         {
             "letter": "A",
@@ -29,7 +32,7 @@
         },
         {
             "letter": "D",
-            "text": "Urina, pela presenca de moléculas de ureia.",
+            "text": "Urina, pela presença de moléculas de ureia.",
             "file": null,
             "isCorrect": false
         },

@@ -4,38 +4,40 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "![](https://enem.dev/broken-image.svg)",
-    "files": [],
+    "context": "![](https://enem.dev/2023/questions/44/43141707-e582-4c43-b230-498ecc0d9588.png)",
+    "files": [
+        "https://enem.dev/2023/questions/44/43141707-e582-4c43-b230-498ecc0d9588.png"
+    ],
     "correctAlternative": "A",
     "alternativesIntroduction": "Essa campanha publicitária do Ministério da Saúde visa",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Divulgar um conjunto de benefícios proporcionados pela amamentação.",
+            "text": "divulgar um conjunto de benefícios proporcionados pela amamentação.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Apresentar tratamentos para infecções respiratórias em bebês.",
+            "text": "apresentar tratamentos para infecções respiratórias em bebês.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Defender o direito das mulheres de amamentar em público.",
+            "text": "defender o direito das mulheres de amamentar em público.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Orientar sobre os exercícios para uma boa amamentação.",
+            "text": "orientar sobre os exercícios para uma boa amamentação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Informar sobre o aumento de anticorpos nas mães.",
+            "text": "informar sobre o aumento de anticorpos nas mães.",
             "file": null,
             "isCorrect": false
         }

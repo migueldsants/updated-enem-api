@@ -4,10 +4,12 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
+    "context": "Com o avanço das multifunções dos dispositivos\neletrônicos portáteis, como os smartphones, o\ngerenciamento da duração da bateria desses\n\n![](https://enem.dev/2018-reaplicacao/questions/91/b8e7d2f3-3b0b-443d-9f21-cc8390dbf548.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/91/b8e7d2f3-3b0b-443d-9f21-cc8390dbf548.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Com o avanço das multifunções dos dispositivos eletrônicos portáteis, como os smartphones, o gerenciamento da duração da bateria desses equipamentos torna-se cada vez mais crítico. O manual de um telefone celular diz que a quantidade de carga fornecida pela sua bateria é de 1 500 mAh. A quantidade de carga fornecida por essa bateria, em coulomb, é de",
+    "alternativesIntroduction": "equipamentos torna-se cada vez mais crítico. O manual\nde um telefone celular diz que a quantidade de carga\nfornecida pela sua bateria é de 1 500 mAh.\nA quantidade de carga fornecida por essa bateria, em\ncoulomb, é de",
     "alternatives": [
         {
             "letter": "A",

@@ -4,39 +4,45 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Um professor, depois de corrigir as provas de sua\nturma, percebeu que várias questões estavam muito\ndifíceis. Para compensar, decidiu utilizar uma função\npolinomial f, de grau menor que 3, para alterar as notas x\n\n![](https://enem.dev/2014/questions/145/a8d4673d-c656-475e-a9cd-4ebac737ad67.png)\n\nda prova para notas y = f(x), da seguinte maneira:\n\n• A nota zero permanece zero.\n\n• A nota 10 permanece 10.\n\n• A nota 5 passa a ser 6.\n\nA expressão da função y = f(x) a ser utilizada pelo\nprofessor é",
+    "files": [
+        "https://enem.dev/2014/questions/145/a8d4673d-c656-475e-a9cd-4ebac737ad67.png",
+        "https://enem.dev/2014/questions/145/87b5b393-c428-4d6c-be3d-8bccfa4f78f9.png",
+        "https://enem.dev/2014/questions/145/ed6d313e-c35e-4708-9656-32c6f5c10ab8.png",
+        "https://enem.dev/2014/questions/145/58b3b8da-81ef-40a9-99c3-eafc28cb7476.png",
+        "https://enem.dev/2014/questions/145/8c0138e2-9bbf-4786-98e7-4d3430d063a9.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A expressão da função y = f(x) a ser utilizada pelo professor é",
+    "alternativesIntroduction": "1₂ 7",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2014/questions/145/fb982b59-0d4c-4072-a3f3-0d07ba073215.png",
+            "file": "https://enem.dev/2014/questions/145/87b5b393-c428-4d6c-be3d-8bccfa4f78f9.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2014/questions/145/b3e30fe0-d8fb-4cca-abc7-8d2723b68bcc.png",
+            "file": "https://enem.dev/2014/questions/145/ed6d313e-c35e-4708-9656-32c6f5c10ab8.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2014/questions/145/e22c424c-ede8-4fc6-9030-a7293c0164df.png",
+            "file": "https://enem.dev/2014/questions/145/58b3b8da-81ef-40a9-99c3-eafc28cb7476.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2014/questions/145/f987fd5b-b6b5-44ae-a434-054759e16220.png",
+            "file": "https://enem.dev/2014/questions/145/8c0138e2-9bbf-4786-98e7-4d3430d063a9.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2014/questions/145/764cd798-3b7c-4607-9287-1364cfc323dc.png",
+            "text": "y = x",
+            "file": null,
             "isCorrect": false
         }
     ]

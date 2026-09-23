@@ -4,38 +4,38 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
+    "context": "Um pesquisador percebe que o rótulo de um dos vidros\nem que guarda um concentrado de enzimas digestivas\nestá ilegível. Ele não sabe qual enzima o vidro contém,\nmas desconfia de que seja uma protease gástrica, que\nage no estômago digerindo proteínas. Sabendo que a\ndigestão no estômago é ácida e no intestino é básica, ele\nmonta cinco tubos de ensaio com alimentos diferentes,\nadiciona o concentrado de enzimas em soluções com\npH determinado e aguarda para ver se a enzima age em\nalgum deles.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "O tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém",
+    "alternativesIntroduction": "O tubo de ensaio em que a enzima deve agir para indicar\nque a hipótese do pesquisador está correta é aquele que\ncontém",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Cubo de batata em solução com pH = 9.",
+            "text": "cubo de batata em solução com pH = 9.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Pedaço de carne em solução com pH = 5.",
+            "text": "pedaço de carne em solução com pH = 5.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "Clara de ovo cozida em solução com pH = 9.",
+            "text": "clara de ovo cozida em solução com pH = 9.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Porção de macarrão em solução com pH = 5.",
+            "text": "porção de macarrão em solução com pH = 5.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Bolinha de manteiga em solução com pH = 9.",
+            "text": "bolinha de manteiga em solução com pH = 9.",
             "file": null,
             "isCorrect": false
         }

@@ -4,38 +4,40 @@
     "year": 2023,
     "language": "espanhol",
     "discipline": "linguagens",
-    "context": "**TEXTO I**\n\n¿QUÉ ME PASA?:  \n¿PorQUE ME CUESTA TANTO ESTUDIAR?  \n¿PORQUE ME CUESTA TANTO CONCENTRARME?  \n¿PoRQUE……  \n¿PORQUÉ…..  \n¿PORQUÉ NO CONSIGO APRENDER COMO LOS DEMÁS?\n\n![](https://enem.dev/broken-image.svg)\n\nDisponível em: www.otrasvoceseneducacion.org. Acesso em: 8 nov. 2022.\n\n**ТЕХТО II**\n\nIshaan Awashi es un niño de 8 años cuyo mundo está plagado de maravillas que nadie más parece apreciar: colores, peces, perros y cometas, que simplemente no son importantes en la vida de los adultos, que parecen más interesados en cosas como los deberes, las notas o la limpieza. E Ishaan parece no poder hacer nada bien en clase. Cuando los problemas que ocasiona superan a sus padres, es internado en un colegio para que le disciplinen. Las cosas no mejoran en el nuevo colegio, donde Ishaan tiene además que aceptar estar lejos de sus padres. Hasta que un dia, el nuevo profesor de arte, Ram Shankar Nikumbh, entra en escena, se interesa por el pequeño Ishaan y todo cambia.\n\nDisponível em: https://elfinalde.com. Acesso em: 26 out. 2021 (adaptado)",
-    "files": [],
+    "context": "![](https://enem.dev/2023/questions/1-espanhol/59831fca-35c7-44ca-b788-4ddf3b0f79d5.png)\n\nTEXTO II\n\nIshaan Awashi es un niño de 8 años cuyo mundo está\nplagado de maravillas que nadie más parece apreciar:\ncolores, peces, perros y cometas, que simplemente no son\nimportantes en la vida de los adultos, que parecen más\ninteresados en cosas como los deberes, las notas o la\nlimpieza. E Ishaan parece no poder hacer nada bien en clase.\nCuando los problemas que ocasiona superan a sus padres,\nes internado en un colegio para que le disciplinen. Las cosas\nno mejoran en el nuevo colegio, donde Ishaan tiene además\nque aceptar estar lejos de sus padres. Hasta que un día,\nel nuevo profesor de arte, Ram Shankar Nikumbh, entra en\nescena, se interesa por el pequeño Ishaan y todo cambia.\n\nDisponívelem: https://elfinalde.com. Acessoem:26out.2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2023/questions/1-espanhol/59831fca-35c7-44ca-b788-4ddf3b0f79d5.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "O filme Como estrellas en la tierra aborda o tema da dislexia. Relacionando o cartaz do filme com a sinopse, constata-se que o(a)",
+    "alternativesIntroduction": "O filme Como estrellas en la tierra aborda o tema da\ndislexia. Relacionando o cartaz do filme com a sinopse,\nconstata-se que o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Olhar diferenciado para com o outro gera mudanças.",
+            "text": "olhar diferenciado para com o outro gera mudanças.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Estudante com dislexia apresenta um tom questionador.",
+            "text": "estudante com dislexia apresenta um tom questionador.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Abordagem para lidar com a dislexia é pautada na disciplina.",
+            "text": "abordagem para lidar com a dislexia é pautada na disciplina.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Contato com os pais prejudica o acompanhamento da dislexia.",
+            "text": "contato com os pais prejudica o acompanhamento da dislexia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Mudança de interesses ocorre na transição da infância para a vida adulta.",
+            "text": "mudança de interesses ocorre na transição da infância para a vida adulta.",
             "file": null,
             "isCorrect": false
         }

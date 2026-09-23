@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
+    "context": "Mandioca, macaxeira, aipim e castelinha são nomes\ndiferentes da mesma planta. Semáforo, sinaleiro e farol\ntambém significam a mesma coisa. O que muda é só o\nhábito cultural de cada região. A mesma coisa acontece\ncom a Língua Brasileira de Sinais (Libras). Embora ela\nseja a comunicação oficial da comunidade surda no Brasil,\nexistem sinais que variam em relação à região, à idade e até\nao gênero de quem se comunica. A cor verde, por exemplo,\npossui sinais diferentes no Rio de Janeiro, Paraná e São\nPaulo. São os regionalismos na língua de sinais.\n\nEssas variações são um dos temas da disciplina\nLinguística na língua de sinais, oferecida pela Universidade\nEstadual Paulista (Unesp) ao longo do segundo semestre.\n“Muitas pessoas pensam que a língua de sinais é universal,\no que não é verdade”, explica a professora e chefe do\nDepartamento de Linguística, Literatura e Letras Clássicas\nda Unesp. “Mesmo dentro de um mesmo país, ela sofre\nvariação em relação à localização geográfica, à faixa etária\ne até ao gênero dos usuários”, completa a especialista.\n\nOs surdos podem criar sinais diferentes para identificar\nlugares, objetos e conceitos. Em São Paulo, o sinal de\n“cerveja” é feito com um giro do punho como uma meia-volta.\nEm Minas, a bebida é citada quando os dedos indicador e\nmédio batem no lado do rosto. Também ocorrem mudanças\nhistóricas. Um sinal pode sofrer alterações decorrentes dos\ncostumes da geração que o utiliza.\n\nDisponível em: www.educacao.sp.gov.br. Acesso em: 1 nov. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Mandioca, macaxeira, aipim e castelinha são nomes diferentes da mesma planta. Semáforo, sinaleiro e farol também significam a mesma coisa. O que muda é só o hábito cultural de cada região. A mesma coisa acontece com a Língua Brasileira de Sinais (Libras). Embora ela seja a comunicação oficial da comunidade surda no Brasil, existem sinais que variam em relação à região, à idade e até ao gênero de quem se comunica. A cor verde, por exemplo, possui sinais diferentes no Rio de Janeiro, Paraná e São Paulo. São os regionalismos na língua de sinais.\nEssas variações são um dos temas da disciplina Linguística na língua de sinais, oferecida pela Universidade Estadual Paulista (Unesp) ao longo do segundo semestre. “Muitas pessoas pensam que a língua de sinais é universal, o que não é verdade”, explica a professora e chefe do Departamento de Linguística, Literatura e Letras Clássicas da Unesp. “Mesmo dentro de um mesmo país, ela sofre variação em relação à localização geográfica, à faixa etária e até ao gênero dos usuários” completa a especialista.\nOs surdos podem criar sinais diferentes para identificar lugares, objetos e conceitos. Em São Paulo, o sinal de “cerveja” é feito com um giro do punho como uma meia- volta. Em Minas, a bebida é citada quando os dedos in- dicador e médio batem no lado do rosto. Também ocorrem mudanças históricas. Um sinal pode sofrer alterações decorrentes dos costumes da geração que o utiliza.\nDisponível em: www.educacao.sp.gov.br. Acesso em 1 nov. 2021 (adaptado)\nNesse texto, a Língua Brasileira de Sinais (Libras)",
+    "alternativesIntroduction": "Nesse texto, a Língua Brasileira de Sinais (Libras)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Passa por fenômenos de variação linguística como qualquer outra língua.",
+            "text": "passa por fenômenos de variação linguística como qualquer outra língua.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Apresenta variações regionais, assumindo novo sentido para algumas palavras.",
+            "text": "apresenta variações regionais, assumindo novo sentido para algumas palavras.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.",
+            "text": "sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.",
+            "text": "diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "É ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente.",
+            "text": "é ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente.",
             "file": null,
             "isCorrect": false
         }

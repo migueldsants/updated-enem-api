@@ -4,7 +4,7 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "O psicólogo de uma empresa aplica um teste para\nanalisar a aptidão de um candidato a determinado\ncargo. O teste consiste em uma série de perguntas\ncujas respostas devem ser verdadeiro ou falso e termina\nquando o psicólogo fizer a décima pergunta ou quando o\ncandidato der a segunda resposta errada. Com base em\ntestes anteriores, o psicólogo sabe que a probabilidade\nde o candidato errar uma resposta é 0,20.",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": "A probabilidade de o teste terminar na quinta pergunta é",

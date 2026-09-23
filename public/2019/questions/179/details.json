@@ -9,7 +9,10 @@
         "https://enem.dev/2019/questions/179/3c23edf9-5531-4ae5-b328-9b0a6b31fdc1.png",
         "https://enem.dev/2019/questions/179/b9a067a7-f7f3-423a-8242-fe342cf49a43.png",
         "https://enem.dev/2019/questions/179/118272bd-7ca4-4866-81cd-a7af7dfd7cde.png",
-        "https://enem.dev/2019/questions/179/269d93c4-e0ff-462a-9378-2afebacb13c9.png"
+        "https://enem.dev/2019/questions/179/269d93c4-e0ff-462a-9378-2afebacb13c9.png",
+        "https://enem.dev/2019/questions/179/3e1f86e4-5aa4-4093-8abe-e8344804427e.png",
+        "https://enem.dev/2019/questions/179/145599e4-33ea-4ed7-8b8d-1bab76ab6d5b.png",
+        "https://enem.dev/2019/questions/179/b493b9b2-5d33-4089-9f8c-f94ef06d1bf7.png"
     ],
     "correctAlternative": "A",
     "alternativesIntroduction": "A sequência de deslocamento pelos cômodos, conforme o consumo de energia apresentado no gráfico, é",
@@ -17,13 +20,13 @@
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2019/questions/179/b9a067a7-f7f3-423a-8242-fe342cf49a43.png",
+            "file": "https://enem.dev/2019/questions/179/3e1f86e4-5aa4-4093-8abe-e8344804427e.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2019/questions/179/118272bd-7ca4-4866-81cd-a7af7dfd7cde.png",
+            "file": "https://enem.dev/2019/questions/179/145599e4-33ea-4ed7-8b8d-1bab76ab6d5b.png",
             "isCorrect": false
         },
         {
@@ -35,7 +38,7 @@
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2019/questions/179/269d93c4-e0ff-462a-9378-2afebacb13c9.png",
+            "file": "https://enem.dev/2019/questions/179/b493b9b2-5d33-4089-9f8c-f94ef06d1bf7.png",
             "isCorrect": false
         },
         {

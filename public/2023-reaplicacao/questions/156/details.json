@@ -11,7 +11,10 @@
         "https://enem.dev/2023-reaplicacao/questions/156/595144e5-4a5c-4e72-af65-4881d69bee49.png",
         "https://enem.dev/2023-reaplicacao/questions/156/747eda93-bbd5-4c70-ba74-2a68b90b44f2.png",
         "https://enem.dev/2023-reaplicacao/questions/156/caa48858-bc26-4bfc-89d7-9a51bf2e7b28.png",
-        "https://enem.dev/2023-reaplicacao/questions/156/7f37a466-0a39-4a03-af77-a89c96ddc2a8.png"
+        "https://enem.dev/2023-reaplicacao/questions/156/7f37a466-0a39-4a03-af77-a89c96ddc2a8.png",
+        "https://enem.dev/2023-reaplicacao/questions/156/b0a972b1-d412-46cf-bb83-93da5e53cf60.png",
+        "https://enem.dev/2023-reaplicacao/questions/156/9aae7cae-f49c-4db8-84c3-8ca66bb824ff.png",
+        "https://enem.dev/2023-reaplicacao/questions/156/a4e78dca-e544-4144-af71-6c8a77a048e9.png"
     ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A expressão que representa a unidade de medida para a\ngrandeza potência radiante por unidade de área é",
@@ -31,19 +34,19 @@
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2023-reaplicacao/questions/156/747eda93-bbd5-4c70-ba74-2a68b90b44f2.png",
+            "file": "https://enem.dev/2023-reaplicacao/questions/156/b0a972b1-d412-46cf-bb83-93da5e53cf60.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2023-reaplicacao/questions/156/caa48858-bc26-4bfc-89d7-9a51bf2e7b28.png",
+            "file": "https://enem.dev/2023-reaplicacao/questions/156/9aae7cae-f49c-4db8-84c3-8ca66bb824ff.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2023-reaplicacao/questions/156/7f37a466-0a39-4a03-af77-a89c96ddc2a8.png",
+            "file": "https://enem.dev/2023-reaplicacao/questions/156/a4e78dca-e544-4144-af71-6c8a77a048e9.png",
             "isCorrect": true
         }
     ]
