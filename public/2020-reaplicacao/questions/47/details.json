@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "ampliação da qualidade de vida no campo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "priorização do crédito ao pequeno produtor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "aumento do emprego de mão de obra informal.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "aplicação de leis que viabilizam a distribuição de terras.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "desenvolvimento de métodos que incrementam o cultivo.",
             "file": null,
             "isCorrect": true
         }

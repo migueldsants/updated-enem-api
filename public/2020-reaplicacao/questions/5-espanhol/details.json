@@ -8,36 +8,36 @@
     "files": [
         "https://enem.dev/2020-reaplicacao/questions/5-espanhol/e7bba140-6e33-4f14-bdd5-37bfbf437bdf.png"
     ],
-    "correctAlternative": "A",
+    "correctAlternative": "D",
     "alternativesIntroduction": "Considerando os elementos verbais e não verbais expressos no cartaz, o objetivo do anúncio é",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "promover o encontro literário entre pessoas com deficiência visual.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "divulgar o empréstimo de livros para alunos com dificuldades de acessibilidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "reivindicar a digitalização do acervo das bibliotecas públicas para leitores cegos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "oferecer a oportunidade de apoio a um projeto para leitores com necessidades especiais.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "estimular a arrecadação de livros apropriados para os estudantes com dificuldade de leitura.",
             "file": null,
             "isCorrect": false
         }

@@ -5,38 +5,41 @@
     "language": null,
     "discipline": "matematica",
     "context": "Um gerador emite um sinal cuja intensidade I recebida\npor um receptor é inversamente proporcional ao quadrado da\ndistância desse receptor ao gerador. O receptor 1 recebe uma\nintensidade de sinal I1 desse gerador, enquanto que o receptor 2\nrecebe uma intensidade de sinal I2 desse mesmo gerador.\nSabe-se que a distância do receptor 2 ao gerador é o dobro\nda distância do receptor 1 ao gerador.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/161/6be4a9cb-6a82-40c3-99b1-3989f94c2757.png",
+        "https://enem.dev/2025-reaplicacao/questions/161/3ec22846-3618-4811-aa48-ade757b0b241.png"
+    ],
     "correctAlternative": "A",
     "alternativesIntroduction": "As intensidades I1 e I2 satisfazem a relação",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "I₁ = 4I₂",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "I₁ = 2I₂",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "I₁ = I₂",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/161/6be4a9cb-6a82-40c3-99b1-3989f94c2757.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/161/3ec22846-3618-4811-aa48-ade757b0b241.png",
             "isCorrect": false
         }
     ]

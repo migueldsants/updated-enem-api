@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "exploração burguesa.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "organização dos sindicatos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "ausência de especialização.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "industrialização acelerada.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "alta de preços.",
             "file": null,
             "isCorrect": false
         }

@@ -4,20 +4,22 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "O quadro mostra o número de gols feitos pela equipe\nA em campeonatos estaduais de futebol, no período de\n2007 a 2012.\n\nAno\nNúmero de gols\n\n2007\n64\n\n2008\n59\n\n2009\n61\n\n2010\n45\n\n2011\n61\n\n2012\n58\n\nFaltando ainda alguns jogos para o término do\ncampeonato estadual de 2013, o número de gols\nmarcados pela equipe B era 52. O técnico dessa equipe\nfez um levantamento para saber quantos gols sua equipe\ndeveria marcar nos próximos jogos de modo que, ao\nfinal do campeonato, o número total de gols marcados\npela equipe B ultrapasse a média de gols marcados pela\nequipe A nos campeonatos de 2007 a 2012.",
-    "files": [],
+    "context": "O quadro mostra o número de gols feitos pela equipe\nA em campeonatos estaduais de futebol, no período de\n2007 a 2012.\n\n![](https://enem.dev/2020-reaplicacao/questions/136/85d293c1-8fbd-4b34-a207-52f082685433.png)\n\nFaltando ainda alguns jogos para o término do\ncampeonato estadual de 2013, o número de gols\nmarcados pela equipe B era 52. O técnico dessa equipe\nfez um levantamento para saber quantos gols sua equipe\ndeveria marcar nos próximos jogos de modo que, ao\nfinal do campeonato, o número total de gols marcados\npela equipe B ultrapasse a média de gols marcados pela\nequipe A nos campeonatos de 2007 a 2012.",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/136/85d293c1-8fbd-4b34-a207-52f082685433.png"
+    ],
     "correctAlternative": "C",
     "alternativesIntroduction": "Quantos gols, no mínimo, a equipe B ainda precisaria marcar?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "2 B \t 6",
+            "text": "2",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "6",
             "file": null,
             "isCorrect": false
         },

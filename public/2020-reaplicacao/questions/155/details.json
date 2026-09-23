@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Se a tartaruga, a lesma e o caramujo apostassem uma corrida, a lesma chegaria em último lugar, o penúltimo\ncolocado seria o caramujo e a primeira seria a tartaruga. Segundo o biólogo americano Branley Allan Branson, a\nvelocidade “recorde” já registrada em pesquisas, por uma lesma, é de 16,5 centímetros por minuto.\n\nPara uma reportagem, dispondo das velocidades recordes da tartaruga e do caramujo em metro por segundo,\nse faz necessário saber o fator de conversão da velocidade recorde da lesma para metro por segundo para divulgar\numa comparação.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/155/3be0cac0-38fa-40cd-922d-cd932da14020.png",
+        "https://enem.dev/2020-reaplicacao/questions/155/38bce691-797e-42f8-a59b-5505e955377b.png",
+        "https://enem.dev/2020-reaplicacao/questions/155/2934cc83-d750-4ff7-b04c-306cf86e54f0.png",
+        "https://enem.dev/2020-reaplicacao/questions/155/a8da7e71-9b06-4b2f-abb4-a7a2a2a3b32b.png",
+        "https://enem.dev/2020-reaplicacao/questions/155/9a387dd1-8582-4893-8e40-07e1734210cb.png"
+    ],
     "correctAlternative": "B",
     "alternativesIntroduction": "Com base nas informações, o fator de conversão da velocidade recorde da lesma para metro por segundo é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/155/3be0cac0-38fa-40cd-922d-cd932da14020.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/155/38bce691-797e-42f8-a59b-5505e955377b.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/155/2934cc83-d750-4ff7-b04c-306cf86e54f0.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/155/a8da7e71-9b06-4b2f-abb4-a7a2a2a3b32b.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/155/9a387dd1-8582-4893-8e40-07e1734210cb.png",
             "isCorrect": false
         }
     ]

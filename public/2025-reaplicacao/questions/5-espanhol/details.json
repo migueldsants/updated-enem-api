@@ -4,40 +4,40 @@
     "year": 2025,
     "language": "espanhol",
     "discipline": "linguagens",
-    "context": "![](https://enem.dev/2025-reaplicacao/questions/5-espanhol/505d5ad7-0bd4-40fc-98e1-4d593005a0f1.png)\n\n\n\nDisponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 25 out. 2021 (adaptado).\nAo abordar o tema do trabalho doméstico, esse cartaz tem\no propósito de",
+    "context": "![](https://enem.dev/2025-reaplicacao/questions/5-espanhol/42531452-5d03-4764-b71a-4b0fd4a1bb41.png)\n\nAcesso em: 25 out. 2021 (adaptado).",
     "files": [
-        "https://enem.dev/2025-reaplicacao/questions/5-espanhol/505d5ad7-0bd4-40fc-98e1-4d593005a0f1.png"
+        "https://enem.dev/2025-reaplicacao/questions/5-espanhol/42531452-5d03-4764-b71a-4b0fd4a1bb41.png"
     ],
-    "correctAlternative": "D",
-    "alternativesIntroduction": null,
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao abordar o tema do trabalho doméstico, esse cartaz tem\no propósito de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "divulgar o dia dedicado a homenagear essa função.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "estimular a valorização das mulheres nessa função.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "apresentar dados estatísticos sobre essa atividade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "comparar a atuação de mulheres e homens no lar.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "analisar a economia relacionada a essa atividade.",
             "file": null,
             "isCorrect": false
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "Ca (s) + 2 H₂O (l) → Ca(OH)₂ (aq) + H₂ (g).",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "CaO (s) + H₂SO₄ (aq) → CaSO₄ (aq) + H₂O (l).",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "CaCO₃ (s) + H₂SO₄ (aq) → CaSO₄ (aq) + H₂O (l) + CO₂ (g).",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "CaSO₄ (s) + H₂SO₄ (aq) → Ca²⁺ (aq) + 2 H⁺ (aq) + 2 SO₄²⁻ (aq).",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "Ca(HCO₃)₂ (s) + 2 H₂O (l) → Ca(OH)₂ (aq) + 2 H₂O (l) + 2 CO₂ (g).",
             "file": null,
             "isCorrect": false
         }

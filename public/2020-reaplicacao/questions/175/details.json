@@ -4,39 +4,45 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "O governador de um estado propõe a ampliação de\ninvestimentos em segurança no transporte realizado por\nmeio de trens. Um estudo para um projeto de lei prevê que\nse tenha a presença de três agentes mulheres, distribuídas\nentre os 6 vagões de uma composição, de forma que\nduas dessas agentes não estejam em vagões adjacentes,\ngarantindo assim maior segurança aos usuários.\n\nDisponível em: www.sisgraph.com.br. Acesso em: 29 jan. 2015 (adaptado).\n\n2ª aplicação\nMT - 2° dia | Caderno 7 - AZUL - Página 29\n\nA expressão que representa a quantidade de maneiras\ndistintas das três agentes serem distribuídas nos vagões é",
-    "files": [],
+    "context": "O governador de um estado propõe a ampliação de\ninvestimentos em segurança no transporte realizado por\nmeio de trens. Um estudo para um projeto de lei prevê que\nse tenha a presença de três agentes mulheres, distribuídas\nentre os 6 vagões de uma composição, de forma que\nduas dessas agentes não estejam em vagões adjacentes,\ngarantindo assim maior segurança aos usuários.\n\nDisponível em: www.sisgraph.com.br. Acesso em: 29 jan. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/175/57e0ed9e-ef30-4359-a294-4752133e3b11.png",
+        "https://enem.dev/2020-reaplicacao/questions/175/8b008a12-757f-41e9-aebe-48f6fca79ecc.png",
+        "https://enem.dev/2020-reaplicacao/questions/175/142544d4-a64c-4809-b3e5-ecc54ee12bd4.png",
+        "https://enem.dev/2020-reaplicacao/questions/175/430edd42-b874-470f-84da-48231171d0fc.png",
+        "https://enem.dev/2020-reaplicacao/questions/175/c789677b-cbbe-4a71-b4a5-9149c5761505.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "3 4 + 3!",
+    "alternativesIntroduction": "A expressão que representa a quantidade de maneiras\ndistintas das três agentes serem distribuídas nos vagões é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/175/57e0ed9e-ef30-4359-a294-4752133e3b11.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/175/8b008a12-757f-41e9-aebe-48f6fca79ecc.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/175/142544d4-a64c-4809-b3e5-ecc54ee12bd4.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/175/430edd42-b874-470f-84da-48231171d0fc.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/175/c789677b-cbbe-4a71-b4a5-9149c5761505.png",
             "isCorrect": false
         }
     ]

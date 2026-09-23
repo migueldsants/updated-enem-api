@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "órgãos homólogos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "estruturas vestigiais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "testemunhos fósseis.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "vestígios moleculares.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "semelhanças anatômicas.",
             "file": null,
             "isCorrect": false
         }

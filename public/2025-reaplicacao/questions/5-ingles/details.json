@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "influência da ascendência africana.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "riqueza do léxico da língua espanhola.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "dificuldade com uma língua estrangeira.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "orgulho da ancestralidade porto-riquenha.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "desconhecimento da gastronomia caribenha.",
             "file": null,
             "isCorrect": false
         }

@@ -4,39 +4,46 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/154/aa8cb574-dad5-49a9-b46b-abed28451ad5.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/154/aa8cb574-dad5-49a9-b46b-abed28451ad5.png",
+        "https://enem.dev/2019-reaplicacao/questions/154/8fab802f-8a9d-4dbc-b545-d900f8f2179e.png",
+        "https://enem.dev/2019-reaplicacao/questions/154/7a03e054-e634-4208-afb2-ac43425f0101.png",
+        "https://enem.dev/2019-reaplicacao/questions/154/26bb1a92-b8ef-4366-a91b-24bdebc54c52.png",
+        "https://enem.dev/2019-reaplicacao/questions/154/0d234456-0320-4c5e-aaad-fa0f354f8b7c.png",
+        "https://enem.dev/2019-reaplicacao/questions/154/dabf2dc2-7b05-414b-abb3-726086fc3bdd.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Uma locadora possui disponíveis 120 veículos da categoria que um cliente pretende locar. Desses, 20% são da cor branca, 40% são da cor cinza, 16 veículos são da cor vermelha e o restante, de outras cores. O cliente não gosta da cor vermelha e ficaria contente com qualquer outra cor, mas o sistema de controle disponibiliza os veículos sem levar em conta a escolha da cor pelo cliente. Disponibilizando aleatoriamente, qual é a probabilidade de o cliente ficar contente com a cor do veículo?",
+    "alternativesIntroduction": "Uma locadora possui disponíveis 120 veículos da\ncategoria que um cliente pretende locar. Desses, 20%\nsão da cor branca, 40% são da cor cinza, 16 veículos\nsão da cor vermelha e o restante, de outras cores.\nO cliente não gosta da cor vermelha e ficaria contente\ncom qualquer outra cor, mas o sistema de controle\ndisponibiliza os veículos sem levar em conta a escolha\nda cor pelo cliente.\nDisponibilizando aleatoriamente, qual é a probabilidade\nde o cliente ficar contente com a cor do veículo?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/154/8fab802f-8a9d-4dbc-b545-d900f8f2179e.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/154/7a03e054-e634-4208-afb2-ac43425f0101.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/154/26bb1a92-b8ef-4366-a91b-24bdebc54c52.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/154/0d234456-0320-4c5e-aaad-fa0f354f8b7c.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/154/dabf2dc2-7b05-414b-abb3-726086fc3bdd.png",
             "isCorrect": true
         }
     ]

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "Pavimentação das vias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "Criação de espaços verdes.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "Verticalização das moradias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "Adensamento das construções.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "Assoreamento dos canais de drenagem.",
             "file": null,
             "isCorrect": false
         }

@@ -4,38 +4,38 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "\u0019\u0010\u0002 %\u0007\u0004P\n\t\t\u0004\u0007\u0002 \r\n\u0010\u0002 \f\u0010\b\u0002 \u000f\n\t%\n\t\b\u0002 \u0010\n\u0005\t\b2\u0002 \u000f\n\u0002 ®\u0002 \u000f\u0004\u0002\n\f\u0002 \t\b2?\u0007\u000e\u0004\u0002 \u001e\u0004\u0010\u0002 \r\u0007\b\u0005\t%\u0004\u0007\r\n\u0002\n\u0002 ®\u0002 \u001e\u0004\u0010\u0002 \b2\u000e\u0010\n\u0005\r\b'\u001d\u0004(\u0002\n\n\u0016\u0004\u0002%\u0007B@\u000e\u0010\u0004\u0002\u0010>\t$\u0002\u0004\t\u0002#\b2\u0004\u0007\n\t\u0002\u000f\n\n\t\u0002J\b\t\r\u0004\t\u0002\t\u0004P\u0007\n\u0007\u001d\u0004\u0002\b\f\u0010\n\u0005\r\u0004\t\u0002\u000f\n\u0002®\u0002\n\u0002®$\u0002\u0007\n\t%\n\u001e\r\u000e#\b\u0010\n\u0005\r\n$\u0002\u0010\b\t\u0002\u0004\u0002\n\f\u0002\t\b2?\u0007\u000e\u0004\u0002\n\n\u0005\u001d\u0004\u0002\r\n\u0007?\u0002\u0007\n\b\"\f\t\r\n(\u0002\u0003\u0004\u0010\u0002\n\n\t\u0002\b\f\u0010\n\u0005\r\u0004\t$\u0002\t\f\b\t\u0002\u000f\n\t%\n\t\b\t\u0002\u001e\u0004\u0010\u0002\r\u0007\b\u0005\t%\u0004\u0007\r\n\u0002\n\u0002\b2\u000e\u0010\n\u0005\r\b'\u001d\u0004\u0002\b\f\u0010\n\u0005\r\b\u0007\u001d\u0004\u0002\n\u0010\u0002\u0015·\u0002&$(",
+    "context": null,
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "O salário mensal desse professor é de",
+    "alternativesIntroduction": "Um professor tem uma despesa mensal de 10% do seu salário com transporte e 30% com alimentação.\nNo próximo mês, os valores desses gastos sofrerão aumentos de 10% e 20%, respectivamente, mas o seu salário\nnão terá reajuste. Com esses aumentos, suas despesas com transporte e alimentação aumentarão em R$ 252,00.\nO salário mensal desse professor é de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "R$ 840,00.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "R$ 1 680,00.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "R$ 2 100,00.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "R$ 3 600,00.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "R$ 5 200,00.",
             "file": null,
             "isCorrect": false
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "reportagem sobre artistas brasileiros que tematizam a língua portuguesa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "notícia do lançamento de uma série sobre as línguas faladas no Brasil.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "artigo de opinião sobre a importância dos dialetos falados no país.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "ensaio acadêmico sobre a diversidade linguística brasileira.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "artigo de divulgação científica da área de Letras.",
             "file": null,
             "isCorrect": false
         }

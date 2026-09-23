@@ -4,38 +4,42 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "\u0017\u0002\u001e\u0007\n\t\u001e\u000e\u0010\n\u0005\r\u0004\u0002\u000f\n\u0002\f\u0010\b\u0002%\u0004%\f2\b'\u001d\u0004\u0002\u000f\n\u0002\u0010\u000e\u001e\u0007\u0004\u0007J\b\u0005\u000e\t\u0010\u0004\t\u0002\n\nt\n( )\n81 3\n2\n\n1\n3\n, em que K (t)\n\n^\u0002\u000f\n\t\u001e\u0007\u000e\r\u0004\u0002%\n2\b\u0002\n@%\u0007\n\t\t\u001d\u0004\u0002K t\n\nindica a quantidade de microrganismos em um meio de\n\n2\r\f\u0007\b\u0002\n\u0010\u0002 P\f\u0005'\u001d\u0004\u0002 \u000f\u0004\u0002 \r\n\u0010%\u0004\u0002 t(\u0002 \u0017\u0002 J\u0007?\u0006\u001e\u0004\u0002 \u0007\n%\u0007\n\n\u0005\r\b\u0002 \b\u0002\n\n#\u00042\f'\u001d\u0004\u0002\u000f\n\u0002K\u0002\n\u0010\u0002\u0007\n2\b'\u001d\u0004\u0002\b\u0004\u0002\r\n\u0010%\u0004\u0002t.\n\n0\nm\nt",
-    "files": [],
+    "context": "![](https://enem.dev/2021-reaplicacao/questions/164/7370e39d-fa5f-4258-987e-5671a35d050a.png)\n\n6 563\n\n![](https://enem.dev/2021-reaplicacao/questions/164/ff89716a-de55-49ce-b714-433fa83aa255.png)\n\nCom base nos dados, o valor de m é",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/164/7370e39d-fa5f-4258-987e-5671a35d050a.png",
+        "https://enem.dev/2021-reaplicacao/questions/164/ff89716a-de55-49ce-b714-433fa83aa255.png",
+        "https://enem.dev/2021-reaplicacao/questions/164/a84ee277-de01-42cc-9de5-3d8b8b672443.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Com base nos dados, o valor de m é",
+    "alternativesIntroduction": "_",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2021-reaplicacao/questions/164/a84ee277-de01-42cc-9de5-3d8b8b672443.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "_",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "__",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "12",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "81",
             "file": null,
             "isCorrect": false
         }

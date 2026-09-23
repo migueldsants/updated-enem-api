@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "O estado de qualquer substância gasosa é\ndeterminado pela medida de três grandezas: o volume (V ),\na pressão (P ) e a temperatura (T ) dessa substância.\nPara os chamados gases “ideais”, o valor do quociente\n\n⋅\n é sempre constante. Considere um reservatório que\n\nestá cheio de um gás ideal. Sem vazar o gás, realiza-se\numa compressão do reservatório, reduzindo seu volume à\nmetade. Ao mesmo tempo, uma fonte de calor faz a\ntemperatura do gás ser quadruplicada. Considere P0 e P1\nrespectivamente, os valores da pressão do gás no\nreservatório, antes e depois do procedimento descrito.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/157/a9e6d12c-1e88-44c5-97ba-3c5d2ccd0d15.png",
+        "https://enem.dev/2017-reaplicacao/questions/157/ddb1f6bf-57d9-46ee-af48-b1e23a4d6370.png",
+        "https://enem.dev/2017-reaplicacao/questions/157/851e7b60-6553-41ae-9e16-e511a03c2abe.png",
+        "https://enem.dev/2017-reaplicacao/questions/157/4ccdaacc-3ead-4ca4-b804-04fb80b7bc51.png",
+        "https://enem.dev/2017-reaplicacao/questions/157/190d5fd4-9782-4efd-af90-dc4c422ec26d.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A relação entre P0 e P1 é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/157/a9e6d12c-1e88-44c5-97ba-3c5d2ccd0d15.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/157/ddb1f6bf-57d9-46ee-af48-b1e23a4d6370.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/157/851e7b60-6553-41ae-9e16-e511a03c2abe.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/157/4ccdaacc-3ead-4ca4-b804-04fb80b7bc51.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/157/190d5fd4-9782-4efd-af90-dc4c422ec26d.png",
             "isCorrect": true
         }
     ]

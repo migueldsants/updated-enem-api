@@ -4,39 +4,41 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
-    "context": "TEXTO I\nFrevo: Dança de rua e de salão, é a grande alucinação\ndo Carnaval pernambucano. Trata-se de uma marcha\nde ritmo frenético, que é a sua característica principal.\n(\u0003D\u0003PXOWLGmR\u0003RQGXODQGR\u000f\u0003QRV\u0003PHQHLRV\u0003GD\u0003GDQoD\u000f\u0003¿FD\u0003D\u0003\nferver. E foi dessa ideia de fervura (o povo pronuncia\nfrevura, frever) que se criou o nome frevo.\n\nCASCUDO, L. C. Dicionário do folclore brasileiro\u0011\u00036mR\u00033DXOR\u001d\u0003*OREDO\u000f\u0003\u0015\u0013\u0013\u0014\u0003\u000bDGDSWDGR\f\u0011\n\nFrevo é Patrimônio Imaterial da Humanidade\n O frevo, ritmo genuinamente pernambucano, agora é\ndo mundo. A música que hipnotiza milhões de foliões e dá\nR\u0003WRP\u0003GR\u0003&DUQDYDO\u0003QR\u0003HVWDGR\u0003IRL\u0003R¿FLDOPHQWH\u0003UHFRQKHFLGD\u0003\ncomo Patrimônio Imaterial da Humanidade. O anúncio\nfoi feito em Paris, nesta quarta-feira, durante cerimônia\nda Organização das Nações Unidas para a Educação, a\nCiência e a Cultura (Unesco).\n\nDisponível em: www.diariodepernambuco.com.br. Acesso em: 14 jun. 2015.\nApesar de abordarem o mesmo tema, os textos I e II\ndiferenciam-se por pertencerem a gêneros que cumprem,\nrespectivamente, a função social de",
-    "files": [],
+    "context": "TEXTO I\nFrevo: Dança de rua e de salão, é a grande alucinação\ndo Carnaval pernambucano. Trata-se de uma marcha\nde ritmo frenético, que é a sua característica principal.\nE a multidão ondulando, nos meneios da dança, fica a\nferver. E foi dessa ideia de fervura (o povo pronuncia\nfrevura, frever) que se criou o nome frevo.\n\nCASCUDO, L. C. Dicionário do folclore brasileiro. São Paulo: Global, 2001 adaptado .\n\nTEXTO II\n\nFrevo é Patrimônio Imaterial da Humanidade\nO frevo, ritmo genuinamente pernambucano, agora é\ndo mundo. A música que hipnotiza milhões de foliões e dá\no tom do Carnaval no estado foi oficialmente reconhecida\ncomo Patrimônio Imaterial da Humanidade. O anúncio\nfoi feito em Paris, nesta quarta-feira, durante cerimônia\nda Organização das Nações Unidas para a Educação, a\nCiência e a Cultura (Unesco).\n\nDisponível em: www.diariodepernambuco.com.br. Acesso em: 14 jun. 2015.",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/30/21fc587f-3ca5-46fb-8b66-324412cc5f68.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Apesar de abordarem o mesmo tema, os textos I e II\ndiferenciam-se por pertencerem a gêneros que cumprem,\nrespectivamente, a função social de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "resumir e avaliar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "analisar e reportar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "definir e informar.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "comentar e explanar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/30/21fc587f-3ca5-46fb-8b66-324412cc5f68.png",
             "isCorrect": false
         }
     ]

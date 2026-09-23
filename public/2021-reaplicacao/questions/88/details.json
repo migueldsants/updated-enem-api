@@ -4,38 +4,38 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "\u001a//§\u0005\u0005F\u0011\u0005\u0011\t\u0011\u0005\b\f\f\b\u000f\u0002\b\u0005\u0007\u0004\u0005\u0003\t8\u0003\u0005\u0010\u0011\u0005\u0007\u0004\u0005\u0011\u0006\u0002\f\b\u001d\u0003\u0005\b\t8\u0011\n\u0003\u000e\u0005\n\u0003\u0007\u0005\u0017\u0007\u0011&\f\b\u0005\u0007\u0004\u0005\u0003\u0006\u0006\u0003\u0005\b\u0003\u0005\u0011\u0006\u0002\f\b\u001d\u0003\u0005\b\t8\u0011\n\u0003\u000e\u0005\u0010\u0011\u001d\u0011\f\u001f\u0005(\b\u000b\b\f\u0005\b\u0005\n\u0004\u0011\u0012\b\u0010\u0011\u0005\u0010\u0011\u0005\u0006\u0011\u0007\u0005(\f\u0011*\u00034\n\n\"#\u0010\n\u000b\u0003\u0005\u0010\u0011\u00053\b\u0004\u0007\f\b&\n4\u0005<\n\u0006(\u0003\u000f5\u001d\u0011\t\u0005\u0011\u0004\u0015\u0005```4\u00108\u000f\u0011\u00124\u0003\f\u000b4&\f4\u0005;\u0002\u0011\u0006\u0006\u0003\u0005\u0011\u0004\u0015\u0005.\u0005\u0010\u0011x4\u0005{\u0019\u001a~4\n\nCH - 1° dia | Caderno 1 - AZUL - 2ª Aplicação",
+    "context": "196º — Se alguém arranca o olho a um outro, se lhe\ndeverá arrancar o olho.\n\n197º — Se ele quebra o osso a um outro, se lhe\ndeverá quebrar o osso.\n\n198º — Se ele arranca o olho de um liberto, deverá\npagar uma mina.\n\n199º — Se ele arranca um olho de um escravo alheio,\nou quebra um osso ao escravo alheio, deverá pagar a\nmetade de seu preço.\n\nCódigo de Hamurabi. Disponível em: www.dhnet.org.br. Acesso em: 6 dez. 2017.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "=\u0006\u0006\u0011\u0005\u0012 \u0011\u00028\u0003\u0005\b( \u0011\u0006\u0011\u000f\u0012\b\u0005\u0007\u0004\b\u0005\u0002\b \b\u0002\u0012\u0011 5\u0006\u0012 \u0002\b\u0005\u0010\u0011\u0005\u0007\u0004\u0005\u0002#\u0010 \u0003\u0005 \u0011 \b \u0005 \u0011 \b&\u0003 \b\u0010\u0003\u0005 \u000f\u0003\u0005 \u0002\u0003\u000f\u0012\u0011W\u0012\u0003\u0005 \u0010\b\u0005 ;\u000f\u0012 \u0007 \u0010\b\u0010\u0011\u0005 ? \u0011\u000f\u0012\b \u0005 \u0011W( \u0002 \u0012\b\u0010\b\u0005\u000f\u00037\b\u0016",
+    "alternativesIntroduction": "Esse trecho apresenta uma característica de um código\nlegal elaborado no contexto da Antiguidade Oriental\nexplicitada no(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "recusa do direito natural para expressão da vontade divina.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "caracterização do objeto do delito para a definição da pena.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "engajamento da coletividade para a institucionalização da justiça.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "flexibilização das normas para garantia do arbítrio dos magistrados.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "cerceamento da possibilidade de defesa para preservação da autoridade.",
             "file": null,
             "isCorrect": false
         }

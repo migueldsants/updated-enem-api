@@ -4,38 +4,41 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma indústria recortou uma placa de metal no\nformato triangular ABC, conforme Figura 1, com lados\n18, 14 e 12 cm.",
-    "files": [],
+    "context": "Uma indústria recortou uma placa de metal no\nformato triangular ABC, conforme Figura 1, com lados\n18, 14 e 12 cm.\n\n![](https://enem.dev/2021-reaplicacao/questions/154/c238a9a8-f622-49cf-9b8c-d948b1593a03.png)",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/154/c238a9a8-f622-49cf-9b8c-d948b1593a03.png",
+        "https://enem.dev/2021-reaplicacao/questions/154/4f4a9653-00a3-41cb-b0a5-387e72d23fe3.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Posteriormente, a peça triangular ABC foi dobrada, de tal maneira que o vértice B\u0002\u0006 \u0004 \u0002 \u0004!\u0007 \u0002\u0004\u0002 J\u0010 \u0005 \u0004\u0002 AC, e o segmento DE\u0002\u0006 \u0004 \u0002%\b\u0007\b2 2\u0004\u0002\b\u0004\u00022\b\u000f\u0004\u0002AC, conforme Figura 2.",
+    "alternativesIntroduction": "B",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2021-reaplicacao/questions/154/4f4a9653-00a3-41cb-b0a5-387e72d23fe3.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "A C Figura 1 D E",
+            "text": "20",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "21",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "23",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "24",
             "file": null,
             "isCorrect": false
         }

@@ -4,38 +4,41 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "Um reservatório de água é abastecido por uma\ntorneira ao mesmo tempo que, por um ralo, escoa\nágua de seu interior. Os gráficos representam as\nvazões Q, em litro por minuto, da torneira e do ralo,\nem função do tempo t, em minuto.\n\nQ (L/min)\n               Torneira\n\nt (min)\n25\n0\n\n5\n10\n15\n20\n\nRalo\n\nQ (L/min)\n\nt (min)\n\n25\n0\n\n5\n10\n15\n20",
-    "files": [],
+    "context": "Um reservatório de água é abastecido por uma\ntorneira ao mesmo tempo que, por um ralo, escoa\nágua de seu interior. Os gráficos representam as\nvazões Q, em litro por minuto, da torneira e do ralo,\nem função do tempo t, em minuto.\n\nQ (L/min) Torneira\n\n![](https://enem.dev/2020-reaplicacao/questions/163/c4e17582-a4ab-4ec6-9992-cb3b97b23a63.png)\n\nt (min)\n\nQ (L/min) o~äç\n\n![](https://enem.dev/2020-reaplicacao/questions/163/37ad34c2-6413-4fc7-a274-3e7a5f7a7c1e.png)\n\nt (min)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/163/c4e17582-a4ab-4ec6-9992-cb3b97b23a63.png",
+        "https://enem.dev/2020-reaplicacao/questions/163/37ad34c2-6413-4fc7-a274-3e7a5f7a7c1e.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Nos primeiros 25 minutos, o(s) intervalo(s) de tempo em que o volume de água nesse reservatório decresce é(são)",
+    "alternativesIntroduction": "Nos primeiros 25 minutos, o(s) intervalo(s) de tempo em\nque o volume de água nesse reservatório decresce é(são)",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "entre 15 e 20 minutos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "entre 15 e 25 minutos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "entre 0 e 5 minutos e entre 15 e 20 minutos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "entre 5 e 15 minutos e entre 20 e 25 minutos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "entre 0 e 5 minutos, entre 10 e 15 minutos e entre 20 e 25 minutos.",
             "file": null,
             "isCorrect": false
         }

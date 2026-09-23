@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "fomentar a reflexão crítica.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "limitar o acirramento político.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "restringir o avanço da oposição.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "difundir o crescimento econômico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "promover a unificação do pensamento.",
             "file": null,
             "isCorrect": false
         }

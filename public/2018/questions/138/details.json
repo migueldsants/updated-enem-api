@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": "X = 0",
+            "text": "x = 0",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Y = 0",
+            "text": "y = 0",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "X² + y² =16",
+            "text": "x² + y² = 16",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "X² + (y-2)² = 4",
+            "text": "x² + (y − 2)² = 4",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "(x -2 )² + ( y - 2 )² = 8",
+            "text": "(x − 2)² + (y − 2)² = 8",
             "file": null,
             "isCorrect": true
         }

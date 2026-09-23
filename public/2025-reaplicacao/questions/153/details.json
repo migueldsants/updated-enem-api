@@ -4,38 +4,40 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "Os dados apresentados indicam os volumes médios de chuva\nnos diversos meses do ano em um município, onde as médias\nclimatológicas são valores calculados com base em uma série\nde dados observados ao longo de 30 anos.\n\nMês\nPrecipitação pluviométrica (mm)\n\nJaneiro\n237\n\nFevereiro\n222\n\nMarço\n161\n\nAbril\n73\n\nMaio\n71\n\nJunho\n50\n\nJulho\n44\n\nAgosto\n40\n\nSetembro\n71\n\nOutubro\n127\n\nNovembro\n143\n\nDezembro\n201",
-    "files": [],
+    "context": "Os dados apresentados indicam os volumes médios de chuva\nnos diversos meses do ano em um município, onde as médias\nclimatológicas são valores calculados com base em uma série\n\n![](https://enem.dev/2025-reaplicacao/questions/153/e5987c7e-8c62-4763-a674-cf7cc185a171.png)",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/153/e5987c7e-8c62-4763-a674-cf7cc185a171.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A mediana da distribuição das médias das precipitações pluviométricas mensais descritas no quadro, expressa em milímetro, é",
+    "alternativesIntroduction": "A mediana da distribuição das médias das precipitações\npluviométricas mensais descritas no quadro, expressa em\nmilímetro, é",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "120.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "100.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "73.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "50.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "47.",
             "file": null,
             "isCorrect": false
         }

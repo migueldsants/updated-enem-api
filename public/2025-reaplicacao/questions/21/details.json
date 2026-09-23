@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "busca da compreensão de seus métodos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "distanciamento da cultura da competição.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "relevância do contexto social nessa prática.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "incentivo à adoção de uma postura pacífica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "benefício da institucionalização dessa atividade.",
             "file": null,
             "isCorrect": false
         }

@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "640,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "670,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "790,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "820,00",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "830,00",
             "file": null,
             "isCorrect": false
         }

@@ -4,38 +4,38 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O consumo excessivo de sal de cozinha é responsável\n%\u0004\u0007\u0002 #?\u0007\u000e\b\t\u0002 \u000f\u0004\n\u0005'\b\t$\u0002\n\u0005\r\u0007\n\u0002\n2\b\t\u0002 \b\u0002 +\u000e%\n\u0007\r\n\u0005\t\u001d\u0004\u0002 \b\u0007\r\n\u0007\u000e\b2(\u0002\nO sal rosa é uma novidade culinária pelo seu baixo teor\nde sódio se comparado a de outros sais. Cada 1 g desse\nsal contém cerca de 230 mg de sódio contra os cerca de\n400 mg de sódio encontrados nessa mesma quantidade\n\u000f\n\u0002\f\u0010\u0002\t\b2\u0002\u000f\n\u0002\u001e\u0004\u000e\u0005+\b\u0002\r\u0007\b\u000f\u000e\u001e\u000e\u0004\u0005\b2(\u0002\u0014\t\r\u000e\u0010\b/\n\u0002\u000b\f\n\u0002\u0005\u0004\u0002¤\u0007\b\t\u000e2\u0002\na dose diária de consumo de sal de cozinha seja de 12 g,\ne a dose máxima  recomendada é de menos de 5 g por\n\u000f\u000e\b(\u0002\u0003\u0004\u0005\t\u000e\u000f\n\u0007\n\u0002\b\u0002\u0010\b\t\t\b\u0002\u0010\u00042\b\u0007\u0002\u000f\u0004\u0002\tB\u000f\u000e\u0004\u0002\u000eJ\f\b2\u0002\b\u0002\u0002J\u0010\u00042(",
+    "context": "O consumo excessivo de sal de cozinha é responsável\npor várias doenças, entre elas a hipertensão arterial.\nO sal rosa é uma novidade culinária pelo seu baixo teor\nde sódio se comparado a de outros sais. Cada 1 g desse\nsal contém cerca de 230 mg de sódio contra os cerca de\n400 mg de sódio encontrados nessa mesma quantidade\nde um sal de cozinha tradicional. Estima-se que no Brasil\na dose diária de consumo de sal de cozinha seja de 12 g,\ne a dose máxima recomendada é de menos de 5 g por\ndia. Considere a massa molar do sódio igual a 23 g/mol.\n\nMILL, J. G. et al. Estimativa do consumo de sal pela população brasileira: resultado da\nPesquisa Nacional de Saúde 2013. Rev. Bras. Epidemiol., n. 22, 2019 (adaptado).",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "77$\u0002¬(\u0002(\u0002 \u0002\b2(\u0002\u0014 \u000e\u0010\b \u000e#\b\u0002\u000f\u0004\u0002 \u0004\u0005 \u0010\u0004\u0002\u000f \u0002 \b2\u0002% 2\b\u0002%\u0004% 2\b' \u0004\u0002!\u0007\b \u000e2 \u000e\u0007\bI\u0002\u0007 2 \b\u000f\u0004\u0002\u000f\b\u0002",
+    "alternativesIntroduction": "Considerando-se a dose estimada de consumo de sal de\ncozinha no Brasil, em 30 dias um indivíduo que substituir\no sal de cozinha tradicional pelo sal rosa promove uma\nredução na quantidade de sódio ingerida, em mol, mais\npróxima de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "1,1.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "2,7.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "3,6.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "6,3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "9,9.",
             "file": null,
             "isCorrect": false
         }

@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "apresentar a temática da campanha.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "sensibilizar o público a aderir à campanha.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "destacar o contexto de lançamento da campanha.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "valorizar a linguagem utilizada nos materiais da campanha.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "garantir a comunicação entre os participantes da campanha.",
             "file": null,
             "isCorrect": false
         }

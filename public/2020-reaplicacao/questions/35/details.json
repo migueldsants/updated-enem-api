@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "a representação de trabalhadores do campo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "as retas em detrimento dos círculos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "os padrões tradicionais nacionalistas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "a representação por formas geométricas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "os padrões e objetos mecânicos.",
             "file": null,
             "isCorrect": false
         }

@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "criticar a alienação das crianças promovida pela forte presença das mídias de massa em seu cotidiano.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "alertar os pais sobre a má influência das tecnologias para o desenvolvimento infantil.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "satirizar o nível de criatividade de meninos isolados do convívio com seu grupo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "condenar o uso recorrente de aparatos eletrônicos pelos jovens na atualidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "censurar o comportamento dos pais em relação à educação dada aos filhos.",
             "file": null,
             "isCorrect": false
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "construção de hábitos sociais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "introdução de medidas sanitárias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "ampliação das refeições familiares.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "valorização da cultura renascentista.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "incorporação do comportamento laico.",
             "file": null,
             "isCorrect": false
         }

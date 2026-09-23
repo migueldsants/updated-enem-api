@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": "V = 0 e a ≠ 0 para cima.",
+            "text": "v = 0 e a ≠ 0 para cima.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "V ≠ 0 para cima e a = 0",
+            "text": "v ≠ 0 para cima e a = 0.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "V = 0 e a ≠ 0 para baixo.",
+            "text": "v = 0 e a ≠ 0 para baixo.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "V ≠ 0 para cima e a ≠ 0 para cima.",
+            "text": "v ≠ 0 para cima e a ≠ 0 para cima.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "V ≠ 0 para baixo e a ≠ 0 para baixo.",
+            "text": "v ≠ 0 para baixo e a ≠ 0 para baixo.",
             "file": null,
             "isCorrect": false
         }

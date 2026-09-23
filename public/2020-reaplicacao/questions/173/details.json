@@ -4,39 +4,44 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "A prefeitura de uma cidade está renovando os\ncanteiros de flores de suas praças. Entre as possíveis\nvariedades que poderiam ser plantadas, foram escolhidas\ncinco: amor-perfeito, cravina, petúnia, margarida e lírio.\nEm cada um dos canteiros, todos com composições\ndiferentes, serão utilizadas somente três variedades\ndistintas, não importando como elas serão dispostas.",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/173/018a32b0-fc23-4161-8e29-0e005422fa2b.png",
+        "https://enem.dev/2020-reaplicacao/questions/173/28d21786-59dd-4fc1-bc63-a189edfe2f32.png",
+        "https://enem.dev/2020-reaplicacao/questions/173/36da81b4-1bc0-49fe-9183-5fcaf29ef96c.png",
+        "https://enem.dev/2020-reaplicacao/questions/173/0117279c-9c13-4f9c-bff4-6f625da319b3.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Um funcionário deve determinar os trios de variedades\nde flores que irão compor cada canteiro.\nDe acordo com o disposto, a quantidade de trios possíveis\né dada por",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "5",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/173/018a32b0-fc23-4161-8e29-0e005422fa2b.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/173/28d21786-59dd-4fc1-bc63-a189edfe2f32.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/173/36da81b4-1bc0-49fe-9183-5fcaf29ef96c.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/173/0117279c-9c13-4f9c-bff4-6f625da319b3.png",
             "isCorrect": true
         }
     ]

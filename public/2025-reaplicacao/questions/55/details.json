@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "expansão do consumo interno.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "diminuição da população urbana.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "desigualdade na estrutura social.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "estagnação na produção nacional.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "dependência da atividade primária.",
             "file": null,
             "isCorrect": false
         }

@@ -7,35 +7,35 @@
     "context": null,
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Os compostos iônicos CaCO3 e NaCl têm solubilidades muito diferentes em água. Enquanto o carbonato de cálcio, principal constituinte do mármore, é praticamente insolúvel em água, o sal de cozinha é muito solúvel. A solubilidade de qualquer sal é o resultado do balanço entre a energia de rede (energia necessária para separar completamente os íons do sólido cristalino) e a energia envolvida na +\u000e\u000f\u0007\b \b' \u0004\u0002\u000f\u0004 \u0002G\u0004\u0005 \u0002\u000f\u000e % \u0007 \u0004 \u0002 \u0010\u0002 \u00042 ' \u0004( \u0014\u0010\u0002\u0007 2\b' \u0004\u0002*\u0002 \u0005 \u0007J\u000e\b\u0002\u000f \u0002\u0007 \u000f $\u0002\b\u0002\u0010 \u0005\u0004\u0007\u0002 \u00042 !\u000e2\u000e\u000f\b\u000f \u0002\u000f\u0004\u0002 primeiro composto é explicada pelo fato de ele apresentar maior",
+    "alternativesIntroduction": "Os compostos iônicos CaCO₃ e NaCl têm solubilidades\nmuito diferentes em água. Enquanto o carbonato de cálcio,\nprincipal constituinte do mármore, é praticamente insolúvel\nem água, o sal de cozinha é muito solúvel. A solubilidade\nde qualquer sal é o resultado do balanço entre a energia\nde rede (energia necessária para separar completamente\nos íons do sólido cristalino) e a energia envolvida na\nhidratação dos íons dispersos em solução.\nEm relação à energia de rede, a menor solubilidade do\nprimeiro composto é explicada pelo fato de ele apresentar\nmaior",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "atração entre seus íons.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "densidade do sólido iônico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "energia de ionização do cálcio.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "eletronegatividade dos átomos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "polarizabilidade do íon carbonato.",
             "file": null,
             "isCorrect": false
         }

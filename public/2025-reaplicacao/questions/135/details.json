@@ -4,38 +4,40 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "tempo dispendido para encontrar o alimento (em segundo)\n\nLinhagem\n\n1\n89\n75\n57\n32\n29\n28\n26\n27\n\n2\n92\n78\n51\n48\n30\n27\n27\n29\n\n3\n89\n73\n49\n43\n29\n29\n27\n91\n\n4\n89\n74\n48\n42\n29\n28\n26\n90",
-    "files": [],
+    "context": "Um experimento foi realizado para investigar se planárias são capazes de manter memórias antigas em outras estruturas do\ncorpo, além dos gânglios cerebrais. Quatro linhagens diferentes desses animais foram colocadas em um recinto aberto e treinadas\ndiariamente, durante uma semana, para acharem o ponto onde o alimento estava armazenado. Do dia 1 ao dia 7, foi medido o\ntempo dispendido pelos animais para encontrarem o alimento. No final do sétimo dia, as cabeças das planárias foram retiradas\ne, após 14 dias, novos gânglios cerebrais haviam sido formados. Após a regeneração, no dia 21, os cientistas recolocaram as\nplanárias no mesmo ambiente do início do experimento e mediram o tempo que elas levaram para achar o alimento. A tabela\napresenta os resultados do experimento.\n\n![](https://enem.dev/2025-reaplicacao/questions/135/0721d2cf-38ef-43d0-b140-3cb666637885.png)",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/135/0721d2cf-38ef-43d0-b140-3cb666637885.png"
+    ],
     "correctAlternative": "A",
     "alternativesIntroduction": "Quais linhagens são capazes de armazenar informações em outras estruturas corporais, além dos gânglios cerebrais?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "1 e 2",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "3 e 4",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "1 e 4",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "2 e 3",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "1, 3 e 4",
             "file": null,
             "isCorrect": false
         }

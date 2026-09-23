@@ -4,38 +4,38 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
-    "context": "Fazer 70 anos\n\nFazer 70 anos não é simples.\nA vida exige, para o conseguirmos,\nperdas e perdas no íntimo do ser,\ncomo, em volta do ser, mil outras perdas.\n[...]\nÓ José Carlos, irmão-em-Escorpião!\nNós o conseguimos...\nE sorrimos\nde uma vitória comprada por que preço?\nQuem jamais o saberá?\n\nANDRADE, C. D. Amar se aprende amando. São Paulo:\n\nCírculo do Livro, 1992 (fragmento).",
+    "context": "Fazer 70 anos\nFazer 70 anos não é simples.\nA vida exige, para o conseguirmos,\nperdas e perdas no íntimo do ser,\ncomo, em volta do ser, mil outras perdas.\n[...]\nÓ José Carlos, irmão-em-Escorpião!\nNós o conseguimos...\nE sorrimos\nde uma vitória comprada por que preço?\nQuem jamais o saberá?\n\nANDRADE, C. D. Amar se aprende amando. São Paulo:\nCírculo do Livro, 1992 (fragmento).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "2\u0003 SURQRPH\u0003 REOtTXR\u0003 ³R´\u000f\u0003 QRV\u0003 YHUVRV\u0003 ³$\u0003 YLGD\u0003 H[LJH\u000f\u0003 SDUD\u0003 o\u0003 FRQVHJXLUPRV´\u0003 H\u0003 ³1yV\u0003 o\u0003 FRQVHJXLPRV´\u000f\u0003 JDUDQWH\u0003 a progressão temática e o encadeamento textual, recuperando o segmento",
+    "alternativesIntroduction": "O pronome oblíquo “o”, nos versos “A vida exige, para\no conseguirmos” e “Nós o conseguimos”, garante\na progressão temática e o encadeamento textual,\nrecuperando o segmento",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "“Ó José Carlos”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "“perdas e perdas”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "“A vida exige”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "“Fazer 70 anos”.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "“irmão-em-Escorpião”.",
             "file": null,
             "isCorrect": false
         }

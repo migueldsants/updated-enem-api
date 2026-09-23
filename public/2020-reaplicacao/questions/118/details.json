@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "cálcio, porque sua hidrólise produz H⁺, que aumenta",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "amônio, porque sua hidrólise produz H⁺, que",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "sódio, porque sua hidrólise produz OH⁻, que aumenta",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "sulfato, porque sua hidrólise produz OH⁻, que",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "carbonato, porque sua hidrólise produz OH⁻, que",
             "file": null,
             "isCorrect": true
         }

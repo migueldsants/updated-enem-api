@@ -4,39 +4,45 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma empresa produziu uma bola de chocolate,\nem formato esférico, para utilizar na decoração de sua\nloja. Essa bola tem 20 cm de diâmetro externo, sendo oca\npor dentro, e a medida da espessura entre as superfícies\ninterna e externa corresponde a 1 cm. Considere que,\nna confecção dessa bola, foi utilizado um tipo de chocolate\nem que 1 g equivale a 0,75 cm³.\n\nA quantidade de chocolate, em grama, utilizado na confecção\ndessa bola é\n\n76\n3\nπ",
-    "files": [],
+    "context": "Uma empresa produziu uma bola de chocolate,\nem formato esférico, para utilizar na decoração de sua\nloja. Essa bola tem 20 cm de diâmetro externo, sendo oca\npor dentro, e a medida da espessura entre as superfícies\ninterna e externa corresponde a 1 cm. Considere que,\nna confecção dessa bola, foi utilizado um tipo de chocolate\nem que 1 g equivale a 0,75 cm³.\n\nA quantidade de chocolate, em grama, utilizado na confecção\ndessa bola é",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/159/8bf475ab-0b29-4ba0-b0e7-4cee6514a6cd.png",
+        "https://enem.dev/2023-reaplicacao/questions/159/4cfc85dd-e20c-4f26-921c-6f262c0bc220.png",
+        "https://enem.dev/2023-reaplicacao/questions/159/998e12c0-2170-4619-beaf-558c045aa9a7.png",
+        "https://enem.dev/2023-reaplicacao/questions/159/d7e7ea91-1482-478c-b0cc-36186de93655.png",
+        "https://enem.dev/2023-reaplicacao/questions/159/20241fae-745c-442a-931f-3598dfb70e3a.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "76π",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/159/8bf475ab-0b29-4ba0-b0e7-4cee6514a6cd.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/159/4cfc85dd-e20c-4f26-921c-6f262c0bc220.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/159/998e12c0-2170-4619-beaf-558c045aa9a7.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/159/d7e7ea91-1482-478c-b0cc-36186de93655.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/159/20241fae-745c-442a-931f-3598dfb70e3a.png",
             "isCorrect": false
         }
     ]

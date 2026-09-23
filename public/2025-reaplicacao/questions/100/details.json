@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "baixa imunidade do hospedeiro.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "alta capacidade de mutação dos vírus.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "pouco tempo de relação entre o vírus e o hospedeiro.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "acúmulo de substâncias tóxicas nos vírus emergentes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "grau elevado de especificidade dos vírus com o hospedeiro.",
             "file": null,
             "isCorrect": false
         }

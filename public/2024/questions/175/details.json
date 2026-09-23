@@ -6,39 +6,42 @@
     "discipline": "matematica",
     "context": "Uma indústria faz uma parceria com uma distribuidora\nde sucos para lançar no mercado dois tipos de\nembalagens. Para a fabricação dessas embalagens,\na indústria dispõe de folhas de alumínio retangulares,\nde dimensões 10 cm por 20 cm. Cada uma dessas\nfolhas é utilizada para formar a superfície lateral da\nembalagem, em formato de cilindro circular reto, que\nposteriormente recebe fundo e tampa circulares. A figura\nilustra, dependendo de qual das duas extensões será\nutilizada como altura, as duas opções para formar a\npossível embalagem.\n\n![](https://enem.dev/2024/questions/175/ad9a2a9e-5cba-4c7c-a143-8baa3bfa1c3d.png)",
     "files": [
-        "https://enem.dev/2024/questions/175/ad9a2a9e-5cba-4c7c-a143-8baa3bfa1c3d.png"
+        "https://enem.dev/2024/questions/175/ad9a2a9e-5cba-4c7c-a143-8baa3bfa1c3d.png",
+        "https://enem.dev/2024/questions/175/c0bd5bba-c856-4c0b-94a2-138e4d319c6b.png",
+        "https://enem.dev/2024/questions/175/008f1148-7c07-4d2e-be13-ec27ccb1fd37.png",
+        "https://enem.dev/2024/questions/175/3266bf0f-ff48-4241-966a-912e96c9f26a.png"
     ],
     "correctAlternative": "D",
     "alternativesIntroduction": "Dentre essas duas embalagens, a de maior capacidade apresentará volume, em centímetro cúbico, igual a",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "4 000 π",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "2 000 π",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/175/c0bd5bba-c856-4c0b-94a2-138e4d319c6b.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/175/008f1148-7c07-4d2e-be13-ec27ccb1fd37.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/175/3266bf0f-ff48-4241-966a-912e96c9f26a.png",
             "isCorrect": false
         }
     ]

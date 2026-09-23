@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O descarte inadequado do lixo é um problema que\nnecessita ser solucionado urgentemente. Segundo o\nMinistério do Meio Ambiente, apenas 25% dos municípios\nbrasileiros dispõem adequadamente seus resíduos. Para\nregulamentar essa questão, o Projeto de Lei 4 162/2019,\nque institui o marco regulatório do saneamento básico,\nestabeleceu um prazo até agosto de 2024 para que todos\nos lixões existentes no Brasil sejam transformados em\naterros sanitários, entre outras providências.\n\nDisponível em: www.gov.br/casacivil.  Acesso em: 5 out. 2020 (adaptado).\nA medida apontada no texto é necessária porque",
+    "context": "O descarte inadequado do lixo é um problema que\nnecessita ser solucionado urgentemente. Segundo o\nMinistério do Meio Ambiente, apenas 25% dos municípios\nbrasileiros dispõem adequadamente seus resíduos. Para\nregulamentar essa questão, o Projeto de Lei 4 162/2019,\nque institui o marco regulatório do saneamento básico,\nestabeleceu um prazo até agosto de 2024 para que todos\nos lixões existentes no Brasil sejam transformados em\naterros sanitários, entre outras providências.\n\nDisponível em: www.gov.br/casacivil. Acesso em: 5 out. 2020 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "A medida apontada no texto é necessária porque",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "a poluição causada pelos aterros sanitários é reduzida pela impermeabilização do solo e tratamento do chorume.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "acriaçãodosaterrossanitáriosviabilizaráoreaproveitamento da matéria orgânica descartada no lixo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "a construção dos lixões envolve um custo mais elevado do que a manutenção dos aterros sanitários.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "nos lixões não há a possibilidade de separação de material para reaproveitamento e reciclagem.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "as áreas dos lixões desativados poderão ser imediatamente usadas para plantação.",
             "file": null,
             "isCorrect": false
         }

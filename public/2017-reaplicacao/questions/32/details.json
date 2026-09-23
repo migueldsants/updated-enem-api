@@ -4,40 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
-    "context": "![](https://enem.dev/2017-reaplicacao/questions/32/731aaff0-1afa-4d02-9a00-7c8c8b598ad0.png)\n\nDUCHAMP, M. Roda de bicicleta. Aço e madeira,\n\n1,3 m x 64 cm x 42 cm, 1913.\n0XVHX\u0003GH\u0003$UWH\u00030RGHUQD\u0003GH\u00031RYD\u0003<RUN\u0011\n\nDUCHAMP, M. Roda de bicicleta. Barcelona: Polígrafa, 1995.\n\nAo ser questionado sobre seu processo de criação de\nready-mades\u000f\u00030DUFHO\u0003'XFKDPS\u0003D¿UPRX\n\n²\u0003,VWR\u0003GHSHQGLD\u0003GR\u0003REMHWR\u001e\u0003HP\u0003JHUDO\u000f\u0003HUD\u0003SUHFLVR\u0003WRPDU\u0003\ncuidado com o seu look. É muito difícil escolher um objeto\nporque depois de quinze dias você começa a gostar dele\nou a detestá-lo. É preciso chegar a qualquer coisa com\numa indiferença tal que você não tenha nenhuma emoção\nestética. A escolha do ready-made é sempre baseada na\nindiferença visual e, ao mesmo tempo, numa ausência\ntotal de bom ou mau gosto.\n\nCABANNE, P. Marcel Duchamp: engenheiro do tempo perdido.\n\nSão Paulo: Perspectiva, 1987 (adaptado).",
+    "context": "TEXTO I\n\n![](https://enem.dev/2017-reaplicacao/questions/32/58ce690f-d8de-4a94-8ccc-8387e0029100.png)\n\nDUCHAMP, M. Roda de bicicleta. Aço e madeira,\n1,3 m x 64 cm x 42 cm, 1913.\nMuseu de Arte Moderna de Nova York.\n\nDUCHAMP, M. Roda de bicicleta. Barcelona: Polígrafa, 1995.\n\nTEXTO II\n\nAo ser questionado sobre seu processo de criação de\nready-mades, Marcel Duchamp afirmou:\n\n— Isto dependia do objeto; em geral, era preciso tomar\ncuidado com o seu look. É muito difícil escolher um objeto\nporque depois de quinze dias você começa a gostar dele\nou a detestá-lo. É preciso chegar a qualquer coisa com\numa indiferença tal que você não tenha nenhuma emoção\nestética. A escolha do ready-made é sempre baseada na\nindiferença visual e, ao mesmo tempo, numa ausência\ntotal de bom ou mau gosto.\n\nCABANNE, P. Marcel Duchamp: engenheiro do tempo perdido.\nSão Paulo: Perspectiva, 1987 (adaptado).",
     "files": [
-        "https://enem.dev/2017-reaplicacao/questions/32/731aaff0-1afa-4d02-9a00-7c8c8b598ad0.png"
+        "https://enem.dev/2017-reaplicacao/questions/32/58ce690f-d8de-4a94-8ccc-8387e0029100.png"
     ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Relacionando o texto e a imagem da obra, entende-se que o artista Marcel Duchamp, ao criar os ready-mades, inaugurou um modo de fazer arte que consiste em",
+    "alternativesIntroduction": "Relacionando o texto e a imagem da obra, entende-se\nque o artista Marcel Duchamp, ao criar os ready-mades,\ninaugurou um modo de fazer arte que consiste em",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "designar ao artista de vanguarda a tarefa de ser o artífice da arte do século XX.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "considerar a forma dos objetos como elemento essencial da obra de arte.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "revitalizar de maneira radical o conceito clássico do belo na arte.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "criticar os princípios que determinam o que é uma obra de arte.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "atribuir aos objetos industriais o status de obra de arte.",
             "file": null,
             "isCorrect": false
         }

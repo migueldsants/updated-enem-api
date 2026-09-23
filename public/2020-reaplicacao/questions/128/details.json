@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Nos chuveiros elétricos, a água entra em contato com\numa resistência aquecida por efeito Joule. A potência\ndissipada pelo aparelho varia em função da tensão à qual\nestá ligado e do valor da resistência elétrica escolhida\ncom a chave seletora. No quadro estão indicados valores\nde tensão e as possíveis resistências para cinco modelos\nde chuveiro. Nesse quadro, o valor das resistências é\nmedido a partir da extremidade esquerda.\n\nChuveiro\n\nTensão\nPosição de seleção da resistência elétrica",
-    "files": [],
+    "context": "Nos chuveiros elétricos, a água entra em contato com\numa resistência aquecida por efeito Joule. A potência\ndissipada pelo aparelho varia em função da tensão à qual\nestá ligado e do valor da resistência elétrica escolhida\ncom a chave seletora. No quadro estão indicados valores\nde tensão e as possíveis resistências para cinco modelos\nde chuveiro. Nesse quadro, o valor das resistências é\n\nA\n\nB\n\n![](https://enem.dev/2020-reaplicacao/questions/128/855a4b20-cb9f-4542-86f6-018c2b4895ae.png)\n\nC\n\nD\n\nE",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/128/855a4b20-cb9f-4542-86f6-018c2b4895ae.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A 127 V 5,0 Ω",
+    "alternativesIntroduction": "Qual chuveiro apresenta a maior potência elétrica?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "A",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "3,2 Ω 127 V 6,2 Ω",
+            "text": "B",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "8,0 Ω 17,3 Ω",
+            "text": "C",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "10,0 Ω 12,1 Ω 23,0 Ω",
+            "text": "D",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "10,5 Ω 24,2 Ω Qual chuveiro apresenta a maior potência elétrica? A \t A B \t B C \t C D \t D E \t E",
+            "text": "E",
             "file": null,
             "isCorrect": false
         }

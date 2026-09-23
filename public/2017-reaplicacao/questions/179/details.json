@@ -4,39 +4,46 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma lagartixa está no interior de um quarto e começa\na se deslocar. Esse quarto, apresentando o formato de\num paralelepípedo retangular, é representado pela figura.\n\nF\nE\nG\n\nTeto\nLucro (real)",
-    "files": [],
+    "context": "Uma lagartixa está no interior de um quarto e começa\na se deslocar. Esse quarto, apresentando o formato de\num paralelepípedo retangular, é representado pela figura.\n\n![](https://enem.dev/2017-reaplicacao/questions/179/15462461-8298-4f4a-b9ab-d593850f55b2.png)\n\nA lagartixa parte do ponto B e vai até o ponto A.\nA seguir, de A ela se desloca, pela parede, até o ponto M,\nque é o ponto médio do segmento EF. Finalmente, pelo\nteto, ela vai do ponto M até o ponto H. Considere que\ntodos esses deslocamentos foram feitos pelo caminho de\nmenor distância entre os respectivos pontos envolvidos.",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/179/15462461-8298-4f4a-b9ab-d593850f55b2.png",
+        "https://enem.dev/2017-reaplicacao/questions/179/10fd922d-a19a-46fa-9083-345bb65eb54e.png",
+        "https://enem.dev/2017-reaplicacao/questions/179/8198b8e1-da33-4334-90e7-45a5665df0be.png",
+        "https://enem.dev/2017-reaplicacao/questions/179/62428158-c995-47db-897c-a4673037a6bc.png",
+        "https://enem.dev/2017-reaplicacao/questions/179/006d6c7d-e79e-46d2-942c-d325de3a4333.png",
+        "https://enem.dev/2017-reaplicacao/questions/179/983829de-5c60-4d95-894b-ab349afa1238.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Porta",
+    "alternativesIntroduction": "A projeção ortogonal desses deslocamentos no plano que\ncontém o chão do quarto é dado por:",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/179/10fd922d-a19a-46fa-9083-345bb65eb54e.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "A lagartixa parte do ponto B e vai até o ponto A. A seguir, de A ela se desloca, pela parede, até o ponto M, que é o ponto médio do segmento EF. Finalmente, pelo teto, ela vai do ponto M até o ponto H. Considere que todos esses deslocamentos foram feitos pelo caminho de menor distância entre os respectivos pontos envolvidos. A projeção ortogonal desses deslocamentos no plano que contém o chão do quarto é dado por:",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/179/8198b8e1-da33-4334-90e7-45a5665df0be.png",
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "Chão",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/179/62428158-c995-47db-897c-a4673037a6bc.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/179/006d6c7d-e79e-46d2-942c-d325de3a4333.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/179/983829de-5c60-4d95-894b-ab349afa1238.png",
             "isCorrect": false
         }
     ]

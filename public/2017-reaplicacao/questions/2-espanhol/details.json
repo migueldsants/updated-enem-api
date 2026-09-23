@@ -4,40 +4,40 @@
     "year": 2017,
     "language": "espanhol",
     "discipline": "linguagens",
-    "context": "![](https://enem.dev/2017-reaplicacao/questions/2-espanhol/2338e8dc-0b6e-45d0-9da1-b096e6e85c39.png)\n\nQUINO. Toda Mafalda. Buenos Aires: Ediciones de la Flor, 2004.",
+    "context": "![](https://enem.dev/2017-reaplicacao/questions/2-espanhol/a6e4c66a-bc1f-4f08-b377-f2d1a32da893.png)",
     "files": [
-        "https://enem.dev/2017-reaplicacao/questions/2-espanhol/2338e8dc-0b6e-45d0-9da1-b096e6e85c39.png"
+        "https://enem.dev/2017-reaplicacao/questions/2-espanhol/a6e4c66a-bc1f-4f08-b377-f2d1a32da893.png"
     ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "É comum fazer trocadilhos com ditos populares para UHFULDU\u0003 VHQWLGRV\u0011\u0003 1D\u0003 UHÀH[mR\u0003 GR\u0003 SHUVRQDJHP\u0003 )HOLSH\u000f\u0003 D\u0003 H[SUHVVmR\u0003³WUDWDU\u0003GH\u0003HQFDMDUOH´\u0003VLJQL¿FD",
+    "alternativesIntroduction": "É comum fazer trocadilhos com ditos populares para\nrecriar sentidos. Na reflexão do personagem Felipe, a\nexpressão “tratar de encajarle” significa",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "encaixar em outro dia a tarefa de hoje.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "delegar a outras pessoas os seus afazeres.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "ser incapaz de concluir seus afazeres a tempo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "aceitar suas atribuições sem questioná-las.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "adiar uma tarefa para realizá-la melhor.",
             "file": null,
             "isCorrect": false
         }

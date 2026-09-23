@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "reciclagem resolve o problema de desemprego da população local.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "produção de embalagens a partir de outras já usadas é mais fácil e rápida.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "alumínio das embalagens feitas de material reciclado é de melhor qualidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "compra de matéria-prima para confecção de embalagens de alumínio não será mais necessária.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "custo com a compra de matéria-prima para a produção de embalagens de alumínio é reduzido.",
             "file": null,
             "isCorrect": true
         }

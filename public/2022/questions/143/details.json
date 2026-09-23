@@ -9,14 +9,14 @@
         "https://enem.dev/2022/questions/143/4da64c40-da53-4205-b673-aa5b6274e3e2.jpg",
         "https://enem.dev/2022/questions/143/a05cd294-5321-4c85-a081-a86ed7aa3e39.jpg"
     ],
-    "correctAlternative": "A",
+    "correctAlternative": "D",
     "alternativesIntroduction": "A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
             "file": "https://enem.dev/2022/questions/143/37b0d8a0-5992-4fac-8f58-93924c6877e2.jpg",
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "B",
@@ -34,7 +34,7 @@
             "letter": "D",
             "text": null,
             "file": "https://enem.dev/2022/questions/143/b76f04c7-e485-4c93-8e57-60d5ce9f5623.jpg",
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",

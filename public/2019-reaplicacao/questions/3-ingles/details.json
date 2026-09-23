@@ -4,10 +4,12 @@
     "year": 2019,
     "language": "ingles",
     "discipline": "linguagens",
-    "context": "Opportunities as a Police Communications Technician\n\nPolice Communications Technicians (911 Operators/\nRadio Dispatchers)\n\nStarting Salary: $33,162 and can increase to $44,899\n\nRequirements:\n\n1. Four year high school diploma.\n2. New York City residency is required within 90 days\nof appointment.\n3. Must be able to understand and be understood in\nEnglish.\n4. Must pass a drug screening.\n\nAPPLICATION FEE: $47.00 - Payable on the day of the test.\n\nDisponível em: www.nypdcivilianjobs.com. Acesso em: 17 out. 2013.",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/3-ingles/b8d1f1c9-9096-4dcf-a0ee-7075f0202b0e.png)\n\nNYPD 911 OPERATORS\nOpportunities as a Police Communications Technician\n\nPolice Communications Technicians (911 Operators/\nRadio Dispatchers)\n\nStarting Salary: $33,162 and can increase to $44,899\n\nRequirements:\n\n1. Four year high school diploma.\n2. New York City residency is required within 90 days\nof appointment.\n3. Must be able to understand and be understood in\nEnglish.\n4. Must pass a drug screening.\n\nAPPLICATION FEE: $47.00 - Payable on the day of the test.\n\nDisponível em: www.nypdcivilianjobs.com. Acesso em: 17 out. 2013.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/3-ingles/b8d1f1c9-9096-4dcf-a0ee-7075f0202b0e.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Neste anúncio de emprego no Departamento de Polícia da cidade de Nova Iorque, um dos requisitos para se preencher a vaga é",
+    "alternativesIntroduction": "Neste anúncio de emprego no Departamento de Polícia\nda cidade de Nova Iorque, um dos requisitos para se\npreencher a vaga é",
     "alternatives": [
         {
             "letter": "A",
@@ -23,7 +25,7 @@
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "morar em Nova Iorque por 90 dias após o teste.",
             "file": null,
             "isCorrect": false
         },
@@ -35,7 +37,7 @@
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "ter diploma de ensino médio há quatro anos.",
             "file": null,
             "isCorrect": false
         }

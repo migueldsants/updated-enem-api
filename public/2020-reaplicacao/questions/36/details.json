@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "dificulta o acesso dos usuários a ambientes virtuais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "busca a distinção de pessoas e máquinas para garantia de proteção.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "interfere na utilização de diversos sistemas por pessoas competentes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "auxilia no preenchimento de informações em um formulário.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "resolve problemas de invasão de sistemas por programas automatizados.",
             "file": null,
             "isCorrect": false
         }

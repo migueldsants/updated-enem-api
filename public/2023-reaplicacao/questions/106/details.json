@@ -4,39 +4,45 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Duas pessoas saem de suas casas para se exercitarem\nnuma pista retilínea cujo comprimento é D. Elas percorrem\ntodo o percurso e, ao final dele, retornam ao ponto de\npartida pelo mesmo caminho. A primeira delas caminha\ncom velocidade de módulo v, e a segunda corre com uma\nvelocidade de módulo 2v. As duas partem do mesmo\nponto, no mesmo instante.\n\nA distância percorrida pela segunda pessoa até o ponto\nem que as duas se encontram pela primeira vez é",
-    "files": [],
+    "context": "Duas pessoas saem de suas casas para se exercitarem\nnuma pista retilínea cujo comprimento é D. Elas percorrem\ntodo o percurso e, ao final dele, retornam ao ponto de\npartida pelo mesmo caminho. A primeira delas caminha\ncom velocidade de módulo v, e a segunda corre com uma\nvelocidade de módulo 2v. As duas partem do mesmo\nponto, no mesmo instante.\nA distância percorrida pela segunda pessoa até o ponto\nem que as duas se encontram pela primeira vez é",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/106/aa99a42a-ae26-4ff1-a9c5-39735c36f22b.png",
+        "https://enem.dev/2023-reaplicacao/questions/106/6a1521c3-a08b-42d7-a116-7e270a9b1658.png",
+        "https://enem.dev/2023-reaplicacao/questions/106/be0e3de3-07d1-4317-9fca-ef47e4d4e124.png",
+        "https://enem.dev/2023-reaplicacao/questions/106/9c4b3193-e24d-4797-b6d6-95f9841ed409.png",
+        "https://enem.dev/2023-reaplicacao/questions/106/ba52b087-4007-4ff6-885d-fd2c1b828464.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "OD",
     "alternatives": [
         {
             "letter": "A",
-            "text": "2 3 D . B",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/106/aa99a42a-ae26-4ff1-a9c5-39735c36f22b.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "5 4 D . C",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/106/6a1521c3-a08b-42d7-a116-7e270a9b1658.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "4 3 D . D",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/106/be0e3de3-07d1-4317-9fca-ef47e4d4e124.png",
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "5 3 D . E",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/106/9c4b3193-e24d-4797-b6d6-95f9841ed409.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "7 4 D .",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/106/ba52b087-4007-4ff6-885d-fd2c1b828464.png",
             "isCorrect": false
         }
     ]

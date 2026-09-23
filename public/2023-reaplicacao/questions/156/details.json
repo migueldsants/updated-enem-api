@@ -4,39 +4,43 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Em radiometria, a potência radiante emitida por\numa fonte de radiação é diretamente proporcional à\nquantidade de energia, em joule (J), irradiada pela fonte,\ne inversamente proporcional ao intervalo de tempo,\nem segundo (s), que a fonte necessita para emitir essa\nenergia. Por meio de sensores adequados, localizados\nem diferentes distâncias da fonte, medidas em metro (m),\né possível medir a potência radiante por unidade de área\nque chega àquela posição.\n\nA expressão que representa a unidade de medida para a\ngrandeza potência radiante por unidade de área é",
-    "files": [],
+    "context": "Em radiometria, a potência radiante emitida por\numa fonte de radiação é diretamente proporcional à\nquantidade de energia, em joule (J), irradiada pela fonte,\ne inversamente proporcional ao intervalo de tempo,\nem segundo (s), que a fonte necessita para emitir essa\nenergia. Por meio de sensores adequados, localizados\nem diferentes distâncias da fonte, medidas em metro (m),\né possível medir a potência radiante por unidade de área\nque chega àquela posição.",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/156/44965fa7-f37a-4c40-ae3b-e2753c16c895.png",
+        "https://enem.dev/2023-reaplicacao/questions/156/0ed966a5-e199-47c7-862f-9615f9268eb8.png",
+        "https://enem.dev/2023-reaplicacao/questions/156/595144e5-4a5c-4e72-af65-4881d69bee49.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "A expressão que representa a unidade de medida para a\ngrandeza potência radiante por unidade de área é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "J ⋅ s ⋅ m2 B",
+            "text": "J ⋅ s ⋅ m²",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "J ⋅ s ⋅ m C C D",
+            "text": "J ⋅ s ⋅ m",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/156/44965fa7-f37a-4c40-ae3b-e2753c16c895.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "J s m2 ⋅ E E V P\u0015",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/156/0ed966a5-e199-47c7-862f-9615f9268eb8.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/156/595144e5-4a5c-4e72-af65-4881d69bee49.png",
             "isCorrect": true
         }
     ]

@@ -8,7 +8,7 @@
     "files": [
         "https://enem.dev/2012/questions/165/3fbde9b0-ee25-43f8-8514-0b3b42bd2adc.png"
     ],
-    "correctAlternative": "E",
+    "correctAlternative": "C",
     "alternativesIntroduction": "O desenho que Bruno deve fazer é",
     "alternatives": [
         {
@@ -27,7 +27,7 @@
             "letter": "C",
             "text": null,
             "file": "https://enem.dev/2012/questions/165/8b2481ca-b8ca-4958-8eec-be9f7ce78448.png",
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "D",
@@ -39,7 +39,7 @@
             "letter": "E",
             "text": null,
             "file": "https://enem.dev/2012/questions/165/1332407d-5c97-49e1-b94a-2a46220809ac.png",
-            "isCorrect": true
+            "isCorrect": false
         }
     ]
 }

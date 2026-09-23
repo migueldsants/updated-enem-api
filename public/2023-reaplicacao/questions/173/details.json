@@ -4,39 +4,44 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Um tipo de célula se reproduz constantemente por\ndivisão celular, triplicando sua quantidade a cada duas\nhoras, sob condições ideais de proliferação. Suponha uma\nquantidade inicial Q0 dessas células sob as condições\nideais de proliferação durante um certo período.\n\nQual a representação algébrica da quantidade Q dessas\ncélulas em função do tempo t, em hora, nesse período?",
-    "files": [],
+    "context": null,
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/173/7366e6ed-73b8-42b0-a933-e92753bd3b32.png",
+        "https://enem.dev/2023-reaplicacao/questions/173/92c597dd-0b73-4740-a3f8-e4f4b3aaf8ff.png",
+        "https://enem.dev/2023-reaplicacao/questions/173/7564d820-e1b2-4465-8f50-70220ad1b781.png",
+        "https://enem.dev/2023-reaplicacao/questions/173/a44ef68c-5207-43e8-aa76-2a04d774cd31.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "Um tipo de célula se reproduz constantemente por\ndivisão celular, triplicando sua quantidade a cada duas\nhoras, sob condições ideais de proliferação. Suponha uma\nquantidade inicial Q₀ dessas células sob as condições\nideais de proliferação durante um certo período.\nQual a representação algébrica da quantidade Q dessas\ncélulas em função do tempo t, em hora, nesse período?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Q(t) = Q0 ⋅ 3t B",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/173/7366e6ed-73b8-42b0-a933-e92753bd3b32.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Q(t) = Q0 ⋅ 32t t 3 C",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/173/92c597dd-0b73-4740-a3f8-e4f4b3aaf8ff.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Q(t) = Q0 ⋅ 2 t 2 D",
+            "text": "Q(t) = Q₀ ⋅ 2³ t",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Q(t) = Q0 ⋅ 3 t 2 1 − E",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/173/7564d820-e1b2-4465-8f50-70220ad1b781.png",
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "Q(t) = Q0 ⋅ 3",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/173/a44ef68c-5207-43e8-aa76-2a04d774cd31.png",
             "isCorrect": false
         }
     ]

@@ -6,39 +6,43 @@
     "discipline": "matematica",
     "context": "Uma fábrica trabalha com chapas metálicas para fabricar\nlaminados de diferentes espessuras por meio de sucessivas\ndobras. Em cada etapa, o laminado é dobrado ao meio, conforme\na figura.\n\n![](https://enem.dev/2025-reaplicacao/questions/148/9bdc8f6a-b2ca-4cf4-9ba6-daf67f12676a.png)\n\nA partir de uma chapa metálica com 1 mm de espessura, esse\nprocedimento é repetido sucessivamente até que se obtenha\no laminado na espessura desejada.",
     "files": [
-        "https://enem.dev/2025-reaplicacao/questions/148/9bdc8f6a-b2ca-4cf4-9ba6-daf67f12676a.png"
+        "https://enem.dev/2025-reaplicacao/questions/148/9bdc8f6a-b2ca-4cf4-9ba6-daf67f12676a.png",
+        "https://enem.dev/2025-reaplicacao/questions/148/2a3cd079-b7fc-4eff-9039-41cef3430da3.png",
+        "https://enem.dev/2025-reaplicacao/questions/148/f47502f2-5567-4fed-a298-fcfa1abdf206.png",
+        "https://enem.dev/2025-reaplicacao/questions/148/6ebc1a3c-0bda-4af2-85a6-68f214c5381a.png",
+        "https://enem.dev/2025-reaplicacao/questions/148/bbe4e1a4-f753-4cdd-973d-ee8b9785204f.png"
     ],
     "correctAlternative": "B",
     "alternativesIntroduction": "As espessuras, em milímetro, desses laminados após a 1ª, 2ª, 3ª, 4ª e 5ª dobras são, respectivamente,",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "2, 4, 6, 8 e 10",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/148/2a3cd079-b7fc-4eff-9039-41cef3430da3.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/148/f47502f2-5567-4fed-a298-fcfa1abdf206.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/148/6ebc1a3c-0bda-4af2-85a6-68f214c5381a.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/148/bbe4e1a4-f753-4cdd-973d-ee8b9785204f.png",
             "isCorrect": false
         }
     ]

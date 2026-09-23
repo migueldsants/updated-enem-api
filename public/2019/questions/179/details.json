@@ -6,38 +6,41 @@
     "discipline": "matematica",
     "context": "Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.\n\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt x minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.\n\n![](https://enem.dev/2019/questions/179/3c23edf9-5531-4ae5-b328-9b0a6b31fdc1.png)",
     "files": [
-        "https://enem.dev/2019/questions/179/3c23edf9-5531-4ae5-b328-9b0a6b31fdc1.png"
+        "https://enem.dev/2019/questions/179/3c23edf9-5531-4ae5-b328-9b0a6b31fdc1.png",
+        "https://enem.dev/2019/questions/179/b9a067a7-f7f3-423a-8242-fe342cf49a43.png",
+        "https://enem.dev/2019/questions/179/118272bd-7ca4-4866-81cd-a7af7dfd7cde.png",
+        "https://enem.dev/2019/questions/179/269d93c4-e0ff-462a-9378-2afebacb13c9.png"
     ],
     "correctAlternative": "A",
     "alternativesIntroduction": "A sequência de deslocamento pelos cômodos, conforme o consumo de energia apresentado no gráfico, é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 4",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019/questions/179/b9a067a7-f7f3-423a-8242-fe342cf49a43.png",
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "1 → 2 → 3 → 1 → 4 → 1 → 4 → 4",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019/questions/179/118272bd-7ca4-4866-81cd-a7af7dfd7cde.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 2 → 3",
+            "text": "N → Q → R → Q → N → S → N → O → P",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "1 → 2 → 3 → 5 → 4 → 1 → 6 → 1 → 4",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019/questions/179/269d93c4-e0ff-462a-9378-2afebacb13c9.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "1 → 4 → 2 → 3 → 5 → 1 → 6 → 1 → 4",
+            "text": "N → Q → O → P → R → N → S → N → Q",
             "file": null,
             "isCorrect": false
         }

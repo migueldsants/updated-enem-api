@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": "[100, 200] B \t [300, 400] C \t [600, 700] D \t [900, 1 000] E \t [1 000, 1 100]",
+            "text": "[100, 200]",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "[300, 400]",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "[600, 700]",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "[900, 1 000]",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "[1 000, 1 100]",
             "file": null,
             "isCorrect": false
         }

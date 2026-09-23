@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "descarte seletivo de resíduos sólidos para serem reciclados.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "utilização de transportes coletivos em vez de carros particulares.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "consumo responsável de eletricidade e biocombustíveis automotivos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "troca de sacolas plásticas por sacolas retornáveis nos supermercados.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "substituição de eletrodomésticos antigos por mais novos e mais econômicos.",
             "file": null,
             "isCorrect": false
         }

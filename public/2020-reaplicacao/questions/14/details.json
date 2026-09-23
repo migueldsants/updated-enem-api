@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "meninos podem se envolver com os mesmos brinquedos e brincadeiras que meninas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "meninas são mais frágeis e por isso devem se envolver em brincadeiras mais passivas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "meninos são mais habilidosos do que meninas e por isso se envolvem em atividades diferentes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "meninas tendem a reproduzir mais os estereótipos de gênero em suas práticas corporais do que os meninos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "meninos e meninas devem se envolver em atividades distintas, como, respectivamente, o futebol e a “casinha”.",
             "file": null,
             "isCorrect": false
         }
