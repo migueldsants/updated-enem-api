@@ -4,39 +4,48 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "No trapézio isósceles mostrado na figura a seguir,\nM é o ponto médio do segmento BC, e os pontos P e Q são\nobtidos dividindo o segmento AD em três partes iguais.",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/175/66f8af34-59ed-4630-9fbc-f6a60bcda6c7.png)\n\nNo trapézio isósceles mostrado na figura a seguir,\nM é o ponto médio do segmento BC, e os pontos P e Q são\nobtidos dividindo o segmento AD em três partes iguais.\n\n![](https://enem.dev/2019-reaplicacao/questions/175/489fa6c6-09bf-4ed0-9194-2ecb3d08ab68.png)\n\n^ m n a\n\n![](https://enem.dev/2019-reaplicacao/questions/175/44f4cffb-8d2f-4b53-b0bd-41e4c6a4895e.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/175/66f8af34-59ed-4630-9fbc-f6a60bcda6c7.png",
+        "https://enem.dev/2019-reaplicacao/questions/175/489fa6c6-09bf-4ed0-9194-2ecb3d08ab68.png",
+        "https://enem.dev/2019-reaplicacao/questions/175/44f4cffb-8d2f-4b53-b0bd-41e4c6a4895e.png",
+        "https://enem.dev/2019-reaplicacao/questions/175/a17d1521-f8b9-4460-8a53-b6c4c3660a32.png",
+        "https://enem.dev/2019-reaplicacao/questions/175/572f162b-f4c1-4f1a-834c-827a4f87d2e8.png",
+        "https://enem.dev/2019-reaplicacao/questions/175/5aa46ae2-5fc1-4c95-9f94-990e04b2c42b.png",
+        "https://enem.dev/2019-reaplicacao/questions/175/dd7ebcdf-3017-4317-8ad5-732f872960b8.png",
+        "https://enem.dev/2019-reaplicacao/questions/175/384e0f8f-8f7e-4bf1-8a93-6461f7ebfb42.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "B M C",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "P Q D Pelos pontos B, M, C, P e Q são traçados segmentos de reta, determinando cinco triângulos internos ao trapézio, conforme a figura. A razão entre BC e AD que determina áreas iguais para os cinco triângulos mostrados na figura é A 1 3 B 2 3 C 2 5 D 3 5 E 5 6",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/175/a17d1521-f8b9-4460-8a53-b6c4c3660a32.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/175/572f162b-f4c1-4f1a-834c-827a4f87d2e8.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/175/5aa46ae2-5fc1-4c95-9f94-990e04b2c42b.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/175/dd7ebcdf-3017-4317-8ad5-732f872960b8.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/175/384e0f8f-8f7e-4bf1-8a93-6461f7ebfb42.png",
             "isCorrect": false
         }
     ]

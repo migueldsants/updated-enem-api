@@ -4,38 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
-    "context": "Estimativas do IBGE para a safra nacional de cereais,\nleguminosas e oleaginosas, em 2012, apontavam uma\nparticipação por região conforme indicado no gráﬁ co.\n\nSudeste\n\n11,4%\n\nNordeste\n\nSul\n37,2%\n\n10,4%\n\nNorte\n\n2,7%\n\nCentro-Oeste\n\n38,3%\n\nAs estimativas indicavam que as duas regiões maiores\nprodutoras produziriam, juntas, um total de 119,9 milhões\nde toneladas dessas culturas, em 2012.\n\nDisponível em: www.ibge.gov.br. Acesso em: 3 jul. 2012.",
-    "files": [],
+    "context": "Estimativas do IBGE para a safra nacional de cereais,\nleguminosas e oleaginosas, em 2012, apontavam uma\nparticipação por região conforme indicado no gráfico.\n\n![](https://enem.dev/2017-reaplicacao/questions/176/64b05c22-017d-4a98-8d89-11d5711c097e.png)\n\nAs estimativas indicavam que as duas regiões maiores\nprodutoras produziriam, juntas, um total de 119,9 milhões\nde toneladas dessas culturas, em 2012.\n\nDisponível em: www.ibge.gov.br. Acesso em: 3 jul. 2012.",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/176/64b05c22-017d-4a98-8d89-11d5711c097e.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "De acordo com esses dados, qual seria o valor mais próximo da produção, em milhão de tonelada, de cereais, leguminosas e oleaginosas, em 2012, na Região Sudeste do país?",
+    "alternativesIntroduction": "De acordo com esses dados, qual seria o valor mais\npróximo da produção, em milhão de tonelada, de cereais,\nleguminosas e oleaginosas, em 2012, na Região Sudeste\ndo país?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "10,3",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "11,4",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "13,6",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "16,5",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "18,1",
             "file": null,
             "isCorrect": true
         }

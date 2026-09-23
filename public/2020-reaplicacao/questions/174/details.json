@@ -4,39 +4,46 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "No desenho técnico, é comum representar um\nsólido por meio de três vistas (frontal, perfil e superior),\nresultado da projeção do sólido em três planos,\nperpendiculares dois a dois.\n\nA figura representa as vistas de uma torre.\n\nVista\nfrontal\n\nVista\nperfil\n\nVista\nsuperior\n\nDisponível em: www.uems.br. Acesso em: 11 dez. 2012 (adaptado).\nCom base nas vistas fornecidas, qual figura melhor\nrepresenta essa torre?",
-    "files": [],
+    "context": "No desenho técnico, é comum representar um\nsólido por meio de três vistas (frontal, perfil e superior),\nresultado da projeção do sólido em três planos,\nperpendiculares dois a dois.\n\nA figura representa as vistas de uma torre.\n\n![](https://enem.dev/2020-reaplicacao/questions/174/31a467a1-09ca-4487-ac00-9f6e19a8d702.png)\n\nDisponível em: www.uems.br. Acesso em: 11 dez. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/174/31a467a1-09ca-4487-ac00-9f6e19a8d702.png",
+        "https://enem.dev/2020-reaplicacao/questions/174/1211e50b-9f7e-4ffa-83fd-610149798ebe.png",
+        "https://enem.dev/2020-reaplicacao/questions/174/ad27b437-a0cd-45f2-8cf5-7d3ac60cb44a.png",
+        "https://enem.dev/2020-reaplicacao/questions/174/b4d1c929-06ff-4df4-a81c-917871b3e650.png",
+        "https://enem.dev/2020-reaplicacao/questions/174/f08b3054-35ef-4402-a446-77f5c8be7e8c.png",
+        "https://enem.dev/2020-reaplicacao/questions/174/5bb213c1-6cc6-4167-9805-982ded92979d.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Com base nas vistas fornecidas, qual figura melhor\nrepresenta essa torre?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/174/1211e50b-9f7e-4ffa-83fd-610149798ebe.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/174/ad27b437-a0cd-45f2-8cf5-7d3ac60cb44a.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/174/b4d1c929-06ff-4df4-a81c-917871b3e650.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/174/f08b3054-35ef-4402-a446-77f5c8be7e8c.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/174/5bb213c1-6cc6-4167-9805-982ded92979d.png",
             "isCorrect": true
         }
     ]

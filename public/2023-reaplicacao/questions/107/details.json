@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "ciencias-natureza",
     "context": "Dois operários deslizam uma pedra, para cima, sobre uma superfície inclinada com velocidade constante.\nUm deles puxa a pedra utilizando uma corda, enquanto o outro a empurra, conforme a figura. No instante em que\na pedra desliza sobre a posição B, apesar da força de atrito fB exercida pela superfície, os pés dos operários não",
-    "files": [],
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/107/9aa6a7e3-e7f6-402f-a954-d4144a936b1b.png",
+        "https://enem.dev/2023-reaplicacao/questions/107/89be678b-b939-4555-ab81-dcf3cdae29ce.png",
+        "https://enem.dev/2023-reaplicacao/questions/107/561fffc5-b0e2-4436-a23d-e91aacf28f33.png",
+        "https://enem.dev/2023-reaplicacao/questions/107/570cc81b-9558-42a0-b7d8-c21ca20c69cb.png",
+        "https://enem.dev/2023-reaplicacao/questions/107/ef02fdb9-6096-4760-9c07-45291c5d7bbb.png"
+    ],
     "correctAlternative": "C",
     "alternativesIntroduction": "deslizam nas posições A e C, por causa, respectivamente, das forças de atrito fA e fC, exercidas sobre esses pés.",
     "alternatives": [
         {
             "letter": "A",
-            "text": "O diagrama que representa os sentidos das forças de atrito exercidas pela superfície da rampa nas posições A, B e C é: fC",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/107/9aa6a7e3-e7f6-402f-a954-d4144a936b1b.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "fA",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/107/89be678b-b939-4555-ab81-dcf3cdae29ce.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "fB",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/107/561fffc5-b0e2-4436-a23d-e91aacf28f33.png",
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "fA",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/107/570cc81b-9558-42a0-b7d8-c21ca20c69cb.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/107/ef02fdb9-6096-4760-9c07-45291c5d7bbb.png",
             "isCorrect": false
         }
     ]

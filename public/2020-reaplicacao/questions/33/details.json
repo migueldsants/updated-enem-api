@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "número de pedidos de refúgio já registrados no relatório do Conare.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "compreensão que o Ministério da Justiça tem da palavra “refugiado”.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "crise humanitária que se abate sobre os países mais pobres do mundo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "profundidade da crise econômica pela qual passam determinados países.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "autorização da Acnur, que gerencia a distribuição de refugiados pelos países.",
             "file": null,
             "isCorrect": false
         }

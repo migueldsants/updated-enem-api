@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
-    "context": "Com o fim da versão impressa do Diário Oficial da União,\no presidente da República assinou um decreto que traz novas\nnormas a serem seguidas nas publicações oficiais, que agora\nestarão disponíveis apenas na versão on-line.\n\nOs atos a serem divulgados devem ser encaminhados\nao órgão exclusivamente por meio eletrônico. O jornal\nserá publicado de segunda a sexta, uma vez por dia,\nexceto nos feriados nacionais e nos pontos facultativos\nda administração pública federal.\n\nO decreto reforça que o Diário Oficial trará os atos\ncom conteúdo normativo, exceto os atos de aplicação\nexclusivamente interna que não afetem interesses de\nterceiros, e os atos oficiais da administração pública\nfederal direta, autárquica e fundacional.\n\nDisponível em: www.brasil.gov.br. Acesso em: 6 dez. 2017 (adaptado).\nO decreto incide sobre a prática de leitura do Diário Oficial\nem todo o Brasil e pressupõe que",
+    "context": "Com o fim da versão impressa doDiário Oficial da União,\no presidente da República assinou um decreto que traz novas\nnormas a serem seguidas nas publicações oficiais, que agora\nestarão disponíveis apenas na versão on-line.\n\nOs atos a serem divulgados devem ser encaminhados\nao órgão exclusivamente por meio eletrônico. O jornal\nserá publicado de segunda a sexta, uma vez por dia,\nexceto nos feriados nacionais e nos pontos facultativos\nda administração pública federal.\n\nO decreto reforça que o Diário Oficial trará os atos\ncom conteúdo normativo, exceto os atos de aplicação\nexclusivamente interna que não afetem interesses de\nterceiros, e os atos oficiais da administração pública\nfederal direta, autárquica e fundacional.\n\nDisponível em: www.brasil.gov.br. Acesso em: 6 dez. 2017 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "O decreto incide sobre a prática de leitura do Diário Oficial\nem todo o Brasil e pressupõe que",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "o país dispõe de uma cultura digital consolidada.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "a publicação on-line dificulta o acesso ao texto oficial.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "a decisão torna obrigatória a leitura de textos oficiais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "as repartições públicas dispensam a leitura de texto impresso.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "a mudança traz novos modelos para a administração pública.",
             "file": null,
             "isCorrect": false
         }

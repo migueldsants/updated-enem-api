@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "A pentano-5-lactama é uma amida cíclica que tem\naplicações na síntese de fármacos e pode ser obtida pela\ndesidratação intramolecular, entre os grupos funcionais\nde ácido carboxílico e amina primária, provenientes de um\ncomposto de cadeia alifática, saturada, normal e homogênea.\n\nPentano-5-lactama",
-    "files": [],
+    "context": "A pentano-5-lactama é uma amida cíclica que tem\naplicações na síntese de fármacos e pode ser obtida pela\ndesidratação intramolecular, entre os grupos funcionais\nde ácido carboxílico e amina primária, provenientes de um\ncomposto de cadeia alifática, saturada, normal e homogênea.\n\n![](https://enem.dev/2020-reaplicacao/questions/93/20a6c0c2-e552-4727-8fec-bb09a6d8ce81.png)\n\nPentano-5-lactama",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/93/20a6c0c2-e552-4727-8fec-bb09a6d8ce81.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "O composto que, em condições apropriadas, dá origem a essa amida cíclica é",
+    "alternativesIntroduction": "O composto que, em condições apropriadas, dá origem a\nessa amida cíclica é",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "CH₃NHCH₂CH₂CH₂CO₂H.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "HOCH=CHCH₂CH₂CONH₂.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "CH₂(NH₂)CH₂CH=CHCO₂H.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "CH₂(NH₂)CH₂CH₂CH₂CO₂H.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "CH₂(NH₂)CH(CH₃)CH₂CO₂H.",
             "file": null,
             "isCorrect": false
         }

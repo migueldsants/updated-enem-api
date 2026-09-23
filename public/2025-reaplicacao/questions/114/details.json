@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "a solubilidade do gás aumenta em baixa temperatura e restabelece o fluxo de elétrons.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "as condições reacionais de oxidação e redução se invertem e promovem a recarga da pilha.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "o gás amônia sofre expansão ao ser resfriado e libera o fluxo de elétrons pela barra de grafita.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "a produção dos gases em temperatura baixa cessa e possibilita a continuidade da passagem da corrente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "a presença de bolhas de gás no interior da pilha aumenta e restabelece o fluxo de elétrons do cátodo para o ânodo.",
             "file": null,
             "isCorrect": false
         }

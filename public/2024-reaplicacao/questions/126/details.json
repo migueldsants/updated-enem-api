@@ -4,39 +4,45 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Na fissão do urânio-235, esse átomo é dividido em\nátomos mais leves quando bombardeado por um nêutron.\n\nNos reatores nucleares, novas reações ocorrem a partir\ndos nêutrons liberados na fissão, caracterizando uma reação\nem cadeia. Essa reação é mais eficiente quando esses\nnêutrons têm energia cinética baixa. Por isso, é utilizada\numa substância moderadora na qual os nêutrons possam\ncolidir, transferindo parte da energia.\n\nConsidere que essas colisões são frontais e\naproximadamente elásticas, que a substância moderadora é\num alvo em repouso e que as velocidades dos nêutrons, υnf,\ne da substância moderadora, υsf, após a colisão, são:\n\n\u001b\n\n\u0018\n\nm\nm\nm\nm\n\nn\ns\n\nnf\n\n\u001a\n\u0019\n\n\u0017\n\u0016\n0\n\nn\ns\n\n\u0019\n\nm\nm\nm\n\n\u0018\n\u0017\n2\n0\n\nn\n\nsf\n\n\u001b\n\u001a\n\nn\ns\n\nem que mn é a massa do nêutron, ms é a massa da\nsubstância moderadora e υ0 é a velocidade inicial do nêutron.",
-    "files": [],
+    "context": "Na fissão do urânio-235, esse átomo é dividido em\nátomos mais leves quando bombardeado por um nêutron.\n\nNos reatores nucleares, novas reações ocorrem a partir\ndos nêutrons liberados na fissão, caracterizando uma reação\nem cadeia. Essa reação é mais eficiente quando esses\nnêutrons têm energia cinética baixa. Por isso, é utilizada\numa substância moderadora na qual os nêutrons possam\ncolidir, transferindo parte da energia.\n\nConsidere que essas colisões são frontais e\naproximadamente elásticas, que a substância moderadora é\num alvo em repouso e que as velocidades dos nêutrons,υ_(nf),\ne da substância moderadora, υ_(sf), após a colisão, são:\n\n![](https://enem.dev/2024-reaplicacao/questions/126/3f0f66ed-4bee-4e93-ac71-c92351a9fa0f.png)\n\nem que m_(n) é a massa do nêutron, m_(s) é a massa da\nsubstância moderadora e υ₀ é a velocidade inicial do nêutron.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/126/3f0f66ed-4bee-4e93-ac71-c92351a9fa0f.png",
+        "https://enem.dev/2024-reaplicacao/questions/126/f2f65238-0c2d-4111-8d7d-a24751246616.png",
+        "https://enem.dev/2024-reaplicacao/questions/126/be303f92-a93f-4657-a3bf-2d37c1f62e1d.png",
+        "https://enem.dev/2024-reaplicacao/questions/126/95f796d2-4881-4556-8a7a-772e6c1558a3.png",
+        "https://enem.dev/2024-reaplicacao/questions/126/d1ad1794-7fd3-4873-b38d-567e7e774c15.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A substância moderadora que promoverá a maior redução de velocidade dos nêutrons, nesse processo de colisão, será:",
+    "alternativesIntroduction": "A substância moderadora que promoverá a maior redução\nde velocidade dos nêutrons, nesse processo de colisão,\nserá:",
     "alternatives": [
         {
             "letter": "A",
-            "text": "1 4He",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/126/f2f65238-0c2d-4111-8d7d-a24751246616.png",
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "2",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/126/be303f92-a93f-4657-a3bf-2d37c1f62e1d.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "6",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/126/95f796d2-4881-4556-8a7a-772e6c1558a3.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "7 94Sr",
+            "text": "¹⁴₇ N",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "38",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/126/d1ad1794-7fd3-4873-b38d-567e7e774c15.png",
             "isCorrect": false
         }
     ]

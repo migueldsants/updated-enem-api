@@ -4,39 +4,46 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
-    "context": "Ao abrir um negócio, um microempresário descreveu suas vendas, em milhares de reais (unidade monetária\nbrasileira), durante os dois primeiros anos. No primeiro ano, suas vendas cresceram de modo linear. Posteriormente,\nele decidiu investir em propaganda, o que fez suas vendas crescerem de modo exponencial.\n\nQual é o gráfico que melhor descreve as vendas em função do tempo?",
-    "files": [],
+    "context": "Ao abrir um negócio, um microempresário descreveu suas vendas, em milhares de reais (unidade monetária\nbrasileira), durante os dois primeiros anos. No primeiro ano, suas vendas cresceram de modo linear. Posteriormente,\n\n![](https://enem.dev/2017-reaplicacao/questions/148/adec1416-9680-4bb8-a956-d7abac109261.png)\n\nele decidiu investir em propaganda, o que fez suas vendas crescerem de modo exponencial.",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/148/adec1416-9680-4bb8-a956-d7abac109261.png",
+        "https://enem.dev/2017-reaplicacao/questions/148/1e13f3e3-8206-4d6b-935b-43de60955405.png",
+        "https://enem.dev/2017-reaplicacao/questions/148/c46a9946-0ae0-43c2-817b-529141ed727e.png",
+        "https://enem.dev/2017-reaplicacao/questions/148/3f2541e9-3131-49ad-9619-783f4e8d5e4d.png",
+        "https://enem.dev/2017-reaplicacao/questions/148/c69c9056-ffca-4d5d-b10c-8bc13c299017.png",
+        "https://enem.dev/2017-reaplicacao/questions/148/1628d6b6-1dbf-4b1b-ba88-e4dc9f287e84.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Vendas (real)",
+    "alternativesIntroduction": "Qual é o gráfico que melhor descreve as vendas em função do tempo?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real)",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/148/1e13f3e3-8206-4d6b-935b-43de60955405.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/148/c46a9946-0ae0-43c2-817b-529141ed727e.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real) 0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real) 0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano)",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/148/3f2541e9-3131-49ad-9619-783f4e8d5e4d.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/148/c69c9056-ffca-4d5d-b10c-8bc13c299017.png",
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real)",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/148/1628d6b6-1dbf-4b1b-ba88-e4dc9f287e84.png",
             "isCorrect": false
         }
     ]

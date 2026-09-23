@@ -4,39 +4,45 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma possível projeção vertical dessa trajetória no plano da base do prédio é:\n\nA\nInício\nescada\n\nSala\n\nB\nInício\nescada\n\nSala",
-    "files": [],
+    "context": "Uma pessoa pede informação na recepção de um prédio comercial de como chegar a uma sala, e recebe as\nseguintes instruções: suba a escada em forma de U à frente, ao\nem seguida vire à direita e siga pelo corredor. Ao final do corredor, vire à direita.",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/169/42e2f593-614f-43a4-af6e-460c96a2d044.png",
+        "https://enem.dev/2017-reaplicacao/questions/169/1ed1b1f4-6a55-4a64-9576-ef9006b2a992.png",
+        "https://enem.dev/2017-reaplicacao/questions/169/0238829a-3f05-41ef-8078-b0f14d2bf869.png",
+        "https://enem.dev/2017-reaplicacao/questions/169/d5ad72fd-e556-4557-bbfc-fb84d4002a27.png",
+        "https://enem.dev/2017-reaplicacao/questions/169/a263224e-4308-4e3a-95a0-3cbf9bb993e9.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Sala",
+    "alternativesIntroduction": "Uma possível projeção vertical dessa trajetória no plano da base do prédio é:",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/169/42e2f593-614f-43a4-af6e-460c96a2d044.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/169/1ed1b1f4-6a55-4a64-9576-ef9006b2a992.png",
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "Início escada Sala",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/169/0238829a-3f05-41ef-8078-b0f14d2bf869.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Início escada Sala",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/169/d5ad72fd-e556-4557-bbfc-fb84d4002a27.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Início escada",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/169/a263224e-4308-4e3a-95a0-3cbf9bb993e9.png",
             "isCorrect": false
         }
     ]

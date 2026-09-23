@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O carvão é um combustível que tem várias\nsubstâncias em sua composição. Em razão disso,\nquando é representada sua queima com o oxigênio\n(massa molar 16 g mol−1), simplifica-se elaborando\napenas a combustão completa do carbono (massa\nmolar 12 g mol−1). De acordo com o conteúdo médio\nde carbono fixo, o carvão é classificado em vários\ntipos, com destaque para o antracito, que apresenta,\nem média, 90% de carbono. Esse elevado conteúdo\nfavorece energeticamente a combustão, no entanto,\nlibera maior quantidade de gás que provoca efeito\nestufa.\nSupondo a queima completa de 100 g de carvão\nantracito, a massa de gás liberada na atmosfera é, em\ngrama, mais próxima de",
+    "context": null,
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "O carvão é um combustível que tem várias\nsubstâncias em sua composição. Em razão disso,\nquando é representada sua queima com o oxigênio\n(massa molar 16 g mol⁻¹), simplifica-se elaborando\napenas a combustão completa do carbono (massa\nmolar 12 g mol⁻¹). De acordo com o conteúdo médio\nde carbono fixo, o carvão é classificado em vários\ntipos, com destaque para o antracito, que apresenta,\nem média, 90% de carbono. Esse elevado conteúdo\nfavorece energeticamente a combustão, no entanto,\nlibera maior quantidade de gás que provoca efeito\nestufa.\nSupondo a queima completa de 100 g de carvão\nantracito, a massa de gás liberada na atmosfera é, em\ngrama, mais próxima de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "90,0.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "210,0.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "233,3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "330,0.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "366,7.",
             "file": null,
             "isCorrect": false
         }

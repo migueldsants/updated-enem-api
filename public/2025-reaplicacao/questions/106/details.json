@@ -4,38 +4,41 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O calor não flui espontaneamente de uma fonte fria para\numa fonte quente, mas, em um refrigerador, às custas da\nrealização de trabalho externo sobre um gás, isso é possível.\nNa operação de um refrigerador, um compressor realiza trabalho\nsobre um gás por um processo cíclico, no qual o gás transporta\ncalor de uma fonte fria para um reservatório mais quente.\nA qualidade de um refrigerador se mede pelo coeficiente de\nperformance (COP), dado por:\n\nCOP \u001f\n\nT\nT\nT\n\n, em que T2 é a temperatura absoluta do\n\n2\n1\n(\n)\n\ngás em contato com o reservatório quente que vai receber o\ncalor da fonte fria, e T1 é a temperatura absoluta do gás em\ncontato com a fonte fria.\n\nSuponha o funcionamento de um refrigerador doméstico\n(freezer) que apresenta um COP de 5,0 e a temperatura da fonte\nfria igual a T1 = −10 °C.",
-    "files": [],
+    "context": "O calor não flui espontaneamente de uma fonte fria para\numa fonte quente, mas, em um refrigerador, às custas da\nrealização de trabalho externo sobre um gás, isso é possível.\nNa operação de um refrigerador, um compressor realiza trabalho\nsobre um gás por um processo cíclico, no qual o gás transporta\ncalor de uma fonte fria para um reservatório mais quente.\nA qualidade de um refrigerador se mede pelo coeficiente de\nperformance (COP), dado por:\n\n![](https://enem.dev/2025-reaplicacao/questions/106/2f480b26-1067-4b86-a83f-793c3bf3259c.png)\n\n![](https://enem.dev/2025-reaplicacao/questions/106/8805782e-e318-4b6e-af04-2677978725a3.png)\n\nSuponha o funcionamento de um refrigerador doméstico\n(freezer) que apresenta um COP de 5,0 e a temperatura da fonte\nfria igual a q₁ = −10 °C.",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/106/2f480b26-1067-4b86-a83f-793c3bf3259c.png",
+        "https://enem.dev/2025-reaplicacao/questions/106/8805782e-e318-4b6e-af04-2677978725a3.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A temperatura do gás no dissipador de calor, em kelvin, será mais próxima de",
+    "alternativesIntroduction": "A temperatura do gás no dissipador de calor, em kelvin, será\nmais próxima de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "658 K.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "316 K.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "261 K.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "53 K.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "−12 K.",
             "file": null,
             "isCorrect": false
         }

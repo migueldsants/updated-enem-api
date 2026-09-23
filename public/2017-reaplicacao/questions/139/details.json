@@ -4,39 +4,46 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
-    "context": "Um motorista de um carro flex (bicombustível) calcula\nque, abastecido com 45 litros de gasolina ou com 60 litros\nde etanol, o carro percorre a mesma distância.\n\nChamando de x o valor do litro de gasolina e de y o valor do\nlitro de etanol, a situação em que abastecer com gasolina\né economicamente mais vantajosa do que abastecer com\netanol é expressa por",
-    "files": [],
+    "context": "Um motorista de um carro flex (bicombustível) calcula\nque, abastecido com 45 litros de gasolina ou com 60 litros\nde etanol, o carro percorre a mesma distância.\nChamando de x o valor do litro de gasolina e de ó o valor do\nlitro de etanol, a situação em que abastecer com gasolina\né economicamente mais vantajosa do que abastecer com\netanol é expressa por\n\n![](https://enem.dev/2017-reaplicacao/questions/139/03c72ee6-39d7-4ce0-882b-8b664e09e19d.png)",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/139/03c72ee6-39d7-4ce0-882b-8b664e09e19d.png",
+        "https://enem.dev/2017-reaplicacao/questions/139/54586089-40b2-4ea0-aeee-9f2e3fbe0cd4.png",
+        "https://enem.dev/2017-reaplicacao/questions/139/e8db3b59-3c46-4fe8-a358-92de79fab6f0.png",
+        "https://enem.dev/2017-reaplicacao/questions/139/a6d12c3a-e555-4df2-a693-d59780296bb0.png",
+        "https://enem.dev/2017-reaplicacao/questions/139/b7183b5a-fcd2-4b83-9a72-2dea838e9f91.png",
+        "https://enem.dev/2017-reaplicacao/questions/139/66bb5592-23a8-44c4-9009-3c53e9e0dcf5.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "x y = 4",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "x y = 3",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/139/54586089-40b2-4ea0-aeee-9f2e3fbe0cd4.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "x y > 4",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/139/e8db3b59-3c46-4fe8-a358-92de79fab6f0.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "x y > 3",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/139/a6d12c3a-e555-4df2-a693-d59780296bb0.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "x y < 4",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/139/b7183b5a-fcd2-4b83-9a72-2dea838e9f91.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/139/66bb5592-23a8-44c4-9009-3c53e9e0dcf5.png",
             "isCorrect": true
         }
     ]

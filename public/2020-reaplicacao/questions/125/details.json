@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O termo “atenuação natural” é usado para descrever\n\na remediação passiva do solo e envolve a ocorrência de\n\ndiversos processos de origem natural. Alguns desses\n\nprocessos destroem fisicamente os contaminantes,\n\noutros transferem os contaminantes de um local para\n\noutro ou os retêm. Considere cinco propostas em estudo\n\npara descontaminar um solo, todas caracterizadas como\n\n“atenuação natural”.\n\nProposta\nProcesso\n\nI\nDiluição\n\nII\nAdsorção\n\nIII\nDispersão\n\nIV\nVolatilização\n\nV\nBiodegradação",
-    "files": [],
+    "context": "O termo “atenuação natural” é usado para descrever\na remediação passiva do solo e envolve a ocorrência de\ndiversos processos de origem natural. Alguns desses\nprocessos destroem fisicamente os contaminantes,\noutros transferem os contaminantes de um local para\noutro ou os retêm. Considere cinco propostas em estudo\npara descontaminar um solo, todas caracterizadas como\n\n![](https://enem.dev/2020-reaplicacao/questions/125/3ab80d4d-3377-42be-9989-e936593ef351.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/125/3ab80d4d-3377-42be-9989-e936593ef351.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Qual dessas propostas apresenta a vantagem de destruir os contaminantes de interesse?",
+    "alternativesIntroduction": "Qual dessas propostas apresenta a vantagem de destruir\nos contaminantes de interesse?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "I.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "II.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "III.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "IV.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "V.",
             "file": null,
             "isCorrect": true
         }

@@ -4,39 +4,46 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma indústria automobilística está testando um\nnovo modelo de carro. Cinquenta litros de combustível\nsão colocados no tanque desse carro, que é dirigido\nem uma pista de testes até que todo o combustível\ntenha sido consumido. O segmento de reta no gráfico\nmostra o resultado desse teste, no qual a quantidade de\ncombustível no tanque é indicada no eixo y (vertical), e a\ndistância percorrida pelo automóvel é indicada no eixo x\n(horizontal).\n\ny\n\n50\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0\n\nCombustível no tanque (L)\n\nx\n0\n\n100\n200\n300\n400\n500\n\nDistância percorrida (km)",
-    "files": [],
+    "context": "Uma indústria automobilística está testando um\nnovo modelo de carro. Cinquenta litros de combustível\nsão colocados no tanque desse carro, que é dirigido\nem uma pista de testes até que todo o combustível\ntenha sido consumido. O segmento de reta no gráfico\nmostra o resultado desse teste, no qual a quantidade de\ncombustível no tanque é indicada no eixo y (vertical), e a\ndistância percorrida pelo automóvel é indicada no eixo x\n\n![](https://enem.dev/2018-reaplicacao/questions/137/c5583a47-55cc-4101-b464-c20ada6415dc.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/137/c5583a47-55cc-4101-b464-c20ada6415dc.png",
+        "https://enem.dev/2018-reaplicacao/questions/137/7c0dc18c-b874-4feb-bc0b-42abce6c1a36.png",
+        "https://enem.dev/2018-reaplicacao/questions/137/509ca3fa-eacf-4508-b0c4-0dfa3ede5ace.png",
+        "https://enem.dev/2018-reaplicacao/questions/137/4a87d3ae-4ecb-47a3-94f9-423917c2d75d.png",
+        "https://enem.dev/2018-reaplicacao/questions/137/b3c18974-e256-4384-87a9-5f6a3bf49442.png",
+        "https://enem.dev/2018-reaplicacao/questions/137/187edac9-6a79-422b-8365-c261e293a4a9.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A expressão algébrica que relaciona a quantidade de combustível no tanque e a distância percorrida pelo automóvel é",
+    "alternativesIntroduction": "A expressão algébrica que relaciona a quantidade de\ncombustível no tanque e a distância percorrida pelo\nautomóvel é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "y x = − + 10 500",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/137/7c0dc18c-b874-4feb-bc0b-42abce6c1a36.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "y x = − + 10 50",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/137/509ca3fa-eacf-4508-b0c4-0dfa3ede5ace.png",
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "y x = − + 10 500",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/137/4a87d3ae-4ecb-47a3-94f9-423917c2d75d.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "y x = + 10 50",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/137/b3c18974-e256-4384-87a9-5f6a3bf49442.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "y x = + 10 500",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/137/187edac9-6a79-422b-8365-c261e293a4a9.png",
             "isCorrect": false
         }
     ]

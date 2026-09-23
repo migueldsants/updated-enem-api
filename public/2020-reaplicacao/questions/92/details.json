@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "mais cara que a energia nuclear e emite maior quantidade de carbono.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "a segunda fonte mais cara e é livre de emissões de carbono.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "mais cara que a energia solar e ambas são livres de emissões de carbono.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "mais barata que as demais e emite grandes quantidades de carbono.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "a fonte que gera energia mais barata e livre de emissões de carbono.",
             "file": null,
             "isCorrect": false
         }

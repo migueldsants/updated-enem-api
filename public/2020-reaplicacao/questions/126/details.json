@@ -4,38 +4,44 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Há algumas décadas, surgiu no mercado um\nmedicamento que provocava perda de peso por inibir a\nação da lipase, enzima que atua no intestino na digestão\nde gorduras. Um pesquisador, com o objetivo de avaliar\na eficácia do medicamento, decidiu medir nos pacientes\na quantidade de gordura nas fezes e de triglicerídeos\n(um dos produtos da digestão das gorduras) no sangue.\nMantendo sempre a mesma dieta nos pacientes, fez as\nmedidas antes e depois da administração do medicamento.\nA figura apresenta cinco resultados possíveis.\n\n1\n2\n3\n4\n5\n\nGordura nas fezes antes\n\nGordura nas fezes depois\n\nTriglicerídeos no sangue antes\n\nTriglicerídeos no sangue depois",
-    "files": [],
+    "context": "Há algumas décadas, surgiu no mercado um\nmedicamento que provocava perda de peso por inibir a\nação da lipase, enzima que atua no intestino na digestão\nde gorduras. Um pesquisador, com o objetivo de avaliar\na eficácia do medicamento, decidiu medir nos pacientes\na quantidade de gordura nas fezes e de triglicerídeos\n(um dos produtos da digestão das gorduras) no sangue.\nMantendo sempre a mesma dieta nos pacientes, fez as\nmedidas antes e depois da administração do medicamento.\nA figura apresenta cinco resultados possíveis.\n\n![](https://enem.dev/2020-reaplicacao/questions/126/5bb95f9d-6590-4e89-86a1-3bf2042c24ef.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/126/5f69fe60-9e44-42d5-a8d4-67f4aa85eba0.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/126/8e6244ef-995f-4c20-b3ab-ec2cd17d11f6.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/126/fb0a9c18-05ac-4b25-9fd0-ac5f296a04f0.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/126/35c434fd-2c1f-4dcd-946e-15e4adaa8d17.png)\n\nGordura nas fezes antes\nGordura nas fezes depois\nTriglicerídeos no sangue antes\nTriglicerídeos no sangue depois",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/126/5bb95f9d-6590-4e89-86a1-3bf2042c24ef.png",
+        "https://enem.dev/2020-reaplicacao/questions/126/5f69fe60-9e44-42d5-a8d4-67f4aa85eba0.png",
+        "https://enem.dev/2020-reaplicacao/questions/126/8e6244ef-995f-4c20-b3ab-ec2cd17d11f6.png",
+        "https://enem.dev/2020-reaplicacao/questions/126/fb0a9c18-05ac-4b25-9fd0-ac5f296a04f0.png",
+        "https://enem.dev/2020-reaplicacao/questions/126/35c434fd-2c1f-4dcd-946e-15e4adaa8d17.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "O efeito esperado do medicamento está representado no resultado",
+    "alternativesIntroduction": "O efeito esperado do medicamento está representado no\nresultado",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "1.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "2.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "4.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "5.",
             "file": null,
             "isCorrect": false
         }

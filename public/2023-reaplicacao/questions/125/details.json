@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "ciencias-natureza",
     "context": "Para se utilizar um controle remoto que funciona com\numa diferença de potencial de 3 V, compraram-se duas\npilhas tipo AA de 1,5 V cada uma. Sabe-se que a ligação\nem série dessas pilhas possibilita um aumento da diferença\nde potencial do conjunto e da energia total disponível.\nQuando ligadas em paralelo, no entanto, só ocorre o\naumento da energia total disponível.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/125/92282906-f5e1-46ee-b27d-91a14d831729.png",
+        "https://enem.dev/2023-reaplicacao/questions/125/a01b3d51-cd6b-4872-99e6-b2c32ec05a1d.png",
+        "https://enem.dev/2023-reaplicacao/questions/125/b328c6d7-0469-4347-85b6-f82d765b9c47.png",
+        "https://enem.dev/2023-reaplicacao/questions/125/186f2dc8-8860-4a9d-bf70-15093636dafa.png",
+        "https://enem.dev/2023-reaplicacao/questions/125/8f9ed901-67a7-4fa7-84bd-596e96d8d156.png"
+    ],
     "correctAlternative": "B",
     "alternativesIntroduction": "Qual dos esquemas representa a ligação correta das pilhas utilizadas no controle remoto?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/125/92282906-f5e1-46ee-b27d-91a14d831729.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/125/a01b3d51-cd6b-4872-99e6-b2c32ec05a1d.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/125/b328c6d7-0469-4347-85b6-f82d765b9c47.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/125/186f2dc8-8860-4a9d-bf70-15093636dafa.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/125/8f9ed901-67a7-4fa7-84bd-596e96d8d156.png",
             "isCorrect": false
         }
     ]

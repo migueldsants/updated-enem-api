@@ -4,38 +4,38 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma loja que vende tintas tem uma máquina que efetua misturas de variadas cores para obter diferentes\n\ntonalidades. Um cliente havia comprado 7 litros de tinta de uma tonalidade, proveniente da mistura das cores verde e\n\n!\u0007\b\u0005\u001e\u0004$\u0002\u0005\b\u0002%\u0007\u0004%\u0004\u0007'\u001d\u0004\u0002\u000f\n\u0002&\u0002%\b\u0007\b\u0002$\u0002\u0007\n\t%\n\u001e\r\u000e#\b\u0010\n\u0005\r\n(\u0002\u001b\n\u0005\u000f\u0004\u0002\t\u000e\u000f\u0004\u0002\u000e\u0005\t\f\u0006\u001e\u000e\n\u0005\r\n\u0002\b\u0002\u000b\f\b\u0005\r\u000e\u000f\b\u000f\n\u0002\u000f\n\u0002\r\u000e\u0005\r\b\u0002\u001e\u0004\u0010%\u0007\b\u000f\b$\u0002\u0004\u0002\u001e2\u000e\n\u0005\r\n\u0002\n\nretorna à loja para comprar mais 3,5 litros da mesma mistura de tintas, com a mesma tonalidade que havia comprado\n\nanteriormente.\n\nA quantidade de tinta verde, em litro, que o funcionário dessa loja deverá empregar na mistura com a tinta branca para",
+    "context": null,
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "conseguir a mesma tonalidade obtida na primeira compra é",
+    "alternativesIntroduction": "Uma loja que vende tintas tem uma máquina que efetua misturas de variadas cores para obter diferentes\ntonalidades. Um cliente havia comprado 7 litros de tinta de uma tonalidade, proveniente da mistura das cores verde e\nbranco, na proporção de 5 para 2, respectivamente. Tendo sido insuficiente a quantidade de tinta comprada, o cliente\nretorna à loja para comprar mais 3,5 litros da mesma mistura de tintas, com a mesma tonalidade que havia comprado\nanteriormente.\nA quantidade de tinta verde, em litro, que o funcionário dessa loja deverá empregar na mistura com a tinta branca para\nconseguir a mesma tonalidade obtida na primeira compra é",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "1,4.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "1,5.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "1,7.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "2,3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "2,5.",
             "file": null,
             "isCorrect": true
         }

@@ -4,38 +4,41 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Um princípio importante na dissolução de solutos é\nque semelhante dissolve semelhante. Isso explica, por\nexemplo, o açúcar se dissolver em grandes quantidades\nna água, ao passo que o óleo não se dissolve.\n\nH\nH\n\nÁgua\n\nAçúcar",
-    "files": [],
+    "context": "Um princípio importante na dissolução de solutos é\nque semelhante dissolve semelhante. Isso explica, por\nexemplo, o açúcar se dissolver em grandes quantidades\nna água, ao passo que o óleo não se dissolve.\n\n![](https://enem.dev/2020-reaplicacao/questions/103/7aee9bc7-4abf-43c9-8c3a-25ca3864d0e1.png)\n\nÁgua\n\n![](https://enem.dev/2020-reaplicacao/questions/103/aebedb6b-2965-4546-a52e-cb0aec0d06d2.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/103/7aee9bc7-4abf-43c9-8c3a-25ca3864d0e1.png",
+        "https://enem.dev/2020-reaplicacao/questions/103/aebedb6b-2965-4546-a52e-cb0aec0d06d2.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A dissolução na água, do soluto apresentado, ocorre predominantemente por meio da formação de",
+    "alternativesIntroduction": "A dissolução na água, do soluto apresentado, ocorre\npredominantemente por meio da formação de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "ligações iônicas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "ligações covalentes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "interações íon-dipolo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "ligações de hidrogênio.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "interações hidrofóbicas.",
             "file": null,
             "isCorrect": false
         }

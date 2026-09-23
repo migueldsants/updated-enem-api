@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Um agricultor deseja utilizar um motor para bombear\n\nágua (ρ água = 1 kg L−1) de um rio até um reservatório\n\nonde existe um desnível de 30 m de altura entre o rio e o\n\nreservatório, como representado na figura. Ele necessita\n\nde uma vazão constante de 3 600 litros de água por hora.\n\nConsidere a aceleração da gravidade igual a 10 m s−2.\n\nReservatório\n\nTubo\n\nTubo\n\nMotor\n\nRio",
-    "files": [],
+    "context": "Um agricultor deseja utilizar um motor para bombear\nágua (ρ_(água) = 1 kg L⁻¹) de um rio até um reservatório\nonde existe um desnível de 30 m de altura entre o rio e o\nreservatório, como representado na figura. Ele necessita\nde uma vazão constante de 3 600 litros de água por hora.\nConsidere a aceleração da gravidade igual a 10 m s⁻².\n\n![](https://enem.dev/2020-reaplicacao/questions/121/32c5f5f1-56bd-4218-84d7-1bf7e6f6803f.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/121/32c5f5f1-56bd-4218-84d7-1bf7e6f6803f.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Considerando a situação apresentada e desprezando efeitos de perdas mecânicas e elétricas, qual deve ser a potência mínima do motor para realizar a operação?",
+    "alternativesIntroduction": "Considerando a situação apresentada e desprezando\nefeitos de perdas mecânicas e elétricas, qual deve ser a\npotência mínima do motor para realizar a operação?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "1,0 × 10¹ W",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "5,0 × 10¹ W",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "3,0 × 10² W",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "3,6 × 10⁴ W",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "1,1 × 10⁶ W",
             "file": null,
             "isCorrect": false
         }

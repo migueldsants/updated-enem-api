@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "relevância da fala de prestígio na época da Corte portuguesa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "inovação do português brasileiro sem equivalente em Portugal.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "razões históricas do preconceito sobre a fala regional no Brasil.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "importância do estudo, da preservação e do respeito à língua falada no Brasil.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "variedade de uso da língua, característica da literatura e da música brasileiras.",
             "file": null,
             "isCorrect": false
         }

@@ -4,38 +4,41 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "As Artes Marciais Mistas, tradução do inglês: MMA –\nmixed martial arts, são realizadas num octógono regular.\nDe acordo com a figura, em certo momento os dois\n\n![](https://enem.dev/2018-reaplicacao/questions/142/f420bf9d-2047-4e21-9563-aab7bf55ad9c.png)\n\nlutadores estão respectivamente nas posições G e F, e\no juiz está na posição I. O triângulo IGH é equilátero e\nGÎF é o ângulo formado pelas semirretas com origem\nna posição do juiz, respectivamente passando pelas\nposições de cada um dos lutadores.\n\n![](https://enem.dev/2018-reaplicacao/questions/142/0131eb51-a271-4f62-9331-850c745a806d.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/142/f420bf9d-2047-4e21-9563-aab7bf55ad9c.png",
+        "https://enem.dev/2018-reaplicacao/questions/142/0131eb51-a271-4f62-9331-850c745a806d.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "As Artes Marciais Mistas, tradução do inglês: MMA – mixed martial arts, são realizadas num octógono regular. De acordo com a figura, em certo momento os dois lutadores estão respectivamente nas posições G e F, e o juiz está na posição I. O triângulo IGH é equilátero e GÎF é o ângulo formado pelas semirretas com origem na posição do juiz, respectivamente passando pelas posições de cada um dos lutadores.",
+    "alternativesIntroduction": "A medida do ângulo GÎF é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "A medida do ângulo GÎF é",
+            "text": "120°",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "75°",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "67,5°",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "60°",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "52,5°",
             "file": null,
             "isCorrect": true
         }

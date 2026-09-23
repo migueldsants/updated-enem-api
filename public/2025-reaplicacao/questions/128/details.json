@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "fragmentação espontânea ou acidental.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "desenvolvimento de embriões sem fecundação.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "formação de esporos, que germinam formando indivíduos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "divisão de um indivíduo em duas partes de mesma dimensão.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "divisão nuclear formando núcleos e, a partir desses, várias células.",
             "file": null,
             "isCorrect": false
         }

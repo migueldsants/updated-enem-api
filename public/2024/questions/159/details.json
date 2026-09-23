@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Uma tubulação despeja sempre o mesmo volume de\nágua por unidade de tempo em uma caixa-d’água, o que\nsignifica dizer que a vazão de água nessa tubulação é\nconstante. Na junção dessa tubulação com a caixa-d’água,\nestá instalada uma membrana de filtragem cujo objetivo é\nfiltrar eventuais impurezas presentes na água, combinado\na um bom fluxo de água. O fluxo (φ) de água através\nda superfície da membrana é diretamente proporcional\nà vazão de água na tubulação, medida em mililitro por\nsegundo, e inversamente proporcional à área da superfície\nda membrana, medida em centímetro quadrado.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2024/questions/159/0a067124-3905-4554-b556-758b2c81a39b.png",
+        "https://enem.dev/2024/questions/159/ff36818d-7eb0-4096-aca6-013de3290dea.png",
+        "https://enem.dev/2024/questions/159/1bcff66d-3ed9-4e25-baf4-c2f855f52f17.png",
+        "https://enem.dev/2024/questions/159/f11d4d4c-d7c0-473e-af38-a8e9168e5586.png",
+        "https://enem.dev/2024/questions/159/27401b6d-78bb-4ea6-a837-1d76fb0a400f.png"
+    ],
     "correctAlternative": "C",
     "alternativesIntroduction": "A unidade de medida adequada para descrever o fluxo (φ) de água que atravessa a superfície da membrana é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/159/0a067124-3905-4554-b556-758b2c81a39b.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/159/ff36818d-7eb0-4096-aca6-013de3290dea.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/159/1bcff66d-3ed9-4e25-baf4-c2f855f52f17.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/159/f11d4d4c-d7c0-473e-af38-a8e9168e5586.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/159/27401b6d-78bb-4ea6-a837-1d76fb0a400f.png",
             "isCorrect": false
         }
     ]

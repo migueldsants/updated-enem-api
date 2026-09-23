@@ -4,38 +4,38 @@
     "year": 2017,
     "language": "ingles",
     "discipline": "linguagens",
-    "context": "The Four Oxen and the Lion\n\n$\u0003 /LRQ\u0003 XVHG\u0003 WR\u0003 SURZO\u0003 DERXW\u0003 D\u0003 ¿HOG\u0003 LQ\u0003 ZKLFK\u0003 )RXU\u0003\nOxen used to live. Many a time he tried to attack them;\nbut whenever he came near, they turned their tails to one\nanother, so that whichever way he approached them he\nwas met by the horns of one of them. At last, however,\nthey quarreled among themselves, and each went off to\nSDVWXUH\u0003DORQH\u0003LQ\u0003D\u0003VHSDUDWH\u0003FRUQHU\u0003RI\u0003WKH\u0003¿HOG\u0011\u00037KHQ\u0003WKH\u0003\nLion attacked them one by one and soon made an end of\nall four.\n\nDisponível em: www.aesopfables.com. Acesso em: 1 dez. 2011.",
+    "context": "The Four Oxen and the Lion\n\nA Lion used to prowl about a field in which Four\nOxen used to live. Many a time he tried to attack them;\nbut whenever he came near, they turned their tails to one\nanother, so that whichever way he approached them he\nwas met by the horns of one of them. At last, however,\nthey quarreled among themselves, and each went off to\npasture alone in a separate corner of the field. Then the\nLion attacked them one by one and soon made an end of\nall four.\n\nDisponível em: www.aesopfables.com. Acesso em: 1 dez. 2011.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A fábula The Four Oxen and the Lion ilustra um preceito moral, como se espera em textos desse gênero. Essa moral, podendo ser compreendida como o tema do texto, está expressa em:",
+    "alternativesIntroduction": "A fábula The Four Oxen and the Lion ilustra um preceito\nmoral, como se espera em textos desse gênero. Essa\nmoral, podendo ser compreendida como o tema do texto,\nestá expressa em:",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "O mais forte sempre vence.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "A união faz a força.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "A força carrega a justiça nas costas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "O ataque é a melhor defesa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "O inimigo da vida é a morte.",
             "file": null,
             "isCorrect": false
         }

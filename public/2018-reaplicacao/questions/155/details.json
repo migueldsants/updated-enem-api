@@ -4,39 +4,47 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "A água comercializada em garrafões pode ser\nclassificada como muito ácida, ácida, neutra, alcalina\nou muito alcalina, dependendo de seu pH, dado pela\nexpressão\n\npH\nH\n= log\n,\n10\n1\n\nem que H é a concentração de íons de hidrogênio, em mol\npor decímetro cúbico. A classificação da água de acordo\ncom seu pH é mostrada no quadro.\n\npH\nClassificação\n\npH ≥ 9\nMuito alcalina\n\n7,5 ≤ pH < 9\nAlcalina\n\n6 ≤ pH < 7,5\nNeutra\n\n3,5 ≤ pH < 6\nÁcida\n\npH < 3,5\nMuito ácida",
-    "files": [],
+    "context": "A água comercializada em garrafões pode ser\nclassificada como muito ácida, ácida, neutra, alcalina\nou muito alcalina, dependendo de seu pH, dado pela\nexpressão\n\n![](https://enem.dev/2018-reaplicacao/questions/155/0cc5a374-6fcf-41cd-b5e6-8c65e224d723.png)\n\nem que H é a concentração de íons de hidrogênio, em mol\npor decímetro cúbico. A classificação da água de acordo\n\n![](https://enem.dev/2018-reaplicacao/questions/155/9c4231d5-c73e-4179-8831-2a724b1200d5.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/155/0cc5a374-6fcf-41cd-b5e6-8c65e224d723.png",
+        "https://enem.dev/2018-reaplicacao/questions/155/9c4231d5-c73e-4179-8831-2a724b1200d5.png",
+        "https://enem.dev/2018-reaplicacao/questions/155/e59912c6-b88d-4fea-abe1-2d3ee082ddbd.png",
+        "https://enem.dev/2018-reaplicacao/questions/155/7589f6c2-b0e7-42cf-9448-997790ca4bf3.png",
+        "https://enem.dev/2018-reaplicacao/questions/155/3733cf65-d227-4df3-ae02-c4d7b41865ab.png",
+        "https://enem.dev/2018-reaplicacao/questions/155/26f6bae0-93d4-4c6b-8659-932d4a5e0b6a.png",
+        "https://enem.dev/2018-reaplicacao/questions/155/33a8431e-8955-495c-9d37-fde01b06dacb.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Para o cálculo da concentração H, uma distribuidora mede dois parâmetros A e B, em cada fonte, e adota H como sendo o quociente de A por B. Em análise realizada em uma fonte, obteve A = 10−7 e a água dessa fonte foi classificada como neutra. O parâmetro B, então, encontrava-se no intervalo",
+    "alternativesIntroduction": "Para o cálculo da concentração H, uma distribuidora\nmede dois parâmetros A e B, em cada fonte, e adota\nH como sendo o quociente de A por B. Em análise\nrealizada em uma fonte, obteve A = 10⁻⁷ e a água dessa\nfonte foi classificada como neutra.\nO parâmetro B, então, encontrava-se no intervalo",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/155/e59912c6-b88d-4fea-abe1-2d3ee082ddbd.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/155/7589f6c2-b0e7-42cf-9448-997790ca4bf3.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/155/3733cf65-d227-4df3-ae02-c4d7b41865ab.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/155/26f6bae0-93d4-4c6b-8659-932d4a5e0b6a.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/155/33a8431e-8955-495c-9d37-fde01b06dacb.png",
             "isCorrect": false
         }
     ]

@@ -5,38 +5,42 @@
     "language": null,
     "discipline": "matematica",
     "context": "Durante anos, as medições de colesterol e triglicerídeos no sangue têm sido usadas para avaliar o risco de doenças cardíacas.\nEstudos descobriram que a relação entre os níveis de triglicerídeos e o colesterol HDL se correlacionam fortemente com a\nincidência da doença arterial coronariana. Se a razão entre os níveis de triglicerídeos (T) e de colesterol HDL (C), nessa ordem,\nfor superior a 4, ela indica risco de doença arterial coronariana.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/178/48094ca4-74ab-4033-93e6-a57a3385c8b8.png",
+        "https://enem.dev/2025-reaplicacao/questions/178/ba1c3281-dffc-49ea-aa16-473222f3fcad.png",
+        "https://enem.dev/2025-reaplicacao/questions/178/f787024a-edff-40a7-8615-5f9fb2fd4ce8.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A expressão algébrica que relaciona T e C indicando o risco de doença arterial coronariana é",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "q ⋅ ` < 4",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "q ⋅ ` > 4",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/178/48094ca4-74ab-4033-93e6-a57a3385c8b8.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/178/ba1c3281-dffc-49ea-aa16-473222f3fcad.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/178/f787024a-edff-40a7-8615-5f9fb2fd4ce8.png",
             "isCorrect": true
         }
     ]

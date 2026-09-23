@@ -4,39 +4,46 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma equipe de cientistas decidiu iniciar uma cultura\ncom exemplares de uma bactéria, em uma lâmina, a fim\nde determinar o comportamento dessa população. Após\nalguns dias, os cientistas verificaram os seguintes fatos:\n\n•\t a cultura cresceu e ocupou uma área com o\nformato de um círculo;\n•\t o raio do círculo formado pela cultura de bactérias\naumentou 10% a cada dia;\n•\t a concentração na cultura era de 1 000 bactérias\npor\nmilímetro\nquadrado\ne\nnão\nmudou\nsignificativamente com o tempo.\nConsidere que r representa o raio do círculo no\nprimeiro dia, Q a quantidade de bactérias nessa cultura\nno decorrer do tempo e d o número de dias transcorridos.",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/160/346278bd-d4bf-4ff7-95e0-18eb14c19300.png)\n\nUma equipe de cientistas decidiu iniciar uma cultura\ncom exemplares de uma bactéria, em uma lâmina, a fim\nde determinar o comportamento dessa população. Após\nalguns dias, os cientistas verificaram os seguintes fatos:\n\n• a cultura cresceu e ocupou uma área com o\nformato de um círculo;\n• o raio do círculo formado pela cultura de bactérias\naumentou 10% a cada dia;\n• a concentração na cultura era de 1 000 bactérias\npor milímetro quadrado e não mudou\nsignificativamente com o tempo.\nConsidere que r representa o raio do círculo no\nprimeiro dia, Q a quantidade de bactérias nessa cultura\nno decorrer do tempo e d o número de dias transcorridos.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/160/346278bd-d4bf-4ff7-95e0-18eb14c19300.png",
+        "https://enem.dev/2019-reaplicacao/questions/160/1d5349cd-9cd3-462f-b857-53d04de5df26.png",
+        "https://enem.dev/2019-reaplicacao/questions/160/d31bb035-8d35-44c9-8c0e-d4a97e29060c.png",
+        "https://enem.dev/2019-reaplicacao/questions/160/166345fe-3bfb-45ae-ba4c-7001c766a999.png",
+        "https://enem.dev/2019-reaplicacao/questions/160/d7620d54-a3f9-45ff-9883-3307e554d299.png",
+        "https://enem.dev/2019-reaplicacao/questions/160/3ddf4db3-33b6-4e24-b881-326208337dda.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Qual é a expressão que representa Q em função de r e d ?",
+    "alternativesIntroduction": "Qual é a expressão que representa Qem função de r e d ?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/160/1d5349cd-9cd3-462f-b857-53d04de5df26.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/160/d31bb035-8d35-44c9-8c0e-d4a97e29060c.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/160/166345fe-3bfb-45ae-ba4c-7001c766a999.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/160/d7620d54-a3f9-45ff-9883-3307e554d299.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/160/3ddf4db3-33b6-4e24-b881-326208337dda.png",
             "isCorrect": false
         }
     ]

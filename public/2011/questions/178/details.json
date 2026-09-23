@@ -6,39 +6,44 @@
     "discipline": "matematica",
     "context": "![](https://enem.dev/2011/questions/178/eaed6fd4-dacb-43e7-87ab-33f40ac3efba.png)",
     "files": [
-        "https://enem.dev/2011/questions/178/eaed6fd4-dacb-43e7-87ab-33f40ac3efba.png"
+        "https://enem.dev/2011/questions/178/eaed6fd4-dacb-43e7-87ab-33f40ac3efba.png",
+        "https://enem.dev/2011/questions/178/efeccfb2-b5e8-40f3-b290-23ffdeb5156a.png",
+        "https://enem.dev/2011/questions/178/993e7302-e8e2-46eb-a9cd-98b50c916272.png",
+        "https://enem.dev/2011/questions/178/4e7dca3f-3459-41a6-b969-247b46da3347.png",
+        "https://enem.dev/2011/questions/178/087172d8-ad20-495f-b6ec-7819a67e7b88.png",
+        "https://enem.dev/2011/questions/178/581759ad-0268-4036-8954-6aedd72e6954.png"
     ],
     "correctAlternative": "C",
     "alternativesIntroduction": "Considerando-se S como a resistência, a representação algébrica que exprime essa relação é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "S = k . b . d",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2011/questions/178/efeccfb2-b5e8-40f3-b290-23ffdeb5156a.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "S = b . d²",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2011/questions/178/993e7302-e8e2-46eb-a9cd-98b50c916272.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "S = k . b . d²",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2011/questions/178/4e7dca3f-3459-41a6-b969-247b46da3347.png",
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "S = (k . b)/d",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2011/questions/178/087172d8-ad20-495f-b6ec-7819a67e7b88.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "S = (k . d²)/b",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2011/questions/178/581759ad-0268-4036-8954-6aedd72e6954.png",
             "isCorrect": false
         }
     ]

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "No sistema monástico, pela valorização da religião.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "Na existência em comunidade, pela comunhão de valores.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "No modelo de autogestão, pela emancipação do sujeito.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "No estado de natureza, pelo exercício da liberdade.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "Na vida em sociedade, pela abundância de bens.",
             "file": null,
             "isCorrect": false
         }

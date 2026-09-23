@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2020",
+    "index": 168,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Num recipiente com a forma de paralelepípedo\nreto-retângulo, colocou-se água até a altura de 8 cm e\num objeto, que ficou flutuando na superfície da água.\n\nPara retirar o objeto de dentro do recipiente, a altura\nda coluna de água deve ser de, pelo menos, 15 cm. Para\na coluna de água chegar até essa altura, é necessário\ncolocar dentro do recipiente bolinhas de volume igual a\n6 cm³ cada, que ficarão totalmente submersas.\n\n![](https://enem.dev/2020/questions/168/e8d68bb8-995c-4da2-a2ae-7a7cd80953a6.png)",
+    "files": [
+        "https://enem.dev/2020/questions/168/e8d68bb8-995c-4da2-a2ae-7a7cd80953a6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número mínimo de bolinhas necessárias para que se\npossa retirar o objeto que flutua na água, seguindo as\ninstruções dadas, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "PQK",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -4,38 +4,40 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O cladograma demonstra o grau de parentesco entre\ncinco grupos de animais vertebrados.\n\nSardinha                 Sapo                  Jacaré           Pardal        Coelho\n\nAdaptação para voo\n\nGlândulas\nmamárias\n\nOvo amniótico\n\nMembros\nlocomotores e\n\npulmões\n\nVértebras",
-    "files": [],
+    "context": "O cladograma demonstra o grau de parentesco entre\ncinco grupos de animais vertebrados.\n\nSardinhaSapo Jacaré Pardal Coelho\n\n![](https://enem.dev/2021-reaplicacao/questions/102/8b9d0893-fe38-4edc-a453-3c036b07b931.png)",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/102/8b9d0893-fe38-4edc-a453-3c036b07b931.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "De acordo com esse cladograma, quais animais apresentam maior semelhança genética?",
+    "alternativesIntroduction": "De acordo com esse cladograma, quais animais\napresentam maior semelhança genética?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "Sapo e jacaré.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "Jacaré e pardal.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "Pardal e coelho.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "Sardinha e sapo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "Coelho e sardinha.",
             "file": null,
             "isCorrect": false
         }

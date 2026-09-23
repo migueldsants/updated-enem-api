@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "ciencias-natureza",
     "context": "Ao realizar os preparativos para o Natal, uma pessoa\nresolveu aumentar o número de lâmpadas incandescentes\nde um pisca-pisca que originalmente tinha 20 lâmpadas\nassociadas em paralelo, cada uma com resistência R.\nAdicionou outras 20 lâmpadas com as mesmas\nespecificações e também em paralelo. O circuito passou\na ser composto por 40 lâmpadas em paralelo e uma fonte\nde resistência interna r. A corrente total do circuito com\n40 lâmpadas é proporcional à corrente do circuito com\n20 lâmpadas, ou seja, i40 = a ⋅ i20. Ao ligar o sistema,\nela observou que o brilho das lâmpadas diminuiu com\nfator de proporcionalidade igual a a2.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/128/461e9117-c389-4155-a4f1-1b6eb7315fee.png",
+        "https://enem.dev/2024-reaplicacao/questions/128/ac9f2b7b-0315-48a6-bded-e7e3b4e7f76e.png",
+        "https://enem.dev/2024-reaplicacao/questions/128/3d052ccc-e017-4d1a-965c-c23705e28fbf.png",
+        "https://enem.dev/2024-reaplicacao/questions/128/12909cd0-76e3-413f-97e6-040935e3deaa.png",
+        "https://enem.dev/2024-reaplicacao/questions/128/3feb0074-4159-4d24-b061-7593ef3028ea.png"
+    ],
     "correctAlternative": "C",
     "alternativesIntroduction": "Qual é o fator a, utilizado para a obtenção da redução do brilho em cada lâmpada?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "1",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/128/461e9117-c389-4155-a4f1-1b6eb7315fee.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "1 R r +",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/128/ac9f2b7b-0315-48a6-bded-e7e3b4e7f76e.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "R r + R r +",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/128/3d052ccc-e017-4d1a-965c-c23705e28fbf.png",
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "R r +",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/128/12909cd0-76e3-413f-97e6-040935e3deaa.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "R r 40 +",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/128/3feb0074-4159-4d24-b061-7593ef3028ea.png",
             "isCorrect": false
         }
     ]

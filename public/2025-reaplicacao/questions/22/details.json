@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "contradição social decorrente de diferenças de classe.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "dificuldade inerente às condições de vida do trabalhador.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "indiferença do idoso em relação ao constrangimento vivido.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "determinação pessoal no enfrentamento de conflitos sociais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "priorização no atendimento da clientela em razão de seu gênero.",
             "file": null,
             "isCorrect": false
         }

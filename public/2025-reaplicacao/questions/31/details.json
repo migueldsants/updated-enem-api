@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "dificuldade do ser humano para sobreviver no mundo tecnológico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "necessidade de momentos de distanciamento da tecnologia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "impossibilidade da associação entre tecnologia e descanso.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "ineficácia da meditação por meio de sites e aplicativos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "dependência do uso de tecnologias no cotidiano.",
             "file": null,
             "isCorrect": true
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "existência do saber divino em cooperação com o conhecimento humano.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "prevalência da liberdade humana diante da facticidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "precedência da cognição transcendental sobre o agir humano.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "conformação da natureza humana perante os acontecimentos no mundo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "autonomia do indivíduo a despeito das necessidades inerentes à condição humana.",
             "file": null,
             "isCorrect": false
         }

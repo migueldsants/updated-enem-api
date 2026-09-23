@@ -4,40 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "Um estudante, morador da cidade de Contagem,\nouviu dizer que nessa cidade existem ruas que formam\num hexágono regular. Ao pesquisar em um sítio de\nmapas, verificou que o fato é verídico, como mostra a figura.\n\n\n\n![](https://enem.dev/2020-reaplicacao/questions/172/8b6cbb69-3fd6-4dce-a3c3-56717686ef56.png)\n\n\n\nDisponível em: www.google.com. Acesso em: 7 dez. 2017 (adaptado).\nEle observou que o mapa apresentado na tela do\ncomputador estava na escala 1 : 20 000. Nesse instante,\nmediu o comprimento de um dos segmentos que formam\nos lados desse hexágono, encontrando 5 cm.\nSe esse estudante resolver dar uma volta completa pelas\nruas que formam esse hexágono, ele percorrerá, em\nquilômetro,",
+    "context": "Um estudante, morador da cidade de Contagem,\nouviu dizer que nessa cidade existem ruas que formam\num hexágono regular. Ao pesquisar em um sítio de\nmapas, verificou que o fato é verídico, como mostra a figura.\n\n![](https://enem.dev/2020-reaplicacao/questions/172/6f8880f7-af9f-412b-b3f4-02e2c074e3cb.png)\n\nDisponível em: www.google.com. Acesso em: 7 dez. 2017 (adaptado).",
     "files": [
-        "https://enem.dev/2020-reaplicacao/questions/172/8b6cbb69-3fd6-4dce-a3c3-56717686ef56.png"
+        "https://enem.dev/2020-reaplicacao/questions/172/6f8880f7-af9f-412b-b3f4-02e2c074e3cb.png"
     ],
     "correctAlternative": "C",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Ele observou que o mapa apresentado na tela do\ncomputador estava na escala 1 : 20 000. Nesse instante,\nmediu o comprimento de um dos segmentos que formam\nos lados desse hexágono, encontrando 5 cm.\nSe esse estudante resolver dar uma volta completa pelas\nruas que formam esse hexágono, ele percorrerá, em\nquilômetro,",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "1.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "4.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "6.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "20.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "24.",
             "file": null,
             "isCorrect": false
         }

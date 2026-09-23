@@ -14,31 +14,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "convidam a pensar sobre o conceito ampliado de saúde.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "criticam a relação entre a prática de exercícios e a saúde.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "coadunam-se com o conceito de saúde construído na Conferência.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "exemplificam a conquista do estado de saúde em um sentido amplo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "reproduzem a relação de causalidade entre fazer exercício e ter saúde.",
             "file": null,
             "isCorrect": true
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "pressupõe projetos urbanísticos que sejam adequados.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "exige quadras e ginásios que se localizem fora da escola.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "demanda locais específicos que viabilizem sua realização.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "pede criação de regras que atendam à reconfiguração urbana.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "requer modalidades não convencionais que explorem o espaço urbano.",
             "file": null,
             "isCorrect": true
         }

@@ -10,7 +10,12 @@
         "https://enem.dev/2025/questions/127/2af3cd66-8e47-4a8c-91fe-bee3acb55ca0.png",
         "https://enem.dev/2025/questions/127/06a24661-4e25-4f91-9fcc-6c1cbab6b31a.png",
         "https://enem.dev/2025/questions/127/8579bbfa-e394-4f95-af26-e5c8153ed6cd.png",
-        "https://enem.dev/2025/questions/127/52142ac2-2b9b-4962-a696-703c2772bf50.png"
+        "https://enem.dev/2025/questions/127/52142ac2-2b9b-4962-a696-703c2772bf50.png",
+        "https://enem.dev/2025/questions/127/04820b1a-2e8c-4a4f-8f51-fb9f124f8b73.png",
+        "https://enem.dev/2025/questions/127/f0f2f096-7914-4a32-a1b9-460d661ebcb9.png",
+        "https://enem.dev/2025/questions/127/d17c1d12-3600-4d43-8518-dac2e6eaeaf6.png",
+        "https://enem.dev/2025/questions/127/66c3f33b-b68f-4377-832f-78239b30933b.png",
+        "https://enem.dev/2025/questions/127/aa598e20-8599-4918-b7be-54e50d427ed6.png"
     ],
     "correctAlternative": "C",
     "alternativesIntroduction": "O gráfico que representa a situação descrita é:",
@@ -18,31 +23,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2025/questions/127/2af3cd66-8e47-4a8c-91fe-bee3acb55ca0.png",
+            "file": "https://enem.dev/2025/questions/127/04820b1a-2e8c-4a4f-8f51-fb9f124f8b73.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2025/questions/127/06a24661-4e25-4f91-9fcc-6c1cbab6b31a.png",
+            "file": "https://enem.dev/2025/questions/127/f0f2f096-7914-4a32-a1b9-460d661ebcb9.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2025/questions/127/8579bbfa-e394-4f95-af26-e5c8153ed6cd.png",
+            "file": "https://enem.dev/2025/questions/127/d17c1d12-3600-4d43-8518-dac2e6eaeaf6.png",
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "E ￼",
-            "file": "https://enem.dev/2025/questions/127/52142ac2-2b9b-4962-a696-703c2772bf50.png",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/127/66c3f33b-b68f-4377-832f-78239b30933b.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025/questions/127/aa598e20-8599-4918-b7be-54e50d427ed6.png",
             "isCorrect": false
         }
     ]

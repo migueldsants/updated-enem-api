@@ -4,38 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Os produtores de Nova Europa (SP) estão\ninsatisfeitos com a proibição da queima e do corte\nmanual de cana, que começou no sábado (01/03/2014)\nem todo o estado de São Paulo. Para eles, a produção\nse torna inviável, já que uma máquina chega a custar\nR$ 800 mil e o preço do corte dobraria. Além disso, a\nmecanização cortou milhares de postos de trabalho.\n\nSociedade Brasileira dos Especialistas em Resíduos das Produções Agropecuárias e Agroindustrial\n\n(SBERA). &RP\u0003SURLELomR\u0003GD\u0003TXHLPD\u000f\u0003SURGXWRUHV\u0003GL]HP\u0003TXH\u0003FRUWH\u0003GD\u0003FDQD\u0003¿FD\u0003LQYLiYHO.\n\nDisponível em: http://sbera.org.br. Acesso em: 25 mar. 2014.",
-    "files": [],
+    "context": "Os produtores de Nova Europa (SP) estão\ninsatisfeitos com a proibição da queima e do corte\nmanual de cana, que começou no sábado (01/03/2014)\nem todo o estado de São Paulo. Para eles, a produção\nse torna inviável, já que uma máquina chega a custar\nR$ 800 mil e o preço do corte dobraria. Além disso, a\nmecanização cortou milhares de postos de trabalho.\n\nSociedade Brasileira dos Especialistas em Resíduos das Produções Agropecuárias e Agroindustrial\n\n![](https://enem.dev/2017-reaplicacao/questions/76/04f52aff-d5f1-4c30-8428-a4d45cc844de.png)",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/76/04f52aff-d5f1-4c30-8428-a4d45cc844de.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A proibição imposta aos produtores de cana tem como objetivo",
+    "alternativesIntroduction": "A proibição imposta aos produtores de cana tem como\nobjetivo",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "restringir o fluxo migratório e o povoamento da região.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "aumentar a lucratividade dos canaviais e do setor sucroenergético.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "reduzir a emissão de poluentes e o agravamento dos problemas ambientais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "promover o desenvolvimento e a sustentabilidade da indústria intermediária.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "estimular a qualificação e a promoção da mão de obra presente nos canaviais.",
             "file": null,
             "isCorrect": false
         }

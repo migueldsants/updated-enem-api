@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Cientistas do país estudam interação entre a\n\nAntártica e a Amazônia\n\nÉ difícil imaginar que a Antártica possa interferir no\nclima de um país tropical como o Brasil, mas a verdade\né que o continente gelado influencia e é influenciado\nespecialmente pelo que acontece na América do Sul,\ninclusive na Amazônia, causando secas na região e\nrecebendo a poluição gerada ali.\n\nDisponível em: http://g1.globo.com. Acesso em: 8 dez. 2017 (adaptado).\nAs interações citadas são efeito de um processo\natmosférico marcado por",
+    "context": "Cientistas do país estudam interação entre a\nAntártica e a Amazônia\nÉ difícil imaginar que a Antártica possa interferir no\nclima de um país tropical como o Brasil, mas a verdade\né que o continente gelado influencia e é influenciado\nespecialmente pelo que acontece na América do Sul,\ninclusive na Amazônia, causando secas na região e\nrecebendo a poluição gerada ali.\n\nDisponível em: http://g1.globo.com. Acesso em: 8 dez. 2017 (adaptado).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "As interações citadas são efeito de um processo\natmosférico marcado por",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "equidade entre índices de refletividade superficial.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "bloqueios de elevadas barreiras orográficas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "preponderância de correntes marinhas frias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "fluxos entre faixas de latitudes distintas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "alternância da pressão do ar equatorial.",
             "file": null,
             "isCorrect": false
         }

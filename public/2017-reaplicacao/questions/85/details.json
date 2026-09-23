@@ -4,38 +4,41 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Homens\nMulheres\n\n75 e +\n70-74\n\n65-69\n60-64\n\n55-59\n\n50-54\n45-49\n40-44\n\n35-39\n30-34\n25-29\n20-24\n\n15-19\n10-14\n\n5-9\n0-4\n\n4\n2\n0\n0\n2\n4\n\n% da população\n\nCALDINI, V.; ÍSOLA, L. $WODV\u0003JHRJUi¿FR\u00036DUDLYD. São Paulo: Saraiva, 2009 (adaptado).",
-    "files": [],
+    "context": "![](https://enem.dev/2017-reaplicacao/questions/85/a08b9a23-ce9c-4de2-9c81-9b06997651cd.png)\n\n![](https://enem.dev/2017-reaplicacao/questions/85/abf2a909-a100-46f9-9fc0-05d408f76dbd.png)",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/85/a08b9a23-ce9c-4de2-9c81-9b06997651cd.png",
+        "https://enem.dev/2017-reaplicacao/questions/85/abf2a909-a100-46f9-9fc0-05d408f76dbd.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "2\u0003SDGUmR\u0003GD\u0003SLUkPLGH\u0003HWiULD\u0003LOXVWUDGD\u0003DSUHVHQWD\u0003GHPDQGD\u0003 de investimentos socioeconômicos para a",
+    "alternativesIntroduction": "O padrão da pirâmide etária ilustrada apresenta demanda\nde investimentos socioeconômicos para a",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "redução da mortalidade infantil.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "promoção da saúde dos idosos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "resolução do déficit habitacional.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "garantia da segurança alimentar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "universalização da educação básica.",
             "file": null,
             "isCorrect": false
         }

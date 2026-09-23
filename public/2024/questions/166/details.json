@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "A densidade demográfica de uma região é definida\ncomo sendo a razão entre o número de habitantes dessa\nregião e sua área, expressa na unidade habitantes por\nquilômetro quadrado.\n\nUma região R é subdividida em várias outras, sendo\numa delas a região Q. A área de Q é igual a três quartos da\nárea de R, e o número de habitantes de Q é igual à metade\ndo número de habitantes de R. As densidades demográficas\ncorrespondentes a essas regiões são denotadas por d(Q)\ne d(R).",
-    "files": [],
+    "files": [
+        "https://enem.dev/2024/questions/166/14e59975-df56-4861-a7a0-15c1090af887.png",
+        "https://enem.dev/2024/questions/166/2d6b2df6-7112-46de-9d6c-a2cdcfd4893f.png",
+        "https://enem.dev/2024/questions/166/af8ef859-1aaa-40da-9b8c-969c994be1d5.png",
+        "https://enem.dev/2024/questions/166/31accf5b-9ff9-4a16-9d14-930dc496d02f.png",
+        "https://enem.dev/2024/questions/166/cf78846f-004b-4d2e-a19e-6fd638e39128.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A expressão que relaciona d(Q) e d(R) é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/166/14e59975-df56-4861-a7a0-15c1090af887.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/166/2d6b2df6-7112-46de-9d6c-a2cdcfd4893f.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/166/af8ef859-1aaa-40da-9b8c-969c994be1d5.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/166/31accf5b-9ff9-4a16-9d14-930dc496d02f.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/166/cf78846f-004b-4d2e-a19e-6fd638e39128.png",
             "isCorrect": true
         }
     ]

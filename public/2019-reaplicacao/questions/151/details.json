@@ -4,39 +4,47 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Para certas molas, a constante elástica (C) depende\ndo diâmetro médio da circunferência da mola (D), do\nnúmero de espirais úteis (N), do diâmetro (d) do fio\nde metal do qual é formada a mola e do módulo de\nelasticidade do material (G). A fórmula evidencia essas\nrelações de dependência.\n\nD\nN\n\nC\nG d\n\n3\n8\n\nO dono de uma fábrica possui uma mola M1 em um\nde seus equipamentos, que tem características D1, d1,\nN1 e G1, com uma constante elástica C1. Essa mola\nprecisa ser substituída por outra, M2, produzida com\noutro material e com características diferentes, bem\ncomo uma nova constante elástica C2, da seguinte\n\nmaneira: I) D2 = D1\n\n3 ; II) d2 = 3d1; III) N2 = 9N1. Além\n\ndisso, a constante de elasticidade G2 do novo material\né igual a 4G1.\n\nO valor da constante C2 em função da constante C1 é\n\nA\nC2 = 972⋅C1\n\nB\nC2 = 108⋅C1\n\nC\nC2 = 4⋅C1\n\nD\nC\nC\n2\n1\n4\n3",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/151/6cbed0ce-623e-4548-be91-f364a58cc946.png)\n\nPara certas molas, a constante elástica (`) depende\ndo diâmetro médio da circunferência da mola (a), do\nnúmero de espirais úteis (k), do diâmetro (Ç) do fio\nde metal do qual é formada a mola e do módulo de\nelasticidade do material (d). A fórmula evidencia essas\nrelações de dependência.\n\n![](https://enem.dev/2019-reaplicacao/questions/151/73268202-aac3-4d30-8a3b-16feff77eee4.png)\n\nO dono de uma fábrica possui uma mola j em um\nde seus equipamentos, que tem características a , Ç I\n\n1 1\n\nk e d , com uma constante elástica ` . Essa mola\n\n1 1 1\n\nprecisa ser substituída por outra, j , produzida com\noutro material e com características diferentes, bem\ncomo uma nova constante elástica ` , da seguinte\n\n![](https://enem.dev/2019-reaplicacao/questions/151/357fb34b-5603-4388-b01e-736475fe5d1f.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/151/1b09898a-38d5-4560-a3e0-9b1f4ac96465.png)\n\ndisso, a constante de elasticidade d do novo material\né igual a 4d .\n\nO valor da constante ` em função da constante ` é",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/151/6cbed0ce-623e-4548-be91-f364a58cc946.png",
+        "https://enem.dev/2019-reaplicacao/questions/151/73268202-aac3-4d30-8a3b-16feff77eee4.png",
+        "https://enem.dev/2019-reaplicacao/questions/151/357fb34b-5603-4388-b01e-736475fe5d1f.png",
+        "https://enem.dev/2019-reaplicacao/questions/151/1b09898a-38d5-4560-a3e0-9b1f4ac96465.png",
+        "https://enem.dev/2019-reaplicacao/questions/151/c647db12-68b2-4314-81dc-bbfa45fdde61.png",
+        "https://enem.dev/2019-reaplicacao/questions/151/cf05b58f-dcca-460e-953d-f1c424d1b324.png",
+        "https://enem.dev/2019-reaplicacao/questions/151/9b168853-1d86-44c2-a245-a75918222b3a.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "E C C 2 1 4 9",
+    "alternativesIntroduction": "2 1",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "` Z 972⋅` 2 1",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "` Z 108⋅` 2 1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/151/c647db12-68b2-4314-81dc-bbfa45fdde61.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/151/cf05b58f-dcca-460e-953d-f1c424d1b324.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/151/9b168853-1d86-44c2-a245-a75918222b3a.png",
             "isCorrect": false
         }
     ]

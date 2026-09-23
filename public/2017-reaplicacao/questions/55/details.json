@@ -4,38 +4,38 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "O rapaz que pretende se casar não nasceu com esse\nLPSHUDWLYR\u0011\u0003 (OH\u0003 IRL\u0003 LQVXÀDGR\u0003 SHOD\u0003 VRFLHGDGH\u000f\u0003 UHIRUoDGR\u0003\npelas incontáveis pressões de histórias de família,\neducação, moral, religião, dos meios de comunicação e\nda publicidade. Em outras palavras, o casamento não é\num instinto, e sim uma instituição.\n\n%(5*(5\u000f\u00033\u0011\u0003Perspectivas sociológicas: uma visão humanística.\n\nPetrópolis: Vozes, 1986 (adaptado).",
+    "context": "O rapaz que pretende se casar não nasceu com esse\nimperativo. Ele foi insuflado pela sociedade, reforçado\npelas incontáveis pressões de histórias de família,\neducação, moral, religião, dos meios de comunicação e\nda publicidade. Em outras palavras, o casamento não é\num instinto, e sim uma instituição.\n\nBERGER, P. Perspectivas sociológicas: uma visão humanística.\nPetrópolis: Vozes, 1986 (adaptado).",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "O casamento, conforme é tratado no texto, possui como característica o(a)",
+    "alternativesIntroduction": "O casamento, conforme é tratado no texto, possui como\ncaracterística o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "consolidação da igualdade sexual.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "ordenamento das relações sociais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "conservação dos direitos naturais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "superação das tradições culturais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "questionamento dos valores cristãos.",
             "file": null,
             "isCorrect": false
         }

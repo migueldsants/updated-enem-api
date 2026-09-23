@@ -4,14 +4,17 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/153/cacd88f3-166a-415c-a334-d88502bb0e20.png)\n\nA unidade de medida utilizada para anunciar o\ntamanho das telas de televisores no Brasil é a polegada,\nque corresponde a 2,54 cm. Diferentemente do que muitos\nimaginam, dizer que a tela de uma TV tem X polegadas\nsignifica que a diagonal do retângulo que representa sua\ntela mede X polegadas, conforme ilustração.\n\n![](https://enem.dev/2019-reaplicacao/questions/153/36d2a23c-f301-4050-8489-33db6cb8712d.png)\n\nA\n\nC\n\nO administrador de um museu recebeu uma TV\nconvencional de 20 polegadas, que tem como razão\ndo comprimento (C) pela altura (A) a proporção 4 : 3, e\nprecisa calcular o comprimento (C) dessa TV a fim de\ncolocá-la em uma estante para exposição.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/153/cacd88f3-166a-415c-a334-d88502bb0e20.png",
+        "https://enem.dev/2019-reaplicacao/questions/153/36d2a23c-f301-4050-8489-33db6cb8712d.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A unidade de medida utilizada para anunciar o tamanho das telas de televisores no Brasil é a polegada, que corresponde a 2,54 cm. Diferentemente do que muitos imaginam, dizer que a tela de uma TV tem X polegadas significa que a diagonal do retângulo que representa sua tela mede X polegadas, conforme ilustração.",
+    "alternativesIntroduction": "A tela dessa TV tem medida do comprimento C, em\ncentímetro, igual a",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "12,00.",
             "file": null,
             "isCorrect": false
         },
@@ -23,7 +26,7 @@
         },
         {
             "letter": "C",
-            "text": "O administrador de um museu recebeu uma TV convencional de 20 polegadas, que tem como razão do comprimento (C) pela altura (A) a proporção 4 : 3, e precisa calcular o comprimento (C) dessa TV a fim de colocá-la em uma estante para exposição. A tela dessa TV tem medida do comprimento C, em centímetro, igual a",
+            "text": "30,48.",
             "file": null,
             "isCorrect": false
         },

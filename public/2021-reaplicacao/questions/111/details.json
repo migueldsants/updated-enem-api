@@ -4,38 +4,40 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Buscando conhecer as informações técnicas de um ferro\nelétrico para avaliar o consumo de energia, um estudante\n\u000e\u000f\n\u0005\r\u000e\u0006\u0002\u001e\b\u0002 \b2J\f\u0010\b\t\u0002 \u000e\u0005P\u0004\u0007\u0010\b'\u0011\n\t\u0002 \u000f\n\n\u0002\n2\n\r\u0007\u0004\u000f\u0004\u0010^\t\r\u000e\u001e\u0004\u0002\nP\u0004\u0007\u0005\n\u001e\u000e\u000f\b\t\u0002%\n2\u0004\u0002P\b!\u0007\u000e\u001e\b\u0005\r\n$\u0002\u001e\u0004\u0010\u0004\u0002\u0010\u0004\t\r\u0007\b\u0002\b\u0002\u0006\u0002J\f\u0007\b(\n\n115 VCA\n750 W\n\nGREF. Física 3: Eletromagnetismo(\u0002\u001a\u001d\u0004\u0002\u001f\b\f2\u0004I\u0002\u0014\u000f\f\t%$\u0002\u0002\b\u000f\b%\r\b\u000f\u0004(",
-    "files": [],
+    "context": "Buscando conhecer as informações técnicas de um ferro\nelétrico para avaliar o consumo de energia, um estudante\nidentifica algumas informações desse eletrodoméstico\nfornecidas pelo fabricante, como mostra a figura.\n\n115 VCA\n750 W\n\n![](https://enem.dev/2021-reaplicacao/questions/111/e17e5594-c4e9-40c2-9414-24b1bed3da36.png)\n\nSabe-se que esse aparelho é utilizado, em média,\n30 minutos por dia, durante 30 dias.\n\nGREF. Física 3: Eletromagnetismo. São Paulo: Edusp, 1993 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/111/e17e5594-c4e9-40c2-9414-24b1bed3da36.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Qual é o valor mais próximo do consumo mensal de energia desse eletrodoméstico, em kWh?",
+    "alternativesIntroduction": "Qual é o valor mais próximo do consumo mensal de\nenergia desse eletrodoméstico, em kWh?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "0,87",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "1,73",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "3,45",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "11,3",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "22,5",
             "file": null,
             "isCorrect": false
         }

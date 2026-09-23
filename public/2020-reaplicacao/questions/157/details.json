@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Um vidraceiro precisa construir tampos de vidro com formatos diferentes, porém com medidas de áreas iguais.\nPara isso, pede a um amigo que o ajude a determinar uma fórmula para o cálculo do raio R de um tampo de vidro\ncircular com área equivalente à de um tampo de vidro quadrado de lado L.\n\nR\nL",
-    "files": [],
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/157/66200f63-dfdb-4237-8577-a3be1a819b93.png",
+        "https://enem.dev/2020-reaplicacao/questions/157/9db6aa69-5c1d-4565-b538-fd0d11282328.png",
+        "https://enem.dev/2020-reaplicacao/questions/157/0582577b-479b-49f5-8502-45bb364314cc.png",
+        "https://enem.dev/2020-reaplicacao/questions/157/90cd63fa-9bac-454b-bec5-d216648ed4a2.png",
+        "https://enem.dev/2020-reaplicacao/questions/157/1f37ac7d-2be5-4b9f-ad7b-78c4ca7c0548.png"
+    ],
     "correctAlternative": "A",
     "alternativesIntroduction": "A fórmula correta é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/157/66200f63-dfdb-4237-8577-a3be1a819b93.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/157/9db6aa69-5c1d-4565-b538-fd0d11282328.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/157/0582577b-479b-49f5-8502-45bb364314cc.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/157/90cd63fa-9bac-454b-bec5-d216648ed4a2.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/157/1f37ac7d-2be5-4b9f-ad7b-78c4ca7c0548.png",
             "isCorrect": false
         }
     ]

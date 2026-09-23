@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "a alienação provocada pelo uso excessivo da tecnologia nas sociedades urbanas contemporâneas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "o estágio mais recente da evolução tecnológica para o armazenamento de dados digitais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "os diferentes tipos de dispositivos usados atualmente para a gravação de dados digitais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "o desperdício de matéria-prima proveniente da indústria tecnológica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "a comparação entre evolução humana e tecnológica.",
             "file": null,
             "isCorrect": false
         }

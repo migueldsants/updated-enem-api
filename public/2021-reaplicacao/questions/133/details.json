@@ -7,35 +7,35 @@
     "context": null,
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Um agricultor, visando melhorar a vida útil dos vegetais que comercializa, optou por embalagens a vácuo. \u0014 \u0002 %\u0007\u0004 \u000f\u000e\u0010 \u0005 \u0004\u0002 \u000e\u0010% \u000f \u0002 \b\u0002 %\u0007\u00042\u000eP \u0007\b' \u0004\u0002 \u000f\u0004 \u0002 %\u0007\u000e\u0005 \u000e%\b\u000e \u0002 \u0010\u000e \u0007\u0004\u0007J\b\u0005\u000e \u0010\u0004 \u0002 \u0002 %\b\u0007 \u000e \u000e%\b\u0010\u0002 \u000f\b\u0002 \u000f \u0004\u0010%\u0004 \u000e' \u0004\u0002 \u000f\u0004 \u0002 alimentos, prolongando o período de consumo dos vegetais. \u0014 \u0002 \u000e%\u0004\u0002 \u000f \u0002 \u0010!\b2\bJ \u0010\u0002 \u000e\u0010% \u000f \u0002 \b\u0002 %\u0007\u00042\u000eP \u0007\b' \u0004\u0002 \u000f \u0002 microrganismos porque",
+    "alternativesIntroduction": "Um agricultor, visando melhorar a vida útil dos\nvegetais que comercializa, optou por embalagens a vácuo.\nEsse procedimento impede a proliferação dos principais\nmicrorganismos que participam da decomposição dos\nalimentos, prolongando o período de consumo dos vegetais.\nEsse tipo de embalagem impede a proliferação de\nmicrorganismos porque",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "retém água.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "controla o pH.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "evita a perda de nutrientes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "mantém a temperatura constante.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "impede o contato com o oxigênio.",
             "file": null,
             "isCorrect": true
         }

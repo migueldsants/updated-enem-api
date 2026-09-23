@@ -4,38 +4,40 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "Black Friday\u0002 ^\u0002 \f\u0010\b\u0002 \r\u0007\b\u000f\u000e'\u001d\u0004\u0002 \u0005\u0004\u0007\r\n/\b\u0010\n\u0007\u000e\u001e\b\u0005\b\u0002\nque consiste numa queda de preços de uma grande\nvariedade de produtos disponíveis para venda na\nK2\r\u000e\u0010\b\u0002\n@\r\b/P\n\u000e\u0007\b\u0002\u000f\u0004\u0002\u0010>\t\u0002\u000f\n\u0002\u0005\u0004#\n\u0010!\u0007\u0004(\u0002\u0016\u0004\u0002¤\u0007\b\t\u000e2$\u0002\n\u0010\u0002\nmuitas lojas, essa prática se estende por todo esse\nmês. Para esse período, o gerente de uma loja de\nprodutos eletrônicos que tem 5 vendedores estabelece\numa meta de vendas de computadores para um total\nmínimo de 605 unidades. Ele considera que a média de\nvendas de computadores dos 5 vendedores juntos neste\nano se manterá igual à dos últimos 5 anos, conforme\n\b%\u0007\n\n\u0005\r\b\u000f\b\u0002 \u0005\u0004\u0002 J\u0007?\u0006\u001e\u0004(\u0002 \u0003\u0004\u0005\t\u000e\u000f\n\u0007\n\u0002 \u000b\f\n\u0002 \b\u0002 %\b\u0007\r\u000e\u001e\u000e%\b'\u001d\u0004\u0002\n\u000f\n\u0002\u001e\b\u000f\b\u0002#\n\u0005\u000f\n\u000f\u0004\u0007\u0002\u0005\b\u0002\u0004!\r\n\u0005'\u001d\u0004\u0002\u000f\b\u0002\u0010\n\r\b\u0002\n\"\b\u0002\u000eJ\f\b2(\n\nVendas de computadores nos últimos 5 anos\n\nQuantidade de unidades\n\n600\n525\n480\n430\n440\n400\n500\n\nvendidas\n\nAno\n2020\n2019\n2018\n2017\n2016",
-    "files": [],
+    "context": "Black Friday é uma tradição norte-americana\nque consiste numa queda de preços de uma grande\nvariedade de produtos disponíveis para venda na\núltima sexta-feira do mês de novembro. No Brasil, em\nmuitas lojas, essa prática se estende por todo esse\nmês. Para esse período, o gerente de uma loja de\nprodutos eletrônicos que tem 5 vendedores estabelece\numa meta de vendas de computadores para um total\nmínimo de 605 unidades. Ele considera que a média de\nvendas de computadores dos 5 vendedores juntos neste\nano se manterá igual à dos últimos 5 anos, conforme\napresentada no gráfico. Considere que a participação\nde cada vendedor na obtenção da meta seja igual.\nVendas de computadores nos últimos 5 anos\n\n600\n500\n400\n\n![](https://enem.dev/2021-reaplicacao/questions/167/d378f6f0-7365-44a0-9226-af6ddba33e3b.png)\n\n300\nvendidas\n200\n100\n0 Quantidade de unidades\n2020 2019 2018 2017 2016\nAno",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/167/d378f6f0-7365-44a0-9226-af6ddba33e3b.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Para que a meta da loja seja atingida, o gerente deverá estipular, para cada vendedor, um aumento na média de vendas de, no mínimo, quantas unidades?",
+    "alternativesIntroduction": "Para que a meta da loja seja atingida, o gerente deverá\nestipular, para cada vendedor, um aumento na média de\nvendas de, no mínimo, quantas unidades?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "150",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "121",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "91",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "35",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "30",
             "file": null,
             "isCorrect": true
         }

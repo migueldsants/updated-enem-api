@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Um hospital tem 7 médicos cardiologistas e 6 médicos\nneurologistas em seu quadro de funcionários. Para\nexecutar determinada atividade, a direção desse hospital\nformará uma equipe com 5 médicos, sendo, pelo menos,\n3 cardiologistas.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2024/questions/180/9f6e3873-a204-461f-ac7f-3518224d8b76.png",
+        "https://enem.dev/2024/questions/180/88b9afa1-5e86-41ff-b350-6bb73c7ca6f8.png",
+        "https://enem.dev/2024/questions/180/b3bf0554-b09f-4b68-a460-13cd20a043c8.png",
+        "https://enem.dev/2024/questions/180/e6a033c3-a182-4726-91b2-b96fafe211c7.png",
+        "https://enem.dev/2024/questions/180/40b9ac46-b774-4a59-86a9-cd8561818770.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/180/9f6e3873-a204-461f-ac7f-3518224d8b76.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "7 3 4 6 2 4 5 1 4 ! ! ! ! ! ! ! ! !",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024/questions/180/88b9afa1-5e86-41ff-b350-6bb73c7ca6f8.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "D 7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! \u0019\u0018 \u001a \u001a \u0019\u0018 ! \u001a \u001b \u001b \u001b \u0019\u0018 E 7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! \u001a\u0019 \u0018 \u001b \u001b \u001a\u0019 \u0018 ! \u001b \u001a\u0019",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024/questions/180/b3bf0554-b09f-4b68-a460-13cd20a043c8.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/180/e6a033c3-a182-4726-91b2-b96fafe211c7.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/180/40b9ac46-b774-4a59-86a9-cd8561818770.png",
             "isCorrect": true
         }
     ]
