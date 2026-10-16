@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2021 - Digital",
+    "index": 115,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No outono, as folhas das árvores mudam de cor, de verde para tons de amarelo,\ncastanho, laranja e vermelho. A cor verde das folhas deve-se ao pigmento clorofila. Nas\nplantas de folhas caducas, a produção de clorofila diminui e o tom verde desvanece,\npermitindo assim que outros pigmentos, como o caroteno, de coloração\namarelo-alaranjado, e a antocianina, de tons avermelhados, passem a dominar a\ntonalidade das folhas. A coloração observada se dá em função da interação desses\npigmentos com a radiação solar.\n\nConforme apresentado no espectro de absorção, as moléculas de clorofila absorvem\na radiação solar nas regiões do azul e do vermelho, assim a luz refletida pelas folhas tem\nfalta desses dois tons e as vemos na cor verde. Já as antocianinas absorvem a luz desde\no azul até o verde. Nesse caso, a luz refletida pelas folhas que contêm antocianinas\naparece conforme as cores complementares, ou seja, vermelho-alaranjado.\n\n![](https://enem.dev/2021-digital/questions/115/a430e32c-1405-40d0-80cd-4d37fc08ead0.png)\n\nDisponível em: https://vidauniversoydemas.wordpress.com. Acesso em: 6 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/115/a430e32c-1405-40d0-80cd-4d37fc08ead0.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual faixa do espectro visível os carotenos absorvem majoritariamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Entre o violeta e o azul.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Entre o azul e o verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre o verde e o amarelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entre o amarelo e o laranja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Entre o laranja e o vermelho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

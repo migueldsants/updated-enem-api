@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 117,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Descobriu-se a provável causa da alteração de cores do\nquadro Flores em um vaso azul, do pintor Van Gogh, de 1887.\nQuando usado em pinturas, o amarelo cádmio (sulfeto de\ncádmio) reage com o ar formando sulfato de cádmio (CdSO₄),\nque é um sólido esbranquiçado e solúvel em água, o que faz com\nque os pigmentos percam cor e luminosidade. Para interromper\nesse processo, foi utilizado um verniz. Contudo, após o uso do\nverniz, contendo íons de chumbo (Pb²⁺), formou-se uma camada\nacinzentada no quadro.\n\nDisponível em: http://revistapesquisa.fapesp.br.\nAcesso em: 2 out. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A equação química que representa o processo de formação da\ncamada acinzentada no quadro é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CdSO₄ (sólido) + Pb (sólido) → PbSO₄ (sólido) + Cd (sólido)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CdSO₄ (sólido) + Pb²⁺ (solução) → PbSO₄ (sólido) + Cd (sólido)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CdSO₄ (sólido) + Pb²⁺ (solução) → PbSO₄ (sólido) + Cd²⁺ (solução)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "PbSO₄ (solução) + Cd²⁺ (solução) → CdSO₄ (sólido) + Pb (sólido)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "PbSO₄ (sólido) + Cd²⁺ (solução) → CdSO₄ (sólido) + Pb²⁺ (solução)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

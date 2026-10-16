@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2014 - Terceira aplicação",
+    "index": 41,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nO maior dos desenganos sofridos pelos imigrantes foi\no fato de que os sonhos criados pela imaginação fértil em\nsua terra natal não foram possíveis de serem realizados de\npronto. Haviam se tornado grandes proprietários de terra,\nmas estavam escravizados a ela. Cada qual era escravo\nda floresta virgem, que chamavam de sua propriedade,\ne do duro trabalho a que estavam obrigados pela posse\nda mata, pois se eles não a vencessem, seriam vencidos\npor ela. Haviam de lutar, para que, com o tempo e à custa\nde muito esforço, fosse possível tornarem-se senhores de\nsuas rendas e homens livre.\n\nRAMBO, B. A fisionomia do Rio Grande do Sul (1942).\nSão Leopoldo: Editora Unisinos, 2000 adaptado .\n\nTEXTO II\n\nA expansão das colônias transformou-se bem cedo\nnuma verdadeira corrida para a mata virgem. Uma série\nde fenômenos naturais e sociais se deve a esse fato.\nAntes de tudo, é o desmatamento progressivo da fralda\nda serra. Praticamente todos os terrenos já perderam sua\ncapa silvática; o que resta são os trechos imprestáveis\nnos flancos mais íngremes e rochosos das montanhas\ne as cintas de mato que ladeiam os degraus da serra.\nCapoeiras e matos secundários sujos caracterizam a\nestrada trilhada pela agricultura de exploração dos cem\nanos passados.\n\nGRESSLER, P. Os velhos Gressler. Candelária: Tipografia Francisco Schmidt, 1949.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com os textos, a relação dos colonos com os\necossistemas, no processo de ocupação da região Sul do\npaís, caracterizava-se pelo a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "necessidade de ocupação e de exploração da natureza, sem levar em conta os danos causados ao meio ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "degradação de parte da floresta subtropical, em função do uso de ferramentas e técnicas que permitiam o uso sustentável da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desmatamento da mata de araucária, já que os imigrantes alemães e poloneses chegaram em massa à Região Sul, causando grande impacto ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desflorestamento da região pelo desenvolvimento da atividade pecuária, promovendo a ocupação extensiva da terra e sua preparação como pasto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "supremacia da natureza sobre a ação do homem, pois a demora e a dificuldade de adaptação ao solo possibilitaram que o desmatamento não causasse danos permanentes ao ecossistema.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

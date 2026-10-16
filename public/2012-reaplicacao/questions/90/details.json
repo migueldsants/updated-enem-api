@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2012 - Reaplicação",
+    "index": 90,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um centro de pesquisa de alimentos, um técnico\nefetuou a determinação do valor calórico de determinados\nalimentos da seguinte forma: colocou uma massa\nconhecida de água em um recipiente termicamente\nisolado. Em seguida, dentro desse recipiente, foi\nqueimada uma determinada massa do alimento. Como o\ncalor liberado por essa queima é fornecido para a água,\no técnico calculou a quantidade de calor que cada grama\ndo alimento libera.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para a realização desse teste, qual aparelho de medida\né essencial?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cronômetro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dinamômetro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Termômetro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Radiômetro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Potenciômetro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

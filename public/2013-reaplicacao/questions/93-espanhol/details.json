@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2013 - Reaplicação",
+    "index": 93,
+    "year": 2013,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Adicciones y broncas: ¿Por qué dejé Facebook?\n\nPese al indudable éxito de la marea azul de Facebook,\nalgunas personas optan por un mundo menos conectado.\n“Yo lo dejé porque era increíblemente adictivo y perdía\nmuchísimo tiempo”, explica Sonia (nombre ficticio), una\nmédica madrileña de 35 años. En cada visita los usuarios\nde la red suelen pasar 20 minutos en media.\n\nLas personas que deciden abandonar el lugar suelen\nargumentar parecidas razones: pérdida de tiempo,\nrelaciones superficiales o falta de privacidad. La última\nparte es en la que la red social ha avanzado más, en gran\nparte obligada por las autoridades de diferentes países.\nDesde hace un tiempo, el usuario tiene más opciones\nsobre qué quiere compartir y con quién.\n\n“En mi caso hubo un motivo concreto, una bronca\ncon un familiar muy cercano. Después del enfado, fui a\nexcluirlo de la lista de amigos. Pero, en el momento de\nhacerlo, me sentí ridículo al reparar en lo enganchado que\nyo estaba a esa red y pensé que mejor me eliminaba a mí\nmismo. Suena a broma pero ocurrió así”, explica Alberto\n(nombre ficticio), que afirma que se mantiene en otras\nredes, como Twitter, por motivos laborales.\n\nNAVAS, J. A. Disponível em: www.elmundo.es. Acesso em: 21 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Por meio de depoimentos, o texto exemplifica as razões\nde alguns usuários do Facebook para abandonar essa\nrede social. Com relação a Alberto, nome fictício de uma\ndas pessoas citadas, o abandono do Facebook ocorreu\nporque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "soube que investia vinte minutos diariamente na rede social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "percebeu que a sua rotina começara a perder interesse.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "notou a dependência que tinha desenvolvido a essa rede.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "compreendeu que ele expunha a intimidade da sua família.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "descobriu a falta de utilidade da internet para conseguir emprego.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

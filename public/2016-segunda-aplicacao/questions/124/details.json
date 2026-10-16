@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2016 - Segunda aplicação",
+    "index": 124,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O Google Art é uma ferramenta on-line que permite a\nvisitação virtual dos mais importantes museus do mundo\ne a visualização de suas obras de arte. Por meio da\ntecnologia Street View e de um veículo exclusivamente\ndesenvolvido para o projeto, fotografou-se em 360 graus o\ninterior de lugares como o MoMA, de Nova York, o Museu\nVan Gogh, em Amsterdã, e a National Gallery, de Londres.\nO resultado é que se pode andar pelas galerias assim como\nse passeia pelas ruas com o Street View. Além disso, cada\nmuseu escolheu uma única obra de arte de seu acervo\npara ser fotografada com câmeras de altíssima resolução,\nou gigapixel. As imagens contêm cerca de sete bilhões\nde pixels, o que significa que é mais de mil vezes mais\ndetalhada do que uma foto de câmera digital comum. Além\ndisso, todas as obras vêm acompanhadas de metadados\nde proveniência, tais como títulos originais, artistas, datas\nde criação, dimensões e a quais coleções já pertenceram.\nOs usuários também podem criar suas próprias coleções\ne compartilhá-las pela web.\n\nDisponível em: http://oglobo.globo.com. Acesso em: 3 out. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As tecnologias da computação possibilitam um novo olhar\nsobre as obras de arte. A prática permite que usuários",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "guiem virtualmente um veículo especial através dos melhores museus do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reproduzam as novas obras de arte expostas em museus espalhados pelo mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criem novas obras de arte em 360 graus, consultem seus metadados e os compartilhem na internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "visitem o interior e as obras de arte de todos os museus do mundo em 3D e em altíssima resolução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "visualizem algumas obras de arte em altíssima resolução e, simultaneamente, obtenham informações sobre suas origens e composição.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

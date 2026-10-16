@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2016 - Reaplicação",
+    "index": 77,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura apresenta diferentes fases do ciclo de uma\ncélula somática, cultivada e fotografada em microscópio\nconfocal de varredura a laser. As partes mais claras\nevidenciam o DNA.\n\n![](https://enem.dev/2016-reaplicacao/questions/77/8cc2180a-bbd4-4250-a95d-1127b4cb2c14.png)\n\nGuanabara Koogan, 2004 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/77/8cc2180a-bbd4-4250-a95d-1127b4cb2c14.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na fase representada em D, observa-se que os\ncromossomos encontram-se em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "migração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "duplicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "condensação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "recombinação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reestruturação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2020 - Digital",
+    "index": 5,
+    "year": 2020,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "No hablarás con acento andaluz en el telediario de las 9\n\nHace unos días salió publicado que el obispado de Salamanca ha pedido a las\nhermandades de Semana Santa que eviten usar expresiones andaluzas durante las\nprocesiones arguyendo que \"suenan mal\".\n\nAunque es una noticia aparentemente local y sin otro interés que el de seguir los cotilleos\nde los cofrades y capillitas salmantinos, lo cierto es que recoge uno de los estereotipos\nlingüísticos más extendidos: lo mal que hablan los andaluces.\n\nLo que los hablantes percibimos subjetivamente como acentos buenos y malos suele ser\nproducto de la influencia cultural y del poder recalcitrante que dejaron ciertas regiones\nhistóricamente hegemónicas. El habla de Castilla se convirtió en la de prestigio porque era la\nforma de hablar propia del lugar de donde emanaba el poder. El acento de la clase dominante\npasó a tener prestigio social y se convirtió a ojos del conjunto de los hablantes en deseable,\nmientras que las formas de hablar de las zonas alejadas de los centros de poder pasaron a ser\nconsideradas provincianas y propias de gentes pobres e incultas.\n\nLa televisión tiene un enorme poder en lo que a representación y normalización cultural se\nrefiere. De la misma manera que esperamos que la televisión pública recoja los distintos\nintereses y sensibilidades de la población, sería muy deseable ver reflejado y celebrado todo el\nabanico de diversidad lingüística de la sociedad en que vivimos y abandonar de una vez el\nmonocultivo del castellano central que copa nuestras pantallas. Y hoy, día de Andalucía, es un\nbuen día para reclamarlo.\n\nMELLADO, E. A. Disponível em: www.eldiario.es. Acesso em: 18 ago. 2017.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto discute a proibição de expressões andaluzas nas procissões e no telejornal das 9\nhoras. De acordo com essa discussão, o autor defende a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "soberania de um falar sobre o outro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estranheza perceptiva do falar andaluz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "luta dos andaluzes pela diversidade linguística.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "hegemonia de um sotaque com base no prestígio social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "visão estereotipada dos próprios andaluzes acerca de seu falar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

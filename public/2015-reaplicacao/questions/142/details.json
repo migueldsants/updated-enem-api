@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2015 - Reaplicação",
+    "index": 142,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No próximo final de semana, um grupo de alunos\nparticipará de uma aula de campo. Em dias chuvosos,\naulas de campo não podem ser realizadas. A ideia é que\nessa aula seja no sábado, mas, se estiver chovendo no\nsábado, a aula será adiada para o domingo. Segundo a\nmeteorologia, a probabilidade de chover no sábado é de\n30% e a de chover no domingo é de 25%.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A probabilidade de que a aula de campo ocorra no\ndomingo é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,5%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "22,5%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "30,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "75,0%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

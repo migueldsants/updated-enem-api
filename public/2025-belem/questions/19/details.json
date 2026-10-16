@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 19,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "“Minhas senhoras e meus senhores (se eventualmente\naparecer algum, o que não é provável):\n\n[...]\nÉ comovedor, senhoras, esta vossa luta em prol de vossos\njovenzinhos que ora sobem degraus na escada do saber. Soube,\natravés de vossa reivindicação, que o assunto a ser debatido seriam\nas provas, nas quais vossos filhos não se saíram bem. Falaram-me,\ntambém, que parecia haver umas faixas onde foram bordadas\nalgumas questões que não foram bem resolvidas. Senhoras,\nentendei-me: o que queremos, neste templo do saber, é elevar a\nalma humana aos píncaros do conhecimento e, senhoras, vós não\ntivestes esta áurea oportunidade, não a subtraiais a vossas crianças\n[...]. Senhoras, meu apelo especialmente movido do fundo do\ncoração: sede mais severas! Obrigai vossos filhos firmemente a um\nestudo, tirai-lhes horas de folgança e arremessai-os sobre os livros!\n\n[...]\nMais uma vez o meu renovado agradecimento e admiração por\nmães tão conscientes dos estudos de seus filhos. Enquanto houver\nmulheres como vós, bastiões de nossa sociedade, o altivo sol da\nesperança brilhará resplandecente no céu do futuro.”\n\n[...]\nCom muito vagar, as cabeças foram marcando o assentimento,\numa a uma. As faixas jazendo esquecidas.\n\nLACERDA, N. G. Manual de tapeçaria.\nRio de Janeiro: Philobiblion; Fundação Rio, 1986.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse texto, que retrata uma reunião com os responsáveis pelos\nestudantes de uma escola, a diretora usa linguagem rebuscada para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "esclarecer dúvidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "intimidar os interlocutores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "enaltecer a dedicação das famílias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "buscar a precisão das informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mostrar preocupação com a situação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

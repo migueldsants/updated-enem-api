@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2021 - Digital",
+    "index": 141,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas\nfrequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados\ndas frequências cardíacas máximas alcançadas nesses trechos foram:\n\n![](https://enem.dev/2021-digital/questions/141/c137e05f-c28b-426e-8de3-efab012a9d2c.png)\n\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre\n65% e 85% da frequência cardíaca máxima (Fc máx.), que, por sua vez, é determinada\npela fórmula:\n\nFc máx. = 220 – idade,\n\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/141/c137e05f-c28b-426e-8de3-efab012a9d2c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica\nideal, para o ganho de condicionamento físico, são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "leve no plano, forte no plano, subida moderada e subida forte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "leve no plano, forte no plano e subida moderada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "forte no plano, subida moderada e subida forte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "forte no plano e subida moderada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "leve no plano e subida forte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

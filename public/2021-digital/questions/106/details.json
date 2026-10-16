@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2021 - Digital",
+    "index": 106,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O emprego de células de combustível a hidrogênio pode ser uma tecnologia\nadequada ao transporte automotivo. O quadro apresenta características de cinco\ntecnologias mais proeminentes de células de combustível.\n\n![](https://enem.dev/2021-digital/questions/106/dc3c6f0a-3fa0-4fc6-9507-b3f719d276e1.png)\n\nTestes operacionais com esses tipos de células têm indicado que as melhores\nalternativas para veículos são as que operam em baixos níveis de energia térmica, são\nformadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\n\nTHOMAS, S; ZALBOWITZ, M. Full cells: green power. Los Alamos National Laboratory.\nLos Alamos, NM, 1999 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/106/dc3c6f0a-3fa0-4fc6-9507-b3f719d276e1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A tecnologia testada mais adequada para o emprego em veículos automotivos é a célula\nde combustível",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "AFC.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "MSFC.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "PEM.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "PAFC.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "SOFC.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2020 - Digital",
+    "index": 45,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/45/9d30a161-75ed-4801-aac0-8777732d5e68.png)\n\nGUARNIERI, A. Suplemento Literário de Minas Gerais, n. 1 338, set.-out. 2011.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/45/9d30a161-75ed-4801-aac0-8777732d5e68.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao correlacionar o trabalho humano ao da máquina, o autor vale-se da disposição visual do\ntexto para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expressar a ideia de desumanização e de perda de identidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ironizar a realização de tarefas repetitivas e acríticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "realçar a falta de sentido de atividades burocráticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sinalizar a alienação do funcionário de repartição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "destacar a inutilidade do trabalhador moderno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

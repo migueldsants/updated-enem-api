@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2016 - Segunda aplicação",
+    "index": 34,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Movimento Negro Unificado (MNU) distingue-se do\nTeatro Experimental do Negro (TEN) por sua crítica ao\ndiscurso nacional hegemônico. Isto é, enquanto o TEN\ndefende a plena integração simbólica dos negros na\nidentidade nacional “híbrida”, o MNU condena qualquer\ntipo de assimilação, fazendo do combate à ideologia da\ndemocracia racial uma das suas principais bandeiras de\nluta, visto que, aos olhos desse movimento, a igualdade\nformal assegurada pela lei entre negros e brancos e\na difusão do mito de que a sociedade brasileira não é\nracista teriam servido para sustentar, ideologicamente, a\nopressão racial.\n\nCOSTA, S. Dois Atlânticos: teoria social, antirracismo, cosmopolitismo.\nBelo Horizonte: UFMG, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto, são comparadas duas organizações do\nmovimento negro brasileiro, criadas em diferentes\ncontextos históricos: o TEN, em 1944, e o MNU, em 1978.\nAo assumir uma postura divergente da do TEN, o\nMNU pretendia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pressionar o governo brasileiro a decretar a igualdade racial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "denunciar a permanência do racismo nas relações sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "contestar a necessidade da igualdade entre negros e brancos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "defender a assimilação do negro por meios não democráticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "divulgar a ideia da miscigenação como marca da nacionalidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

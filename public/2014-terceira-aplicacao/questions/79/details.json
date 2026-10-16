@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2014 - Terceira aplicação",
+    "index": 79,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Após um aumento de 80% nos casos de doença de\nChagas na cidade de Belém PA , a Vigilância Sanitária\ndo município interditou cinco pontos de venda de açaí.\nOs locais interditados desobedeciam às regras de higiene\nna manipulação do fruto e, por isso, apresentavam risco\nde contaminação. Um dos problemas encontrados foi a\nestrutura de madeira de um desses locais, propícia para\na proliferação do barbeiro, inseto transmissor da doença\nde Chagas, que é causada pelo Tripanosoma cruzi,\nprotozoário encontrado nas fezes destes insetos.\n\nFolha de São Paulo. Disponível em: http://www1.folha.uol.com.br.\nAcesso em: 25 out. 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que medida poderia ser tomada durante o preparo do\nalimento para evitar a contaminação dos consumidores\nda polpa do açaí?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adição de açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Secagem dos frutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pasteurização do produto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Diluição da polpa em água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Adição de corantes naturais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

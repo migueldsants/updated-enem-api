@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 131,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "“Rolou uma química entre nós!”. Essa expressão popular não\né apenas figurativa, mas tem fundamentação científica, já que\na afetividade está particularmente relacionada a um grupo de\nsubstâncias que são produzidas, circulam pelo sangue e atuam\nno corpo humano provocando reações e emoções.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essas substâncias são denominadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vitaminas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "hormônios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "catalisadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ácidos nucleicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fluidos corporais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

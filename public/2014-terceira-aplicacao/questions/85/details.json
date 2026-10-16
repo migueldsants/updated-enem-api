@@ -1,0 +1,43 @@
+{
+    "title": "Questão 85 - ENEM 2014 - Terceira aplicação",
+    "index": 85,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um novo tipo de replicador surgiu recentemente neste\nplaneta. Ainda está em sua infância num caldo primordial,\nmas já está evoluindo a uma velocidade que deixa o gene\npara trás. O novo caldo é a cultura humana. Precisamos\nde um nome para o novo replicador, que passe a ideia\nde uma unidade de transmissão cultural, ou unidade de\nimitação.\n\nExemplos de memes são melodias, ideias, “slogans”,\nroupas da moda, modos de fazer potes ou de construir\narcos. Os memes propagam-se de cérebro a cérebro por\nmeio de imitação. Se um cientista ouve ou lê uma ideia\nboa, ele a transmite a seus colegas e alunos. Se a ideia\n“pegar”, pode-se dizer que ela se propaga por si própria.\n\nDAWKINS, R. O gene egoísta. São Paulo: Companhia das Letras, 1976 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nesses termos, o paralelo entre a evolução biológica e a\nevolução cultural somente será válido se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o acaso operar com maior intensidade sobre os genes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o processo de seleção de memes for mais intenso que o dos genes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as taxas de mutação de genes e memes tiverem a mesma magnitude.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "em ambas, as informações estiverem sujeitas a cópia com modificações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ambos os processos forem independentes da configuração de um ancestral.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

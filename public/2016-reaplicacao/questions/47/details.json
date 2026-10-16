@@ -1,0 +1,45 @@
+{
+    "title": "Questão 47 - ENEM 2016 - Reaplicação",
+    "index": 47,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro apresenta alguns exemplos de combustíveis empregados em residências, indústrias e meios\nde transporte.\n\n![](https://enem.dev/2016-reaplicacao/questions/47/0ea5c119-254d-4864-b4f3-3abd454cd097.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/47/0ea5c119-254d-4864-b4f3-3abd454cd097.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "São combustíveis líquidos à temperatura ambiente de 25 °C:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Butano, etanol e metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Etanol, metanol e octano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Metano, metanol e octano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Metanol e metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Octano e butano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

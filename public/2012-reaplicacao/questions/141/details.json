@@ -1,0 +1,46 @@
+{
+    "title": "Questão 141 - ENEM 2012 - Reaplicação",
+    "index": 141,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Acidentes banais como escorregões, quedas e tropeços\nse tornaram a segunda maior causa de morte na humanidade.\nA tabela a seguir mostra alguns tipos de acidentes e sua\nincidência, em milhares, no ano de 2009, nos EUA.\n\n![](https://enem.dev/2012-reaplicacao/questions/141/872b0d8b-163b-4914-b41a-de7a156e2c11.png)\n\nSOLEIRO, R. et al. Os novos jeitos de morrer. Superinteressante, dez. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/141/872b0d8b-163b-4914-b41a-de7a156e2c11.png",
+        "https://enem.dev/2012-reaplicacao/questions/141/a4514633-ad57-4973-af3c-43af12e4ccf0.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando os dados apresentados, a média de\nmachucados em 2009, em milhares, nos EUA, foi igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "268.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "290.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "300.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/141/a4514633-ad57-4973-af3c-43af12e4ccf0.png",
+            "isCorrect": false
+        }
+    ]
+}

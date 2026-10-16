@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2016 - Segunda aplicação",
+    "index": 178,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um casal, ambos com 30 anos de idade, pretende\nfazer um plano de previdência privada. A seguradora\npesquisada, para definir o valor do recolhimento mensal,\nestima a probabilidade de que pelo menos um deles\nesteja vivo daqui a 50 anos, tomando por base dados da\npopulação, que indicam que 20% dos homens e 30% das\nmulheres de hoje alcançarão a idade de 80 anos.\nQual é essa probabilidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "44%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "38%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

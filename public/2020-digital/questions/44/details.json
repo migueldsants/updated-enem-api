@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2020 - Digital",
+    "index": 44,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Dias depois da morte de D. Mariquinha, Seu Lula, todo de luto, reuniu os negros no pátio\nda casa-grande e falou para eles. A voz não era mais aquela voz mansa de outros tempos.\nAgora Seu Lula era o dono de tudo. O feitor, o negro Deodato, recebera as suas instruções\naos gritos. Seu Lula não queria vadiação naquele engenho. Agora, todas as tardes, os negros\nteriam que rezar as ave-marias. Negro não podia mais andar de reza para S. Cosme e S.\nDamião. Aquilo era feitiçaria. [...]\n\nE o feitor Deodato, com a proteção do senhor, começou a tratar a escravatura como um\ncarrasco. O chicote cantava no lombo dos negros, sem piedade. Todos os dias chegavam\nnegros chorando aos pés de D. Amélia, pedindo valia, proteção contra o chicote do Deodato. A\nfama da maldade do feitor espalhara-se pela várzea. O senhor de engenho do Santa Fé tinha\num escravo que matava negro na peia. [...] E o Santa Fé foi ficando assim o engenho sinistro\nda várzea.\n\nRÊGO, J. L. Fogo morto. Rio de Janeiro: José Olympio, 1989.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A condição dos trabalhadores escravizados do Santa Fé torna-se exponencialmente aflitiva\napós a morte da senhora do engenho. Nessa passagem, o sofrimento a que se submetem é\nintensificado pela reação à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mania do novo senhor de se dirigir a eles aos gritos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "saudade do afeto antes dispensado por D. Mariquinha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "privação sumária de suas crenças e práticas ritualísticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "inércia moral de D. Amélia ante as imposições do marido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reputação do Santa Fé de lugar funesto a seus moradores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

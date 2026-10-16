@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2014 - Terceira aplicação",
+    "index": 11,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Bastar-se a si mesma é uma meta a que tende a\nprodução da natureza e é também o mais perfeito estado.\nÉ, portanto, evidente que toda cidade está na natureza\ne que o homem é naturalmente feito para a sociedade\npolítica. Aquele que, por sua natureza e não por obra do\nacaso, existisse sem nenhuma pátria seria um indivíduo\ndetestável, muito acima ou muito abaixo do homem,\nsegundo Homero: um ser sem lar, sem família e sem leis.\n\nARISTÓTELES. A Política. Disponível em: http://.cfh.ufsc.br adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para Aristóteles, a cidade resulta de um a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desenvolvimento da razão e suas leis que visam aperfeiçoar a natureza humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "convenção social, que pretende proteger a comunidade dos perigos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ação violenta externa, que objetiva transformar o homem em um animal social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "etapa natural do desenvolvimento humano, cuja finalidade é a vida em sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "contrato político, que beneficia de modo igualitário os membros das castas sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

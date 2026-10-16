@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2016 - Reaplicação",
+    "index": 11,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os dias do Nu como um dos últimos rios de curso\nlivre da região estão terminando. O governo chinês\nsurpreendeu ambientalistas este ano ao reavivar planos\nde construir usinas hidrelétricas em áreas remotas do\ncurso superior do Nu, o centro de um Patrimônio Mundial\nda Unesco na província de Yunnan, sudoeste da China,\nque se classifica entre os lugares ecologicamente mais\ndiversificados e frágeis do mundo. Os críticos dizem que o\nprojeto obrigará a remanejar dezenas de minorias étnicas\nnos planaltos de Yunnan e destruirá os campos de desova\nde dezenas de espécies de peixes ameaçadas.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 13 maio 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse projeto sinaliza uma interferência no meio físico\nmotivada pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "busca do setor primário por infraestrutura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "demanda da população por energias limpas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "interesse do Estado em diversificar a matriz energética.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "necessidade dos centros urbanos em obter água potável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "compromisso da iniciativa privada com o desenvolvimento sustentável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

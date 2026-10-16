@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2013 - Reaplicação",
+    "index": 12,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Depois de dez anos de aparente imobilidade,\n77 950 operários estavam em greve em São Bernardo,\nSanto André, São Caetano e Diadema – o chamado\nABCD, coração industrial do país. Em todas as fábricas,\nos operários cruzaram os braços em silêncio. Apanhado\nde surpresa, o governo militar ficou por algum tempo\nsem ação. Os empregadores, por sua vez, sofriam sérios\nprejuízos a cada dia de greve.\n\nALVES, M. H. M. Estado e oposição no Brasil (1964-1984). Petrópolis: Vozes, 1984 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O movimento sindical, em fins dos anos 1970, começou\na se rearticular e a patrocinar greves de significativa\nrepercussão. Essas greves aconteceram em um contexto\npolítico-institucional de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "revogação da negociação coletiva entre patrões e",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "afirmação dos direitos individuais por parte de minorias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "suspensão da legislação trabalhista forjada durante a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "limitação à liberdade das organizações sindicais e",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "discordância dos empresários com as políticas",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

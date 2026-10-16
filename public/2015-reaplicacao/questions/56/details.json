@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2015 - Reaplicação",
+    "index": 56,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A obtenção de sistemas coloidais estáveis depende\ndas interações entre as partículas dispersas e o meio\nonde se encontram. Em um sistema coloidal aquoso,\ncujas partículas são hidrofílicas, a adição de um solvente\norgânico miscível em água, como etanol, desestabiliza\no coloide, podendo ocorrer a agregação das partículas\npreliminarmente dispersas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A desestabilização provocada pelo etanol ocorre porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a polaridade da água no sistema coloidal é reduzida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as cargas superficiais das partículas coloidais são diminuídas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as camadas de solvatação de água nas partículas são diminuídas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o processo de miscibilidade da água e do solvente libera calor para o meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a intensidade dos movimentos brownianos das partículas coloidais é reduzida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 1 - ENEM 2022 - Digital",
+    "index": 1,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022-digital/questions/1-espanhol/aff073c3-1a58-4010-9b3d-9893637ed6fa.png)\n\n![](https://enem.dev/2022-digital/questions/1-espanhol/ef6cc583-82b7-4467-ac20-3c78cdf5ccde.png)\n\nDisponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.\n\n/",
+    "files": [
+        "https://enem.dev/2022-digital/questions/1-espanhol/aff073c3-1a58-4010-9b3d-9893637ed6fa.png",
+        "https://enem.dev/2022-digital/questions/1-espanhol/ef6cc583-82b7-4467-ac20-3c78cdf5ccde.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse cartaz tem a função social de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "difundir a arte iconográfica indígena mexicana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "resgatar a literatura popular produzida em língua zapoteca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "questionar o conhecimento do povo mexicano sobre as línguas ameríndias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "destacar o papel dos órgãos governamentais na conservação das línguas no",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "defender a preservação das línguas",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 113 - ENEM 2013 - Reaplicação",
+    "index": 113,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/113/7cee0972-150d-4a18-9db2-7915bd203e66.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/113/7cee0972-150d-4a18-9db2-7915bd203e66.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O cartão-postal é um gênero textual geralmente usado\npor turistas quando estão viajando, para enviar, aos\nque ficaram, imagens dos lugares visitados. Entretanto,\no cartão-postal apresentado é uma peça publicitária, e\nreconhece-se nela a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentar uma paisagem de um local específico, conteúdo recorrente em um cartão-postal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "incentivar as pessoas de uma cidade a enviar cartões- postais umas para as outras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "instituir um novo tipo de cartão-postal, o virtual, a ser comercializado em um site da internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fazer propaganda de um ponto turístico romântico específico, atraindo a visitação por casais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comemorar a data da instituição do cartão-postal no Brasil, ainda na época do Império.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

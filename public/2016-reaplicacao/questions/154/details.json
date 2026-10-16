@@ -1,0 +1,48 @@
+{
+    "title": "Questão 154 - ENEM 2016 - Reaplicação",
+    "index": 154,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No projeto de arborização de uma praça está prevista\na construção de um canteiro circular. Esse canteiro será\nconstituído de uma área central e de uma faixa circular ao\nseu redor, conforme ilustra a figura.\n\n![](https://enem.dev/2016-reaplicacao/questions/154/a02a57f3-b82a-48d9-a315-b4c0b5e20262.png)\n\nDeseja-se que a área central seja igual à área da\nfaixa circular sombreada.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/154/a02a57f3-b82a-48d9-a315-b4c0b5e20262.png",
+        "https://enem.dev/2016-reaplicacao/questions/154/4e24ac89-9728-47f5-b241-d302544312ce.png",
+        "https://enem.dev/2016-reaplicacao/questions/154/60e6944a-3e7b-4c0a-a92d-213bff8ec37f.png",
+        "https://enem.dev/2016-reaplicacao/questions/154/7ceea9c7-40e1-4f19-8a5a-cf363beb84d4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A relação entre os raios do canteiro (R) e da área central (r)\ndeverá ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R = 2r",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/154/4e24ac89-9728-47f5-b241-d302544312ce.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/154/60e6944a-3e7b-4c0a-a92d-213bff8ec37f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R = r² + 2r",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/154/7ceea9c7-40e1-4f19-8a5a-cf363beb84d4.png",
+            "isCorrect": false
+        }
+    ]
+}

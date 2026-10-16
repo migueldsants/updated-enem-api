@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2016 - Segunda aplicação",
+    "index": 18,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Aquarela do Brasil\nBrasil!\nMeu Brasil brasileiro\nMeu mulato inzoneiro\nVou cantar-te nos meus versos\nO Brasil, samba que dá\nBamboleio que faz gingar\nO Brasil do meu amor\nTerra de Nosso Senhor\nBrasil! Pra mim! Pra mim, pra mim!\nAh! Abre a cortina do passado\nTira a mãe preta do Cerrado\nBota o rei congo no congado\nBrasil! Pra mim!\nDeixa cantar de novo o trovador\nA merencória luz da lua\nToda canção do meu amor\nQuero ver a sá dona caminhando\nPelos salões arrastando\nO seu vestido rendado\nBrasil! Pra mim, pra mim, pra mim!\n\nARY BARROSO. Aquarela do Brasil, 1939 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Muito usual no Estado Novo de Vargas, a composição de\nAry Barroso é um exemplo típico de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "música de sátira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "samba exaltação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "hino revolucionário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "propaganda eleitoral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "marchinha de protesto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

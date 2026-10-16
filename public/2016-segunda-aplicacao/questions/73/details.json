@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2016 - Segunda aplicação",
+    "index": 73,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A energia nuclear é uma alternativa aos combustíveis\nfósseis que, se não gerenciada de forma correta, pode\ncausar impactos ambientais graves. O princípio da\ngeração dessa energia pode se basear na reação de\nfissão controlada do urânio por bombardeio de nêutrons,\ncomo ilustrado:\n\n235\n\nU + n →⁹⁵Sr +¹³⁹Xe + 2 n + energia\n\nUm grande risco decorre da geração do chamado\nlixo atômico, que exige condições muito rígidas de\ntratamento e armazenamento para evitar vazamentos\npara o meio ambiente.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse lixo é prejudicial, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "favorece a proliferação de microrganismos termófilos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produz nêutrons livres que ionizam o ar, tornando-o condutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "libera gases que alteram a composição da atmosfera terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acentua o efeito estufa decorrente do calor produzido na fissão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emite radiação capaz de provocar danos à saúde dos seres vivos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

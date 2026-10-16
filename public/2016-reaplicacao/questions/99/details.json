@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2016 - Reaplicação",
+    "index": 99,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Argumento\nTá legal\nEu aceito o argumento\nMas não me altere o samba tanto assim\nOlha que a rapaziada está sentindo a falta\nDe um cavaco, de um pandeiro e de um tamborim\n\nSem preconceito\nOu mania de passado\nSem querer ficar do lado\nDe quem não quer navegar\nFaça como o velho marinheiro\nQue durante o nevoeiro\nLeva o barco devagar.\n\nPAULINHO DA VIOLA. Disponível em: www.paulinhodaviola.com.br. Acesso em: 6 dez. 2012.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na letra da canção, percebe-se uma interlocução.\nA posição do emissor é conciliatória entre as tradições\ndo samba e os movimentos inovadores desse ritmo.\nA estratégia argumentativa de concessão, nesse cenário,\né marcada no trecho",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Mas não me altere o samba tanto assim”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“Olha que a rapaziada está sentindo a falta”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Sem preconceito / Ou mania de passado”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Sem querer ficar do lado / De quem não quer navegar”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Leva o barco devagar”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

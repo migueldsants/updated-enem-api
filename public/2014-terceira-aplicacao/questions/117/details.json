@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2014 - Terceira aplicação",
+    "index": 117,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os discursos referentes à prática de exercícios físicos\nestão imbricados de valores sociais, culturais e educativos\ninfluenciados, principalmente, pelos discursos midiáticos.\nO processo natural de envelhecimento passa a ser visto\ncomo um descuido por aqueles que assim o aparentam,\nespecialmente nos cuidados com o corpo.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/117/217e5f0b-fe61-4bab-8e20-3af6a72baf83.png)\n\nDisponível em: http://umahistoriaporacabar.blogspot.com. Acesso em: 25 fev. 2012.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/117/217e5f0b-fe61-4bab-8e20-3af6a72baf83.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao analisarmos a imagem, podemos considerar que ela\napresenta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os valores do corpo visto enquanto conjunto de partes funcionando como uma máquina, fruto dos valores mecanicistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a ideia do corpo ideal jovem, musculoso e atlético e o exercício como a fórmula para se alcançar a juventude eterna e, por sua vez, o sucesso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a prática de exercícios como promoção de saúde e respeito ao desenvolvimento humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "um corpo em toda a sua essência, físico, psíquico, biológico e cultural e o exercício auxiliando o entendimento de todas essas dimensões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o exercício físico como possibilidade de atender às pessoas de qualquer idade e classe para o aprimoramento estético.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

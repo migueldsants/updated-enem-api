@@ -1,0 +1,48 @@
+{
+    "title": "Questão 166 - ENEM 2014 - Reaplicação",
+    "index": 166,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para fazer um pião, brinquedo muito apreciado\npelas crianças, um artesão utilizará o torno mecânico\npara trabalhar num pedaço de madeira em formato de\ncilindro reto, cujas medidas do diâmetro e da altura\nestão ilustradas na Figura 1. A parte de cima desse\npião será uma semiesfera, e a parte de baixo, um cone\ncom altura 4 cm, conforme Figura 2. O vértice do cone\ndeverá coincidir com o centro da base do cilindro.\n\n![](https://enem.dev/2014-reaplicacao/questions/166/94a41f19-7dac-4a9e-8aa9-695711d1dc95.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/166/58a5e007-037a-4aa2-909f-6000e4ffb99b.png)\n\n4 cm\n\nFigura 1 Figura 2\n\nO artesão deseja fazer um pião com a maior altura que\nesse pedaço de madeira possa proporcionar e de modo\na minimizar a quantidade de madeira a ser descartada.\n\nDados:\n\n![](https://enem.dev/2014-reaplicacao/questions/166/12f509f5-f1ea-4f0e-b60d-b36c85a9a010.png)\n\nO volume do cilindro de altura h e área da base S é S·h;\n\n![](https://enem.dev/2014-reaplicacao/questions/166/c90912f0-8ebe-4f5e-b7b0-d36fd4b8336a.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/166/94a41f19-7dac-4a9e-8aa9-695711d1dc95.png",
+        "https://enem.dev/2014-reaplicacao/questions/166/58a5e007-037a-4aa2-909f-6000e4ffb99b.png",
+        "https://enem.dev/2014-reaplicacao/questions/166/12f509f5-f1ea-4f0e-b60d-b36c85a9a010.png",
+        "https://enem.dev/2014-reaplicacao/questions/166/c90912f0-8ebe-4f5e-b7b0-d36fd4b8336a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A quantidade de madeira descartada, em centímetros\ncúbicos, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "45.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "48.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "72.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "99.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

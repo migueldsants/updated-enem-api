@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2013 - Reaplicação",
+    "index": 33,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os solos tropicais são naturalmente ácidos, em\nrazão da pobreza do material de origem ou devido aos\nprocessos de gênese. Além disso, o manejo das áreas\nagrícolas pode conduzir os solos à acidificação.\n\nSOUZA, H. A. et al. Calagem e adubação boratada na produção de feijoeiro.\nRevista Ciência Agronômica, v. 42, n. 2, abr.-jun. 2011.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/33/57022fd3-f723-4997-96ef-6d2b6921a48e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em solos ácidos como os brasileiros, o método mais\nindicado, com o elemento utilizado para a correção do\nproblema descrito no texto é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descanso do solo a partir da técnica de pousio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uso da calagem pela introdução de calcário no solo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "aração do solo para realizar a sua descompactação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "plantio direto para diversificar as culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/33/57022fd3-f723-4997-96ef-6d2b6921a48e.png",
+            "isCorrect": false
+        }
+    ]
+}

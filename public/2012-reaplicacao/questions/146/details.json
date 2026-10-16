@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2012 - Reaplicação",
+    "index": 146,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma floresta, existem 4 espécies de insetos,\nA, B, C e P, que têm um ciclo de vida semelhante.\nEssas espécies passam por um período, em anos,\nde desenvolvimento dentro de seus casulos. Durante\numa primavera, elas saem, põem seus ovos para o\ndesenvolvimento da próxima geração e morrem.\n\nSabe-se que as espécies A, B e C se alimentam\nde vegetais e a espécie P é predadora das outras 3.\nAlém disso, a espécie P passa 4 anos em desenvolvimento\ndentro dos casulos, já a espécie A passa 8 anos, a espécie\nB passa 7 anos e a espécie C passa 6 anos.\n\nAs espécies A, B e C só serão ameaçadas de extinção\ndurante uma primavera pela espécie P, se apenas uma\ndelas surgirem na primavera junto com a espécie P.\n\nNessa primavera atual, todas as 4 espécies saíram\ndos casulos juntas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual será a primeira e a segunda espécies a serem\nameaçadas de extinção por surgirem sozinhas com a\nespécie predadora numa próxima primavera?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A primeira a ser ameaçada é a espécie C e a segunda é a espécie B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A primeira a ser ameaçada é a espécie A e a segunda é a espécie B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A primeira a ser ameaçada é a espécie C e a segunda é a espécie A.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A primeira a ser ameaçada é a espécie A e a segunda é a espécie C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A primeira a ser ameaçada é a espécie B e a segunda é a espécie C.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

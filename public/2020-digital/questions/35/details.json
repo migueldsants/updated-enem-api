@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2020 - Digital",
+    "index": 35,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O gramático tem uma percepção muito estrita da língua. Ele se vê como alguém que tem\nde defender a língua da mudança. O problema é que eles, ao se esforçarem para que as\npessoas obedeçam às normas da língua, não viram que estavam dando um cala-boca no\ncidadão brasileiro. Como se dissessem: “Tem de falar e escrever de acordo com as regras.\nNão fale errado!”. E as pessoas, com medo de não conseguir, falam e escrevem pouco. O dono\nda língua é o falante, não o gramático. Aprendemos com o falante a língua como ele fala e\nprocuramos saber por que está falando de um jeito ou de outro. Dizer que está falando errado\nnão é uma atitude científica, de descoberta. A linguística substituiu o cala-boca ao prazer da\ndescoberta científica. Foi só com a linguística que se ampliou o olhar e se passou a considerar\nque qualquer assunto é digno de estudo.\n\nEntrevista de Ataliba de Castilho. Pesquisa Fapesp, n. 259, set. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base na tese defendida na conclusão do texto, infere-se a intenção do autor de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atribuir à gramática os desvios do português brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "defender uma atitude política diante das regras da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contrapor o trabalho do linguista às prescrições gramaticais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "contribuir para reverter a escassez de produções textuais no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "isentar o falante da responsabilidade de seguir as normas linguísticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

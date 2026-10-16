@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2021 - Digital",
+    "index": 85,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2021-digital/questions/85/1f34f925-eecf-4088-8a4e-60706c27a390.png)\n\nEscravo fugido. Jornal Correio Paulistano, 13 de abril de 1879. Disponível em:\nhttp://bndigital.bn.gov.br. Acesso em: 2 ago. 2019 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/85/1f34f925-eecf-4088-8a4e-60706c27a390.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No anúncio publicado na segunda metade do século XIX, qual a estratégia de resistência\nescrava apresentada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criação de relações de trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fundação de territórios quilombolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Suavização da aplicação de normas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Regularização das funções remuneradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Constituição de economia de subsistência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

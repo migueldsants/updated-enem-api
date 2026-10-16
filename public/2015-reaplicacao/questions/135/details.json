@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2015 - Reaplicação",
+    "index": 135,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nQuem sabe, devido às atividades culinárias da\nesposa, nesses idílios Vadinho dizia-lhe “Meu manuê\nde milho verde, meu acarajé cheiroso, minha franguinha\ngorda”, e tais comparações gastronômicas davam justa\nideia de certo encanto sensual e caseiro de dona Flor a\nesconder-se sob uma natureza tranquila e dócil. Vadinho\nconhecia-lhe as fraquezas e as expunha ao sol, aquela\nânsia controlada de tímida, aquele recatado desejo\nfazendo-se violência e mesmo incontinência ao libertar-\nse na cama.\n\nAMADO, J. Dona Flor e seus dois maridos. São Paulo: Martins, 1966.\n\nTEXTO II\n\nAs suas mãos trabalham na braguilha das calças\ndo falecido. Dulcineusa me confessou mais tarde: era\nassim que o marido gostava de começar as intimidades.\nUm fazer de conta que era outra coisa, a exemplo do gato\nque distrai o olhar enquanto segura a presa nas patas.\nEsse o acordo silencioso que tinham: ele chegava em\ncasa e se queixava que tinha um botão a cair. Calada,\nDulcineusa se armava dos apetrechos da costura e se\nposicionava a jeito dos prazeres e dos afazeres.\n\nCOUTO, M. Um rio chamado tempo, uma casa chamada terra. São Paulo: Cia. das Letras, 2002.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Tema recorrente na obra de Jorge Amado, a figura feminina\naparece, no fragmento, retratada de forma semelhante à\nque se vê no texto do moçambicano Mia Couto. Nesses\ndois textos, com relação ao universo feminino em seu\ncontexto doméstico, observa-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o desejo sexual é entendido como uma fraqueza moral, incompatível com a mulher casada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a mulher tem um comportamento marcado por convenções de papéis sexuais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "à mulher cabe o poder da sedução, expresso pelos gestos, olhares e silêncios que ensaiam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a mulher incorpora o sentimento de culpa e age com apatia, como no mito bíblico da serpente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a dissimulação e a malícia fazem parte do repertório feminino nos espaços público e íntimo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

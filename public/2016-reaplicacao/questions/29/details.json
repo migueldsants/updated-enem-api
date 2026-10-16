@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2016 - Reaplicação",
+    "index": 29,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As camadas dirigentes paulistas na segunda\nmetade do século XIX recorriam à história e à figura\ndos bandeirantes. Para os paulistas, desde o início da\ncolonização, os habitantes de Piratininga (antigo nome de\nSão Paulo) tinham sido responsáveis pela ampliação do\nterritório nacional, enriquecendo a metrópole portuguesa\ncom o ouro e expandindo suas possessões. Graças à\nintegração territorial que promoveram, os bandeirantes\neram tidos ainda como fundadores da unidade nacional.\nRepresentavam a lealdade à província de São Paulo e\nao Brasil.\n\nABUD, K. M. Paulistas, uni-vos! Revista de História da Biblioteca Nacional,\nn. 34, 1 jul. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No período da história nacional analisado, a estratégia\ndescrita tinha como objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promover o pioneirismo industrial pela substituição de importações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "questionar o governo regencial após a descentralização administrativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "recuperar a hegemonia perdida com o fim da política do café com leite.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumentar a participação política em função da expansão cafeeira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "legitimar o movimento abolicionista durante a crise do escravismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

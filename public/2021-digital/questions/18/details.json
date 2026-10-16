@@ -1,0 +1,45 @@
+{
+    "title": "Questão 18 - ENEM 2021 - Digital",
+    "index": 18,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021-digital/questions/18/a4ec3537-ff84-43a8-b735-96f6b9685f5f.png)\n\nMEIRELLES, V. Moema. Óleo sobre tela, 129 cm x 190 cm. Masp, São Paulo, 1866.\n\nDisponível em: www.masp.art.br. Acesso em: 13 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/18/a4ec3537-ff84-43a8-b735-96f6b9685f5f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa obra, que retrata uma cena de Caramuru, célebre poema épico brasileiro, a filiação\nà estética romântica manifesta-se na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exaltação do retrato fiel da beleza feminina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tematização da fragilidade humana diante da morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ressignificação de obras do cânone literário nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "representação dramática e idealizada do corpo da índia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "oposição entre a condição humana e a natureza primitiva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

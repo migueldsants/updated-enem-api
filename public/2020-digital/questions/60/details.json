@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2020 - Digital",
+    "index": 60,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nC = M + D − R. A equação, desenvolvida pelo economista Robert Klitgaard, descreve a\ncorrupção. Traduzindo-a em palavras, temos que a corrupção (C) é dada pelo grau de\nmonopólio (M) existente no serviço público, mais o poder discricionário (D) que as autoridades\ntêm para tomar decisões, menos a responsabilização (R), que é basicamente a existência de\nmecanismos de controle. Outras versões da fórmula acrescentam ao R uma dimensão moral,\nque também funcionaria como barreira contra a cultura da corrupção.\n\nSCHWARTSMAN, H. Fórmula da corrupção. Disponível em: www.folha.uol.com.br.\nAcesso em: 26 abr. 2015 (adaptado).\n\nTEXTO II\n\nCorrupção significa transação ou troca entre quem corrompe e quem se deixa corromper.\nTrata-se normalmente de uma promessa de recompensa em troca de um comportamento que\nfavoreça os interesses do corruptor. A corrupção não está ligada apenas ao grau de\ninstitucionalização, à amplitude do setor público e ao ritmo das mudanças sociais; está\ntambém relacionada com a cultura das elites e das massas. Depende da percepção que tende\na variar no tempo e no espaço.\n\nBOBBIO, N.; MATTEUCCI, N.; PASQUINO, G. Dicionário de política. Brasília: UnB, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O segundo texto complementa a compreensão do fenômeno da corrupção tal como abordado\nno primeiro texto, na medida em que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "comprova a limitação do sistema normativo pátrio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "evidencia a atuação de agentes externos ao Estado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "elucida o padrão de idoneidade do setor empresarial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "minimiza a capacidade de mobilização da sociedade civil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "demonstra a influência dos atores vinculados ao Judiciário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

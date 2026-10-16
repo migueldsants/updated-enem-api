@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2012 - Reaplicação",
+    "index": 129,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "— É o diabo!... praguejava entre dentes o brutalhão,\nenquanto atravessava o corredor ao lado do Conselheiro,\nenfiando às pressas o seu inseparável sobretudo de casimira\nalvadia. — É o diabo! Esta menina já devia ter casado!\n\n— Disso sei eu... balbuciou o outro. — E não é por\nfalta de esforços de minha parte; creia!\n\n— Diabo! Faz lástima que um organismo tão rico e\ntão bom para procriar, se sacrifique desse modo! Enfim —\nainda não é tarde; mas, se ela não se casar quanto antes\n— hum... hum!... Não respondo pelo resto!\n\n— Então o Doutor acha que...?\nLobão inflamou-se: Oh! o Conselheiro não podia imaginar\no que eram aqueles temperamentozinhos impressionáveis!...\neram terríveis, eram violentos, quando alguém tentava\ncontrariá-los! Não pediam — exigiam — reclamavam!\n\nAZEVEDO, A. O homem. Belo Horizonte: UFMG, 2003 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O romance O homem, de Aluísio Azevedo, insere-se\nno contexto do Naturalismo, marcado pela visão do\ncientificismo. No fragmento, essa concepção aplicada à\nmulher define-se por uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conivência com relação à rejeição feminina de assumir um casamento arranjado pelo pai.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "caracterização da personagem feminina como um estereótipo da mulher sensual e misteriosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "convicção de que a mulher é um organismo frágil e condicionado por seu ciclo reprodutivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "submissão da personagem feminina a um processo que a infantiliza e limita intelectualmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incapacidade de resistir às pressões socialmente impostas, representadas pelo pai e pelo médico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

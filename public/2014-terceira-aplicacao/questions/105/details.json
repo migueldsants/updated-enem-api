@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2014 - Terceira aplicação",
+    "index": 105,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Antiga viola\nA minha antiga viola\nFeita de pau de pinhero\nÉ minha eterna lembrança\nDo meu tempo de violero\nA saudade dos fandango\nDo meu sertão brasilero.\nO recortado e catira\nFaiz lembrá dos mutirão\nO xote alembro as gaúchas\nO churrasco no galpão\nAs moda de viola é triste\nFaiz chorá quem tem paixão.\nO baião é lá do Norte\nPaulista é o cateretê\nQuando escuto Cana-Verde\nAlembro de Tietê\nNuma festa do Divino\nQue me encontrei com você.\nA valsa é uma serenata\nNa janela das morena\nO rasqueado faiz lembrá\nO cantar das siriema\nDo tempo de boiadero\nNas madrugada serena.\nCantei muitos desafio\nJá fui cabra fandanguero\nNa congada já fui rei\nEm todo sertão minero\nHoje só canto a saudade\nDo folclore brasilero.\n\nTONICO E TINOCO. Cantando para o Brasil, 1963. Disponível em: http://letras.terra.com.br.\n\nAcesso em: 24 set. 2011.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A letra da música de Tonico e Tinoco revela que, entre\ntantas funções da língua, ela contribui para a preservação\nda identidade nacional sertaneja. No texto, o que\ncaracteriza linguisticamente essa identidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O uso de adjetivos qualificadores das experiências do enunciador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O emprego de palavras contrárias à destruição da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As escolhas lexicais caracterizadoras da fala coloquial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "As palavras sugestivas do caráter romântico do homem sertanejo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A marca pronominal indicativa de um interlocutor feminino.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

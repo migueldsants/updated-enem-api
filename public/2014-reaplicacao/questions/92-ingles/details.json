@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2014 - Reaplicação",
+    "index": 92,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Languages and cultures use non-verbal communication\nwhich conveys meaning. Although many gestures are\nsimilar in Thai and English such as nodding for affirmation\nmany others are not shared. A good example of this is\nthe ubiquitous “Thai smile”. The “smile” carries a far wider\nrange of meanings in Thai than it does in English culture.\nThis can sometimes lead to serious communication\nbreakdowns between Thais and English speakers.\n\nAn example from my own early experience in Thailand\nillustrates the point. When confronting the Thai owner of a\nlanguage school with administrative problems, complaints\nregarding student numbers in the class were met by a\nbeaming smile and little else. I took this to mean lack of\nconcern or an attempt to trivialise or ignore the problem.\nI left the discussion upset and angry by what appeared to\nbe the owner’s offhand attitude to my problems.\n\nIt was only later when another native speaking English\nteacher, with considerably more experience of Thailand,\nexplained that a smile meant an apology and the fact that\nthe following day all my complaints had been addressed,\nthat I fully understood the situation.\n\nDisponível em: www.spring.org.uk. Acesso em: 11 jul. 2011 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Viver em um país estrangeiro pode ser uma experiência\nenriquecedora, embora possa também ser um desafio,\npelo choque cultural. A experiência relatada pelo autor\ndo texto revela diferentes atribuições de sentido a um\ndeterminado comportamento, mostrando que naquela\nsituação o sorriso indicava um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "forma educada de fazer uma reclamação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "modo irônico de reagir a uma solicitação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "jeito de reconhecer um erro e se desculpar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "tentativa de minimizar um problema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estratégia para esconder a verdade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

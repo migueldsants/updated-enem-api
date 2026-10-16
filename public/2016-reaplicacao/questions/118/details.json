@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2016 - Reaplicação",
+    "index": 118,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/118/cc30662c-4973-46ca-84a2-38af5667f99b.png)\n\nA MOBILIDADE PRECISA DE\n\nDIVERSIDADE\n\nSUGAI, C. Disponível em: www.acessibilidadenapratica.com.br. Acesso em: 29 jun. 2015.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/118/cc30662c-4973-46ca-84a2-38af5667f99b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto sugere que a mobilidade é uma questão\ncrucial para a vida nas cidades. Nele, destaca-se a\nnecessidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "incorporar meios de transportes diversos para viabilizar o deslocamento urbano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "investir em transportes de baixo custo para minimizar os impactos ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliar a quantidade de transportes coletivos para atender toda a população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "privilegiar meios alternativos de transporte para garantir a mobilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "adotar medidas para evitar o uso de transportes motorizados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

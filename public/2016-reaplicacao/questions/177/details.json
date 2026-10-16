@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2016 - Reaplicação",
+    "index": 177,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O presidente de um time de futebol quer contratar um\natacante para seu elenco e um empresário lhe ofereceu\ncinco jogadores. Ele deseja contratar o jogador que\nobteve a maior média de gols nos anos de 2010 a 2013.\n\nO quadro apresenta o número de gols marcados nos\nanos de 2010 a 2013 por cada um dos cinco jogadores:\n\n![](https://enem.dev/2016-reaplicacao/questions/177/1cda613a-df75-4384-82d8-a78b06e96300.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/177/1cda613a-df75-4384-82d8-a78b06e96300.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

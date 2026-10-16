@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2020 - Digital",
+    "index": 56,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A década que se segue ao fim da guerra constitui praticamente uma continuação desta\ncom a acomodação difícil de seus resultados. A ruptura do sistema internacional com a\nRevolução Soviética, a ascensão dos Estados Unidos, o recuo da Europa e o início da\ncontestação anticolonial marcam uma década que para muitos foi de pessimismo e para\nalguns de ilusão, que bruscamente se encerra com a quebra da bolsa de Nova Iorque. Com a\ncrise de 1929 terá início a preparação de uma nova guerra mundial.\n\nVIZENTINI, P. G. F. Primeira Guerra Mundial. Porto Alegre: UFRGS, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os eventos mencionados no texto contribuíram fortemente para a ascensão de regimes\npropensos a um novo conflito armado, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "perturbaram a dinâmica de equilíbrio demográfico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dificultaram a adesão a ideologias de viés socialista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "favoreceram a ascensão de grupos anarquistas ao poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "corroeram a crença na legitimidade das democracias liberais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "deterioraram a confiança no salvacionismo dos exércitos nacionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2013 - Reaplicação",
+    "index": 98,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Aptidão física é a capacidade de realizar as tarefas do\ndia a dia com o mínimo de fadiga e desconforto. E isso é\nobtido a partir da constituição física, incluída aí a herança\ngenética. Ter aptidão física é estar com coração, pulmões,\nvasos sanguíneos e músculos prontos para suportar, sem\nproblemas, as atividades que o corpo realiza. Trata-se de\numa condição relativa e mutável, que pode ser melhorada\ne ampliada conforme o interesse de cada um. Um artista\nde circo precisa de aptidão para pedalar com o monociclo\nna corda bamba sem cair; alguém na plateia pode querer\napenas acompanhar sua turma em um passeio de\nbicicleta até uma cachoeira. Ou seja, é você quem decide\nquão apto quer estar para suas atividades.\n\nSABA, F. Mexa-se: atividade física, saúde e bem-estar. São Paulo: Phorte, 2008.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A busca por uma melhoria da qualidade de vida exige\nque as pessoas procurem por um aprimoramento da sua\naptidão física, e para isso é necessário que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sejam incorporadas as atividades cotidianas de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "trabalho a séries de exercício físico. sejam adotados horários fixos para a execução de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "exercícios corporais, além da genética apropriada. haja dedicação predominante à prática de exercícios",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "de musculação em relação aos exercícios aeróbicos. haja estímulo ao indivíduo para o desempenho de atividades consonantes com suas necessidades e",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "capacidades físicas. tenham prioridade, no programa de treinamento, as modalidades esportivas de caráter individual.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

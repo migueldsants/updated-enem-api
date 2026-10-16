@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2021 - Digital",
+    "index": 131,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A simples atitude de não jogar direto no lixo ou no ralo da pia o óleo de cozinha\nusado pode contribuir para a redução da poluição ambiental. Mas o que fazer com o óleo\nvegetal que não será mais usado? Não existe um modelo ideal de descarte, mas uma\nalternativa simples tem sido reaproveitá-lo para fazer sabão. Para isso, são necessários,\nalém do próprio óleo, água e soda cáustica.\n\nLOBO, I. Sabão feito com óleo de cozinha. Disponível em: http://pga.pgr.mpf.gov.br.\nAcesso em: 29 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no texto, a reação química que permite o reaproveitamento do óleo vegetal é\ndenominada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "epoxidação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "substituição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "esterificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "saponificação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

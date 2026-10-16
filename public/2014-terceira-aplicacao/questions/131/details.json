@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2014 - Terceira aplicação",
+    "index": 131,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A sua concepção de governo [do Marechal Floriano\nPeixoto] não era o despotismo, nem a democracia, nem\na aristocracia; era a de uma tirania doméstica. O bebê\nportou-se mal, castiga-se. Levada a coisa ao grande\no portar-se mal era fazer-lhe oposição, ter opiniões\ncontrárias às suas e o castigo não eram mais palmadas,\nsim, porém, prisão e morte. Não há dinheiro no tesouro;\nponham-se as notas recolhidas em circulação, assim\ncomo se faz em casa quando chegam visitas e a sopa é\npouca: põe-se mais água.\n\nBARRETO, L. Triste fim de Policarpo Quaresma. São Paulo: Brasiliense, 1956 (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A obra literária de Lima Barreto faz uma crítica\nincisiva ao período da Primeira República no Brasil. No\nfragmento do romance Triste fim de Policarpo Quaresma,\na expressão “tirania doméstica”, como concepção do\ngoverno florianista, significa que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o regime político era omisso e elitista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a visão política de governo era infantilizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o presidente empregava seus parentes no governo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o modelo de ação política e econômica era patriarcal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o presidente assumiu a imagem populista de pai da nação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

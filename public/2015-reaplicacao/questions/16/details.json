@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2015 - Reaplicação",
+    "index": 16,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Dubai é uma cidade-estado planejada para estarrecer os visitantes. São tamanhos e formatos grandiosos, em\nhotéis e centros comerciais reluzentes, numa colagem de estilos e atrações que parece testar diariamente os limites\nda arquitetura voltada para o lazer. O maior shopping do tórrido Oriente Médio abriga uma pista de esqui, a orla do\nGolfo Pérsico ganha milionárias ilhas artificiais, o centro financeiro anuncia para breve a torre mais alta do mundo\n(a Burj Dubai) e tem ainda o projeto de um campo de golfe coberto! Coberto e refrigerado, para usar com sol e chuva,\ninverno e verão.\n\nDisponível em: http://viagem.uol.com.br. Acesso em: 30 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, são descritas algumas características da paisagem de uma cidade do Oriente Médio. Essas características\ndescritas são resultado do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criação de territórios políticos estratégicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "preocupação ambiental pautada em decisões governamentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilização de tecnologia para transformação do espaço.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "demanda advinda da extração local de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emprego de recursos públicos na redução de desigualdades sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 161 - ENEM 2021 - Digital",
+    "index": 161,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma mola é solta da posição distendida conforme a figura. A figura à direita\nrepresenta o gráfico da posição P (em cm) da massa m em função do tempo t (em\nsegundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é\ndescrito por uma expressão do tipo P(t) = ± A cos (ωt) ou P(t) = ± A sen (ωt), em que\nA > 0 é a amplitude de deslocamento máximo e ω é a frequência, que se relaciona com\n\n![](https://enem.dev/2021-digital/questions/161/130d7668-cdb2-4dfb-83c7-04e98f71efdd.png)\n\no período T pela fórmula ω = .\n\nConsidere a ausência de quaisquer forças dissipativas.\n\n![](https://enem.dev/2021-digital/questions/161/5c106768-50eb-4516-a77e-368237f1ef63.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/161/130d7668-cdb2-4dfb-83c7-04e98f71efdd.png",
+        "https://enem.dev/2021-digital/questions/161/5c106768-50eb-4516-a77e-368237f1ef63.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo,\nno gráfico, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "– 3 cos (2t)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "– 3 sen (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "– 6 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 sen (2t)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

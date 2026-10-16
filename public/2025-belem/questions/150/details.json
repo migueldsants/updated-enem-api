@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 150,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na produção de uma unidade de um produto, uma empresa\ngastava R$ 40,00 na compra de matéria-prima e mais R$ 40,00\nem custos diversos. Essa empresa vendia esse produto por\nR$ 120,00 a unidade.\n\nEm decorrência de mudanças no mercado consumidor,\nos custos diversos aumentaram em 50%, embora o custo com\nmatéria-prima tenha permanecido o mesmo. Assim, a empresa\nreajustará o preço de venda desse produto de forma que,\nao conceder um desconto de 20%, o lucro, em real, por unidade\nvendida permaneça o mesmo.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De quanto será o reajuste, em real, no preço de venda desse\nproduto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "50,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "55,00",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

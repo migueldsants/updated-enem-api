@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2022 - Digital",
+    "index": 126,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda\npara fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de\ncorda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes\ncondições:\n\nO ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°;\nOs filhos utilizarão o balanço até que tenham uma massa de 24 kg.\n\n![](https://enem.dev/2022-digital/questions/126/ed99c504-29bd-4849-80d1-c133c933b992.png)\n\ns\ndissipativas.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/126/ed99c504-29bd-4849-80d1-c133c933b992.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a tensão de ruptura da corda escolhida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "120 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "300 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "360 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "450 N",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "900 N",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

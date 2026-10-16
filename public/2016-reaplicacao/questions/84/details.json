@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2016 - Reaplicação",
+    "index": 84,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As emissões de dióxido de carbono (CO₂) por\nveículos são dependentes da constituição de cada tipo\nde combustível. Sabe-se que é possível determinar a\nquantidade emitida de CO₂, a partir das massas molares\ndo carbono e do oxigênio, iguais a 12 g/mol e 16 g/mol,\nrespectivamente. Em uma viagem de férias, um indivíduo\npercorreu 600 km em um veículo que consome um litro de\ngasolina a cada 15 km de percurso.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando que o conteúdo de carbono em um litro\ndessa gasolina é igual a 0,6 kg, a massa de CO₂ emitida\npelo veículo no ambiente, durante a viagem de férias\ndescrita, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "33 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "40 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "88 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "147 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

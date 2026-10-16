@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2022 - Digital",
+    "index": 5,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "MATERNIDADES EN TIEMPOS DE PANDEMIA\n\nMURIG. Disponível em:https://murigcolectivafeminista.wordpress.com. Acesso em: 26 out. 2021 (adaptado).\n\n![](https://enem.dev/2022-digital/questions/5-espanhol/65a9284d-33f8-4231-a288-2b8cbe8c0f7a.png)\n\n/",
+    "files": [
+        "https://enem.dev/2022-digital/questions/5-espanhol/65a9284d-33f8-4231-a288-2b8cbe8c0f7a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, as palavras “crianza” e “tribu” são usadas para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evidenciar a importância de uma rede de apoio para as mães na criação de seus",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "denunciar a disparidade entre o trabalho das mães de diferentes classes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ressaltar o fechamento de escolas e creches durante o período pandêmico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ratificar a romantização da dedicação das mães na educação das crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "enfatizar a proteção aos filhos em razão do isolamento social das famílias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

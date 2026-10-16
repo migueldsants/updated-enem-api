@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2016 - Segunda aplicação",
+    "index": 75,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma lâmpada LED (diodo emissor de luz), que\nfunciona com 12 V e corrente contínua de 0,45 A,\nproduz a mesma quantidade de luz que uma lâmpada\nincandescente de 60 W de potência.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é o valor da redução da potência consumida ao se\nsubstituir a lâmpada incandescente pela de LED?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "54,6 W",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "27,0 W",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "26,6 W",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,4 W",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,0 W",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

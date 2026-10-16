@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 153,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um vendedor de balões para festas comprou um recipiente\ncheio de gás hélio, no formato de cilindro circular reto com 40 cm\nde diâmetro interno da base e 1 m de altura. Ele vai adquirir\nbalões em uma loja que só os vende em pacotes fechados, cada\num com 5 balões esféricos que, após enchidos com gás hélio,\ntêm 30 cm de diâmetro.\n\nO volume adquirido desse gás, em condições normais de\npressão, é igual a 12 vezes o volume do recipiente comprado.\nNo caso dos balões esféricos, o volume de gás hélio no seu\ninterior é igual à capacidade volumétrica desses balões quando\ncheios. O vendedor pretende encher o maior número possível\nde balões com o gás comprado.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número mínimo de pacotes de balões que o vendedor deve\ncomprar de forma a utilizar todo o volume de gás hélio adquirido é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "22.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2013 - Reaplicação",
+    "index": 39,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Pense no crescimento tecnológico de sua cidade\nnos últimos 10 ou 15 anos e perceberá que, embora ela\ntenha crescido, a maioria dos novos bairros é moradia de\npessoas humildes que, ou foram expulsas da área mais\ncentral pelo progresso técnico-científico, ou vieram do\ncampo ou de outras regiões buscando melhores condições\nde vida, mas agora residem em lugares desprovidos dos\nserviços básicos.\n\nSOUZA, A. J. Texto e sugestões de atividades para abordar os conceitos de progresso e\ndesenvolvimento. In: Ciência Geográfica, AGB, dez. 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com as transformações ocorridas nas áreas rurais e\nurbanas das cidades pelo advento das tecnologias, as\npessoas procuram se beneficiar de novas formas de\nsobrevivência. Para isso, apropriam-se dos espaços\nirregularmente. Diante dessa situação, o poder público\ndeve criar políticas capazes de gerar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adaptação das moradias para oferecer qualidade de vida às pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "locais de moradia dignos e infraestrutura adequada para esses novos moradores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "mutirões entre os moradores para o melhoramento estético das moradias populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "financiamentos para novas construções e acompanhamento dos serviços técnicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "situações de regularização de seus terrenos, mesmo que em áreas inadequadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

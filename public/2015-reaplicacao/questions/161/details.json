@@ -1,0 +1,47 @@
+{
+    "title": "Questão 161 - ENEM 2015 - Reaplicação",
+    "index": 161,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica brasileira de exportação de peixes vende\npara o exterior atum em conserva, em dois tipos de latas\ncilíndricas: uma de altura igual a 4 cm e raio 6 cm, e outra\nde altura desconhecida e raio de 3 cm, respectivamente,\nconforme figura. Sabe-se que a medida do volume da\nlata que possui raio maior, V1, é 1,6 vezes a medida do\nvolume da lata que possui raio menor, V 2 .\n\n![](https://enem.dev/2015-reaplicacao/questions/161/07f71f98-d74a-4e8e-8ce2-39e0e4765131.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/161/23e840f6-edf2-4b8b-8a0f-4d5be5b6b268.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/161/caee7b7d-be82-44bb-b1ff-37b16cd46293.png)\n\nDisponível em: www.cbra.org.br. Acesso em: 3 mar. 2012.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/161/07f71f98-d74a-4e8e-8ce2-39e0e4765131.png",
+        "https://enem.dev/2015-reaplicacao/questions/161/23e840f6-edf2-4b8b-8a0f-4d5be5b6b268.png",
+        "https://enem.dev/2015-reaplicacao/questions/161/caee7b7d-be82-44bb-b1ff-37b16cd46293.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A medida da altura desconhecida vale",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "16 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40 cm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

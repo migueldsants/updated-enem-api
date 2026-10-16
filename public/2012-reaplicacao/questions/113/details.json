@@ -1,0 +1,46 @@
+{
+    "title": "Questão 113 - ENEM 2012 - Reaplicação",
+    "index": 113,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/113/b2979155-1dc1-4409-b328-35cb5293d8c2.png)\n\nFONSECA, M. O. Nelson Leirner: 2011-1961 = 50 anos.\n\n![](https://enem.dev/2012-reaplicacao/questions/113/935e4b08-b4f1-4cc7-ad68-7ff0d5a285f2.png)\n\nALENCAR, V. P. Cultura popular e crítica.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/113/b2979155-1dc1-4409-b328-35cb5293d8c2.png",
+        "https://enem.dev/2012-reaplicacao/questions/113/935e4b08-b4f1-4cc7-ad68-7ff0d5a285f2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As imagens representam, respectivamente, as obras\nFutebol, do artista plástico Nelson Leirner; e Superhomens,\nde Rubens Gerchman. São obras representativas de um\nmovimento denominado Pop Art, que ecoou no Brasil\nna década de 1960, no qual artistas se apropriaram de\nimagens da vida diária e da cultura de massa, tornando-\nas objetos de arte. A partir de uma perspectiva ampliada\ne crítica sobre o esporte, interpretada como um elemento\nda cultura corporal de movimento, as imagens",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "banalizam o esporte ao misturar o futebol e a pintura em um mesmo campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "deixam transparecer a preferência de ambos os artistas pelo futebol enquanto esporte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "permitem refletir sobre como as artes visuais se apropriaram do futebol como uma tradição nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "fazem uma reflexão crítica sobre o futebol e a violência como temas circulantes na sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "destacam a importância do esporte como atividade física de lazer para a sociedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

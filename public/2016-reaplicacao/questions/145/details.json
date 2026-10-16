@@ -1,0 +1,46 @@
+{
+    "title": "Questão 145 - ENEM 2016 - Reaplicação",
+    "index": 145,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ano após ano, muitos brasileiros são vítimas de\nhomicídio no Brasil. O gráfico apresenta a quantidade de\nhomicídios registrados no Brasil, entre os anos 2000 e 2009.\n\nNúmero de homicídios\n\n52 000\n\n![](https://enem.dev/2016-reaplicacao/questions/145/c7c636ba-d64a-40d7-a17c-1f0e6848abcb.png)\n\n50 000 49 695\n\n49 000\n\n![](https://enem.dev/2016-reaplicacao/questions/145/ce6e9ea9-083e-4799-8e50-5e75efedcda6.png)\n\n48 000 47 578\n\n47 000\n\n46 000\n\n45 000\n\n2000200120022003200420052006200720082009\nWAISELFISZ, J. J. Mapa da violência 2012: os novos padrões da violência homicida no Brasil.\n\nSão Paulo: Instituto Sangari, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/145/c7c636ba-d64a-40d7-a17c-1f0e6848abcb.png",
+        "https://enem.dev/2016-reaplicacao/questions/145/ce6e9ea9-083e-4799-8e50-5e75efedcda6.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se o maior crescimento anual absoluto observado nessa\nsérie se repetisse de 2009 para 2010, então o número de\nhomicídos no Brasil ao final desse período seria igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "48 839.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "52 755.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "53 840.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "54 017.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "54 103.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

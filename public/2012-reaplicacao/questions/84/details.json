@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2012 - Reaplicação",
+    "index": 84,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alimentos como carnes, quando guardados de\nmaneira inadequada, deterioram-se rapidamente devido\nà ação de bactérias e fungos. Esses organismos se\ninstalam e se multiplicam rapidamente por encontrarem aí\ncondições favoráveis de temperatura, umidade e nutrição.\nPara preservar tais alimentos é necessário controlar a\npresença desses microrganismos. Uma técnica antiga e\nainda bastante difundida para preservação desse tipo de\nalimento é o uso do sal de cozinha (NaCℓ).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa situação, o uso do sal de cozinha preserva os\nalimentos por agir sobre os microrganismos,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desidratando suas células.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "inibindo sua síntese proteica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inibindo sua respiração celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "bloqueando sua divisão celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desnaturando seu material genético.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

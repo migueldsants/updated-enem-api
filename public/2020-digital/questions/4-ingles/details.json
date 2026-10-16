@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2020 - Digital",
+    "index": 4,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/4-ingles/c9615812-5e3f-4cde-a73b-17c8f3fa56a7.png)\n\nDisponível em: www.toxel.com. Acesso em: 15 fev. 2012.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/4-ingles/c9615812-5e3f-4cde-a73b-17c8f3fa56a7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A observação dos elementos verbais e visuais do anúncio leva-nos à compreensão de que o\nobjetivo da companhia de abastecimento de água de Denver é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "divulgar espaços publicitários de grande visibilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sensibilizar para a conservação do patrimônio público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apresentar uma forma mais econômica de fazer publicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conscientizar sobre a necessidade de otimização do consumo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "denunciar possíveis danos decorrentes de atos de vandalismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2013 - Reaplicação",
+    "index": 55,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/55/02ffa9ac-33d4-440f-8a47-0434667c9798.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A palha de aço, um material de baixo custo e vida útil\npequena, utilizada para lavar louças, é um emaranhado\nde fios leves e finos que servem para a remoção por atrito\ndos resíduos aderidos aos objetos.\nA propriedade do aço que justifica o aspecto físico descrito\nno texto é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ductilidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "maleabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "densidade baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "condutividade elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/55/02ffa9ac-33d4-440f-8a47-0434667c9798.png",
+            "isCorrect": false
+        }
+    ]
+}

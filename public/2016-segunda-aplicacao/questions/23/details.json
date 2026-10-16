@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2016 - Segunda aplicação",
+    "index": 23,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Justiça de São Paulo decidiu multar os\nsupermercados que não fornecerem embalagens de\npapel ou material biodegradável. De acordo com a\ndecisão, os estabelecimentos que descumprirem a\nnorma terão de pagar multa diária de R$ 20 mil, por ponto\nde venda. As embalagens deverão ser disponibilizadas\nde graça e em quantidade suficiente.\n\nDisponível em: www.estadao.com.br. Acesso em: 31 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A legislação e os atos normativos descritos estão\nancorados na seguinte concepção:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Implantação da ética comercial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Manutenção da livre concorrência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Garantia da liberdade de expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promoção da sustentabilidade ambiental.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Enfraquecimento dos direitos do consumidor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

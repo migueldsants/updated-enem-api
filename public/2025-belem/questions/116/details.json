@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 116,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um tanque industrial contendo ácido clorídrico se rompeu\ne dele vazaram 365 kg dessa substância. A equipe de contenção\nde acidentes foi mobilizada e utilizou, para neutralizar o ácido,\ncal hidratada. Para não deixar resíduos do ácido, como margem\nde segurança, aplicou-se 50% a mais dessa base. A equação da\nreação de neutralização está representada a seguir:\n\n2 HCl (aq) + Ca(OH)₂ (s) → CaCl₂ (aq) + 2 H₂O (l)\nAs massas molares do HCl e do Ca(OH)₂ são, respectivamente,\niguais a 36,5 g/mol e 74 g/mol.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando a cal hidratada 100% pura, a massa de\nCa(OH)₂ utilizada na neutralização do ácido foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "370 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "555 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "740 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 110 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 480 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

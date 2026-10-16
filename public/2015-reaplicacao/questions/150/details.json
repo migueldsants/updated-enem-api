@@ -1,0 +1,47 @@
+{
+    "title": "Questão 150 - ENEM 2015 - Reaplicação",
+    "index": 150,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No comércio é comumente utilizado o salário mensal\ncomissionado. Além de um valor fixo, o vendedor tem um\nincentivo, geralmente um percentual sobre as vendas.\n\n![](https://enem.dev/2015-reaplicacao/questions/150/5fb2da7e-1b25-4f5c-9f03-a95300168d3c.png)\n\nConsidere um vendedor que tenha salário comissionado,\nsendo sua comissão dada pelo percentual do total de\nvendas que realizar no período. O gráfico expressa o\nvalor total de seu salário, em reais, em função do total de\nvendas realizadas, também em reais.\n\n2 400\n2 200\n2 000\n1 800\n1 600\n1 400\n\n![](https://enem.dev/2015-reaplicacao/questions/150/61b7b36e-fd32-4b2f-b611-4defaeb7ca06.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/150/7c86e59a-ee7a-4a59-9b84-3c668b58d5cd.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/150/5fb2da7e-1b25-4f5c-9f03-a95300168d3c.png",
+        "https://enem.dev/2015-reaplicacao/questions/150/61b7b36e-fd32-4b2f-b611-4defaeb7ca06.png",
+        "https://enem.dev/2015-reaplicacao/questions/150/7c86e59a-ee7a-4a59-9b84-3c668b58d5cd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual o valor percentual da sua comissão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,0%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16,7%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "27,7%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50,0%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

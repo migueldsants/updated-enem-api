@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2021 - Digital",
+    "index": 166,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios\nde um deprimido não respondem bem aos estímulos dos neurotransmissores. Os\nremédios que combatem a depressão têm o objetivo de restabelecer a química cerebral.\nCom o aumento gradativo de casos de depressão, a venda desses medicamentos está\nem crescente evolução, conforme ilustra o gráfico.\n\n![](https://enem.dev/2021-digital/questions/166/6dc74231-27b4-48a3-b3b3-9d05c1bb2dfd.png)\n\nVeja, 10 fev. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/166/6dc74231-27b4-48a3-b3b3-9d05c1bb2dfd.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "45,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "54,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "120.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "220.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "283,2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

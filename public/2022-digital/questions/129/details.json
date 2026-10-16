@@ -1,0 +1,45 @@
+{
+    "title": "Questão 129 - ENEM 2022 - Digital",
+    "index": 129,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em\numa variação de temperatura ao longo de um dia denominada amplitude térmica.\nEdificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as\namplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas\ncaracterísticas naturais, com presença de vegetação e água, já que o calor específico do\nconcreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a\npresença de concreto proporciona às áreas urbanas consiste em considerar a\nsubstituição da área concretada por um mesmo volume de água e comparar as variações\nde temperatura devido à absorção da radiação solar nas duas situações (concretada e\nalagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é\nabsorvida, essa avaliação pode ser realizada com os seguintes dados:\n\n![](https://enem.dev/2022-digital/questions/129/ba9b08c3-19ae-4bb1-98c8-cafff602295f.png)\n\nROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas.\nBrasília: UnB; ETB, 2019 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/129/ba9b08c3-19ae-4bb1-98c8-cafff602295f.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A razão entre as variações de temperatura nas áreas concretada e alagada é mais\npróxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13,1.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

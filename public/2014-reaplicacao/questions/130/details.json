@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2014 - Reaplicação",
+    "index": 130,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014-reaplicacao/questions/130/2ab65f23-06e3-49aa-a7e4-e332522f94a4.png)\n\nDisponível em: http://vicostudio.blogspot.com.br. Acesso em: 1 ago. 2012.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/130/2ab65f23-06e3-49aa-a7e4-e332522f94a4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa propaganda visa convencer as mães de que o\ncanal de televisão é adequado aos seus filhos. Para tanto,\no locutor dirige-se ao interlocutor por meio de estratégias\nargumentativas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "manipulação, ao detalhar os programas infantis que compõem a grade da emissora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "persuasão, ao evidenciar as características da programação dirigida ao público infantil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "intimidação, ao dirigir-se diretamente às mães para chamá-las à reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "comoção, ao tranquilizar as mães sobre a qualidade dos programas da emissora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comparação, ao elencar os serviços oferecidos por outras emissoras ao público infantil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

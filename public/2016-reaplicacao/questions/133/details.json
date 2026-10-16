@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2016 - Reaplicação",
+    "index": 133,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Há muito se sabe que a Bacia Bauru – depósito de\nrochas formadas por sedimentos localizado entre os\nestados de São Paulo, Minas Gerais, Goiás, Paraná, Mato\nGrosso e Mato Grosso do Sul – foi habitada, há milhões\nde anos, por uma abundante fauna de crocodiliformes,\num grupo de répteis em que estão inclusos os crocodilos,\njacarés e seus parentes pré-históricos extintos. Entre as\nfamílias que por lá viveram está a Baurusuchidae, que, na\nregião, englobava outras seis espécies de crocodiliformes\nexclusivamente terrestres e com grande capacidade de\ndeslocamento, crânio alto e comprimido lateralmente e com\nlongos dentes serrilhados. Agora, em um artigo publicado\nna versão on-line da revista Cretaceous Research, um\ngrupo de pesquisadores das universidades federais do\nRio de Janeiro e do Triângulo Mineiro, em Minas Gerais,\nidentificaram mais um membro dessa antiga família.\n\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 2 nov. 2013.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A circulação do conhecimento científico ocorre de\ndiferentes maneiras. Por meio da leitura do trecho,\nidentifica-se que o texto é um artigo de divulgação\ncientífica, pois, entre outras características,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exige do leitor conhecimentos específicos acerca do tema explorado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "destina-se a leitores vinculados a diferentes comunidades científicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "faz referência a artigos publicados em revistas científicas internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "trata de descobertas da ciência com linguagem acessível ao público em geral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "aborda temas que receberam destaque em jornais e revistas não especializados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

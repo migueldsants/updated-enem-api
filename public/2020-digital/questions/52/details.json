@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2020 - Digital",
+    "index": 52,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Brasília é a primeira cidade moderna inscrita na lista do Patrimônio Mundial. O plano da\ncidade, idealizado por Lúcio Costa, segue os princípios básicos da Carta de Atenas, de 1933.\nUma cidade estruturada em áreas, cada qual com uma função específica (área monumental,\nonde se concentram os prédios da administração, área residencial, área agrária e área de\nlazer), separadas por vastos espaços naturais que se comunicam pelo traçado das grandes\nvias.\n\nSILVA, F. F. As cidades brasileiras e o Patrimônio Cultural da Humanidade.\nSão Paulo: Peirópolis, 2003.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A cidade apresentada foi reconhecida como Patrimônio Cultural da Humanidade porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mescla populações e sotaques ilustrativos da diversidade étnica brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "preserva princípios arquitetônicos e urbanísticos originados no Modernismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "sintetiza valores cívicos e políticos definidores do patriotismo político nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promove serviços turísticos e produtos artesanais representativos das tradições locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "protege acervos documentais e imagéticos reveladores da trajetória institucional do país.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

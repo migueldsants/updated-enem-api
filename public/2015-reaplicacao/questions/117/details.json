@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2015 - Reaplicação",
+    "index": 117,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quem não se recorda de Aurélia Camargo, que\natravessou o firmamento da corte como brilhante meteoro,\ne apagou-se de repente no meio do deslumbramento que\nproduzira seu fulgor? Tinha ela dezoito anos quando\napareceu a primeira vez na sociedade. Não a conheciam;\ne logo buscaram todos com avidez informações acerca\nda grande novidade do dia. Dizia-se muita coisa que não\nrepetirei agora, pois a seu tempo saberemos a verdade,\nsem os comentos malévolos de que usam vesti-la os\nnoveleiros. Aurélia era órfã; tinha em sua companhia\numa velha parenta, viúva, D. Firmina Mascarenhas, que\nsempre a acompanhava na sociedade. Mas essa parenta\nnão passava de mãe de encomenda, para condescender\ncom os escrúpulos da sociedade brasileira, que naquele\ntempo não tinha admitido ainda certa emancipação\nfeminina. Guardando com a viúva as deferências devidas\nà idade, a moça não declinava um instante do firme\npropósito de governar sua casa e dirigir suas ações como\nentendesse. Constava também que Aurélia tinha um\ntutor; mas essa entidade era desconhecida, a julgar pelo\ncaráter da pupila, não devia exercer maior influência em\nsua vontade, do que a velha parenta.\n\nALENCAR, J. Senhora. São Paulo: Ática, 2006.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O romance Senhora, de José de Alencar, foi publicado em\n1875. No fragmento transcrito, a presença de D. Firmina\nMascarenhas como “parenta” de Aurélia Camargo assimila\npráticas e convenções sociais inseridas no contexto do\nRomantismo, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o trabalho ficcional do narrador desvaloriza a mulher ao retratar a condição feminina na sociedade brasileira",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da época. o trabalho ficcional do narrador mascara os hábitos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "sociais no enredo de seu romance. as características da sociedade em que Aurélia vivia são remodeladas na imaginação do narrador",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "romântico. o narrador evidencia o cerceamento sexista à",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "autoridade da mulher, financeiramente independente. o narrador incorporou em sua ficção hábitos muito avançados para a sociedade daquele período histórico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

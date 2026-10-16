@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2016 - Reaplicação",
+    "index": 135,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Estas palavras ecoavam docemente pelos atentos\nouvidos de Guaraciaba, e lhe ressoavam n’alma como\num hino celestial. Ela sentia-se ao mesmo tempo\nenternecida e ufana por ouvir aquele altivo e indômito\nguerreiro pronunciar a seus pés palavras do mais\nsubmisso e mavioso amor, e respondeu-lhe cheia de\nemoção: — Itajiba, tuas falas são mais doces para\nminha alma que os favos da jataí, ou o suco delicioso\ndo abacaxi. Elas fazem-me palpitar o coração como a\nflor que estremece ao bafejo perfumado das brisas da\nmanhã. Tu me amas, bem o sei, e o amor que te consagro\ntambém não é para ti nenhum segredo, embora meus\nlábios não o tenham revelado. A flor, mesmo nas trevas,\nse trai pelo seu perfume; a fonte do deserto, escondida\nentre os rochedos, se revela por seu murmúrio ao\ncaminhante sequioso. Desde os primeiros momentos tu\nviste meu coração abrir-se para ti, como a flor do manacá\naos primeiros raios do sol.\n\nGUIMARÃES, B. O ermitão de Muquém. Disponível em: www.dominiopublico.gov.br.\nAcesso em: 7 out. 2015.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto de Bernardo Guimarães é representativo da\nestética romântica. Entre as marcas textuais que\nevidenciam a filiação a esse movimento literário está\nem destaque a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "referência a elementos da natureza local.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "exaltação de Itajiba como nobre guerreiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cumplicidade entre o narrador e a paisagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "representação idealizada do cenário descrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "expressão da desilusão amorosa de Guaraciaba.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

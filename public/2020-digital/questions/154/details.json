@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2020 - Digital",
+    "index": 154,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma editora pretende fazer uma reimpressão de um de seus livros. A direção da editora\nsabe que o gasto com papel representa 60% do custo de reimpressão, e que as despesas com\na gráfica representam os 40% restantes. Dentro da programação da editora, no momento em\nque ela realizar a reimpressão, o preço do papel e os custos com a gráfica terão sofrido\nreajustes de 25,9% e 32,5%, respectivamente. O custo para a reimpressão de cada livro, nos\npreços atuais, é de R$ 100,00.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual será o custo, em real, para a reimpressão de cada livro com os reajustes estimados de\ncusto de papel e despesas com a gráfica?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "128,54",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "129,20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "129,86",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "158,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "166,82",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

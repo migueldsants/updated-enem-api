@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2016 - Segunda aplicação",
+    "index": 166,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma caixa-d’água em forma de um paralelepípedo\nretângulo reto, com 4 m de comprimento, 3 m de largura e\n2 m de altura, necessita de higienização. Nessa operação,\na caixa precisará ser esvaziada em 20 min, no máximo.\nA retirada da água será feita com o auxílio de uma bomba\nde vazão constante, em que vazão é o volume do líquido\nque passa pela bomba por unidade de tempo.\nA vazão mínima, em litro por segundo, que essa bomba\ndeverá ter para que a caixa seja esvaziada no tempo\nestipulado é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

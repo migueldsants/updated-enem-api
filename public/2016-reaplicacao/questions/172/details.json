@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2016 - Reaplicação",
+    "index": 172,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A economia no consumo de combustível é um fator\nimportante para a escolha de um carro. É considerado\nmais econômico o carro que percorre a maior distância\npor litro de combustível.\n\nO gráfico apresenta a distância (km) e o respectivo\nconsumo de gasolina (L) de cinco modelos de carros.\n\n![](https://enem.dev/2016-reaplicacao/questions/172/ef37f985-28d8-4f1e-b28f-1e498df6d153.png)\n\n0 100 200 300 400 500 600\nDistância percorrida (km)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/172/ef37f985-28d8-4f1e-b28f-1e498df6d153.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O carro mais econômico em relação ao consumo de\ncombustível é o modelo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

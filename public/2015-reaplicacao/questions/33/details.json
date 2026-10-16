@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2015 - Reaplicação",
+    "index": 33,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A humanidade conhece, atualmente, um fenômeno espacial novo: pela primeira vez na história humana, a\npopulação urbana ultrapassa a rural no mundo. Todavia, a urbanização é diferenciada entre os continentes.\n\nDURAND, M. F. et al. Atlas da mundialização: compreender o espaço mundial contemporâneo. São Paulo: Saraiva, 2009.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No texto, faz-se referência a um processo espacial de escala mundial. Um indicador das diferenças continentais\ndesse processo espacial está presente em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Orientação política de governos locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Composição religiosa de povos originais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tamanho desigual dos espaços ocupados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Distribuição etária dos habitantes do território.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Grau de modernização de atividades econômicas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

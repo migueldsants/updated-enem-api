@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 98,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Energia solar fotovoltaica\nA energia solar fotovoltaica é renovável e limpa, associada à radiação emitida pelo Sol para gerar eletricidade. Baseia-se no\ndenominado efeito fotoelétrico, por meio do qual determinados materiais são capazes de absorver fótons e liberar elétrons,\ngerando corrente elétrica. Para isso, utilizam-se placas com dispositivos semicondutores denominados células solares, ou\nfotovoltaicas, que podem ser feitos, por exemplo, de silício monocristalino, policristalino ou amorfo.\n\nDisponível em: www.ecycle.com.br. Acesso em: 2 dez. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O principal impacto ambiental gerado pelo descarte desses dispositivos está associado ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contaminação do solo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "emissão de radioatividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "emissão de radiação ultravioleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento da temperatura do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "produção de gases de efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2020 - Digital",
+    "index": 2,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Vogue Magazine’s Complicated Relationship with Diversity\n\nEdward Enninful, the new editor-in-chief of British Vogue, has a proven history of\naddressing diversity that many hope will be the start of an overhaul of the global Vogue brand.\n\nIn March, he responded sublimely when US President Donald Trump nominated Supreme\nCourt judge Neil Gorsuch, who allegedly does not care much about civil rights: Enninful styled a\nshoot for his then employer, the New York-based W magazine, in which a range of ethnically\ndiverse models climb the stairs of an imaginary \"Supreme Court\". In February, after Trump\ninitiated the much-debated immigration ban, Enninful put together a video showcasing the\nvarious fashion celebrities who have immigrated into the US. Even before his first official day\nin Vogue’s Mayfair offices, Enninful had hired two English superstars of Jamaican descent in an\nattempt to diversify the team. Model Naomi Campbell and make-up artist Pat McGrath both\nshare Enninful’s aim of championing fashion as a force for social change.\n\nOne can only hope that Enninful’s appointment is not a mere blip, but a move in the right\ndirection on a long road to diversity for the global brand.\n\nDisponível em: www.independent.co.uk. Acesso em: 11 ago. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se as características dos trabalhos realizados pelo novo editor-chefe da Vogue\ninglesa, espera-se que a revista contribua para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "integração da moda a questões sociais e raciais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ampliação do número de concursos de modelos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "padronização de desfiles de moda internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expansão da moda em países pouco retratados em editoriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "priorização de assuntos relacionados a imigrantes jamaicanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

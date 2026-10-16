@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2016 - Reaplicação",
+    "index": 10,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No aniversário do primeiro decênio da Marcha sobre\nRoma, em outubro de 1932, Mussolini irá inaugurar sua\nVia dell Impero; a nova Via Sacra do Fascismo, ornada\ncom estátuas de César, Augusto, Trajano, servirá ao culto\ndo antigo e à glória do Império Romano e de espaço\ncomemorativo do ufanismo italiano. Às sombras do passado\nrecriado ergue-se a nova Roma, que pode vangloriar-se e\ncelebrar seus imperadores e homens fortes; seus grandes\npoetas e apólogos como Horácio e Virgílio.\n\nSILVA, G. História antiga e usos do passado: um estudo de apropriações da Antiguidade\nsob o regime de Vichy. São Paulo: Annablume, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A retomada da Antiguidade clássica pela perspectiva do\npatrimônio cultural foi realizada com o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "afirmar o ideário cristão para reconquistar a grandeza perdida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "utilizar os vestígios restaurados para justificar o regime político.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "difundir os saberes ancestrais para moralizar os costumes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "refazer o urbanismo clássico para favorecer a participação política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recompor a organização republicana para fortalecer a administração estatal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

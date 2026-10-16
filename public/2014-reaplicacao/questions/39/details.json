@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2014 - Reaplicação",
+    "index": 39,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Escoamento das águas das chuvas\n\n![](https://enem.dev/2014-reaplicacao/questions/39/13b41560-1622-4734-8a61-1977af4e6825.png)\n\nDisponível em: www.essentiaeditora.iff.edu.br. Acesso em: 20 jun. 2012.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/39/13b41560-1622-4734-8a61-1977af4e6825.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Comparando o escoamento natural das águas de chuva com o escoamento em áreas urbanas, nota-se que a\nurbanização promove maior",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vazão hídrica nas estruturas artificiais construídas pelas atividades humanas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "armazenagem subterrânea, uma vez que, nas áreas urbanizadas, o ciclo hidrológico é alterado pelas atividades antrópicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "evapotranspiração, pois, nas áreas urbanas, a diminuição da cobertura vegetal promove aumento no processo de transpiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "transferência de descarga subterrânea, pois, ao aumentar a impermeabilização, traz-se como consequência maior alimentação do lençol freático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "infiltração, pois, ao aumentar a impermeabilização, estabelece-se uma relação diretamente proporcional desses elementos na composição do ciclo hidrológico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

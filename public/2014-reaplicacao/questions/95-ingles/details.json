@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2014 - Reaplicação",
+    "index": 95,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Turning Brown\n\nA four-year-old boy was eating an apple in the back\nseat of the car, when he asked, “Daddy, why is my apple\nturning brown?”\n\n“Because,” his dad explained, “after you ate the skin\noff, the meat of the apple came into contact with the air,\nwhich caused it to oxidize, thus changing the molecular\nstructure and turning it into a different color.”\n\nThere was a long silence. Then the son asked softly,\n“Daddy, are you talking to me?”\n\nDisponível em: http://hayspost.com. Acesso em: 10 nov. 2011.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando os participantes da conversa nessa\npiada, nota-se que o efeito de humor é obtido em função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da dificuldade que o pai estava enfrentando para dar uma resposta ao filho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "de o pai dizer que a maçã tem carne e que muda de cor em contato com o ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de um menino de quatro anos entender uma explicação científica sobre a oxidação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do fato de a criança não saber por que a maçã que estava comendo era marrom.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da escolha inadequada do tipo de linguagem para se conversar com uma criança.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2014 - Reaplicação",
+    "index": 75,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um método para determinação do teor de etanol na\ngasolina consiste em misturar volumes conhecidos de\nágua e de gasolina em um frasco específico. Após agitar\no frasco e aguardar um período de tempo, medem-se os\nvolumes das duas fases imiscíveis que são obtidas: uma\norgânica e outra aquosa. O etanol, antes miscível com a\ngasolina, encontra-se agora miscível com a água.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para explicar o comportamento do etanol antes e depois\nda adição de água, é necessário conhecer",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a densidade dos líquidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tamanho das moléculas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o ponto de ebulição dos líquidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os átomos presentes nas moléculas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o tipo de interação entre as moléculas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2021 - Digital",
+    "index": 52,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Durante os anos de 1854-55, o governo brasileiro — por meio de sua representação\ndiplomática em Londres — e os livre-cambistas ingleses — nas colunas do Daily News e\nna Câmara dos Comuns — aumentaram a pressão pela revogação da Lei Aberdeen. O\ngoverno britânico, entretanto, ainda receava que, sem um tratado anglo-brasileiro\nsatisfatório para substituí-la, não haveria nada que impedisse os brasileiros de um dia\nvoltarem aos seus velhos hábitos.\n\nBETHELL, L. A abolição do comércio brasileiro de escravos. Brasília: Senado Federal, 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As tensões diplomáticas expressas no texto indicam o interesse britânico em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estabelecer jurisdição conciliadora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "compartilhar negócios marítimos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fomentar políticas higienistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "manter a proibição comercial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "promover o negócio familiar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

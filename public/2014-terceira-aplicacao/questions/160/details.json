@@ -1,0 +1,49 @@
+{
+    "title": "Questão 160 - ENEM 2014 - Terceira aplicação",
+    "index": 160,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um indivíduo possui uma renda mensal de R$ 1 200,00\ne deseja comprar um refrigerador. Na loja que ele decide\nfazer sua compra, o refrigerador custa R$ 1 800,00. Esse\nvalor deverá ser pago em 12 prestações mensais iguais e\nsem juros.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/160/46896301-6eea-45df-8755-1fb8d2017294.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/160/95e720b0-c80b-4601-839f-4d6747752c19.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/160/6ad5fd9e-3033-453e-85c5-c98b289b1f38.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/160/73fb6597-a54f-470f-a5dd-7a54306ddb52.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/160/420f3137-f07e-4ab2-9d81-8148c01e40c1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma forma de representar a quantia da renda mensal do\nindivíduo que será usada para pagar cada prestação é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/160/46896301-6eea-45df-8755-1fb8d2017294.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/160/95e720b0-c80b-4601-839f-4d6747752c19.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/160/6ad5fd9e-3033-453e-85c5-c98b289b1f38.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/160/73fb6597-a54f-470f-a5dd-7a54306ddb52.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/160/420f3137-f07e-4ab2-9d81-8148c01e40c1.png",
+            "isCorrect": false
+        }
+    ]
+}

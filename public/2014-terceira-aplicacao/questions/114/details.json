@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2014 - Terceira aplicação",
+    "index": 114,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Dietas radicais são perigosas, que o diga o protagonista\nda comédia O Professor Aloprado. Mesmo sem recorrer a\npoções explosivas como o personagem de Eddie Murphy,\nmuitas vezes as pessoas se dispõem a correr certos riscos\npara perder alguns quilinhos. As estatísticas mostram que\nos distúrbios alimentares graves como a anorexia (redução\nextrema ou perda de apetite) e bulimia (apetite compulsivo\nseguido de vômito provocado) se manifestam, sobretudo,\nentre as adolescentes. Com a pressão estética exercida\nprincipalmente sobre os jovens e por desconhecerem os\naspectos positivos de uma dieta equilibrada associada a\nexercícios físicos, “fecham a boca” e trilham um caminho\nbastante perigoso para a saúde.\n\nDisponível em: www.revistaescola.abril.com.br. Acesso em: 26 out. 2010 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Levando-se em conta a conscientização acerca de hábitos\ncorporais saudáveis e a reflexão crítica sobre os modelos\nde corpo disseminados pela sociedade, os jovens devem\nconsiderar importante a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "assimilação de que os tipos de corpos difundidos socialmente devem ser escolhidos como modelos a serem seguidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "preocupação com as estatísticas e “fechar a boca” para perder alguns quilinhos, buscando a melhoria da saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "compreensão de que a imagem corporal é construída a partir de influências sociais, culturais, políticas e econômicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "adoção de uma mudança de hábitos alimentares escolhendo uma dieta padronizada, a fim de conseguir o “corpo ideal”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valorização de ideias de beleza e saúde, buscando adequar-se ao padrão corporal que a sociedade exige.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

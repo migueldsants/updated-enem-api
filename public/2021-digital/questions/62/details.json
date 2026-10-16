@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2021 - Digital",
+    "index": 62,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Constatou-se uma ínfima inserção da indústria brasileira nas novas tecnologias\nancoradas na microeletrônica, capazes de acarretar elevação da produtividade nacional\nde forma sustentada. Os motores do crescimento nacional, há décadas, são os grupos\nrelacionados a commodities agroindustriais e à indústria representativa do antigo padrão\nfordista de produção, esta última também limitada pela baixa potencialidade futura de\ndesencadear inovações tecnológicas capazes de proporcionar elevação sustentada da\nprodutividade.\n\nAREND, M. A industrialização do Brasil ante a nova divisão internacional do trabalho.\nDisponível em: www.ipea.gov.br. Acesso em: 16 jul. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um efeito desse cenário para a sociedade brasileira tem sido o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "barateamento da cesta básica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "retorno à estatização econômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliação do poder de consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "subordinação aos fluxos globais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "incentivo à política de modernização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

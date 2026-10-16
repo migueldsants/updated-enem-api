@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2020 - Digital",
+    "index": 159,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa avaliou os cinco aparelhos de celulares (T1, T2, T3, T4 e T5) mais vendidos\nno último ano, nos itens: câmera, custo-benefício, design, desempenho da bateria e tela,\nrepresentados por I1, I2, I3, I4 e I5, respectivamente. A empresa atribuiu notas de 0 a 10 para\ncada item avaliado e organizou essas notas em uma matriz A, em que cada elemento aij\nsignifica a nota dada pela empresa ao aparelho Ti no item Ij. A empresa considera que o\nmelhor aparelho de celular é aquele que obtém a maior soma das notas obtidas nos cinco\nitens avaliados.\n\n![](https://enem.dev/2020-digital/questions/159/980ae5bd-d91a-44d3-8acd-5a42088f3fb7.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/159/980ae5bd-d91a-44d3-8acd-5a42088f3fb7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nessas informações, o aparelho de celular que a empresa avaliou como sendo o\nmelhor é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "T1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "T2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "T3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "T4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "T5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

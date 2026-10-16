@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2016 - Reaplicação",
+    "index": 93,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Medio millón de personas en Lima habla\nuna lengua indígena\n\nQuechua, aimara, ashaninka, cauqui, jaqaru,\nmatsigenka y shipibo-konibo son lenguas originarias\nque tienen algo en común: todas conviven en Lima, y\nhoy, como todo 27 de mayo, son recordadas como parte\ndel Día del Idioma Nativo. En la capital existe al menos\nmedio millón de habitantes que se comunican a través\nde siete de las 47 lenguas indígenas que existen en todo\nel Perú. Solo en el caso de quechuahablantes, en Lima\npodemos encontrar al menos 477 mil, más de 26 mil cuya\nlengua originaria es el aimara, 1 750 ashaninka, 2 500\nshipibo-konibo y 700 jaqaru. Agustín Panizo, lingüista del\nMinisterio de Cultura, destacó que si bien en los últimos\naños se ha avanzando en el reconocimiento del derecho\nde que cada ciudadano hable su idioma nativo, todavía\nhace falta más difusión sobre la importancia de respetarlas\ny preservarlas. Según datos del Ministerio de Cultura, en\nel Perú existen 47 lenguas indígenas habladas por más\nde cuatro millones de habitantes. No obstante, se calcula\nque al menos 37 lenguas nativas se han extinguido y que\n27 de las sobrevivientes están en peligro de desaparecer.\n\nDisponível em: http://elcomercio.pe. Acesso em: 10 jul. 2015.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A diversidade linguística é anualmente tratada no\nDía del Idioma Nativo, em Lima. No texto, o desafio\napontado em relação a essa questão é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "delinear o quantitativo de línguas nativas remanescentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "despertar para a necessidade de proteger as línguas indígenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "incentivar a comemoração da sobrevivência das línguas nativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fazer o levantamento estatístico dos falantes das línguas nativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manter a sociedade atualizada sobre a realidade linguística peruana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

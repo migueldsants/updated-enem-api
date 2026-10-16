@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2016 - Reaplicação",
+    "index": 139,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A prefeitura de uma cidade detectou que as galerias\npluviais, que possuem seção transversal na forma de um\nquadrado de lado 2 m, são insuficientes para comportar\no escoamento da água em caso de enchentes. Por essa\nrazão, essas galerias foram reformadas e passaram a ter\nseções quadradas de lado igual ao dobro das anteriores,\npermitindo uma vazão de 400 m³/s. O cálculo da vazão\nV (em m³/s) é dado pelo produto entre a área por onde\npassa a água (em m²) e a velocidade da água (em m/s).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Supondo que a velocidade da água não se alterou, qual\nera a vazão máxima nas galerias antes das reformas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25 m³/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50 m³/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "100 m³/s",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "200 m³/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "300 m³/s",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

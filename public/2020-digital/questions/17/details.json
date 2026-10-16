@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2020 - Digital",
+    "index": 17,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nCinema Novo\n\nO filme quis dizer: “Eu sou o samba”\nA voz do morro rasgou a tela do cinema\nE começaram a se configurar\nVisões das coisas grandes e pequenas\nQue nos formaram e estão a nos formar\nTodas e muitas: Deus e o diabo, vidas secas, os fuzis,\nOs cafajestes, o padre e a moça, a grande feira, o desafio\nOutras conversas, outras conversas sobre os jeitos do Brasil\n\nVELOSO, C.; GIL, G. In: Tropicália 2. Rio de Janeiro: Polygram, 1993 (fragmento).\n\nTEXTO II\n\nO cinema brasileiro partiu da consciência do subdesenvolvimento e da necessidade de\nsuperá-lo de maneira total, em sentido estético, filosófico, econômico: superar o\nsubdesenvolvimento com os meios do subdesenvolvimento. Tropicalismo é o nome dessa\noperação; por isso existe um cinema antes e depois do Tropicalismo. Agora nós não temos\nmais medo de afrontar a realidade brasileira, a nossa realidade, em todos os sentidos e a\ntodas as profundidades.\n\nROCHA, G. Tropicalismo, antropologia, mito, ideograma. In: Revolução do Cinema Novo. Rio de Janeiro: Alhambra;\nEmbrafilme, 1981 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma das aspirações do Cinema Novo, movimento cinematográfico brasileiro dos anos 1960,\nincorporadas pela letra da canção e detectáveis no texto de Glauber Rocha, está na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "retomada das aspirações antropofágicas pela prática intertextual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "problematização do conceito de arte provocada pela geração tropicalista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "materialização do passado como instrumento de percepção do contemporâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "síntese da cultura popular em sintonia com as manifestações artísticas da época.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "formulação de uma identidade brasileira calcada na tradição cultural e na crítica social.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2022 - Digital",
+    "index": 114,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado\npela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma\nmolécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína\nencontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora\na técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina\nanimal na sua forma recombinante, ou seja, produzida em laboratório por um fungo\ngeneticamente modificado.\n\nJULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a\ncoagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse novo medicamento apresenta potencial aplicação para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "impedir a formação de trombos, típicos em alguns casos de acidente vascular",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "tratar consequências da anemia profunda, em razão da perda de grande volume",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "evitar a manifestação de urticárias, comumente relacionadas a processos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "regular a oscilação da pressão arterial, característica dos quadros de",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

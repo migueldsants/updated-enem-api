@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2016 - Reaplicação",
+    "index": 66,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A corrida dos 100 m rasos é uma das principais\nprovas do atletismo e qualifica o homem mais rápido do\nmundo. Um corredor de elite foi capaz de percorrer essa\ndistância em 10 s, com 41 passadas. Ele iniciou a corrida\ncom o pé direito.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O período de oscilação do pé direito desse corredor foi\nmais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/10 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/4 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/2 s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 179 - ENEM 2020 - Digital",
+    "index": 179,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O ganho real de um salário, r, é a taxa de crescimento do poder de compra desse salário.\nEle é calculado a partir do percentual de aumento dos salários e da taxa de inflação, referidos\na um mesmo período. Algebricamente, pode-se calcular o ganho real pela fórmula\n\n![](https://enem.dev/2020-digital/questions/179/554ceb94-749e-4fdb-901c-947d0529244c.png)\n\nem que i é o percentual de aumento no valor dos salários e f é a taxa de inflação, ambos\nreferidos a um mesmo período.\n\nConsidere que uma categoria de trabalhadores recebeu uma proposta de aumento salarial\nde 10%, e que a taxa de inflação do período correspondente tenha sido 5%. Para avaliar a\nproposta, os trabalhadores criaram uma classificação em função dos ganhos reais conforme o\nquadro.\n\n![](https://enem.dev/2020-digital/questions/179/b85c30ba-88e6-4f48-8869-091c7cc6a854.png)\n\nEles classificaram a proposta de aumento e justificaram essa classificação apresentando\no valor do ganho real que obteriam.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/179/554ceb94-749e-4fdb-901c-947d0529244c.png",
+        "https://enem.dev/2020-digital/questions/179/b85c30ba-88e6-4f48-8869-091c7cc6a854.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A classificação, com sua respectiva justificativa, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inaceitável, porque o ganho real seria mais próximo de – 5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ruim, porque o ganho real seria mais próximo de 1,05%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "regular, porque o ganho real seria mais próximo de 4,7%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "boa, porque o ganho real seria mais próximo de 9,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "boa, porque o ganho real seria mais próximo de 5%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

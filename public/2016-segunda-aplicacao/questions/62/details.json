@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2016 - Segunda aplicação",
+    "index": 62,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em uma aula de biologia sobre formação vegetal\nbrasileira, a professora destacou que, em uma\nregião, a flora convive com condições ambientais\ncuriosas. As características dessas plantas não\nestão relacionadas com a falta de água, mas com\nas condições do solo, que é pobre em sais minerais,\nácido e rico em alumínio. Além disso, essas plantas\npossuem adaptações ao fogo.\nAs características adaptativas das plantas que\ncorrespondem à região destacada pela professora são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Raízes escoras e respiratórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Raízes tabulares e folhas largas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Casca grossa e galhos retorcidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Raízes aéreas e perpendiculares ao solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Folhas reduzidas ou modificadas em espinhos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2022 - Digital",
+    "index": 59,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 2003, teve início o Programa de Aquisição de Alimentos e, com ele, várias\nmudanças na perspectiva dos mercados institucionais. Trata-se do primeiro programa de\ncompras públicas com uma orientação exclusiva para a agricultura familiar, articulando-a\nexplicitamente com a segurança alimentar e nutricional. O Programa é destinado à\naquisição de produtos agropecuários produzidos por agricultores enquadrados no\nPrograma Nacional de Fortalecimento da Agricultura Familiar (Pronaf), incluídas aqui as\ncategorias: assentados da reforma agrária, trabalhadores rurais sem terra, acampados,\nquilombolas, agroextrativistas, famílias atingidas por barragens e comunidades indígenas.\n\nGRISA, C.; ISOPO, S. P. Dez anos de PAA: as contribuições e os desafios para o desenvolvimento rural. In: GRISA,\nC.; SCHNEIDER, S. (Org.). Políticas públicas de desenvolvimento rural no Brasil. Porto Alegre: UFRGS, 2015.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A ação governamental descrita constitui-se uma importante conquista para os pequenos\nprodutores em virtude da:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inovação tecnológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reestruturação fundiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Comercialização garantida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Eliminação no custo do frete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Negociação na bolsa de valores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

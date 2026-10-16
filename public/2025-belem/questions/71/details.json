@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 71,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A alimentação é uma atividade que envolve muito mais que\no ato de comer e a disponibilidade de alimentos. Há uma cadeia\nde produção, que se inicia no campo, ou antes, na preparação de\nsementes,mudaseinsumos,passandoporciclos,doplantioàcolheita,\nem que elementos da natureza têm um papel crucial, mas que vêm\nsendo,cadavezmais,envolvidosporquestõestecnológicas,financeiras\ne sociais. Nas etapas produtivas, no campo, as inter-relações\ncom a sustentabilidade parecem claras. De fato, o próprio termo\nsustentabilidadefoicunhadocomforteinfluênciadaatividadeagrária.\n\nRIBEIRO, H. et al. Alimentação e sustentabilidade.\nEstudos Avançados, n. 89, 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base no texto, uma medida que contribui para a\nsustentabilidade da alimentação é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "melhoria dos níveis de renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "manejo das técnicas no cultivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "manutenção dos padrões de consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ampliação da infraestrutura nas rodovias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emprego de adubo químico nas lavouras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

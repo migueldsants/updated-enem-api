@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 43,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Voldemort: um vilão fictício?\nImagine um personagem cuja simples menção nos provoque um\narrepio na espinha, nos cause ódio, medo, repulsa; um personagem\nque nos faça questionar os limites da maldade e refletir: será que\nexiste alguém assim no mundo real? Imagine um personagem\nque seja apresentado de forma superficial, sem que possamos\nconhecer sua história e suas motivações; que seja apresentado\ncomo alguém puramente mau e que pareça existir apenas para\ncausar destruição e terror. Esse personagem é um vilão.\n\nMuitos vilões da ficção são tão caricatos, têm características\ntão exageradas e estão tão distantes daquilo que consideramos\n“humano”, que visivelmente não possuem qualquer relação\ncom pessoas do mundo real. Mas há aqueles vilões que fazem\nvocê pensar: será que isso está tão distante da realidade assim?\n\nLord Voldemort é um poderoso bruxo da série de livros e\nfilmes e~êêó mçííÉê. O vilão, que é o principal antagonista na\nnarrativa, realiza tantos atos de crueldade e destruição, que torna\nimpossível enxergarmos nele qualquer traço de humanidade.\n\nMas será que essa figura tão sinistra não tem qualquer\nsimilaridade com alguém no mundo real?\n\nCiência Hoje, n. 408, abr. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse texto, a função apelativa opera estrategicamente junto\nà função referencial da linguagem para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criar imagens de personagens vilões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "conduzir o leitor a se envolver com o tema.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "descrever o impacto do mundo real na ficção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "descobrir como a literatura explica a criação de vilões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "informar sobre uma determinada série de livros e filmes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

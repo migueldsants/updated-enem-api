@@ -1,0 +1,47 @@
+{
+    "title": "Questão 97 - ENEM 2014 - Terceira aplicação",
+    "index": 97,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/97/c114873c-c79f-4912-b813-5c60dfc9054d.png)\n\nDisponível em: www.lumaxazevedo.com.br. Acesso em: 10 nov. 2011 adaptado .\n\nTEXTO II\n\nEu etiqueta\nMeu lenço, meu relógio, meu chaveiro,\nMinha gravata e cinto e escova e pente,\nMeu copo, minha xícara,\nMinha toalha de banho e sabonete,\nMeu isso, meu aquilo.\nDesde a cabeça ao bico dos sapatos,\nSão mensagens,\nLetras falantes,\nGritos visuais,\nOrdens de uso, abuso, reincidências.\nCostume, hábito, permanência,\nIndispensabilidade,\nE fazem de mim homem-anúncio itinerante,\nEscravo da matéria anunciada.\nEstou, estou na moda.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/97/038c1872-7aa1-4843-a616-593f77164f52.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/97/19f16af5-56d5-4f9d-b7a3-4a4c0eb9aa13.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/97/c114873c-c79f-4912-b813-5c60dfc9054d.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/97/038c1872-7aa1-4843-a616-593f77164f52.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/97/19f16af5-56d5-4f9d-b7a3-4a4c0eb9aa13.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O anúncio publicitário Garoto propaganda e o poema\nEu etiqueta, embora pertençam a gêneros textuais\ndiferentes, abordam a mesma temática, com vistas a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "submeter à crítica do leitor a sujeição a que a sociedade é obrigada pelo mercado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "manifestar desagrado aos anúncios-itinerantes e às etiquetas impostas pelo mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "descrever minuciosamente o cotidiano do homem que anuncia desde seu nascimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "caracterizar o mercado da moda como elemento de inserção do homem à sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comparar as diversidades de etiquetas e modas existentes na sociedade capitalista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

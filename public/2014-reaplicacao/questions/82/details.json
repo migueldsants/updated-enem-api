@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2014 - Reaplicação",
+    "index": 82,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura apresenta a comparação dos gastos de três tipos de lâmpadas residenciais de mesmo brilho, durante\ncinco anos. Considera-se a utilização média de vinte pontos de luz, utilizando em média dez lâmpadas acesas durante\n6 horas ao custo de R$ 0,30, para cada 1 kWh consumido.\n\n![](https://enem.dev/2014-reaplicacao/questions/82/ef01a59c-ab12-45fb-8f55-e2fbbf5b647a.png)\n\nDisponível em: http://planetasustentavel.abril.com.br. Acesso em: 2 jul. 2012 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/82/ef01a59c-ab12-45fb-8f55-e2fbbf5b647a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações, a lâmpada energeticamente mais eficiente, a mais viável economicamente e a de maior\nvida útil são, respectivamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fluorescente compacta, LED, LED.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "LED, fluorescente compacta, LED.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "fluorescente compacta, incandescente, LED.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "LED, incandescente, fluorescente compacta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fluorescente compacta, fluorescente compacta, LED.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

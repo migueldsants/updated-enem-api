@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2022 - Digital",
+    "index": 170,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam\natividades físicas diariamente. Ele observou que a perda média de massa dessas\npessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L\nde água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao\nfinal da atividade, uma quantidade total de água correspondente a 40% a mais do que a\nmassa perdida na atividade física, para evitar desidratação.\n\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total\nde 1,7 L de água após terminar seus exercícios físicos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física\ndessa pessoa, nesse dia, durou",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30 minutos ou menos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mais de 35 e menos de 45 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mais de 45 e menos de 55 minutos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mais de 60 e menos de 70 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70 minutos ou mais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

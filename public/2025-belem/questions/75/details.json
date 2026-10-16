@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 75,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A cidade atual é uma cidade de contradições; abriga muitas\nethnes, muitas classes, muitas religiões. É fragmentária demais,\ncheia de contrastes e conflitos. Consequentemente, tem muitas\nfaces, não uma apenas. É a própria condição de abertura que\ntorna nossa cidade tão convidativa e atraente para sua crescente\nmultidão de habitantes. A falta de uma imagem coerente e\nexplícita pode, em nossas circunstâncias, ser uma virtude\npositiva, nunca um defeito ou mesmo um problema.\n\nRYKWERT, J. A sedução do lugar: a história e o futuro da cidade.\nSão Paulo: Martins Fontes, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, a complexidade das cidades contemporâneas\napresenta-se como consequência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inalterabilidade dos valores morais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inviabilidade das diferenças sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "multiplicidade de conexões culturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "homogeneidade dos tecidos urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "unidade dos comportamentos coletivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

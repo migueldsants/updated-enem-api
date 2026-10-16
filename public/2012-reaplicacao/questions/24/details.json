@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2012 - Reaplicação",
+    "index": 24,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em teoria, as pessoas livres da Colônia foram\nenquadradas em uma hierarquia característica do Antigo\nRegime. A transferência desse modelo, de sociedade de\nprivilégios, vigente em Portugal, teve pouco efeito prático\nno Brasil. Os títulos de nobreza eram ambicionados.\nOs fidalgos eram raros e muita gente comum tinha\npretensões à nobreza.\n\nFAUSTO, B. História do Brasil. São Paulo: Edusp; Fundação do Desenvolvimento da\nEducação, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao reelaborarem a lógica social vigente na metrópole, os\nsujeitos do mundo colonial construíram uma distinção que\nordenava a vida cotidiana a partir da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "concessão de títulos nobiliárquicos por parte da Igreja Católica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "afirmação de diferenças fundadas na posse de terras e de escravos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "imagem do Rei e de sua Corte como modelo a ser seguido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "miscigenação associada a profissões de elevada qualificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "definição do trabalho como princípio ético da vida em sociedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

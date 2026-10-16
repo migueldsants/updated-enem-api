@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2020 - Digital",
+    "index": 132,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No final do século XIX, muitos cientistas estavam interessados nos intrigantes fenômenos\nobservados nas ampolas de raios catódicos, que são tubos sob vácuo em que se ligam duas\nplacas a uma fonte de alta tensão. Os raios catódicos passam através de um orifício no ânodo\ne continuam o percurso até a outra extremidade do tubo, onde são detectados pela\nfluorescência produzida ao chocarem-se com um revestimento especial, como pode ser\nobservado na figura. Medições da razão entre a carga e a massa dos constituintes dos raios\ncatódicos mostram que a sua identidade independe do material do cátodo ou do gás dentro\ndas ampolas.\n\n![](https://enem.dev/2020-digital/questions/132/ff23956d-9721-4276-9c4e-b19c549c60dd.png)\n\nCHANG, R.; GOLDSBY, K. A. Química. Porto Alegre: Bookman, 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/132/ff23956d-9721-4276-9c4e-b19c549c60dd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa radiação invisível detectada nas ampolas é constituída por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ânions.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cátions.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "prótons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elétrons.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "partículas alfa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

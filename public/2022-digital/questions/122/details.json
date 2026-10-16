@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2022 - Digital",
+    "index": 122,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura ilustra esquematicamente um processo de remediação de solos\ncontaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de\nvazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais,\nele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa\nnão aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de\ndescontaminação emprega o íon persulfato (S O₂₈²⁻), que é convertido no radical •SO₄⁻\npor minerais que contêm Fe(III). O esquema representa de forma simplificada o\nmecanismo de ação química sobre o TCE e a formação dos produtos de degradação.\n\n![](https://enem.dev/2022-digital/questions/122/b854a21f-4db9-46e2-8b6e-48392a328d30.png)\n\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: remediação de águas\n\nsubterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/122/b854a21f-4db9-46e2-8b6e-48392a328d30.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse procedimento de remediação de águas subterrâneas baseia-se em reações de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oxirredução.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "substituição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "precipitação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desidratação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "neutralização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

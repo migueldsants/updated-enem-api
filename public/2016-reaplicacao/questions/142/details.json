@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2016 - Reaplicação",
+    "index": 142,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta dados sobre viagens distintas,\nrealizadas com o mesmo veículo, por diferentes\nmotoristas. Em cada viagem, o veículo foi abastecido com\ncombustível de um preço diferente e trafegou com uma\n\n![](https://enem.dev/2016-reaplicacao/questions/142/ecae7363-46c0-45f1-8693-45ddf9ca48fc.png)\n\nSabe-se que esse veículo tem um rendimento de 15 km\npor litro de combustível se trafegar com velocidade média\nabaixo de 75 km/h. Já se trafegar com velocidade média\nentre 75 km/h e 80 km/h, o rendimento será de 16 km por\nlitro de combustível. Trafegando com velocidade média\nentre 81 km/h e 85 km/h, o rendimento será de 12 km por\nlitro de combustível e, acima dessa velocidade média, o\nrendimento cairá para 10 km por litro de combustível.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/142/ecae7363-46c0-45f1-8693-45ddf9ca48fc.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O motorista que realizou a viagem que teve o menor custo\ncom combustível foi o de número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

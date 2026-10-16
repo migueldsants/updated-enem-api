@@ -1,0 +1,49 @@
+{
+    "title": "Questão 180 - ENEM 2012 - Reaplicação",
+    "index": 180,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa analisou mensalmente as vendas de\num de seus produtos ao longo de 12 meses após seu\nlançamento. Concluiu que, a partir do lançamento, a\nvenda mensal do produto teve um crescimento linear\naté o quinto mês. A partir daí houve uma redução nas\nvendas, também de forma linear, até que as vendas se\nestabilizaram nos dois últimos meses da análise.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/180/51604653-09c5-4ce2-91d3-05482834b580.png",
+        "https://enem.dev/2012-reaplicacao/questions/180/90e06d3f-7eaf-4b1c-abe4-73018d21964b.png",
+        "https://enem.dev/2012-reaplicacao/questions/180/16894103-519d-48a8-98ef-94a8fd7c9a6b.png",
+        "https://enem.dev/2012-reaplicacao/questions/180/193ddc0c-a8b0-45dd-aef4-b0a17726498b.png",
+        "https://enem.dev/2012-reaplicacao/questions/180/29aae3e4-98a8-462c-b438-7edf0e524d51.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O gráfico que representa a relação entre o número de\nvendas e os meses após o lançamento do produto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/180/51604653-09c5-4ce2-91d3-05482834b580.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/180/90e06d3f-7eaf-4b1c-abe4-73018d21964b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/180/16894103-519d-48a8-98ef-94a8fd7c9a6b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/180/193ddc0c-a8b0-45dd-aef4-b0a17726498b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/180/29aae3e4-98a8-462c-b438-7edf0e524d51.png",
+            "isCorrect": false
+        }
+    ]
+}

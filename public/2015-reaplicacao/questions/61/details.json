@@ -1,0 +1,47 @@
+{
+    "title": "Questão 61 - ENEM 2015 - Reaplicação",
+    "index": 61,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os calcários são materiais compostos por carbonato\nde cálcio, que podem atuar como sorventes do dióxido\nde enxofre (SO₂), um importante poluente atmosférico.\nAs reações envolvidas no processo são a ativação do\ncalcário, por meio de calcinação, e a fixação do SO₂ com\na formação de um sal de cálcio, como ilustrado pelas\nequações químicas simplificadas.\n\ncalor\n\n![](https://enem.dev/2015-reaplicacao/questions/61/3a44e22d-1765-4552-949b-2f07c1c84677.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/61/b999c76a-2a6b-4016-a382-9364f5c3faf1.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/61/d9955ae2-707f-4f7d-809e-c7fe82e13f8a.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/61/3a44e22d-1765-4552-949b-2f07c1c84677.png",
+        "https://enem.dev/2015-reaplicacao/questions/61/b999c76a-2a6b-4016-a382-9364f5c3faf1.png",
+        "https://enem.dev/2015-reaplicacao/questions/61/d9955ae2-707f-4f7d-809e-c7fe82e13f8a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando-se as reações envolvidas nesse processo\nde dessulfurização, a fórmula química do sal de cálcio\ncorresponde a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CaSO₃.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CaSO₄.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "CaS₂O₈.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CaSO₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "CaS₂O₇.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

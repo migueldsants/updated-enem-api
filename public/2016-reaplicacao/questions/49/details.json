@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2016 - Reaplicação",
+    "index": 49,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Benjamin Franklin (1706-1790), por volta de\n1757, percebeu que dois barcos que compunham a\nfrota com a qual viajava para Londres permaneciam\nestáveis, enquanto os outros eram jogados pelo vento.\nAo questionar o porquê daquele fenômeno, foi informado\npelo capitão que provavelmente os cozinheiros haviam\narremessado óleo pelos lados dos barcos. Inquirindo\nmais a respeito, soube que habitantes das ilhas do\nPacífico jogavam óleo na água para impedir que o vento\na agitasse e atrapalhasse a pesca.\n\nEm 1774, Franklin resolveu testar o fenômeno\njogando uma colher de chá (4 mL) de óleo de oliva em um\nlago onde pequenas ondas eram formadas. Mais curioso\nque o efeito de acalmar as ondas foi o fato de que o óleo\nhavia se espalhado completamente pelo lago, numa área\nde aproximadamente 2 000 m², formando um filme fino.\n\nEmbora não tenha sido a intenção original de Franklin,\nesse experimento permite uma estimativa da ordem de\ngrandeza do tamanho das moléculas. Para isso, basta\nsupor que o óleo se espalha até formar uma camada com\numa única molécula de espessura.\n\nRAMOS, C. H. I. História. CBME Informação, n. 9, jan. 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nas condições do experimento realizado por Franklin, as\nmoléculas do óleo apresentam um tamanho da ordem de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10⁻³ m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10⁻⁵ m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10⁻⁷ m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10⁻⁹ m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "10⁻¹¹ m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

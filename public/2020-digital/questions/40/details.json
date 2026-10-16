@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2020 - Digital",
+    "index": 40,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Seixas era homem honesto; mas ao atrito da secretaria e ao calor das salas, sua\nhonestidade havia tomado essa têmpera flexível da cera que se molda às fantasias da vaidade\ne aos reclamos da ambição.\n\nEra incapaz de apropriar-se do alheio, ou de praticar um abuso de confiança; mas\nprofessava a moral fácil e cômoda, tão cultivada atualmente em nossa sociedade.\n\nSegundo essa doutrina, tudo é permitido em matéria de amor; e o interesse próprio tem\nplena liberdade, desde que se transija com a lei e evite o escândalo.\n\nALENCAR, J. Senhora. Disponível em: www.dominiopublico.gov.br. Acesso em: 7 out. 2015.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A literatura romântica reproduziu valores sociais em sintonia com seu contexto de mudanças. No\nfragmento de Senhora, as concepções românticas do narrador repercutem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "resistência à relativização dos parâmetros éticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "idealização de personagens pela nobreza de atitudes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "crítica aos modelos de austeridade dos espaços coletivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "defesa da importância da família na formação moral do indivíduo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "representação do amor como fator de aperfeiçoamento do espírito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

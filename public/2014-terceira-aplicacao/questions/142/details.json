@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2014 - Terceira aplicação",
+    "index": 142,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fabricante planeja colocar no mercado duas\nlinhas de cerâmicas para revestimento de pisos. Diversas\nformas possíveis para as cerâmicas foram apresentadas\ne decidiu-se que o conjunto P de formas possíveis seria\ncomposto apenas por figuras poligonais regulares.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Duas formas geométricas que fazem parte de P são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "triângulo e pentágono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "triângulo e hexágono.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "triângulo e octógono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hexágono e heptágono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hexágono e octógono.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

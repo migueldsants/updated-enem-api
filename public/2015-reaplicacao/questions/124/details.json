@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2015 - Reaplicação",
+    "index": 124,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Anfíbio com formato de cobra é descoberto\nno Rio Madeira (RO)\n\nAnimal raro foi encontrado por biólogos em canteiro\nde obras de usina. Exemplares estão no Museu Emilio\nGoeldi, no Pará\n\nO trabalho de um grupo de biólogos no canteiro de\nobras da Usina Hidrelétrica Santo Antônio, no Rio Madeira,\nem Porto Velho, resultou na descoberta de um anfíbio de\nformato parecido com uma cobra. Atretochoana eiselti é o\nnome científico do animal raro descoberto em Rondônia.\nAté então, só havia registro do anfíbio no Museu de História\nNatural de Viena e na Universidade de Brasília. Nenhum\ndeles tem a descrição exata de localidade, apenas\n“América do Sul”. A descoberta ocorreu em dezembro do\nano passado, mas apenas agora foi divulgada.\n\nXIMENES, M. Disponível em: http://g1.globo.com. Acesso em: 1 ago. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A notícia é um gênero textual em que predomina a função\nreferencial da linguagem. No texto, essa predominância\nevidencia-se pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "recorrência de verbos no presente para convencer o leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uso da impessoalidade para assegurar a objetividade da informação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "questionamento do código linguístico na construção da notícia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilização de expressões úteis que mantêm aberto o canal de comunicação com o leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emprego dos sinais de pontuação para expressar as emoções do autor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

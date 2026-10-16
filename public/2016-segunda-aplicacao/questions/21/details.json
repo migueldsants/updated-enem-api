@@ -1,0 +1,45 @@
+{
+    "title": "Questão 21 - ENEM 2016 - Segunda aplicação",
+    "index": 21,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/21/ab2b0c26-f853-4cf6-a6ce-d04928e1c6dc.png)\n\nXilogravura, 1869. O indígena, representando o Império, coroa\ncom louros o monarca.\n\nCom seu manto real em verde e amarelo, as cores\nda casa dos Habsburgo e Bragança, mas que lembravam\ntambém os tons da natureza do “Novo Mundo”, cravejado\nde estrelas representando o Cruzeiro do Sul e, finalmente,\ncom o cabeção de penas de papo de tucano em volta\ndo pescoço, D. Pedro II foi coroado imperador do Brasil.\nO monarca jamais foi tão tropical. Entre muitos ramos\nde café e tabaco, coroado como um César em meio a\ncoqueiros e paineiras, D. Pedro transformava-se em\nsinônimo da nacionalidade.\n\nSCHWARCZ, L. M. As barbas do imperador: D. Pedro II, um monarca nos trópicos.\nSão Paulo: Cia. das Letras, 1998 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/21/ab2b0c26-f853-4cf6-a6ce-d04928e1c6dc.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No Segundo Reinado, a Monarquia brasileira recorreu\nao simbolismo de determinadas figuras e alegorias.\nA análise da imagem e do texto revela que o objetivo de\ntal estratégia era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exaltar o modelo absolutista e despótico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorizar a mestiçagem africana e nativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reduzir a participação democrática e popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mobilizar o sentimento patriótico e antilusitano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "obscurecer a origem portuguesa e colonizadora.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

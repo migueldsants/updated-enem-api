@@ -1,0 +1,45 @@
+{
+    "title": "Questão 69 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 69,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2025-belem/questions/69/e7d3e5cc-6c75-4244-86f4-264d922fd13c.png)\n\n“Em uma região onde a taxa média de crianças com\ndesnutrição aguda normalmente fica perto do limite de alerta\nde 10%, qualquer fator que reduza ainda mais o acesso aos\nalimentos pode gerar uma crise de grandes proporções”,\ninformou o comunicado da ONG Médicos Sem Fronteiras.\n\nDisponível em: www.bbc.com. Acesso em: 14 jul. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/69/e7d3e5cc-6c75-4244-86f4-264d922fd13c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para além dos fatores socioeconômicos, qual é a causa do\nproblema da fome na região demarcada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A erosão do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A poluição hídrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As ondas de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As pragas de gafanhotos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As estiagens prolongadas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 140,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "De acordo com pesquisas realizadas pela Inserção de\nImigrantes no Mercado de Trabalho Brasileiro (IIMTB), o número\nde estrangeiros trabalhando com carteira assinada no Brasil\ncresceu entre os anos de 2011 e 2012, passando de 80 000 para\n96 000, e também cresceu entre os anos de 2012 e 2013, quando\npassou de 96 000 para 120 000.\n\nDisponível em: www.redebrasilatual.com.br.\nAcesso em: 10 abr. 2015 (adaptado).\n\nÀ época, os pesquisadores da IIMTB estimaram que\no aumento percentual desse número, tanto de 2013 para\n2014 quanto de 2014 para 2015, seria igual à média dos\npercentuais anuais de aumento observados nos períodos de\n2011 a 2012 e de 2012 a 2013. Considere que essa estimativa\ntenha se concretizado.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade de estrangeiros trabalhando com carteira assinada\nno Brasil em 2015 foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "147 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "174 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "180 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "180 075.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "228 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

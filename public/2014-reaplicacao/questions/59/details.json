@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2014 - Reaplicação",
+    "index": 59,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para a proteção contra curtos-circuitos em residências\nsão utilizados disjuntores, compostos por duas lâminas\nde metais diferentes, com suas superfícies soldadas uma\nà outra, ou seja, uma lâmina bimetálica. Essa lâmina\ntoca o contato elétrico, fechando o circuito e deixando a\ncorrente elétrica passar. Quando da passagem de uma\ncorrente superior à estipulada (limite), a lâmina se curva\npara um dos lados, afastando-se do contato elétrico e,\nassim, interrompendo o circuito. Isso ocorre porque os\nmetais da lâmina possuem uma característica física cuja\nresposta é diferente para a mesma corrente elétrica que\npassa no circuito.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "característica física que deve ser observada para a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "elasticidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dilatação térmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "compressibilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "condutividade elétrica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

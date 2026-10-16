@@ -1,0 +1,46 @@
+{
+    "title": "Questão 92 - ENEM 2015 - Reaplicação",
+    "index": 92,
+    "year": 2015,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/92-espanhol/bf633c58-6253-4126-a7f4-96f1bbc968cc.png)\n\nOVIEDO, P. Sophia, n. 130, ago. 2012 (adaptado).\n\n![](https://enem.dev/2015-reaplicacao/questions/92-espanhol/84dc1145-0972-4354-acff-1453e548e7ee.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/92-espanhol/bf633c58-6253-4126-a7f4-96f1bbc968cc.png",
+        "https://enem.dev/2015-reaplicacao/questions/92-espanhol/84dc1145-0972-4354-acff-1453e548e7ee.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cercar as crianças da tecnologia disponível e",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "treiná-las a usá-la. desconectar as crianças dos aparelhos tecnológicos",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "e brincar com elas. oferecer às crianças uma variedade de brinquedos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "não tecnológicos. revezar o tempo que cada um dedica às brincadeiras",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "com os filhos. controlar o tempo de que os filhos dispõem para usar os aparelhos tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

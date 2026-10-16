@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2014 - Reaplicação",
+    "index": 171,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O número de frutos de uma determinada espécie\nde planta se distribui de acordo com as probabilidades\napresentadas no quadro.\n\n![](https://enem.dev/2014-reaplicacao/questions/171/6cfcb5a7-8145-4296-b531-f76813d672e9.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/171/6cfcb5a7-8145-4296-b531-f76813d672e9.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A probabilidade de que, em tal planta, existam, pelo\nmenos, dois frutos é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

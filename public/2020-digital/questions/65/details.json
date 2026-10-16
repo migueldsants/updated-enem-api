@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2020 - Digital",
+    "index": 65,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 1991 foi criado no Tratado da Antártica o Protocolo de Madri, e a partir desse\nprotocolo deixou-se de discutir como dividir a Antártica e passou-se a estudar maneiras de\npreservá-la, tornando-a uma reserva natural dedicada à paz e à ciência.\n\nMACHADO, C. S.; BRITO, T. Coleção explorando o ensino: Antártica. Brasília: MEC, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sobre a apropriação dos recursos existentes na área indicada, esse documento tem sido\nfundamental para instituir",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ações planejadas para caça de animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impedimentos legais de exploração mineral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "espaços exclusivos para atividades de extração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "programas internacionais de créditos compensatórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "restrições políticas para a adesão de países periféricos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

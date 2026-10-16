@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2021 - Digital",
+    "index": 107,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere a tirinha, na situação em que a temperatura do ambiente é inferior à\ntemperatura corporal dos personagens.\n\n![](https://enem.dev/2021-digital/questions/107/9b98afff-1d62-4c9a-8228-9c1f2ca1e2d4.png)\n\nWATTERSON, B. Disponível em: https://novaescola.org.br. Acesso em: 11 ago. 2014.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/107/9b98afff-1d62-4c9a-8228-9c1f2ca1e2d4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dias\númidos,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a temperatura do vapor-d’água presente no ar é alta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o suor apresenta maior dificuldade para evaporar do corpo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a taxa de absorção de radiação pelo corpo torna-se maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o ar torna-se mau condutor e dificulta o processo de liberação de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o vapor-d’água presente no ar condensa-se ao entrar em contato com a pele.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

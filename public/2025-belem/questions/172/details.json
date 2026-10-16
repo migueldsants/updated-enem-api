@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 172,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No piso de uma sala, há obstáculos. Cada obstáculo tem\numa cor: azul, cinza ou alaranjado. Um robô foi colocado na\nposição representada pela seta, conforme a figura.\n\n![](https://enem.dev/2025-belem/questions/172/4bffca1e-1308-4c2b-99b2-0e76ed5fad9b.png)\n\nEsse robô foi programado para, ao iniciar sua movimentação,\nseguir continuamente sempre no sentido que aponta a seta.\nEle tem um sensor que, ao tocar em um obstáculo, identifica\nsua cor. Se a cor é cinza, o robô gira 90° no sentido horário;\nse a cor é alaranjado, gira 90° no sentido anti-horário, e se a\ncor for azul, gira 180°.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/172/4bffca1e-1308-4c2b-99b2-0e76ed5fad9b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para sair dessa sala, em quantos obstáculos ele tocará?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

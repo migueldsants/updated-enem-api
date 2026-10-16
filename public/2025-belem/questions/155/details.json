@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 155,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pesquisa divulgada pela Fundação Getúlio Vargas Social sobre o “Mapa da Nova Pobreza”, com base nos dados\ndisponibilizados pela Pesquisa Nacional por Amostra de Domicílios Contínua (PNADC), constatou que a pobreza aumentou durante\na pandemia no Brasil. De acordo com o estudo, o contingente de pessoas com renda domiciliar per capita de até R$ 497,00 mensais\natingiu 62,9 milhões de brasileiros em 2021, o que representa 29,62% da população total do país.\n\n![](https://enem.dev/2025-belem/questions/155/dbff3f1d-b786-4e34-b77c-fc48438302f6.png)\n\nDisponível em: https://cps.fgv.br. Acesso em: 23 abr. 2024.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/155/dbff3f1d-b786-4e34-b77c-fc48438302f6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com os dados apresentados no gráfico, a mediana das taxas de pobreza no Brasil de 2012 a 2021 foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "26,00%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "26,24%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "26,28%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "26,65%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "26,67%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

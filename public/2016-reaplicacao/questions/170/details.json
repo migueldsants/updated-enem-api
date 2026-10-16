@@ -1,0 +1,50 @@
+{
+    "title": "Questão 170 - ENEM 2016 - Reaplicação",
+    "index": 170,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A cobertura de uma tenda de lona tem formato de\numa pirâmide de base quadrada e é formada usando\nquatro triângulos isósceles de base y. A sustentação\nda cobertura é feita por uma haste de medida x. Para\nsaber quanto de lona deve ser comprado, deve-se\ncalcular a área da superfície da cobertura da tenda.\n\nx\n\n![](https://enem.dev/2016-reaplicacao/questions/170/57ba3d88-04cc-4f83-86ef-c352c5cf5af5.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/170/57ba3d88-04cc-4f83-86ef-c352c5cf5af5.png",
+        "https://enem.dev/2016-reaplicacao/questions/170/1182c1fa-563c-41ec-9ba2-f155da485826.png",
+        "https://enem.dev/2016-reaplicacao/questions/170/df5ee8d5-5314-4141-90a1-0d2b95385180.png",
+        "https://enem.dev/2016-reaplicacao/questions/170/7b1ad8a8-14a1-4399-ab37-1e9a90b8790c.png",
+        "https://enem.dev/2016-reaplicacao/questions/170/6cc75ea5-487e-4687-99a4-fb20353e3b10.png",
+        "https://enem.dev/2016-reaplicacao/questions/170/c6aa656d-3c73-4ac9-a367-53cef9fa23a8.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A área da superfície da cobertura da tenda, em função de\ny e x, é dada pela expressão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/170/1182c1fa-563c-41ec-9ba2-f155da485826.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/170/df5ee8d5-5314-4141-90a1-0d2b95385180.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/170/7b1ad8a8-14a1-4399-ab37-1e9a90b8790c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/170/6cc75ea5-487e-4687-99a4-fb20353e3b10.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/170/c6aa656d-3c73-4ac9-a367-53cef9fa23a8.png",
+            "isCorrect": false
+        }
+    ]
+}

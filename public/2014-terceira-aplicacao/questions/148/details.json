@@ -1,0 +1,53 @@
+{
+    "title": "Questão 148 - ENEM 2014 - Terceira aplicação",
+    "index": 148,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cleber precisava ir a uma papelaria. Sabia a\nlocalização do ponto de ônibus em que deveria descer.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/148/00f0df33-a231-49f9-8b85-091000494ede.png)\n\ndepois 2 km para o Leste, em seguida 3 mil metros para o\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/148/3f9bf9e2-5bd5-4fe1-bd6f-7b683ca40520.png)\n\nObserve a rosa dos ventos a seguir.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/148/eeecb7e9-8312-499e-9fd8-f721f1783d04.png)\n\nOeste\nLeste\n\nConsidere uma malha quadriculada formada por\nquadrados cujos lados medem 500 m.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/148/1683fdc9-3bb0-4ce7-9928-1c43ea7ace30.png)\n\nSe a localização inicial de Cleber é dada pelo ponto A\ne a localização final é dada pelo ponto B, qual malha\nrepresenta as localizações inicial e final de Cleber, de\nacordo com a descrição?\n\nA",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/00f0df33-a231-49f9-8b85-091000494ede.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/3f9bf9e2-5bd5-4fe1-bd6f-7b683ca40520.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/eeecb7e9-8312-499e-9fd8-f721f1783d04.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/1683fdc9-3bb0-4ce7-9928-1c43ea7ace30.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/ca114a25-e599-44bb-b820-14a91b7ad214.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/7faa2fae-d0cb-417f-98c0-ca0fb837a906.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/895756ce-e9e5-481a-8f1f-19841f4c8713.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/55ac6e3f-e1ec-47e6-bf92-200ef13155f3.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/148/64b553ae-db74-4963-87f4-447fac16aff4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "B",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/148/ca114a25-e599-44bb-b820-14a91b7ad214.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/148/7faa2fae-d0cb-417f-98c0-ca0fb837a906.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/148/895756ce-e9e5-481a-8f1f-19841f4c8713.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/148/55ac6e3f-e1ec-47e6-bf92-200ef13155f3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/148/64b553ae-db74-4963-87f4-447fac16aff4.png",
+            "isCorrect": false
+        }
+    ]
+}

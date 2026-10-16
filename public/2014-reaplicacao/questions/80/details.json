@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2014 - Reaplicação",
+    "index": 80,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O arroz-dourado é uma planta transgênica capaz\nde produzir quantidades significativas de betacaroteno,\nque é ausente na variedade branca. A presença dessa\nsubstância torna os grãos amarelados, o que justifica\nseu nome.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ingestão dessa variedade geneticamente modificada",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fraqueza muscular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "problemas de visão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "alterações na tireoide.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sangramento gengival.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

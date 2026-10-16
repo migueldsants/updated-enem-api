@@ -1,0 +1,47 @@
+{
+    "title": "Questão 139 - ENEM 2015 - Reaplicação",
+    "index": 139,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma confeitaria, um cliente comprou um cupcake\n(pequeno bolo no formato de um tronco de cone regular\nmais uma cobertura, geralmente composta por um\ncreme), semelhante ao apresentado na figura:\n\n![](https://enem.dev/2015-reaplicacao/questions/139/56639ce5-a511-487c-8d57-05d4592bdd88.png)\n\n5 cm\n\n![](https://enem.dev/2015-reaplicacao/questions/139/fbfd51de-53a1-4e9d-a136-43b591eed057.png)\n\n4 cm\n\nComo o bolinho não seria consumido no\nestabelecimento, o vendedor verificou que as caixas\ndisponíveis para embalar o doce eram todas em formato\nde blocos retangulares, cujas medidas estão apresentadas\n\n![](https://enem.dev/2015-reaplicacao/questions/139/16e1f7ee-793f-48cc-815d-a922e3ffc941.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/139/56639ce5-a511-487c-8d57-05d4592bdd88.png",
+        "https://enem.dev/2015-reaplicacao/questions/139/fbfd51de-53a1-4e9d-a136-43b591eed057.png",
+        "https://enem.dev/2015-reaplicacao/questions/139/16e1f7ee-793f-48cc-815d-a922e3ffc941.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A embalagem mais apropriada para armazenar o doce,\nde forma a não deformá-lo e com menor desperdício de\nespaço na caixa, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

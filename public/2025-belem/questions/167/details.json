@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 167,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na avaliação de riscos em investimentos no setor financeiro, compreender o desvio padrão das taxas de retorno ao longo\nde um período permite analisar riscos potenciais associados a um investimento. Quanto maior o desvio padrão, maior a variação\ndas taxas de retorno e, consequentemente, maior o risco associado ao investimento. Um desvio padrão mais baixo indica um\ninvestimento mais estável e previsível.\n\nUma classificação de risco de investimento que adota o desvio padrão (d_p) como medida para avaliação é:\n• muito baixo: d_p < 5%;\n• baixo: 5% ≤ d_p < 10%;\n• moderado: 10% ≤ d_p < 20%;\n• alto: 20% ≤ d_p < 30%;\n• muito alto: d_p ≥ 30%.\nUm investidor analisou, ao longo de cinco meses, as taxas de retorno de um tipo de investimento na bolsa de valores\ne identificou, respectivamente, retornos mensais de 3%, 15%, 6%, 9% e 12%. Ele pretende aplicar um capital nesse tipo de\ninvestimento e adotará o desvio padrão como medida para avaliar a classificação do risco associado.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A classificação do risco desse tipo de investimento é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "muito baixo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "baixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "moderado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "muito alto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

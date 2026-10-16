@@ -1,0 +1,51 @@
+{
+    "title": "Questão 163 - ENEM 2020 - Digital",
+    "index": 163,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um modelo de telefone celular oferece a opção de desbloquear a tela usando um padrão\nde toques como senha.\n\n![](https://enem.dev/2020-digital/questions/163/e3d2aabd-dcc8-4148-b26d-49be5e3b60c9.png)\n\nOs toques podem ser feitos livremente nas 4 regiões numeradas da tela, sendo que o\nusuário pode escolher entre 3, 4 ou 5 toques ao todo.\n\nQual expressão representa o número total de códigos existentes?\n\n![](https://enem.dev/2020-digital/questions/163/6c188175-9f12-447d-9ed8-20d7b163aab7.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/163/e3d2aabd-dcc8-4148-b26d-49be5e3b60c9.png",
+        "https://enem.dev/2020-digital/questions/163/6c188175-9f12-447d-9ed8-20d7b163aab7.png",
+        "https://enem.dev/2020-digital/questions/163/5856beae-9312-4281-a5db-633ee3e3a9ba.png",
+        "https://enem.dev/2020-digital/questions/163/a9549407-cace-47f2-bb15-849d3ab5c101.png",
+        "https://enem.dev/2020-digital/questions/163/65043d7e-6fb0-44f8-a2b2-6c49bca60e69.png",
+        "https://enem.dev/2020-digital/questions/163/5155e3fd-6dd2-4345-9e83-9902db30c2cf.png",
+        "https://enem.dev/2020-digital/questions/163/db1e9d93-b3f8-4a36-9a28-9474d324b501.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/163/5856beae-9312-4281-a5db-633ee3e3a9ba.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/163/a9549407-cace-47f2-bb15-849d3ab5c101.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/163/65043d7e-6fb0-44f8-a2b2-6c49bca60e69.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/163/5155e3fd-6dd2-4345-9e83-9902db30c2cf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/163/db1e9d93-b3f8-4a36-9a28-9474d324b501.png",
+            "isCorrect": false
+        }
+    ]
+}

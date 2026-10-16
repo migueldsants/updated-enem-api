@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2016 - Segunda aplicação",
+    "index": 115,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Brinquedos cantados\nOs brinquedos cantados são atividades diretamente\nrelacionadas com o ato de cantar e ao conjunto dessas\ncanções, a que chamamos de cancioneiro folclórico\ninfantil. É difícil determinar sua origem. Parece que\nessas canções sempre existiram, sempre encantaram o\npovo e embalaram as criancinhas. A maioria parece ter\nchegado com os colonizadores portugueses, sofrendo\ninfluência ameríndia e africana, devido à colonização e\nposteriormente ao tráfico de escravos para o Brasil.\n\nAnalisando as letras de alguns brinquedos cantados,\npodemos observar que elas desenvolvem várias\nhabilidades motoras, como: motricidade ampla, ritmo,\nequilíbrio, direcionalidade, lateralidade, percepção\nespaço-temporal, tônus muscular, entre outras. E no\ncognitivo, as letras e coreografias ajudam a criança a\ndesenvolver a atenção, a imaginação e a criatividade.\n\nZOBOLI, F.; FURTUOSO, M. S.; TELLES, C. O brinquedo cantado na escola:\numa ferramenta no processo de aprendizagem. Disponível em:\nwww.efdeportes.com. Acesso em: 14 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O brinquedo cantado é um importante componente\nda cultura corporal brasileira, sendo vivenciado com\nfrequência por muitas crianças. Identifica-se o seu valor\npara a tradição cultural no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ampliação dada à força motora das crianças devido ao uso da música e das danças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "condição educativa fundamentada no uso de jogos sem regras previamente estabelecidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "histórico indeterminado dessa forma de brincadeira representativa do cancioneiro folclórico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uso de técnicas, facilmente adotadas por qualquer criança, que intensificam a motricidade esportiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "possibilidade de contribuição para o desenvolvimento integral do indivíduo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

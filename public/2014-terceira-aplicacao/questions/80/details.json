@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2014 - Terceira aplicação",
+    "index": 80,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma das possíveis alternativas para a substituição\nda gasolina como combustível de automóveis é a\nutilização do gás hidrogênio, que, ao reagir com o gás\noxigênio, em condições adequadas, libera energia\nnecessária para o funcionamento do motor, conforme a\nequação química a seguir:\n\n2 H₂ g + O₂ g → 2 H₂O g + energia",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esta opção para a substituição da gasolina contribuiria\npara que a condição do meio ambiente seja melhorada,\nvisto que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o calor gerado pela reação intensificará o aquecimento global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumentará a quantidade de gases causadores do aquecimento global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a emissão de gases causadores do aquecimento global permanecerá inalterada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ocorrerá a diminuição da emissão de um dos gases causadores do aquecimento global.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "os gases liberados na reação podem neutralizar aqueles responsáveis pelo aquecimento global.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

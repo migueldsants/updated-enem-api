@@ -1,0 +1,48 @@
+{
+    "title": "Questão 170 - ENEM 2016 - Segunda aplicação",
+    "index": 170,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um trabalho escolar, João foi convidado a calcular as áreas de vários quadrados diferentes, dispostos em\nsequência, da esquerda para a direita, como mostra a figura.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/170/fc2094f9-dcfc-42be-aede-6d18eb776825.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/170/b8440a0d-8235-4347-96a4-44ed39661a44.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/170/b18aed2b-3f5a-4891-8f55-76b25cc3be70.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/170/fc876db2-5e02-466d-8d0a-9597c2df564e.png)\n\n1 2 3 4 5 6",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/170/fc2094f9-dcfc-42be-aede-6d18eb776825.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/170/b8440a0d-8235-4347-96a4-44ed39661a44.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/170/b18aed2b-3f5a-4891-8f55-76b25cc3be70.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/170/fc876db2-5e02-466d-8d0a-9597c2df564e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O primeiro quadrado da sequência tem lado medindo 1 cm, o segundo quadrado tem lado medindo 2 cm, o terceiro\nquadrado tem lado medindo 3 cm e assim por diante. O objetivo do trabalho é identificar em quanto a área de cada\nquadrado da sequência excede a área do quadrado anterior. A área do quadrado que ocupa a posição n, na sequência,\nfoi representada por A_n.\nPara n ≥ 2, o valor da diferença A_n − A_n₋₁, em centímetro quadrado, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2n − 1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2n + 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "−2n + 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(n − 1)²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "n² − 1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

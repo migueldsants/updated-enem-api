@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 162,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma cidade, existem cinco caminhos ligando dois pontos turísticos. Um turista, dispondo de um carro para ir de um desses\npontos turísticos ao outro, buscou informações sobre essas opções de caminhos e obteve as que estão apresentadas no esquema.\n\n![](https://enem.dev/2025-belem/questions/162/071bde6b-a911-4c72-9dfc-bc17a5e06301.png)\n\nO turista escolheu o caminho que lhe permite chegar a seu destino no menor tempo possível, trafegando nas velocidades\nmáximas permitidas em cada trecho.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/162/071bde6b-a911-4c72-9dfc-bc17a5e06301.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O caminho escolhido foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

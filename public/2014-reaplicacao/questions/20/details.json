@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2014 - Reaplicação",
+    "index": 20,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em dezembro de 1945, começou uma greve de dois\nmeses no principal porto da África Ocidental Francesa,\nDacar. As autoridades só conseguiram levar os grevistas\nde volta ao trabalho com grandes aumentos de salário e,\no que é ainda mais importante, pondo em prática todo o\naparato de relações industriais usado na França — em\nresumo, agindo como se os grevistas fossem modernos\noperários industriais.\n\nCOOPER, F.; HOLT, T.; SCOTT, R. Além da escravidão.\nRio de Janeiro: Civilização Brasileira, 2005 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Durante o neocolonialismo, o trabalho forçado — que não\nse confunde com a escravidão — foi uma constante em\ndiversas regiões do continente africano até o século XX.\nDe acordo com o texto, sua superação deriva da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "crítica moral da intelectualidade metropolitana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pressão articulada dos organismos multilaterais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "resistência organizada dos trabalhadores nativos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "concessão pessoal dos empresários imperialistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "baixa lucratividade dos empreendimentos capitalistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

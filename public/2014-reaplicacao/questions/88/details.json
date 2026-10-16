@@ -1,0 +1,45 @@
+{
+    "title": "Questão 88 - ENEM 2014 - Reaplicação",
+    "index": 88,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A escolha de uma determinada substância\npara ser utilizada como combustível passa pela\nanálise da poluição que ela causa ao ambiente\ne pela quantidade de energia liberada em sua\ncombustão completa. O quadro apresenta a entalpia\nde combustão de algumas substâncias. As massas\nmolares dos elementos H, C e O são, respectivamente,\niguais a 1 g/mol, 12 g/mol e 16 g/mol.\n\n![](https://enem.dev/2014-reaplicacao/questions/88/bc23ecd3-262e-4998-9095-89cd72d78bd8.png)\n\nAcetileno C₂H₂ −1 298\n\nEtano C₂H₆ −1 558\n\nEtanol C₂H₅OH −1 366\n\nHidrogênio H₂ −242\n\nMetanol CH₃OH −558",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/88/bc23ecd3-262e-4998-9095-89cd72d78bd8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Levando-se em conta somente o aspecto energético, a\nsubstância mais eficiente para a obtenção de energia, na\ncombustão de 1 kg de combustível, é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "etano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "etanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "metanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acetileno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hidrogênio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 133 - ENEM 2015 - Reaplicação",
+    "index": 133,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/133/28aafeda-572c-44ae-9263-a589a0349d79.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/133/89ce861f-1b45-4e61-9607-4dd7bfc1ac4c.png)\n\nVEIGA, D. Disponível em: http://dirceuveiga.com.br. Acesso em: 3 maio 2012.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/133/28aafeda-572c-44ae-9263-a589a0349d79.png",
+        "https://enem.dev/2015-reaplicacao/questions/133/89ce861f-1b45-4e61-9607-4dd7bfc1ac4c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que a internet influencia os modos de\ncomunicação contemporânea, a charge faz uma crítica\nao uso vicioso dessa tecnologia, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "gera diminuição no tempo de descanso, substituído pelo contato com outras pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "propicia a continuação das atividades de trabalho, ainda que em ambiente doméstico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "promove o distanciamento nos relacionamentos, mesmo entre pessoas próximas fisicamente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "tem impacto negativo no tempo disponível para o lazer do casal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "implica a adoção de atitudes agressivas entre os membros de uma mesma família.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

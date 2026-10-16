@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2021 - Digital",
+    "index": 9,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A volta do marido pródigo\n\n— Bom dia, seu Marrinha! Como passou de ontem?\n— Bem. Já sabe, não é? Só ganha meio dia. [...]\nLá além, Generoso cotuca Tercino:\n— [...] Vai em festa, dorme que-horas, e, quando chega, ainda é todo enfeitado e\nsalamistrão!...\n\n— Que é que hei de fazer, seu Marrinha... Amanheci com uma nevralgia... Fiquei\ncom cisma de apanhar friagem...\n\n— Hum...\n— Mas o senhor vai ver como eu toco o meu serviço e ainda faço este povo\ntrabalhar...\n\n[...]\nPintão suou para desprender um pedrouço, e teve de pular para trás, para que a laje\nlhe não esmagasse um pé. Pragueja:\n\n— Quem não tem brio engorda!\n— É... Esse sujeito só é isso, e mais isso... — opina Sidu.\n— Também, tudo p’ra ele sai bom, e no fim dá certo... — diz Correia, suspirando e\nretomando o enxadão. — “P’ra uns, as vacas morrem ... p’ra outros até boi pega a\nparir...”.\n\nSeu Marra já concordou:\n— Está bem, seu Laio, por hoje, como foi por doença, eu aponto o dia todo. Que é a\núltima vez!... E agora, deixa de conversa fiada e vai pegando a ferramenta!\n\nROSA, J. G. Sagarana. Rio de Janeiro: José Olympio, 1967.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse texto tem importância singular como patrimônio linguístico para a preservação da\ncultura nacional devido",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à menção a enfermidades que indicam falta de cuidado pessoal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à referência a profissões já extintas que caracterizam a vida no campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aos nomes de personagens que acentuam aspectos de sua personalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ao emprego de ditados populares que resgatam memórias e saberes coletivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "às descrições de costumes regionais que desmistificam crenças e superstições.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

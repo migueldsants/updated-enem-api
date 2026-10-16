@@ -1,0 +1,46 @@
+{
+    "title": "Questão 177 - ENEM 2016 - Segunda aplicação",
+    "index": 177,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa registrou seu desempenho em\ndeterminado ano por meio do gráfico, com dados mensais\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/177/ff5c2fab-f467-4197-907e-5a93a3fe23bc.png)\n\nJanFevMarAbrMaiJunJulAgoSetOutNovDez\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/177/45d571ce-77b9-410d-a5e6-82eae455c5f1.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/177/ff5c2fab-f467-4197-907e-5a93a3fe23bc.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/177/45d571ce-77b9-410d-a5e6-82eae455c5f1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O lucro mensal é obtido pela subtração entre o total\nde vendas e despesas, nesta ordem.\nQuais os três meses do ano em que foram registrados os\nmaiores lucros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Julho, setembro e dezembro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Julho, setembro e novembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Abril, setembro e novembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Janeiro, setembro e dezembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Janeiro, abril e junho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

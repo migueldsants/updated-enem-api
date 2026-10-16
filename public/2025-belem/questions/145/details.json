@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 145,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A imagem apresenta uma tirinha com os personagens Caco e Tuca. Na\num mapa para procurar um tesouro.\n\nCansado de escavar à procura do tesouro, Tuca percebeu que, mesmo que o mapa levasse a algum tesouro, eles encontrariam\nproblemas nessa busca, pois a unidade de medida indicada no mapa é o passo, uma unidade não convencional, logo, não presente\nno Sistema Internacional de Unidades (SI), que é um conjunto padronizado de definições para unidades de medida utilizado em\nquase todo o mundo.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com relação à grandeza expressa em passo na tirinha, no SI, sua",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "metro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "grama.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "segundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "metro cúbico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "metro por segundo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

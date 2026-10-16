@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2015 - Reaplicação",
+    "index": 30,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Após ter examinado cuidadosamente todas as\ncoisas, cumpre enfim concluir e ter por constante que\nesta proposição, eu sou, eu existo, é necessariamente\nverdadeira todas as vezes que a enuncio ou que a\nconcebo em meu espírito.\n\nDESCARTES, R. Meditações. Pensadores. São Paulo: Abril Cultural, 1979.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A proposição “eu sou, eu existo” corresponde a um dos\nmomentos mais importantes na ruptura da filosofia do\nséculo XVII com os padrões da reflexão medieval, por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estabelecer o ceticismo como opção legítima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "utilizar silogismos linguísticos como prova ontológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inaugurar a posição teórica conhecida como empirismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estabelecer um princípio indubitável para o conhecimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "questionar a relação entre a filosofia e o tema da existência de Deus.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 139 - ENEM 2014 - Terceira aplicação",
+    "index": 139,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A direção de uma escola comprará lapiseiras para\ndistribuir para os seus alunos. Sabe-se que x lapiseiras\ncustam y reais.\n\nO número máximo de lapiseiras que a direção da escola\nconseguirá comprar com z reais é o maior inteiro menor\ndo que, ou igual a",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/139/658b1554-8df8-4ea6-8e0a-33220e4566cf.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/139/a490f9e5-88c5-4f0d-8b14-5a1ffd9c3584.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/139/9c55877e-a11b-47bd-82f4-69b5c4148fc2.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/139/8000e6e2-2cab-4c4d-bce1-5fcf57d033ba.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/139/91ffd5a1-061b-493a-a82a-8c71ef4e10ba.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "x • z",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/139/658b1554-8df8-4ea6-8e0a-33220e4566cf.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/139/a490f9e5-88c5-4f0d-8b14-5a1ffd9c3584.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/139/9c55877e-a11b-47bd-82f4-69b5c4148fc2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/139/8000e6e2-2cab-4c4d-bce1-5fcf57d033ba.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/139/91ffd5a1-061b-493a-a82a-8c71ef4e10ba.png",
+            "isCorrect": false
+        }
+    ]
+}

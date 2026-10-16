@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2016 - Segunda aplicação",
+    "index": 61,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Até 1824 acreditava-se que as máquinas térmicas,\ncujos exemplos são as máquinas a vapor e os atuais\nmotores a combustão, poderiam ter um funcionamento\nideal. Sadi Carnot demonstrou a impossibilidade de\numa máquina térmica, funcionando em ciclos entre\nduas fontes térmicas (uma quente e outra fria), obter\n100% de rendimento.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Tal limitação ocorre porque essas máquinas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "realizam trabalho mecânico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produzem aumento da entropia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "utilizam transformações adiabáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "contrariam a lei da conservação de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "funcionam com temperatura igual à da fonte quente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

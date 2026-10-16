@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2022 - Digital",
+    "index": 75,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O povo Kambeba é o povo das águas. Os mais velhos costumam contar que o povo\nnasceu de uma gota-d’água que caiu do céu em uma grande chuva. Nessa gota estavam\nduas gotículas: o homem e a mulher. “Por essa narrativa e cosmologia indígena de que\nnós somos o povo das águas é que o rio nos tem fundamental importância”, diz Márcia\nWayna Kambeba, mestre em Geografia e escritora. Todos os dias, ela ia com o pai\nobservar o rio. Ia em silêncio e, antes que tomasse para si a palavra, era interrompida.\n“Ouça o rio”, o pai dizia. Depois de cerca de duas horas a ouvir as águas do Solimões, ela\nmergulhava. “Confie no rio e aprenda com ele”. “Fui entender mais tarde, com meus\nestudos e vivências, que meu pai estava me apresentando à sabedoria milenar do rio”.\n\nRios amazônicos influenciam no agro e em reservatórios do Sudeste.\nDisponível em: www.uol.com.br. Acesso em: 14 out. 2021.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Pelo descrito no texto, o povo Kambeba tem o rio como um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "objeto tombado e museográfico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "herança religiosa e sacralizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cenário bucólico e paisagístico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "riqueza individual e efêmera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "patrimônio cultural e afetivo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2020 - Digital",
+    "index": 138,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O isopor é um material composto por um polímero chamado poliestireno. Todos os\nprodutos de isopor são 100% recicláveis, assim como os plásticos em sua totalidade. O gráfico\nmostra a quantidade de isopor, em tonelada, que foi reciclada no Brasil nos anos de 2007,\n2008 e 2009. Considere que o aumento da quantidade de isopor reciclado ocorrida de 2008\npara 2009 repita-se ano a ano de 2009 até 2013 e, a partir daí, a quantidade total reciclada\nanualmente permaneça inalterada por um período de 10 anos.\n\n![](https://enem.dev/2020-digital/questions/138/5a34d33c-894f-4e62-93e0-f4101bbb9e16.png)\n\nDisponível em: www.plastivida.org.br. Acesso em: 31 jul. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/138/5a34d33c-894f-4e62-93e0-f4101bbb9e16.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a quantidade prevista para reciclagem de isopor, em tonelada, para o ano de 2020?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "21 840",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "21 600",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13 440",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "13 200",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "9 800",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2014 - Reaplicação",
+    "index": 101,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Saiba impedir que os cavalos de troia abram a\nguarda de seu computador\n\nA lenda da Guerra de Troia conta que gregos\nconseguiram entrar na cidade camuflados em um cavalo\n\n![](https://enem.dev/2014-reaplicacao/questions/101/5f17fefe-9620-4771-8a7a-c37740c04667.png)\n\ne, então, abriram as portas da cidade para mais guerreiros\nentrarem e vencerem a batalha. Silencioso, o cavalo de\ntroia é um programa malicioso que abre as portas do\ncomputador a um invasor, que pode utilizar como quiser o\nprivilégio de estar dentro de uma máquina. Esse malware\né instalado em um computador de forma camuflada,\nsempre com o “consentimento” do usuário. A explicação\né que essa praga está dentro de um arquivo que parece\nser útil, como um programa ou proteção de tela — que,\nao ser executado, abre caminho para o cavalo de troia.\nA intenção da maioria dos cavalos de troia (trojans) não é\ncontaminar arquivos ou hardwares. Atualmente, o objetivo\nprincipal dos cavalos de troia é roubar informações de\numa máquina. O programa destrói ou altera dados com\nintenção maliciosa, causando problemas ao computador\nou utilizando-o para fins criminosos, como enviar spams.\nA primeira regra para evitar a entrada dos cavalos de troia\né: não abra arquivos de procedência duvidosa.\n\nDisponível em: http://idgnow.uol.com.br. Acesso em: 14 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/101/5f17fefe-9620-4771-8a7a-c37740c04667.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Cavalo de troia é considerado um malware que\ninvade computadores, com intenção maliciosa. Pelas\ninformações apresentadas no texto, depreende-se que a\nfinalidade desse programa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "roubar informações ou alterar dados de arquivos de procedência duvidosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inserir senhas para enviar spams, através de um rastreamento no computador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "rastrear e investigar dados do computador sem o conhecimento do usuário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "induzir o usuário a fazer uso criminoso e malicioso de seu computador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "usurpar dados do computador, mediante sua execução pelo usuário.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

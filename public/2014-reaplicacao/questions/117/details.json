@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2014 - Reaplicação",
+    "index": 117,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Entrevista — Tony Bellotto\n\nA língua é rock\nGuitarrista do Titãs e escritor completa dez anos à\nfrente de programa televisivo em que discute a língua\nportuguesa por meio da música\n\nO que o atraiu na proposta de Afinando a Língua?\nNo começo, em 1999, a ideia era fazer um programa\nque falasse de língua portuguesa usando a música como\natrativo, principalmente, para os jovens. Com o passar\ndo tempo, ele foi se transformando num programa sobre\na linguagem usada em letras de música, no jornalismo,\nna literatura de ficção e na poesia. Como não sou um\ncara de TV, trago a experiência de escritor e músico, e\nsempre participo de forma mais ativa do que como um\nmero apresentador. Estou nas reuniões de pauta e faço\nsugestões nos roteiros. Mas o conteúdo é feito pelo\npessoal do Futura.\n\n![](https://enem.dev/2014-reaplicacao/questions/117/79a7f6dd-2211-4620-aeb9-895bb8e3ba8e.png)\n\nQuais as vantagens e desvantagens do ensino da\nlíngua por meio das letras de música?\nNão sou pedagogo ou educador, então só vejo\nvantagens, porque as letras de música usam uma\nlinguagem que é a do dia a dia, principalmente, dos jovens.\nA música é algo que lhes dá prazer e, didaticamente,\npode fazer as vezes de algo que o aluno tem a noção de\nser entediante — estudo da língua, sentar e abrir um livro.\nAo ouvir uma música, os exemplos surgem. É a grande\nvantagem e sempre foi a ideia do programa.\n\nDisponível em: http://revistalingua.uol.com.br. Acesso em: 8 ago. 2012 (fragmento).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/117/79a7f6dd-2211-4620-aeb9-895bb8e3ba8e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os gêneros textuais são definidos por meio de sua\nestrutura, função e contexto de uso.Tomando por base a\nestrutura dessa entrevista, observa-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a organização em turnos de fala reproduz o diálogo que ocorre entre os interlocutores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o tema e o suporte onde foi publicada justificam a ausência de traços da linguagem informal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a ausência de referências sobre o entrevistado é uma estratégia para induzir à leitura do texto na íntegra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o uso do destaque gráfico é um recurso de edição para ressaltar a importância do tema para o entrevistador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o entrevistado é um especialista em abordagens educacionais alternativas para o ensino da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

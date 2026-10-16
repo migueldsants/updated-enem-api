@@ -1,0 +1,46 @@
+{
+    "title": "Questão 80 - ENEM 2015 - Reaplicação",
+    "index": 80,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O álcool utilizado como combustível automotivo (etanol hidratado) deve apresentar uma taxa máxima de água em\nsua composição para não prejudicar o funcionamento do motor. Uma maneira simples e rápida de estimar a quantidade\nde etanol em misturas com água é medir a densidade da mistura. O gráfico mostra a variação da densidade da mistura\n(água e etanol) com a fração percentual da massa de etanol (f_e), dada pela expressão\n\n![](https://enem.dev/2015-reaplicacao/questions/80/95f89c13-50ed-4227-8c10-9de4c5a61d87.png)\n\nem que m_e e m_a são as massas de etanol e de água na mistura, respectivamente, a uma temperatura de 20 °C.\n\n0,98\n0,96\n0,94\n\n0,92\n0,9\n0,88\n\n![](https://enem.dev/2015-reaplicacao/questions/80/14cfa74c-7c80-4693-a259-eec25e600708.png)\n\n(g/cm³)\n\n0,86\n\nρ\n\n0,84\n\n0,82\n\n0,8\n\n0,78\n0,76\n\n0 10 20 30 40 50 60 70 80 90 100\n\nf_e\n\nDisponível em: www.handymath.com. Acesso em: 8 ago. 2012.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/80/95f89c13-50ed-4227-8c10-9de4c5a61d87.png",
+        "https://enem.dev/2015-reaplicacao/questions/80/14cfa74c-7c80-4693-a259-eec25e600708.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Suponha que, em uma inspeção de rotina realizada em determinado posto, tenha-se verificado que 50,0 cm³ de álcool\ncombustível tenham massa igual a 45,0 g. Qual é a fração percentual de etanol nessa mistura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "55%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "90%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "93%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

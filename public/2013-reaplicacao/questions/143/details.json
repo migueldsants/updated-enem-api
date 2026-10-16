@@ -1,0 +1,46 @@
+{
+    "title": "Questão 143 - ENEM 2013 - Reaplicação",
+    "index": 143,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra estimativas da produção brasileira\nde trigo em safras recentes:\n\nProdução de trigo no Brasil\n\n![](https://enem.dev/2013-reaplicacao/questions/143/b0de95d6-f9d1-40e2-ba9c-d56c6b2b6dfb.png)\n\n2005/06 2006/07 2007/08 2008/09 2009/10\n\nGlobo Rural, São Paulo, jun. 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/143/b0de95d6-f9d1-40e2-ba9c-d56c6b2b6dfb.png",
+        "https://enem.dev/2013-reaplicacao/questions/143/4968d98b-62af-4194-bb07-98698813a57b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A média da produção brasileira de trigo de 2005/06 a\n2009/10, em milhões de toneladas, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,87.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,70.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,56.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4,49.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/143/4968d98b-62af-4194-bb07-98698813a57b.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2014 - Reaplicação",
+    "index": 36,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-reaplicacao/questions/36/88d8176c-9b2f-4c9a-a14b-194c6349c03a.png)\n\nA Estátua do Laçador, tombada como patrimônio\nem 2001, é um monumento de Porto Alegre/RS, que\nrepresenta o gaúcho em trajes típicos .\n\nDisponível em: www.portoalegre.tur.br. Acesso em: 3 ago. 2012 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/36/88d8176c-9b2f-4c9a-a14b-194c6349c03a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O monumento identifica um a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exemplo de bem imaterial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "forma de exposição da individualidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "modo de enaltecer os ideais de liberdadade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "manifestação histórico-cultural de uma população.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "maneira de propor mudanças nos costumes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

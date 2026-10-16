@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2016 - Segunda aplicação",
+    "index": 159,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta a ordem de colocação dos seis\nprimeiros países em um dia de disputa nas Olimpíadas.\nA ordenação é feita de acordo com as quantidades de\nmedalhas de ouro, prata e bronze, respectivamente.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/159/33606e06-6ddc-4c7f-84fa-fe47aa477cf6.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/159/33606e06-6ddc-4c7f-84fa-fe47aa477cf6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se as medalhas obtidas por Brasil e Argentina fossem\nreunidas para formar um único país hipotético, qual a\nposição ocupada por esse país?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1ª",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2ª",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3ª",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4ª",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5ª",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

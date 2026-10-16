@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2016 - Reaplicação",
+    "index": 174,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Computadores utilizam, por padrão, dados em\nformato binário, em que cada dígito, denominado de bit,\npode assumir dois valores (0 ou 1). Para representação\nde caracteres e outras informações, é necessário fazer\nuso de uma sequência de bits, o byte. No passado, um\nbyte era composto de 6 bits em alguns computadores,\nmas atualmente tem-se a padronização que o byte é um\nocteto, ou seja, uma sequência de 8 bits. Esse padrão\npermite representar apenas 2⁸ informações distintas.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se um novo padrão for proposto, de modo que um byte\nseja capaz de representar pelo menos 2 560 informações\ndistintas, o número de bits em um byte deve passar de\n8 para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "13.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 53,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Não ignoro que muitos foram e são de opinião de que as\ncoisas do mundo são governadas de tal modo pela fortuna e por\nDeus e que os homens não podem corrigi-las com a prudência,\ne até não têm remédio algum contra eles. Por isso, poder-se-ia\njulgar que não devemos incomodar-nos demais com as coisas,\nmas deixar-nos governar à sorte.\n\nMAQUIAVEL, N. O Príncipe. São Paulo: Martins Fontes, 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Diante dessas reflexões de Maquiavel, qual é a função do\nlivre-arbítrio nos domínios da política?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aplacar a aspiração de poder dos súditos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Orientar o soberano no campo das incertezas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Estabilizar a administração por meio do diálogo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relativizar os valores morais no escopo das tradições.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aprimorar o espírito bélico para a conquista de territórios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2015 - Reaplicação",
+    "index": 3,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A população negra teve que enfrentar sozinha o\ndesafio da ascensão social, e frequentemente procurou\nfazê-lo por rotas originais, como o esporte, a música e a\ndança. Esporte, sobretudo o futebol, música, sobretudo o\nsamba, e dança, sobretudo o carnaval, foram os principais\ncanais de ascensão social dos negros até recentemente.\nA libertação dos escravos não trouxe consigo a igualdade\nefetiva. Essa igualdade era afirmada nas leis, mas negada\nna prática. Ainda hoje, apesar das leis, aos privilégios e\narrogâncias de poucos correspondem o desfavorecimento\ne a humilhação de muitos.\n\nCARVALHO, J. M. Cidadania no Brasil: o longo caminho. Rio de Janeiro:\nCivilização Brasileira, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em relação ao argumento de que no Brasil existe uma\ndemocracia racial, o autor demonstra que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "essa ideologia equipara a nação a outros países modernos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "esse modelo de democracia foi possibilitado pela miscigenação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "essa peculiaridade nacional garantiu mobilidade social aos negros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "esse mito camuflou formas de exclusão em relação aos afrodescendentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "essa dinâmica política depende da participação ativa de todas as etnias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

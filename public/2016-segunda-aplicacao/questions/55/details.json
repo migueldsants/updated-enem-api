@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2016 - Segunda aplicação",
+    "index": 55,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A obtenção do alumínio dá-se a partir da\n\n.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "bauxita (Al₂O₃ 3H₂O), que é purificada e eletrolisada\nnuma temperatura de 1 000 °C. Na célula eletrolítica, o\nânodo é formado por barras de grafita ou carvão, que são\nconsumidas no processo de eletrólise, com formação de\ngás carbônico, e o cátodo é uma caixa de aço coberta\nde grafita.\nA etapa de obtenção do alumínio ocorre no",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ânodo, com formação de gás carbônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cátodo, com redução do carvão na caixa de aço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cátodo, com oxidação do alumínio na caixa de aço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ânodo, com depósito de alumínio nas barras de grafita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cátodo, com fluxo de elétrons das barras de grafita para a caixa de aço.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

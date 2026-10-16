@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2016 - Reaplicação",
+    "index": 22,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ô ô, com tanto pau no mato\nEmbaúba* é coroné\nCom tanto pau no mato, ê ê\nCom tanto pau no mato\nEmbaúba é coroné\n\n* Embaúba: árvore comum e inútil por ser podre por\ndentro, segundo o historiador Stanley Stein.\n\nSTEIN, S. J. Vassouras: um município brasileiro do café, 1850-1900.\nRio de Janeiro: Nova Fronteira, 1990 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os versos fazem parte de um jongo, gênero poético-\nmusical cantado por escravos e seus descendentes no\nBrasil no século XIX, e procuram expressar a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exploração rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "bravura senhorial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "resistência cultural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "violência escravista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ideologia paternalista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

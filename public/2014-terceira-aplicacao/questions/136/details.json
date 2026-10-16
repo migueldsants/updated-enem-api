@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2014 - Terceira aplicação",
+    "index": 136,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao elaborar um programa de condicionamento\npara um atleta, um preparador físico estipula que ele\ndeve correr 1 000 metros no primeiro dia e, nos dias\nseguintes, 200 metros a mais do que correu no dia\nanterior. O treinador deseja que, ao final dos dias de\ntreinamento, o atleta tenha percorrido, em média,\n1 700 m por dia.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse atleta deve participar desse programa por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8 dias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 dias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

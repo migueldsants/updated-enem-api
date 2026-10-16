@@ -1,0 +1,49 @@
+{
+    "title": "Questão 167 - ENEM 2016 - Segunda aplicação",
+    "index": 167,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Pretende-se construir um mosaico com o formato de um triângulo retângulo, dispondo-se de três peças, sendo\nduas delas triângulos retângulos congruentes e a terceira um triângulo isósceles. A figura apresenta cinco mosaicos\nformados por três peças.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/167/267ce9bb-3624-4366-bf85-bca0917ac14f.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/167/b0add40d-c95c-40b9-88fb-3221e92b734d.png)\n\n90° 30° 90° 44°\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/167/3e8a2687-45b2-47c5-ba39-c1a13bca9084.png)\n\n30° 90° 60° 90° 90° 60° 30° 22° 90°\n\nMosaico 1 Mosaico 2 Mosaico 3\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/167/a04ba0c0-8dc2-478d-a55c-64f905056833.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/167/dc5142d4-06c2-462f-b541-63a0d6e59993.png)\n\n90º 120°\n90° 30°\n65º 60º\n80° 50° 65° 25° 30°\nMosaico 4 Mosaico 5",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/167/267ce9bb-3624-4366-bf85-bca0917ac14f.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/167/b0add40d-c95c-40b9-88fb-3221e92b734d.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/167/3e8a2687-45b2-47c5-ba39-c1a13bca9084.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/167/a04ba0c0-8dc2-478d-a55c-64f905056833.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/167/dc5142d4-06c2-462f-b541-63a0d6e59993.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na figura, o mosaico que tem as características daquele que se pretende construir é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

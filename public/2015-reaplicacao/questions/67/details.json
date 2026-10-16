@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2015 - Reaplicação",
+    "index": 67,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Num sistema de freio convencional, as rodas do\ncarro travam e os pneus derrapam no solo, caso a força\nexercida sobre o pedal seja muito intensa. O sistema\nABS evita o travamento das rodas, mantendo a força de\natrito no seu valor estático máximo, sem derrapagem.\nO coeficiente de atrito estático da borracha em contato\ncom o concreto vale μ_e = 1,0 e o coeficiente de atrito\ncinético para o mesmo par de materiais é μ_c = 0,75. Dois\ncarros, com velocidades iniciais iguais a 108 km/h, iniciam\na frenagem numa estrada perfeitamente horizontal de\nconcreto no mesmo ponto. O carro 1 tem sistema ABS e\nutiliza a força de atrito estática máxima para a frenagem;\njá o carro 2 trava as rodas, de maneira que a força de\natrito efetiva é a cinética. Considere g = 10 m/s².\nAs distâncias, medidas a partir do ponto em que iniciam\na frenagem, que os carros 1 (d₁) e 2 (d₂) percorrem até\nparar são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "d₁ = 45 m e d₂ = 60 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "d₁ = 60 m e d₂ = 45 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "d₁ = 90 m e d₂ = 120 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "d₁ = 5,8×10² m e d₂ = 7,8×10² m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "d₁ = 7,8×10² m e d₂ = 5,8×10² m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

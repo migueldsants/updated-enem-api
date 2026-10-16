@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 95,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A industrialização, o crescimento populacional e a demanda por mais alimentos, bem como o aumento da frota veicular,\nentre outros, geram resíduos poluentes classificados como primários ou secundários. Os primários são aqueles lançados\ndiretamente no ar, e muitos deles reagem com alguns componentes existentes na atmosfera (oxigênio, vapor de água, entre\noutros) originando os poluentes secundários.\n\nDisponível em: https://essentiaeditora.iff.edu.br. Acesso em: 9 dez. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual poluente primário, em contato com o ar, origina um poluente secundário altamente corrosivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Clorofluorcarbono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dióxido de enxofre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Dióxido de carbono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Monóxido de carbono.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

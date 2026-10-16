@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2012 - Reaplicação",
+    "index": 133,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Não há crenças que Nelson Leirner não destrua.\nDo dinheiro à religião, do esporte à fé na arte, nada\nresiste ao deboche desse iconoclasta. O principal\nmérito da retrospectiva aberta em setembro na Galeria do\nSESI-SP é justamente demonstrar que as provocações\narquitetadas durante as últimas cinco décadas pelo\nartista quase octogenário continuam vigorosas.\n\nBravo, n. 170, out. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um dos elementos importantes na constituição do texto\né o desenvolvimento do tema por meio, por exemplo,\ndo encadeamento de palavras em seu interior. A clareza\ndo tema garante ao autor que seus objetivos — narrar,\ndescrever, informar, argumentar, opinar — sejam\natingidos. No parágrafo do artigo informativo, os termos\nem negrito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evitam a repetição de termos por meio do emprego de sinônimos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fazem referências a outros artistas que trabalham com Nelson Leirner.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estabelecem relação entre traços da personalidade do artista e suas obras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "garantem a progressão temática do texto pelo uso de formas nominais diferentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "introduzem elementos novos, que marcam mudança na direção argumentativa do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

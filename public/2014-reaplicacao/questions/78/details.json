@@ -1,0 +1,46 @@
+{
+    "title": "Questão 78 - ENEM 2014 - Reaplicação",
+    "index": 78,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A tabela lista os valores de pH de algumas bebidas\nconsumidas pela população.\n\n![](https://enem.dev/2014-reaplicacao/questions/78/6860f91a-df73-4894-ad9f-a6cc9fa51108.png)\n\nCafé 3,0\nVinho 4,5\nSuco de limão 2,5\nChá 6,0\n\nO esmalte dos dentes é constituído de hidroxiapatita\n(Ca₅(PO₄)₃OH , um mineral que sofre desmineralização\nem meio ácido, de acordo com a equação química:\n\n![](https://enem.dev/2014-reaplicacao/questions/78/43636c08-3026-47a4-aa05-d033328dcec4.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/78/6860f91a-df73-4894-ad9f-a6cc9fa51108.png",
+        "https://enem.dev/2014-reaplicacao/questions/78/43636c08-3026-47a4-aa05-d033328dcec4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Das bebidas listadas na tabela, aquela com menor\npotencial de desmineralização dos dentes é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "chá.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "café.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vinho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "refrigerante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "suco de limão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

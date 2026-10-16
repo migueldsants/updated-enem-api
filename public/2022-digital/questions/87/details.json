@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2022 - Digital",
+    "index": 87,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Macrocefalia urbana pode ser entendida como a massiva concentração das\natividades econômicas em algumas metrópoles que propicia o desencadeamento de\nprocessos descompassados: redirecionamento e convergência de fluxos migratórios,\ndéficit no número de empregos, ocupação desordenada de determinadas regiões da\ncidade e estigmatização de estratos sociais, que comprometem substancialmente a\nsegurança pública urbana.\n\nSANTOS, M. O espaço dividido: os dois circuitos da economia urbana dos países subdesenvolvidos.\nSão Paulo: Edusp, 2004.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O processo de concentração espacial apresentado foi estimulado por qual fator\ngeográfico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Limitação da área ocupada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Êxodo da população do campo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ampliação do risco habitacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Deficiência do transporte alternativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Crescimento da taxa de fecundidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2014 - Terceira aplicação",
+    "index": 10,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Outro remédio eficiente é organizar colônias, em alguns\nlugares, as quais virão a ser como grilhões impostos à\nprovíncia, porque isto é necessário que se faça ou deve-se\nlá ter muita força de armas. Não é muito que se gasta com as\ncolônias, e, sem despesa excessiva, podem ser organizadas\ne mantidas. Os únicos que terão prejuízos com elas serão os\nde quem se tomam os campos e as moradias para se darem\naos novos habitantes. Entretanto, os prejudicados serão a\nminoria da população do Estado, e dispersos e reduzidos\nà penúria, nenhum dano trarão ao príncipe, e os que não\nforam prejudicados terão, por isso, que se aquietarem,\ntemerosos de que o mesmo lhes suceda.\n\nMAQUIAVEL, N. O príncipe. São Paulo: Martins Fontes, 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em O príncipe, Maquiavel apresenta conselhos para a\nmanutenção do poder político, como o deste trecho, que\ntem como objeto a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "transferência dos inimigos da metrópole para a colônia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "substituição de leis, costumes e impostos da região dominada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "implantação de um exército armado, constituído pela população subjugada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expansão do principado, com migração populacional para o território conquistado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "distribuição de terras para a parcela do povo dominado, que possui maior poder político.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2016 - Segunda aplicação",
+    "index": 35,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A presença de uma corrente migratória por si só não\nexplica a condição de vida dos imigrantes. Esta será\nsomente a aparência de um fenômeno mais profundo,\nestruturado em relações socioeconômicas muitas vezes\nperversas. É o que podemos dizer dos indivíduos que são\ndeslocados do campo para as cidades e obrigados a viver\nem condições de vida culturalmente diferentes das que\nvivenciaram em seu lugar de origem.\n\nSCARLATO, F. C. População e urbanização brasileira. In: ROSS, J. L. S.\nGeografia do Brasil. São Paulo: Edusp, 2009.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto faz referência a um movimento migratório que\nreflete o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "processo de deslocamento de trabalhadores motivados pelo aumento da oferta de empregos no campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dinâmica experimentada por grande quantidade de pessoas, que resultou no inchaço das grandes cidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "permuta de locais específicos, obedecendo a fatores cíclicos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "circulação de pessoas diariamente em função do emprego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cultura de localização itinerante no espaço.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2020 - Digital",
+    "index": 57,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Princípios práticos são subjetivos, ou máximas, quando a condição é considerada pelo\nsujeito como verdadeira só para a sua vontade; são, por outro lado, objetivos, quando a\ncondição é válida para a vontade de todo ser natural.\n\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, 2008.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A concepção ética presente no texto defende a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "universalidade do dever.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "maximização da utilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aprovação pelo sentimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "identificação da justa medida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "obediência à determinação divina.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

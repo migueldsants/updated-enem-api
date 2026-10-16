@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2021 - Digital",
+    "index": 28,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Thumbs Up\n\nPonto positivo para o Facebook, que vai dar uma ajeitada na casa para, quem sabe,\nnão ser mais conhecido como o espaço da treta. Durante a F8, sua conferência anual, a\nempresa anunciou a maior mudança de design do serviço em 5 anos. Agora, o polêmico\nfeed de notícias deixa de ser o protagonista, e o queridinho da rede social se torna o\nsegmento de Grupos (é o Orkut fazendo escola?). Segundo Mark Zuckerberg, mais de 1\nbilhão de usuários mensais entram nessa aba do aplicativo, e 400 mil deles já estão\nintegrados em grupos de “assuntos significativos”. O objetivo agora é aumentar o tráfego,\noferecendo mais sugestões e ferramentas especiais para quem gerencia essas\ncomunidades. Além disso, o Marketplace, que já tem mais de 800 milhões de usuários,\nvai ganhar mais atenção e integração. Com isso, parece que há um novo padrão se\nmontando na rede social: sai o feed, entra a segmentação, que pode ser uma boa porta\npara monetização nos próximos anos. No mesmo evento, Zuckerberg também disse que\no futuro do Facebook é a privacidade, mas não deu muitos detalhes de como vai proteger\nseus clientes daqui para frente. Evitar que vazamentos de dados dos usuários aconteçam\né um bom começo.\n\n#FicaaDica\n\nDisponível em: https://thebrief.us16.list-manage.com. Acesso em: 3 maio 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto relata que uma rede social virtual realizará sua maior mudança de design dos\núltimos anos. Esse fato revela que as tecnologias de informação e comunicação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "buscam oferecer mais privacidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "assimilam os comportamentos dos usuários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "promovem maior interação em ambientes virtuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oferecem mais facilidades para obter cada vez mais lucro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evoluem para ficar mais parecidas umas com as outras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

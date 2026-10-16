@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2015 - Reaplicação",
+    "index": 65,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em altos-fornos siderúrgicos, as temperaturas acima\nde 600 °C são mensuradas por meio de pirômetros óticos.\nEsses dispositivos apresentam a vantagem de medir a\ntemperatura de um objeto aquecido sem necessidade\nde contato. Dentro de um pirômetro ótico, um filamento\nmetálico é aquecido pela passagem de corrente elétrica\naté que sua cor seja a mesma que a do objeto aquecido\nem observação. Nessa condição, a temperatura\nconhecida do filamento é idêntica à do objeto aquecido\nem observação.\n\nDisponível em: www.if.usp.br. Acesso em: 4 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A propriedade da radiação eletromagnética avaliada\nnesse processo é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "amplitude.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "coerência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "frequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "intensidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "velocidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

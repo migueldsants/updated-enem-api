@@ -1,0 +1,47 @@
+{
+    "title": "Questão 90 - ENEM 2016 - Segunda aplicação",
+    "index": 90,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura mostra uma balança de braços iguais, em\nequilíbrio, na Terra, onde foi colocada uma massa m,\ne a indicação de uma balança de força na Lua, onde a\naceleração da gravidade é igual a 1,6 m/s², sobre a qual\nfoi colocada uma massa M.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/90/c70566fc-367b-4c93-a0f7-2ff8911a8c6a.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/90/94e15a17-d8b5-46bd-a918-cc76693859df.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/90/efad3d47-7318-4c9f-be82-528938120f91.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/90/c70566fc-367b-4c93-a0f7-2ff8911a8c6a.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/90/94e15a17-d8b5-46bd-a918-cc76693859df.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/90/efad3d47-7318-4c9f-be82-528938120f91.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

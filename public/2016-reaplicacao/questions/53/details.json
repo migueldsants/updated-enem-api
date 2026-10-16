@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2016 - Reaplicação",
+    "index": 53,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um bafômetro simples consiste em um tubo contendo uma mistura sólida de dicromato de potássio em sílica\numedecida com ácido sulfúrico. Nesse teste, a detecção da embriaguez por consumo de álcool se dá visualmente,\npois a reação que ocorre é a oxidação do álcool a aldeído e a redução do dicromato (alaranjado) a cromo(III) (verde)\nou cromo(II) (azul).\n\nSopro\n\n![](https://enem.dev/2016-reaplicacao/questions/53/f560dd78-ad1a-4280-8386-80f871c28093.png)\n\nSolução ácida de\ndicromato de potássio",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/53/f560dd78-ad1a-4280-8386-80f871c28093.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A equação balanceada da reação química que representa esse teste é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cr₂O₇²⁻ (aq) + 2 H⁺ (aq) + 3 CH₃–CH₂–OH (g) → 2 Cr²⁺ (aq) + 4 H₂O (l) + 3 CH₃–COOH (g)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cr₂O₇²⁻ (aq) + 8 H⁺ (aq) + 3 CH₃–CH₂–OH (g) → 2 Cr³⁺ (aq) + 7 H₂O (l) + 3 CH₃–CHO (g)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "CrO₄²⁻ (aq) + 2 H⁺ (aq) + 3 CH₃–CH₂–OH (g) → Cr³⁺ (aq) + 4 H₂O (l) + 3 CH₃–CHO (g)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cr₂O₇²⁻ (aq) + 8 H⁺ (aq) + 3 CH₃–CHO (g) → 2 Cr³⁺ (aq) + 4 H₂O (l) + 3 CH₃–COOH (g)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "CrO₄²⁻ (aq) + 2 H⁺ (aq) + 3 CH₃–CHO (g) → Cr²⁺ (aq) + H₂O (l) + 3 CH₃–COOH (g)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

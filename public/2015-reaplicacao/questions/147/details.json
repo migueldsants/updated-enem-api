@@ -1,0 +1,49 @@
+{
+    "title": "Questão 147 - ENEM 2015 - Reaplicação",
+    "index": 147,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um protocolo tem como objetivo firmar acordos\ne discussões internacionais para conjuntamente\nestabelecer metas de redução de emissão de gases de\nefeito estufa na atmosfera. O quadro mostra alguns dos\npaíses que assinaram o protocolo, organizados de acordo\ncom o continente ao qual pertencem.\n\n![](https://enem.dev/2015-reaplicacao/questions/147/b64e9e65-6ce7-4e83-9f45-532fa16276fb.png)\n\nEm um dos acordos firmados, ao final do ano, dois\ndos países relacionados serão escolhidos aleatoriamente,\num após o outro, para verificar se as metas de redução do\nprotocolo estão sendo praticadas.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/147/b64e9e65-6ce7-4e83-9f45-532fa16276fb.png",
+        "https://enem.dev/2015-reaplicacao/questions/147/8e56480f-5352-4a09-a49a-fee7fcdaa92e.png",
+        "https://enem.dev/2015-reaplicacao/questions/147/f7455316-afde-4687-a09b-623d2494a18d.png",
+        "https://enem.dev/2015-reaplicacao/questions/147/5a7c4859-ed12-42bb-a431-c5573e5bb71c.png",
+        "https://enem.dev/2015-reaplicacao/questions/147/fc0953c3-3669-4188-922b-4b33d038940b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A probabilidade de o primeiro país escolhido pertencer à\nAmérica do Norte e o segundo pertencer ao continente\nasiático é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/147/8e56480f-5352-4a09-a49a-fee7fcdaa92e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/147/f7455316-afde-4687-a09b-623d2494a18d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/147/5a7c4859-ed12-42bb-a431-c5573e5bb71c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/147/fc0953c3-3669-4188-922b-4b33d038940b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

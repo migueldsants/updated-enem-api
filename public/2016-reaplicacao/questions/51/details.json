@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2016 - Reaplicação",
+    "index": 51,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Adicionar quantidades de álcool à gasolina, diferentes\ndaquelas determinadas pela legislação, é uma das formas\nde adulterá-la. Um teste simples para aferir a quantidade\nde álcool presente na mistura consiste em adicionar uma\nsolução salina aquosa à amostra de gasolina sob análise.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa metodologia de análise pode ser usada porque o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água da solução salina interage com a gasolina da mistura, formando duas fases, uma delas de álcool puro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "álcool contido na gasolina interage com a solução salina, formando duas fases, uma delas de gasolina pura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "gasolina da mistura sob análise interage com a solução salina, formando duas fases, uma delas de álcool puro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "água da solução salina interage com o álcool da mistura, formando duas fases, uma delas de gasolina com o sal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "álcool contido na gasolina interage com o sal da solução salina, formando duas fases, uma delas de gasolina mais água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

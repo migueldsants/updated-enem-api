@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2016 - Segunda aplicação",
+    "index": 103,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/103/cd1b4878-fb3e-41be-86e3-165b8b11c74e.png)\n\nDisponível em: www.superplacas.com.br. Acesso em: 3 ago. 2012.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/103/cd1b4878-fb3e-41be-86e3-165b8b11c74e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A presença desse aviso em um hotel, além de informar\nsobre um fato e evitar possíveis atos indesejados no local,\ntem como objetivo implícito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "isentar o hotel de responsabilidade por danos causados aos hóspedes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impedir a destruição das câmeras como meio de apagar evidências.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "assegurar que o hotel resguardará a privacidade dos hóspedes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "inibir as pessoas de circular em uma área específica do hotel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desestimular os hóspedes que requisitem as imagens gravadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

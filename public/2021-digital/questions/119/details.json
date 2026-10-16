@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2021 - Digital",
+    "index": 119,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um técnico analisou um lote de analgésicos que supostamente estava fora das\nespecificações. A composição prevista era 100 mg de ácido acetilsalicílico por\ncomprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e\nda celulose (componentes inertes). O técnico realizou os seguintes testes:\n\n1) obtenção da massa do comprimido;\n\n2) medição da densidade do comprimido;\n\n3) verificação do pH com papel indicador;\n\n4) determinação da temperatura de fusão do comprimido;\n\n5) titulação com solução aquosa de NaOH.\n\nApós a realização dos testes, o lote do medicamento foi reprovado porque a\nquantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.\n\n![](https://enem.dev/2021-digital/questions/119/27d749c1-e1bb-46b5-9e6b-7e0021ba389a.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/119/27d749c1-e1bb-46b5-9e6b-7e0021ba389a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O teste que permitiu reprovar o lote de analgésicos foi o de número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

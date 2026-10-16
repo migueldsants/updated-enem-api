@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2020 - Digital",
+    "index": 5,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "If Women Had Their Own Currency, Here’s What It Would Be Worth\n\nCharlotte Alter @charlottealter Maya Rhodan @m_rhodan July 31, 2014\n\n![](https://enem.dev/2020-digital/questions/5-ingles/cb45ea7d-9ec6-4ef7-a656-3542a8aae1cb.png)\n\nAfter a little girl asked President Obama why there aren’t any women on U.S. currency, he\nsaid that adding some female faces to our cash sounded like a \"pretty good idea\". Almost\nimmediately, all of our fantasies came alive on the web. What would, let’s say, Ruth Bader\nGinsburg look like on a $20 bill? Where would we spend our Beyoncé $10 bill first? Will our\ngrandmas give us a Susan B. Anthony $5 bill on our birthdays and tell us not to spend it all at\nonce?\n\nBut then we remembered: because of the wage gap, a dollar for a woman is not the same\nas a dollar for a man. Although the true extent of the gender pay gap is widely disputed even\namong feminists, President Obama said in the 2014 State of the Union that women make only\n77¢ for every dollar a man makes.\n\nDisponível em: http://time.com. Acesso em: 18 ago. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/5-ingles/cb45ea7d-9ec6-4ef7-a656-3542a8aae1cb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nas notas e moedas de dólar norte-americano, estão estampados apenas bustos de homens.\nAo imaginar a possibilidade de inclusão de figuras célebres femininas às notas, o autor do\ntexto indica que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o movimento feminista lutaria arduamente em favor dessa ideia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o presidente limitaria a impressão dessas imagens a apenas algumas notas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a votação para a escolha de tais celebridades seria realizada pela internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a disputa para a seleção envolveria tanto personalidades vivas quanto já falecidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a nota com o rosto de uma mulher valeria menos do que a mesma cédula com o retrato de um homem.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

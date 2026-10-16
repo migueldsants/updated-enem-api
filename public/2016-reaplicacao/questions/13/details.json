@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2016 - Reaplicação",
+    "index": 13,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Enquanto o pensamento de Santo Agostinho\nrepresenta o desenvolvimento de uma filosofia cristã\ninspirada em Platão, o pensamento de São Tomás\nreabilita a filosofia de Aristóteles ― até então vista\nsob suspeita pela Igreja ―, mostrando ser possível\ndesenvolver uma leitura de Aristóteles compatível com\na doutrina cristã. O aristotelismo de São Tomás abriu\ncaminho para o estudo da obra aristotélica e para a\nlegitimação do interesse pelas ciências naturais, um\ndos principais motivos do interesse por Aristóteles\nnesse período.\n\nMARCONDES, D. Textos básicos de filosofia. Rio de Janeiro: Zahar, 2005.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A Igreja Católica por muito tempo impediu a divulgação da\nobra de Aristóteles pelo fato de a obra aristotélica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorizar a investigação científica, contrariando certos dogmas religiosos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "declarar a inexistência de Deus, colocando em dúvida toda a moral religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criticar a Igreja Católica, instigando a criação de outras instituições religiosas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "evocar pensamentos de religiões orientais, minando a expansão do cristianismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "contribuir para o desenvolvimento de sentimentos antirreligiosos, seguindo sua teoria política.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

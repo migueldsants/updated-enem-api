@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2014 - Reaplicação",
+    "index": 37,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Canto dos lavradores de Goiás\nTem fazenda e fazenda\nQue é grande perfeitamente\nSobe serra desce serra\nSalta muita água corrente\nSem lavoura e sem ninguém\nO dono mora ausente.\nLá só tem caçambeiro\nTira onda de valente\nIsso é que é grande barreira\nQue está em nossa frente\nTem muita gente sem terra\nTem muita terra sem gente.\n\nMARTINS, J. S. Cativeiro da terra. São Paulo: Ciências Humanas, 1979.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No canto registrado pela cultura popular, a característica\ndo mundo rural brasileiro no século XX destacada é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atuação da bancada ruralista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "expansão da fronteira agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valorização da agricultura familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "manutenção da concentração fundiária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "implementação da modernização conservadora.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

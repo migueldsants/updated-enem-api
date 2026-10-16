@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2015 - Reaplicação",
+    "index": 123,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Vei, a Sol\nOra o pássaro careceu de fazer necessidade, fez\ne o herói ficou escorrendo sujeira de urubu. Já era\nde madrugadinha e o tempo estava inteiramente frio.\nMacunaíma acordou tremendo, todo lambuzado. Assim\nmesmo examinou bem a pedra mirim da ilhota para vê\nsi não havia alguma cova com dinheiro enterrado. Não\nhavia não. Nem a correntinha encantada de prata que\nindica pro escolhido, tesouro de holandês. Havia só as\nformigas jaquitaguas ruivinhas.\n\n2015\n\nEntão passou Caiuanogue, a estrela da manhã.\nMacunaíma já meio enjoado de tanto viver pediu pra ela\nque o carregasse pro céu.\nCaiuanogue foi se chegando porém o herói fedia muito.\n— Vá tomar banho! — ela fez. E foi-se embora.\nAssim nasceu a expressão “Vá tomar banho”\nque os brasileiros empregam se referindo a certos\nimigrantes europeus.\n\nANDRADE, M. Macunaíma: o herói sem nenhum caráter. Rio de Janeiro: Agir, 2008.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O fragmento de texto faz parte do capítulo VII, intitulado\n“Vei, a Sol”, do livro Macunaíma, de Mário de Andrade,\npertencente à primeira fase do Modernismo brasileiro.\nConsiderando a linguagem empregada pelo narrador, é\npossível identificar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "resquícios do discurso naturalista usado pelos escritores do século XIX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ausência de linearidade no tratamento do tempo, recurso comum ao texto narrativo da primeira fase modernista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "referência à fauna como meio de denunciar o primitivismo e o atraso de algumas regiões do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "descrição preconceituosa dos tipos populares brasileiros, representados por Macunaíma e Caiuanogue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "uso da linguagem coloquial e de temáticas do lendário brasileiro como meio de valorização da cultura popular nacional.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

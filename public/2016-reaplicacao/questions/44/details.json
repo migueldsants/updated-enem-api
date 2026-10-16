@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2016 - Reaplicação",
+    "index": 44,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nEntre os anos 1931 e 1935, o crescimento da\nimigração judaica para a Palestina foi exponencial,\npassando de 4 000 imigrantes/ano em 1931 para mais\nde 60 000 em 1935. Em vinte anos, a população judaica\nhavia passado de menos de 10% para mais de 30% da\npopulação local.\n\nGATTAZ, A. A Guerra da Palestina. São Paulo: Usina do Livro, 2002.\n\nTEXTO II\n\nUm estado semi-independente sob controle britânico\nfoi a fórmula que a Grã-Bretanha usou para a administração\ndas áreas que tomara do império turco. A exceção foi a\nPalestina, que eles administraram diretamente, tentando\nem vão conciliar promessas feitas aos judeus sionistas,\nem troca de apoio contra a Alemanha, e aos árabes, em\ntroca de apoio contra os turcos.\n\nHOBSBAWN, E. Era dos extremos. São Paulo: Cia. das Letras, 2002.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nos trechos, são tematizados o destino de um território\nno período entre as duas Grandes Guerras Mundiais.\nA orientação da política britânica relativa a essa região\nestá indicada na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criação de um Estado aliado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ocupação de áreas sagradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reação ao movimento socialista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promoção do comércio regional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "exploração de jazidas petrolíferas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

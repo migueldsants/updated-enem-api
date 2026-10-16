@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2013 - Reaplicação",
+    "index": 28,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O geoturismo é um segmento turístico recente que\nbusca priorizar os aspectos naturais negligenciados pelo\necoturismo: geologia e geomorfologia, como cavernas,\nsítios paleontológicos, maciços rochosos, quedas d’água\netc., proporcionando uma experiência turística que vai\nalém da contemplação, agregando informações sobre a\norigem e formação dos locais visitados.\n\nBENTO, L. C. M.; RODRIGUES, S. C. Geoturismo e geomorfossítios: refletindo sobre o\npotencial turístico de quedas d’água – um estudo de caso do município de Indianápolis-MG.\nIn: Revista Geográfica Acadêmica, v. 4, n. 2, 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Atualmente, no Brasil, a utilização de pequenas\npropriedades rurais para a prática descrita pelo texto é\nindicada como método que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "possibilita a exploração de recursos minerais sem degradação da fauna e da flora locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "associa a conservação do bioma a ganhos financeiros para o proprietário da terra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "permite a migração da população rural sem perda de sua identidade cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "impede o uso das áreas de mata para cultivos dependentes de sombreamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "viabiliza a produção agrícola com a utilização de culturas comerciais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 149 - ENEM 2014 - Terceira aplicação",
+    "index": 149,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Muitas pessoas, de modo descuidado, armazenam\nem caixas plásticas restos de alimentos em locais não\napropriados, criando condições para o aparecimento\nde formigas e roedores. Suponha que uma formiga,\nlocalizada no vértice J de uma caixa plástica que ficou\ndestampada, avista um torrão de açúcar no vértice P da\ncaixa, conforme ilustra a figura seguinte. Caminhando\nsobre a superfície da caixa (arestas e lados) ela poderá\nseguir várias trajetórias até ele:\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/149/0b0c4cdd-a64a-4fa4-9e3f-dcb93bf632c7.png)\n\nObservação: Considere que R é o ponto médio da\naresta NQ.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/149/0b0c4cdd-a64a-4fa4-9e3f-dcb93bf632c7.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/149/461eeb1c-557e-43b9-b1ef-5d701906c131.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/149/302bb1d6-0147-424c-a6d2-7c0454b42761.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/149/7a28a8c5-0d00-448c-89b6-517a7bc9149a.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/149/f0e55fb8-c1ce-4d2f-8c8e-6ad3ffa1087b.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/149/989007a6-f2f6-408d-a78f-f192e5191ddb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para que o caminho percorrido pela formiga tenha o\nmenor comprimento possível, ela deve seguir o caminho",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/149/461eeb1c-557e-43b9-b1ef-5d701906c131.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/149/302bb1d6-0147-424c-a6d2-7c0454b42761.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/149/7a28a8c5-0d00-448c-89b6-517a7bc9149a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/149/f0e55fb8-c1ce-4d2f-8c8e-6ad3ffa1087b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/149/989007a6-f2f6-408d-a78f-f192e5191ddb.png",
+            "isCorrect": true
+        }
+    ]
+}

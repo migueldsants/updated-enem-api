@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2014 - Reaplicação",
+    "index": 81,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Determinado bioma brasileiro apresenta vegetação\nconhecida por perder as folhas e ficar apenas com galhos\nesbranquiçados, ao passar por até nove meses de seca.\nAs plantas podem acumular água no caule e na raiz,\nalém de apresentarem folhas pequenas, que em algumas\nespécies assumem a forma de espinhos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual região fitogeográfica brasileira apresenta plantas\ncom essas características?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cerrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pantanal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caatinga.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Mata Atlântica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Floresta Amazônica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

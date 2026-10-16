@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2015 - Reaplicação",
+    "index": 87,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na natureza a matéria é constantemente transformada\npor meio dos ciclos biogeoquímicos. Além do ciclo\nda água, existem os ciclos do carbono, do enxofre, do\nfósforo, do nitrogênio e do oxigênio.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O elemento que está presente em todos os ciclos\nnomeados é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fósforo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "enxofre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "carbono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oxigênio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "nitrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

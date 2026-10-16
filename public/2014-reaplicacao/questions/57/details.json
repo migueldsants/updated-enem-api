@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2014 - Reaplicação",
+    "index": 57,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A água potável precisa ser límpida, ou seja, não\ndeve conter partículas em suspensão, tais como terra\nou restos de plantas, comuns nas águas de rios e\nlagoas. A remoção das partículas é feita em estações\nde tratamento, onde Ca(OH)₂ em excesso e Al₂(SO₄)₃\nsão adicionados em um tanque para formar sulfato de\ncálcio e hidróxido de alumínio. Esse último se forma\ncomo flocos gelatinosos insolúveis em água, que\nsão capazes de agregar partículas em suspensão.\nEm uma estação de tratamento, cada 10 gramas de\nhidróxido de alumínio é capaz de carregar 2 gramas de\npartículas. Após decantação e filtração, a água límpida\né tratada com cloro e distribuída para as residências. As\nmassas molares dos elementos H, O, Al, S e Ca são,\nrespectivamente, 1 g/mol, 16 g/mol, 27 g/mol, 32 g/mol\ne 40 g/mol.\nConsiderando que 1 000 litros da água de um rio possuem\n45 gramas de partículas em suspensão, a quantidade\nmínima de Al₂(SO₄)₃ que deve ser utilizada na estação de\ntratamento de água, capaz de tratar 3 000 litros de água\nde uma só vez, para garantir que todas as partículas em\nsuspensão sejam precipitadas, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "59 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "493 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "987 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 480 g.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2 960 g.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

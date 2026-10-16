@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2020 - Digital",
+    "index": 162,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa possuía um lote com área de 300 m . Nele construiu sua casa, utilizando\n70% do lote para construção da residência e o restante para área de lazer. Posteriormente,\nadquiriu um novo lote ao lado do de sua casa e, com isso, passou a dispor de um terreno\nformado pelos dois lotes, cuja área mede 420 m . Decidiu então ampliar a casa, de tal forma\nque ela ocupasse no mínimo 60% da área do terreno, sendo o restante destinado à área de\nlazer.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O acréscimo máximo que a região a ser destinada à área de lazer no terreno poderá ter, em\nrelação à área que fora utilizada para lazer no lote original, em metro quadrado, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "48",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "78",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "138",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "168",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

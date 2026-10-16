@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2014 - Terceira aplicação",
+    "index": 32,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/32/5f1811ff-3705-4f53-8906-812166e76e53.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/32/5f1811ff-3705-4f53-8906-812166e76e53.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O cartaz expõe um dos lemas da Guerra Civil Espanhola\n1936-1939 , conflito em que as forças republicanas,\napoiadas por brigadas voluntárias internacionais, foram\nderrotadas, porém,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "refreou as tendências autoritárias dos governantes europeus no período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "consolidou o papel da Liga das Nações como mediadora dos conflitos internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "impediu o desenvolvimento de conflitos militares internacionais no continente europeu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "isolou politicamente a Espanha das outras nações europeias, com a ascensão franquista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "provocou comoção mundial, fortalecendo a necessidade de combate ao fascismo europeu.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

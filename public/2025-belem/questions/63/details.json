@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 63,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Como é costume dos soldados ao retornarem de suas\ncampanhas, os cruzados sem dúvida devem ter exagerado tanto\nas privações da jornada quanto o esplendor da terra conquistada,\nbem como os milagres enviados pelos céus para encorajá-los.\nTodos, porém, sublinhavam a necessidade de guerreiros e\ncolonos no Oriente, a fim de dar prosseguimento à obra divina,\ne falavam das riquezas e propriedades que lá esperavam para\nserem ocupadas pelos aventureiros. Instavam a partida de uma\nnova Cruzada, com as bênçãos dos pregadores da Igreja.\n\nRUNCIMAN, S. História das Cruzadas: o Reino de Jerusalém e o Oriente\nFranco, 1100-1187. Rio de Janeiro: Imago, 2002.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma das consequências da recepção, no Ocidente, das notícias\nmencionadas no texto foi o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decadência das ordens mendicantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "surgimento das trocas comerciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fragilização do sistema feudal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento da circulação de pessoas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "crescimento da desestruturação religiosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

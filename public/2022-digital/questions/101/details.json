@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2022 - Digital",
+    "index": 101,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No processo de captação da luz pelo olho para a formação de imagens estão\nenvolvidas duas estruturas celulares: os cones e os bastonetes. Os cones são sensíveis à\nenergia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos\nfótons que compõem os raios luminosos está associada à sua frequência, e a\nintensidade, ao número de fótons incidentes.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um animal que tem bastonetes mais sensíveis irá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentar daltonismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "perceber cores fora do espectro do visível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "enxergar bem em ambientes mal iluminados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "necessitar de mais luminosidade para enxergar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fazer uma pequena distinção de cores em ambientes iluminados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

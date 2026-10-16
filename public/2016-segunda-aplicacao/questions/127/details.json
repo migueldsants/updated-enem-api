@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2016 - Segunda aplicação",
+    "index": 127,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Certa vez, eu jogava uma partida de sinuca, e só\nhavia a bola sete na mesa. De modo que a mastiguei\nlentamente saboreando-lhe os bocados com prazer.\nRefiro-me à refeição que havia pedido ao garçom.\nDei-lhe duas tacadas na cara. Estou me referindo à bola.\nEm seguida, saí montando nela e a égua, de que estou\nfalando agora, chegou calmamente à fazenda de minha\nmãe. Fui encontrá-la morta na mesa, meu irmão comia-lhe\numa perna com prazer e ofereceu-me um pedaço:\n“Obrigado”, disse eu, “já comi galinha no almoço”.\n\nLogo em seguida, chegou minha mulher e deu-me\nna cara. Um beijo, digo. Dei-lhe um abraço. Fazia calor.\nDaí a pouco minha camisa estava inteiramente molhada.\nRefiro-me a que estava na corda secando, quando\ncomeçou a chover. Minha sogra apareceu para apanhar\na camisa.\n\nNão tive remédio senão esmagá-la com o pé. Estou\nfalando da barata que ia trepando na cadeira.\n\nMalaquias, meu primo, vivia com uma velha de\noitenta anos. A velha era sua avó, esclareço. Malaquias\ntinha dezoito filhos, mas nunca se casou. Isto é, nunca\nse casou com uma mulher que durasse mais de um ano.\nAgora, sentado à nossa frente, Malaquias fura o coração\ncom uma faca. Depois corta as pernas e o sangue do\nporco enche a bacia.\n\nNos bons tempos passeávamos juntos. Eu tinha um\ncarro. Malaquias tinha uma namorada. Um dia rolou a\nribanceira. Me refiro a Malaquias. Entrou pela pretoria\nadentro arrebentando porta e parou resfolegante junto do\njuiz pálido de susto. Me refiro ao carro. E a Malaquias.\n\nFERNANDES, M. Trinta anos de mim mesmo. São Paulo: Abril Cultural, 1973.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nesse texto, o autor reorienta o leitor no processo de\nleitura, usando como recurso expressões como “refiro-me/me\nrefiro”, “estou me referindo”, “de que estou falando agora”,\n“digo”, “estou falando da”, “esclareço”, “isto é”. Todas elas\nsão expressões linguísticas introdutoras de paráfrases,\nque servem para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "confirmar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contradizer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "destacar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "retificar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "sintetizar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

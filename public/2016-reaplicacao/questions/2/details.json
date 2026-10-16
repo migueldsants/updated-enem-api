@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2016 - Reaplicação",
+    "index": 2,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/2/fef87a56-b5a1-422e-8f59-ac28d9dd115a.png)\n\nDAHMER, A. Disponível em: http://malvados.wordpress.com. Acesso em: 11 dez. 2012.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/2/fef87a56-b5a1-422e-8f59-ac28d9dd115a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Analisar o processo atual de circulação e de armazenamento de determinados bens culturais diante da transformação\ndecorrente do impacto de novas tecnologias indica que hoje",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as músicas e os textos têm privilegiado um formato digital, tornando inadmissível sua acumulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a rede mundial de computadores acaba com o chamado direito autoral, que é inaplicável em relações virtuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a segurança e a inclusão digital são problemas, expondo a impossibilidade de realizar um comércio feito on-line.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as mídias digitais e a internet permitiram maior fluxo desses produtos, pois seu acúmulo independe de grandes bases materiais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a pirataria é o recurso utilizado pelos consumidores, visto que são impedidos de adquirir legalmente algo desprovido de suporte físico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

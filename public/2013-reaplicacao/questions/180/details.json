@@ -1,0 +1,46 @@
+{
+    "title": "Questão 180 - ENEM 2013 - Reaplicação",
+    "index": 180,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A estimativa do número de indivíduos de uma\npopulação de animais frequentemente envolve a captura,\na marcação e, então, a liberação de alguns desses\nindivíduos. Depois de um período, após os indivíduos\nmarcados se misturarem com os não marcados,\nrealiza-se outra amostragem. A proporção de\nindivíduos desta segunda amostragem que já estava\nmarcada pode ser utilizada para estimar o tamanho da\npopulação, aplicando-se a fórmula:\n\n![](https://enem.dev/2013-reaplicacao/questions/180/7255331e-ff37-4604-b051-85be8fb2984c.png)\n\n• n₁= número de indivíduos marcados na primeira\namostragem;\n\n• n₂= número de indivíduos marcados na segunda\namostragem;\n\n• m₂= número de indivíduos da segunda amostragem\nque foram marcados na primeira amostragem;\n\n• N= tamanho estimado da população total.\n\nSADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2010 (adaptado).\n\nDurante uma contagem de indivíduos de uma\npopulação, na primeira amostragem foram marcados 120;\nna segunda amostragem foram marcados 150, dos quais\n100 já possuíam a marcação.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/180/7255331e-ff37-4604-b051-85be8fb2984c.png",
+        "https://enem.dev/2013-reaplicacao/questions/180/f2faecb2-a511-4591-b518-a897a981d724.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número estimado de indivíduos dessa população é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "188.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "180.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "125.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "96.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/180/f2faecb2-a511-4591-b518-a897a981d724.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2014 - Terceira aplicação",
+    "index": 138,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa, durante sua vida, cometeu crimes,\nsendo, por consequência, condenada a 10 anos de cadeia.\nAinda no tribunal, o juiz, interessado na recuperação\ndessa pessoa, lhe informou acerca da possibilidade que\ntinha em reduzir sua pena, caso se dispusesse a trabalhar\nna marcenaria da penitenciária. Informou-a que a cada 3\ndias de trabalho, 1 dia seria “perdoado” em sua pena.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Imaginando não haver outras formas de progressão de\npena, e considerando que a pessoa trabalhe todos os dias\nda semana, quanto tempo ela deverá permanecer presa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Entre 2 e 3 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Entre 3 e 4 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre 4 e 5 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entre 6 e 7 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Entre 7 e 8 anos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

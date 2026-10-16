@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 58,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Projetosdecenografiaurbana,derevitalizaçãodeorlasedeantigas\náreas industriais, além de intervenções cada vez mais espetaculares\npara jogos e eventos mundiais definem parcela expressiva da\nprodução contemporânea do urbanismo, da cidade-mercadoria.\nEspaços espetaculares de investimento são criados e neles pessoas\nvivem em competição por status, consumo, paisagem etc.\n\nBALBIM, R. (Org.). Geopolítica das cidades: velhos desafios, novos problemas.\nBrasília: lpea, 2016.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se os eventos esportivos internacionais organizados\nno Brasil, os projetos e intervenções descritos resultaram em\nprocessos espaciais que promoveram a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorização do mercado imobiliário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "priorização da cultura regional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliação do direito à moradia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "preservação de recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "democratização do planejamento municipal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

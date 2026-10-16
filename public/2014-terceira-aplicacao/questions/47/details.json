@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2014 - Terceira aplicação",
+    "index": 47,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As cercas elétricas instaladas nas zonas urbanas são\ndispositivos de segurança planejados para inibir roubos\ne devem ser projetadas para, no máximo, assustar as\npessoas que toquem a fiação que delimita os domínios\nde uma propriedade. A legislação vigente que trata sobre\nas cercas elétricas determina que a unidade de controle\ndeverá ser constituída, no mínimo, de um aparelho\nenergizador de cercas que apresente um transformador\ne um capacitor. Ela também menciona que o tipo de\ncorrente elétrica deve ser pulsante.\nConsidere que o transformador supracitado seja constituído\nbasicamente por um enrolamento primário e outro\nsecundário, e que este último está ligado indiretamente à\nfiação. A função do transformador em uma cerca elétrica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reduzir a intensidade de corrente elétrica associada ao secundário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "aumentar a potência elétrica associada ao secundário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "amplificar a energia elétrica associada a este dispositivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "proporcionar perdas de energia do primário ao secundário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "provocar grande perda de potência elétrica no secundário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

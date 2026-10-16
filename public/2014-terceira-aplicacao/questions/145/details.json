@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2014 - Terceira aplicação",
+    "index": 145,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A empresa E fornece linhas para telefones celulares\nda Companhia de Telefonia X a dois de seus funcionários.\nOs funcionários 1 e 2 usam, em média, 170 minutos e\n195 minutos mensais, em ligações, respectivamente.\n\nO plano das linhas desses celulares possui uma\nfranquia de 90 minutos mensais ou seja, 90 minutos de\nligações grátis a cada mês , e custo de R$ 0,20 por minuto\nadicional, além de um custo fixo de R$ 30,00 mensais.\n\nA companhia X lançou novos planos que podem\nbaratear o custo da empresa E com esses celulares e\nofereceu-lhes, com preços mostrados a seguir:\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/145/8488c8e6-3e09-409d-a469-3e686968de96.png)\n\nMas, por contrato, E só pode migrar uma das contas\npara um novo plano, enquanto a outra precisa continuar\nno plano em que está.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/145/8488c8e6-3e09-409d-a469-3e686968de96.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De modo a ter o menor custo possível com os pagamentos\ndessas contas de celulares, qual é a melhor atitude a ser\ntomada pela empresa E em relação às ofertas descritas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fornecer o Plano Dourado para o funcionário 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fornecer o Plano Parceria para o funcionário 1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Fornecer o Plano Dourado para o funcionário 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fornecer o Plano Parceria para o funcionário 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manter os planos atuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

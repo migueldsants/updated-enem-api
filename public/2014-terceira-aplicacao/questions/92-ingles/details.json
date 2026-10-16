@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2014 - Terceira aplicação",
+    "index": 92,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Slow Food\n\nSlow Food describes a movement created “to\ncounteract fast food and fast life, the disappearance\nof local food traditions and people’s dwindling interest\nin the food they eat, where it comes from, how it tastes\nand how our food choices affect the rest of the world,”\naccording to the movement’s website. More broadly,\nit involves an emphasis on local and seasonal produce\nand an adherence to regional cultures. Its goals also\ninclude lobbying against the use of pesticides and genetic\nengineering of food.\n\nDisponível em: www.ecomii.com. Acesso em: 30 set. 2011.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O objetivo do movimento Slow food é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eliminar o hábito de fast food e os efeitos negativos da vida agitada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "unir interesse por alimentação e responsabilidade ambiental.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "investir em pesticidas e engenharia genética de alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tornar globais as tradições locais de alimentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "transformar as culturas gastronômicas regionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

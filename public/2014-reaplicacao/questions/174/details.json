@@ -1,0 +1,46 @@
+{
+    "title": "Questão 174 - ENEM 2014 - Reaplicação",
+    "index": 174,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Alunos de um curso de engenharia desenvolveram\num robô “anfíbio” que executa saltos somente nas\ndireções norte, sul, leste e oeste. Um dos alunos\nrepresentou a posição inicial desse robô, no plano\ncartesiano, pela letra P, na ilustração.\n\nDireções\n\n![](https://enem.dev/2014-reaplicacao/questions/174/3bec3c41-61a8-4198-992d-d788480a7f64.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/174/eceff41c-670a-4f01-9c30-11c2c6613a5a.png)\n\nA direção norte-sul é a mesma do eixo y, sendo que o\nsentido norte é o sentido de crescimento de y, e a direção\nleste-oeste é a mesma do eixo x, sendo que o sentido\nleste é o sentido de crescimento de x.\n\nEm seguida, esse aluno deu os seguintes comandos\nde movimentação para o robô: 4 norte, 2 leste e 3 sul, nos\nquais os coeficientes numéricos representam o número\nde saltos do robô nas direções correspondentes, e cada\nsalto corresponde a uma unidade do plano cartesiano.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/174/3bec3c41-61a8-4198-992d-d788480a7f64.png",
+        "https://enem.dev/2014-reaplicacao/questions/174/eceff41c-670a-4f01-9c30-11c2c6613a5a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Depois de realizar os comandos dados pelo aluno, a\nposição do robô, no plano cartesiano, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(0 ; 2).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(0 ; 3).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(1 ; 2).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "(1 ; 4).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(2 ; 1).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

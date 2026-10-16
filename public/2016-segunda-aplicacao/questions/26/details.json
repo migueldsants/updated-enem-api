@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2016 - Segunda aplicação",
+    "index": 26,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Pode-se admitir que a experiência passada dá\nsomente uma informação direta e segura sobre\ndeterminados objetos em determinados períodos do\ntempo, dos quais ela teve conhecimento. Todavia, é esta\na principal questão sobre a qual gostaria de insistir: por\nque esta experiência tem de ser estendida a tempos\nfuturos e a outros objetos que, pelo que sabemos,\nunicamente são similares em aparência. O pão que\noutrora comi alimentou-me, isto é, um corpo dotado de\ntais qualidades sensíveis estava, a este tempo, dotado\nde tais poderes desconhecidos. Mas, segue-se daí que\neste outro pão deve também alimentar-me como ocorreu\nna outra vez, e que qualidades sensíveis semelhantes\ndevem sempre ser acompanhadas de poderes ocultos\nsemelhantes? A consequência não parece de nenhum\nmodo necessária.\n\nHUME, D. Investigação acerca do entendimento humano. São Paulo: Abril Cultural, 1995.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O problema descrito no texto tem como consequência a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "universabilidade do conjunto das proposições de observação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "normatividade das teorias científicas que se valem da experiência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dificuldade de se fundamentar as leis científicas em bases empíricas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "inviabilidade de se considerar a experiência na construção da ciência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "correspondência entre afirmações singulares e afirmações universais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

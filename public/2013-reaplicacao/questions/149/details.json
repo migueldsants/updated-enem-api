@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2013 - Reaplicação",
+    "index": 149,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O dono de uma empresa produtora de água mineral\nexplora uma fonte de onde extrai 20 000 litros diários, os\nquais são armazenados em um reservatório com volume\ninterno de 30 m³, para serem colocados, ao final do dia,\nem garrafas plásticas. Para aumentar a produção, o\nempresário decide explorar também uma fonte vizinha, de\nonde passa a extrair outros 25 000 litros. O reservatório\nque se encontra em uso possui uma capacidade ociosa\nque deve ser aproveitada.\nAvaliando a capacidade do reservatório existente e o novo\nvolume de água extraído, qual o volume interno mínimo\nde um novo reservatório que o empresário deve adquirir?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15,0 m³",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "25,0 m³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "37,5 m³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "45,0 m³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "57,5 m³",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

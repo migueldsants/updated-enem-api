@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2021 - Digital",
+    "index": 172,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um estudo realizado pelo IBGE em quatro estados e no Distrito Federal, com\nmais de 5 mil pessoas com 10 anos ou mais, observou-se que a leitura ocupa, em média,\napenas seis minutos do dia de cada pessoa. Na faixa de idade de 10 a 24 anos, a média\ndiária é de três minutos. No entanto, no grupo de idades entre 24 e 60 anos, o tempo\nmédio diário dedicado à leitura é de 5 minutos. Entre os mais velhos, com 60 anos ou\nmais, a média é de 12 minutos.\n\nA quantidade de pessoas entrevistadas de cada faixa de idade seguiu a distribuição\npercentual descrita no quadro.\n\n![](https://enem.dev/2021-digital/questions/172/ddd1229e-0afb-4cea-9102-6f7f294e4b9e.png)\n\nDisponível em: www.oglobo.globo.com. Acesso em: 16 ago. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/172/ddd1229e-0afb-4cea-9102-6f7f294e4b9e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os valores de x e y do quadro são, respectivamente, iguais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 e 80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 e 90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20 e 60.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "20 e 80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25 e 50.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

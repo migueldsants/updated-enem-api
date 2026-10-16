@@ -1,0 +1,52 @@
+{
+    "title": "Questão 162 - ENEM 2013 - Reaplicação",
+    "index": 162,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo educativo, o tabuleiro é uma representação\nda reta numérica e o jogador deve posicionar as fichas\ncontendo números reais corretamente no tabuleiro,\ncujas linhas pontilhadas equivalem a 1 (uma) unidade de\nmedida. Cada acerto vale 10 pontos.\n\nNa sua vez de jogar, Clara recebe as seguintes fichas:\n\n![](https://enem.dev/2013-reaplicacao/questions/162/c012a95d-ebaa-4d21-9839-5c5c3beedddf.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/162/fba0f7d7-a753-4af0-8893-88b30bfeaa40.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/162/f65c7607-8d65-4cc3-87bf-275bef2675e4.png)\n\nX Y Z T\n\nPara que Clara atinja 40 pontos nessa rodada, a figura\nque representa seu jogo, após a colocação das fichas no\ntabuleiro, é:",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/162/c012a95d-ebaa-4d21-9839-5c5c3beedddf.png",
+        "https://enem.dev/2013-reaplicacao/questions/162/fba0f7d7-a753-4af0-8893-88b30bfeaa40.png",
+        "https://enem.dev/2013-reaplicacao/questions/162/f65c7607-8d65-4cc3-87bf-275bef2675e4.png",
+        "https://enem.dev/2013-reaplicacao/questions/162/0a29a126-aa15-48ca-b84f-20d95d497759.png",
+        "https://enem.dev/2013-reaplicacao/questions/162/a3c036f9-39c9-44a3-9070-fde27979487a.png",
+        "https://enem.dev/2013-reaplicacao/questions/162/90bc48ab-40c4-4d71-a048-df6092eb6776.png",
+        "https://enem.dev/2013-reaplicacao/questions/162/0c4797af-7022-4d60-a5e6-cacc099ff103.png",
+        "https://enem.dev/2013-reaplicacao/questions/162/b42e431d-0158-4977-8dc5-736cc11cc58d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "T",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/162/0a29a126-aa15-48ca-b84f-20d95d497759.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/162/a3c036f9-39c9-44a3-9070-fde27979487a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/162/90bc48ab-40c4-4d71-a048-df6092eb6776.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/162/0c4797af-7022-4d60-a5e6-cacc099ff103.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/162/b42e431d-0158-4977-8dc5-736cc11cc58d.png",
+            "isCorrect": false
+        }
+    ]
+}

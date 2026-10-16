@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2020 - Digital",
+    "index": 36,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/36/2efaa006-a0ee-4d7c-acca-99cf695932d2.png)\n\nDE MARIA, W. Campo relampejante, 1977.\n\nDisponível em: www.ballardian.com. Acesso em: 12 jun. 2018.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/36/2efaa006-a0ee-4d7c-acca-99cf695932d2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na obra Campo relampejante (1977), o artista Walter de Maria coloca hastes de ferro em\nespaços regulares, em um campo de 1 600 metros quadrados no Novo México. O trabalho faz\nparte do movimento artístico Land Art, que trata da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constituição da cena artística marcada pela paisagem natural, modificada pela multimídia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ocupação de um local vazio sem função específica, passando a existir como arte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "utilização de equipamentos tradicionais como suporte para a atividade artística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "divulgação de fenômenos científicos que dialogam com a estética da arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "exposição da obra em locais naturais e institucionais abertos ao público.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

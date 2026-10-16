@@ -1,0 +1,45 @@
+{
+    "title": "Questão 50 - ENEM 2014 - Terceira aplicação",
+    "index": 50,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/50/bbfbeef1-c3ae-4323-a08b-8c8d8c3a8922.png)\n\nA ilustração representa uma das mais conhecidas\nobras do artista gráfico holandês M. C. Escher. Seu\ntrabalho tem como características as figuras geométricas\ne ilusões de óptica.\n\nDisponível em: www.myspace.com. Acesso em: 20 out. 2011.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/50/bbfbeef1-c3ae-4323-a08b-8c8d8c3a8922.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pelas características da imagem formada na gravura, o\nartista representou um espelho esférico do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "convexo, pois as imagens de todos os objetos, formadas na esfera, inclusive a do artista, são virtuais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "côncavo, pois as imagens são direitas, indicando que todos os objetos visualizados estão entre o foco e o espelho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "côncavo, devido ao pequeno campo de visão, não é possível observar todos os detalhes do local onde se encontra o artista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "convexo, pois as imagens são formadas pelo cruzamento dos raios de luz refletidos pela esfera, por isso as imagens são direitas e não invertidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "côncavo, devido às imagens formadas por este espelho serem todas reais, ou seja, formadas pelo cruzamento dos raios de luz refletidos pela esfera.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

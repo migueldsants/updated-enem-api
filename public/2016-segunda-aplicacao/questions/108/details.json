@@ -1,0 +1,45 @@
+{
+    "title": "Questão 108 - ENEM 2016 - Segunda aplicação",
+    "index": 108,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/108/38c35531-fdbd-40d2-8cdc-440d63de2b7c.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/108/38c35531-fdbd-40d2-8cdc-440d63de2b7c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na campanha publicitária, há uma tentativa de\nsensibilizar o público-alvo, visando levá-lo à doação de\nsangue. Analisando a estratégia argumentativa utilizada,\npercebe-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a exposição de alguns dados sobre a jovem procura provocar compaixão, visto que, em razão da doença, ela vive de maneira diferente dos demais jovens de sua idade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a campanha defende a ideia de que, para doar, é preciso conhecer o doente, considerando que foi preciso apresentar a jovem para gerar identificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o questionamento seguido da resposta propõe reflexão por parte do público-alvo, visto que o texto critica a prática de escolher para quem doar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "as escolhas verbais associadas à imagem parecem contraditórias, pois constroem uma aparência incompatível com a de uma jovem doente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a campanha explora a expressão da jovem a fim de gerar comoção no leitor, levando-o a doar sangue para as pessoas com leucemia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

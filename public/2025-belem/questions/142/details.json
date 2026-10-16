@@ -1,0 +1,52 @@
+{
+    "title": "Questão 142 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 142,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa necessita armazenar uma quantidade V de\nlíquido e possui um recipiente no formato de cilindro circular reto,\n\n![](https://enem.dev/2025-belem/questions/142/0f18478a-20d2-4b14-8870-28ef06103f0d.png)\n\nquantidade. Essa pessoa comprou, então, um novo recipiente\nno mesmo formato, com raio da base medindo R, mantendo\na mesma medida da área lateral do primeiro recipiente, e que\ncomporta exatamente a quantidade V de líquido.\n\n![](https://enem.dev/2025-belem/questions/142/ea4d5006-a0a6-4c47-aad4-a58a3380cdb7.png)\n\n![](https://enem.dev/2025-belem/questions/142/ff5eac48-df47-4a93-be2a-fc8d7b7ec18b.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/142/0f18478a-20d2-4b14-8870-28ef06103f0d.png",
+        "https://enem.dev/2025-belem/questions/142/ea4d5006-a0a6-4c47-aad4-a58a3380cdb7.png",
+        "https://enem.dev/2025-belem/questions/142/ff5eac48-df47-4a93-be2a-fc8d7b7ec18b.png",
+        "https://enem.dev/2025-belem/questions/142/4f12feb6-487c-4151-8069-49fd0f32c1a3.png",
+        "https://enem.dev/2025-belem/questions/142/07dcdfc7-e78b-4b3b-8e72-1367011f0e09.png",
+        "https://enem.dev/2025-belem/questions/142/0d4d84c5-6a94-44f0-be4f-642697b8b962.png",
+        "https://enem.dev/2025-belem/questions/142/914cd2ab-e0fd-468d-bce3-0a00fd8d996f.png",
+        "https://enem.dev/2025-belem/questions/142/6027f201-6a13-4925-8cb7-67be3a51ad42.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/142/4f12feb6-487c-4151-8069-49fd0f32c1a3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/142/07dcdfc7-e78b-4b3b-8e72-1367011f0e09.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/142/0d4d84c5-6a94-44f0-be4f-642697b8b962.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/142/914cd2ab-e0fd-468d-bce3-0a00fd8d996f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/142/6027f201-6a13-4925-8cb7-67be3a51ad42.png",
+            "isCorrect": true
+        }
+    ]
+}

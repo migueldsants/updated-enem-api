@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2022 - Digital",
+    "index": 2,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Pequeño hermano\n\nEs, no cabe duda, el instrumento más presente y más poderoso de todos los que\nentraron en nuestras vidas. Ni la televisión ni el ordenador, no hablemos ya del obsoleto\nfax o de las agendas o los libros electrónicos, ha tenido tal influencia, tal predicamento\nsobre nosotros. El móvil somos nosotros mismos. Todo desactivado e inerte, inocuo, ya\nles digo. Y de repente, tras un viaje y tres o cuatro imprudentes fotos, salta un aviso en la\npantalla. Con sonido, además, pese a que tengo también todas las alertas desactivadas.\nY mi monstruo doméstico me dice: Tienes un recuerdo nuevo. Lo repetiré: tienes un\nrecuerdo nuevo. ¿Y tú qué sabes? ¿Y a ti, máquina demoníaca, qué te importa? ¿Cómo\nte atreves a decirme qué son o no son mis recuerdos? ¿Qué es esta intromisión, este\ndescaro? El pequeño hermano lo sabe casi todo. Sólo hay una esperanza: que la\nobsolescencia programada mate antes al pequeño hermano y que nosotros sigamos\nvivos, con los recuerdos que nos dé la gana.\n\nFERNÁNDEZ, D. Disponível em: www.lavanguardia.com. Acesso em: 5 dez. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No texto, o autor faz uma crítica ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conhecimento das pessoas sobre as tecnologias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uso do celular alheio por pessoas desautorizadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "funcionamento de recursos tecnológicos obsoletos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ingerência do celular sobre as escolhas dos usuários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "falta de informação sobre a configuração de alertas no celular.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

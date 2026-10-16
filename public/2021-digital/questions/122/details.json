@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2021 - Digital",
+    "index": 122,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma escola iniciou o processo educativo para implantação da coleta seletiva e\ndestino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:\n\n1) sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse\nde maneira contínua;\n2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos\nprocedimentos adotados com a coleta seletiva; e\n3) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros\nambientes para acondicionamento dos resíduos.\n\nPara completar a ação proposta no ambiente escolar, o que falta ser inserido no\nplanejamento?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Realizar campanhas educativas de sensibilização em bairros vizinhos para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fortalecer a coleta seletiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Firmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Divulgar na rádio local, no jornal impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

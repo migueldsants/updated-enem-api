@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2021 - Digital",
+    "index": 76,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Desde o século XII que a cristandade ocidental era agitada pelo desafio lançado pela\ncultura profana — a dos romances de cavalaria, mas também a cultura folclórica dos\ncamponeses e igualmente a dos citadinos, de caráter mais jurídico — à cultura\neclesiástica, cujo veículo era o latim. Francisco de Assis veio alterar a situação, propondo\naos seus ouvintes uma mensagem acessível a todos e, simultaneamente, enobrecendo a\nlíngua vulgar através do seu uso na religião.\n\nVAUCHEZ, A. A espiritualidade da Idade Média Ocidental, séc. VIII-XIII. Lisboa: Estampa, 1995.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O comportamento desse religioso demonstra uma preocupação com as características\nassumidas pela Igreja e com as desigualdades sociais compartilhada no seu tempo\npelos(as)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "senhores feudais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "movimentos heréticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "integrantes das Cruzadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "corporações de ofícios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "universidades medievais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

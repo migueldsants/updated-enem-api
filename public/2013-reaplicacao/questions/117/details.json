@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2013 - Reaplicação",
+    "index": 117,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/117/48c3be11-2484-462e-9ab5-05b9e686fb63.png)\n\nTEXTO II\n\nPartindo do chão coletivo da comunidade rural ou\ndas cidades, à medida que se impregna de um ethos\nurbano — seja por migração, seja pela difusão de novos\nconteúdos midiáticos —, irão surgindo indivíduos que, na\nárea da visualidade, gerarão uma obra de feição original,\nautoral, única. O indivíduo-sujeito recorre à memória para\na construção de uma biografia, a fim de criar seu projeto\nartístico, a sua identidade social.\n\nFROTA, L. C. Pequeno dicionário da arte do povo brasileiro (século XX).\nRio de Janeiro: Aeroplano, 2005.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/117/48c3be11-2484-462e-9ab5-05b9e686fb63.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir dos textos apresentados, os trabalhos que são\npertinentes à criação popular caracterizam-se por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "temática nacionalista que abrange áreas regionais amplas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produção de obras utilizando materiais e técnicas tradicionais da arte acadêmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ligação estrutural com a arte canônica pela exposição e recepção em museus e galerias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "abordagem peculiar da realidade e do contexto, seguindo criação pessoal particular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "criação de técnicas e temas comuns a determinado grupo ou região, gerando movimentos artísticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2016 - Reaplicação",
+    "index": 55,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma família adquiriu um televisor e, no manual do\nusuário, constavam as especificações técnicas, como\napresentado no quadro. Esse televisor permaneceu\n30 dias em repouso (stand-by). Considere que a eficiência\nentre a geração e a transmissão de eletricidade na usina\n\n![](https://enem.dev/2016-reaplicacao/questions/55/acc4e636-2924-40fe-b691-675963f4d708.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/55/acc4e636-2924-40fe-b691-675963f4d708.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que quantidade de energia, em joules, foi produzida na\nusina para manter o televisor em stand-by?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,59 MJ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,05 MJ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8,64 MJ",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "117 MJ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "377 MJ",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

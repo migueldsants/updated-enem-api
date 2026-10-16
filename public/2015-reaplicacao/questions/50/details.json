@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2015 - Reaplicação",
+    "index": 50,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O urânio é um elemento cujos átomos contêm 92 prótons,\n92 elétrons e entre 135 e 148 nêutrons. O isótopo de\nurânio²³⁵U é utilizado como combustível em usinas\nnucleares, onde, ao ser bombardeado por nêutrons, sofre\nfissão de seu núcleo e libera uma grande quantidade\nde energia (2,35×10¹⁰ kJ/mol). O isótopo²³⁵U ocorre\nnaturalmente em minérios de urânio, com concentração\nde apenas 0,7%. Para ser utilizado na geração de\nenergia nuclear, o minério é submetido a um processo\nde enriquecimento, visando aumentar a concentração do\nisótopo²³⁵U para, aproximadamente, 3% nas pastilhas.\nEm décadas anteriores, houve um movimento mundial\npara aumentar a geração de energia nuclear buscando\nsubstituir, parcialmente, a geração de energia elétrica\na partir da queima do carvão, o que diminui a emissão\natmosférica de CO₂ (gás com massa molar igual a 44 g/mol).\nA queima do carvão é representada pela equação química:\n\nC (s) + O₂ (g) → CO₂ (g) ∆H = −400 kJ/mol",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a massa de CO₂, em toneladas, que deixa de ser\nliberada na atmosfera, para cada 100 g de pastilhas de\nurânio enriquecido utilizadas em substituição ao carvão\ncomo fonte de energia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,70",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "300",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

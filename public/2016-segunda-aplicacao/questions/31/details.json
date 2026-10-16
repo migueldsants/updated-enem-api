@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2016 - Segunda aplicação",
+    "index": 31,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O processo de justiça é um processo ora de\ndiversificação do diverso, ora de unificação do idêntico.\nA igualdade entre todos os seres humanos em relação\naos direitos fundamentais é o resultado de um processo\nde gradual eliminação de discriminações e, portanto,\nde unificação daquilo que ia sendo reconhecido como\nidêntico: uma natureza comum do homem acima de\nqualquer diferença de sexo, raça, religião etc.\n\nBOBBIO, N. Teoria geral da política: afilosofia política e as lições dos clássicos.\nRio de Janeiro: Campus, 2000.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o texto, a construção de uma sociedade\ndemocrática fundamenta-se em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A norma estabelecida pela disciplina social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A pertença dos indivíduos à mesma categoria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A ausência de constrangimentos de ordem pública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A debilitação das esperanças na condição humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A garantia da segurança das pessoas e valores sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

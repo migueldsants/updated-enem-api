@@ -1,0 +1,43 @@
+{
+    "title": "Questão 85 - ENEM 2022 - Digital",
+    "index": 85,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nManda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou\ncondição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o\ncentro das ruas, que vão da Inquisição a São Domingos, nem atravesse a procissão em\nponto algum da ida ou da volta, amanhã, 19 do corrente, em que se celebrará auto de fé.\nE também que nem nesse dia nem nos dos açoites ouse alguém atirar nos réus maçãs,\npedras, laranjas nem outra coisa qualquer.\n\nPALMA, R. Anais da Inquisição de Lima. São Paulo: Edusp; Giordano, 1992 (adaptado).\n\nTEXTO II\n\nComo acontece em todos os ritos, o sentido do auto da fé é conferido pela sequência\ndos atos que o compõem. Os lugares, as posturas, os gestos, as palavras são fixados\npreviamente em toda a sua complexidade. Por isso, o auto da fé apresenta momentos\nfortes — durante a preparação, a encenação, o ato e a recepção — que convém seguir\nem seus pormenores.\n\nBETHENCOURT, F. História das Inquisições: Portugal, Espanha e Itália – séculos XV-XIX.\nSão Paulo: Cia. das Letras, 2000.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O rito mencionado nos textos demonstra a capacidade da Igreja em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "abrandar cerimônias de punição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "favorecer anseios de violência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criticar políticas de disciplina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produzir padrões de conduta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ordenar cultos de heresia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

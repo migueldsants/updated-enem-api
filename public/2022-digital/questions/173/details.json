@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2022 - Digital",
+    "index": 173,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras\nque devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa\na mediana da quantidade de crianças por família existente na região sob sua\nresponsabilidade. O quadro mostra a distribuição das frequências do número de crianças\npor família na região de responsabilidade de uma UBS.\n\n![](https://enem.dev/2022-digital/questions/173/e8ce5b11-798b-4f67-9f35-0ff2794021cd.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/173/e8ce5b11-798b-4f67-9f35-0ff2794021cd.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número que representa a mediana da quantidade de crianças por família nessa\nregião é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2012 - Reaplicação",
+    "index": 41,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A sociedade em movimento tem gestado algumas\nalternativas. Surgem novas experiências de luta no\ncampo, nas quais os movimentos sociais têm buscado\nformas para permanecer na terra, afirmando sua\nterritorialidade. Estes novos sujeitos sociais, de que são\nexemplo os seringueiros no Acre e as quebradeiras de\ncoco no Maranhão, Pará, Tocantins e Piauí, têm lutado\npor seu reconhecimento, chegando em certos casos a\nobter mudanças na legislação.\n\nMARQUES, M. O conceito de espaço rural em questão.\nSão Paulo: Terra Livre, ano 18, v. 2, jul./dez. 2002.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o debate apresentado no texto, e visando\nà permanência digna no campo, a organização social e\npolítica dos seringueiros busca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a implementação de estratégias de geração de emprego e renda apoiadas na automação produtiva de ponta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a efetivação de políticas públicas para a preservação das florestas como condição de garantia de sustentabilidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a distribuição de grandes extensões de terra com financiamentos voltados à produção agroindustrial em larga escala.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o estímulo à implantação generalizada de indústrias do setor de papel e celulose focadas na Amazônia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o aprofundamento de políticas governamentais que potencializem os fluxos sociais para as cidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Questão 146 - ENEM 2015 - Reaplicação",
+    "index": 146,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O banheiro de uma escola pública, com paredes\ne piso em formato retangular, medindo 5 metros de\nlargura, 4 metros de comprimento e 3 metros de altura,\nprecisa de revestimento no piso e nas paredes internas,\n\n![](https://enem.dev/2015-reaplicacao/questions/146/368d9e9a-08f4-402f-8de4-5b7e8932c040.png)\n\nexcluindo a área da porta, que mede 1 metro de largura\npor 2 metros de altura. Após uma tomada de preços\ncom cinco fornecedores, foram verificadas as seguintes\ncombinações de azulejos para as paredes e de lajotas\npara o piso, com os preços dados em reais por metro\n\n![](https://enem.dev/2015-reaplicacao/questions/146/28939103-9076-45c6-990b-3431b73d6fa5.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/146/4e563e99-8110-4582-ab8b-a5bceb6fcf3b.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/146/71166feb-340b-4cc1-828f-96c5e094a85b.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/146/368d9e9a-08f4-402f-8de4-5b7e8932c040.png",
+        "https://enem.dev/2015-reaplicacao/questions/146/28939103-9076-45c6-990b-3431b73d6fa5.png",
+        "https://enem.dev/2015-reaplicacao/questions/146/4e563e99-8110-4582-ab8b-a5bceb6fcf3b.png",
+        "https://enem.dev/2015-reaplicacao/questions/146/71166feb-340b-4cc1-828f-96c5e094a85b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Desejando-se efetuar a menor despesa total, deverá ser\nescolhido o fornecedor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

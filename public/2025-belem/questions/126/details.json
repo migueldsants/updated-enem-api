@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 126,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns aparelhos do nosso cotidiano, como TVs e drones, são operados a distância por controle remoto. A diferença no\nsistema de controle desses aparelhos se dá em relação à radiação emitida, pois, nas TVs, o acionamento do controle remoto\ndeve ser realizado a uma curta distância e o sistema receptor de sinal não pode estar obstruído. Por outro lado, nos drones,\no sistema de controle funciona a distâncias relativamente grandes, da ordem de alguns quilômetros.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O acionamento dos equipamentos citados corresponde à emissão de ondas, respectivamente, nas regiões",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "visível e raios X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rádio e ultravioleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ultravioleta e visível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "infravermelho e rádio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "raios X e infravermelho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

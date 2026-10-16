@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2015 - Reaplicação",
+    "index": 113,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Telecommuting redefine o tradicional entendimento\nsobre o espaço de trabalho. Atualmente, as organizações\nestão se focando em novos valores, tais como, inovações,\nsatisfação, responsabilidades, resultados e ambiente\nde trabalho familiar. A alternativa do telecommuting\ncomplementa esses princípios e oferece flexibilidade\naos patrões e empregados. É um conceito novo que, a\ncada dia, ganha mais força ao redor do mundo. Grandes\nempresas escolheram o trabalho de telecommuting pelas\nfacilidades que ele gera para o empregador. A implantação\ndo telecommuting determina regras para se trabalhar\n\n2015\n\nem casa em dias específicos da semana e, nos demais\ndias, trabalhar no escritório. O local de trabalho pode\nser a casa ou, temporariamente, por motivo de viagem,\noutros escritórios.\n\nFERREIRA JR., J.C. Disponível em: www.ccuec.unicamp.br. Acesso em: 1 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com o advento das novas tecnologias, a sociedade tem\nvivenciado mudanças de paradigmas em vários setores.\nNesse sentido, o telecommuting traz novidades para o\nmundo do trabalho porque proporciona prioritariamente\no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento da produtividade do empregado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "equilíbrio entre vida pessoal e profissional do trabalhador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fortalecimento da relação entre empregador e empregado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "participação do profissional nas decisões da organização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "maleabilidade dos locais de atuação do profissional da empresa.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2020 - Digital",
+    "index": 130,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alterações no genoma podem ser ocasionadas por falhas nos mecanismos de cópia e\nmanutenção do DNA, que ocorrem aleatoriamente. Assim, a cada ciclo de replicação do DNA,\nexiste uma taxa de erro mais ou menos constante de troca de nucleotídeos, independente da\nespécie. Partindo-se desses pressupostos, foi construída uma árvore filogenética de alguns\nmamíferos, conforme a figura, na qual o comprimento da linha horizontal é proporcional ao\ntempo de surgimento da espécie a partir de seu ancestral mais próximo.\n\n![](https://enem.dev/2020-digital/questions/130/5465160b-a603-499a-9691-8018ae4a9600.png)\n\nALBERTS, B. et al. Biologia molecular da célula. Nova York: Garland Publisher, 2008.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/130/5465160b-a603-499a-9691-8018ae4a9600.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual espécie é geneticamente mais semelhante ao seu ancestral mais próximo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cavalo",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ovelha",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Veado",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Porco",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vaca",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

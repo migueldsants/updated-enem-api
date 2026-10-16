@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2016 - Segunda aplicação",
+    "index": 51,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Companheira viajante\n\nSuavemente revelada? Bem no interior de nossas\ncélulas, uma clandestina e estranha alma existe.\nSilenciosamente, ela trama e aparece cumprindo seus\nafazeres domésticos cotidianos, descobrindo seu nicho\nespecial em nossa fogosa cozinha metabólica, mantendo\nentropia em apuros, em ciclos variáveis noturnos e\ndiurnos. Contudo, raramente ela nos acende, apesar\nde sua fornalha consumi-la. Sua origem? Microbiana,\nsupomos. Julga-se adaptada às células eucariontes,\nconsiderando-se como escrava — uma serva a serviço\nde nossa verdadeira evolução.\n\nMcMURRAY, W. C. The traveler. Trends in Biochemical Sciences, 1994 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A organela celular descrita de forma poética no texto é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "centríolo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "lisossomo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mitocôndria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "complexo golgiense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retículo endoplasmático liso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

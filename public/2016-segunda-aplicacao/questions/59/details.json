@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2016 - Segunda aplicação",
+    "index": 59,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Suponha que uma doença desconhecida esteja\ndizimando um rebanho bovino de uma cidade e alguns\nveterinários tenham conseguido isolar o agente causador\nda doença, verificando que se trata de um ser unicelular\ne procarionte.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para combater a doença, os veterinários devem\nadministrar, nos bovinos contaminados,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vacinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "antivirais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fungicidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "vermífugos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "antibióticos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

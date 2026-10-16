@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2016 - Segunda aplicação",
+    "index": 5,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nDezenas de milhares de pessoas compareceram\nà maior manifestação anti-troika (Comissão Europeia,\nBanco Central Europeu e FMI) em Atenas contra a\nausteridade e os cortes de gastos públicos aprovados\nneste domingo no parlamento grego.\n\nDisponível em: www.cartamaior.com.br. Acesso em: 8 nov. 2013.\n\nTEXTO II\n\nAs políticas de austeridade transferem o ônus\neconômico para as classes trabalhadoras. Para diminuir\nos prejuízos do capital financeiro, socializam as perdas\nentre as classes trabalhadoras. O capitalismo não foi\ncapaz de integrar os trabalhadores e ao mesmo tempo\nprotegê-los.\n\nEntrevista com Ruy Braga. Revista IHU online. Disponível em: www.ihu.unisinos.br.\nAcesso em: 8 nov. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Diante dos fatos e da análise apresentados, a política\neconômica e a demanda popular correlacionada\nencontram-se, respectivamente, em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "controle da dívida interna e implementação das regras patronais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "afrouxamento da economia de mercado e superação da lógica individualista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aplicação de plano desenvolvimentista e afirmação das conquistas neoliberais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "defesa dos interesses corporativos do capital e manutenção de direitos sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "mudança na estrutura do sistema produtivo e democratização do acesso ao trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

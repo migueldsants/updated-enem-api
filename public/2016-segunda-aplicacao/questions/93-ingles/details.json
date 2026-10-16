@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2016 - Segunda aplicação",
+    "index": 93,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Mauritius: gender roles and statuses\nDivision of Labor by Gender. The economic success\nof industry has led to low unemployment rates. This has\nchanged the workplace and home life as women joined the\nworkforce. This industrialization also led to women being\npromoted faster. According to the Minister of Women,\nFamily Welfare, and Child Development, a quarter of all\nmanagers are now women.\n\nWomen are the traditional homekeepers of the society.\nBetween 1985 and 1991 the number of women working\noutside the home increased from 22 percent to 41 percent.\nWith that trend continuing, hired housekeeping and child\ncare have become relatively new and important industries.\n\nThe Relative Status of Women and Men. Historically,\nwomen have had subordinate roles in Mauritian\nsociety. However, the Constitution specifically prohibits\ndiscrimination based on sex, and women now have access\nto education, employment, and governmental services.\n\nIn March 1998 the Domestic Violence Act was passed.\nThis gave greater protection and legal authority to combat\ndomestic abuse. In that same year it also became a crime\nto abandon one’s family or pregnant spouse for more\nthan two months, not to pay food support, or to engage in\nsexual harassment.\n\nWomen are underrepresented in the government. The\nNational Assembly has seventy seats, of which women\nhold five.\n\nDisponível em: www.everyculture.com. Acesso em: 4 fev. 2013.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Questões como o papel de homens e mulheres na\nsociedade contemporânea vêm sendo debatidas de\ndiferentes pontos de vista, influenciados por valores\nculturais específicos de cada sociedade. No caso das\nIlhas Maurício, esses valores sustentam a tomada de\ndecisão em torno da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "importância do reconhecimento da presença feminina na estrutura familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "manutenção da igualdade entre mulheres e homens no trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "proteção legal da mulher contra atos discriminatórios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "representatividade da mulher em cargos políticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "criação de auxílio à mulher abandonada pelo cônjuge.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

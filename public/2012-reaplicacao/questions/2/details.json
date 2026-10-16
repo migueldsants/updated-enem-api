@@ -1,0 +1,46 @@
+{
+    "title": "Questão 2 - ENEM 2012 - Reaplicação",
+    "index": 2,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 1937, Guernica, na Espanha, foi bombardeada\nsob o comando da força aérea da Alemanha nazista, que\napoiou os franquistas durante a Guerra Civil Espanhola\n\n![](https://enem.dev/2012-reaplicacao/questions/2/ce653cb5-d8c9-4e6f-8818-e1b103c46ed2.png)\n\nPICASSO, P. Guernica. Pintura-mural. Disponível em: www.museoreinasofia.es.\n\n![](https://enem.dev/2012-reaplicacao/questions/2/11a9ee1e-ba2b-4a51-ac9b-14706567c5ae.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/2/ce653cb5-d8c9-4e6f-8818-e1b103c46ed2.png",
+        "https://enem.dev/2012-reaplicacao/questions/2/11a9ee1e-ba2b-4a51-ac9b-14706567c5ae.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A pintura-mural de Picasso e a fotografia retratam os\nefeitos do bombardeio, ressaltando, respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Crítica social – conformismo político.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Percepção individual – registro histórico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Realismo acrítico – idealização romântica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sofrimento humano – destruição material.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Objetividade artística – subjetividade jornalística.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

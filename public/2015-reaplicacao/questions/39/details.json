@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2015 - Reaplicação",
+    "index": 39,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A razão principal que leva o capitalismo como sistema\na ser tão terrivelmente destrutivo da biosfera é que, na\nmaioria dos casos, os produtores que lucram com a\ndestruição não a registram como um custo de produção,\nmas sim, precisamente ao contrário, como uma redução\nno custo. Por exemplo, se um produtor joga lixo em um rio,\npoluindo suas águas, esse produtor considera que está\neconomizando o custo de outros métodos mais seguros,\nporém mais caros de dispor do lixo.\n\nWALLERSTEIN, I. Utopística ou as decisões históricas do século vinte e um.\nPetrópolis: Vozes, 2003.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A pressão dos movimentos socioambientais, na tentativa\nde reverter a lógica descrita no texto, aponta para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "emergência de um sistema econômico global que secundariza os lucros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução dos custos de tratamento de resíduos pela isenção fiscal das empresas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "flexibilização do trabalho como estratégia positiva de corte de custos empresariais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "incorporação de um sistema normativo ambiental no processo de produção industrial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "minimização do papel do Estado em detrimento das organizações não governamentais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

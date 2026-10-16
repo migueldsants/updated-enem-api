@@ -1,0 +1,45 @@
+{
+    "title": "Questão 68 - ENEM 2022 - Digital",
+    "index": 68,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nA Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente\ninsubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas\npelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela\nOrganização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua\nconsciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas\ninstituições estatais.\n\nTEXTO II\n\n![](https://enem.dev/2022-digital/questions/68/de88f8ee-a224-41b7-beb0-9dfa98c75b90.png)\n\nCECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/68/de88f8ee-a224-41b7-beb0-9dfa98c75b90.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As preocupações do governo estadunidense expressas no texto e no mapa evidenciam\numa estratégia para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "compartilhamento de inovações tecnológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "promoção de independência financeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incremento de intercâmbios culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ampliação de influência econômica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "preservação de recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

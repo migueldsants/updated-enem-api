@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 175,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para realizar uma brincadeira, foram utilizadas 4 caixas\nnumeradas de 1 a 4 contendo, cada uma, a mesma quantidade\nde objetos. Em cada rodada dessa brincadeira, 2 objetos da\nCaixa 1 são transferidos para a Caixa 2; 2 dessa caixa são\ntransferidos para a Caixa 3, e 2 dessa terceira caixa são transferidos\npara a Caixa 4. Após 3 dessas rodadas, a Caixa 4 continha 30 objetos.\nApós as 3 rodadas, quantos objetos havia na Caixa 1?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "22",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

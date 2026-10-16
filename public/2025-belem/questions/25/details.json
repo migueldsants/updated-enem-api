@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 25,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025-belem/questions/25/02d3cdb9-ab79-4b00-b39b-22d050c4cf9e.png)\n\nAcesso em: 18 set. 2024.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/25/02d3cdb9-ab79-4b00-b39b-22d050c4cf9e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pela análise de seu conteúdo, constata-se que esse texto tem\ncomo função social",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estimular o acolhimento estudantil pela comunidade escolar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "propor reflexão sobre o trabalho desenvolvido pelas escolas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "conscientizar sobre a importância das disciplinas básicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promover atividades de caráter psicossocial nas escolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "instruir a população sobre as propostas de inclusão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

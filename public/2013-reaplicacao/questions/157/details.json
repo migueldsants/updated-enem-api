@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2013 - Reaplicação",
+    "index": 157,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica utiliza sua frota particular de caminhões\npara distribuir as 90 toneladas de sua produção semanal.\nTodos os caminhões são do mesmo modelo e, para\naumentar a vida útil da frota, adota-se a política de reduzir\na capacidade máxima de carga de cada caminhão em\nmeia tonelada. Com essa medida de redução, o número\nde caminhões necessários para transportar a produção\nsemanal aumenta em 6 unidades em relação ao número\nde caminhões necessários para transportar a produção,\nusando a capacidade máxima de carga de cada caminhão.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é o número atual de caminhões que essa fábrica usa\npara transportar a produção semanal, respeitando-se a\npolítica de redução de carga?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "36",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "19",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

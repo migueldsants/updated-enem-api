@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2014 - Terceira aplicação",
+    "index": 12,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "EVOLUÇÃO DO NÚMERO DE GREVES NO BRASIL DOS ANOS 1980\n1985 1986 1987 1988 1989 1990 1991 1992\nGreve 664 1 052 1 101 888 2 193 1 952 1 118 623\nGrevistas (milhões) 6 194 5 757 9 015 7 426 16 597 9 805 7 528 2 819\nHoras paradas (mil) 384 347 821 568 1 296 771 679 141\n\nDIEESE; CNM. Relatório de pesquisa: perfil das plantas automobilísticas, 2000.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As razões da intensificação da ação grevista exercida pelos trabalhadores, durante a segunda metade da década de\n1980, deveram-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ao avanço das políticas neoliberais no país, que promoveu a liberalização dos mercados e privatizações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ao plano Collor, que congelou os preços, com vistas a barrar a elevada inflação no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à crise no sindicalismo no Brasil, tal como ocorria em diversos países europeus nesta década.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à fragilidade social após 1985, decorrente do longo período da ditadura militar, que conteve a ação organizativa dos trabalhadores brasileiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "às conjunturas econômica e política do Brasil, em especial à ampliação da capacidade organizativa dos trabalhadores, à inflação e ao arrocho salarial.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 141 - ENEM 2013 - Reaplicação",
+    "index": 141,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fabricante de bebidas, numa jogada de marketing,\nquer lançar no mercado novas embalagens de latas de\nalumínio para os seus refrigerantes. As atuais latas de\n350 mL devem ser substituídas por uma nova embalagem\ncom metade desse volume, conforme mostra a figura:\n\n![](https://enem.dev/2013-reaplicacao/questions/141/f8dc636f-0e90-4047-9414-3f1e7541baca.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/141/f0d26e17-db1d-4fb2-bd55-b4edb74c710e.png)\n\n350 mL 175 mL",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/141/f8dc636f-0e90-4047-9414-3f1e7541baca.png",
+        "https://enem.dev/2013-reaplicacao/questions/141/f0d26e17-db1d-4fb2-bd55-b4edb74c710e.png",
+        "https://enem.dev/2013-reaplicacao/questions/141/66706abc-fe29-4eed-b90f-4e1be980d6fe.png",
+        "https://enem.dev/2013-reaplicacao/questions/141/c386d9b9-4d4c-4821-86a4-97c0a56a1411.png",
+        "https://enem.dev/2013-reaplicacao/questions/141/68781152-8c97-4b98-b5cb-9f0654d35e70.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com os dados anteriores, qual a relação entre o\nraio r’ da embalagem de 175 mL e o raio r da embalagem\nde 350 mL?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/141/66706abc-fe29-4eed-b90f-4e1be980d6fe.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/141/c386d9b9-4d4c-4821-86a4-97c0a56a1411.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "r’ = r",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "r’ = 2r",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/141/68781152-8c97-4b98-b5cb-9f0654d35e70.png",
+            "isCorrect": false
+        }
+    ]
+}

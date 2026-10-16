@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2014 - Terceira aplicação",
+    "index": 16,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É importante não confundir moralidade — certo\ne errado — com lei. É claro que a moralidade e a lei\nmuitas vezes coincidem. Por exemplo, roubar e matar\né moralmente errado. Também é contra a lei. Mas a\nmoralidade e a lei não precisam coincidir.\n\nLAW, S. Os arquivos filosóficos. São Paulo: Martins Fontes, 2003.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quando há discordância entre moralidade e legalidade na\nsociedade, ocorre a existência de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma legalidade laica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "leis fundadas em valores morais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ações ilegais como sendo imorais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "leis injustas na sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "normas que opõem lei e justiça.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

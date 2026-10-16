@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2020 - Digital",
+    "index": 22,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Caso pluvioso\n\nA chuva me irritava. Até que um dia\ndescobri que maria é que chovia.\n\nA chuva era maria. E cada pingo\nde maria ensopava o meu domingo.\n\nE meus ossos molhando, me deixava\ncomo terra que a chuva lavra e lava.\n\nE eu era todo barro, sem verdura...\nmaria, chuvosíssima criatura!\n\nEla chovia em mim, em cada gesto,\npensamento, desejo, sono, e o resto.\n\nEra chuva fininha e chuva grossa,\nMatinal e noturna, ativa... Nossa!\n\nANDRADE, C. D. Viola de bolso. Rio de Janeiro: José Olympio, 1952 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se a exploração das palavras “maria” e “chuvosíssima” no poema, conclui-se\nque tal recurso expressivo é um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "registro social típico de variedades regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "variante particular presente na oralidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inovação lexical singularizante da linguagem literária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "marca de informalidade característica do texto literário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "traço linguístico exclusivo da linguagem poética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

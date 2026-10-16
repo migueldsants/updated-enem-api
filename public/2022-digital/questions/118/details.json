@@ -1,0 +1,50 @@
+{
+    "title": "Questão 118 - ENEM 2022 - Digital",
+    "index": 118,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz\num campo magnético. A presença do campo magnético foi verificada ao aproximar uma\nbússola de um fio conduzindo corrente elétrica. A figura ilustra um fio percorrido por uma\ncorrente elétrica i, constante e com sentido para cima. Os pontos\nplano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.\n\nA\n\n![](https://enem.dev/2022-digital/questions/118/12dd0cfb-9694-4e36-b09b-8450aa3df2c0.png)\n\nB C",
+    "files": [
+        "https://enem.dev/2022-digital/questions/118/12dd0cfb-9694-4e36-b09b-8450aa3df2c0.png",
+        "https://enem.dev/2022-digital/questions/118/22a0d5d7-27cf-491a-9444-4e652c763019.png",
+        "https://enem.dev/2022-digital/questions/118/3f335df3-ef4f-44f4-b852-726d644d264a.png",
+        "https://enem.dev/2022-digital/questions/118/ab6479eb-901b-45c4-a954-e1e3998ac095.png",
+        "https://enem.dev/2022-digital/questions/118/cb0e71a4-d006-4c10-9faf-f8f38ddae8b1.png",
+        "https://enem.dev/2022-digital/questions/118/ce25be4f-7134-4eaf-a8e9-f4ffd79b38ad.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando apenas o campo magnético\nconfigurações das bússolas nos pontos A, B",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/118/22a0d5d7-27cf-491a-9444-4e652c763019.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/118/3f335df3-ef4f-44f4-b852-726d644d264a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/118/ab6479eb-901b-45c4-a954-e1e3998ac095.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/118/cb0e71a4-d006-4c10-9faf-f8f38ddae8b1.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/118/ce25be4f-7134-4eaf-a8e9-f4ffd79b38ad.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2021 - Digital",
+    "index": 134,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O sino dos ventos é composto por várias barras metálicas de mesmo material e\nespessura, mas de comprimentos diferentes, conforme a figura.\n\n![](https://enem.dev/2021-digital/questions/134/a4b3e5b4-141a-4e0c-bdd0-ed48e2733d35.png)\n\nConsidere f₁ e v , respectivamente, como a frequência fundamental e a velocidade₁\nde propagação do som emitido pela barra de menor comprimento, e f₂ e v₂ são essas\nmesmas grandezas para o som emitido pela barra de maior comprimento.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/134/a4b3e5b4-141a-4e0c-bdd0-ed48e2733d35.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As relações entre as frequências fundamentais e entre as velocidades de propagação\nsão, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "f₁ < f₂ e v₁ < v .₂",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "f₁ < f₂ e v₁ = v .₂",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "f₁ < f₂ e v₁ > v .₂",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "f₁ > f₂ e v₁ = v .₂",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "f₁ > f₂ e v₁ > v .₂",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

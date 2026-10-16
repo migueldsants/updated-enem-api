@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 97,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A vazão do Rio Tietê na capital paulista aumentou de 174 m³/s no início do século XX para mais de 1 000 m³/s na primeira\ndécada do século XXI. O rebaixamento da calha foi uma obra concluída em 2005 que alargou o rio em até 30 m e o aprofundou\nem 2,5 m na região metropolitana. Mesmo assim, São Paulo ainda sofre com os problemas das enchentes.\n\nGoverno de SP deixou de limpar o Rio Tietê por quase três anos. Disponível em: http://noticias.uol.com.br. Acesso em: 13 nov. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse problema vem ocorrendo em outros centros urbanos e tem como causa comum o aumento da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "industrialização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "transposição de rios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "área de solo impermeabilizado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "descarga de resíduos químicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "eutrofização de ambientes aquáticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

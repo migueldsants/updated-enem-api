@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2015 - Reaplicação",
+    "index": 101,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "E: Diva ... tem algumas ... alguma experiência pessoal\nque você passou e que você poderia me contar ... alguma\ncoisa que marcou você? Uma experiência ... você poderia\ncontar agora …\n\nI: É ... tem uma que eu vivi quando eu estudava o\nterceiro ano científico lá no Atheneu ... né ... é:: eu gostava\nmuito do laboratório de química ... eu ... eu ia ajudar os\nprofessores a limpar aquele material todo ... aqueles vidros\n... eu achava aquilo fantástico ... aquele monte de coisa ...\nné ... então ... todos os dias eu ia ... quando terminavam\nas aulas eu ajudava o professor a limpar o laboratório ...\nnesse dia não houve aula e o professor me chamou pra\nfazer uma limpeza geral no laboratório ... chegando lá\n... ele me fez uma experiência ... ele me mostrou uma\ncoisa bem interessante que ... pegou um béquer com\nmeio d’água e colocou um pouquinho de cloreto de sódio\npastoso ... então foi aquele fogaréu desfilando ... aquele\nfogaréu ... quando o professor saiu ... eu chamei umas\nduas colegas minhas pra mostrar a experiência que eu\ntinha achado fantástico ... só que ... eu achei o seguinte ...\nse o professor colocou um pouquinho ... foi aquele desfile\n... imagine se eu colocasse mais ... peguei o mesmo\nbéquer ... coloquei uma colher ... uma colher de cloreto\nde sódio ... foi um fogaréu tão grande ... foi uma explosão\n... quebrou todo o material que estava exposto em cima\nda mesa ... eu branca ... eu fiquei ... olha ... eu pensei que\neu fosse morrer sabe ... quando ... o colégio inteiro correu\npro laboratório pra ver o que tinha sido ...\n\nCUNHA, M. A. F. (Org.) . Corpus discurso & gramática: a língua falada e\nescrita na cidade de Natal. Natal: EdUFRN, 1998.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na transcrição de fala, especialmente, no trecho “eu\nbranca ... eu fiquei ... olha ... eu pensei que eu fosse\nmorrer sabe...”, há uma estrutura sintática fragmentada,\nembora facilmente interpretável. Sua presença na fala\nrevela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "distração e poucos anos de escolaridade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "falta de coesão e coerência na apresentação das ideias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "afeto e amizade entre os participantes da conversação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desconhecimento das regras de sintaxe da norma padrão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "característica do planejamento e execução simultânea desse discurso.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2014 - Reaplicação",
+    "index": 96,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Interfaces\n\nUm dos mais importantes componentes do hipertexto\né a sua interface. As interfaces permitem a visualização\ndo conteúdo, determinam o tipo de interação que se\nestabelece entre as pessoas e a informação, direcionando\nsua escolha e o acesso ao conteúdo.\n\nO hipertexto retoma e transforma antigas interfaces\nda escrita (a noção de interface não deve ser limitada às\ntécnicas de comunicação contemporânea). Constitui-se,\nna verdade, em uma poderosa rede de interfaces que se\nconectam a partir de princípios básicos e que permitem\numa “interação amigável”.\n\nAs particularidades do hipertexto virtual, como sua\ndinamicidade e seus aspectos multimidiáticos, devem-\nse ao seu suporte ótico, magnético, digital e à sua\ninterface amigável. A influência do hipertexto é tanta,\nque as representações de tipo cartográfico ganham\ncada vez mais importância nas tecnologias intelectuais\nde suporte informático.\n\n![](https://enem.dev/2014-reaplicacao/questions/96/d1175c74-0663-4f4c-b026-09114b65742b.png)\n\nEsta influência também é devida ao fato de a memória\nhumana, segundo estudos da psicologia cognitiva,\ncompreender e reter melhor as informações organizadas,\nespecialmente em diagramas e em mapas conceituais\nmanipuláveis. Por isso, imagina-se que o hipertexto deva\nfavorecer o domínio mais rápido e fácil das informações,\nem contraponto a um audiovisual tradicional, por exemplo.\n\nDisponível em: vsites.unb.br. Acesso em: 1 ago. 2012.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/96/d1175c74-0663-4f4c-b026-09114b65742b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto informa como as interfaces são reaproveitadas\npelo hipertexto virtual, influenciando as tecnologias de\ninformação e comunicação. De acordo com o texto, qual\né a finalidade do uso do hipertexto quanto à absorção e\nmanipulação das informações?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mesclar antigas interfaces com mecanismos virtuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Auxiliar os estudos de psicologia cognitiva com base nos hipertextos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Amparar a pesquisa de mapas e diagramas relacionados à cartografia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Salientar a importância das tecnologias de informação e comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ajudar na apreensão das informações de modo mais eficaz e facilitado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

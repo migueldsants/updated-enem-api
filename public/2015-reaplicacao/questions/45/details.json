@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2015 - Reaplicação",
+    "index": 45,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Falava-se, antes, de autonomia da produção para\nsignificar que uma empresa, ao assegurar uma produção,\nbuscava também manipular a opinião pela via da\npublicidade. Nesse caso, o fato gerador do consumo seria\na produção. Mas, atualmente, as empresas hegemônicas\nproduzem o consumidor antes mesmo de produzirem\nos produtos. Um dado essencial do entendimento do\nconsumo é que a produção do consumidor, hoje, precede\na produção dos bens e dos serviços.\n\nSANTOS, M. Por uma outra globalização: do pensamento único à consciência universal.\nRio de Janeiro: Record, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O tipo de relação entre produção e consumo discutido no\ntexto pressupõe o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento do poder aquisitivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estímulo à livre concorrência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criação de novas necessidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "formação de grandes estoques.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "implantação de linhas de montagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

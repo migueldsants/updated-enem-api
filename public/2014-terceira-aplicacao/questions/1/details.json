@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2014 - Terceira aplicação",
+    "index": 1,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/1/1eae0c26-c86c-4735-ae9d-4ce466a374dd.png)\n\nZIRALDO. 20 anos de prontidão. In: LEMOS, R. Org. Uma História do Brasil através da\ncaricatura 1840-2001. Rio de Janeiro: Letras e Expressões, 2001.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/1/1eae0c26-c86c-4735-ae9d-4ce466a374dd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na charge, Ziraldo ironiza um lema adotado pelo governo\nMédici 1969-1974 , denunciando que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os exilados foram expulsos porque não tinham amor à pátria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o caminho para os movimentos de oposição era a fuga do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o amor à pátria era um sentimento desprezado pelo regime militar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a propaganda governamental ocultava a postura autoritária do regime.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a passividade do povo brasileiro era prejudicial ao desenvolvimento da nação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

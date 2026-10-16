@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 120,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A seleção natural pode alterar a distribuição da frequência de caracteres herdáveis de várias maneiras. Essa alteração\nacontece a partir dos fenótipos e, consequentemente, genótipos, que devem ser favorecidos em uma dada população. Entre os\ntipos de seleção, há um tipo cujos critérios ambientais levam à redução dos organismos que apresentam os fenótipos extremos,\npreservando os fenótipos intermediários em casos de herança por dominância completa.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O efeito dessa seleção nessa população implicará o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "permanência de fenótipos recessivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "escolha de fenótipos aleatoriamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "predominância de genótipos heterozigotos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumento de indivíduos com genótipos homozigotos dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "crescimento da frequência de genótipos homozigotos recessivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

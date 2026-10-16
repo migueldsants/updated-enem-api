@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2016 - Reaplicação",
+    "index": 121,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O mistério do brega\n\nFamoso no seu tempo, o marechal Schönberg\n(1615-90) ditava a moda em Lisboa, onde seu nome foi\naportuguesado para Chumbergas. Consta que ele foi\nresponsável pela popularização dos vastos bigodes tufados\nna Metrópole. Entre os adeptos estaria o governador\nda província de Pernambuco, o português Jerônimo de\nMendonça Furtado, que, por isso, aqui ganhou o apelido de\nChumbregas – variante do aportuguesado Chumbergas.\nTalvez por ser um homem não muito benquisto na Colônia,\no apelido deu origem ao adjetivo xumbrega: “coisa ruim”,\n“ordinária”. E talvez por ser um homem também da folia,\nsurgiu o verbo xumbregar, que inicialmente teve o sentido\nde “embriagar-se” e depois veio a adquirir o de “bolinar”,\n“garanhar”. Dedução lógica: de coisa ruim a bebedeira\ne atos libidinosos, as palavras xumbrega ou xumbregar\nchegaram aos anos 60 do século XX na forma reduzida\nbrega, designando locais onde se bebe, se bolina e\nse ouvem cantores cafonas. E o que inicialmente era\nsubstantivo, “música de brega”, acabou virando adjetivo,\n“música brega” – numa já distante referência a um certo\nmarechal alemão chamado Schönberg.\n\nARAÚJO, P. C. Revista USP, n. 87, nov. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto trata das mudanças linguísticas que resultaram\nna palavra “brega”. Ao apresentar as situações cotidianas\nque favoreceram as reinterpretações do seu sentido\noriginal, o autor mostra a importância da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "interação oral como um dos agentes responsáveis pela transformação do léxico do português.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "compreensão limitada de sons e de palavras para a criação de novas palavras em português.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "eleição de palavras frequentes e representativas na formação do léxico da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "interferência da documentação histórica na constituição do léxico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "realização de ações de portugueses e de brasileiros a fim de padronizar as variedades linguísticas lusitanas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

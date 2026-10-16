@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2014 - Terceira aplicação",
+    "index": 22,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As consequências da crise na zona do euro só\nestão começando para a maioria dos países. Em 2008,\nperseguindo maior competitividade, a França já havia\neliminado o limite de 35 horas semanais de trabalho\nno país. As empresas também têm endurecido nas\nnegociações com os sindicatos, a fim de cortar gastos com\nmão de obra. As economias dos países mais encrencados\nsão também as mais “pesadas” em termos de custo de\nmão de obra e as menos produtivas da Europa.\n\nFolha de São Paulo, 11 dez. 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A crise na zona do euro já apresenta impactos no trabalho\ne na produção, em função da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "necessidade de reestruturação empresarial para diminuir o custo produtivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "transferência de recursos financeiros para os países com maior viabilidade econômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "influência das organizações trabalhistas para aprimorar a gestão eficiente do capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminuição das horas trabalhadas semanalmente para adaptação à nova dinâmica de mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "redução do investimento na capacitação profissional para diminuir o custo da mão de obra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

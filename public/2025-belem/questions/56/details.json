@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 56,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A imigração espanhola cresceu acentuadamente quando a\nimigração italiana subvencionada foi dificultada e quando uma\nproporção muito alta de italianos começou a deixar São Paulo,\nentre o fim do século XIX e o começo do século XX, na maior parte\ndos casos, para retornar à Itália ou para reemigrar a outros países.\nNa sua maioria, os imigrantes espanhóis eram camponeses que\nchegaram ao Brasil com a família, imigrando em definitivo, indo\ndiretamente para o interior, para as fazendas, na maioria realmente\npobres, cuja viagem fora subvencionada pelo governo brasileiro.\n\nMARTINS, J. S. O cativeiro da terra. São Paulo: Contexto, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Conforme o texto, a ação do Estado buscou solucionar um\nproblema gerado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eliminação da arrecadação fiscal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estagnação da produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "extinção do comércio escravagista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "implantação do trabalho assalariado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminuição da mão de obra disponível.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

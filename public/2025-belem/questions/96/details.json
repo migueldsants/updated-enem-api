@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 96,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As temperaturas nas regiões urbanas e rurais de uma mesma cidade podem diferir significativamente. Isso ocorre,\nprincipalmente, pela diferença entre os níveis de irradiação térmica das duas regiões. Considerando que o nível de irradiação\ntérmica nas regiões urbanas pode até mesmo superar o valor percentual de 95%, uma opção viável para minimizar esse processo\ne melhorar o conforto térmico no interior das residências consiste em pintar o telhado com tinta branca.\nEssa opção é viável porque reduz a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "capacidade térmica do material.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "convecção térmica abaixo do telhado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reflexão da radiação solar pelo telhado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "absorção de radiação solar pelo telhado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "condução térmica através da superfície do telhado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

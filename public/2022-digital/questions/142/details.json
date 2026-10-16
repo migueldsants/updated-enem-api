@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2022 - Digital",
+    "index": 142,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2022-digital/questions/142/f1434d3d-9bc5-4f08-a576-884d95cc1e55.png)\n\n• modelo II: o dobro da profundidade e a metade da área da base do modelo I;\n\n• modelo III: o dobro da profundidade e a metade do raio da base do modelo I;\n\n• modelo IV: a metade da profundidade e o dobro da área da base do modelo I;\n\n• modelo V: a metade da profundidade e o dobro do raio da base do modelo I.\n\nUma pessoa pretende comprar nessa loja o modelo de caixa-d’água que ofereça a\nmaior capacidade volumétrica.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/142/f1434d3d-9bc5-4f08-a576-884d95cc1e55.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O modelo escolhido deve ser o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

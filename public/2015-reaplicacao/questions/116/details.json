@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2015 - Reaplicação",
+    "index": 116,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Além da Revolução da Informação\nO impacto da Revolução da Informação está\napenas começando. Mas a força motriz desse impacto\nnão é a informática, a inteligência artificial, o efeito\ndos computadores sobre a tomada de decisões ou\na elaboração de políticas ou de estratégias. É algo\nque praticamente ninguém previu, nem mesmo se\nfalava há 10 ou 15 anos: o comércio eletrônico — o\naparecimento explosivo da internet como um canal\nimportante, talvez principal, de distribuição mundial\nde produtos, serviços e, surpreendentemente, de\nempregos de nível gerencial. Essa nova realidade está\nmodificando profundamente economias, mercados e\nestruturas setoriais, os produtos e serviços e seu fluxo,\na segmentação, os valores e o comportamento dos\nconsumidores, o mercado de trabalho.\n\nO impacto, porém, pode ser ainda maior nas\nsociedades e nas políticas empresariais e, acima de tudo,\nna maneira como encaramos o mundo e nós mesmos\ndentro dele. O impacto psicológico da Revolução da\nInformação, como o da Revolução Industrial, foi enorme.\nTalvez tenha sido mais forte na maneira como as crianças\naprendem. Já aos 4 anos (e às vezes até antes), as\ncrianças desenvolvem habilidades de computação, logo\nultrapassando seus pais. Os computadores são seus\n\n2015\n\nbrinquedos e suas ferramentas de aprendizado. Daqui\na 50 anos, talvez concluamos que não houve nenhuma\ncrise educacional no mundo — apenas ocorreu uma\nincongruência crescente entre a maneira como as escolas\ndo século XX ensinavam e a maneira como as crianças\ndo fim do século XX aprendiam.\n\nDRUCKER, P. O melhor de Peter Drucker: obra completa. São Paulo: Nobel, 2002.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O artigo apresenta uma reflexão sobre a Revolução da\nInformação, que, assim como a Revolução Industrial,\nprovocou impactos significativos nas sociedades\ncontemporâneas. Ao tratar da Revolução da Informação,\no autor enfatiza que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o comércio eletrônico é um dos canais mais",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "importantes dessa revolução. o computador desenvolve na criança uma inteligência",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "maior que a dos pais. o aumento no número de empregos via internet é uma",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "realidade atualmente. o colapso educacional é fruto de uma incongruência",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no ensino do século XX. o advento da Revolução da Informação causará impactos nos próximos 50 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

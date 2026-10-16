@@ -1,0 +1,49 @@
+{
+    "title": "Questão 70 - ENEM 2015 - Reaplicação",
+    "index": 70,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O alumínio é um metal bastante versátil, pois, a partir dele, podem-se confeccionar materiais amplamente utilizados\npela sociedade. A obtenção do alumínio ocorre a partir da bauxita, que é purificada e dissolvida em criolita fundida\n(Na₃AlF₆) e eletrolisada a cerca de 1 000 °C. Há liberação do gás dióxido de carbono (CO₂), formado a partir da reação\nde um dos produtos da eletrólise com o material presente nos eletrodos. O ânodo é formado por barras de grafita\nsubmergidas na mistura fundida. O cátodo é uma caixa de ferro coberta de grafita. A reação global do processo é:\n\n2 Al₂O₃ (l) + 3 C (s) → 4 Al (l) + 3 CO₂ (g)\n\nNa etapa de obtenção do alumínio líquido, as reações que ocorrem no cátodo e ânodo são:",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/70/f61fea23-0a2f-48b8-a8fe-b87b05c75867.png",
+        "https://enem.dev/2015-reaplicacao/questions/70/7ac49e54-282c-46b9-850c-f3402a209db3.png",
+        "https://enem.dev/2015-reaplicacao/questions/70/ab787a13-572d-436f-a13a-c2a22f3673c2.png",
+        "https://enem.dev/2015-reaplicacao/questions/70/ad650710-f855-4376-b807-2b41e100510e.png",
+        "https://enem.dev/2015-reaplicacao/questions/70/d2a4f1e8-af92-474f-ad88-744cbf6b34a6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "cátodo: Al³⁺ + 3 e⁻ → Al",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/70/f61fea23-0a2f-48b8-a8fe-b87b05c75867.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/70/7ac49e54-282c-46b9-850c-f3402a209db3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/70/ab787a13-572d-436f-a13a-c2a22f3673c2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/70/ad650710-f855-4376-b807-2b41e100510e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/70/d2a4f1e8-af92-474f-ad88-744cbf6b34a6.png",
+            "isCorrect": false
+        }
+    ]
+}

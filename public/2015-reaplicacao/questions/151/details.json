@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2015 - Reaplicação",
+    "index": 151,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura é uma representação simplificada do\ncarrossel de um parque de diversões, visto de cima.\nNessa representação, os cavalos estão identificados\npelos pontos escuros, e ocupam circunferências de raios\n3 m e 4 m, respectivamente, ambas centradas no ponto O.\nEm cada sessão de funcionamento, o carrossel efetua\n10 voltas.\n\nC₁\n\nO C₂\n\n2015",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantos metros uma criança sentada no cavalo C₁\npercorrerá a mais do que uma criança no cavalo C₂, em\numa sessão? Use 3,0 como aproximação para p.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "55,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "175,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "235,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "240,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

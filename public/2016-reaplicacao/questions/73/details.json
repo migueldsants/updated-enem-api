@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2016 - Reaplicação",
+    "index": 73,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os raios X utilizados para diagnósticos médicos são uma radiação ionizante. O efeito das radiações ionizantes em\num indivíduo depende basicamente da dose absorvida, do tempo de exposição e da forma da exposição, conforme\nrelacionados no quadro.\n\n![](https://enem.dev/2016-reaplicacao/questions/73/af6bb5d3-7f63-4ab8-9573-ba558ba00c63.png)\n\nDisponível em: www.cnen.gov.br. Acesso em: 3 set. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/73/af6bb5d3-7f63-4ab8-9573-ba558ba00c63.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para um técnico radiologista de 90 kg que ficou exposto, por descuido, durante 5 horas a uma fonte de raios X, cuja\npotência é de 10 mJ/s, a forma do sintoma apresentado, considerando que toda radiação incidente foi absorvida, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "DL₅₀.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cerebral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pulmonar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "infraclínica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reações gerais leves.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

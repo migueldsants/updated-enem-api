@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2016 - Segunda aplicação",
+    "index": 145,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Até novembro de 2011, não havia uma lei específica\nque punisse fraude em concursos públicos. Isso dificultava o\nenquadramento dos fraudadores em algum artigo específico\ndo Código Penal, fazendo com que eles escapassem da\nJustiça mais facilmente. Entretanto, com o sancionamento\nda Lei 12.550/11, é considerado crime utilizar ou divulgar\nindevidamente o conteúdo sigiloso de concurso público,\ncom pena de reclusão de 12 a 48 meses (1 a 4 anos). Caso\nesse crime seja cometido por um funcionário público, a\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/145/d9974ed1-5778-4212-813f-83f8122c36c5.png)\n\nDisponível em: www.planalto.gov.br. Acesso em: 15 ago. 2012.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/145/d9974ed1-5778-4212-813f-83f8122c36c5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se um funcionário público for condenado por fraudar um\nconcurso público, sua pena de reclusão poderá variar de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 a 16 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16 a 52 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16 a 64 meses.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "24 a 60 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "28 a 64 meses.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

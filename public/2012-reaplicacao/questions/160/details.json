@@ -1,0 +1,47 @@
+{
+    "title": "Questão 160 - ENEM 2012 - Reaplicação",
+    "index": 160,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Durante seu treinamento, um atleta percorre metade\nde uma pista circular de raio R, conforme figura a\nseguir. A sua largada foi dada na posição representada\npela letra L, a chegada está representada pela letra C\ne a letra A representa o atleta. O segmento LC é um\ndiâmetro da circunferência e o centro da circunferência\nestá representado pela letra F.\n\nSabemos que, em qualquer posição que o atleta esteja na\npista, os segmentos LA e AC são perpendiculares. Seja θ\no ângulo que o segmento AF faz com segmento FC.\n\nA\n\n![](https://enem.dev/2012-reaplicacao/questions/160/0f96fd70-e2c0-4245-bc39-dd56fd2cbf70.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/160/8ac2d618-56df-44a9-a94d-0910108f112c.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/160/0f96fd70-e2c0-4245-bc39-dd56fd2cbf70.png",
+        "https://enem.dev/2012-reaplicacao/questions/160/8ac2d618-56df-44a9-a94d-0910108f112c.png",
+        "https://enem.dev/2012-reaplicacao/questions/160/97364a20-ce39-4965-b763-b1fe0397aef1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantos graus mede o ângulo θ quando o segmento AC\nmedir R durante a corrida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15 graus",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30 graus",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60 graus",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "90 graus",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/160/97364a20-ce39-4965-b763-b1fe0397aef1.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2014 - Terceira aplicação",
+    "index": 86,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma forma de poluição natural da água acontece\nem regiões ricas em dolomita CaCO₃MgCO₃ . Na\npresença de dióxido de carbono dissolvido na água a\ndolomita é convertida em Ca HCO₃₂ e MgCO₃, elevando\na concentração de íons Ca²⁺ e Mg²⁺ na água. Uma forma\nde purificação dessa água, denominada água dura, é\nadicionar Ca OH₂ e Na₂CO₃ a ela. Dessa forma, ocorre\numa série de reações químicas gerando como produto\nfinal CaCO₃ e Mg OH₂, que são menos solúveis que\nCa HCO₃₂ e MgCO₃.\nUma técnica apropriada para obtenção da água pura\napós o abrandamento é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decantação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "sublimação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dissolução fracionada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "destilação fracionada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "extração por solvente apolar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

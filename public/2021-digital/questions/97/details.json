@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2021 - Digital",
+    "index": 97,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização\nque resulta num tecido triploide.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um\ntecido de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nutrição para o fruto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reserva para o embrião.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "revestimento para a semente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "proteção para o megagametófito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vascularização para a planta jovem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2014 - Reaplicação",
+    "index": 62,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os corais funcionam como termômetros, capazes de\nindicar, mudando de coloração, pequenas alterações na\ntemperatura da água dos oceanos. Mas, um alerta, eles\nestão ficando brancos. O seu clareamento progressivo\nacontece pela perda de minúsculas algas, chamadas\nzooxantelas, que vivem dentro de seus tecidos, numa\nrelação de mutualismo.\n\nDisponível em: http://super.abril.com.br. Acesso em: 6 dez. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O desequilíbrio dessa relação faz com que os pólipos que\nformam os corais tenham dificuldade em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "produzir o próprio alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "obter compostos nitrogenados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "realizar a reprodução sexuada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "absorver o oxigênio dissolvido na água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "adquirir nutrientes derivados da fotossíntese.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2014 - Terceira aplicação",
+    "index": 140,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pesquisa do Instituto de Pesquisa Econômica (Ipea) investigou qual área faz a economia crescer mais e quais\nos maiores responsáveis pela diminuição da desigualdade na distribuição de renda.\n\nA INFLUÊNCIA DE CADA ÁREA NO CRESCIMENTO E NA IGUALDADE\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/140/ef4a5abd-0a2e-4c49-80dd-73248a318bd8.png)\n\nRevista Nova Escola, ed. 240, mar. 2011 adaptado .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/140/ef4a5abd-0a2e-4c49-80dd-73248a318bd8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando apenas as áreas que contribuem para o crescimento econômico mais do que o investimento em\nexportação, qual delas é a que mais influencia para a maior igualdade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Bolsa família.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Educação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Investimento em construção civil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Previdência Social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Saúde.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

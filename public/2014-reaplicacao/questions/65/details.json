@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2014 - Reaplicação",
+    "index": 65,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao assistir a uma apresentação musical, um músico\nque estava na plateia percebeu que conseguia ouvir\nquase perfeitamente o som da banda, perdendo um\npouco de nitidez nas notas mais agudas. Ele verificou\nque havia muitas pessoas bem mais altas à sua frente,\nbloqueando a visão direta do palco e o acesso aos\nalto-falantes. Sabe-se que a velocidade do som no ar\né 340 m/s e que a região de frequências das notas\nemitidas é de, aproximadamente, 20 Hz a 4 000 Hz.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual fenômeno ondulatório é o principal responsável\npara que o músico percebesse essa diferenciação\ndo som?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Atenuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interferência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

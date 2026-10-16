@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2021 - Digital",
+    "index": 101,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A imagem apresenta as etapas do funcionamento de uma estação individual para\ntratamento do esgoto residencial.\n\n![](https://enem.dev/2021-digital/questions/101/2f914503-9e9a-4e1a-ad38-749a6356f53c.png)\n\nTAVARES, K. Estações de tratamento de esgoto individuais permitem a reutilização da água. Disponível em:\nhttps://extra.globo.com. Acesso em: 18 nov. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/101/2f914503-9e9a-4e1a-ad38-749a6356f53c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em qual etapa decanta-se o lodo a ser separado do esgoto residencial?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

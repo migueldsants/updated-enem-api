@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2022 - Digital",
+    "index": 39,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\n![](https://enem.dev/2022-digital/questions/39/0d29cd3c-d79f-4163-865d-8a6c2d71fd3a.png)\n\nJUDD, D. Sem título. 1969.\n\nDisponível em: https://dasartes.com.br. Acesso em: 16 jun. 2022.\n\nTEXTO II\n\nEmbora não fosse um grupo ou um movimento organizado, o Minimalismo foi um dos\nmuitos rótulos (incluindo estruturas primárias, objetos unitários, arte ABC e Cool Art)\naplicados pelos críticos para descrever estruturas aparentemente simples que alguns\nartistas estavam criando. Quando a arte minimalista começou a surgir, muitos críticos e\num público opinativo julgaram-na fria, anônima e imperdoável. Os materiais industriais\npré-fabricados frequentemente usados não pareciam “arte”.\n\nDEMPSEY, A. Estilos, escolas e movimentos. São Paulo: Cosac & Naify, 2003 (adaptado).\n\n/",
+    "files": [
+        "https://enem.dev/2022-digital/questions/39/0d29cd3c-d79f-4163-865d-8a6c2d71fd3a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com os textos I e II, compreende-se que a obra minimalista é uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "representação da simplicidade pelo artista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "exploração da técnica da escultura cubista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valorização do cotidiano por meio da geometria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilização da complexidade dos elementos formais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "combinação de formas sintéticas no espaço utilizado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

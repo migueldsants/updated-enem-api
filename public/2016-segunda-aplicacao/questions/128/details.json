@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2016 - Segunda aplicação",
+    "index": 128,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Noites do Bogart\nO Xavier chegou com a namorada mas,\nprudentemente, não a levou para a mesa com o grupo.\nAbanou de longe. Na mesa, as opiniões se dividiam.\n\n— Pouca vergonha.\n— Deixa o Xavier.\n— Podia ser a filha dele.\n— Aliás, é colega da filha dele.\nNa sua mesa, o Xavier pegara na mão da moça.\n— Está gostando?\n— Pô. Só.\n— Chocante, né? — disse o Xavier. E depois ficou na\ndúvida. Ainda se dizia “chocante”?\n\nBeberam em silêncio. E ele disse:\n— Quer dançar?\nE ela disse, sem pensar:\n— Depois, tio.\nE ficaram em silêncio. Ela pensando “será que\nele ouviu?”. E ele pensando “faço algum comentário a\nrespeito, ou deixo passar?”. Decidiu deixar passar. Mas,\npelo resto da noite aquele “tio” ficou em cima da mesa,\nentre os dois, latejando como um sapo. Ele a levou em\ncasa. Depois voltou. Sentou com os amigos.\n\n— Aí, Xavier. E a namorada?\nEle não respondeu.\n\nVERISSIMO, L. F. O melhor das comédias da vida privada. Rio de Janeiro: Objetiva, 2004.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O efeito de humor no texto é produzido com o auxílio da\nquebra de convenções sociais de uso da língua. Na interação\nentre o casal de namorados, isso é decorrente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do registro inadequado para a interlocução em contexto romântico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "da iniciativa em discutir formalmente a relação amorosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "das avaliações de escolhas lexicais pelos frequentadores do bar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "das gírias distorcidas intencionalmente na fala do namorado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "do uso de expressões populares nas investidas amorosas do homem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

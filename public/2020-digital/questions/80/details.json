@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2020 - Digital",
+    "index": 80,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O termo manipulação significa uma consciente intervenção técnica em um material dado.\nSe a intervenção é de uma importância social imediata, a manipulação constitui um ato\npolítico. É o caso da indústria da consciência. Assim, toda utilização de meios pressupõe uma\nmanipulação. Os mais elementares processos de produção constituem intervenções no\nmaterial existente. Portanto, escrever, filmar ou emitir sem manipulação não existe. Por\nconseguinte, a questão não é se os meios são manipulados ou não, mas quem manipula os\nmeios.\n\nENZENSBERGER, H. M. Elementos para uma teoria dos meios de comunicação.\nRio de Janeiro: Tempo Brasileiro, 1979 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse entendimento acerca dos meios de comunicação, produzido na década de 1970,\ncontesta o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "neutralidade dos mecanismos midiáticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "valorização dos interesses particulares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fragmentação do conteúdo informativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "crescimento do mercado jornalístico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "controle do poder estatal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

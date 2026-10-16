@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2016 - Reaplicação",
+    "index": 60,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nem sempre é seguro colocar vírus inteiros numa\nvacina. Alguns são tão perigosos que os cientistas\npreferem usar só um de seus genes – aquele que fabrica\no antígeno, proteína que é reconhecida pelas células\nde defesa. Uma dessas vacinas de alta tecnologia é a\nanti-hepatite B. Um gene do vírus é emendado ao DNA\nde um fungo inofensivo, que passa, então, a produzir uma\nsubstância que é injetada no corpo humano.\n\nVírus: guerra silenciosa. Superinteressante, n. 143, ago. 1999 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A função dessa substância, produzida pelo fungo, no\norganismo humano é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "neutralizar proteínas virais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "interromper a ação das toxinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ligar-se ao patógeno já instalado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reconhecer substâncias estranhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desencadear a produção de anticorpos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

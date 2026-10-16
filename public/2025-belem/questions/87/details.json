@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 87,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A responsabilidade perante o todo é o valor principal para\no mundo de amanhã, e o valor complementar a ele é um vivo\nsentido de seu objeto, precisamente o todo, a humanidade\ncomo tal. Assim, o despertar, a manutenção e inclusive a\nfundamentação de um sentimento pela humanidade é uma\nimportantíssima tarefa educativa e intelectual para o mundo\ndo amanhã. O risco para o futuro tem um amplo solo, parte\nda conduta cotidiana mesma dentro dos Estados do mundo\ntecnificado, que pode muito bem avançar sem freio para uma\npaz mundial que talvez contenha o temor imediato pelo próprio\npresente. Aqueles que reconheceram tal futuro e o risco que este\ncorre têm de converter-se em seus porta-vozes incansáveis —\ntão incansáveis como essa mesma cotidianidade ameaçadora.\n\nJONAS, H. Técnica, medicina, ética: sobre a prática do princípio de\nresponsabilidade. São Paulo: Paulus, 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor apontado no texto como princípio orientador para gerações\nfuturas constitui-se como um suporte crítico diante do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "postura da elite tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "empenho de autoridades políticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mobilização de camadas populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "comportamento da sociedade contemporânea.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "transformação de mentalidades conservadoras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

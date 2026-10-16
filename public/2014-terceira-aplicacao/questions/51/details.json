@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2014 - Terceira aplicação",
+    "index": 51,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A elevada acidez dos solos é um dos fatores\nresponsáveis por reduzir sua capacidade de troca de\ncátions, intensificando a perda de sais minerais por\narraste. Como consequência, os solos ficam deficientes\nem nutrientes e com baixo potencial produtivo. Uma\nestratégia usada no controle dessa acidez é aplicar\nóxidos capazes de formar bases pouco solúveis em meio\naquoso. Inicialmente, para uma determinada aplicação,\nsão apresentados os seguintes óxidos: NO, CO₂, SO₂,\nCaO e Na₂O.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para essa aplicação, o óxido adequado para minimizar o\nefeito de arraste é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "NO.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CO₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "SO₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CaO.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Na₂O.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

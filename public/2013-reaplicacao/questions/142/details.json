@@ -1,0 +1,46 @@
+{
+    "title": "Questão 142 - ENEM 2013 - Reaplicação",
+    "index": 142,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma dona de casa pretende comprar uma\nescrivaninha para colocar entre as duas camas do quarto\nde seus filhos. Ela sabe que o quarto é retangular, de\ndimensões 4 m × 5 m, e que as cabeceiras das camas\nestão encostadas na parede de maior dimensão, onde ela\npretende colocar a escrivaninha, garantindo uma distância\nde 0,4 m entre a escrivaninha e cada uma das camas,\npara circulação. Após fazer um esboço com algumas\nmedidas, decidirá se comprará ou não a escrivaninha.\n\n0,4 m 0,4 m\n\n![](https://enem.dev/2013-reaplicacao/questions/142/925f9ed9-36db-47e5-be8d-ac9479cb1627.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/142/925f9ed9-36db-47e5-be8d-ac9479cb1627.png",
+        "https://enem.dev/2013-reaplicacao/questions/142/331de60d-5630-4038-9d6e-05cb33fd5e01.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Após analisar o esboço e realizar alguns cálculos, a dona\nde casa decidiu que poderia comprar uma escrivaninha,\nde largura máxima igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,8 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,0 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,4 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,6 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/142/331de60d-5630-4038-9d6e-05cb33fd5e01.png",
+            "isCorrect": false
+        }
+    ]
+}

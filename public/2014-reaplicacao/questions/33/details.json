@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2014 - Reaplicação",
+    "index": 33,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na primeira década do século XX, reformar a cidade do Rio de Janeiro passou a ser o sinal mais evidente da\nmodernização que se desejava promover no Brasil. O ponto culminante do esforço de modernização se deu na gestão\ndo prefeito Pereira Passos, entre 1902 e 1906. “O Rio civilizava-se” era frase célebre à época e condensava o esforço\npara iluminar as vielas escuras e esburacadas, controlar as epidemias, destruir os cortiços e remover as camadas\npopulares do centro da cidade.\n\nOLIVEIRA, L. L. Sinais de modernidade na Era Vargas: vida literária, cinema e rádio. In: FERREIRA, J.; DELGADO, L. A. (Org.). O tempo do nacional-estatismo: do início ao apogeu do\nEstado Novo. Rio de Janeiro: Civilização Brasileira, 2007.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O processo de modernização mencionado no texto trazia um paradoxo que se expressava no a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "substituição de vielas por amplas avenidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impossibilidade de se combaterem as doenças tropicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ideal de civilização acompanhado de marginalização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "sobreposição de padrões arquitetônicos incompatíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "projeto de cidade incompatível com a rugosidade do relevo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

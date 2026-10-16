@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 179,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa pretende comprar peças em formato de bloco\nretangular, que serão colocadas uma ao lado da outra para\nmontar um armário cujo comprimento seja exatamente 150 cm.\nEm uma pesquisa na internet, ela encontrou cinco tipos de\npeças diferentes, de mesma altura e mesma profundidade,\ncom larguras externas medindo:\n\n• peça I: 25 cm;\n• peça II: 35 cm;\n• peça III: 40 cm;\n• peça IV: 60 cm;\n• peça V: 75 cm.\nEssa pessoa comprará pelo menos dois tipos de peças com\nlarguras diferentes e na menor quantidade, de modo que a soma\ndas medidas das larguras corresponda a 150 cm.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para que seu objetivo seja alcançado, ela deverá comprar quantas\npeças?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

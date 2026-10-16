@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2016 - Segunda aplicação",
+    "index": 49,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 1950, Erwin Chargaff e colaboradores estudavam\na composição química do DNA e observaram que a\nquantidade de adenina (A) é igual à de timina (T), e a\nquantidade de guanina (G) é igual à de citosina (C) na\ngrande maioria das duplas fitas de DNA. Em outras\npalavras, esses cientistas descobriram que o total de\npurinas (A + G) e o total de pirimidinas (C + T) eram iguais.\nUm professor trabalhou esses conceitos em sala de aula\ne apresentou como exemplo uma fita simples de DNA\ncom 20 adeninas, 25 timinas, 30 guaninas e 25 citosinas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a quantidade de cada um dos nucleotídeos, quando\nconsiderada a dupla fita de DNA formada pela fita simples\nexemplificada pelo professor?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adenina: 20; Timina: 25; Guanina: 25; Citosina: 30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adenina: 25; Timina: 20; Guanina: 45; Citosina: 45.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Adenina: 45; Timina: 45; Guanina: 55; Citosina: 55.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Adenina: 50; Timina: 50; Guanina: 50; Citosina: 50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Adenina: 55; Timina: 55; Guanina: 45; Citosina: 45.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

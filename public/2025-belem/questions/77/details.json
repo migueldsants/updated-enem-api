@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 77,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O smartphone não é uma coisa. Eu o caracterizo como\num infômata (coisa informatizada) que produz e processa\ninformações. As informações são o contrário dos apoios que\ndão tranquilidade à vida. Vivem do estímulo da surpresa. Elas nos\nsubmergem em um turbilhão de atualidade.\n\nHAN, B.-C. apud FANJUL, S. Entrevista com o filósofo Byung-Chul Han.\nDisponível em: https://brasil.elpais.com.\nAcesso em: 21 out. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto sustenta que a ampliação das experiências de\nconectividade promovem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "polarização e divisão social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "autonomia e liberdade funcional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "organização e controle temporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dispersão e desorientação pessoal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "produtividade e criatividade laboral.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

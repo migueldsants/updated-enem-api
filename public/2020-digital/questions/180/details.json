@@ -1,0 +1,50 @@
+{
+    "title": "Questão 180 - ENEM 2020 - Digital",
+    "index": 180,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jogo pedagógico é formado por cartas nas quais está impressa uma fração em uma\nde suas faces. Cada jogador recebe quatro cartas e vence aquele que primeiro consegue\nordenar crescentemente suas cartas pelas respectivas frações impressas. O vencedor foi o\n\n![](https://enem.dev/2020-digital/questions/180/e10fbb78-8616-4374-a5c6-406fcfa3b4b2.png)\n\naluno que recebeu as cartas com as frações: e .",
+    "files": [
+        "https://enem.dev/2020-digital/questions/180/e10fbb78-8616-4374-a5c6-406fcfa3b4b2.png",
+        "https://enem.dev/2020-digital/questions/180/7b3f89af-b4b1-4912-8a02-0775d9cae835.png",
+        "https://enem.dev/2020-digital/questions/180/2398733a-8256-4269-a9e4-ba046106554a.png",
+        "https://enem.dev/2020-digital/questions/180/bce3fbeb-a991-4b7d-92be-bfc6f73e60e7.png",
+        "https://enem.dev/2020-digital/questions/180/d6bad357-023c-4fff-8a7a-9cdf79f24550.png",
+        "https://enem.dev/2020-digital/questions/180/aafbfa5c-83ca-477e-8856-5dcee42b725d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A ordem que esse aluno apresentou foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/180/7b3f89af-b4b1-4912-8a02-0775d9cae835.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/180/2398733a-8256-4269-a9e4-ba046106554a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/180/bce3fbeb-a991-4b7d-92be-bfc6f73e60e7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/180/d6bad357-023c-4fff-8a7a-9cdf79f24550.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/180/aafbfa5c-83ca-477e-8856-5dcee42b725d.png",
+            "isCorrect": false
+        }
+    ]
+}

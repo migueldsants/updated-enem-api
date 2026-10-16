@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2020 - Digital",
+    "index": 2,
+    "year": 2020,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "España en el corazón\n\nComo era Federico\n\nDimos una gran sorpresa. Habíamos preparado un discurso al alimón. Ustedes\nprobablemente no saben lo que significa esa palabra y yo tampoco lo sabía. Federico, que\nestaba siempre lleno de invenciones y ocurrencias, me explicó: \"Dos toreros pueden torear al\nmismo tiempo el mismo toro y con un único capote. Esta es una de las pruebas más peligrosas\ndel arte taurino. Por eso se ve muy pocas veces. No más de dos o tres veces en un siglo y\nsólo pueden hacerlo dos toreros que sean hermanos o que, por lo menos, tengan sangre\ncomún. Esto es lo que se llama torear al alimón. Y esto es lo que haremos en un discurso.\" Y\nesto es lo que hicimos, pero nadie lo sabía. Cuando nos levantamos para agradecer al\npresidente del Pen Club el ofrecimiento del banquete, nos levantamos al mismo tiempo, cual\ndos toreros, para un solo discurso.\n\nNERUDA: Señoras...\n\nLORCA: ...y señores: Existe en la fiesta de los toros una suerte llamada \"toreo del alimón\",\nen que dos toreros hurtan su cuerpo al toro cogidos de la misma capa.\n\nNERUDA: Federico y yo, amarrados por un alambre eléctrico, vamos a parear y a\nresponder esta recepción muy decisiva.\n\nNERUDA, P. Confieso que he vivido. Buenos Aires: Delbolsillo, 2004.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No texto, o escritor Pablo Neruda narra um episódio vivenciado com o também escritor\nFederico García Lorca. Nesse episódio, o uso da expressão “al alimón” remete ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "duelo travado entre os escritores, tal como entre touro e toureiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "admiração pelas touradas, manifesta no discurso dos escritores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "surpresa com que o discurso dos escritores foi recebido pelo público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conhecimento dos escritores acerca da tradicional tourada espanhola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "perspicácia dos escritores em discursar inspirados em uma forma de tourear.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

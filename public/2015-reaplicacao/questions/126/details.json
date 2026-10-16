@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2015 - Reaplicação",
+    "index": 126,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/126/f81f90c2-e120-4c35-b98c-90f64b5a8890.png)\n\nDisponível em: http://portal.saude.gov.br. Acesso em: 31 jul. 2012.\n\nCampanhas educativas têm o propósito de provocar\numa reflexão em torno de questões sociais de grande\nrelevância, tais como as relacionadas à cidadania\ne também à saúde. Com a imagem de um relógio\ndespertador e o slogan “Sempre é hora de combater a\n\n2015",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/126/f81f90c2-e120-4c35-b98c-90f64b5a8890.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "dengue”, a Campanha Nacional de Combate à Dengue\nobjetiva convencer a população de que é preciso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eliminar potenciais criadouros, quando aparecer a doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "posicionar-se criticamente sobre as ações de combate ao mosquito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "prevenir-se permanentemente contra a doença.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "repensar as ações de prevenção da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "preparar os agentes de combate ao mosquito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

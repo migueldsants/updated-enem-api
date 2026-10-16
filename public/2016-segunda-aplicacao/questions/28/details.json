@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2016 - Segunda aplicação",
+    "index": 28,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/28/fbcae053-f8a3-40f8-b72c-8a98d0481ade.png)\n\nDisponível em: http://mnba.gov.br. Acesso em: 13 jan. 2013.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/28/fbcae053-f8a3-40f8-b72c-8a98d0481ade.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na imagem, o autor procura representar as diferentes\ngerações de uma família associada a uma noção\nconsagrada pelas elites intelectuais da época, que\nera a de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "defesa da democracia racial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "idealização do universo rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "crise dos valores republicanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "constatação do atraso sertanejo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "embranquecimento da população.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

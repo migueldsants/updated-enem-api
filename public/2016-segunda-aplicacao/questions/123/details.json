@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2016 - Segunda aplicação",
+    "index": 123,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Descubra e aproveite um momento todo seu. Quando\nvocê quebra o delicado chocolate, o irresistível recheio\ncremoso começa a derreter na sua boca, acariciando\ntodos os seus sentidos. Criado por nossa empresa.\nPaixão e amor por chocolate desde 1845.\n\nVeja, n. 2 320, 8 maio 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto publicitário tem a intenção de persuadir\no público-alvo a consumir determinado produto ou\nserviço. No anúncio, essa intenção assume a forma de\num convite, estratégia argumentativa linguisticamente\nmarcada pelo uso de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conjunção (quando).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "adjetivo (irresistível).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "verbo no imperativo (descubra).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "palavra do campo afetivo (paixão).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "expressão sensorial (acariciando).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

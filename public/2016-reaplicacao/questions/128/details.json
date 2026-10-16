@@ -1,0 +1,45 @@
+{
+    "title": "Questão 128 - ENEM 2016 - Reaplicação",
+    "index": 128,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\n280 novos veículos por dia no estado\nFrota, que chega a quase 1,4 milhão, deve\ndobrar em 13 anos\n\nA cada dia, uma média de 280 novos veículos\nchega às ruas do Espírito Santo, segundo dados\ndo Departamento Estadual de Trânsito (Detran-ES).\nNo final do mês passado, a frota já era de 1 395 342\nunidades, 105 mil a mais do que no mesmo mês de\n2011. Os números incluem automóveis, motocicletas,\ncaminhões e ônibus, entre outros tipos. De dezembro\npara cá, o crescimento foi de mais de 33 mil veículos.\nE, se esse ritmo continuar, a frota do Espírito Santo\nvai dobrar até 2025. O diretor-geral do Detran-ES\nrelaciona o crescimento desses números à facilidade\nencontrada para se comprar um veículo. “Há toda uma\nquestão econômica, da facilidade de crédito. Como\noferecemos um transporte coletivo que ainda precisa\nser melhorado, inevitavelmente o cidadão que pode\nadquire seu próprio veículo”.\n\nDisponível em: http://gazetaonline.globo.com. Acesso em: 10 ago. 2012 (adaptado).\n\n![](https://enem.dev/2016-reaplicacao/questions/128/b3120c42-9243-400c-a01a-068d54c680b9.png)\n\nAcesso em: 10 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/128/b3120c42-9243-400c-a01a-068d54c680b9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os textos I e II tratam do mesmo tema, embora sejam\nde gêneros diferentes. Estabelecendo-se as relações\nentre os dois textos, entende-se que o Texto II tem a\nfunção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reprovar as medidas do governo de incentivo à aquisição do carro próprio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apontar uma possível alternativa para resolver a questão do excesso de veículos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mostrar a dificuldade de solução imediata para resolver o problema do crescimento da frota.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "criticar, por meio da sátira, as consequências do aumento da frota de veículos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "responsabilizar a má qualidade do serviço de transporte pelo crescimento do número de veículos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

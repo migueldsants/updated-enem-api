@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2014 - Reaplicação",
+    "index": 29,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O enclave supõe a presença de “muros sociais”\ninternos que separam e distanciam populações e grupos\nde um mesmo lugar. Tais muros revelam as grandes\ncontradições e discrepâncias presentes nas cidades\nbrasileiras. É aqui que o território merece ser considerado\num novo elemento nas políticas públicas, enquanto\num sujeito catalisador de potências no processo de\nrefundação do social.\n\nKOGA, D. Medidas de cidades: entre territórios de vida e territórios vividos.\nSão Paulo: Cortez, 2003.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No contexto atual das múltiplas territorializações,\napontadas no fragmento, a formação de enclaves\nfortificados no espaço urbano é resultado da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "autossegregação elitista em prol de garantia de segurança.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "segmentação social das políticas públicas por níveis de carência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "influência de grupos políticos globais em rede no cotidiano urbano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ampliação dos territórios móveis nas áreas residenciais tradicionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "necessidade da população em associar espacialmente trabalho e moradia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

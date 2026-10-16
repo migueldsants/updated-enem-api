@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2016 - Segunda aplicação",
+    "index": 8,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os andróginos tentaram escalar o céu para combater\nos deuses. No entanto, os deuses em um primeiro\nmomento pensam em matá-los de forma sumária. Depois\ndecidem puni-los da forma mais cruel: dividem-nos em\ndois. Por exemplo, é como se pegássemos um ovo cozido\ne, com uma linha, dividíssemos ao meio. Desta forma, até\nhoje as metades separadas buscam reunir-se. Cada um\ncom saudade de sua metade, tenta juntar-se novamente a\nela, abraçando-se, enlaçando-se um ao outro, desejando\nformar um único ser.\n\nPLATÃO. O banquete. São Paulo: Nova Cultural, 1987.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No trecho da obra O banquete, Platão explicita, por meio\nde uma alegoria, o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "bem supremo como fim do homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "prazer perene como fundamento da felicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ideal inteligível como transcendência desejada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "amor como falta constituinte do ser humano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "autoconhecimento como caminho da verdade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2016 - Reaplicação",
+    "index": 81,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O processo de dessulfurização é uma das etapas\nutilizadas na produção do diesel. Esse processo consiste\nna oxidação do enxofre presente na forma de sulfeto\nde hidrogênio (H₂S) a enxofre elementar (sólido) que é\nposteriormente removido. Um método para essa extração\nquímica é o processo Claus, no qual parte do H₂S é\noxidada a dióxido de enxofre (SO₂) e, então, esse gás é\nusado para oxidar o restante do H₂S. Os compostos de\nenxofre remanescentes e as demais moléculas presentes\nno diesel sofrerão combustão no motor.\n\nMARQUES FILHO, J. Estudo da fase térmica do processo Claus utilizando\nfluidodinâmica computacional. São Paulo: USP, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O benefício do processo Claus é que, na combustão do\ndiesel, é minimizada a emissão de gases",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "formadores de hidrocarbonetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produtores de óxidos de nitrogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "emissores de monóxido de carbono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promotores da acidificação da chuva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "determinantes para o aumento do efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

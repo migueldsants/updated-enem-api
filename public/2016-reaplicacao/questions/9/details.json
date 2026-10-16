@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2016 - Reaplicação",
+    "index": 9,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A experiência do movimento organizado de mulheres\nno Brasil oferece excelente exemplo de como se pode\nutilizar a lei em favor da melhoria do status jurídico, da\ncondição social, do avanço no sentido de uma presença\nmais efetiva no processo de decisão política. Ao longo de\nquase todo o século XX, com mais intensidade em algumas\ndécadas do que em outras, as mulheres brasileiras\nconseguiram obter vitórias expressivas. Algumas vezes,\nabolindo dispositivos legais discriminatórios, outras,\nconseguindo aprovar novas leis.\n\nTABAK, F. A lei como instrumento de mudança social. In: TABAK, F.; VERUCCI, F.\nA difícil igualdade: os direitos da mulher como direitos humanos.\nRio de Janeiro: Relume Dumará, 1994.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A atuação do movimento social abordado no texto\nresultou, na década de 1930, em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "direito de voto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "garantia de cotas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acesso ao trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "organização partidária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "igualdade de oportunidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

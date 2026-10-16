@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2021 - Digital",
+    "index": 4,
+    "year": 2021,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "En el suelo, apoyado en el mostrador, se acurrucaba, inmóvil como una cosa, un\nhombre muy viejo. Los muchos años lo habían reducido y pulido como las aguas a una\npiedra o las generaciones de los hombres a una sentencia. Era oscuro, chico y reseco, y\nestaba como fuera del tiempo, en una eternidad.\n\nBORGES, J. L. Artificios. Madri: Alianza Cien, 1995.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No âmbito literário, são mobilizados diferentes recursos que visam à expressividade. No\ntexto, a analogia estabelecida pela expressão “como las aguas a una piedra” tem a\nfunção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "enfatizar a ação do tempo sobre a personagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "descrever a objetificação do ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "expor a anacronia da personagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "caracterizar o espaço do conto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "narrar a perenidade da velhice.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

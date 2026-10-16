@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2016 - Reaplicação",
+    "index": 137,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um motorista partiu da cidade A em direção à cidade\nB por meio de uma rodovia retilínea localizada em uma\nplanície. Lá chegando, ele percebeu que a distância\npercorrida nesse trecho foi de 25 km. Ao consultar um\nmapa com o auxílio de uma régua, ele verificou que a\ndistância entre essas duas cidades, nesse mapa, era\nde 5 cm.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A escala desse mapa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 1 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 5 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 100 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 500 000",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

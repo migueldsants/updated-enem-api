@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2014 - Reaplicação",
+    "index": 24,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O príncipe D. João VI podia ter decidido ficar em\nPortugal. Nesse caso, o Brasil com certeza não existiria.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Colônia se fragmentaria, como se fragmentou a parte",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Desigualdade social — Concentração da propriedade fundiária no campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Homogeneidade intelectual — Difusão das ideias liberais nas universidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uniformidade cultural — Manutenção da mentalidade escravista nas fazendas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Continuidade espacial — Cooptação dos movimentos separatistas nas províncias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

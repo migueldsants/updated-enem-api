@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 89,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Antigamente, existiam duas maneiras de governar: ou a\nsociedade era comandada pelo rei (monarquia), ou era dirigida\npor um pequeno grupo de homens ricos (aristocracia). Mas,\nem algumas cidades da Grécia, foi experimentada outra forma\nde governo na qual os cidadãos decidiam os rumos da sociedade.\n\nKONDER, L. Além das urnas. In: PLANTEL, E. A democracia pode ser assim.\nSão Paulo: Boitatá, 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto faz referência a um modelo de governo sustentado\npor um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mandato coletivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "autocracia religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ditadura personalista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "absolutismo teocrático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "participação popular.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

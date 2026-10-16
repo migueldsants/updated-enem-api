@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 67,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O ano de 1492, segundo nossa tese central, é a data\ndo “nascimento da Modernidade”; embora sua gestação —\ncomo feto — leve um tempo de crescimento intrauterino.\nA Modernidade originou-se nas cidades medievais europeias,\nlivres centros de criatividades. Mas “nasceu” quando a Europa\npôde se confrontar com o seu “outro” e controlá-lo, vencê-lo,\nviolentá-lo: quando pôde se definir como um “ego” descobridor,\ncolonizador da alteridade constitutiva da própria Modernidade.\n\nDUSSEL, E. 1492 — O encobrimento do outro: a origem do “Mito da\nModernidade”. Petrópolis: Vozes, 1993 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A tese do autor sobre o nascimento da Modernidade refere-se\na um evento histórico conhecido como:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Iluminismo francês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reforma Protestante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Conquista da América.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Expansão muçulmana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Surgimento das universidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

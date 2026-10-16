@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2016 - Reaplicação",
+    "index": 96,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Naquele tempo eu morava no Calango-Frito e não\nacreditava em feiticeiros.\n\nE o contrassenso mais avultava, porque, já então, ‒ e\nexcluída quanta coisa-e-sousa de nós todos lá, e outras\ncismas corriqueiras tais: sal derramado; padre viajando\ncom a gente no trem; não falar em raio: quando muito, e\nse o tempo está bom, “faísca”; nem dizer lepra; só o “mal”;\npasso de entrada com o pé esquerdo; ave do pescoço\npelado; risada renga de suindara; cachorro, bode e\ngalo, pretos; [...] ‒ porque, já então, como ia dizendo,\neu poderia confessar, num recenseio aproximado: doze\ntabus de não uso próprio; oito regrinhas ortodoxas\npreventivas; vinte péssimos presságios; dezesseis casos\nde batida obrigatória na madeira; dez outros exigindo a\nfiga digital napolitana, mas da legítima, ocultando bem a\ncabeça do polegar; e cinco ou seis indicações de ritual\nmais complicado; total: setenta e dois ‒ noves fora, nada.\n\nROSA, J. G. São Marcos. Sagarana. Rio de Janeiro: José Olympio, 1967 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "João Guimarães Rosa, nesse fragmento de conto, resgata\na cultura popular ao registrar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "trechos de cantigas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rituais de mandingas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "citações de preceitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cerimônias religiosas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "exemplos de superstições.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2016 - Segunda aplicação",
+    "index": 1,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/1/6c77901a-92e4-49b8-a858-06185ba54780.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/1/6c77901a-92e4-49b8-a858-06185ba54780.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para além de objetivos específicos, muitos movimentos\nsociais interferem no contexto sociopolítico e ultrapassam\ndimensões imediatas, como foi o caso das mobilizações\noperárias, ocorridas em 1979 na cidade de São Paulo.\nNesse sentido, ao mesmo tempo em que lutavam por\nseus direitos, essas mobilizações contribuíram com o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "elaboração de novas políticas que garantiram a estabilidade econômica do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "instalação de empresas multinacionais no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "legalização dos sindicatos no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "surgimento das políticas governamentais assistencialistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "processo de redemocratização do Brasil.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

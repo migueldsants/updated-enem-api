@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2014 - Terceira aplicação",
+    "index": 77,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A reportagem “Primo pobre das doenças” publicada\nna revista Ciência Hoje em 2005, relatava a ação de\numa organização não governamental norte americana\nem busca do desenvolvimento de uma vacina contra\no Plasmodium. O Plasmodium é um parasita que, ao\npenetrar no corpo humano, pode causar uma série de\nsintomas, sendo clássico o estado febril grave que pode\nlevar o indivíduo ao óbito.\n\nDisponível em: http://cienciahoje.uol.com.br. Acesso em: 01 mar. 2012.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa vacina tem como objetivo controlar a ocorrência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "doença de Chagas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "toxoplasmose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "leishmaniose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elefantíase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "malária.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

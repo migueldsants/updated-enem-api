@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2015 - Reaplicação",
+    "index": 27,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A conquista pelos ingleses de grandes áreas da Índia\ndeu o impulso inicial à produção e venda organizada\nde ópio. A Companhia das Índias Orientais obteve o\nmonopólio da compra do ópio indiano e depois vendeu\nlicenças para mercadores selecionados, conhecidos como\n“mercadores nativos”. Depois de vender ópio na China,\nesses mercadores depositavam a prata que recebiam\npor ele com agentes da companhia em Cantão, em troca\nde cartas de crédito; a companhia, por sua vez, usava a\nprata para comprar chá, porcelana e outros artigos que\nseriam vendidos na Inglaterra.\n\nSPENCE, J. Em busca da China moderna. São Paulo: Cia. das Letras, 1996 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A análise das trocas comerciais citadas permite\ninterpretar as relações de poder que foram estabelecidas.\nA partir desse pressuposto, o processo sócio-histórico\nidentificado no texto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a expansão político-econômica de países do Oriente, iniciada nas últimas décadas do século XX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a consolidação do cenário político entreguerras, na primeira metade do século XX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o colonialismo europeu, que marcou a expansão europeia no século XV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o imperialismo, cujo ápice ocorreu na segunda metade do século XIX.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as libertações nacionais, ocorridas na segunda metade do século XX.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

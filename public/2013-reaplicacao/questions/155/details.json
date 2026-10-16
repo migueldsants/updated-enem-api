@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2013 - Reaplicação",
+    "index": 155,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O turismo brasileiro atravessa um período de franca\nexpansão. Entre 2002 e 2006, o número de pessoas que\ntrabalham nesse setor aumentou 15% e chegou a 1,8 milhão.\nCerca de 60% desse contingente de trabalhadores está\nno mercado informal, sem carteira assinada.\n\nVeja, São Paulo, 18 jun. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para regularizar os empregados informais que estão nas\natividades ligadas ao turismo, o número de trabalhadores\nque terá que assinar carteira profissional é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "270 mil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "720 mil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "810 mil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,08 milhão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1,35 milhão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2015 - Reaplicação",
+    "index": 31,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O impulso para o ganho, a perseguição do lucro, do\ndinheiro, da maior quantidade possível de dinheiro não\ntem, em si mesma, nada que ver com o capitalismo.\nTal impulso existe e sempre existiu. Pode-se dizer que\ntem sido comum a toda sorte e condição humanas em\ntodos os tempos e em todos os países, sempre que se\ntenha apresentada a possibilidade objetiva para tanto.\nO capitalismo, porém, identifica-se com a busca do\nlucro, do lucro sempre renovado por meio da empresa\npermanente, capitalista e racional. Pois assim deve\nser: numa ordem completamente capitalista da\nsociedade, uma empresa individual que não tirasse\nvantagem das oportunidades de obter lucros estaria\ncondenada à extinção.\n\nWEBER, M. A ética protestante e o espírito do capitalismo.\nSão Paulo: Martin Claret, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O capitalismo moderno, segundo Max Weber, apresenta\ncomo característica fundamental a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "competitividade decorrente da acumulação de capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "implementação da flexibilidade produtiva e comercial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ação calculada e planejada para obter rentabilidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "socialização das condições de produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mercantilização da força de trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

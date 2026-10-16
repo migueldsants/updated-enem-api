@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2014 - Reaplicação",
+    "index": 120,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Você se preocupa com sua família,\ncom seu trabalho e com sua casa.\n\nE com você?\n\nA mulher conquistou um espaço de destaque no\nambiente profissional, além de cuidar da casa e do\nbem-estar da família. Acompanhada por essa mudança,\ntambém veio uma nova vida, com antigos hábitos\ntipicamente masculinos, como o estresse, a falta de\ntempo para se cuidar, o tabagismo e a maior incidência\nde obesidade e depressão. Isso aumentou muito os casos\nde infarto e doenças cardiovasculares. Elas já respondem\npor 30% do número total dos casos, que matam seis\nvezes mais do que o câncer de mama.\n\nCuide-se. Preocupe-se com sua saúde. Visite e\nincentive quem você gosta a visitar um cardiologista.\n\nCláudia,ano52,n.2,fev.2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse texto, publicado em uma revista, inicialmente aponta\nmodificações ocorridas na sociedade e, em seguida,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descreve as diferentes atividades das mulheres hoje em dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estimula as leitoras a buscar sua realização na vida profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alerta as mulheres para a possibilidade de problemas cardíacos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "informa as leitoras sobre mortes por câncer de mama e por infarto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valoriza as mulheres preocupadas com o bem-estar da família.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

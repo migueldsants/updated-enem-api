@@ -1,0 +1,45 @@
+{
+    "title": "Questão 104 - ENEM 2021 - Digital",
+    "index": 104,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Analisando a ficha técnica de um automóvel popular, verificam-se algumas\ncaracterísticas em relação ao seu desempenho. Considerando o mesmo automóvel em\nduas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados\napresentados no quadro, em relação ao desempenho de cada motor.\n\n![](https://enem.dev/2021-digital/questions/104/f6bb5b9f-5a34-466c-8478-5f6bdfa7664b.png)\n\nConsiderando desprezível a resistência do ar, qual versão apresenta a maior potência?",
+    "files": [
+        "https://enem.dev/2021-digital/questions/104/f6bb5b9f-5a34-466c-8478-5f6bdfa7664b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a maior potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Como a versão a gasolina atinge o maior valor de energia cinética, esta é a que desenvolve a maior potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

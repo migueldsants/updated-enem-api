@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2016 - Reaplicação",
+    "index": 130,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "É viajando pelo mundo que os dois profissionais\ndo Living Tongues Institute for Endangered Languages\nreúnem subsídios para formar os chamados “dicionários\nfalantes” de idiomas em fase de extinção, com poucos\nfalantes no planeta. “A maioria das línguas do mundo é\noral, o que significa que não estão escritas ou seus falantes\nnão costumam escrevê-las. E, apesar de os projetos\ntradicionais dos linguistas serem os de escrever gramáticas\ne dicionários, gostamos de pensar em línguas vivas, e\nsaber que as pessoas as estão falando. Então, se você vai\na um dicionário, deve ser capaz de ouvi-lo. Foi com isso\nem mente que criamos os dicionários para oito de algumas\n\n2016\n\ndas línguas mais ameaçadas do mundo”, disse o linguista\nK. David Harrison. Para os ativistas de cada comunidade\ncom idioma ameaçado, esse dicionário é uma ferramenta\nque pode ser usada para disseminar o conhecimento da\nlíngua entre os mais jovens. Para todas as outras pessoas\ninteressadas, é a oportunidade de encontrar sons e formas\nde discursos humanos desconhecidos para grande\nparte da população do globo. É a diversidade linguística\nescondida e que agora pode ser revelada.\n\nDisponível em: http://revistalingua.uol.com.br. Acesso em: 28 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando o projeto dos “dicionários falantes”,\ncompreende-se que o trabalho dos linguistas apresentado\nno texto objetiva",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "destacar a importância desse tipo de iniciativa para a reconstituição de línguas extintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ratificar a tradição oral como instrumento de preservação das línguas no mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "demonstrar a existência de registros linguísticos sob risco de desaparecer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "preservar a memória cultural de um povo por meio de registros escritos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estimular projetos voltados para a escrita de gramáticas e dicionários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

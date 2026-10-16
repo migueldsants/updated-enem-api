@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2020 - Digital",
+    "index": 119,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os objetos de prata tendem a escurecer com o tempo, em contato com compostos de\nenxofre, por causa da formação de uma película superficial de sulfeto de prata (Ag2S), que é\nescuro. Um método muito simples para restaurar a superfície original desses objetos é\nmergulhá-los em uma solução diluída aquecida de hidróxido de sódio (NaOH), contida em uma\npanela comum de alumínio. A equação química que ilustra esse processo é:\n\n3 Ag2S (s) + 2 Al (s) + 8 NaOH (aq) → 6 Ag (s) + 3 Na2S (aq) + 2 NaAlO2 (aq) + 4 H2O (l)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A restauração do objeto de prata ocorre por causa do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "prata, que reduz o enxofre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "íon sulfeto, que sofre oxidação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "íon hidróxido, que atua como agente oxidante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alumínio, que atua como agente redutor no processo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "variação do pH do meio reacional, que aumenta durante a reação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

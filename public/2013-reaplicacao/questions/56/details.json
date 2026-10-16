@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2013 - Reaplicação",
+    "index": 56,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Dupla humilhação destas lombrigas, humilhação\nde confessá-las a Dr. Alexandre, sério, perante irmãos\nque se divertem com tua fauna intestinal em perversas\nindagações: “Você vai ao circo assim mesmo? Vai\nlevando suas lombrigas? Elas também pagam entrada,\nse não podem ver o espetáculo? E se, ouvindo lá de\ndentro, as gabarolas do palhaço, vão querer sair para\nfora, hem? Como é que você se arranja?” O que é pior:\nmínimo verme, quinze centímetros modestos, não mais\n— vermezinho idiota — enquanto Zé, rival na escola, na\nqueda de braço, em tudo, se gabando mostra no vidro\no novelo comprovador de seu justo gabo orgulhoso:\nele expeliu, entre ohs! e ahs! de agudo pasmo familiar,\nformidável tênia porcina: a solitária de três metros.\n\nANDRADE, C. D. Boitempo. Rio de Janeiro: Aguiar, 1988.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto de Carlos Drummond de Andrade aborda duas\nparasitoses intestinais que podem afetar a saúde\nhumana. Com relação às tênias, mais especificamente, a\nTaenia solium, considera-se que elas podem parasitar o\nhomem na ocasião em que ele come carne de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "peixe mal-assada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "frango mal-assada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "porco mal-assada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "boi mal-assada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "carneiro mal-assada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

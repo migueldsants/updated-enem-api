@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 134,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O manual técnico de instalação de telhas de PVC indica a inclinação mínima que deve ter uma cobertura. Seguindo essa\norientação, foi construída uma edificação conforme a figura.\n\n![](https://enem.dev/2025-belem/questions/134/63106244-7031-450b-a5b9-99d5fcf6af03.png)\n\nPara coletar as águas das chuvas, é utilizada uma calha, que está no solo a uma distância horizontal D da base do telhado.\nO telhado apresenta inclinação de 30°. Como sua base se encontra a uma altura de 3 metros em relação ao solo, o tempo de\nqueda das águas é de 0,6 segundo. Com isso, somente as águas das chuvas mais fortes, que escoam pelo telhado a uma velocidade\nde módulo V = 4 m/s, são coletadas diretamente pela calha. Considere g = 10 m/s², sen 30° = 0,50 e cos 30° = 0,87.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/134/63106244-7031-450b-a5b9-99d5fcf6af03.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A distância horizontal D da calha à base do telhado é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,8 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,2 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,8 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,1 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2,4 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

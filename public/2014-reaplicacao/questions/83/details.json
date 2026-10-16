@@ -1,0 +1,46 @@
+{
+    "title": "Questão 83 - ENEM 2014 - Reaplicação",
+    "index": 83,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O bisfenol-A é um composto que serve de matéria-prima para a fabricação de polímeros utilizados em embalagens\nplásticas de alimentos, em mamadeiras e no revestimento interno de latas. Esse composto está sendo banido em\ndiversos países, incluindo o Brasil, principalmente por ser um mimetizador de estrógenos hormônios que, atuando\ncomo tal no organismo, pode causar infertilidade na vida adulta. O bisfenol-A massa molar igual a 228 g/mol é\npreparado pela condensação da propanona massa molar igual a 58 g/mol com fenol massa molar igual a 94 g/mol ,\nem meio ácido, conforme apresentado na equação química.\n\n![](https://enem.dev/2014-reaplicacao/questions/83/24b52e95-e9ec-46ff-9f84-8044f0a605a8.png)\n\nH C CH +\n\n33 H\n\n![](https://enem.dev/2014-reaplicacao/questions/83/f8a2759a-c2aa-4f4a-aee1-2fa9b9796756.png)\n\n+ H₂O\n\n2 +\n\nHO HO\nO OH\n\nPASTORE, M. Anvisa proíbe mamadeiras com bisfenol-A no Brasil. Folha de S. Paulo, 15 set. 2011 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/83/24b52e95-e9ec-46ff-9f84-8044f0a605a8.png",
+        "https://enem.dev/2014-reaplicacao/questions/83/f8a2759a-c2aa-4f4a-aee1-2fa9b9796756.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando que, ao reagir 580 g de propanona com 3 760 g de fenol, obteve-se 1,14 kg de bisfenol-A, de acordo\ncom a reação descrita, o rendimento real do processo foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,025%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,05%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

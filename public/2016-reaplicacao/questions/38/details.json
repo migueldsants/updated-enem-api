@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2016 - Reaplicação",
+    "index": 38,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Segunda Revolução Industrial, no final do\nséculo XIX e início do século XX, nos EUA, período em\nque a eletricidade passou gradativamente a fazer parte\ndo cotidiano das cidades e a alimentar os motores das\nfábricas, caracterizou-se pela administração científica do\ntrabalho e pela produção em série.\n\nMERLO, A. R. C.; LAPIS, N. L. A saúde e os processos de trabalho no capitalismo:\nreflexões na interface da psicodinâmica do trabalho e da sociologia do trabalho.\nPsicologia e Sociedade, n. 1, abr. 2007.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o texto, na primeira metade do século XX,\no capitalismo produziu um novo espaço geoeconômico e\numa revolução que está relacionada com a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proliferação de pequenas e médias empresas, que se equiparam com as novas tecnologias e aumentaram a produção, com aporte do grande capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "técnica de produção fordista, que instituiu a divisão e a hierarquização do trabalho, em que cada trabalhador realizava apenas uma etapa do processo produtivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "passagem do sistema de produção artesanal para o sistema de produção fabril, concentrando-se, principalmente, na produção têxtil destinada ao mercado interno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "independência política das nações colonizadas, que permitiu igualdade nas relações econômicas entre os países produtores de matérias-primas e os países industrializados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "constituição de uma classe de assalariados, que possuíam como fonte de subsistência a venda de sua força de trabalho e que lutavam pela melhoria das condições de trabalho nas fábricas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

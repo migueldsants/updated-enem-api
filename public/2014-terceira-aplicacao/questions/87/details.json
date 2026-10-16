@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2014 - Terceira aplicação",
+    "index": 87,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As antocianinas componente natural de frutas\nroxas, como uva e açaí são moléculas interessantes\npara a produção de embalagens inteligentes, pois têm\ncapacidade de mudar de cor, conforme muda o pH.\nEm soluções com pH abaixo de 3,0, essas moléculas\napresentam uma coloração do laranja ao vermelho mais\nintenso. Com o aumento do pH para a faixa de 4,0 a 5,0,\na coloração vermelha tende a desaparecer. E aumentos\nadicionais de pH levam as antocianinas a apresentarem\numa coloração entre o verde e o azul.\n\nDisponível em: www.biotecnologia.com.br. Acesso em: 25 nov. 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Estas embalagens são capazes de identificar quando o\nalimento está em decomposição, pois se tornam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vermelho claro, pela formação de uma solução neutra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "verde e azul, devido à presença de substâncias básicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "laranja e vermelho, pela liberação de hidroxilas no alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "laranja e vermelho intenso, pela produção de ácidos orgânicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "verde e azul, devido ao aumento de íons de hidrogênio no alimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

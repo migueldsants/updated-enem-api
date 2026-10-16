@@ -1,0 +1,46 @@
+{
+    "title": "Questão 9 - ENEM 2013 - Reaplicação",
+    "index": 9,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Classes sociais no Brasil (2005-2010)\n\n![](https://enem.dev/2013-reaplicacao/questions/9/629c9913-afc6-43c1-a75b-e96618f0ca51.png)\n\nFonte: Cetelem-Ipsos, 2010. O Globo, 23 mar. 2011(adaptado).\n\n![](https://enem.dev/2013-reaplicacao/questions/9/e8da2f70-f5f7-4073-b2a4-bfe2d76882cd.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/9/629c9913-afc6-43c1-a75b-e96618f0ca51.png",
+        "https://enem.dev/2013-reaplicacao/questions/9/e8da2f70-f5f7-4073-b2a4-bfe2d76882cd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A mudança na distribuição das classes de 2005 a 2010\nimplicou uma expressiva alteração no formato do primeiro\npara o segundo gráfico. Um processo associado a essa\nmudança está indicado no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expansão do mercado interno.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "concentração da renda nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "persistência da crise internacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "crescimento demográfico acelerado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fracasso das políticas redistributivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

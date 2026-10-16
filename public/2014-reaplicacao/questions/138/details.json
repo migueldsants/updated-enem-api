@@ -1,0 +1,51 @@
+{
+    "title": "Questão 138 - ENEM 2014 - Reaplicação",
+    "index": 138,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Corta-se um cubo ABCDEFGH por um plano\nortogonal às faces ABCD e EFGH que contém os\npontos médios I e J das arestas CD e BC e elimina-se,\nem seguida, o prisma IJCLKG, obtendo-se o prisma\nABJIDEFKLH.\n\nA\n\n![](https://enem.dev/2014-reaplicacao/questions/138/98691b98-0c5e-489a-9303-4b1f6632a288.png)\n\nB\n\nD\nC\n\n![](https://enem.dev/2014-reaplicacao/questions/138/23852a0d-47dc-42f2-9f39-dff34b545249.png)\n\nE",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/138/98691b98-0c5e-489a-9303-4b1f6632a288.png",
+        "https://enem.dev/2014-reaplicacao/questions/138/23852a0d-47dc-42f2-9f39-dff34b545249.png",
+        "https://enem.dev/2014-reaplicacao/questions/138/decced07-6abc-4fb4-b5ab-bae58acf74b4.png",
+        "https://enem.dev/2014-reaplicacao/questions/138/c1e3612c-33dd-4ccb-a160-bb35b2a7d38e.png",
+        "https://enem.dev/2014-reaplicacao/questions/138/b441fba5-3c8b-4a78-b8d5-96b4e31bf1e7.png",
+        "https://enem.dev/2014-reaplicacao/questions/138/4ef6d0a6-1040-4a0f-bd9b-21276b65b51b.png",
+        "https://enem.dev/2014-reaplicacao/questions/138/4211e863-7d60-4a3f-8364-b588c15e69e7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A planificação da superfície do prisma resultante\nABJIDEFKLH corresponde à figura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/138/decced07-6abc-4fb4-b5ab-bae58acf74b4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/138/c1e3612c-33dd-4ccb-a160-bb35b2a7d38e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/138/b441fba5-3c8b-4a78-b8d5-96b4e31bf1e7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/138/4ef6d0a6-1040-4a0f-bd9b-21276b65b51b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/138/4211e863-7d60-4a3f-8364-b588c15e69e7.png",
+            "isCorrect": true
+        }
+    ]
+}

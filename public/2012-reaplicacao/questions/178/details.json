@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2012 - Reaplicação",
+    "index": 178,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um pintor dispõe de 35 litros de tinta vermelha e\nde 30 litros de tinta branca. Ele deseja misturar essas\ntintas na proporção de 5 litros de tinta vermelha para\ncada 3 litros de tinta branca para obter um tom de tinta\nmais claro. Para obter o maior volume possível de tinta\nmisturada, ele deverá utilizar toda a tinta disponível de\numa das cores e sobrará uma certa quantidade de tinta\nda outra cor.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/178/48e59c9b-8338-4e70-9a97-fceb83014ffb.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantos litros de tinta sobrarão sem serem misturados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/178/48e59c9b-8338-4e70-9a97-fceb83014ffb.png",
+            "isCorrect": false
+        }
+    ]
+}

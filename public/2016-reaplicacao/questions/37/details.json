@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2016 - Reaplicação",
+    "index": 37,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Art. 7º – São direitos dos trabalhadores urbanos\ne rurais, além de outros que visem a melhoria de sua\ncondição social:\n\nXXV – assistência gratuita aos filhos e dependentes,\ndesde o nascimento até 5 (cinco) anos de idade, em\ncreches e pré-escolas; (Redação dada pela Emenda\nConstitucional n. 53, de 2006).\n\nDisponível em: www.jusbrasil.com.br. Acesso em: 20 fev. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A inclusão do direito à creche e à pré-escola na\nConstituição da República Federativa do Brasil pode ser\nexplicada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução da taxa de fecundidade no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "precarização das redes de escolas públicas brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mobilização das mulheres inseridas no mercado de trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "atuação da iniciativa privada consoante às demandas sociais da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "constatação dos elevados índices de maus-tratos sofridos pelas crianças no Brasil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

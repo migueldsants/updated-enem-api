@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2016 - Reaplicação",
+    "index": 12,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Lei do Sistema Nacional de Unidades de\nConservação surge de um conflito muito sério de\ninteresses: de um lado a atividade ilimitada e expansiva de\nexploração de recursos naturais, de outro a necessidade\nde garantir a manutenção das bases naturais, para a\nexistência do homem e para a própria continuidade da\natividade econômica expansiva que se quer represar.\n\nRODRIGUES, J. E. R. Sistema Nacional de Unidades de Conservação.\nRevista dos Tribunais, 2005.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A diversidade na classificação das unidades de\nconservação, definidas pela lei, revela a existência de um\nimpasse, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "restringe o uso da população local à função turística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "amplia as possibilidades do termo desenvolvimento sustentável.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "reforça a lógica da preservação dos recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "devolve a gerência desses espaços para o poder público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "garante a prioridade da criação de novas áreas no espaço rural.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

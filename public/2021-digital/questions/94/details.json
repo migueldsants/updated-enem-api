@@ -1,0 +1,49 @@
+{
+    "title": "Questão 94 - ENEM 2021 - Digital",
+    "index": 94,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento\nde polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos\neletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um\npolímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia\nprincipal do polímero.\n\nROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações.\nQuímica Nova na Escola, n. 12, 2000 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/94/6514d591-efe0-4590-aec0-5c7f0b47c371.png",
+        "https://enem.dev/2021-digital/questions/94/dceab35b-72bb-428a-a91c-7562a5d8f02a.png",
+        "https://enem.dev/2021-digital/questions/94/7bf80a00-58f9-4e13-8ed4-9fe44844ccd9.png",
+        "https://enem.dev/2021-digital/questions/94/8aeeb500-6ce7-44e2-b602-6e938d2673ba.png",
+        "https://enem.dev/2021-digital/questions/94/cc9bca23-4f08-4f1a-bf9a-bf3e8f314cdf.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um exemplo desse polímero é representado pela estrutura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/94/6514d591-efe0-4590-aec0-5c7f0b47c371.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/94/dceab35b-72bb-428a-a91c-7562a5d8f02a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/94/7bf80a00-58f9-4e13-8ed4-9fe44844ccd9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/94/8aeeb500-6ce7-44e2-b602-6e938d2673ba.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/94/cc9bca23-4f08-4f1a-bf9a-bf3e8f314cdf.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2013 - Reaplicação",
+    "index": 16,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É preciso ressaltar que, de todas as capitanias\nbrasileiras, Minas era a mais urbanizada. Não havia ali\nhegemonia de um ou dois grandes centros. A região era\nrepleta de vilas e arraiais, grandes e pequenos, em cujas\nruas muita gente circulava.\n\nPAIVA, E. F. O ouro e as transformações na sociedade colonial. São Paulo: Atual, 1998.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As regiões da América portuguesa tiveram distintas lógicas\nde ocupação. Uma explicação para a especificidade da\nregião descrita no texto está identificada na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apropriação cultural diante das influências externas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produção manufatureira diante do exclusivo comercial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "insubordinação religiosa diante da hierarquia eclesiástica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fiscalização estatal diante das particularidades econômicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "autonomia administrativa diante das instituições metropolitanas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

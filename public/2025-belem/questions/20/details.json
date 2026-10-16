@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 20,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Maria Manuela foi bordar no sofá. Ela ainda tinha três filhas\npara casar, e agora estava sem marido. Ainda bem que Manuela já\ntinha o Joaquim. Logo que a maldita guerra acabasse, ficavam noivos\ne casavam sem demora. Era um compromisso a menos. E depois,\nAntônio, quando voltasse, ajudaria a achar bom partido para as\noutras duas manas. Mas agora Antônio estava nos arredores de\nPorto Alegre, naquele sítio interminável que os rebeldes impunham\nà cidade. E Maria Manuela rezava por ele todos os dias, apegava-se\nàs suas santas, fazia promessas complicadas, jejuava. Tinha perdido o\nmarido, mas seu filho querido, esse, nem que ela tivesse de queimar\ntodas as velas do Rio Grande, esse voltava para casa são e salvo.\nPegou a agulha e recomeçou o trabalho de onde o tinha deixado na\nnoite anterior. Era uma toalha de mesa, para o enxoval de Manuela.\n\nWIERZCHOWSKI, L. A casa das sete mulheres.\nRio de Janeiro: Record, 2003.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse trecho do romance, o narrador expõe as preocupações\nde Maria Manuela em relação aos filhos, enfatizando valores\nrelacionados à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "viuvez como causa de solidão da matriarca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "obrigação materna de preparar o enxoval das filhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "visão do matrimônio como garantia de estabilidade financeira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "dependência dos filhos homens para planejar o futuro familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "adesão das mulheres à religiosidade como recurso de segurança.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

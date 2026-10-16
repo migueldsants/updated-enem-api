@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2014 - Reaplicação",
+    "index": 53,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O sonar é um equipamento eletrônico que permite a\nlocalização de objetos e a medida de distâncias no fundo\ndo mar, pela emissão de sinais sônicos e ultrassônicos\ne a recepção dos respectivos ecos. O fenômeno do eco\ncorresponde à reflexão de uma onda sonora por um\nobjeto, a qual volta ao receptor pouco tempo depois de\no som ser emitido. No caso do ser humano, o ouvido\né capaz de distinguir sons separados por, no mínimo,\n0,1 segundo.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando uma condição em que a velocidade do som\nno ar é 340 m/s, qual é a distância mínima a que uma\npessoa deve estar de um anteparo refletor para que se\npossa distinguir o eco do som emitido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "17 m",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "34 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "68 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 700 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 400 m",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

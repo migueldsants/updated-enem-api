@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2016 - Reaplicação",
+    "index": 95,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/95-espanhol/37e83068-0b9e-4ed6-8adb-d32fa729609a.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/95-espanhol/37e83068-0b9e-4ed6-8adb-d32fa729609a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A charge apresenta uma interpretação dos efeitos da\ncrise econômica espanhola e questiona o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decisão política de salvar a moeda única europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "congelamento dos salários dos funcionários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apatia da população em relação à política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "confiança dos cidadãos no sistema bancário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "plano do governo para salvar instituições financeiras.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

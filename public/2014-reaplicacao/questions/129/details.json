@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2014 - Reaplicação",
+    "index": 129,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Eu vô transmiti po sinhô logo uma passage muito\nimportante, qu’ eu iscutei um velho de nome Ricardo\nCaetano Alves, que era neto do propietário da Fazenda\ndo Buraca. O pai dele, ele contava que o pai dele assistiu\numa cena muito importante aonde ele tava, do Jacarandá,\no chefe dos iscravo do Joaquim de Paula, com o chefe\ndos iscravo do Vidigal, que chamava, era tratado Pai\nUrubu. O Jacarandá era tratado Jacarandá purque ele\nera um negro mais vermelho, tá intendeno com’ é que\né, né? Intão é uma imitância de cerno de Jacarandá,\nintão eles apilidaro ele de Pai Jacarandá. Agora, o Pai\nUrubu, diz que era o mais preto de todos os iscravo que\nera cunhicido nessa época. Intão ele ficô com o nome Pai\nUrubu. É quem dirigia, de toda confiança dos sinhores.\nIntão os sinhores cunhiciam eles como “pai”: Pai Urubu,\nPai Jacarandá, Pai Francisco, que é o chefe da Fazenda\ndas Abóbra, Pai Dumingo, que era da Fazenda do Buraca.\n\nSOUZA, J. Negros pelo vale.Belo Horizonte: Fale-UFMG, 2009.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto é uma transcrição da narrativa oral contada\npor Pedro Braga, antigo morador do povoado Vau, de\nDiamantina (MG). Com base no registro da fala do\nnarrador, entende-se que seu relato",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "perpetua a memória e os saberes dos antepassados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "constrói uma voz dissonante da identidade nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "demonstra uma visão distanciada da cultura negra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "revela uma visão unilateral dos fazendeiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "transmite pouca experiência e sabedoria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

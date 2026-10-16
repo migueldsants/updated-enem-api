@@ -1,0 +1,46 @@
+{
+    "title": "Questão 137 - ENEM 2014 - Terceira aplicação",
+    "index": 137,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um medidor de velocidade funciona com dois\nsensores instalados sob o asfalto. Um microprocessador\nrecebe os sinais elétricos emitidos pelos sensores,\ncalculando a velocidade v em função da distância fixa\nentre os sensores e o tempo gasto durante a passagem\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/137/03c3e397-f0a5-4afd-92fe-09d3cef8225c.png)\n\ntempo\n\nSe a velocidade for maior do que a máxima permitida\npara a via, um sistema de vídeo é acionado para capturar\na imagem do veículo infrator. Dois destes medidores estão\ninstalados em uma avenida, onde a velocidade máxima\npermitida é de 60 km/h e a distância entre os sensores é\nde meio metro 0,5 m .\n\nUm motorista dirige um carro, nessa avenida, com o\nvelocímetro descalibrado. Ao passar pelo primeiro medidor\nele se lembra da existência dos medidores, reduzindo\nem 10 km/h a velocidade do seu veículo, e passa pelo\nsegundo medidor. Sabe-se que o microprocessador do\nprimeiro medidor registrou que o veículo passou entre os\nsensores em 0,024 segundos e, pela legislação vigente,\na multa é classificada em:\n\nMédia: se a velocidade do veículo é maior do que\n60 km/h e menor ou igual a 72 km/h;\n\nGrave: se a velocidade do veículo é maior do que\n72 km/h e menor ou igual a 90 km/h;\n\nGravíssima: se a velocidade do veículo é maior do\nque 90 km/h.\n\n(Para transformar a velocidade de m/s para km/h\nmultiplica-se por 3,6 .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/137/03c3e397-f0a5-4afd-92fe-09d3cef8225c.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/137/e37a88da-462f-4839-b78e-e29b1c8072c2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual(ais) multa(s) esse infrator recebeu?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Somente uma média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Somente uma grave.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Uma grave e uma média.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Somente uma gravíssima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/137/e37a88da-462f-4839-b78e-e29b1c8072c2.png",
+            "isCorrect": false
+        }
+    ]
+}

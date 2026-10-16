@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2014 - Terceira aplicação",
+    "index": 133,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Floresta tropical, Rio de Janeiro, Brasil. Em meio às\nárvores, os pássaros gorjeiam, oh!, alegremente. De repente,\numa batucada daquelas bem brasileira. Aí, tucanos, garças,\ncanários e araras e outras aves enlouqueceram numa\ncoreografia tipo “a cara do Brasil”. A imagem é cortesia de\nRio, animação de Carlos Saldanha. Ao fundo, Real in Rio\n— na versão brazuca, Favo de Mel —, música de Sérgio\nMendes e Carlinhos Brown, letra da americana Siedah\nGarrett, e esperança brasileira na cerimônia de entrega do\nOscar 2012. Com trechos como “Nós somos os melhores\nno ritmo/ é por isso que amamos o Carnaval/ a mágica\npode acontecer de verdade no Rio/ tudo é selvagem e livre/\nnão se sinta sozinho porque aqui é a nossa casa”, Brown,\nMendes e Garrett vendem o eterno clichê de samba-suor-\nfutebol desta terra tropical.\n\nCHARLSON, F.; LOBÃO, G. Um sonho bem brasileiro. Jornal de Brasília,\n26 fev. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A música Real in Rio, de Brown, Mendes e Garrett, que\nintegra a animação Rio, foi composta para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sintetizar os gêneros e estilos da música carioca em uma única obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "demonstrar a possibilidade de compor um samba redigido em língua inglesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "compor o tema central da trilha sonora da produção de Carlos Saldanha.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "promover o gênero samba-enredo, que é característico do carnaval carioca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "constituir acompanhamento musical para a coreografia das aves na animação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

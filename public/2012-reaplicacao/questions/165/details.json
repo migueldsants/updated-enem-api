@@ -1,0 +1,46 @@
+{
+    "title": "Questão 165 - ENEM 2012 - Reaplicação",
+    "index": 165,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nas empresas em geral, são utilizados dois tipos\nde copos plásticos descartáveis, ambos com a forma de\ntroncos de cones circulares retos:\n\n• copos pequenos, para a ingestão de café: raios\ndas bases iguais a 2,4 cm e 1,8 cm e altura igual\na 3,6 cm;\n• copos grandes, para a ingestão de água: raios das\nbases iguais a 3,6 cm e 2,4 cm e altura igual a 8,0 cm.\n\nUma dessas empresas resolve substituir os dois\nmodelos de copos descartáveis, fornecendo para cada\num de seus funcionários canecas com a forma de um\ncilindro circular reto de altura igual a 6 cm e raio da base\nde comprimento igual a y centímetros. Tais canecas serão\nusadas tanto para beber café como para beber água.\n\nSabe-se que o volume de um tronco de cone circular\nreto, cujos raios das bases são respectivamente iguais a\nR e r e a altura é h, é dado pela expressão:\n\n![](https://enem.dev/2012-reaplicacao/questions/165/2e563120-6d8d-4369-adbf-00f72a1737c7.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/165/f4472735-31ed-409e-8e8f-325cc8c27737.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/165/2e563120-6d8d-4369-adbf-00f72a1737c7.png",
+        "https://enem.dev/2012-reaplicacao/questions/165/f4472735-31ed-409e-8e8f-325cc8c27737.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O raio y da base dessas canecas deve ser tal que y² seja,\nno mínimo, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,664 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,412 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12,160 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "14,824 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "19,840 cm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

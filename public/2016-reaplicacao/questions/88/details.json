@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2016 - Reaplicação",
+    "index": 88,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O descarte do óleo de cozinha na rede de esgotos\ngera diversos problemas ambientais. Pode-se destacar a\ncontaminação dos cursos-d’água, que tem como uma das\nconsequências a formação de uma película de óleo na\nsuperfície, causando danos à fauna aquática, por dificultar\nas trocas gasosas, além de diminuir a penetração dos\nraios solares no curso hídrico.\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 3 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual das propriedades dos óleos vegetais está\nrelacionada aos problemas ambientais citados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alta miscibilidade em água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alta reatividade com a água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Baixa densidade em relação à água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Baixa viscosidade em relação à água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Alto ponto de ebulição em relação à água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

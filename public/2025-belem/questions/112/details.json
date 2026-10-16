@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 112,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os dejetos de suínos têm alto poder poluidor devido à\nsua elevada carga orgânica e, muitas vezes, são lançados em\ncursos hídricos sem o tratamento adequado. Um biorreator\naeróbico de biogrânulos foi desenvolvido para o tratamento\ndesses dejetos em meio líquido. Os biogrânulos são estruturas\nesféricas compostas por aglomerados de diversas espécies de\nmicrorganismos do solo. Em um experimento, foram adicionados\ndejetos de suínos e monitoradas as formas de nitrogênio no\nefluente líquido do biorreator durante 40 horas. A tabela\napresenta os resultados desse experimento.\n\nComposição de nitrogênio total no efluente líquido\n\n![](https://enem.dev/2025-belem/questions/112/59d6dbd7-2cc9-45a3-92da-686f999c9142.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/112/59d6dbd7-2cc9-45a3-92da-686f999c9142.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse biorreator, a formação de amônia no efluente a partir\ndos dejetos suínos ocorre por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fixação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nitratação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nitrosação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desnitrificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "decomposição.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

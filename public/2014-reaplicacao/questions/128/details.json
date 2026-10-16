@@ -1,0 +1,45 @@
+{
+    "title": "Questão 128 - ENEM 2014 - Reaplicação",
+    "index": 128,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Há o hipotrélico. O termo é novo, de impensada\norigem e ainda sem definição que lhe apanhe em todas\nas pétalas o significado. Sabe-se, só, que vem do bom\nportuguês. Para a prática, tome-se hipotrélico querendo\ndizer: antipodático, sengraçante imprizido; ou talvez, vice-\ndito: indivíduo pedante, importuno agudo, falta de respeito\npara com a opinião alheia. Sob mais que, tratando-se de\npalavra inventada, e, como adiante se verá, embirrando\no hipotrélico em não tolerar neologismos, começa ele por\nse negar nominalmente a própria existência.\n\nROSA, G. Tutameia: terceiras estórias. Rio de Janeiro: Nova Fronteira, 2001 (fragmento).\n\n![](https://enem.dev/2014-reaplicacao/questions/128/863e1234-76c9-46d7-a43f-1d1bee604395.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/128/863e1234-76c9-46d7-a43f-1d1bee604395.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse trecho de uma obra de Guimarães Rosa,\ndepreende-se a predominância de uma das funções da\nlinguagem, identificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "metalinguística, pois o trecho tem como propósito essencial usar a língua portuguesa para explicar a própria língua, por isso a utilização de vários sinônimos e definições.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "referencial, pois o trecho tem como principal objetivo discorrer sobre um fato que não diz respeito ao escritor ou ao leitor, por isso o predomínio da terceira pessoa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fática, pois o trecho apresenta clara tentativa de estabelecimento de conexão com o leitor, por isso o emprego dos termos “sabe-se lá” e “tome-se hipotrélico”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "poética, pois o trecho trata da criação de palavras novas, necessária para textos em prosa, por isso o emprego de “hipotrélico”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "expressiva, pois o trecho tem como meta mostrar a subjetividade do autor, por isso o uso do advérbio de dúvida “talvez”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

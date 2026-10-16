@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2021 - Digital",
+    "index": 43,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021-digital/questions/43/62bbe4d6-60be-4490-8c0a-e0bd0fb7c224.png)\n\nD’SALETE, M. Cumbe. São Paulo: Veneta, 2018, p. 10-11 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/43/62bbe4d6-60be-4490-8c0a-e0bd0fb7c224.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A sequência dos quadrinhos conjuga lirismo e violência ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sugerir a impossibilidade de manutenção dos afetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revelar os corpos marcados pela brutalidade colonial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "representar o abatimento diante da desumanidade vivida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acentuar a resistência identitária dos povos escravizados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "expor os sujeitos alijados de sua ancestralidade pelo exílio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

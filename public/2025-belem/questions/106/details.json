@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 106,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Brasil é um dos maiores produtores mundiais de manganês\n(massa molar = 55 g ⋅ mol⁻¹), um metal essencial na fabricação\nde aço e ligas de ferro. Esse metal é obtido a partir do minério\npirolusita, que contém 40% de MnO₂ (massa molar = 87 g ⋅ mol⁻¹).\nA reação que ocorre nesse processo apresenta rendimento de\n80% e está descrita a seguir:\n2 MnO₂ (s) + 2 Fe₂O₃ (s) + 5 C (s) → 2 Mn (s) + 4 Fe (s) + 5 CO₂ (g)\n\nUma indústria processa 18 t (toneladas) de minério\npirolusita por dia.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A massa de manganês, em tonelada, que essa indústria produz\ndiariamente é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,6 t.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4,6 t.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,7 t.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9,1 t.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11,4 t.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

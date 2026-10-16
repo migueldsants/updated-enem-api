@@ -1,0 +1,51 @@
+{
+    "title": "Questão 137 - ENEM 2014 - Reaplicação",
+    "index": 137,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura é uma representação tridimensional da\nmolécula do hexafluoreto de enxofre, que tem a forma\nbipiramidal quadrada, na qual o átomo central de enxofre\nestá cercado por seis átomos de flúor, situados nos seis\nvértices de um octaedro. O ângulo entre qualquer par de\nligações enxofre-flúor adjacentes mede 90°.\n\nLegenda:\n\nEnxofre\n\n![](https://enem.dev/2014-reaplicacao/questions/137/84941575-f7af-4b07-ae28-5f10f08a3968.png)\n\nFlúor\n\nLigação\n\nDisponívelem: www.portalsaofrancisco.com.br. Acessoem:2mar.2013 (adaptado).\n\n![](https://enem.dev/2014-reaplicacao/questions/137/9acc33e5-0e3a-4e55-b70e-bfafbef802fa.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/137/84941575-f7af-4b07-ae28-5f10f08a3968.png",
+        "https://enem.dev/2014-reaplicacao/questions/137/9acc33e5-0e3a-4e55-b70e-bfafbef802fa.png",
+        "https://enem.dev/2014-reaplicacao/questions/137/b0596e29-461c-4ffa-8682-fc2b3e7a01ce.png",
+        "https://enem.dev/2014-reaplicacao/questions/137/9ca1fa50-358b-4f47-aa54-f371a3276a5d.png",
+        "https://enem.dev/2014-reaplicacao/questions/137/2328c18c-2f75-46d4-b1ba-167978146bdf.png",
+        "https://enem.dev/2014-reaplicacao/questions/137/aa96cdca-cb1a-4a6e-8db5-347714b1a02a.png",
+        "https://enem.dev/2014-reaplicacao/questions/137/6397a112-4b64-4ff4-ac10-c9b51a67e3a9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A vista superior da molécula, como representada na\nfigura, é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/137/b0596e29-461c-4ffa-8682-fc2b3e7a01ce.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/137/9ca1fa50-358b-4f47-aa54-f371a3276a5d.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/137/2328c18c-2f75-46d4-b1ba-167978146bdf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/137/aa96cdca-cb1a-4a6e-8db5-347714b1a02a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/137/6397a112-4b64-4ff4-ac10-c9b51a67e3a9.png",
+            "isCorrect": false
+        }
+    ]
+}

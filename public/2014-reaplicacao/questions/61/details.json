@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2014 - Reaplicação",
+    "index": 61,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao se caracterizarem os aspectos ambientais do\nsetor sucroalcooleiro, é preciso analisar dois setores: o\nsetor agrícola, que se refere às atividades desenvolvidas\nna área que a cultura da cana-de-açúcar ocupa, e o setor\nindustrial, que está relacionado à fabricação de açúcar\ne álcool.\n\nALVARENGA, R. P.; QUEIROZ, T. R. Produção mais limpa e aspectos ambientais na\nindústria sucroalcooleira. Disponível em: www.advancesincleanerproduction.net.\nAcesso em: 3 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para essa atividade produtiva, como impacto ambiental\ncausado pelo setor industrial, tem-se o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "compactação do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "assoreamento dos rios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desmatamento de áreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "queima da cana-de-açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "geração de resíduos poluidores.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

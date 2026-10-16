@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2013 - Reaplicação",
+    "index": 88,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 1861 foi anunciada a existência de um fóssil\ndenominado Arqueopterix, que revolucionou o debate\nacerca da evolução dos animais. Tratava-se de um\ndinossauro que possuía penas em seu corpo. A partir\ndessa descoberta, a árvore filogenética dos animais\nacabou sofrendo transformações quanto ao ancestral\ndireto das aves.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa nova árvore filogenética, de qual grupo as aves se\noriginaram?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Peixes ósseos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Répteis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Mamíferos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Peixes cartilaginosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Anfíbios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

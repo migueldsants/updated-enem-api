@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2016 - Reaplicação",
+    "index": 61,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para reciclar um motor de potência elétrica igual a 200 W,\num estudante construiu um elevador e verificou que ele\nfoi capaz de erguer uma massa de 80 kg a uma altura de\n3 metros durante 1 minuto. Considere a aceleração da\ngravidade 10,0 m/s².",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a eficiência aproximada do sistema para realizar\ntal tarefa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "50%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

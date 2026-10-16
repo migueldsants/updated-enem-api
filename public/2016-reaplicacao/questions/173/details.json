@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2016 - Reaplicação",
+    "index": 173,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura mostra a pirâmide de Quéops, também conhecida\ncomo a Grande Pirâmide. Esse é o monumento mais pesado\nque já foi construído pelo homem da Antiguidade. Possui\naproximadamente 2,3 milhões de blocos de rocha, cada um\npesando em média 2,5 toneladas. Considere que a pirâmide\nde Quéops seja regular, sua base seja um quadrado com\nlados medindo 214 m, as faces laterais sejam triângulos\nisósceles congruentes e suas arestas laterais meçam 204 m.\n\n![](https://enem.dev/2016-reaplicacao/questions/173/d873006a-d04c-4950-a2fb-95afed9ba107.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/173/d873006a-d04c-4950-a2fb-95afed9ba107.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor mais aproximado para a altura da pirâmide de\nQuéops, em metro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "97,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "136,8.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "173,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "189,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "240,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

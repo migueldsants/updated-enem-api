@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2021 - Digital",
+    "index": 30,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Não que Pelino fosse químico, longe disso; mas era sábio, era gramático. Ninguém\nescrevia em Tubiacanga que não levasse bordoada do Capitão Pelino, e mesmo quando\nse falava em algum homem notável lá no Rio, ele não deixava de dizer: “Não há dúvida! O\nhomem tem talento, mas escreve: ‘um outro’, ‘de resto’…” E contraía os lábios como se\ntivesse engolido alguma cousa amarga.\n\nToda a vila de Tubiacanga acostumou-se a respeitar o solene Pelino, que corrigia e\nemendava as maiores glórias nacionais. Um sábio…\n\nAo entardecer, depois de ler um pouco o Sotero, o Candido de Figueiredo ou o\nCastro Lopes, e de ter passado mais uma vez a tintura nos cabelos, o velho\nmestre-escola saía vagarosamente de casa, muito abotoado no seu paletó de brim\nmineiro, e encaminhava-se para a botica do Bastos a dar dous dedos de prosa.\nConversar é um modo de dizer, porque era Pelino avaro de palavras, limitando-se\ntão-somente a ouvir. Quando, porém, dos lábios de alguém escapava a menor incorreção\nde linguagem, intervinha e emendava. “Eu asseguro, dizia o agente do Correio, que…”\nPor aí, o mestre-escola intervinha com mansuetude evangélica: “Não diga ‘asseguro’,\nSenhor Bernardes; em português é garanto”.\n\nE a conversa continuava depois da emenda, para ser de novo interrompida por uma\noutra. Por essas e outras, houve muitos palestradores que se afastaram, mas Pelino,\nindiferente, seguro dos seus deveres, continuava o seu apostolado de vernaculismo.\n\nBARRETO, L. A Nova Califórnia. Disponível em: www.dominiopublico.gov.br. Acesso em: 24 jul. 2019.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Do ponto de vista linguístico, a defesa da norma-padrão pelo personagem\ncaracteriza-se por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contestar o ensino de regras em detrimento do conteúdo das informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "resgatar valores patrióticos relacionados às tradições da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "adotar uma perspectiva complacente em relação aos desvios gramaticais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "invalidar os usos da língua pautados pelos preceitos da gramática normativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desconsiderar diferentes níveis de formalidade nas situações de comunicação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

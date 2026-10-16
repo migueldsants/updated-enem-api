@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2016 - Reaplicação",
+    "index": 24,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nEmbora eles, artistas modernos, se deem como novos precursores duma arte a ir, nada é mais velho que a arte\nanormal. De há muitos já que a estudam os psiquiatras em seus tratados, documentando-se nos inúmeros desenhos\nque ornam as paredes internas dos manicômios. Essas considerações são provocadas pela exposição da Sra. Malfatti.\nSejam sinceros: futurismo, cubismo, impressionismo e tutti quanti não passam de outros tantos ramos da arte caricatural.\n\nLOBATO, M. Paranoia ou mistificação: a propósito da exposição de Anita Malfatti. O Estado de São Paulo, 20 dez.1917 (adaptado).\n\nTEXTO II\n\nAnita Malfatti, possuidora de uma alta consciência do que faz, a vibrante artista não temeu levantar com os seus\ncinquenta trabalhos as mais irritadas opiniões e as mais contrariantes hostilidades. As suas telas chocam o preconceito\nfotográfico que geralmente se leva no espírito para as nossas exposições de pintura. Na arte, a realidade na ilusão é\no que todos procuram. E os naturalistas mais perfeitos são os que melhor conseguem iludir.\n\nANDRADE, O. A exposição Anita Malfatti. Jornal do Commercio, 11 jan. 1918 (adaptado).\n\nTEXTO III\n\n![](https://enem.dev/2016-reaplicacao/questions/24/a08c91fc-46d1-4b0c-9f3d-1cecd1a59960.png)\n\nMALFATTI, A. O homem amarelo, 1915-1916. Óleo sobre tela, 61 x 51 cm. Disponível em: www.estadao.com.br. Acesso em: 28 fev. 2013.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/24/a08c91fc-46d1-4b0c-9f3d-1cecd1a59960.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A análise dos documentos apresentados demonstra que o cenário artístico brasileiro no primeiro quartel do século XX\nera caracterizado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "domínio do academicismo, que dificultava a recepção da vertente realista na obra de Anita Malfatti.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dissonância entre as vertentes artísticas, que divergiam sobre a validade do modelo estético europeu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "exaltação da beleza e da rigidez da forma, que justificavam a adaptação da estética europeia à realidade brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "impacto de novas linguagens estéticas, que alteravam o conceito de arte e abasteciam a busca por uma produção artística nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "influência dos movimentos artísticos europeus de vanguarda, que levava os modernistas a copiarem suas técnicas e temáticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

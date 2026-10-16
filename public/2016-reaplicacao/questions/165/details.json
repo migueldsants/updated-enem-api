@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2016 - Reaplicação",
+    "index": 165,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Observou-se que todas as formigas de um formigueiro\ntrabalham de maneira ordeira e organizada. Foi feito um\nexperimento com duas formigas e os resultados obtidos\nforam esboçados em um plano cartesiano no qual os\neixos estão graduados em quilômetros. As duas formigas\npartiram juntas do ponto O, origem do plano cartesiano\nxOy. Uma delas caminhou horizontalmente para o lado\ndireito, a uma velocidade de 4 km/h. A outra caminhou\nverticalmente para cima, à velocidade de 3 km/h.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após 2 horas de movimento, quais as coordenadas\ncartesianas das posições de cada formiga?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(8;0) e (0;6).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "(4;0) e (0;6).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(4;0) e (0;3).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(0;8) e (6;0).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(0;4) e (3;0).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

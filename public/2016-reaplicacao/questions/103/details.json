@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2016 - Reaplicação",
+    "index": 103,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/103/8f7a3d18-cfec-4143-86a6-651ccff6b17b.png)\n\nNo Brasil, milhares de crianças e adolescentes trabalham em casas de família. Isso não é legal.\nO trabalho infantil doméstico encurta a infância, prejudica a autoestima e provoca grande defasagem escolar.\n\nDesenvolvemos diversos programas sociais que protegem e dão dignidade a crianças e jovens,\ncomo o PETI, PROJOVEM URBANO, PROJOVEM ADOLESCENTE E PROJOVEM TRABALHADOR, entre outros.\n\nDisponível em: http://servicos.prt16.mpt.mp.br. Acesso em: 15 jul. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/103/8f7a3d18-cfec-4143-86a6-651ccff6b17b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A peça publicitária, em pauta, busca promover uma conscientização social. Pela análise dos procedimentos\nargumentativos utilizados pelo autor, o texto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "opõe a fragilidade da criança aos desmandos dos adultos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "elenca as causas da existência do trabalho infantil no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "detalha as iniciativas governamentais de solução do problema abordado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "divulga ações institucionais locais para o enfrentamento de um problema nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ressalta a responsabilidade das famílias na proteção das crianças e dos adolescentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

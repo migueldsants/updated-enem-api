@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2016 - Reaplicação",
+    "index": 92,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Getting Every Child to School\n\nRight now 67 million children are missing out on their\nright to an education. They can’t go to school because\nthey have to work to survive, because they are girls or\neven because there are no schools where they live.\n\nWhere will these children be when they grow up\nwithout the chance to learn?\n\nWe’re working to make sure every child goes to school.\nWe’re helping build schools, train teachers, advocating\ngirl’s education and reaching children who have to work or\nare caught up in emergencies with learning.\n\nYou can help uphold every child’s right to an\neducation. Make a donation today to not only give children\nthe chance to go to school, but also save their lives and\nprotect their childhoods.\n\nDisponível em: www.supportunicef.org. Acesso em: 20 maio 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa campanha pretende contribuir para diminuir a\ndesigualdade social, uma vez que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "denuncia o trabalho de menores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aponta motivos para a evasão escolar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "divulga o número de crianças fora da escola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "defende a reforma de políticas educacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pede ajuda para garantir às crianças o direito à educação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

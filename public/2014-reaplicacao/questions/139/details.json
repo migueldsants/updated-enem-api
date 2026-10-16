@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2014 - Reaplicação",
+    "index": 139,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Após encerrar o período de vendas de 2012, uma\nconcessionária fez um levantamento das vendas de\ncarros novos no último semestre desse ano. Os dados\nestão expressos no gráfico:\n\nCarros vendidos\n\nJulho Agosto Setembro Outubro Novembro Dezembro\n\nAo fazer a apresentação dos dados aos funcionários,\no gerente estipulou como meta para o mês de janeiro\nde 2013 um volume de vendas 20% superior à média\nmensal de vendas do semestre anterior.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para atingir essa meta, a quantidade mínima de carros\nque deveriam ser vendidos em janeiro de 2013 seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "17.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "21.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

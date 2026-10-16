@@ -1,0 +1,50 @@
+{
+    "title": "Questão 135 - ENEM 2020 - Digital",
+    "index": 135,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os feromônios de insetos são substâncias responsáveis pela comunicação química entre\nesses indivíduos. A extração de feromônios para uso agronômico no lugar de pesticidas\nconvencionais geralmente é inviável, pois são encontrados em baixa concentração nas\nglândulas de armazenamento. Uma das formas de solucionar essa limitação é a síntese em\nlaboratório dos próprios feromônios ou de isômeros que apresentem a mesma atividade.\nSuponha que o composto apresentado seja um feromônio natural e que seu tautômero seja\num potencial substituto.\n\n![](https://enem.dev/2020-digital/questions/135/58dae54d-3c1d-427e-94ce-93c3e5b404f7.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/135/58dae54d-3c1d-427e-94ce-93c3e5b404f7.png",
+        "https://enem.dev/2020-digital/questions/135/d8759a1e-e8f7-4b69-a933-568b15d15ee4.png",
+        "https://enem.dev/2020-digital/questions/135/0570c293-fc6e-4928-ae5d-48bb3c7069ac.png",
+        "https://enem.dev/2020-digital/questions/135/66a7d2df-b23a-440d-96fd-be86bbd898b0.png",
+        "https://enem.dev/2020-digital/questions/135/c73c96b6-85d2-4cb7-aa11-ea89ac946d59.png",
+        "https://enem.dev/2020-digital/questions/135/bc8083ec-c283-48d7-9fe1-a79532e20201.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base na estrutura química desse feromônio, seu potencial substituto é representado pela\nsubstância:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/135/d8759a1e-e8f7-4b69-a933-568b15d15ee4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/135/0570c293-fc6e-4928-ae5d-48bb3c7069ac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/135/66a7d2df-b23a-440d-96fd-be86bbd898b0.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/135/c73c96b6-85d2-4cb7-aa11-ea89ac946d59.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/135/bc8083ec-c283-48d7-9fe1-a79532e20201.png",
+            "isCorrect": false
+        }
+    ]
+}

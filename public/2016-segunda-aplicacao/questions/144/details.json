@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2016 - Segunda aplicação",
+    "index": 144,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O veículo terrestre mais veloz já fabricado até hoje é o\nSonic Wind LSRV, que está sendo preparado para atingir\na velocidade de 3 000 km/h. Ele é mais veloz do que o\nConcorde, um dos aviões de passageiros mais rápidos já\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/144/ba18bc94-c68e-40dc-8b8a-61ce043c3768.png)\n\nPara uma distância fixa, a velocidade e o tempo são\ninversamente proporcionais.\n\nBASILIO, A. Galileu, mar. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/144/ba18bc94-c68e-40dc-8b8a-61ce043c3768.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para percorrer uma distância de 1 000 km, o valor mais\npróximo da diferença, em minuto, entre os tempos\ngastos pelo Sonic Wind LSRV e pelo Concorde, em suas\nvelocidades máximas, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "11,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40,2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

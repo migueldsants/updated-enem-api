@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2014 - Reaplicação",
+    "index": 164,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os salários, em reais, dos funcionários de uma\n\n![](https://enem.dev/2014-reaplicacao/questions/164/0507bea0-5205-44a9-b4df-36189d168851.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/164/0507bea0-5205-44a9-b4df-36189d168851.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A mediana dos valores dos salários dessa empresa é,\nem reais,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "622,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "933,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1 244,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 021,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 799,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

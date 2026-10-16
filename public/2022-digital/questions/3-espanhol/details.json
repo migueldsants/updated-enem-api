@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2022 - Digital",
+    "index": 3,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "En los suburbios de La Habana, llaman al amigo mi tierra o mi sangre. En Caracas, el\namigo es mi pana o mi llave: pana, por panadería, la fuente del buen pan para las\nhambres del alma; y llave por... — Llave, por llave — me dice Mario Benedetti. Y me\ncuenta que cuando vivía en Buenos Aires, en los tiempos del terror, él llevaba cinco llaves\najenas en su llavero: cinco llaves, de cinco casas, de cinco amigos: las llaves que lo\nsalvaron.\n\nGALEANO, E. El libro de los abrazos. Madri: Siglo Veintiuno, 2015.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse texto, o autor demonstra como as diferentes expressões existentes em espanhol\npara se referir a “amigo” variam em função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "das peculiaridades dos subúrbios hispano-americanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da força da conexão espiritual entre os amigos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do papel da amizade em diferentes contextos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "do hábito de reunir amigos em torno da mesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dos graus de intimidade entre os amigos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

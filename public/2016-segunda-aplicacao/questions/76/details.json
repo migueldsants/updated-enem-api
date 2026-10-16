@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2016 - Segunda aplicação",
+    "index": 76,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para lavar e refrescar o ambiente, que estava a 40 °C,\numa pessoa resolveu jogar água sobre um piso de granito.\nEla observou que o líquido se concentrou em algumas\nregiões, molhando parcialmente a superfície. Ao adicionar\ndetergente sobre essa água, a pessoa verificou que o\nlíquido se espalhou e deixou o piso totalmente molhado.\nA molhabilidade da superfície foi melhorada em função da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "solubilidade do detergente em água ser alta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tensão superficial da água ter sido reduzida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "pressão de vapor da água ter sido diminuída.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "densidade da solução ser maior que a da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "viscosidade da solução ser menor que a da água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

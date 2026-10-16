@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2014 - Reaplicação",
+    "index": 127,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A tendência dos nomes\n\nO nome é uma das primeiras coisas que não\nescolhemos na vida. Estará inscrito nos registros: na\nmaternidade, no RG, no CPF, no obituário etc. Enfim,\numa escolha que não fizemos nos acompanha do berço\nao túmulo, pois na lápide se dirá que ali jaz Fulano de Tal.\n\nSILVA, D. Língua, n. 77, mar. 2012.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/127/dae564c8-23f1-484f-8433-50b125d3c5c9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Algumas palavras atuam no desenvolvimento de um texto\ncontribuindo para a sua progressão. A palavra “enfim”\npromove o encadeamento do texto, tendo sido utilizada\ncom a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "explicar que os nomes das pessoas são escolhidos no nascimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ratificar que os nomes registrados no nascimento são imutáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reiterar que os nomes recebidos são importantes até a morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "concluir que os nomes acompanham os indivíduos até a morte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/127/dae564c8-23f1-484f-8433-50b125d3c5c9.png",
+            "isCorrect": false
+        }
+    ]
+}

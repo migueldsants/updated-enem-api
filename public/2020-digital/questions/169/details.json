@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2020 - Digital",
+    "index": 169,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma casa lotérica oferece cinco opções de jogos. Em cada opção, o apostador escolhe\num grupo de K números distintos em um cartão que contém um total de N números\ndisponíveis, gerando, dessa forma, um total de C combinações possíveis para se fazer a\nmarcação do cartão. Ganha o prêmio o cartão que apresentar os K números sorteados. Os\nvalores desses jogos variam de R$ 1,00 a R$ 2,00, conforme descrito no quadro.\n\n![](https://enem.dev/2020-digital/questions/169/d3c02875-ac71-4fa3-88aa-7f771a21ba3f.png)\n\nUm apostador dispõe de R$ 2,00 para gastar em uma das cinco opções de jogos\ndisponíveis.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/169/d3c02875-ac71-4fa3-88aa-7f771a21ba3f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo o valor disponível para ser gasto, o jogo que oferece ao apostador maior\nprobabilidade de ganhar prêmio é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

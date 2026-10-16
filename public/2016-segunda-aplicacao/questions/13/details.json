@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2016 - Segunda aplicação",
+    "index": 13,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Cúpula dos Povos começa como\ncontraponto à Rio+20\n\nEnquanto a conferência oficial no Riocentro, na\nBarra, é restrita a participantes credenciados, que\nsó entram depois de passar por um forte controle de\nsegurança, a Cúpula dos Povos é aberta ao público,\nem tendas ao ar livre no Aterro do Flamengo. Ela é\naberta também às tribos e discussões mais diversas,\nem mesas de debate e painéis geridos pelos próprios\nparticipantes, buscando promover a mobilização social.\nProblemas ambientais, econômicos, sociais, políticos\ne de minorias serão discutidos no evento, afirma uma\nativista norte-americana, em alusão ao movimento que\nocupou Wall Street, em Nova York, no ano passado.\n\nDisponível em: www.bbc.co.uk. Acesso em: 14 ago. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma articulação entre as agendas ambientalistas e a\nantiglobalização indica a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "humanização do sistema capitalista financeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "consolidação do movimento operário internacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "promoção de consenso com as elites políticas locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "constituição de espaços de debates transversais globais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "construção das pautas com os partidos políticos socialistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

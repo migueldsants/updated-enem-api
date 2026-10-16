@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2022 - Digital",
+    "index": 29,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Esaú e Jacó\n\nBárbara entrou, enquanto o pai pegou da viola e passou ao patamar de pedra, à\nporta da esquerda. Era uma criaturinha leve e breve, saia bordada, chinelinha no pé. Não\nse lhe podia negar um corpo airoso. Os cabelos, apanhados no alto da cabeça por um\npedaço de fita enxovalhada, faziam-lhe um solidéu natural, cuja borla era suprida por um\nraminho de arruda. Já vai nisto um pouco de sacerdotisa. O mistério estava nos olhos.\nEstes eram opacos, não sempre nem tanto que não fossem também lúcidos e agudos, e\nneste último estado eram igualmente compridos; tão compridos e tão agudos que\nentravam pela gente abaixo, revolviam o coração e tornavam cá fora, prontos para nova\nentrada e outro revolvimento. Não te minto dizendo que as duas sentiram tal ou qual\nfascinação. Bárbara interrogou-as; Natividade disse ao que vinha e entregou-lhe os\nretratos dos filhos e os cabelos cortados, por lhe haverem dito que bastava.\n\n— Basta, confirmou Bárbara. Os meninos são seus filhos?\n\n— São.\n\nASSIS, M. Obra completa. Rio de Janeiro: Nova Aguilar, 1994.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No relato da visita de duas mulheres ricas a uma vidente no Morro do Castelo, a ironia —\num dos traços mais representativos da narrativa machadiana — consiste no",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "modo de vestir dos moradores do morro carioca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "senso prático em relação às oportunidades de renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mistério que cerca as clientes de práticas de vidência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "misto de singeleza e astúcia dos gestos da personagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "interesse do narrador pelas figuras femininas ambíguas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

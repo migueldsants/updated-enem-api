@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2022 - Digital",
+    "index": 83,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nascidas no Líbano, as duas irmãs não puderam ser registradas no país, porque lá é\nexigido que os nascidos sejam filhos de pais e mães libaneses. Seus pais, de\nnacionalidade síria, também não puderam registrá-las no país de origem. Na Síria,\ncrianças só são registradas por pais oficialmente casados, o que não era o caso deles.\n\nDisponível em: https://agenciabrasil.ebc.com.br. Acesso em: 7 nov. 2021.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em situações como a apresentada no texto, as pessoas ao nascerem já se encontram na\ncondição sociopolítica de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exiladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apátridas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "foragidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "refugiadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "clandestinas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

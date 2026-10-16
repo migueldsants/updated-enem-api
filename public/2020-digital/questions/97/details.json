@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2020 - Digital",
+    "index": 97,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um fabricante de termômetros orienta em seu manual de instruções que o instrumento\ndeve ficar três minutos em contato com o corpo para aferir a temperatura. Esses termômetros\nsão feitos com o bulbo preenchido com mercúrio conectado a um tubo capilar de vidro.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com a termodinâmica, esse procedimento se justifica, pois é necessário que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o termômetro e o corpo tenham a mesma energia interna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a temperatura do corpo passe para o termômetro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o equilíbrio térmico entre os corpos seja atingido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a quantidade de calor dos corpos seja a mesma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o calor do termômetro passe para o corpo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

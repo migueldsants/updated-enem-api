@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2015 - Reaplicação",
+    "index": 25,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nA melhor banda de todos os tempos da última semana\nO melhor disco brasileiro de música americana\nO melhor disco dos últimos anos de sucessos do\npassado\nO maior sucesso de todos os tempos entre os dez\nmaiores fracassos\nNão importa contradição\nO que importa é televisão\nDizem que não há nada que você não se acostume\nCala a boca e aumenta o volume então.\n\nMELLO, B.; BRITTO, S. A melhor banda de todos os tempos da última semana.\nSão Paulo: Abril Music, 2001 (fragmento).\n\nTEXTO II\n\nO fetichismo na música e a regressão da audição\n\nAldous Huxley levantou em um de seus ensaios a\nseguinte pergunta: quem ainda se diverte realmente hoje\nnum lugar de diversão? Com o mesmo direito poder-se-ia\nperguntar: para quem a música de entretenimento serve\nainda como entretenimento? Ao invés de entreter, parece\nque tal música contribui ainda mais para o emudecimento\ndos homens, para a morte da linguagem como expressão,\npara a incapacidade de comunicação.\n\nADORNO, T. Textos escolhidos. São Paulo: Nova Cultural, 1999.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A aproximação entre a letra da canção e a crítica de\nAdorno indica o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "lado efêmero e restritivo da indústria cultural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "baixa renovação da indústria de entretenimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "influência da música americana na cultura brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fusão entre elementos da indústria cultural e da cultura popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "declínio da forma musical em prol de outros meios de entretenimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

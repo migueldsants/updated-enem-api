@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2016 - Reaplicação",
+    "index": 28,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os ricos adquiriram uma obrigação relativamente à\ncoisa pública, uma vez que devem sua existência ao ato\nde submissão à sua proteção e zelo, o que necessitam\npara viver; o Estado então fundamenta o seu direito de\ncontribuição do que é deles nessa obrigação, visando a\nmanutenção de seus concidadãos. Isso pode ser realizado\npela imposição de um imposto sobre a propriedade ou a\natividade comercial dos cidadãos, ou pelo estabelecimento\nde fundos e de uso dos juros obtidos a partir deles, não\npara suprir as necessidades do Estado (uma vez que este\né rico), mas para suprir as necessidades do povo.\n\nKANT, I. A metafísica dos costumes. Bauru: Edipro, 2003.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo esse texto de Kant, o Estado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "deve sustentar todas as pessoas que vivem sob seu poder, a fim de que a distribuição seja paritária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "está autorizado a cobrar impostos dos cidadãos ricos para suprir as necessidades dos cidadãos pobres.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "dispõe de poucos recursos e, por esse motivo, é obrigado a cobrar impostos idênticos dos seus membros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "delega aos cidadãos o dever de suprir as necessidades do Estado, por causa do seu elevado custo de manutenção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tem a incumbência de proteger os ricos das imposições pecuniárias dos pobres, pois os ricos pagam mais tributos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

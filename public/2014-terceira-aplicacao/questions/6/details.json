@@ -1,0 +1,46 @@
+{
+    "title": "Questão 6 - ENEM 2014 - Terceira aplicação",
+    "index": 6,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/6/bbdcf79e-ed87-4613-8899-82f8e79c9688.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/6/75bcc060-692d-444d-85cf-28cb0c9a4a78.png)\n\ncomputadores pessoais, Steve Jobs, um dos criadores\nfabricado em 1976 da empresa Apple, em 2008\n\nDisponível em: http://topicos.estadao.com.br. Acesso em: 23 nov. 2011.\nDisponível em: www.fusiondiary.com. Acesso em: 23 nov. 2011.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/6/bbdcf79e-ed87-4613-8899-82f8e79c9688.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/6/75bcc060-692d-444d-85cf-28cb0c9a4a78.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com o intenso desenvolvimento da tecnologia no\nmundo contemporâneo, diversos produtos tornam-\nse rapidamente ultrapassados. Todavia, comparando\nas imagens, existem elementos que demonstram a\ncontinuidade entre os primeiros computadores pessoais\ne os atuais. Essa continuidade associa-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à base tecnológica utilizada na fabricação do produto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ao uso do produto na atividade empresarial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao direcionamento do produto a um mercado elitizado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à dinamização no processamento e transmissão de informações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "à necessidade de orientação de especialistas para seu uso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

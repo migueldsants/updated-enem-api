@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2012 - Reaplicação",
+    "index": 98,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Eu sei que a gente se acostuma. Mas não devia.\nA gente se acostuma a morar em apartamentos de\nfundos e a não ter outra vista que não as janelas ao redor.\nE, porque não tem vista, logo se acostuma a não olhar\npara fora. E, porque não olha para fora, logo se acostuma\na não abrir todas as cortinas. E, porque não abre as\ncortinas, logo se acostuma a acender mais cedo a luz. E,\nà medida que se acostuma, esquece o sol, esquece o ar,\nesquece a amplidão.\n\nCOLASANTI, M. Eu sei, mas não devia. Rio de Janeiro: Rocco, 1996.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A progressão é garantida nos textos por determinados\nrecursos linguísticos, e pela conexão entre esses\nrecursos e as ideias que eles expressam. Na crônica, a\ncontinuidade textual é construída, predominantemente,\npor meio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do emprego de vocabulário rebuscado, possibilitando a elegância do raciocínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da repetição de estruturas, garantindo o paralelismo sintático e de ideias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "da apresentação de argumentos lógicos, constituindo blocos textuais independentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "da ordenação de orações justapostas, dispondo as informações de modo paralelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da estruturação de frases ambíguas, construindo efeitos de sentido opostos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

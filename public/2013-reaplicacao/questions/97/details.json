@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2013 - Reaplicação",
+    "index": 97,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Usei uma conexão via computador, pela primeira\nvez, em 1988. Morava na França, trabalhando como\ncorrespondente da Folha de S. Paulo e concordei em\nutilizar um laptop Toshiba T1000, equipado com um modem\nde 1 200 bauds, para transmitir minhas reportagens. O\ntexto entrava direto nos terminais da redação, digitalizado,\nsegundos depois de composto na tela de cristal líquido\ndo pequeno Toshiba. O laptop sequer tinha disco rígido,\nera tudo comandado por disquete e gravado em disquete.\nPermitiu-me aposentar não só a Olivetti como o vetusto\ntelex de casa. Em seguida, eu pegava o telefone e\nchamava a redação para saber se o texto “entrara” bem.\nAté que, um dia, o engenheiro de informática do jornal me\ndisse que, dali em diante, não precisaríamos usar mais\na ligação telefônica internacional tradicional, muito cara,\npara saber se o texto havia chegado corretamente ou tirar\ndúvidas sobre o manuseio do computador. Poderíamos\nfazer aquilo via chat, uma conversa textual na tela do\npróprio laptop. Essa maravilha seria possível por meio de\num programinha de conversação.\n\nSPYE, J. Conectado. São Paulo: Martins Fontes, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto apresenta uma situação de uso das tecnologias\nde comunicação e informação por um jornalista. A\nmudança do uso do telefone para o uso do chat evidencia\na transformação na dinâmica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do trabalho, em função das tecnologias de",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "comunicação e informação. do acesso às informações divulgadas pela mídia",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "digital aos internautas. da divulgação das notícias pela mídia digital e os",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "impactos provocados no cotidiano. da valorização de profissionais da imprensa com a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "chegada das mídias digitais. dos avanços na área de telejornalismo na ascensão da imprensa internacional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

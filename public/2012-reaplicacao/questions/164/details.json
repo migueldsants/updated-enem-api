@@ -1,0 +1,46 @@
+{
+    "title": "Questão 164 - ENEM 2012 - Reaplicação",
+    "index": 164,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma aluna registrou as notas de matemática obtidas\n\n![](https://enem.dev/2012-reaplicacao/questions/164/77b4da58-cd06-4008-bd65-b0fbc916db0b.png)\n\nEla ainda não sabe qual será sua nota de matemática\nno quarto bimestre, mas sabe que o peso dessa nota na\nmédia final é 4. As notas variam de zero a dez, sendo\npermitida apenas uma casa na parte decimal (caso\ncontrário a nota será arredondada, usando como critério “se\no algarismo da segunda casa decimal é maior ou igual a 5,\nentão o algarismo na primeira casa decimal será acrescido\nde uma unidade”). A média final mínima para aprovação na\nescola dessa aluna é 7. Se ela obtiver média final inferior\na 7, precisará realizar uma outra prova que substitua a\nmenor das notas bimestrais, de modo a alcançar a média 7\n(mantidos os mesmos pesos anteriores).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/164/77b4da58-cd06-4008-bd65-b0fbc916db0b.png",
+        "https://enem.dev/2012-reaplicacao/questions/164/2a9a6b64-d63e-471b-a458-5d0a9b035100.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se essa aluna precisar realizar uma prova para substituir\na nota que obteve no primeiro bimestre, e tal nota precisar\nser igual a 4,8, é porque a nota que ela obteve no quarto\nbimestre foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7,9.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "9,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/164/2a9a6b64-d63e-471b-a458-5d0a9b035100.png",
+            "isCorrect": false
+        }
+    ]
+}

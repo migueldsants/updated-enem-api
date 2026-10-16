@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 141,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um ciclista, durante seu treinamento, percorreu duas voltas\ncompletas na pista de automobilismo. Essa pista é formada por\ntrês trechos retilíneos e cinco trechos curvilíneos, que são arcos\n\n![](https://enem.dev/2025-belem/questions/141/93cea2ad-3955-42d8-891f-121ba6cd8bb5.png)\n\nUm dos arcos é subtendido por um ângulo reto, e a medida\nde seu raio é 90 m. A medida do raio dos demais arcos é 260 m,\ne as medidas de seus ângulos centrais estão indicadas na figura.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/141/93cea2ad-3955-42d8-891f-121ba6cd8bb5.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Utilize 3 como valor aproximado para π.\nQual foi a distância, em metro, percorrida pelo ciclista?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7 620",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7 110",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5 540",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 285",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 900",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

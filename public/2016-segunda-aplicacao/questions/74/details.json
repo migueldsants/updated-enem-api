@@ -1,0 +1,46 @@
+{
+    "title": "Questão 74 - ENEM 2016 - Segunda aplicação",
+    "index": 74,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os seres vivos mantêm constantes trocas de matéria\ncom o ambiente mediante processos conhecidos como\nciclos biogeoquímicos. O esquema representa um dos\nciclos que ocorrem nos ecossistemas.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/74/18bbc2e9-a20d-4fc0-9299-a4e8c6fe8bfb.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/74/d591b2b9-5c28-40d0-8f94-37c6cb3539dd.png)\n\nDecomposição subterrâneo",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/74/18bbc2e9-a20d-4fc0-9299-a4e8c6fe8bfb.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/74/d591b2b9-5c28-40d0-8f94-37c6cb3539dd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O esquema apresentado corresponde ao ciclo\nbiogeoquímico do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fósforo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "enxofre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "carbono.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "nitrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2012 - Reaplicação",
+    "index": 29,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Assentado, portanto, que a Escritura, em muitas\npassagens, não apenas admite, mas necessita de\nexposições diferentes do significado aparente das\npalavras, parece-me que, nas discussões naturais,\ndeveria ser deixada em último lugar.\n\nGALILEI, G. Carta a Dom Benedetto Castelli. In: Ciência e fé: cartas de Galileu sobre o\nacordo do sistema copernicano com a Bíblia. São Paulo: Unesp, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto, extraído da carta escrita por Galileu (1564-1642)\ncerca de trinta anos antes de sua condenação pelo\nTribunal do Santo Ofício, discute a relação entre ciência\ne fé, problemática cara no século XVII. A declaração de\nGalileu defende que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a bíblia, por registrar literalmente a palavra divina, apresenta a verdade dos fatos naturais, tornando-se guia para a ciência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o significado aparente daquilo que é lido acerca da natureza na bíblia constitui uma referência primeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as diferentes exposições quanto ao significado das palavras bíblicas devem evitar confrontos com os dogmas da Igreja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a bíblia deve receber uma interpretação literal porque, desse modo, não será desviada a verdade natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os intérpretes precisam propor, para as passagens bíblicas, sentidos que ultrapassem o significado imediato das palavras.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

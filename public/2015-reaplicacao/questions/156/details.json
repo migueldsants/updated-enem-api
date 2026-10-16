@@ -1,0 +1,49 @@
+{
+    "title": "Questão 156 - ENEM 2015 - Reaplicação",
+    "index": 156,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um bairro residencial tem cinco mil moradores, dos\nquais mil são classificados como vegetarianos. Entre os\nvegetarianos, 40% são esportistas, enquanto que, entre\nos não vegetarianos, essa porcentagem cai para 20%.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/156/41009a6c-1a01-4c04-8ea9-a3db5aa56193.png",
+        "https://enem.dev/2015-reaplicacao/questions/156/bbb0daaa-a30b-4f4a-abb8-00f4da38adf3.png",
+        "https://enem.dev/2015-reaplicacao/questions/156/e793e159-a67b-4cd5-bcab-2353cea95ace.png",
+        "https://enem.dev/2015-reaplicacao/questions/156/16759547-fb2e-40c5-b3f9-aa32e7fb0d43.png",
+        "https://enem.dev/2015-reaplicacao/questions/156/d8ca8395-d632-4bc7-ab6b-ca8fcefd989e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma pessoa desse bairro, escolhida ao acaso, é\nesportista.\nA probabilidade de ela ser vegetariana é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/156/41009a6c-1a01-4c04-8ea9-a3db5aa56193.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/156/bbb0daaa-a30b-4f4a-abb8-00f4da38adf3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/156/e793e159-a67b-4cd5-bcab-2353cea95ace.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/156/16759547-fb2e-40c5-b3f9-aa32e7fb0d43.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/156/d8ca8395-d632-4bc7-ab6b-ca8fcefd989e.png",
+            "isCorrect": false
+        }
+    ]
+}

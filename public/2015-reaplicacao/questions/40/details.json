@@ -1,0 +1,45 @@
+{
+    "title": "Questão 40 - ENEM 2015 - Reaplicação",
+    "index": 40,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/40/b582bf3f-0294-4348-b162-58fecd294a58.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/40/b582bf3f-0294-4348-b162-58fecd294a58.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O cartum evidencia um desafio que o tema da inclusão\nsocial impõe às democracias contemporâneas. Esse\ndesafio exige a combinação entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "participação política e formação profissional diferenciada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "exercício da cidadania e políticas de transferência de renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "modernização das leis e ampliação do mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "universalização de direitos e reconhecimento das diferenças.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "crescimento econômico e flexibilização dos processos seletivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

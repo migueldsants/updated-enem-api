@@ -1,0 +1,46 @@
+{
+    "title": "Questão 101 - ENEM 2013 - Reaplicação",
+    "index": 101,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/101/64e16b2b-78bc-4bb6-94ff-ea43203fffb1.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/101/fb7535fe-2a23-431a-8d44-e28c452b6616.png)\n\nCABRAL, I. Disponível em: http://ivancabral.blogspot.com. Acesso em: 26 jul. 2010.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/101/64e16b2b-78bc-4bb6-94ff-ea43203fffb1.png",
+        "https://enem.dev/2013-reaplicacao/questions/101/fb7535fe-2a23-431a-8d44-e28c452b6616.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A cada verão, o Aedes aegypti, mosquito transmissor da\ndengue, traz preocupação para os brasileiros. A charge\nretrata essa situação a que o país está submetido.\nConsiderando os objetivos da charge, sua posição crítica\nse dá na medida em que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "compara o mosquito a um esportista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "enfatiza o poder de resistência do inseto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "elege o mosquito como o vilão da saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "atribui características humanas ao mosquito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ignora a gravidade da questão por meio do humor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

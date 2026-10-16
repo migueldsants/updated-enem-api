@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2016 - Reaplicação",
+    "index": 180,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cinco máquinas de costura são utilizadas em uma\nconfecção de calças. O proprietário deseja comprar mais\numa dessas máquinas, idêntica a uma das já existentes,\ndevendo escolher a que tiver a maior média de produção\npor hora. Na tabela estão indicadas as quantidades\nde horas trabalhadas e de calças confeccionadas por\ncada uma das máquinas em determinados períodos\n\n![](https://enem.dev/2016-reaplicacao/questions/180/ac30424f-cc00-431f-9a02-9d9a7004a81f.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/180/ac30424f-cc00-431f-9a02-9d9a7004a81f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

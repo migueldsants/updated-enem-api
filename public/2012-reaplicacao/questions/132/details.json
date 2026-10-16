@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2012 - Reaplicação",
+    "index": 132,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Todo bom escritor tem o seu instante de graça, possui\na sua obra-prima, aquela que congrega numa estrutura\nperfeita os seus dons mais pessoais. Para Dias Gomes\nessa hora de inspiração veio-lhe no dia que escreveu\nO pagador de promessas. Em torno de Zé-do-Burro —\nherói ideal, por unir o máximo de caráter ao mínimo de\ninteligência, naquela zona fronteiriça entre o idiota e o\nsanto — o enredo espalha a malícia e a maldade de uma\ncapital como Salvador, mitificada pela música popular\ne pela literatura, na qual o explorador de mulheres se\nchama inevitavelmente Bonitão, o poeta popular, Dedé\nCospe-Rima, e o mestre de capoeira, Manuelzinho Sua\nMãe. O colorido do quadro contrasta fortemente com a\nsimplicidade da ação, que caminha numa linha reta da\nchegada de Zé-do-Burro à sua entrada trágica e triunfal na\nigreja — não sob a cruz, conforme prometera, mas sobre\nela, carregado pelos capoeiras, “como um crucifixado”.\n\nPRADO, D. A. O teatro brasileiro moderno. São Paulo: Perspectiva, 2008 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A avaliação crítica de Décio de Almeida Prado destaca as\nqualidades de O pagador de promessas. Com base nas\nideias defendidas por ele, uma boa obra teatral deve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorizar a cultura local como base da estrutura estética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ressaltar o lugar do oprimido por uma forma religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dialogar a tradição local com elementos universais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "romper com a estrutura clássica da encenação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reproduzir abordagens trágicas e pessimistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

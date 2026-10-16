@@ -1,0 +1,49 @@
+{
+    "title": "Questão 83 - ENEM 2016 - Reaplicação",
+    "index": 83,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um laboratório, são apresentados aos alunos uma\nlâmpada, com especificações técnicas de 6 V e 12 W,\ne um conjunto de 4 pilhas de 1,5 V cada.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/83/9ac9ca18-cfa8-4ba6-9c12-d58ba9117a0a.png",
+        "https://enem.dev/2016-reaplicacao/questions/83/608ad2bf-9521-4ee0-9479-d10755d3cd3d.png",
+        "https://enem.dev/2016-reaplicacao/questions/83/bd409407-20d7-47e7-a641-1b365b45035c.png",
+        "https://enem.dev/2016-reaplicacao/questions/83/45ca0758-2244-4261-be49-303661343806.png",
+        "https://enem.dev/2016-reaplicacao/questions/83/59f36d2f-aebc-4472-a653-d5f126ab8ae4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual associação de geradores faz com que a lâmpada\nproduza maior brilho?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/83/9ac9ca18-cfa8-4ba6-9c12-d58ba9117a0a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/83/608ad2bf-9521-4ee0-9479-d10755d3cd3d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/83/bd409407-20d7-47e7-a641-1b365b45035c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/83/45ca0758-2244-4261-be49-303661343806.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/83/59f36d2f-aebc-4472-a653-d5f126ab8ae4.png",
+            "isCorrect": false
+        }
+    ]
+}

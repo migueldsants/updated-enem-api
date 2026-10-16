@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2013 - Reaplicação",
+    "index": 170,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para um principiante em corrida, foi estipulado\no seguinte plano de treinamento diário: correr 300\nmetros no primeiro dia e aumentar 200 metros por dia,\na partir do segundo. Para contabilizar seu rendimento,\nele utilizará um chip, preso ao seu tênis, para medir a\ndistância percorrida nos treinos. Considere que esse\nchip armazene, em sua memória, no máximo 9,5 km de\ncorrida/caminhada, devendo ser colocado no momento\ndo início do treino e descartado após esgotar o espaço\npara reserva de dados.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se esse atleta utilizar o chip desde o primeiro dia de\ntreinamento, por quantos dias consecutivos esse chip poderá\narmazenar a quilometragem desse plano de treino diário?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2013 - Reaplicação",
+    "index": 137,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Médicos alertam sobre a importância de educar as\ncrianças para terem hábitos alimentares saudáveis. Por\nexemplo, analisando-se uma bolacha com recheio de\nchocolate (25 g) e um pé de alface (25 g), observam-se\nas seguintes quantidades de nutrientes, respectivamente:\n\n• carboidratos: 15 g e 0,5 g;\n\n• proteínas: 1,9 g e 0,5 g.\n\nDisponível em: http://veja.abril.com.br. Acesso em: 27 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as informações apresentadas, qual deve\nser o número de pés de alface consumidos para se obter\na mesma quantidade de carboidratos de uma bolacha?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

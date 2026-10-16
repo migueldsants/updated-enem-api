@@ -1,0 +1,45 @@
+{
+    "title": "Questão 113 - ENEM 2014 - Reaplicação",
+    "index": 113,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Miss Universo: “As pessoas racistas devem procurar\n\najuda”\nSÃO PAULO — Leila Lopes, de 25 anos, não é a\nprimeira negra a receber a faixa de Miss Universo.\nA primazia coube a Janelle “Penny” Commissiong, de\nTrinidad e Tobago, vencedora do concurso em 1977.\nDepois dela vieram Chelsi Smith, dos Estados Unidos,\nem 1995; Wendy Fitzwilliam, também de Trinidad e\nTobago, em 1998, e Mpule Kwelagobe, de Botswana,\nem 1999. Em 1986, a gaúcha Deise Nunes, que foi a\nprimeira negra a se eleger Miss Brasil, ficou em sexto\nlugar na classificação geral. Ainda assim a estupidez\nhumana faz com que, vez ou outra, surjam manifestações\npreconceituosas como a de um site brasileiro que, às\nvésperas da competição, e se valendo do anonimato\nde quem o criou, emitiu opiniões do tipo “Como alguém\nconsegue achar uma preta bonita?”Após receber o título,\na mulher mais linda do mundo — que tem o português\ncomo língua materna e também fala fluentemente o inglês\n— disse o que pensa de atitudes como essa e também\nsobre como sua conquista pode ajudar os necessitados\nde Angola e de outros países.\n\nCOSTA, D. Disponível em: http://oglobo.globo.com. Acesso em: 10 set. 2011 (adaptado).\n\n![](https://enem.dev/2014-reaplicacao/questions/113/570392d5-a2d1-4e9e-b6b1-3a6229a2d4fc.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/113/570392d5-a2d1-4e9e-b6b1-3a6229a2d4fc.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O uso da expressão “ainda assim” presente nesse texto\ntem como finalidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criticar o teor das informações fatuais até ali veiculadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "questionar a validade das ideias apresentadas anteriormente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "comprovar a veracidade das informações expressas anteriormente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "introduzir argumentos que reforçam o que foi dito anteriormente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "enfatizar o contrassenso entre o que é dito antes e o que vem em seguida.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

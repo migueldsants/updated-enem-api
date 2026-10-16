@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2016 - Segunda aplicação",
+    "index": 95,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "New vaccine could fight nicotine addiction\nCigarette smokers who are having trouble quitting\nbecause of nicotine’s addictive power may some day be\nable to receive a novel antibody-producing vaccine to help\nthem kick the habit.\n\nThe average cigarette contains about 4 000 different\nchemicals that — when burned and inhaled — cause the\nserious health problems associated with smoking. But\nit is the nicotine in cigarettes that, like other addictive\nsubstances, stimulates rewards centers in the brain and\nhooks smokers to the pleasurable but dangerous routine.\n\nRonald Crystal, who chairs the department of genetic\nmedicine at Weill-Cornell Medical College in New York,\nwhere researchers are developing a nicotine vaccine,\nsaid the idea is to stimulate the smoker’s immune system\nto produce antibodies or immune proteins to destroy the\nnicotine molecule before it reaches the brain.\n\nBERMAN, J. Disponível em: www.voanews.com. Acesso em: 2 jul. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Muitas pessoas tentam parar de fumar, mas fracassam e\nsucumbem ao vício. Na tentativa de ajudar os fumantes,\npesquisadores da Weill-Cornell Medical College estão\ndesenvolvendo uma vacina que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminua o risco de o fumante se tornar dependente da nicotina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "seja produzida a partir de moléculas de nicotina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "substitua a sensação de prazer oferecida pelo cigarro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ative a produção de anticorpos para combater a nicotina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "controle os estímulos cerebrais do hábito de fumar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

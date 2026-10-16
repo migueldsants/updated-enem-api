@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2013 - Reaplicação",
+    "index": 24,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O antropólogo americano Marius Barbeau escreveu o\nseguinte: sempre que se cante a uma criança uma cantiga\nde ninar; sempre que se use uma canção, uma adivinha,\numa parlenda, uma rima de contar, no quarto das crianças\nou na escola; sempre que ditos e provérbios, fábulas,\nhistórias bobas e contos populares sejam representados;\naí veremos o folclore em seu próprio domínio, sempre em\nação, vivo e mutável, sempre pronto a agarrar e assimilar\nnovos elementos em seu caminho.\n\nUTLEY, F. L. Uma definição de folclore. In: BRANDÃO, C. R. O que é folclore.\nSão Paulo: Brasiliense, 1984 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto tem como objeto a construção da identidade\ncultural, reconhecendo que o folclore, mesmo sendo uma\nmanifestação associada à preservação das raízes e da\nmemória dos grupos sociais,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "está sujeito a mudanças e reinterpretações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "deve ser apresentado de forma escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "segue os padrões de produção da moderna indústria cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tende a ser materializado em peças e obras de arte eruditas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "expressa as vivências contemporâneas e os anseios futuros desses grupos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

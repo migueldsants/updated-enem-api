@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2020 - Digital",
+    "index": 34,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Cartas se caracterizam por serem textos efêmeros, inscritas no tempo de sua produção e\nescritas, muitas vezes, no papel que se tem à mão. Por isso, frequentemente, salvo um\nesforço dos próprios missivistas ou de terceiros, preocupados em preservá-las, facilmente\ndesaparecem, seja pelo corriqueiro de seu conteúdo, seja pela sua fragilidade material. Nem\nsempre é assim, porém. Temos assistido, nestas duas décadas do século XXI, a um grande\ninteresse pelas chamadas écritures du moi (“escritas do eu”, na expressão de Georges\nGusdorf): nunca se estudaram tantas memórias, diários, cartas, quanto nesses últimos\ntempos. Publicações de memórias, diários, cartas sempre houve. Estudos, no entanto, que os\nenxergassem como objetos de pesquisa, e não como auxiliares para a interpretação da obra\nde um escritor, como protagonistas, e não como coadjuvantes, eram raros.\n\nNesse sentido, engana-se quem abre o volume Cartas provincianas: correspondência\nentre Gilberto Freyre e Manuel Bandeira, lançado pela Global Editora, e julga deparar-se\napenas com um livro de cartas. A organizadora preocupou-se em contextualizar cada uma das\n68 cartas, em um trabalho cuidadoso e pormenorizado de reconstituição das condições de\nprodução de cada uma delas, um verdadeiro resgate.\n\nTIN, E. Diálogos intermitentes. Pesquisa Fapesp, n. 259, set. 2017.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, o gênero carta tem assumido a função social de material de cunho\ncientífico por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constituir-se em um registro pessoal do estilo de escrita de autores famosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ser fonte de informações sobre os interlocutores envolvidos na interação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "assumir uma materialidade resistente ao aspecto efêmero do tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ser um registro de um momento histórico social mais amplo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fazer parte do acervo literário do país.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

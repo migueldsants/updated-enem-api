@@ -1,0 +1,46 @@
+{
+    "title": "Questão 116 - ENEM 2016 - Reaplicação",
+    "index": 116,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/116/844fe497-9df3-4ecf-b0dd-7533b47ecc1d.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/116/db3e4a7b-3280-4d96-a674-731dcad360e4.png)\n\nMuseu de Versalhes, Paris, 1801.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/116/844fe497-9df3-4ecf-b0dd-7533b47ecc1d.png",
+        "https://enem.dev/2016-reaplicacao/questions/116/db3e4a7b-3280-4d96-a674-731dcad360e4.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A pintura Napoleão cruzando os Alpes, do artista francês\nJacques Louis-David, produzida em 1801, contempla as\ncaracterísticas de um estilo que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utiliza técnicas e suportes artísticos inovadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reflete a percepção da população sobre a realidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "caricaturiza episódios marcantes da história europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "idealiza eventos históricos pela ótica de grupos dominantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "compõe obras com base na visão crítica de artistas consagrados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2016 - Segunda aplicação",
+    "index": 12,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A história não corresponde exatamente ao que foi\nrealmente conservado na memória popular, mas àquilo\nque foi selecionado, escrito, descrito, popularizado e\ninstitucionalizado por quem estava encarregado de fazê-lo.\nOs historiadores, sejam quais forem seus objetivos, estão\nenvolvidos nesse processo, uma vez que eles contribuem,\nconscientemente ou não, para a criação, demolição e\nreestruturação de imagens do passado que pertencem\nnão só ao mundo da investigação especializada, mas\ntambém à esfera pública na qual o homem atua como\nser político.\n\nHOBSBAWN, E.; RANGER, T. A invenção das tradições.\nRio de Janeiro: Paz e Terra, 1984 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma vez que a neutralidade é inalcançável na atividade\nmencionada, é tarefa do profissional envolvido",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criticar as ideias dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "respeitar os interesses sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "defender os direitos das minorias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "explicitar as escolhas realizadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "satisfazer os financiadores de pesquisas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

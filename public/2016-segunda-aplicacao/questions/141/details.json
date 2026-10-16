@@ -1,0 +1,52 @@
+{
+    "title": "Questão 141 - ENEM 2016 - Segunda aplicação",
+    "index": 141,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nas construções prediais são utilizados tubos de\ndiferentes medidas para a instalação da rede de água.\nEssas medidas são conhecidas pelo seu diâmetro, muitas\nvezes medido em polegada. Alguns desses tubos, com\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/141/5759a161-8e32-45da-bf56-d079ea49d987.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/141/bfb8ae6d-1a08-4d17-beae-cd2836e11479.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/141/2774604e-a2bb-4f67-9ee8-b38ff8c40f74.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/5759a161-8e32-45da-bf56-d079ea49d987.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/bfb8ae6d-1a08-4d17-beae-cd2836e11479.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/2774604e-a2bb-4f67-9ee8-b38ff8c40f74.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/c25796f4-a0c7-4463-9a0c-da7a0a46305d.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/e1d39601-30fa-44c4-9d24-7f2c7bbbdb3a.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/1fc04cd6-ba22-4524-abb8-f2d6ae468fb9.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/7170bc6f-2081-4669-b18e-e0966653815e.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/141/ee89bc5d-850f-459c-9085-e3ce0c675396.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "1 3 5",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/141/c25796f4-a0c7-4463-9a0c-da7a0a46305d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/141/e1d39601-30fa-44c4-9d24-7f2c7bbbdb3a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/141/1fc04cd6-ba22-4524-abb8-f2d6ae468fb9.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/141/7170bc6f-2081-4669-b18e-e0966653815e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/141/ee89bc5d-850f-459c-9085-e3ce0c675396.png",
+            "isCorrect": false
+        }
+    ]
+}

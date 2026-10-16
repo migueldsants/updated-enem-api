@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2020 - Digital",
+    "index": 124,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Entre os materiais mais usados no nosso dia a dia destacam-se os plásticos, constituídos\npor polímeros. A consequência de seu amplo uso é a geração de resíduos, que necessitam de\num destino final adequado em termos ambientais. Uma das alternativas tem sido a reciclagem,\nque deve respeitar as características dos polímeros que compõem o material. Esse processo\nenvolve algumas etapas, como: separação do resíduo (catação), moagem, hidrólise, lavagem,\nsecagem, pirólise e aquecimento (fusão).\n\nSPINACÉ, M. A. S., PAOLI, M. A. D. Tecnologia de reciclagem de polímeros. Química Nova, n.1, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quais das etapas citadas do processo de reciclagem são classificadas como métodos\nquímicos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Hidrólise e pirólise",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Secagem e pirólise",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Moagem e lavagem",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Separação e hidrólise",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Secagem e aquecimento",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

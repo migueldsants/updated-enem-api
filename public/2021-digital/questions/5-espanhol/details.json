@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2021 - Digital",
+    "index": 5,
+    "year": 2021,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021-digital/questions/5-espanhol/85202728-588f-4b7d-9136-0885cbadc501.png)\n\nERLICH. Disponível em: https://mansunides.org. Acesso em: 5 dez. 2018.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/5-espanhol/85202728-588f-4b7d-9136-0885cbadc501.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A charge evoca uma situação de assombro frente a uma realidade que assola as\nsociedades contemporâneas. Seu efeito humorístico reside na crítica diante do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constatação do ser humano como o responsável pela condição caótica do mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "indignação dos trabalhadores em face das injustiças sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "veiculação de informações trágicas pelos telejornais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manipulação das notícias difundidas pelas mídias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

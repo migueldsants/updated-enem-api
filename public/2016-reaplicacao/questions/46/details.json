@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2016 - Reaplicação",
+    "index": 46,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um pesquisador preparou um fragmento do caule de uma flor de margarida para que pudesse ser observado\nem microscopia óptica. Também preparou um fragmento de pele de rato com a mesma finalidade. Infelizmente, após\nalgum descuido, as amostras foram misturadas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Que estruturas celulares permitiriam a separação das amostras, se reconhecidas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ribossomos e mitocôndrias, ausentes nas células animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Centríolos e lisossomos, organelas muito numerosas nas plantas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Envoltório nuclear e nucléolo, característicos das células eucarióticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Lisossomos e peroxissomos, organelas exclusivas de células vegetais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Parede celular e cloroplastos, estruturas características de células vegetais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

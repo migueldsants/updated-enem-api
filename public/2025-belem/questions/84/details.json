@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 84,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O modo de sentar e andar, as formas de colocar cadernos\ne canetas, pés e mãos acabariam por produzir um corpo\nescolarizado, distinguindo o menino da menina que passara pelos\nbancos escolares. As escolas femininas dedicavam intensas e\nrepetidas horas ao treino das habilidades manuais de suas alunas,\nproduzindo jovens “prendadas”, capazes dos mais delicados\ne complexos trabalhos de agulha ou de pintura.\n\nLOURO, G. L. Gênero, sexualidade e educação\nPetrópolis: Vozes, 1997 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/84/20eef5de-c20b-48f4-8b45-b9576772249c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto reforça que a instituição escolar reproduzia um padrão\nsocial fundamentado em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "papéis binários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "aptidões físicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "critério meritocrático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "formação acadêmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/84/20eef5de-c20b-48f4-8b45-b9576772249c.png",
+            "isCorrect": false
+        }
+    ]
+}

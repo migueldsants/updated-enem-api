@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2013 - Reaplicação",
+    "index": 174,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma dona de casa faz um comparativo de custos\npara decidir se irá adquirir uma máquina lavadora de\nlouças para substituir a lavagem manual. Decide calcular\no custo com a lavagem de louças por um período de\n30 dias, com duas lavagens por dia. Ela constatou que\nnão precisa considerar os custos do detergente e do\nsabão, pois, na máquina lavadora e na lavagem manual,\nsão equivalentes. Verificou que gasta em média 90 litros\nde água em cada lavagem manual. Cada lavagem na\nmáquina gasta 16 litros de água e 0,9 kWh de energia.\nSabe-se que a companhia de distribuição de água cobra\nR$ 6,25 por metro cúbico (pelo consumo de água e\ndispersão e tratamento de esgoto) e a companhia elétrica\ncobra R$ 0,45 por kWh consumido.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/174/250da234-39dd-41a8-ac0d-ace21e0be3c0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com essas informações, num período de 30\ndias, a lavagem manual ficará mais cara que a da máquina\nlavadora em quantos reais?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,72",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,45",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4,72",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9,45",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/174/250da234-39dd-41a8-ac0d-ace21e0be3c0.png",
+            "isCorrect": false
+        }
+    ]
+}

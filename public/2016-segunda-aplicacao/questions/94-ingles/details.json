@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2016 - Segunda aplicação",
+    "index": 94,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/94-ingles/f9d01a2f-1c35-4d0d-a5bc-ddf0f52df1a2.png)\n\nDisponível em: www.colintfisher.com. Acesso em: 30 maio 2016.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/94-ingles/f9d01a2f-1c35-4d0d-a5bc-ddf0f52df1a2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Anúncios publicitários buscam chamar a atenção do\nconsumidor por meio de recursos diversos. Nesse pôster,\nos números indicados correspondem ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "comprimento do cigarro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tempo de queima do cigarro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "idade de quem começa a fumar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expectativa de vida de um fumante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "quantidade de cigarros consumidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

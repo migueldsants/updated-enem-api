@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2020 - Digital",
+    "index": 87,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ao mesmo tempo que as novas tecnologias inseridas no universo do trabalho estão\nprovocando profundas transformações nos modos de produção, tornam cada vez mais\nplausível a possibilidade de liberação do homem do trabalho mecânico e repetitivo.\n\nJORGE, M. T. S. Será o ensino escolar supérfluo no mundo das novas tecnologias?\nEducação e Sociedade, v. 19, n. 65, dez. 1998 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O paradoxo da relação entre as novas tecnologias e o mundo do trabalho, demonstrado no\ntexto, pode ser exemplificado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utilização das redes sociais como ferramenta de recrutamento e seleção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "transferência de fábricas para locais onde estas desfrutem de benefícios fiscais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "necessidade de trabalhadores flexíveis para se adequarem ao mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fenômeno do desemprego que aflige milhões de pessoas no mundo contemporâneo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "conflito entre trabalhadores e empresários por conta da exigência de qualificação profissional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

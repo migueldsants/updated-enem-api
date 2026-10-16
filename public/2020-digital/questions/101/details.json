@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2020 - Digital",
+    "index": 101,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A ampla diversidade genética é uma característica presente nas plantas fanerógamas,\nque ocorreu em razão da presença de estruturas reprodutivas que lhes garantiram o sucesso\nadaptativo. Os insetos contribuem para a manutenção e o aumento da variabilidade genética,\nao transportarem diretamente para o órgão reprodutivo da flor uma importante estrutura desse\ngrupo vegetal.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual estrutura vegetal carregada pelos insetos está diretamente relacionada ao incremento do\nreferido processo nesse grupo vegetal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Arquegônio, que protege o embrião multicelular",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Broto, que propaga vegetativamente as plantas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fruto, que garante uma maior eficiência na dispersão",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Grão de pólen, que favorece a fecundação cruzada",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Semente alada, que favorece a dispersão aérea",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2013 - Reaplicação",
+    "index": 10,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ninguém vive sem ocupar espaço, sem respirar,\nsem alimentar-se, sem ter um teto para abrigar-se e, na\nModernidade, sem o que se incorporou na vida cotidiana:\nluz, telefone, televisão, rádio, refrigeração dos alimentos\netc. A humanidade não vive sem ocupar espaço, sem\nutilizar-se cada vez mais intensamente das riquezas\nnaturais que são apropriadas privadamente.\n\nRODRIGUES, A. M. Desenvolvimento sustentável: dos conflitos de classes para os conflitos\n\nde gerações. In: SILVA. J. B. et al. (Orgs.). Panorama da geografia brasileira.\nSão Paulo: Annablume, 2006 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto defende que duas mudanças provocadas pela\nação humana na Modernidade são o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alteração no modo de vida das comunidades e a delimitação dos problemas ambientais em escala local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "surgimento de novas formas de apropriação dos territórios e a utilização pública dos recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incorporação de novas tecnologias no processo produtivo e a aceleração dos problemas ambientais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumento do consumo de bens e mercadorias e a utilização de mão de obra nas unidades produtivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "esgotamento das reservas naturais e a desaceleração da produção de bens de consumo humano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

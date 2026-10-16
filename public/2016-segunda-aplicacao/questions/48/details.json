@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2016 - Segunda aplicação",
+    "index": 48,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um cosmonauta russo estava a bordo da estação\nespacial MIR quando um de seus rádios de comunicação\nquebrou. Ele constatou que dois capacitores do rádio\nde 3 μF e 7 μF ligados em série estavam queimados.\nEm função da disponibilidade, foi preciso substituir os\ncapacitores defeituosos por um único capacitor que\ncumpria a mesma função.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual foi a capacitância, medida em μF, do capacitor\nutilizado pelo cosmonauta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

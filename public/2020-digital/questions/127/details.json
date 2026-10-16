@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2020 - Digital",
+    "index": 127,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Reflorestamento é uma ação ambiental que visa repovoar áreas que tiveram a vegetação\nremovida. Uma empresa deseja fazer um replantio de árvores e dispõe de cinco produtos que\npodem ser utilizados para corrigir o pH do solo que se encontra básico. As substâncias\npresentes nos produtos disponíveis são: CH3COONa, NH4Cl, NaBr, NaOH e KCl.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A substância a ser adicionada ao solo para neutralizá-lo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CH3COONa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "NH4Cl.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "NaBr.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "NaOH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "KCl.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

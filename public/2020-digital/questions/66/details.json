@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2020 - Digital",
+    "index": 66,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os canais meândricos são encontrados, com frequência, nas áreas úmidas cobertas por\nvegetação ciliar, descrevem curvas sinuosas harmoniosas e semelhantes entre si. Várias são\nas condições essenciais para o desenvolvimento dos meandros: camadas de detritos de\ngranulação móvel, coerentes, firmes e não soltas; gradientes moderadamente baixos; fluxos\ncontínuos e regulares; cargas em suspensão e de fundo em quantidades mais ou menos\nequivalentes.\n\nGUERRA, A. J. T.; CUNHA, S. B. (Org.). Geomorfologia: uma atualização de bases e conceitos.\nRio de Janeiro: Bertrand Brasil, 1994.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A drenagem fluvial apresentada desenvolve-se em qual ambiente topográfico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vales encaixados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Escarpas íngremes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Depressões absolutas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Planícies sedimentares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Cordilheiras montanhosas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

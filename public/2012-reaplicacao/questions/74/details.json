@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2012 - Reaplicação",
+    "index": 74,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A fosfatidilserina é um fosfolipídio aniônico cuja interação com cálcio livre regula processos de transdução\ncelular e vem sendo estudada no desenvolvimento de biossensores nanométricos. A figura representa a estrutura\nda fosfatidilserina:\n\nP O⁻\nH₃C O O\n\n![](https://enem.dev/2012-reaplicacao/questions/74/05956e94-a169-4749-98fe-bbb7a4abb935.png)\n\nH– NH₃⁺\n\nEstrutura da fosfatidilserina\n\nMEROLLI, A.; SANTIN, M. Role of phosphatidylserine in bone repair and its technological exploitation. Molecules, v. 14, 2009.\n\nCom base nas informações do texto, a natureza da interação da fosfatidilserina com o cálcio livre é do tipo",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/74/05956e94-a169-4749-98fe-bbb7a4abb935.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dado: número atômico do elemento cálcio: 20",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "iônica somente com o grupo aniônico fosfato, já que o cálcio livre é um cátion monovalente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "iônica com o cátion amônio, porque o cálcio livre é representado como um ânion monovalente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "iônica com os grupos aniônicos fosfato e carboxila, porque o cálcio em sua forma livre é um cátion divalente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "covalente com qualquer dos grupos não carregados da fosfatidilserina, uma vez que estes podem doar elétrons ao cálcio livre para formar a ligação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "covalente com qualquer grupo catiônico da fosfatidilserina, visto que o cálcio na sua forma livre poderá compartilhar seus elétrons com tais grupos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

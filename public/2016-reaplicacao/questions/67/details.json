@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2016 - Reaplicação",
+    "index": 67,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Após a germinação, normalmente, os tomates\nproduzem uma proteína que os faz amolecer depois de\ncolhidos. Os cientistas introduziram, em um tomateiro,\num gene antissentido (imagem espelho do gene natural)\nàquele que codifica a enzima “amolecedora”. O novo gene\nantissentido bloqueou a síntese da proteína amolecedora.\n\nSIZER, F.; WHITNEY, E. Nutrição: conceitos e controvérsias. Barueri: Manole, 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um benefício ao se obter o tomate transgênico foi o fato\nde o processo biotecnológico ter",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumentado a coleção de proteínas que o protegem do apodrecimento, pela produção da proteína antissentido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diminuído a necessidade do controle das pragas, pela maior resistência conferida pela nova proteína.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "facilitado a germinação das sementes, pela falta da proteína que o leva a amolecer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "substituído a proteína amolecedora por uma invertida, que endurece o tomate.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "prolongado o tempo de vida do tomate, pela falta da proteína que o amolece.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

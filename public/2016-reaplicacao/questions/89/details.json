@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2016 - Reaplicação",
+    "index": 89,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um produtor rural registrou queda de produtividade\nnuma das áreas de plantio de arroz de sua propriedade.\nAnálises químicas revelaram concentrações elevadas\ndo íon amônio (NH₄⁺) e baixas dos íons nitrito (NO₂⁻) e\nnitrato (NO₃⁻) no solo. Esses compostos nitrogenados são\nnecessários para o crescimento dos vegetais e participam\ndo ciclo biogeoquímico do nitrogênio.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual etapa desse ciclo biogeoquímico são\nformados os compostos que estão em baixa\nconcentração nesse solo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nitrificação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Assimilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Amonização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desnitrificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fixação de nitrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

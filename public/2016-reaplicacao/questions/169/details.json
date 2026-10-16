@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2016 - Reaplicação",
+    "index": 169,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O governo de um estado irá priorizar investimentos\nfinanceiros, na área de saúde, em uma das cinco cidades\n\n![](https://enem.dev/2016-reaplicacao/questions/169/e2741797-a9aa-4f7c-8fb2-6cc2d3397738.png)\n\nA cidade a ser contemplada será aquela que\napresentar a maior razão entre número de habitantes e\nquantidade de médicos.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/169/e2741797-a9aa-4f7c-8fb2-6cc2d3397738.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual dessas cidades deverá ser contemplada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "M",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "X",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Y",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Z",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "W",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2012 - Reaplicação",
+    "index": 78,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um experimento, coloca-se glicerina dentro\nde um tubo de vidro liso. Em seguida, parte do tubo é\ncolocada em um copo de vidro que contém glicerina e a\nparte do tubo imersa fica invisível.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse fenômeno ocorre porque a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "intensidade da luz é praticamente constante no vidro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "parcela de luz refletida pelo vidro é praticamente nula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "luz que incide no copo não é transmitida para o tubo de vidro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "velocidade da luz é a mesma no vidro e na glicerina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "trajetória da luz é alterada quando ela passa da glicerina para o vidro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

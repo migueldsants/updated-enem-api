@@ -1,0 +1,50 @@
+{
+    "title": "Questão 160 - ENEM 2014 - Reaplicação",
+    "index": 160,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura mostra os preços da gasolina no Brasil e\nnos Estados Unidos (EUA), feita a conversão para reais,\nconsiderando o preço total de venda ao consumidor\n(abaixo dos nomes dos países) e os valores das parcelas\ncorrespondentes à refinaria, aos tributos e à distribuição\n\n![](https://enem.dev/2014-reaplicacao/questions/160/6d6a995d-a417-43c5-afa9-ec61eb9ca596.png)\n\ne revenda.\n\nBrasil\n\nEUA\n\nRefinaria\n(Petrobras)\nInclui a\n\n![](https://enem.dev/2014-reaplicacao/questions/160/2ab085fc-4f75-41f4-b91e-213339c56337.png)\n\nmistura\nde etanol 1,52\n\n![](https://enem.dev/2014-reaplicacao/questions/160/b2600cbe-0adf-430e-b63b-000701dad753.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/160/47846bea-bc42-410b-bc34-3c2dcdea3dbc.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/160/4264abae-cd7d-4675-9641-15863cc006ba.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/160/c204dda5-dd98-4122-85ee-0fc6a365c8de.png)\n\nFontes: Petrobras, Agência Nacional do Petróleo (ANP)\ne Energy Information Administration (EIA).\n\nNote que, considerando apenas a parte\ncorrespondente à refinaria, o preço da gasolina vendida\nno Brasil é inferior ao preço cobrado nos Estados\nUnidos, mas os tributos, a distribuição e a revenda\naumentam o preço final de venda nos postos brasileiros.\n\nSuponha que fosse tomada a decisão de se diminuir\no preço final de venda nos postos brasileiros, sem alterar\na parcela do preço da gasolina vendida na refinaria, de\nmodo que o preço final se igualasse ao cobrado nos\npostos dos Estados Unidos.\n\nVeja,ed.2308,ano\n40,n.7,13fev.2013 (Adaptado).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/160/6d6a995d-a417-43c5-afa9-ec61eb9ca596.png",
+        "https://enem.dev/2014-reaplicacao/questions/160/2ab085fc-4f75-41f4-b91e-213339c56337.png",
+        "https://enem.dev/2014-reaplicacao/questions/160/b2600cbe-0adf-430e-b63b-000701dad753.png",
+        "https://enem.dev/2014-reaplicacao/questions/160/47846bea-bc42-410b-bc34-3c2dcdea3dbc.png",
+        "https://enem.dev/2014-reaplicacao/questions/160/4264abae-cd7d-4675-9641-15863cc006ba.png",
+        "https://enem.dev/2014-reaplicacao/questions/160/c204dda5-dd98-4122-85ee-0fc6a365c8de.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O percentual mais aproximado de redução dos valores\nem tributos, distribuição e revenda seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "29.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "44.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "56.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "63.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

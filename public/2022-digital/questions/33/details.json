@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2022 - Digital",
+    "index": 33,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Notas\n\nSoluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir\no cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites,\nconvidados que entravam, lentamente, a passo surdo, e apertavam a mão à família,\nalguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d’água benta, o\nfechar do caixão, a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e\no descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da\nfamília, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as\ncorreias, o rodar do coche, o rodar dos carros, um a um... Isto que parece um simples\ninventário eram notas que eu havia tomado para um capítulo triste e vulgar que não\nescrevo.\n\nASSIS, M. Memórias póstumas de Brás Cubas. Disponível em: www.dominiopublico.gov.br.\nAcesso em: 25 jul. 2022.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O recurso linguístico que permite a Machado de Assis considerar um capítulo de\nMemórias póstumas de Brás Cubas como inventário é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "enumeração de objetos e fatos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "predominância de linguagem objetiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ocorrência de período longo no trecho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "combinação de verbos no presente e no pretérito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "presença de léxico do campo semântico de funerais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

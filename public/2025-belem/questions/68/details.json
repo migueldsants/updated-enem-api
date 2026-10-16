@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 68,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Tecnologias verdes são a cereja do bolo do debate\ne normalmente são utilizadas como forma de permitir a\ncontinuidade do padrão de vida dos países do Norte por meio\ndo uso mais eficiente de recursos. Mas existe um paradoxo,\nconhecido como Paradoxo de Jevons, responsável por apontar\nque o desenvolvimento tecnológico que aumenta a eficiência\nno uso de um recurso tende a, paradoxalmente, aumentar a\ntaxa de uso desse recurso. Em outras palavras: uma tecnologia\n“sustentável” para aumentar a eficiência do uso de energia vai,\nparadoxalmente, aumentar o uso de energia em si. Ademais, e\nmuito importante ressaltar, para que lojas de roupas na Europa\nsejam equipadas com tecnologias “sustentáveis”, uma boa dose\nde matérias-primas, como lítio, precisa ser minerada nos países\ndo Sul. E a mineração é tudo menos “verde” ou “sustentável”.\n\nCOLERATO, M. Disponível em: https://elle.com.br.\nAcesso em: 18 out. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O paradoxo apresentado no texto fundamenta-se na contradição\nentre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "empresas e ambientalistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "governo e sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nações ricas e pobres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "preservação e consumo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "saberes populares e ciência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

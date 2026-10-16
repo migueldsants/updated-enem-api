@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2022 - Digital",
+    "index": 60,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com\nque os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos\nos participantes do estudo foram vinculados a dois outros membros da comunidade que\nreceberiam pequenos incentivos em dinheiro para serem estimulados a aumentar a sua\natividade física, que era medida por acelerômetros nos celulares fornecidos pelo estado.\nAssim, se a pessoa andasse mais do que o habitual, seus conhecidos receberiam o\ndinheiro. Os resultados foram assombrosos: o esquema mostrou-se de quatro a oito\nvezes mais eficaz do que o método de oferecer incentivos individuais.\n\nMOROZOV, E. Big Tech: a ascensão dos dados e a morte da política. São Paulo: Ubu, 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o\ntexto revela que os celulares podem desempenhar uma função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "recreativa, promovendo o lazer em redes integradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "social, estimulando a reciprocidade por meios digitais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "laboral, convertendo o desenvolvedor em usuário final.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "comercial, direcionando a escolha por produtos industrializados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

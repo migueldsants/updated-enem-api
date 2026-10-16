@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2022 - Digital",
+    "index": 56,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\n![](https://enem.dev/2022-digital/questions/56/53ca28a3-ef5e-4ddb-afe1-ff7a28068df4.png)\n\nCAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).\n\nTEXTO II\n\nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só\ndemonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá,\nempurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam\nque parcela significativa dos estudantes não têm acesso à internet em suas casas, não\ntêm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a\ntodas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um\ntexto no celular? É possível interagir na aula remota pelo celular?\n\nASSIS, A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/56/53ca28a3-ef5e-4ddb-afe1-ff7a28068df4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade\ncontemporânea:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exclusão social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Expansão digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manifestação cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Organização espacial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Valorização intelectual.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

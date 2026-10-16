@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2020 - Digital",
+    "index": 50,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os fundamentos da meteorologia tropical, como mostrou Richard Grove, foram\nestabelecidos durante o grande El Niño de 1790-91, que, além de levar a seca e a fome a\nMadras e Bengala, desmantelou a agricultura em várias colônias caribenhas da Inglaterra.\nPela primeira vez, medições meteorológicas simultâneas, milhares de milhas distantes entre si,\nsugeriram que aquelas condições de tempo extremo talvez estivessem associadas em todos\nos trópicos — uma ideia que só seria completamente desenvolvida durante a seca global de\n1876-78.\n\nDAVIS, M. Holocaustos coloniais: clima, fome e imperialismo na formação do Terceiro Mundo.\nRio de Janeiro; São Paulo: Record, 2002.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O fenômeno climático citado ocorre periodicamente e tem como causa o aumento da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atuação da Massa Equatorial Continental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "velocidade dos ventos no Hemisfério Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atividade vulcânica no Círculo do Fogo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "temperatura das águas do Pacífico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "liquefação das geleiras no Ártico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2020 - Digital",
+    "index": 147,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fazendeiro possui uma cisterna com capacidade de 10 000 litros para coletar a água\nda chuva. Ele resolveu ampliar a área de captação da água da chuva e consultou um\nengenheiro que lhe deu a seguinte explicação: “Nesta região, o índice pluviométrico anual\nmédio é de 400 milímetros. Como a área de captação da água da chuva de sua casa é um\nretângulo de 3 m de largura por 7 m de comprimento, sugiro que aumente essa área para que,\nem um ano, com esse índice pluviométrico, o senhor consiga encher a cisterna, estando ela\ninicialmente vazia”.\n\nSabe-se que o índice pluviométrico de um milímetro corresponde a um litro de água por\nmetro quadrado. Considere que as previsões pluviométricas são cumpridas e que não há\nperda, por nenhum meio, no armazenamento da água.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em quantos metros quadrados, no mínimo, o fazendeiro deve aumentar a área de captação\npara encher a cisterna em um ano?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

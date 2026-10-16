@@ -1,0 +1,46 @@
+{
+    "title": "Questão 180 - ENEM 2014 - Terceira aplicação",
+    "index": 180,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A forma e as dimensões de um campo de jogo para\no futebol são estabelecidas pelo Instituto Nacional de\nMetrologia INMETRO , definindo no documento Regras\ndo Jogo que o campo seja retangular e que possua os\nlimites máximos e mínimos para largura e comprimento\napresentados na figura a seguir. Estabelece também que\no campo deve ser dividido em duas metades iguais e\nque o ponto central deve estar localizado no centro do\ncampo. Qualquer campo que atenda a estes requisitos é\nconsiderado oficial.\n\nPara a irrigação da área gramada do campo de jogo\nem determinada região do país são gastos, em média,\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/180/b4ffd678-9863-4cbc-8f1d-7fff9cdda071.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/180/b4ffd678-9863-4cbc-8f1d-7fff9cdda071.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/180/55da6812-bcc1-4b50-b007-3ca284dceda4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual será a economia semanal de água de irrigação,\nem litros, de um campo de futebol oficial que possua as\ndimensões mínimas de comprimento e de largura, em\nrelação a um campo construído com as dimensõeas\nmáximas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24 300",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "64 800",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "170 100",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "283 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/180/55da6812-bcc1-4b50-b007-3ca284dceda4.png",
+            "isCorrect": false
+        }
+    ]
+}

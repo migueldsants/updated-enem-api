@@ -1,0 +1,53 @@
+{
+    "title": "Questão 162 - ENEM 2022 - Digital",
+    "index": 162,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e\ncolunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem\nrepetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre\nos 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa\ndos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número\nsorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher\nquatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os\ntipos de situações ilustradas na Figura 1.\n\n![](https://enem.dev/2022-digital/questions/162/61995854-872f-4c81-adda-c01ddde574d5.png)\n\n![](https://enem.dev/2022-digital/questions/162/5c0f6e6a-5e11-49ac-9f1a-9dd21d6c7cee.png)\n\n![](https://enem.dev/2022-digital/questions/162/336de9ad-f112-44f4-b3b8-0d9ba6f2a3ca.png)\n\nO jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números:\n03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que\ncontinha esses quatro números sorteados, sendo que todos os demais jogadores\nconseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na\nFigura 2 o cartão de Pedro após as quatro primeiras rodadas.\n\n![](https://enem.dev/2022-digital/questions/162/16a2e4cd-f060-4326-a6bb-9bc221fbc1ed.png)\n\nA probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+    "files": [
+        "https://enem.dev/2022-digital/questions/162/61995854-872f-4c81-adda-c01ddde574d5.png",
+        "https://enem.dev/2022-digital/questions/162/5c0f6e6a-5e11-49ac-9f1a-9dd21d6c7cee.png",
+        "https://enem.dev/2022-digital/questions/162/336de9ad-f112-44f4-b3b8-0d9ba6f2a3ca.png",
+        "https://enem.dev/2022-digital/questions/162/16a2e4cd-f060-4326-a6bb-9bc221fbc1ed.png",
+        "https://enem.dev/2022-digital/questions/162/e98f937d-7036-4d16-83cb-000a47f7bc77.png",
+        "https://enem.dev/2022-digital/questions/162/da9f495d-8140-4b57-8207-8606fe8d4874.png",
+        "https://enem.dev/2022-digital/questions/162/3b8ddcbd-7f80-4f04-b010-f12147fc5155.png",
+        "https://enem.dev/2022-digital/questions/162/208e6aba-9bda-4a02-a5e8-245e0a4e386e.png",
+        "https://enem.dev/2022-digital/questions/162/aa72a5c3-ba3b-4535-a298-e822d931e1e3.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "1 1",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/162/e98f937d-7036-4d16-83cb-000a47f7bc77.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/162/da9f495d-8140-4b57-8207-8606fe8d4874.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/162/3b8ddcbd-7f80-4f04-b010-f12147fc5155.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/162/208e6aba-9bda-4a02-a5e8-245e0a4e386e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/162/aa72a5c3-ba3b-4535-a298-e822d931e1e3.png",
+            "isCorrect": true
+        }
+    ]
+}

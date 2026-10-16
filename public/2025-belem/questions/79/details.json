@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 79,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Localizada no bairro La Quebrada, de Paso del Rey, município\nde Moreno (Argentina), a Associação de Produtores Familiares\nse formou em 1998. Os membros desse grupo se organizaram\ne começaram a trabalhar com uma primeira horta para dez\nfamílias do bairro e com ferramentas obtidas por meio do Plano\nHortas Familiares, do Instituto Nacional de Tecnologia Agrária.\nLogo após, se constituíram formalmente para conseguirem mais\nrecursos dos órgãos públicos. A associação mantém relação\ncom organizações que se identificam como pertencentes a um\nterritório comum, o que lhes permite se referir a uma história\ncompartilhada.\n\nGHIBAUDI, J. Movimentos sociais, periferia e formas de dominação.\nDisponível em: https://journals.openedition.org. Acesso em: 16 out. 2021.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na configuração do movimento social descrito no texto, seus\nparticipantes apresentam a seguinte característica:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Afinidade cultural na construção de um projeto de poder popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Vocação religiosa na composição de um estatuto de cunho humanista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Formação acadêmica para a criação de um programa de viés comunitário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aptidão pedagógica para a redação de uma cartilha de caráter informativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Engajamento partidário na confecção de uma proposta de tendência socialista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

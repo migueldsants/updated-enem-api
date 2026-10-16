@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2014 - Terceira aplicação",
+    "index": 31,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "DAVIS, J. Garfield de bom humor. Porto Alegre: L PM, 2011.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/31/7ea8f83d-d731-486f-8496-2097b8dfe5b2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Alternativas ao tipo de consumo cultural apresentado nas tiras resultariam de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "democratização do acesso a outras esferas de produção cultural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "emissoras comprometidas com princípios cívicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "censura moralista diante das informações veiculadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acesso da população aos canais de sinal fechado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/31/7ea8f83d-d731-486f-8496-2097b8dfe5b2.png",
+            "isCorrect": false
+        }
+    ]
+}

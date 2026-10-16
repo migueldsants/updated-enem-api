@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2021 - Digital",
+    "index": 75,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica\nindígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do\nexercício de uma medicina híbrida que se tornou marca do Brasil colonial. Alguns\nreligiosos vinham de Portugal já versados nas artes de curar, mas a maioria aprendeu na\nprática diária as funções que deveriam ser atribuídas a um físico, cirurgião, barbeiro ou\nboticário.\n\nGURGEL, C. Doenças e curas: o Brasil nos primeiros séculos. São Paulo: Contexto, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Conforme o texto, o que caracteriza a construção da prática medicinal descrita é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adoção de rituais místicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rejeição dos dogmas cristãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "superação da tradição popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "imposição da farmacologia nativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "conjugação de saberes empíricos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2022 - Digital",
+    "index": 79,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Hoje sou um ser inanimado, mas já tive vida pulsante em seivas vegetais, fui um ser\nvivo; é bem verdade que do reino vegetal, mas isso não me tirou a percepção de vida\nvivida como tamborete. Guardo apreço pelos meus criadores, as mãos que me fizeram,\nme venderam, e pelas mulheres que me usaram para suas vendas e de tantas outras\nmaneiras. Essas pessoas, sim, tiveram suas subjetividades, singularidades e\npluralidades, que estão incorporadas a mim. É preciso considerar que a nossa história, de\nmóveis de museus, está para além da mera vinculação aos estilos e à patrimonialização\nque recebemos como bem material vinculado ao patrimônio imaterial. A nossa história\nestá ligada aos dons individuais das pessoas e suas práticas sociais. Alguns indivíduos\nconsagravam-se por terem determinados requisitos, tais como o conhecimento de\nmodelos clássicos ou destreza nos desenhos.\n\nFREITAS, J. M.; OLIVEIRA, L. R. Memórias de um tamborete de baiana: as muitas vozes em um objeto de museu.\nRevista Brasileira de Pesquisa (Auto)Biográfica, n. 14, maio-ago. 2020 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua\nhistória às",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "habilidades artísticas e culturais dos sujeitos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "vocações religiosas e pedagógicas dos mestres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "naturezas antropológica e etnográfica dos expositores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "preservações arquitetônica e visual dos conservatórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "competências econômica e financeira dos comerciantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

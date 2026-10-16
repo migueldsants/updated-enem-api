@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 4,
+    "year": 2025,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025-belem/questions/4-ingles/3f10399e-5100-4033-92b7-d9895aa4ebd8.png)\n\nHIGSON, C. Disponível em: https://heckfiknowcomics.tumblr.com.\nAcesso em: 7 jan. 2025.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/4-ingles/3f10399e-5100-4033-92b7-d9895aa4ebd8.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa história em quadrinhos, o vocábulo “myself ” remete à ideia de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "egoísmo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "autoestima.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "autoridade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "narcisismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "autopreservação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

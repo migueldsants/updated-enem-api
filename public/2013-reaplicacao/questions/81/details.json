@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2013 - Reaplicação",
+    "index": 81,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em uma experiência didática, cinco esferas de metal\nforam presas em um barbante, de forma que a distância\nentre esferas consecutivas aumentava em progressão\naritmética. O barbante foi suspenso e a primeira esfera\nficou em contato com o chão. Olhando o barbante de\nbaixo para cima, as distâncias entre as esferas ficavam\ncada vez maiores. Quando o barbante foi solto, o som\ndas colisões entre duas esferas consecutivas e o solo foi\ngerado em intervalos de tempo exatamente iguais.\nA razão de os intervalos de tempo citados serem iguais\né que a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "velocidade de cada esfera é constante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "força resultante em cada esfera é constante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "aceleração de cada esfera aumenta com o tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tensão aplicada em cada esfera aumenta com o tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "energia mecânica de cada esfera aumenta com o tempo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

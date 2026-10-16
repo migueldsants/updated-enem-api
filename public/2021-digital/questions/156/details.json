@@ -1,0 +1,45 @@
+{
+    "title": "Questão 156 - ENEM 2021 - Digital",
+    "index": 156,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma construtora, pretendendo investir na construção de imóveis em uma\nmetrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de\nfamílias que mudaram de uma região para outra, de modo a determinar qual região foi\no destino do maior fluxo de famílias, sem levar em consideração o número de famílias\nque deixaram a região. Os valores da pesquisa estão dispostos em uma\nmatriz A = [a_ij], i, j ∈ {1,2,3,4,5}, em que o elemento a_ij corresponde ao total de famílias\n(em dezena) que se mudaram da região i para a região j durante um certo período, e o\nelemento a_ii é considerado nulo, uma vez que somente são consideradas mudanças entre\nregiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.\n\n![](https://enem.dev/2021-digital/questions/156/f4ddae64-d0e9-4411-a94d-ab4868656947.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/156/f4ddae64-d0e9-4411-a94d-ab4868656947.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual região foi selecionada para o investimento da construtora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

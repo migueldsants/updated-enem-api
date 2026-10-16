@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2016 - Segunda aplicação",
+    "index": 151,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um terreno retangular de lados cujas medidas, em\nmetro, são x e y será cercado para a construção de um\nparque de diversões. Um dos lados do terreno encontra-se\nàs margens de um rio. Observe a figura.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/151/f27ec718-b777-4023-bf21-61bbac32e617.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/151/f27ec718-b777-4023-bf21-61bbac32e617.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para cercar todo o terreno, o proprietário gastará\nR$ 7 500,00. O material da cerca custa R$ 4,00 por\nmetro para os lados do terreno paralelos ao rio, e\nR$ 2,00 por metro para os demais lados.\nNessas condições, as dimensões do terreno e o custo\ntotal do material podem ser relacionados pela equação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4(2x + y) = 7 500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4(x + 2y) = 7 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2(x + y) = 7 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2(4x + y) = 7 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2(2x + y) = 7 500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

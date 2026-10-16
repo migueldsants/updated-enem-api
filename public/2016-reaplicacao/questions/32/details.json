@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2016 - Reaplicação",
+    "index": 32,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Carta de princípios\nAs alternativas propostas no Fórum Social Mundial contrapõem-se a um processo de globalização comandado\npelas grandes corporações multinacionais e pelos governos e instituições internacionais a serviço de seus interesses,\ncom a cumplicidade de governos nacionais.\n\nDisponível em: http://fsmpoa.com.br. Acesso em: 16 ago. 2013.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O fórum mencionado tem como objetivo discutir propostas que concretizem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proposição da igualdade cultural entre os povos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ampliação do fluxo populacional entre os Estados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "construção de uma relação solidária entre os países.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "intensificação das relações econômicas entre as nações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "homogeneização do consumo entre a população mundial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

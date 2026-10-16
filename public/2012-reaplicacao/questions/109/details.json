@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2012 - Reaplicação",
+    "index": 109,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "“Eu quero ter um milhão de amigos” é o famoso\nverso da linda canção Eu quero apenas, de Roberto\nCarlos. Adaptado aos nossos tempos, o verso representa\no anseio que está na base do atual sucesso das redes\nsociais. Desde que Orkut, Facebook, MySpace, Twitter,\nLinkedIn e outros estão entre nós, precisamos mais do\nque nunca ficar atentos ao sentido das nossas relações.\nSentido que é alterado pelos meios a partir dos quais são\npromovidas essas mesmas relações.\n\nO fato é que as redes brincam com a promessa que\nestava contida na música do Rei apenas como metáfora.\nO que a canção põe em cena é da ordem do desejo cuja\ncaracterística é ser oceânico e inespecífico. Desejar\né desejar tudo, é mais que querer. Mas quem participa\nde uma rede social ultrapassa o limite do desejo e entra\nna esfera da potencialidade de uma realização que vem\ntornar problemática a relação entre o real e o imaginário.\n\nTIBURI, M. Complexo de Roberto Carlos. In: Revista Cult,\nSão Paulo: Bregantini, n. 154, fev. 2011(fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O verso da canção de Roberto Carlos é usado no artigo\npara explicar o sucesso mundial das redes sociais. Para\na autora, essas redes são eficazes, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "resolvem os problemas de solidão vivida pelos internautas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "promovem a idealização exacerbada de vontades individuais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ajudam na preservação de sentimentos básicos da pessoa humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "favorecem as relações interpessoais baseadas em vínculos afetivos fortes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "confirmam os significados atribuídos a relacionamentos iniciados no mundo real.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

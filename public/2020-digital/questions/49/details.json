@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2020 - Digital",
+    "index": 49,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Depois da Independência, em 1822, o país enfrentaria problemas que com frequência\nemergiram durante a formação dos Estados nacionais da América Latina. Em muitas regiões\ndo Brasil, essas divergências foram acompanhadas de revoltas, inclusive contra o imperador\nD. Pedro I. Com a abdicação deste, em 1831, o país atravessaria tempos ainda mais\nturbulentos sob o regime regencial.\n\nREIS, J. J. Rebelião escrava no Brasil: a história do Levante dos Malês em 1835.\nSão Paulo: Cia. das Letras, 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A instabilidade política no país, ao longo dos períodos mencionados, foi decorrente da(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "disputas entre as tendências unitarista e federalista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "tensão entre as forças do Exército e Marinha nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dinâmicas demográficas nas fronteiras amazônica e platina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "extensão do direito de voto aos estrangeiros e ex-escravos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reivindicações da ex-metrópole nas esferas comercial e diplomática.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

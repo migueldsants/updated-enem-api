@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2015 - Reaplicação",
+    "index": 159,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um artesão fabrica vários tipos de potes cilíndricos.\nMostrou a um cliente um pote de raio de base a e altura\nb. Esse cliente, por sua vez, quer comprar um pote com o\ndobro do volume do pote apresentado. O artesão diz que\npossui potes com as seguintes dimensões:\n\n• Pote I: raio a e altura 2b\n• Pote II: raio 2a e altura b\n• Pote III: raio 2a e altura 2b\n• Pote IV: raio 4a e altura b\n• Pote V: raio 4a e altura 2b",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O pote que satisfaz a condição imposta pelo cliente é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

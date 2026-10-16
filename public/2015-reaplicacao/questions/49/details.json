@@ -1,0 +1,48 @@
+{
+    "title": "Questão 49 - ENEM 2015 - Reaplicação",
+    "index": 49,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um eletricista projeta um circuito com três lâmpadas\nincandescentes idênticas, conectadas conforme a figura.\nDeseja-se que uma delas fique sempre acesa, por isso é\nligada diretamente aos polos da bateria, entre os quais se\nmantém uma tensão constante. As outras duas lâmpadas\nsão conectadas em um fio separado, que contém uma\nchave. Com a chave aberta (desligada), a bateria fornece\numa potência X.\n\nO P\n\n![](https://enem.dev/2015-reaplicacao/questions/49/56b7c948-dc65-4142-9043-0833e4acfb0d.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/49/ea20d023-309d-4f81-a740-889f8c45305d.png)\n\n_~íÉêá~",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/49/56b7c948-dc65-4142-9043-0833e4acfb0d.png",
+        "https://enem.dev/2015-reaplicacao/questions/49/ea20d023-309d-4f81-a740-889f8c45305d.png",
+        "https://enem.dev/2015-reaplicacao/questions/49/563c54a2-b2cd-46a0-a055-ad47b6057366.png",
+        "https://enem.dev/2015-reaplicacao/questions/49/5b0e4a50-9aac-4e7e-9888-3c2b6fbbf667.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Assumindo que as lâmpadas obedeçam à Lei de Ohm,\ncom a chave fechada, a potência fornecida pela bateria,\nem função de X, é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/49/563c54a2-b2cd-46a0-a055-ad47b6057366.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/49/5b0e4a50-9aac-4e7e-9888-3c2b6fbbf667.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3X.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

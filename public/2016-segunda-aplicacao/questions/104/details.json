@@ -1,0 +1,49 @@
+{
+    "title": "Questão 104 - ENEM 2016 - Segunda aplicação",
+    "index": 104,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Apesar de\nNão lembro quem disse que a gente gosta de uma\npessoa não por causa de, mas apesar de. Gostar daquilo\nque é gostável é fácil: gentileza, bom humor, inteligência,\nsimpatia, tudo isso a gente tem em estoque na hora\nem que conhece uma pessoa e resolve conquistá-la.\nOs defeitos ficam guardadinhos nos primeiros dias e só\nentão, com a convivência, vão saindo do esconderijo e\nrevelando-se no dia a dia. Você então descobre que ele\nnão é apenas gentil e doce, mas também um tremendo\ncasca-grossa quando trata os próprios funcionários. E ela\nnão é apenas segura e determinada, mas uma chorona\nque passa 20 dias por mês com TPM. E que ele ronca, e\nque ela diz palavrão demais, e que ele é supersticioso por\nbobagens, e que ela enjoa na estrada, e que ele não gosta\nde criança, e que ela não gosta de cachorro, e agora?\nAgora, convoquem o amor para resolver essa encrenca.\n\nMEDEIROS, M. Revista O Globo, n. 790, 12 jun. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/104/8e5c74d2-ad72-499d-974b-3553f7e16fc5.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/104/d1c11a5f-d540-4ac0-8845-94bdb52a887f.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/104/b34fd678-35b3-40f3-9d8a-320fdfb276c3.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/104/26c20fc2-877c-4488-b76d-985bb96d1be7.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/104/ca11141c-ca93-44d2-a2bb-bd56ca3c696d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Há elementos de coesão textual que retomam\ninformações no texto e outros que as antecipam. Nos\ntrechos, o elemento de coesão sublinhado que antecipa\numa informação do texto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/104/8e5c74d2-ad72-499d-974b-3553f7e16fc5.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/104/d1c11a5f-d540-4ac0-8845-94bdb52a887f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/104/b34fd678-35b3-40f3-9d8a-320fdfb276c3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/104/26c20fc2-877c-4488-b76d-985bb96d1be7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/104/ca11141c-ca93-44d2-a2bb-bd56ca3c696d.png",
+            "isCorrect": false
+        }
+    ]
+}

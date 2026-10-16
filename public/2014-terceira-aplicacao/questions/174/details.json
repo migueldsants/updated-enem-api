@@ -1,0 +1,52 @@
+{
+    "title": "Questão 174 - ENEM 2014 - Terceira aplicação",
+    "index": 174,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Enchem-se, segundo vazões constantes e idênticas,\ndois reservatórios, um em forma de um cilindro circular\nreto e outro em forma de prisma reto de base quadrada,\ncujo lado da base tem a mesma medida do diâmetro da\nbase do primeiro reservatório.\n\nH\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/174/2de0282e-c300-4db7-981b-6427ccb5801d.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/174/fa412c10-a56c-44e8-a8c6-18b0a438ca6a.png)\n\nVolume do cilindro S • R² • H\nVolume do prisma 4 • R² • H\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/174/31ed1d1d-30b1-4015-baf4-bd3890a11338.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/2de0282e-c300-4db7-981b-6427ccb5801d.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/fa412c10-a56c-44e8-a8c6-18b0a438ca6a.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/31ed1d1d-30b1-4015-baf4-bd3890a11338.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/4bd99ee4-6c16-4cd0-a454-b31707fe2b3f.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/e18efee4-cc46-4665-ae27-2ee977468a11.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/db6bccf6-f32f-4a32-8c65-a1515d2f3848.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/87c23a65-dafe-467e-96b2-b0b7dc79e731.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/174/8b63a5a7-4d4b-4f93-8442-03b073957587.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gráfico que representa a variação das alturas\ndos níveis da água do reservatório cilíndrico (h₁) e do\nreservatório em forma de prisma (h₂) em função do volume\nde água contido em cada um dos reservatórios V estão\nmelhor representados em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/174/4bd99ee4-6c16-4cd0-a454-b31707fe2b3f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/174/e18efee4-cc46-4665-ae27-2ee977468a11.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/174/db6bccf6-f32f-4a32-8c65-a1515d2f3848.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/174/87c23a65-dafe-467e-96b2-b0b7dc79e731.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/174/8b63a5a7-4d4b-4f93-8442-03b073957587.png",
+            "isCorrect": false
+        }
+    ]
+}

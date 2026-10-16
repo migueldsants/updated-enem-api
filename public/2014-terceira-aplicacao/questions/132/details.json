@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2014 - Terceira aplicação",
+    "index": 132,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "E vejam agora com que destreza, com que arte faço\neu a maior transição deste livro. Vejam: o meu delírio\ncomeçou em presença de Virgília; Virgília foi o meu grão\npecado de juventude; não há juventude sem meninice;\nmeninice supõe nascimento; e eis aqui como chegamos\nnós, sem esforço, ao dia 20 de outubro de 1805, em que\nnasci. Viram?\n\nASSIS, M. Memórias póstumas de Brás Cubas. Rio de Janeiro: Nova Aguilar, 1974 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A repetição é um recurso linguístico utilizado para\npromover a progressão textual, pois indica entrelaçamento\nde ideias. No fragmento de romance, as repetições foram\nutilizadas com o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "marcar a transição entre dois momentos distintos da narrativa, o amor do narrador por Virgília e seu nascimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "tornar mais lento o fluxo de informações, para finalmente conduzir o leitor ao tema principal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reforçar, pelo acúmulo de afirmações, a ideia do quanto é grande o sentimento do narrador por Virgília.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "representar a monotonia, caracterizadora das etapas da vida do autor: a juventude e a velhice.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "assegurar a sequenciação cronológica dos fatos representados e a precisão das informações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

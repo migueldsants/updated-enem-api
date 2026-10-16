@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2016 - Reaplicação",
+    "index": 120,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Revolução digital cria a era do leitor-sujeito\nFoi-se uma vez um leitor. Com a revolução digital,\nquem lê passa a ter voz no processo de leitura. “Até outro\ndia, as críticas literárias eram exclusividade de um grupo\nfechado, assim como em tantas outras áreas. Agora,\ntemos grupos que conversam, trocam, se manifestam em\ntempo real, recomendam ou desaprovam, trocam ideias\ncom os autores, participam ativamente da construção de\nobras literárias coletivas. Isso é um jeito novo de pensar a\nescrita, de construir memória e o próprio conhecimento”,\nanalisa uma professora de comunicação da PUC-MG.\n\nA secretária Fabiana Araújo, 32, é uma “leitora-sujeito”,\ncomo Daniela chama esses novos atores do universo da\nleitura. Leitora assídua desde o final da adolescência,\nquando foi seduzida pela série Harry Potter, só neste ano\njá leu mais de 30 títulos. Suas leituras não costumam\nterminar quando fecha um livro. Fabiana escreve resenhas\nde títulos como Estilhaça-me, romance fantástico na linha\nde Crepúsculo, publicadas em um blog com o qual foi\nconvidada a colaborar. “Escrever sobre um livro é uma\nforma de relê-lo. E conversar, pessoal ou virtualmente,\ncom outros leitores também”, defende.\n\nFANTINI, D. Jornal Pampulha, n. 1138, maio 2012 (adaptado).\n\n2016",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As sequências textuais “Até outro dia” e “agora” auxiliam\na progressão temática do texto, pois delimitam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o perfil social dos envolvidos na revolução digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o limite etário dos promotores da revolução digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os períodos pré e pós revolução digital.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a urgência e a rapidez da revolução digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o alcance territorial da leitura digital.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

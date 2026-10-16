@@ -1,0 +1,46 @@
+{
+    "title": "Questão 175 - ENEM 2016 - Reaplicação",
+    "index": 175,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para atrair uma maior clientela, uma loja de móveis fez uma promoção oferecendo um desconto de 20% em alguns\nde seus produtos.\n\nNo gráfico, estão relacionadas as quantidades vendidas de cada um dos produtos, em um dia de promoção.\n\n![](https://enem.dev/2016-reaplicacao/questions/175/4efb609b-d3bc-4a39-8557-f82ab8504d9e.png)\n\nQuantidade vendida de cada produto\n\nCama\nMesa Colchão Pia de cozinha\n\nNo quadro constam os preços de cada produto vendido já com o desconto de 20% oferecido pela loja.\n\n![](https://enem.dev/2016-reaplicacao/questions/175/0852bb27-90b7-4724-9699-28490fcc9e74.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/175/4efb609b-d3bc-4a39-8557-f82ab8504d9e.png",
+        "https://enem.dev/2016-reaplicacao/questions/175/0852bb27-90b7-4724-9699-28490fcc9e74.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual foi o valor total de desconto, em reais, concedido pela loja com a venda desses produtos durante esse dia de\npromoção?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "375,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "720,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "900,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 125,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

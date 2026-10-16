@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 93,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma pessoa pretende avaliar qual é a potência real de uma placa fotovoltaica nas condições operacionais de instalação.\nEla constata que a máxima temperatura atingida pela placa é de 65 °C. O manual de instruções desse modelo de placa informa que,\na 25 °C, sua potência nominal é de 250 W. Já a potência real muda com a variação da temperatura da placa, a uma taxa de −0,4% da\npotência nominal a cada grau Celsius.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A menor potência real gerada, em watt, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "230 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "210 W.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "190 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "150 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100 W.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

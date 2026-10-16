@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2013 - Reaplicação",
+    "index": 119,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/119/9b50732d-5a75-4cea-b90b-c7eb1a305c22.png)\n\nDisponível em: http://portal.saude.gov.br. Acesso em: 29 fev. 2012.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/119/9b50732d-5a75-4cea-b90b-c7eb1a305c22.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As propagandas fazem uso de diferentes recursos para garantir o efeito apelativo, isto é, o convencimento do público\nem relação ao que apresentam. O cartaz da campanha promovida pelo Ministério da Saúde utiliza vários recursos,\nverbais e não verbais, como estratégia persuasiva, dentre os quais se destaca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ligação estabelecida entre as palavras “hábito” e “hemocentro”, explorando a ideia de frequência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a relação entre a palavra “corrente”, a imagem das pessoas de mãos dadas e a mão estendida ao leitor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o emprego da expressão “Um grande ato”, despertando a consciência das pessoas para o sentimento de solidariedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a apresentação da imagem de pessoas saudáveis, estratégia adequada ao público-alvo da campanha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a associação entre o grande número de pessoas no cartaz e o número de pessoas que precisam receber sangue em nosso país.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

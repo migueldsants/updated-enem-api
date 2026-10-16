@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 88,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Como mostra a experiência histórica, mesmo nos países\ncentrais, a expansão do mercado de imóveis residenciais para\nas camadas de baixa renda, ou mesmo para setores inferiores\ndas camadas médias, somente ocorre quando há um sistema\nde crédito capaz de financiar, principalmente, o consumo.\nEssas experiências mostram, ainda, a importância do “fundo\npúblico” como elemento assegurador dos financiamentos.\nAlém disso, deve ser considerado que, no caso brasileiro, dada a\nestrutura de distribuição de renda e os altos níveis de pobreza,\nesse sistema de financiamento deve contar necessariamente\ncom um sistema amplo de subsídios.\n\nCARDOSO, A. L. Assentamentos precários no Brasil: discutindo conceitos.\nIn: MORAIS, M. P.; KRAUSE, C.; LIMA NETO, V. C. (Org.).\nCaracterização e tipologia de assentamentos precários:\nestudos de caso. Brasília: Ipea, 2016.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No contexto socioespacial descrito, a atuação do poder público\nobjetiva mitigar o problema do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "gentrificação local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "déficit habitacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "desemprego estrutural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "concentração fundiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "especulação monetária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

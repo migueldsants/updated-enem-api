@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2020 - Digital",
+    "index": 167,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um investidor deseja aplicar R$ 10 000,00 durante um mês em um dos fundos de\ninvestimento de um banco. O agente de investimentos desse banco apresentou dois tipos de\naplicações financeiras: a aplicação Básica e a aplicação Pessoal, cujas informações de\nrendimentos e descontos de taxas administrativas mensais são apresentadas no quadro.\n\n![](https://enem.dev/2020-digital/questions/167/503a3e57-34bc-422b-a136-215f03d5c9fb.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/167/503a3e57-34bc-422b-a136-215f03d5c9fb.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Consideradas as taxas de rendimento e administrativa, qual aplicação fornecerá maior valor de\nrendimento líquido a esse investidor e qual será esse valor?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Básica, com rendimento líquido de R$ 53,90.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Básica, com rendimento líquido de R$ 54,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pessoal, com rendimento líquido de R$ 56,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pessoal, com rendimento líquido de R$ 58,12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pessoal, com rendimento líquido de R$ 59,80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

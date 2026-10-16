@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2014 - Reaplicação",
+    "index": 107,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O termo Foco equivale ao ponto de concentração\ndo ator. O nível de concentração é determinado pelo\nenvolvimento com o problema a ser solucionado.\nTomemos o exemplo do jogo teatral Cabo de Guerra:\n\n![](https://enem.dev/2014-reaplicacao/questions/107/68b16fd8-54b2-4edc-8a90-a5702a0bf9a2.png)\n\no Foco desse jogo reside em dar realidade ao objeto,\nque nesse caso é a corda imaginária. A dupla de\njogadores no palco mobiliza toda sua atenção\ne energia para dar realidade à corda. Quando a\nconcentração é plena, a dupla sai do jogo com toda\nevidência de ter realmente jogado o Cabo de Guerra\n— sem fôlego, com dor nos músculos do braço etc.\nA plateia observa em função do Foco.\n\nKOUDELA, I. D. Jogos teatrais. São Paulo: Perspectiva, 1990.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/107/68b16fd8-54b2-4edc-8a90-a5702a0bf9a2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o texto, a autora argumenta que o uso\ndo foco da cena teatral permite",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "transformar um objeto imaginário em um objeto concreto, produzindo sobre o espectador uma sensação igual à que ele teria em um espetáculo de mágica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produzir sobre a plateia, por meio do envolvimento dos atores, imagens e/ou situações capazes de ativar seu imaginário e seu conhecimento de mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "provocar efeito físico no ator, o que lhe confere a certeza de que seu corpo foi trabalhado adequadamente para a produção da cena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acionar no ator a atenção a múltiplas ações que ocorrem concomitantemente, tornando-o mais disponível para a atuação em cena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "determinar uma única leitura da ação proposta, explicitando qual entendimento o espectador deve ter da cena.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

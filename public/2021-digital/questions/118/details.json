@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2021 - Digital",
+    "index": 118,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Organismos autótrofos e heterótrofos\nassociam os ciclos do carbono e do oxigênio. O carbono fixado pela energia luminosa ou\na partir de compostos inorgânicos é eventualmente\nresultando em fontes de carbono como\ncompostos orgânicos são catabolizados pelos seres, com menor rendimento energético,\nproduzindo compostos secundários (subprodutos)\ncombustíveis ambientais.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O processo metabólico associado à expressão combustíveis ambientais é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fotossíntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fermentação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "quimiossíntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "respiração aeróbica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fosforilação oxidativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

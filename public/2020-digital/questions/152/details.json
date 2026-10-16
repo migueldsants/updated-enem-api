@@ -1,0 +1,49 @@
+{
+    "title": "Questão 152 - ENEM 2020 - Digital",
+    "index": 152,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um ano, uma prefeitura apresentou o relatório de gastos públicos realizados pelo\nmunicípio. O documento mostra que foram gastos 72 mil reais no mês de janeiro (mês 1), que\no maior gasto mensal ocorreu no mês de agosto (mês 8) e que a prefeitura gastou 105 mil\nreais no mês de dezembro (mês 12). A curva que modela esses gastos é a parábola y = T(x),\ncom x sendo o número correspondente ao mês e T(x), em milhar de real.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/152/1a7043e2-c6ac-4250-86dc-c8bc1ab29c64.png",
+        "https://enem.dev/2020-digital/questions/152/b2be459f-ad87-4f63-a415-346985f999f1.png",
+        "https://enem.dev/2020-digital/questions/152/8227649b-9b26-4949-a1c6-373fd8399c96.png",
+        "https://enem.dev/2020-digital/questions/152/2c35398e-918c-4035-a978-6c40499a231e.png",
+        "https://enem.dev/2020-digital/questions/152/b21413b9-62af-43bd-a9a2-7cf158b0ef00.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A expressão da função cujo gráfico é o da parábola descrita é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/152/1a7043e2-c6ac-4250-86dc-c8bc1ab29c64.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/152/b2be459f-ad87-4f63-a415-346985f999f1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/152/8227649b-9b26-4949-a1c6-373fd8399c96.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/152/2c35398e-918c-4035-a978-6c40499a231e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/152/b21413b9-62af-43bd-a9a2-7cf158b0ef00.png",
+            "isCorrect": false
+        }
+    ]
+}

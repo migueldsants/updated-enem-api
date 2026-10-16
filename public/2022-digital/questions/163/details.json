@@ -1,0 +1,57 @@
+{
+    "title": "Questão 163 - ENEM 2022 - Digital",
+    "index": 163,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de\natividades:\n\nDobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao\nlongo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o\npapel dobrado, conforme Figura 3.\n\n![](https://enem.dev/2022-digital/questions/163/82f8c5e0-6c7b-473d-8068-326b13a88903.png)\n\n![](https://enem.dev/2022-digital/questions/163/3f1c7f09-13db-48f1-b1fd-8c5012ece657.png)\n\n![](https://enem.dev/2022-digital/questions/163/c2a06527-0bc7-4153-bcf3-2f1f3bd1ecee.png)\n\nO\n\n![](https://enem.dev/2022-digital/questions/163/4da49cb7-85b5-41e2-a989-9ae7e2bbf563.png)\n\nFigura 1 Figura 2 Figura 3\n\n![](https://enem.dev/2022-digital/questions/163/780e4aaf-f276-4620-81d1-4d2deb928953.png)\n\n![](https://enem.dev/2022-digital/questions/163/33994030-68cd-406c-bb98-d6120750ed54.png)\n\n![](https://enem.dev/2022-digital/questions/163/5fe287db-92b3-4053-af6e-b764dce66bfb.png)\n\n![](https://enem.dev/2022-digital/questions/163/75c6f352-94b8-4a31-a722-eba61407db2a.png)\n\nFigura 4 Figura 5",
+    "files": [
+        "https://enem.dev/2022-digital/questions/163/82f8c5e0-6c7b-473d-8068-326b13a88903.png",
+        "https://enem.dev/2022-digital/questions/163/3f1c7f09-13db-48f1-b1fd-8c5012ece657.png",
+        "https://enem.dev/2022-digital/questions/163/c2a06527-0bc7-4153-bcf3-2f1f3bd1ecee.png",
+        "https://enem.dev/2022-digital/questions/163/4da49cb7-85b5-41e2-a989-9ae7e2bbf563.png",
+        "https://enem.dev/2022-digital/questions/163/780e4aaf-f276-4620-81d1-4d2deb928953.png",
+        "https://enem.dev/2022-digital/questions/163/33994030-68cd-406c-bb98-d6120750ed54.png",
+        "https://enem.dev/2022-digital/questions/163/5fe287db-92b3-4053-af6e-b764dce66bfb.png",
+        "https://enem.dev/2022-digital/questions/163/75c6f352-94b8-4a31-a722-eba61407db2a.png",
+        "https://enem.dev/2022-digital/questions/163/d9a139d2-a043-46e8-bbff-a84501e6e003.png",
+        "https://enem.dev/2022-digital/questions/163/ba7a7fff-54ba-4f4b-802b-0b77d5fe6711.png",
+        "https://enem.dev/2022-digital/questions/163/873753a5-3eb5-41e3-b1ff-a94b84e374e0.png",
+        "https://enem.dev/2022-digital/questions/163/775441ba-c424-4c64-abe9-ceea49891340.png",
+        "https://enem.dev/2022-digital/questions/163/106b732a-5de9-4e96-956d-8fe88e9d6eab.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes\nobterão será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/163/d9a139d2-a043-46e8-bbff-a84501e6e003.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/163/ba7a7fff-54ba-4f4b-802b-0b77d5fe6711.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/163/873753a5-3eb5-41e3-b1ff-a94b84e374e0.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/163/775441ba-c424-4c64-abe9-ceea49891340.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/163/106b732a-5de9-4e96-956d-8fe88e9d6eab.png",
+            "isCorrect": false
+        }
+    ]
+}

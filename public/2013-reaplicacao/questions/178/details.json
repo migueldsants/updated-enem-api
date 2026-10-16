@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2013 - Reaplicação",
+    "index": 178,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma característica interessante do som é sua\nfrequência. Quando uma fonte sonora se aproxima do\nouvinte, o som ouvido por ele tem uma frequência maior\ndo que o som produzido pela mesma fonte sonora, se ela\nestiver parada. Entretanto, se a fonte sonora se afasta\ndo ouvinte, a frequência é menor. Esse fenômeno é\nconhecido como efeito Doppler.\n\nUm ouvinte parado junto a uma fonte ouve o seu\nsom com uma frequência constante, que será denotada\npor ƒ. Quatro experimentos foram feitos com essa fonte\nsonora em movimento. Denotaremos por ƒ₁ , ƒ₂ , ƒ₃ e ƒ₄ as\nfrequências do som da fonte sonora em movimento ouvido\npelo ouvinte, que continua parado, nos experimentos 1, 2,\n3 e 4, respectivamente.\n\nDepois de calculadas as frequências, as seguintes\nrelações foram obtidas:\n\nƒ₁ = 1,1ƒ, ƒ₂ = 0,99ƒ₁, ƒ₁ = 0,9ƒ₃ e ƒ₄= 0,9ƒ",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/178/dd647676-a582-43da-aed5-bb5b76187a9f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em quais experimentos a fonte sonora se afastou do ouvinte?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Somente nos experimentos 1, 2 e 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Somente nos experimentos 2, 3 e 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Somente nos experimentos 2 e 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Somente nos experimentos 3 e 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/178/dd647676-a582-43da-aed5-bb5b76187a9f.png",
+            "isCorrect": true
+        }
+    ]
+}

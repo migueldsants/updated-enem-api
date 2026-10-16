@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2021 - Digital",
+    "index": 84,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O torém dependia de organização familiar, sendo brincado por pessoas com vínculos\nde parentesco e afinidade que viviam no local. Era visto como uma brincadeira, um\nentretenimento feito para os próprios participantes e seus conhecidos. O tempo do caju\nera o pretexto para sua realização, sendo chamadas várias pessoas da região a fim de\ntomar mocororó, bebida fermentada do caju.\n\nVALLE, C. G. O. Torém/Toré: tradições e invenção no quadro de multiplicidade étnica do Ceará contemporâneo. In:\nGRÜNEWALD, R. A. (Org.).Toré: regime encantado dos índios do Nordeste. Recife: Fundaj-Massangana, 2005.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O ritual mencionado no texto atribui à manifestação cultural de grupos indígenas do\nNordeste brasileiro a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "celebrar a história oficial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estimular a coesão social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "superar a atividade artesanal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "manipular a memória individual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "modernizar o comércio tradicional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

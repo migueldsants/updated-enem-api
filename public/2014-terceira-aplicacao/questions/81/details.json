@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2014 - Terceira aplicação",
+    "index": 81,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A relação simbiótica entre plantas e certos\nmicrorganismos tem sido explorada pela agricultura para\naumentar a produtividade. Um exemplo conhecido são\nas micorrizas, fungos associados a raízes de plantas que\nas ajudam a absorver nutrientes do solo. Recentemente,\npesquisadores conseguiram inocular, em tomateiros,\nfungos simbiontes de plantas que crescem naturalmente\nem áreas próximas a fontes de águas quentes e que\nresistem a temperaturas em torno de 65 °C.\n\nScientific American Brazil, n. 97, jun. 2010 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A vantagem da inoculação desses fungos nos tomateiros\ndeve-se à possibilidade de aumentar a produtividade, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o cultivo de tomate poderá ser feito em regiões de águas termais ricas em nutrientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as novas plantas de tomate serão mais resistentes a fungos patogênicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as novas plantas de tomate poderão ser cultivadas em regiões de temperaturas extremas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a área de cultivo de tomate poderá ser ampliada para regiões com temperaturas mais quentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "os frutos produzidos por essas plantas não serão suscetíveis a decomposição por fungos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

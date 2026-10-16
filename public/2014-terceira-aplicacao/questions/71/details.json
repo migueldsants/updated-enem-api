@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2014 - Terceira aplicação",
+    "index": 71,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O mimetismo é uma característica adaptativa\nque pode influenciar positivamente nas chances de\nsobrevivência. Nessa condição, uma espécie apresenta\numa característica de outra espécie que é não comestível\ne/ou não palatável.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Como exemplo de seres que se utilizam dessa estratégia\nde sobrevivência, há",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o inseto cuja forma e coloração assemelham-se a folhas de árvores em estado de decomposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a raposa-do-ártico, que apresenta pelagens diferentes para a estação do inverno e estação do verão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o cavalo-marinho, que apresenta projeções no corpo que lembram as algas entre as quais eles vivem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a falsa-coral, que apresenta a coloração similar à da coral-verdadeira apesar de ser pouco peçonhenta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o camaleão, que muda a sua coloração assumindo as cores predominantes do local onde se encontra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

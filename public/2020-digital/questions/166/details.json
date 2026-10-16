@@ -1,0 +1,50 @@
+{
+    "title": "Questão 166 - ENEM 2020 - Digital",
+    "index": 166,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "De acordo com pesquisas recentes, a expectativa de vida do brasileiro subiu de 74,6\nanos, em 2012, para 74,9 anos, em 2015. Dentre os possíveis fatores para esse aumento\nestão a melhoria do sistema de saúde, o aumento da renda familiar e a prática de exercícios\nfísicos.\n\nPara tornar essa notícia do aumento da expectativa de vida do brasileiro mais expressiva,\nconverteu-se esse aumento para a quantidade de dias.\n\nConsidere que para esta conversão o número de dias em cada mês foi fixado em 30.\n\nCom base nas informações, que cálculo correspondeu a essa conversão?\n\n![](https://enem.dev/2020-digital/questions/166/51e9e997-2fd3-4e9a-861e-86cae2ba6880.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/166/51e9e997-2fd3-4e9a-861e-86cae2ba6880.png",
+        "https://enem.dev/2020-digital/questions/166/d3a336ef-ea23-4714-8ebe-d53e7eb1fb18.png",
+        "https://enem.dev/2020-digital/questions/166/1e3c74c2-40bb-445d-a900-ba472ef6fcf4.png",
+        "https://enem.dev/2020-digital/questions/166/78041bd1-2ecd-45fd-8af3-ff576214da59.png",
+        "https://enem.dev/2020-digital/questions/166/f4fbb3e8-64a0-4d71-ac67-61320b5d7d56.png",
+        "https://enem.dev/2020-digital/questions/166/4c6fac8a-2cad-4c71-8c91-be2a6e2ed9b2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/166/d3a336ef-ea23-4714-8ebe-d53e7eb1fb18.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/166/1e3c74c2-40bb-445d-a900-ba472ef6fcf4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/166/78041bd1-2ecd-45fd-8af3-ff576214da59.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/166/f4fbb3e8-64a0-4d71-ac67-61320b5d7d56.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/166/4c6fac8a-2cad-4c71-8c91-be2a6e2ed9b2.png",
+            "isCorrect": false
+        }
+    ]
+}

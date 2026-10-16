@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2020 - Digital",
+    "index": 4,
+    "year": 2020,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/4-espanhol/fe067633-84f0-4826-a8d7-49c60b3eb6f0.png)\n\n¿Hay algo más argentino que la expresión \"che\"? Muchos afirmarían que no, que de\nhecho \"che\" es sinónimo de argentino. Sin embargo, las continuas oleadas migratorias que\nrecibió el país a finales del siglo XIX y comienzos del XX le dan un origen más complejo.\n\nA Valencia, ubicada en la costa mediterránea española, se le conoce como la tierra de los\n\"che\". \"Es muy probable que la expresión viajara con los emigrantes que llegaron a Argentina.\nEntre 1857 y 1935 casi tres millones de españoles arribaron a Buenos Aires\", comenta la\nfilóloga e historiadora Inés Celaya.\n\nEl \"che\", no obstante, es un hijo con varios padres. Algunos filólogos italianos reclaman la\npaternidad y sitúan su nacimiento en Venecia, cuna del \"cocoliChe\", un dialecto que transmitió\nmuchas palabras al lunfardo, la jerga que nació en los bares bonaerenses. De 1814 a 1970\nllegaron a Argentina unos seis millones de emigrantes italianos, siendo la comunidad europea\nmás grande del país.\n\nOtra vertiente del \"che\" es su posible origen en las comunidades indígenas del norte de\nArgentina. En guaraní \"che\" significa \"yo\" y también se utiliza como el posesivo \"mi\". \"En\ncualquier caso el 'che' es una palabra errante, que ha cruzado culturas y océanos. Ya no sólo\nforma parte de la historia del Mediterráneo sino del cono sur de América\", detalla Celaya.\n\nDisponível em: www.lanacion.com.ar. Acesso em: 8 jul. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/4-espanhol/fe067633-84f0-4826-a8d7-49c60b3eb6f0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto trata da origem da expressão “che”. No caso do espanhol da Argentina, essa\nexpressão reflete a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "quantidade de imigrantes usuários do vocábulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "perspectiva da filóloga para o uso dessa palavra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "identificação dos argentinos com a palavra “che”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diversidade na formação dessa variedade do castelhano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "imposição da língua espanhola sobre as línguas indígenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

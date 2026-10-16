@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 70,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É com certeza, Senhor, e não com dúvida que em minha\nconsciência eu Vos amo. Vós atingistes meu coração com a Vossa\npalavra e assim Vos amei. O céu, a terra e tudo que neles existe\nconclamam-me por toda parte a amar-Vos.\n\nAGOSTINHO. Confissões. Petrópolis: Vozes, 1988.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na visão do autor, o ser humano tem como característica a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "abstenção política como resultado da manifestação da fé.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "construção da ideia de autonomia como fonte de libertação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dependência da ordem divina para conquista da felicidade plena.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "realização pessoal mediante prosperidade advinda do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "busca pela moralidade cristã determinada pelo imperativo categórico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

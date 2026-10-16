@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2015 - Reaplicação",
+    "index": 37,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/37/af29f01e-922e-46d5-9ff7-55dd09a44efd.png)\n\nNANI. Disponível em: www.nanihumor.com. Acesso em: 7 ago. 2012.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/37/af29f01e-922e-46d5-9ff7-55dd09a44efd.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As novas tecnologias foram massificadas, alcançando\ne impactando de diferentes formas os lugares. A ironia\nproposta pela charge indica que o acesso à tecnologia está",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vinculado a mudanças na paisagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "garantido de forma equitativa aos cidadãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "priorizado para resolver as desigualdades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "relacionado a uma ação redentora na vida social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dissociado de revoluções na realidade socioespacial.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

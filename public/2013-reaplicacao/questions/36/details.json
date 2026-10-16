@@ -1,0 +1,46 @@
+{
+    "title": "Questão 36 - ENEM 2013 - Reaplicação",
+    "index": 36,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Brasileiros de 5 anos ou mais de idade que viviam no\nexterior entre 31/07/1995 e 31/07/2005 e retornaram\npara o Brasil\n\n![](https://enem.dev/2013-reaplicacao/questions/36/f4f5b8f6-f15a-47fc-81c3-562d8263ce69.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/36/0f22e39a-f347-4bf0-8f93-a15285b113f6.png)\n\n80 000\n60 000\n40 000\n20 000\n\nFonte: IBGE, Censos Demográficos de 2000 e 2010. Disponível em: www.sidra.ibge.gov.br.\nAcesso em: 12 dez. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/36/f4f5b8f6-f15a-47fc-81c3-562d8263ce69.png",
+        "https://enem.dev/2013-reaplicacao/questions/36/0f22e39a-f347-4bf0-8f93-a15285b113f6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um fator no Brasil que explica a situação social\ndemonstrada no gráfico está expresso em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Declínio do trabalho formal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Subsídio econômico do governo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento do controle da migração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Decréscimo da renda dos empregados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expansão da demanda de mão de obra.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

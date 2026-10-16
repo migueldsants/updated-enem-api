@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2021 - Digital",
+    "index": 36,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\n![](https://enem.dev/2021-digital/questions/36/428004c8-5f43-44e3-8e11-1b60d75e12e4.png)\n\nHAZOUMÉ, R. Nanawax. Plástico e tecido. Galerie Gagosian, 2009.\n\nDisponível em: www.actuart.org. Acesso em: 19 jun. 2019.\n\nTEXTO II\n\nAs máscaras não foram feitas para serem usadas; elas se concentram apenas nas\npossibilidades antropomórficas dos recipientes plásticos descartados e, ao mesmo tempo,\nchamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades\nou aldeias africanas.\n\nFARTHING, S. Tudo sobre arte. Rio de Janeiro: Sextante, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/36/428004c8-5f43-44e3-8e11-1b60d75e12e4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Romuald Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o refugo\nde uma sociedade de consumo cada vez mais invasiva. A obra desse artista africano que\nvive no Benin denota o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "empobrecimento do valor artístico pela combinação de diferentes matérias-primas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reposicionamento estético de objetos por meio da mudança de função.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "convite aos espectadores para interagir e completar obras inacabadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "militância com temas da ecologia que marcam o continente africano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "realidade precária de suas condições de produção artística.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

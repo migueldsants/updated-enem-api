@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 143,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um matemático brasileiro recebeu, em 2014, a Medalha\nFields, premiação popularmente conhecida como o “Nobel da\nMatemática”. Ele é o primeiro ganhador da América Latina.\nComo parte da premiação, ele ainda recebeu cerca de R$ 31,3 mil\npela conquista.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 5 nov. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é o valor, em real, representado pelo algarismo 1 no valor\nda premiação recebida pelo matemático brasileiro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "10 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

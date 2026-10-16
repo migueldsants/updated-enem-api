@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2014 - Terceira aplicação",
+    "index": 88,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Cientistas acreditam que a concentração de dióxido\nde carbono na atmosfera tem aumentado devido,\nprincipalmente, à sua liberação durante a queima\nde combustíveis fósseis. O dióxido de carbono é um\ndos componentes da atmosfera que retém a radiação\ninfravermelha na superfície da Terra, e o aumento na sua\nconcentração contribui para o aquecimento global. Uma\ndas medidas propostas para combater este problema é\no consumo de biocombustíveis no lugar de combustíveis\nfósseis.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "citada medida se justifica porque o consumo de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "libera menos dióxido de carbono na atmosfera que o consumo de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "não resulta na emissão de poluentes, como acontece com o consumo de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "não provoca o esgotamento de um recurso não renovável, como acontece com o consumo de combustiveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "não aumenta a concentração de dióxido de carbono na atmosfera, como acontece com o consumo de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

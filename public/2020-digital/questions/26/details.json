@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2020 - Digital",
+    "index": 26,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A masculinidade, assim como a feminilidade, é uma construção histórica e cultural. Em\nnossa cultura, a dança caracteriza-se, no sentido geral, como um universo predominantemente\nfeminino. Homens que dançam são geralmente considerados homossexuais, por não se\nenquadrarem dentro das normas culturais hegemônicas de gênero e sexualidade. Por outro\nlado, demonstram a não existência de um único tipo de masculinidade, enfatizando que as\nidentidades humanas são múltiplas e plurais. No contexto da dança, as representações\nhegemônicas de gênero e as regulações sociais que essas impõem não se manifestam de\nforma igual em todas as modalidades de dança. Persiste essa forte representação cultural\nocidental que associa o balé à feminilidade e à homossexualidade. Em outras danças, ela não\nse revela tão forte, e os homens não aparecem em menor número, como nas tradicionais\ndanças folclóricas ou no moderno hip hop.\n\nANDREOLI, G. S. Representações de masculinidade na dança contemporânea. Movimento, n. 1, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No que tange à identidade de gênero masculina, a dança e suas modalidades expressam o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "padronização da inserção dos homens nessas manifestações corporais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "identificação de como essas práticas regulam uma única masculinidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reconhecimento das diferentes masculinidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "contestação das normas sociais pelo balé.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reforço de uma feminilidade hegemônica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

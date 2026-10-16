@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2015 - Reaplicação",
+    "index": 163,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica que trabalha com matéria-prima de\nfibra de vidro possui diversos modelos e tamanhos de\ncaixa-d’água. Um desses modelos é um prisma reto\ncom base quadrada. Com o objetivo de modificar a\ncapacidade de armazenamento de água, está sendo\nconstruído um novo modelo, com as medidas das\narestas da base duplicadas, sem a alteração da altura,\nmantendo a mesma forma.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em relação ao antigo modelo, o volume do novo modelo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oito vezes maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "quatro vezes maior.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "duas vezes maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a metade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a quarta parte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

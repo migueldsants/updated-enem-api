@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2014 - Reaplicação",
+    "index": 145,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um lojista adquiriu novas embalagens para\npresentes que serão distribuídas aos seus clientes.\nAs embalagens foram entregues para serem montadas\ne têm forma dada pela figura.\n\n![](https://enem.dev/2014-reaplicacao/questions/145/abe5eae4-1b8a-4373-ad87-7d0165a33b47.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/145/abe5eae4-1b8a-4373-ad87-7d0165a33b47.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após montadas, as embalagens formarão um sólido com\nquantas arestas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "15",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

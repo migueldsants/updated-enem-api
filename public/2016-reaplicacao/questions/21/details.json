@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2016 - Reaplicação",
+    "index": 21,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Mar de Aral, localizado entre o Cazaquistão e o\nUzbequistão, era até 1960 o quarto maior lago do mundo,\ncobrindo uma área de 66 mil quilômetros quadrados, com\num volume estimado de mais de 1 000 quilômetros cúbicos.\nO Aral e toda a bacia do lago ganharam notoriedade\nmundial como uma das maiores degradações ambientais\ndo século XX causadas pelo homem. É referida como a\n“Chernobyl Calada”, uma catástrofe silenciosa que evoluiu\nlentamente, de forma quase imperceptível, ao longo das\núltimas décadas. O futuro do Aral é incerto. A única certeza\né que o lago é agora cenário de uma catástrofe ambiental\nà medida que o nível de água declina e o ecossistema\ndegrada-se, provocando um ambiente de deterioração e\ncondições de vida e de saúde precárias para os povos\nque vivem às margens do lago.\n\nSANTIAGO, E. Disponível em: www.infoescola.com. Acesso em: 12 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os impactos ambientais no Mar de Aral são diretamente\nresultantes da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exploração de petróleo em águas profundas desse mar para atender à demanda centro-asiática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aplicação de pesticidas nas lavouras de seu entorno para aumentar a produtividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "construção de edificações em suas margens para desenvolver a atividade turística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilização de suas águas para atender às necessidades da indústria pesqueira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "extração das águas de seus afluentes para a irrigação de lavouras.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

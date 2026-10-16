@@ -1,0 +1,45 @@
+{
+    "title": "Questão 104 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 104,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Existe grande expectativa quanto ao emprego de\ncélulas-tronco na terapia contra muitas doenças, uma vez que\nessas células podem se diferenciar em diversos tipos celulares.\nUm pesquisador, interessado em estudar as fibras musculares\nestriadas cardíacas (cardiomiócitos) obtidas de células-tronco,\niniciou seu trabalho analisando a ação de cinco fatores de\ndiferenciação celular e obteve células com as características\n\n![](https://enem.dev/2025-belem/questions/104/76186745-30e0-4892-aaae-f8a0a31dece2.png)\n\nREL (retículo endoplasmático liso); FA (filamentos de actina).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/104/76186745-30e0-4892-aaae-f8a0a31dece2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com qual fator de diferenciação o pesquisador deverá prosseguir\nem seu estudo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

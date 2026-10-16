@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 124,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um termostato é um dispositivo sensível a variações de temperatura utilizado para evitar o superaquecimento de alguns\nferros de passar roupas. Um desses dispositivos é constituído por uma lâmina bimetálica de aço e latão que faz um contato\nelétrico. Quando a lâmina atinge uma determinada temperatura, sofre deflexão e esse contato é aberto, conforme a figura.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A deflexão dessa lâmina ocorre porque o latão, em relação ao aço, apresenta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "menor coeficiente de dilatação térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior coeficiente de dilatação térmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "menor condutividade térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "maior condutividade térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "menor calor específico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

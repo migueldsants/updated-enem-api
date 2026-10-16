@@ -1,0 +1,45 @@
+{
+    "title": "Questão 120 - ENEM 2020 - Digital",
+    "index": 120,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Diversos brinquedos são constituídos de pilhas ligadas a um motor elétrico. A figura\nmostra uma pilha e um motor acoplados, em que ε representa a força eletromotriz (FEM) da\npilha, ε’ representa a força contraeletromotriz (FCEM) do motor e r e r’ são resistências\ninternas. Um problema comum que danifica esses brinquedos é o travamento do eixo do\nmotor.\n\n![](https://enem.dev/2020-digital/questions/120/7b349428-09b9-4486-9494-7950696e6a2b.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/120/7b349428-09b9-4486-9494-7950696e6a2b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O que ocorre com a FCEM e com a energia fornecida pelas pilhas, que ocasiona danos ao\nmotor, quando seu eixo de rotação é travado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A FCEM iguala-se com a FEM e toda a energia fornecida pela pilha fica armazenada no circuito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A FCEM sofre grande aumento e toda a energia fornecida pela pilha passa a ser dissipada na forma de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A FCEM inverte a polaridade e toda a energia fornecida pela pilha é devolvida para ela na forma de energia potencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A FCEM reduz-se a zero e toda a energia fornecida pela pilha passa a ser dissipada na resistência interna do motor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A FCEM mantém-se constante e toda a energia fornecida pela pilha continua sendo transformada em energia mecânica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

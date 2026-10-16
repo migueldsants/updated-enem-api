@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2021 - Digital",
+    "index": 149,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A relação de Newton-Laplace estabelece que o módulo volumétrico de um fluido é\ndiretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no\nfluido e à sua densidade (em quilograma por metro cúbico), com uma constante de\nproporcionalidade adimensional.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa relação, a unidade de medida adequada para o módulo volumétrico é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "kg⋅m⁻²⋅s⁻¹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "kg⋅m⁻¹⋅s⁻²",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "kg⋅m⁻⁵⋅s²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "kg⁻¹⋅m¹ ⋅s²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "kg⁻¹⋅m⁵ ⋅s⁻²",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

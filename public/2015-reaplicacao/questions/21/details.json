@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2015 - Reaplicação",
+    "index": 21,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Suponha homens numa morada subterrânea, em\nforma de caverna, cuja entrada, aberta à luz, se estende\nsobre todo o comprimento da fachada; eles estão lá\ndesde a infância, as pernas e o pescoço presos por\ncorrentes, de tal sorte que não podem trocar de lugar e\nsó podem olhar para frente, pois os grilhões os impedem\nde voltar a cabeça; a luz de uma fogueira acesa ao\nlonge, numa elevada do terreno, brilha por detrás deles;\nentre a fogueira e os prisioneiros, há um caminho\nascendente; ao longo do caminho, imagine um pequeno\nmuro, semelhante aos tapumes que os manipuladores\nde marionetes armam entre eles e o público e sobre os\nquais exibem seus prestígios.\n\nPLATÃO. A República. Lisboa: Fundação Calouste Gulbenkian, 2007.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa narrativa de Platão é uma importante manifestação\ncultural do pensamento grego antigo, cuja ideia central,\ndo ponto de vista filosófico, evidencia o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "caráter antropológico, descrevendo as origens do homem primitivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sistema penal da época, criticando o sistema carcerário da sociedade ateniense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vida cultural e artística, expressa por dramaturgos trágicos e cômicos gregos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sistema político elitista, provindo do surgimento da pólis e da democracia ateniense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "teoria do conhecimento, expondo a passagem do mundo ilusório para o mundo das ideias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

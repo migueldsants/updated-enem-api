@@ -1,0 +1,48 @@
+{
+    "title": "Questão 31 - ENEM 2016 - Reaplicação",
+    "index": 31,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A imagem apresenta um exemplo de croqui de síntese sobre o turismo na França.\n\nTurismo na França\n\nBRETAGNE VOSGES\n\n![](https://enem.dev/2016-reaplicacao/questions/31/7fd4a635-331b-4a8c-929c-0403de87725a.png)\n\nCÔTE D’ AZUR\n\nEixos e Fluxos Regiões Turísticas\n\n![](https://enem.dev/2016-reaplicacao/questions/31/5e9575fc-aaa5-4e08-976e-1a07162d51e5.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/31/1a61cdbc-8abd-4d33-980b-5fd0b34a3154.png)\n\nPlanejamento\n\n![](https://enem.dev/2016-reaplicacao/questions/31/75e27cc6-789b-4343-8a38-ad8f0b708890.png)\n\nParques Nacionais Estações\n\nPONTUSCHKA, N. N.; PAGANELLI, T. L.; CACETE, N. H. Para ensinar e aprender geografia. São Paulo: Cortez, 2007 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/31/7fd4a635-331b-4a8c-929c-0403de87725a.png",
+        "https://enem.dev/2016-reaplicacao/questions/31/5e9575fc-aaa5-4e08-976e-1a07162d51e5.png",
+        "https://enem.dev/2016-reaplicacao/questions/31/1a61cdbc-8abd-4d33-980b-5fd0b34a3154.png",
+        "https://enem.dev/2016-reaplicacao/questions/31/75e27cc6-789b-4343-8a38-ad8f0b708890.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os croquis são esquemas gráficos que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "têm as medidas representadas em escala uniforme.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ressaltam a distribuição espacial dos fenômenos e os fatores de localização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "têm a representação gráfica de distâncias do terreno feita sobre uma linha reta graduada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "indicam a relação entre a dimensão do espaço real e a do espaço representado, por meio de uma proporção numérica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "proporcionam a obtenção de informações acerca de um objeto, área ou fenômeno localizado na Terra, sem que haja contato físico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

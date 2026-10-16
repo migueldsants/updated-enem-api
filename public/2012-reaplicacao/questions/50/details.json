@@ -1,0 +1,49 @@
+{
+    "title": "Questão 50 - ENEM 2012 - Reaplicação",
+    "index": 50,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O senso comum nos diz que os polímeros orgânicos\n(plásticos) em geral são isolantes elétricos. Entretanto,\nos polímeros condutores são materiais orgânicos que\nconduzem eletricidade. O que faz estes polímeros\ndiferentes é a presença das ligações covalentes duplas\nconjugadas com ligações simples, ao longo de toda a\ncadeia principal, incluindo grupos aromáticos. Isso permite\nque um átomo de carbono desfaça a ligação dupla com\num vizinho e refaça-a com outro. Assim, a carga elétrica\ndesloca-se dentro do material.\n\nFRANCISCO, R. H. P. Polímeros condutores. Revista Eletrônica de Ciências, n. 4, fev.\n2002. Disponível em: www.cdcc.usp.br. Acesso em: 29 fev. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/50/a4c3d88c-311c-4f9c-aa58-c1854296de65.png",
+        "https://enem.dev/2012-reaplicacao/questions/50/fc215f52-69ce-49b7-99e0-a98c1c0c167d.png",
+        "https://enem.dev/2012-reaplicacao/questions/50/4c67aa9a-e4ee-4616-a23f-b9e9612e0e2b.png",
+        "https://enem.dev/2012-reaplicacao/questions/50/e1f8c083-3327-4721-95f7-d1cdcd709da4.png",
+        "https://enem.dev/2012-reaplicacao/questions/50/0aa4a32d-2f5e-44a4-94ba-862f594c7b6c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o texto, qual dos polímeros seguintes\nseria condutor de eletricidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/50/a4c3d88c-311c-4f9c-aa58-c1854296de65.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/50/fc215f52-69ce-49b7-99e0-a98c1c0c167d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/50/4c67aa9a-e4ee-4616-a23f-b9e9612e0e2b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/50/e1f8c083-3327-4721-95f7-d1cdcd709da4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/50/0aa4a32d-2f5e-44a4-94ba-862f594c7b6c.png",
+            "isCorrect": false
+        }
+    ]
+}

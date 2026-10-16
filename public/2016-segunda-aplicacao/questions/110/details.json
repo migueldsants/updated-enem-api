@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2016 - Segunda aplicação",
+    "index": 110,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Da corrida de submarino à festa de aniversário no trem\n\nLeitores fazem sugestões\npara o Museu das Invenções Cariocas\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/110/e589f9a7-8a27-40e9-8a35-3ccd806386f0.png)\n\n“Falar ‘caraca!’ a cada surpresa ou acontecimento\nque vemos, bons ou ruins, é invenção do carioca, como\ntambém o ‘vacilão’.”\n\n“Cariocas inventam um vocabulário próprio”. “Dizer\n‘merrmão’ e ‘é merrmo’ para um amigo pode até doer um\npouco no ouvido, mas é tipicamente carioca.”\n\n“Pedir um ‘choro’ ao garçom é invenção carioca.”\n“Chamar um quase desconhecido de ‘querido’ é um\ncarinho inventado pelo carioca para tratar bem quem\nainda não se conhece direito.”\n\n“O ‘ele é um querido’ é uma forma mais feminina de\nelogiar quem já é conhecido.”\n\nSANTOS, J. F. Disponível em: www.oglobo.globo.com. Acesso em: 6 mar. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/110/e589f9a7-8a27-40e9-8a35-3ccd806386f0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Entre as sugestões apresentadas para o Museu das\nInvenções Cariocas, destaca-se o variado repertório\nlinguístico empregado pelos falantes cariocas nas\ndiferentes situações específicas de uso social. A respeito\ndesse repertório, atesta-se o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desobediência à norma-padrão, requerida em ambientes urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inadequação linguística das expressões cariocas às situações sociais apresentadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reconhecimento da variação linguística, segundo o grau de escolaridade dos falantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "identificação de usos linguísticos próprios da tradição cultural carioca.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "variabilidade no linguajar carioca em razão da faixa etária dos falantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

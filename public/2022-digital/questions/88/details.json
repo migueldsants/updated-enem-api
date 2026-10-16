@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2022 - Digital",
+    "index": 88,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar\nalegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem\ndesfalecer, ainda que desfaleça.\n\nSÊNECA, L.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O excerto refere-se a uma carta de Sêneca\nfundamental da filosofia promover a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorização de disputas dialógicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rejeição das convenções sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inspiração de natureza religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "exaltação do sofrimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "moderação das paixões.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2013 - Reaplicação",
+    "index": 91,
+    "year": 2013,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/91-espanhol/039fc46e-bb85-4dcc-a207-57fbc2b8f06b.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/91-espanhol/039fc46e-bb85-4dcc-a207-57fbc2b8f06b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A charge faz uma crítica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a uma sociedade em que tudo tem um preço.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ao individualismo da sociedade contemporânea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao preço elevado dos produtos comercializados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à desvalorização que as pessoas sofrem no mundo atual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao valor exagerado que se dá às coisas nos dias de hoje.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2012 - Reaplicação",
+    "index": 36,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A integração do espaço amazônico ao espaço\nnacional se deu no contexto das questões de fronteiras\nde políticas, no sentido do dinamismo pioneiro\nda integração. Essas fronteiras foram elementos\nfundamentais para a compreensão da geopolítica dos\nmilitares, que não apenas objetivavam a posse do vazio\ndemográfico, mas representavam os interesses do\ngoverno brasileiro em manter sob sua influência uma\ngrande área no interior do continente.\n\nMELLO, N. A. Políticas territoriais na Amazônia. São Paulo: Annablume, 2006.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, são apresentados fundamentos da política de\ncolonização de uma importante região brasileira, ao longo\ndo período dos governos militares. Uma estratégia estatal\npara a ocupação desse espaço foi:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Demarcação de reservas para preservação da floresta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Criação de restrições para exploração de recursos minerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Adoção de estímulos para expansão de grupos econômicos privados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Concessão de incentivos fiscais para instalação da indústria automobilística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Construção de uma densa rede de transporte para escoamento da produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2016 - Segunda aplicação",
+    "index": 54,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Darwin, em viagem às Ilhas Galápagos, observou que\nos tentilhões apresentavam bicos com formatos diferentes\nem cada ilha, de acordo com o tipo de alimentação\ndisponível. Lamarck, ao explicar que o pescoço da girafa\nteria esticado para colher folhas e frutos no alto das\nárvores, elaborou ideias importantes sobre a evolução\ndos seres vivos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto aponta que uma ideia comum às teorias da\nevolução, propostas por Darwin e por Lamarck, refere-se\nà interação entre os organismos e seus ambientes, que é\ndenominada de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mutação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "adaptação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "seleção natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "recombinação gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "variabilidade genética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 49,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 1845, na França, os fabricantes expõem claramente seu\nponto de vista: “A perfeição do trabalho que se obtém com a\nnova máquina será um estímulo a se fazer melhor, e o operário\nfinalmente entenderá que, quando as máquinas substituem em\ntodos os sentidos o trabalho do homem, produzem melhor e mais\nbarato do que ele, a razão ordena-lhe obedecer às prescrições\ndo senhor, a fim de que faça o melhor possível, e ordena-lhe\ntambém renunciar a salários exagerados”.\n\nPERROT, M. Os excluídos da História. Rio de Janeiro:\nPaz e Terra, 1988 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto, a perspectiva de crescimento da produção\nfabril residia no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "demanda do mercado nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "elevação do custo de produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "disciplina do empregado na fábrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumento de encargos trabalhistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "melhoria da condição do operariado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

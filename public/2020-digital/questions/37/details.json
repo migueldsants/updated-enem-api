@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2020 - Digital",
+    "index": 37,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A carroça sem cavalo\n\nConta-se que, em noites frias de inverno, descia um forte nevoeiro trazido pelo mar e,\nnessa noite, ouviam-se muitos barulhos estranhos. Os moradores da cidade de São Francisco,\nque é a cidade mais antiga de Santa Catarina, eram acordados de madrugada com um barulho\nperturbador. Ao abrirem a janela de casa, os moradores assustavam-se com a cena: viam uma\ncarroça andando sem cavalo e sem ninguém puxando... Andava sozinha! Na carroça, havia\nobjetos barulhentos, como panelas, bules, inclusive alguns objetos amarrados do lado de fora\nda carroça. O medo dominou a pequena cidade. Conta-se ainda que um carroceiro foi morto a\ncoices pelo seu cavalo, por maltratar o animal. Nas noites de manifestação da assombração, a\ncarroça saía de um nevoeiro, assustava a população e, depois de um tempo, voltava a\ndesaparecer no nevoeiro.\n\nDisponível em: www.gazetaonline.com.br. Acesso em: 12 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se que os diversos gêneros que circulam na sociedade cumprem uma função\nsocial específica, esse texto tem por função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "abordar histórias reais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "informar acontecimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "questionar crenças populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "narrar histórias do imaginário social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "situar fatos de interesse da sociedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

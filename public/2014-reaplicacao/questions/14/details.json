@@ -1,0 +1,46 @@
+{
+    "title": "Questão 14 - ENEM 2014 - Reaplicação",
+    "index": 14,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Perfil do comércio Brasil-China\n\nEm 2010\n\nVendas do Brasil para a China\n\nBásicos Semimanufaturados\n\n83,7% 11,8%\n\nUS$\n\n![](https://enem.dev/2014-reaplicacao/questions/14/347cdef0-af6b-462f-a7fe-cc9946fe83cb.png)\n\n30,785\nbilhões\n\n4,5%\n\nManufaturados\n\nVendas da China para o Brasil\n\nManufaturados Básicos\n\n97,5% 2,1%\n\nUS$\n\n![](https://enem.dev/2014-reaplicacao/questions/14/ff49af24-9494-458b-8174-17fc66fe1ad5.png)\n\n25,593\nbilhões\n\nSemimanufaturados\n\nFonte: Ministério do Desenvolvimento,\nIndústria e Comércio Exterior.\nALVARENGA, D. Disponível em: http://g1.globo.com. Acesso em: 1 dez. 2012 fragmento .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/14/347cdef0-af6b-462f-a7fe-cc9946fe83cb.png",
+        "https://enem.dev/2014-reaplicacao/questions/14/ff49af24-9494-458b-8174-17fc66fe1ad5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nas últimas décadas, tem se observado um incremento\nno comércio entre o Brasil e a China. A comparação entre\nos gráficos demonstra a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "posição do Brasil como grande exportador de commodities.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "falta de complementaridade produtiva entre os dois países.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vantagem competitiva da China no setor de produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "proporcionalidade entre as trocas de bens de alto valor agregado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "restrita participação de bens de alta tecnologia no comércio bilateral.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2022 - Digital",
+    "index": 2,
+    "year": 2022,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Two hundred years ago, Jane Austen lived in a world where single men boasted vast\nestates; single ladies were expected to speak several languages, sing and play the piano.\nIn both cases, it was, of course, advantageous if you looked good too. So, how much has\n— or hasn’t — changed? Dating apps opaquely outline the demands of today’s\nrelationship market; users ruminate long and hard over their choice of pictures and what\nthey write in their biographies to hook in potential lovers, and that’s just your own profile.\nWhat do you look for in a future partner’s profile — potential signifiers of a popular\npersonality, a good job, a nice car? These apps are a poignant reminder of the often\nclassist attitudes we still adopt, as well as the financial and aesthetic expectations we\ndemand from potential partners.\n\nGALER, S. Disponível em: www.bbc.com. Acesso em: 8 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto aborda relações interpessoais com o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "problematizar o papel de gênero em casamentos modernos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apontar a relevância da educação formal na escolha de parceiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "comparar a expectativa de parceiros amorosos em épocas distintas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "discutir o uso de aplicativos para proporcionar encontros românticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valorizar a importância da aparência física na seleção de pretendentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

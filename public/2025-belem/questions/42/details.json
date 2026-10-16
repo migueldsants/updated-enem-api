@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 42,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025-belem/questions/42/9b88150f-11e7-4b3a-a61e-e9fbebd7fed0.png)\n\nCARTIER-BRESSON, H. Atrás da estação de Saint-Lazare. Fotografia\nem preto e branco (lente 35 mm), 44,8 × 29,8 cm. Paris, 1932.\n\nDisponível em: http://100photos.time.com. Acesso em: 19 jun. 2019.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/42/9b88150f-11e7-4b3a-a61e-e9fbebd7fed0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa fotografia, há um diálogo visual entre diversos elementos\nda cena. Com esse tipo de composição, Henri Cartier-Bresson\nrevolucionou a fotografia do século XX ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "priorizar o reflexo de imagens do cotidiano na construção da simetria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "transformar paisagens e pessoas comuns em composições artísticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "abandonar o estúdio como espaço de trabalho artístico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "visibilizar populações marginalizadas das cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "registrar corpos e objetos em movimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

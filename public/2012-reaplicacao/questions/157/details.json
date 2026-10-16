@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2012 - Reaplicação",
+    "index": 157,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jovem lança uma bola de borracha para observar\nsua trajetória e altura h (em metros) atingida ao longo\nde um certo intervalo de tempo t (em segundos). Nesse\nintervalo, a bola quica no chão algumas vezes, perdendo\naltura progressivamente. Parte de sua trajetória está\ndescrita na figura a seguir.\n\n![](https://enem.dev/2012-reaplicacao/questions/157/c77f5384-b1c7-4a1f-a7ea-3be97e6a5f1f.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/157/c77f5384-b1c7-4a1f-a7ea-3be97e6a5f1f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em suas observações, quantas vezes o jovem pôde\nconstatar que a bola atingiu a marca de 35 metros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nenhuma.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Uma vez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Duas vezes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quatro vezes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cinco vezes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

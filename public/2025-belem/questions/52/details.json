@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 52,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Casa da floresta\nEu quero morar\nNuma casinha feita à mão\nNuma floresta onde eu possa plantar o que eu quiser\nE andar de pés no chão\n\nE vou plantar abacaxi com banana\nMandioca, cacau, batata-doce e feijão\nPalmito e um café bem bonito\nLá na sombra da goiaba e do mamão\n\nSob a copa do coqueiro, açaí, abacateiro\nCajueiro e maracujá\nLá no alto a seringueira\nCom o guapuruvu na beira\nContemplando uma vista pro mar\n[...]\n\nCom o cuidado do facão\nApagar a ilusão de que o que é bom\nÉ o que produz demais\n\nNANAN. Movimento: manifesta sentimento. Curitiba: s.n., 2019 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para o uso do solo agrícola, o trecho da letra de canção\napresentado estabelece uma possibilidade de conciliação entre:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Modelo itinerante e pousio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sistema intensivo e parceria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Técnica extrativa e silvicultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Atividade empresarial e fruticultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Prática conservacionista e policultura.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

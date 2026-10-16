@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2014 - Terceira aplicação",
+    "index": 143,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao alugar um carro, o locatário precisa pagar\nR$ 60,00 por dia, e mais R$ 1,50 por quilômetro rodado.\nPara facilitar, as locadoras podem fazer uma relação entre\no valor a ser pago P, em reais, em função dos quilômetros\nrodados, representado por x.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual das expressões abaixo representa o valor pago\npelos locatários em função dos quilômetros rodados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P 61,50 + 1,50x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "P 60x + 1,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P 60 + 1,50x",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "P 61,50x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "P 1,50x",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2022 - Digital",
+    "index": 130,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O elemento iodo (I) tem função biológica e é acumulado na tireoide. Nos acidentes\nnucleares de Chernobyl e Fukushima, ocorreu a liberação para a atmosfera do\nradioisótopo¹³¹I, responsável por enfermidades nas pessoas que foram expostas a ele.\nO decaimento de uma massa de 12 microgramas do isótopo¹³¹I foi monitorado por\n14 dias, conforme o quadro.\n\n![](https://enem.dev/2022-digital/questions/130/8e13e064-4ff9-447a-be54-b679bbcc3748.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/130/8e13e064-4ff9-447a-be54-b679bbcc3748.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após o período de 40 dias, a massa residual desse isótopo é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,4 μg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5 μg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,8 μg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,4 μg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,2 μg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

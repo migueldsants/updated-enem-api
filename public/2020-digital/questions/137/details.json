@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2020 - Digital",
+    "index": 137,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com a crise dos alimentos em 2008, governantes e empresários de várias partes do\nmundo relacionaram a expansão dos biocombustíveis com a alta do preço da comida. Em\n2006, a produção mundial de etanol foi de 40 bilhões de litros e a de biodiesel, de 6,5 bilhões.\nOs EUA defendem seu etanol de milho ao afirmar que só 3% da inflação dos cereais é\ncausada pelos biocombustíveis. Para a Organização das Nações Unidas (ONU), os\nbiocombustíveis respondem por 10% da alta do preço da comida e, para o Banco Mundial, por\n75%. Ao lado dessa polêmica, cresce o consenso de que biocombustível não é sempre igual.\nO impacto sobre o preço dos alimentos é bem diferente quando se considera o álcool\ncombustível brasileiro, feito da cana; o etanol norte-americano, fabricado com milho; e o\nbiodiesel europeu, feito de grãos como o trigo, por exemplo. Nessa disputa, o Brasil está bem\nposicionado. O mapa seguinte mostra a distribuição percentual de etanol fabricado no mundo,\nem 2007.\n\n![](https://enem.dev/2020-digital/questions/137/c647008b-d703-4220-8eb3-6bcac70a3814.png)\n\nDisponível em: planetasustentavel.abril.com.br. Acesso em: 29 mar. 2009.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/137/c647008b-d703-4220-8eb3-6bcac70a3814.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o texto e o mapa de percentuais de fabricação de etanol fabricado no mundo,\npodemos concluir que a quantidade de etanol feito de milho, nos Estados Unidos, representa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16,25% da produção mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "43,70% da produção mundial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "46,00% da produção mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "75,00% da produção mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "95,00% da produção mundial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

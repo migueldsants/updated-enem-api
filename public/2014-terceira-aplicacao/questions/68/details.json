@@ -1,0 +1,45 @@
+{
+    "title": "Questão 68 - ENEM 2014 - Terceira aplicação",
+    "index": 68,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O tratamento convencional da água, quando há,\nremove todas as impurezas? Não. À custa de muita\nadição de cloro, a água que abastece residências,\nescolas e trabalhos é bacteriologicamente segura.\nOs tratamentos disponíveis removem partículas e parte\ndas substâncias dissolvidas, resultando em uma água\ntransparente e, geralmente, inodora e insípida, mas não\nquimicamente pura. O processo de purificação da água\ncompreende etapas distintas, que são: a decantação,\na coagulação/floculação, a filtração, a desinfecção e a\nfluoretação.\n\nGUIMARES, J.R.D. Claro como a água? Disponível em: http://cienciahoje.uol.com.br.\nAcesso em: 2 abr. 2011 adaptado .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/68/68c81182-bce5-4113-a27a-936f29efaa99.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dentre as etapas descritas, são consideradas processos\nquímicos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Decantação e coagulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Decantação e filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Coagulação e desinfecção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Floculação e filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/68/68c81182-bce5-4113-a27a-936f29efaa99.png",
+            "isCorrect": false
+        }
+    ]
+}

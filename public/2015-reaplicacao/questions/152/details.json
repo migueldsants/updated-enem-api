@@ -1,0 +1,46 @@
+{
+    "title": "Questão 152 - ENEM 2015 - Reaplicação",
+    "index": 152,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/152/85f4ed07-dfac-42e9-bcca-109df8bda1a9.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/152/5363b26f-9ed9-4420-9679-87c25b243ced.png)\n\nUm tamanho de papel bastante comum em escritórios\nbrasileiros é o A4, cujas dimensões são 21,0 cm por 29,7 cm.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/152/85f4ed07-dfac-42e9-bcca-109df8bda1a9.png",
+        "https://enem.dev/2015-reaplicacao/questions/152/5363b26f-9ed9-4420-9679-87c25b243ced.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quais são as dimensões, em centímetros, da folha A0?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "21,0 × 118,8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "84,0 × 29,7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "84,0 × 118,8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "168,0 × 237,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "336,0 × 475,2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

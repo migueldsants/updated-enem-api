@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2020 - Digital",
+    "index": 143,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um marceneiro visitou 5 madeireiras para comprar tábuas que lhe permitissem construir 5\nprateleiras de formato retangular, de dimensões iguais a 30 cm de largura por 120 cm de\ncomprimento cada, tendo como objetivo minimizar a sobra de madeira, podendo, para isso,\nfazer qualquer tipo de emenda. As dimensões das tábuas encontradas nas madeireiras estão\ndescritas no quadro.\n\n![](https://enem.dev/2020-digital/questions/143/fac36820-ab44-41a4-b331-52cbf4a468f5.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/143/fac36820-ab44-41a4-b331-52cbf4a468f5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em qual madeireira o marceneiro deve comprar as tábuas para atingir seu objetivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

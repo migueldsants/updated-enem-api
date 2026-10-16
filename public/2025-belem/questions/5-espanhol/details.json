@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 5,
+    "year": 2025,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Las tinieblas de tu memoria negra\n— Puedes elegir — seguía diciéndome el viejo rector —. O bien\nserás lo bastante animoso como para emprender solo esta dura\netapa, o bien la llevarás a cabo con los demás, uniéndote a tu paso\ny adoptando su marcha. En el primer caso serás un explorador de\ncalidad excepcional. En el segundo, no harás más que un trabajo\nde serie, mediocre, y en todo caso indigno de ti. Me contempló\ncon simpatía, y adivinando mi turbación y compadeciéndose\nseguramente de la tristeza que sentía, añadió:\n\n— ¿Pero qué hablamos de soledad, hijo mío? Un cristiano\nnunca está solo. [...]\n\n— Y esto, reverencia, todo esto, — suplicaba yo —, ¿no es...?\n— ¿Qué — ansioso —, qué, amigo mío?\n— Pues... orgullo. Una especie de presunción. [...]\n— ¿Orgullo? — me objetó susurrante.\n— ¿Orgullo?... Amigo mío, es orgulloso el que contempla\ntanto su propia excelencia que olvida la de Dios.\n\nY luego, sabiendo sin duda qué iba a responder:\n— ¿Es éste tu caso?\n— No, reverencia — contesté con excesiva rapidez, como\nqueriendo con ello encubrir la duda —. No creo en absoluto\nque ése sea mi caso.\n\n— Hijo mío — replicó —, alma débil que no ve sino su propia\ndebilidad, ¿por qué dudas de esa ascención a que Dios te llama?\nHijo mío, a Dios no le encontrarás únicamente al final del duro camino\nque estás escalando, sino a cada paso, en todos los momentos de la\nsubida. Y la humildad consiste precisamente en reconocer que no\npodemos nada sin esta presencia permanente. [...] Hijo mío, no trato\nde convencerte de nada — decía ahora el padre rector.\n\nMe dio la impresión de que en ese preciso instante acababa\nde darse cuenta de que la situación era irremediable, que me\nestaba escapando para siempre.\n\nNDONGO-BIDYOGO, D. Las tinieblas de tu memoria negra.\nCaracas; Madri: Fundamentos, 1987.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Las tinieblas de tu memoria negra é uma obra que retrata a vida\nna Guiné Equatorial durante o período de dominação espanhola,\nrefletindo sobre a atuação missionária que impôs novos valores\ne formas de organização social e religiosa no país. No texto,\no diálogo entre os personagens, um missionário religioso e\num jovem equato-guineano, evidencia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a dúvida dos jovens africanos que precisam escolher uma carreira universitária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o respeito dos habitantes da nação africana pela diversidade religiosa em seu país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o cuidado exagerado dos religiosos com o sentimento dos jovens na Guiné Equatorial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as características virtuosas dos estrangeiros que decidem abraçar a vida religiosa na África.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os conflitos dos jovens equato-guineanos diante da pressão de costumes religiosos estrangeiros.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

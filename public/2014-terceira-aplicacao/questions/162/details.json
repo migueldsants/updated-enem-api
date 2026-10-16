@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2014 - Terceira aplicação",
+    "index": 162,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Desde 2005, o Banco Central não fabrica mais a\nnota de 1real e, desde então, só produz dinheiro neste\nvalor em moedas. Hoje, há pouco mais de 159 milhões\nde cédulas de 1 real em circulação no Brasil, contra 1,6\nbilhão de moedas do mesmo valor. O Brasil chegou a\nter 1 bilhão de cédulas de 1 real em circulação, mas o\nnúmero só diminui com o tempo. Apesar de ser mais caro\nproduzir uma moeda, a durabilidade do metal é 30 vezes\nmaior que a do papel. Fabricar uma moeda de R$ 1 custa\nR$ 0,26, enquanto a nota custava R$ 0,17, entretanto, a\ncédula durava de oito a 11 meses.\n\nDisponível em: http://noticias.r7.com. Acesso em: 26 abr. 2010.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O tempo mínimo de durabilidade da moeda é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20 anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "28 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "240 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "330 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

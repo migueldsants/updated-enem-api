@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2012 - Reaplicação",
+    "index": 91,
+    "year": 2012,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/91-espanhol/9ffe2856-8a0e-4d5d-8086-266d88c09627.png)\n\nMAITENA. Todas las mujeres alteradas. Barcelona: Debolsillo, 2008.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/91-espanhol/9ffe2856-8a0e-4d5d-8086-266d88c09627.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considere que, em cada sociedade, os indivíduos estão\ninseridos em um sistema de sexo-gênero, isto é, atuam\nde acordo com determinados padrões de comportamento.\nDesse modo, o texto é irônico por meio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da demonstração da inexistência de padrões de comportamento feminino em situações cotidianas relacionadas ao universo gastronômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da divulgação de estereótipos com vistas a consolidar padrões de comportamento socialmente aceitáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do rechaço da importância assumida pelo homem nos relacionamentos contemporâneos em detrimento da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "da denúncia do desconforto feminino ao deparar- se com situações do cotidiano consideradas marcadamente machistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da contraposição de um estereótipo de comportamento feminino em relação às mudanças vividas pela sociedade contemporânea.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

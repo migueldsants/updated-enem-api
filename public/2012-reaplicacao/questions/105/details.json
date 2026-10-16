@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2012 - Reaplicação",
+    "index": 105,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Cantora afirma que não faz questão de lançar moda,\nmas gosta de estar “bonitona” e de se vestir bem\n\nEm entrevista concedida a um jornal televisivo, a\ncantora Adele disse que gosta de estar bonitona quando se\nveste, mas é profissional: “não faço questão de lançar moda.\nMúsica é para os ouvidos, não para os olhos. Vocês nunca\nvão me ver cantando de biquíni”.\n\nCom edição de imagens rápidas, cujos trechos da\nentrevista exclusiva se mesclavam com os de clipes, e\ntexto cheio de adjetivos, o jornal disse que a fuga de Adele\npara o sofrimento é colocar na partitura das músicas todo\nseu rancor.\n\nO rompimento de dois namoros deu origem aos\nálbuns 19 (2008) e 21 (2010): “é o meu jeito de superar\na dor... funcionou”.\n\nDisponível em: www.jb.com.br. Acesso em: 30 set. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As declarações da cantora ao jornal expressam sua\nopinião a respeito do comportamento dos artistas. Suas\npalavras sugerem que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a mídia rejeita uma imagem artística elaborada para atender às cobranças do público e para explorar a sensualidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uma cantora competente constrói sua carreira pelo desempenho vocal, sendo pouco relevante o figurino usado em apresentações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "uma pessoa pública está atenta às últimas tendências do mundo fashion, pois o vestuário de grife agrega valor à sua personalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uma plateia exigente despreza o exibicionismo e valoriza o ídolo comedido e desligado das tendências da moda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a artista oculta o seu estado de espírito valendo- se de regras ditadas por um grupo e de um figurino excêntrico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2022 - Digital",
+    "index": 104,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país.\nA introdução de espécies exóticas pode ser considerada um fator maximizador desse\nprocesso. A jaqueira (Artocarpus heterophyllus), por exemplo, é uma árvore originária da\nÍndia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se\naclimatou muito bem em praticamente todo o território nacional.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "estimulam a competição por seus frutos entre animais típicos da região e eliminam",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alteram os nichos e aumentam o número de possibilidades de relações entre os",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminuem a relação de competição entre os polinizadores e facilitam a ação de",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

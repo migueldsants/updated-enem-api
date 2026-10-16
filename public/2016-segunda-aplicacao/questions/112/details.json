@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2016 - Segunda aplicação",
+    "index": 112,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/112/ed5472ce-b479-43e2-a788-035e40c6c6e2.png)\n\nCASTRO, A. Sem título. Escultura em aço, Minas Gerais, 1990.\n\nDisponível em: www.institutoamilcardecastro.com.br. Acesso em: 2 ago. 2013.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/112/ed5472ce-b479-43e2-a788-035e40c6c6e2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A escultura do artista construtivista Amílcar de Castro é\nrepresentativa da arte contemporânea brasileira e tem o\ntraço estrutural marcado por elementos como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o corte e a dobra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a força e a visualidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o adereço e a expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o rompimento e a inércia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a decomposição e a articulação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

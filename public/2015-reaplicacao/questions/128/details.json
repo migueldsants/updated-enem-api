@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2015 - Reaplicação",
+    "index": 128,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Organizados pelo Comitê Intertribal Indígena,\ncom apoio do Ministério dos Esportes, os Jogos dos\nPovos Indígenas têm o seguinte mote: “O importante\nnão é competir, e sim, celebrar”. A proposta é recente,\njá que a primeira edição dos jogos ocorreu em 1996, e\ntem como objetivo a integração das diferentes tribos,\nassim como o resgate e a celebração dessas culturas\ntradicionais. A edição dos jogos de 2003, por exemplo,\nteve a participação de sessenta etnias, dentre elas os\nkaiowá, guarani, bororo, pataxó e yanomami. A última\nedição ocorreu em 2009, e foi a décima vez que o torneio\nfoi realizado. A periodicidade dos jogos é anual, com\nexceção do intervalo ocorrido em 1997, 1998, 2006 e\n2008, quando não houve edições.\n\nRONDINELLI, P. Disponível em: www.brasilescola.com. Acesso em: 15 ago. 2013.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando o texto, os Jogos dos Povos Indígenas\nassemelham-se aos Jogos Olímpicos em relação à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "quantificação de medalhas e vitórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "melhora de resultados e performance.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "realização anual dos eventos e festejos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "renovação de técnicas e táticas esportivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aproximação de diferentes sujeitos e culturas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 152 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 152,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para as olimpíadas internas de um colégio, foram formadas\n16 equipes, cada uma identificada por um escudo. Cada escudo\nserá dividido em 4 regiões distintas, conforme a Figura 1.\n\n![](https://enem.dev/2025-belem/questions/152/8fdb6b9a-761d-4601-b354-da94e36d9c1b.png)\n\nForam escolhidas três cores para colorir as regiões de\ntodos os escudos. Em cada região, será utilizada uma única cor,\ne o escudo de cada equipe será colorido com até três dessas\ncores. Regiões com lado em comum não podem ter a mesma cor.\nNão pode haver duas equipes com uma mesma configuração de\ncores no escudo. A Figura 2 apresenta dois escudos possíveis.\n\n![](https://enem.dev/2025-belem/questions/152/f8cccab6-ff6d-437d-9531-aec720adab76.png)\n\nCinco responsáveis pelas olimpíadas analisaram a viabilidade\nde se confeccionarem os escudos, e cada um formulou um\nargumento:\n\nI. é viável, pois há 18 escudos possíveis;\nII. é viável, pois há 72 escudos possíveis;\nIII. é viável, pois há 81 escudos possíveis;\nIV. não é viável, pois há apenas 6 escudos possíveis;\nV. não é viável, pois há apenas 12 escudos possíveis.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/152/8fdb6b9a-761d-4601-b354-da94e36d9c1b.png",
+        "https://enem.dev/2025-belem/questions/152/f8cccab6-ff6d-437d-9531-aec720adab76.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O argumento correto foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

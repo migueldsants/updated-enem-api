@@ -1,0 +1,46 @@
+{
+    "title": "Questão 136 - ENEM 2012 - Reaplicação",
+    "index": 136,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A tabela seguinte apresenta a média, em kg,\nde resíduos domiciliares produzidos anualmente por\nhabitante, no período de 1995 a 2005.\n\nProdução de resíduos domiciliares\npor habitante em um país\n\n![](https://enem.dev/2012-reaplicacao/questions/136/93cea033-9fb6-465c-ae48-73c56363ce1e.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/136/93cea033-9fb6-465c-ae48-73c56363ce1e.png",
+        "https://enem.dev/2012-reaplicacao/questions/136/300accfd-19d0-4510-8a3d-9e6af5e37d7a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se essa produção continuar aumentando, mantendo\no mesmo padrão observado na tabela, a previsão de\nprodução de resíduos domiciliares, por habitante no ano\nde 2020, em kg, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "610.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "640.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "660.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "700.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/136/300accfd-19d0-4510-8a3d-9e6af5e37d7a.png",
+            "isCorrect": false
+        }
+    ]
+}

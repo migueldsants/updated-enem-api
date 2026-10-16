@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2015 - Reaplicação",
+    "index": 164,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica vende pizzas congeladas de tamanhos\nmédio e grande, cujos diâmetros são respectivamente\n30 cm e 40 cm. Fabricam-se apenas pizzas de sabor\nmuçarela. Sabe-se que o custo com os ingredientes para\na preparação é diretamente proporcional ao quadrado\ndo diâmetro da pizza, e que na de tamanho médio esse\ncusto é R$ 1,80. Além disso, todas possuem um custo\nfixo de R$ 3,00, referente às demais despesas da fábrica.\nSabe-se ainda que a fábrica deseja lucrar R$ 2,50 em\ncada pizza grande.\n\n2015",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é o preço que a fábrica deve cobrar pela pizza\ngrande, a fim de obter o lucro desejado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 5,70",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 6,20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 7,30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 7,90",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 8,70",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

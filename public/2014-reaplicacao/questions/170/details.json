@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2014 - Reaplicação",
+    "index": 170,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Brasil desenvolveu técnicas próprias de plantio e\ncolheita de cana-de-açúcar, tornando-se o maior produtor\nmundial. Cultivando novas variedades, foram produzidas,\nna safra 2010/2011, 624 milhões de toneladas em\n8,1 milhões de hectares. Houve um substancial ganho\nde produtividade (em toneladas por hectare) quando\nse compara com a de décadas atrás, como a da safra\n1974/1975, que foi de 47 toneladas por hectare.\n\nDisponível em: www2.cead.ufv.br. Acesso em: 27 fev. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com dados apresentados, qual foi o valor mais\naproximado da taxa de crescimento da produtividade de\ncana-de-açúcar, por hectare no Brasil, da safra 1974/1975\npara a safra 2010/2011?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "13%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "64%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "77%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "164%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

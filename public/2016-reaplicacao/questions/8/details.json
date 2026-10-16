@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2016 - Reaplicação",
+    "index": 8,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Estamos, pois, de acordo quando, ao ver algum\nobjeto, dizemos: “Este objeto que estou vendo agora tem\ntendência para assemelhar-se a um outro ser, mas, por\nter defeitos, não consegue ser tal como o ser em questão,\ne lhe é, pelo contrário, inferior”. Assim, para podermos\nfazer estas reflexões, é necessário que antes tenhamos\ntido ocasião de conhecer esse ser de que se aproxima o\ndito objeto, ainda que imperfeitamente.\n\nPLATÃO. Fédon. São Paulo: Abril Cultural, 1972.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na epistemologia platônica, conhecer um determinado\nobjeto implica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estabelecer semelhanças entre o que é observado em momentos distintos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "comparar o objeto observado com uma descrição detalhada dele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "descrever corretamente as características do objeto observado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fazer correspondência entre o objeto observado e seu ser.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "identificar outro exemplar idêntico ao observado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

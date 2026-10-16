@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2016 - Segunda aplicação",
+    "index": 122,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Salvador, 10 de maio de 2012.\n\nConsultoria PC Speed\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/122/f098fce6-9d52-4d2a-aa78-ad73ef363b62.png)\n\nSr. Pedro Alberto\n\nAssunto: Consultoria\n\nPrezado Senhor,\n\nManifestamos nossa apreciação pelo\nexcelente trabalho executado pela equipe\nde consultores desta empresa na revisão de\ntodos os controles internos relativos às áreas\nadministrativas.\nAs contribuições feitas pelos membros\nda equipe serão de grande valia para o\naperfeiçoamento dos processos de trabalho\nque estão sendo utilizados.\nQueira, por gentileza, transmitir-lhes\nnossos cumprimentos.\n\nAtenciosamente,\n\nRivaldo Oliveira Andrade\n\nDiretor Administrativo e Financeiro\n\nDisponível em: www.pcspeed.com.br. Acesso em: 1 maio 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/122/f098fce6-9d52-4d2a-aa78-ad73ef363b62.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A carta manifesta reconhecimento de uma empresa pelos\nserviços prestados pelos consultores da PC Speed.\nNesse contexto, o uso da norma-padrão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constitui uma exigência restrita ao universo financeiro e é substituível por linguagem informal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revela um exagero por parte do remetente e torna o texto rebuscado linguisticamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "expressa o formalismo próprio do gênero e atribui profissionalismo à relação comunicativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "torna o texto de difícil leitura e atrapalha a compreensão das intenções do remetente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sugere elevado nível de escolaridade do diretor e realça seus atributos intelectuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

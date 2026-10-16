@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2020 - Digital",
+    "index": 12,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ponto morto\n\nA minha primeira mulher\nse divorciou do terceiro marido.\nA minha segunda mulher\nacabou casando com a melhor amiga dela.\nA terceira (seria a quarta?)\ndetesta os filhos do meu primeiro casamento.\nEstes, por sua vez, não suportam os filhos\ndo terceiro casamento da minha primeira mulher.\nConfesso que guardo afeto pelas minhas ex-sogras.\nEstava sozinho\nquando um dos meus filhos acenou para mim no\nmeio do engarrafamento.\nA memória demorou para engatar seu nome.\nPor segundos, a vida parou em ponto morto.\n\nMASSI, A. A vida errada. Rio de Janeiro: 7Letras, 2001.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No poema, a singularidade da situação representada é efeito da correlação entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a dissipação das identidades e a circulação de sujeitos anônimos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as relações familiares e a dinâmica da vida no espaço urbano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a constatação da incomunicabilidade e a solidão humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o trânsito caótico e o impedimento à expressão afetiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os lugares de parentesco e o estranhamento social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 175 - ENEM 2014 - Reaplicação",
+    "index": 175,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um clube de futebol abriu inscrições para novos\njogadores. Inscreveram-se 48 candidatos. Para realizar\numa boa seleção, deverão ser escolhidos os que cumpram\n\n![](https://enem.dev/2014-reaplicacao/questions/175/e674cd3a-fd6a-445f-baff-c72c6ce061a9.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/175/573fbadc-bd80-41e5-88c2-34375c7acc9b.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/175/bae60e22-ae27-4b0a-b8b9-71678420fa56.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/175/e674cd3a-fd6a-445f-baff-c72c6ce061a9.png",
+        "https://enem.dev/2014-reaplicacao/questions/175/573fbadc-bd80-41e5-88c2-34375c7acc9b.png",
+        "https://enem.dev/2014-reaplicacao/questions/175/bae60e22-ae27-4b0a-b8b9-71678420fa56.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A quantidade de candidatos selecionados pelo clube de\nfutebol foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "32.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "42.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

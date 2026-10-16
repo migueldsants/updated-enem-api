@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2022 - Digital",
+    "index": 106,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O etanol é um combustível produzido a partir da fermentação da sacarose presente\nno caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau\nde deterioração da sacarose, que se inicia após o corte, por causa da ação de\nmicrorganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar\ne cada uma recebeu um código de identificação. No quadro são apresentados os dados\nde concentração de sacarose e de microrganismos presentes nessas amostras.\n\n![](https://enem.dev/2022-digital/questions/106/e11e65a4-0bd7-434f-9cd7-713b82cfab4e.png)\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose\n10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol\npor fermentação. Considere que existe uma redução de aproximadamente 50% da\nconcentração de sacarose nesse tempo, para cada 1,0 mg L⁻¹ de microrganismos\npresentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/106/e11e65a4-0bd7-434f-9cd7-713b82cfab4e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual tipo de cana-de-açúcar deve ser escolhido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "RB72",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "RB84",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "RB92",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "SP79",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "SP80",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

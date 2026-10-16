@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2022 - Digital",
+    "index": 44,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\n![](https://enem.dev/2022-digital/questions/44/027888d4-0dbd-4194-af40-be88aa1d45ab.png)\n\nSILVEIRA, R. In absentia, 1983. Instalação, 17ª Bienal de São Paulo.\n\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado).\n\nTEXTO II\n\nO termo ready-made foi criado por Marcel Duchamp (1887-1968) para designar um\ntipo de objeto, por ele inventado, que consiste em um ou mais artigos de uso cotidiano,\nproduzidos em massa, selecionados sem critérios estéticos e expostos como obras de\narte em espaços especializados (museus e galerias). Seu primeiro ready-made, de 1912,\né uma roda de bicicleta montada sobre um banquinho (Roda de bicicleta). Ao transformar\nqualquer objeto em obra de arte, o artista realiza uma crítica radical ao sistema da arte.\n\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado).\n\n/",
+    "files": [
+        "https://enem.dev/2022-digital/questions/44/027888d4-0dbd-4194-af40-be88aa1d45ab.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A instalação In absentia propõe um diálogo com o ready-made Roda de bicicleta,\ndemonstrando que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as formas de criticar obras do passado se repetem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a recorrência de temas marca a arte do final do século XX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as criações desmistificam os valores estéticos estabelecidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o distanciamento temporal permite a transformação dos referenciais estéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o objeto ausente sugere a degradação da forma superando o modelo artístico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

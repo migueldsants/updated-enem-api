@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2016 - Reaplicação",
+    "index": 41,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É hoje a nossa festa nacional. O Brasil inteiro, da\ncapital do Império a mais remota e insignificante de suas\naldeolas, congrega-se unânime para comemorar o dia que\no tirou dentre as nações dependentes para colocá-lo entre\nas nações soberanas, e entregou-lhe os seus destinos,\nque até então haviam ficado a cargo de um povo estranho.\n\nGazeta de Notícias, 7 set. 1883.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As festividades em torno da Independência do Brasil\nmarcam o nosso calendário desde os anos imediatamente\nposteriores ao 7 de setembro de 1822. Essa comemoração\nestá diretamente relacionada com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a construção e manutenção de símbolos para a formação de uma identidade nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o domínio da elite brasileira sobre os principais cargos políticos, que se efetivou logo após 1822.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os interesses de senhores de terras que, após a Independência, exigiram a abolição da escravidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o apoio popular às medidas tomadas pelo governo imperial para a expulsão de estrangeiros do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a consciência da população sobre os seus direitos adquiridos posteriormente à transferência da Corte para o Rio de Janeiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

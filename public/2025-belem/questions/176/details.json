@@ -1,0 +1,46 @@
+{
+    "title": "Questão 176 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 176,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um engenheiro precisa fazer uma escada conforme a imagem.\n\n![](https://enem.dev/2025-belem/questions/176/22940868-ba29-4220-8b8f-cb6efa867f6a.png)\n\nDisponível em: http://arquitetura-interiores.blogspot.com.br.\nAcesso em: 21 maio 2012 (adaptado).\n\nUma planta inicial foi elaborada, conforme a figura a seguir,\nusando instrumentos de medição, com as medidas de algumas\ninclinações. As semirretas que representam os pisos superior\ne inferior são paralelas.\n\n![](https://enem.dev/2025-belem/questions/176/4d4ff234-80de-4618-bf48-b957832aba76.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/176/22940868-ba29-4220-8b8f-cb6efa867f6a.png",
+        "https://enem.dev/2025-belem/questions/176/4d4ff234-80de-4618-bf48-b957832aba76.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A medida, em grau, do ângulo x é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "146°30’",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "147°00’",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "147°30’",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "148°00’",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "150°00’",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2016 - Reaplicação",
+    "index": 91,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Dejad a la gente correr\n\nNo habrá maratón en los próximos años en la que los\ncorredores no sientan la mezcla de temor y de respeto\npor las víctimas que se desprende, inevitablemente, del\natentado terrorista perpetrado en Boston el 15 de abril de\n2013. Ello es un acto casi reflejo de inquietud, de pérdida\nde cierta inocencia en un evento convocado para unir a\npersonas de procedencias muy distintas, sin importar más\ncircunstancias, ideologías o credos.\n\nAntes de la Primera Maratón de Cisjordania, los\norganizadores y participantes de esta se reunieron en\nBelén en una vigilia en la que, con velas, homenajearon a\nlas víctimas de la masacre orquestada por los hermanos\nTsarnaev. “Toda la gente tiene el derecho a correr”, se leía\nen sus pancartas.\n\nLa Primera Maratón de Cisjordania, organizada por\nel grupo independiente Derecho al Movimiento, lucía\ncomo lema una breve cita de la Declaración Universal\nde los Derechos Humanos: “Toda persona tiene derecho\na circular libremente”. Los agentes de policía palestinos\nhabían redoblado la seguridad, en una medida más de\npuro acto reflejo que otra cosa.\n\nMuchas son las cargas del pueblo palestino, a nivel\nde gobernanza interna y por imposiciones en Israel, pero\nun ataque terrorista a los corredores no era realmente una\nposibilidad. Finalmente participaron con total normalidad\n650 corredores, de 28 países. El 70% eran palestinos.\nNecesariamente, la maratón discurrió en varios tramos\nfrente al muro erigido por Israel, y atravesó dos campos\nde refugiados.\n\nALANDETE, D. Disponível em: http://blogs.elpais.com. Acesso em: 22 abr. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No texto são abordadas as circunstâncias em\nque aconteceu a primeira maratona realizada na\nCisjordânia (Palestina). Os envolvidos nessa maratona\npropuseram um lema e confeccionaram faixas nas quais\nreivindicavam a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "garantia de segurança em provas de atletismo e no cotidiano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "melhoria das vias de acesso e das instalações esportivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "presença dos palestinos em competições internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "punição dos culpados por atos de terrorismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "liberdade de ir e vir e de praticar esportes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2016 - Segunda aplicação",
+    "index": 33,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ninguém delibera sobre coisas que não podem\nser de outro modo, nem sobre as que lhe é impossível\nfazer. Por conseguinte, como o conhecimento científico\nenvolve demonstração, mas não há demonstração de\ncoisas cujos primeiros princípios são variáveis (pois todas\nelas poderiam ser diferentemente), e como é impossível\ndeliberar sobre coisas que são por necessidade, a\nsabedoria prática não pode ser ciência, nem arte: nem\nciência, porque aquilo que se pode fazer é capaz de\nser diferentemente, nem arte, porque o agir e o produzir\nsão duas espécies diferentes de coisa. Resta, pois,\na alternativa de ser ela uma capacidade verdadeira e\nraciocinada de agir com respeito às coisas que são boas\nou más para o homem.\n\nARISTÓTELES. Ética a Nicômaco. São Paulo: Abril Cultural, 1980.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Aristóteles considera a ética como pertencente ao campo\ndo saber prático. Nesse sentido, ela difere-se dos outros\nsaberes porque é caracterizada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conduta definida pela capacidade racional de escolha.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "capacidade de escolher de acordo com padrões científicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "conhecimento das coisas importantes para a vida do homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "técnica que tem como resultado a produção de boas ações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "política estabelecida de acordo com padrões democráticos de deliberação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

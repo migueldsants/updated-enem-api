@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2014 - Terceira aplicação",
+    "index": 155,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um estudo feito em cidades brasileiras aponta que\napenas 15% dos diabéticos do país fazem bom controle\nda doença. A pesquisa, que foi feita por meio da análise\ndos prontuários e questionários respondidos por pacientes\nentre 2008 e 2010, analisou os dados de 3 580 pessoas\nde 20 cidades nas cinco regiões do Brasil.\n\nDisponível em: http://noticias.uol.com.br. Acesso em: 14 nov. 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Entre todos que participaram da pesquisa, qual é o número\nde pessoas que fazem um bom controle do diabetes?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "53",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "239",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "537",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 074",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

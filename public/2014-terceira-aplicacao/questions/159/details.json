@@ -1,0 +1,46 @@
+{
+    "title": "Questão 159 - ENEM 2014 - Terceira aplicação",
+    "index": 159,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Tanto na natureza, quanto na indústria, existem\ndiversos tipos de fluidos. Fluidos Newtonianos são\naqueles que apresentam crescimento linear da tensão\ncisalhante com relação ao gradiente de velocidade, com\ncoeficiente angular não nulo. Apresentam ainda tensão\ncisalhante nula com gradiente de velocidade zero. A figura\napresenta a relação da tensão cisalhante com o gradiente\nde velocidade para diversos tipos de fluidos.\n\nB\n\nA\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/159/4f67e46a-1b34-4ee6-8478-f7d688b80fc8.png)\n\nC\n\nTENSÃO CISALHANTE (Pa)\n\nD\n\n0 2 4 6 8\n\nGradiente de velocidade (s¹)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/159/4f67e46a-1b34-4ee6-8478-f7d688b80fc8.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/159/53ebceca-786c-49a8-ae17-5f2e14827fdb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dentre as curvas da figura, determine qual is é são de\nfluido s Newtoniano s .",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/159/53ebceca-786c-49a8-ae17-5f2e14827fdb.png",
+            "isCorrect": false
+        }
+    ]
+}

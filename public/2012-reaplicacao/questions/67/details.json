@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2012 - Reaplicação",
+    "index": 67,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 1543, Nicolau Copérnico publicou um livro\nrevolucionário em que propunha a Terra girando em\ntorno do seu próprio eixo e rodando em torno do Sol.\nIsso contraria a concepção aristotélica, que acredita que\na Terra é o centro do universo. Para os aristotélicos, se\na Terra gira do oeste para o leste, coisas como nuvens\ne pássaros, que não estão presas à Terra, pareceriam\nestar sempre se movendo do leste para o oeste,\njustamente como o Sol. Mas foi Galileu Galilei que, em\n1632, baseando-se em experiências, rebateu a crítica\naristotélica, confirmando assim o sistema de Copérnico.\nSeu argumento, adaptado para a nossa época, é: se uma\npessoa, dentro de um vagão de trem em repouso, solta\numa bola, ela cai junto a seus pés. Mas se o vagão estiver\nse movendo com velocidade constante, a bola também\ncai junto a seus pés. Isto porque a bola, enquanto cai,\ncontinua a compartilhar do movimento do vagão.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O princípio físico usado por Galileu para rebater o\nargumento aristotélico foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a lei da inércia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ação e reação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a segunda lei de Newton.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a conservação da energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o princípio da equivalência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

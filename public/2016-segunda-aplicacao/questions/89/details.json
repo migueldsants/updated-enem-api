@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2016 - Segunda aplicação",
+    "index": 89,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A bauxita é o minério utilizado na fabricação do\nalumínio, a qual apresenta Al₂O₃ (alumina) em sua\ncomposição. Após o trituramento e lavagem para reduzir\no teor de impurezas, o minério é misturado a uma solução\naquosa de NaOH (etapa A). A parte sólida dessa mistura\né rejeitada e a solução resultante recebe pequenos cristais\nde alumina, de onde sedimenta um sólido (etapa B).\nEsse sólido é aquecido até a obtenção de um pó\nbranco, isento de água e constituído unicamente por\nalumina. Finalmente, esse pó é aquecido até sua fusão\ne submetido a uma eletrólise, cujos produtos são o\nmetal puro fundido (Al) e o gás carbônico (CO₂).\n\nSILVA FILHO, E. B.; ALVES, M. C. M.; DA MOTTA, M. Lama vermelha da indústria de\nbeneficiamento de alumina: produção, características, disposição e\naplicações alternativas. Revista Matéria, n. 2, 2007.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse processo, as funções das etapas A e B são,\nrespectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oxidar a alumina e outras substâncias e reduzir seletivamente a alumina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "solubilizar a alumina e outras substâncias e induzir a precipitação da alumina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "solidificar as impurezas alcalinas e deslocar o equilíbrio no sentido da alumina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "neutralizar o solo ácido do minério e catalisar a reação de produção da alumina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "romper as ligações químicas da alumina e diminuir o calor de formação do alumínio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2014 - Reaplicação",
+    "index": 58,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na técnica de plantio conhecida por hidroponia, os\nvegetais são cultivados em uma solução de nutrientes no\nlugar do solo, rica em nitrato e ureia.\nNesse caso, ao fornecer esses nutrientes na forma\naproveitável pela planta, a técnica dispensa o trabalho das\nbactérias fixadoras do solo, que, na natureza, participam\ndo ciclo do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "carbono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nitrogênio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fósforo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 82,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Pouco antes do Natal de 2020, a questão emergiu de vez:\n“o armagedom dos chips” (ou chipageddon, como o fenômeno\ntem sido chamado em inglês) já é uma realidade, inclusive\nna indústria automobilística. Os carros novos geralmente\nincluem mais de 100 microprocessadores — e os fabricantes\nsimplesmente não conseguem mais fornecer todos eles.\n\nKELION, L. “Armagedom dos chips” já provoca desde escassez\nde videogames até disputas geopolíticas. Disponível em:\nwww.bbc.com. Acesso em: 20 out. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A crise no setor econômico citado no texto tem relação com o\nmodelo produtivo caracterizado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "crescimento do estoque.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumento da padronização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desenvolvimento da tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminuição da terceirização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fragmentação da produção.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

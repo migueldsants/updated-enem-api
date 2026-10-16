@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2016 - Reaplicação",
+    "index": 136,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa pretende adquirir uma nova impressora\ncom o objetivo de suprir um dos seus departamentos\nque tem uma demanda grande por cópias. Para isso,\nefetuou-se uma pesquisa de mercado que resultou em\ntrês modelos de impressora distintos, que se diferenciam\n\nA B C\n\n![](https://enem.dev/2016-reaplicacao/questions/136/84a9fdc6-bdc2-428a-a5a3-a7b9c4ba7ede.png)\n\nPara facilitar a tomada de decisão, o departamento\ninformou que sua demanda será de, exatamente,\n50 000 cópias.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/136/84a9fdc6-bdc2-428a-a5a3-a7b9c4ba7ede.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Assim, deve-se adquirir a impressora",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A ou B, em vez de C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B, em vez de A ou C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A, em vez de B ou C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C, em vez de A ou B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A ou C, em vez de B.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

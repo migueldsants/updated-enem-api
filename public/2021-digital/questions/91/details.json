@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2021 - Digital",
+    "index": 91,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A deficiência de lipase ácida lisossômica é uma doença hereditária associada a um\ngene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores\ndos genes da doença até o nascimento do primeiro filho afetado. Quando ambos os\nprogenitores são portadores, existe uma chance, em quatro, de que seu bebê possa\nnascer com essa doença.\n\nANDERSON, R. A. et. al. In: Situ Localization of the Genetic Locus Encoding the Lysosomal\nAcid Lipase/Cholesteryl Esterase (LIPA) Deficient in Wolman Disease to\nChromosome 10q23.2-q23.3. Genomics, n. 1, jan. 1993 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa é uma doença hereditária de caráter",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "recessivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "dominante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "codominante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "poligênico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "polialélico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

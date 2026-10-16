@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 78,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Memória e história não são sinônimos. A memória é a\nvida, protagonizada pelas pessoas, em grupo, e está em\nevolução permanente. Aberta para a dialética da lembrança\ne do esquecimento, a memória não tem consciência de sua\nsucessiva deformação e, vulnerável a todas as utilizações e\nmanipulações, é suscetível a longas latências e repentinas\nrevitalizações. A história é a reconstrução sempre problemática\ne incompleta do que já passou. A memória é um fenômeno\nsempre atual, uma ligação vivida no eterno presente, ao passo\nque a história é uma representação do passado.\n\nLISBOA, K. M. Comemorações, história, memória e identidade.\nIn: RODRIGUES, J. (Org.). A Universidade Federal de São Paulo\naos 75 anos: ensaios sobre história e memória.\nSão Paulo: Unifesp, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, a escrita da história exige a prática de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ratificar os registros documentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "detalhar as verdades antigas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reforçar o vestígio recordado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "afirmar o acontecimento descrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recompor o tempo experimentado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

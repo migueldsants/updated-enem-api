@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2015 - Reaplicação",
+    "index": 91,
+    "year": 2015,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Horse or cow\nPrior to taking retirement and selling off his land, a\nfarmer needed to get rid of all the animals he owned, so\nhe decided to call on every house in his village. At houses\nwhere the man was the boss, he gave a horse; at houses\nwhere the woman was the boss, he gave a dairy cow.\n\nApproaching one cottage, he saw a couple gardening\nand called out, ‘Who’s the boss around here?’\n\n‘I am,’ said the man.\nThe farmer said: ‘I have a black horse and a brown\nhorse. Which one would you like?’\n\nThe man thought for a minute and said, ‘The black one.’\n‘No, no, get the brown one,’ said his wife.\nThe farmer said, ‘Here’s your cow.’\n\nTIBBALLS, G. The book of senior jokes. Great Britain: Michael O’Mara, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto relata o caso de um fazendeiro prestes a se\naposentar e vender sua fazenda. O aspecto cômico desse\ntexto provém da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constatação pelo fazendeiro da razão de sua aposentadoria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "opinião dos vizinhos referente à forma de se livrar dos animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "percepção do fazendeiro quanto à relação de poder entre o casal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "agressividade da esposa relacionada a um questionamento inocente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "indecisão dos cônjuges quanto à melhor escolha a ser feita no momento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

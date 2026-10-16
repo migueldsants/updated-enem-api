@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2014 - Terceira aplicação",
+    "index": 91,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "The war song\nWar war is stupid\nAnd people are stupid\nAnd love means nothing\nIn some strange quarters\nWar war is stupid\nAnd people are stupid\nAnd I heard them banging\nOn hearts and fingers\nPeople fill the world\nWith narrow confidence\nLike a child at birth\nA man with no defense\nWhat’s mine is my own\nI won’t give it to you\nNo matter what you say\nNo matter what you do\nNow we’re fighting\nIn our hearts\nFighting in the street\nWon’t somebody help me?\n\nDisponível em: http://letras.mus.br. Acesso em: 29 jun. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A música é uma forma de expressão artística e cultural e\npode revelar diferentes formas de compreender o mundo.\nNa letra da canção do grupo Culture Club, entende-se\nque a guerra é o resultado da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "brutalidade humana, porque os homens lutam pelo poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "falta de diálogo, porque um lado nunca escuta o outro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "superpopulação mundial, porque esta gera fome e pobreza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "insensatez humana, porque as pessoas são individualistas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ganância, porque as pessoas invejam o que é dos outros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2014 - Terceira aplicação",
+    "index": 167,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O número de pessoas que morrem nas ruas e\nestradas brasileiras nunca foi tão alto. As últimas\nmudanças na legislação mostraram-se incapazes de\nfrear o aumento dos acidentes. O número de mortes em\n2004 foi de 35 100 pessoas e 38 300, em 2008. Admita\nque o número de mortes, no período de 2004 a 2008,\ntenha apresentado um crescimento anual constante.\n\nVeja, 2 nov. 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A expressão algébrica que fornece o número de mortes N,\nno ano x com 2004 ≤ x ≤ 2008), é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "N 800x + 35 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "N 800 x − 2004 + 35 100",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "N 800 x − 2004",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "N 3 200 x − 2004 + 35 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "N 3 200x + 35 100",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2014 - Terceira aplicação",
+    "index": 65,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma criança está em um carrossel em um parque\nde diversões. Este brinquedo descreve um movimento\ncircular com intervalo de tempo regular.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A força resultante que atua sobre a criança",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é nula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "é oblíqua à velocidade do carrossel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "é paralela à velocidade do carrossel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "está direcionada para fora do brinquedo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "está direcionada para o centro do brinquedo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

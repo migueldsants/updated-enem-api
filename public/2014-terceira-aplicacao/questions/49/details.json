@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2014 - Terceira aplicação",
+    "index": 49,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O fenômeno da levitação de corpos ocorre, na Terra,\nquando a força gravitacional é equilibrada, fazendo com\nque um objeto paire no ar. O som pode fazer objetos\nlevitarem, fenômeno chamado de levitação acústica.\nUm levitador acústico deve conter um transdutor, que é\numa superfície vibratória que emite o som, e um refletor.\nAmbos têm superfícies côncavas para focalizar o som,\nconforme a ilustração:\n\nRefletor\n\ngravidade\n\nObjeto em levitação\n\nTransdutor\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 28 fev.2012 adaptado .",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para que haja a levitação indicada na figura, a força que\nequilibra o peso do objeto deve ser decorrente da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ação mecânica direta do transdutor sobre o objeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ressonância que ocorre entre a onda sonora e o objeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pressão que o som emitido pelo transdutor aplica no objeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "interferência destrutiva do som que anula o movimento do objeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diferença de pressão dos sons emitido e refletido aplicada no objeto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

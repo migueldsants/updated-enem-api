@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2016 - Reaplicação",
+    "index": 94,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "De tal palo, tal astilla\n\nCuando Michael Acuña ingresó en la Academy of\nCuisine, en el estado de Maryland, ya hacía muchos\nsoles que era un excelente cocinero. Es que sus padres,\nManuel y Albita, fueron propietarios de El Mesón Tico, en\nMadrid, y, desde niño, Michael no salía de la cocina.\n\nYa graduado, trabajó en Washington, en Filomena’s\nFour Seasons, entre otros prestigiosos lugares. Cuando\nsu familia regresó a su país, Costa Rica, y abrió Las Tapas\nde Manuel, al este de San José – la capital –, pronto se\nles reunió.\n\nEl éxito no se hizo esperar: inmediata ampliación,\nprimero, y luego un segundo restaurante, esta vez al\noeste de la ciudad, con tablado flamenco y un alegre bar.\n\nMás de veinticinco tapas, clientes fieles que llegan\nuna y otra vez, y una calidad constante, testimonian la\nrazón de su éxito.\n\nROSS, M. American Airlines Nexos, n. 1, mar. 2003.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O título do texto traz uma expressão idiomática. Essa\nexpressão, vinculada às informações do texto, reforça\nque o sucesso alcançado por Michael Acuña deve-se ao\nfato de ele ter",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estudado em uma instituição renomada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "trabalhado em restaurantes internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aberto seu primeiro empreendimento individual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "voltado às raízes gastronômicas de seu país de origem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convivido desde a infância no universo culinário da família.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

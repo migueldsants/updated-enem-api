@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2016 - Reaplicação",
+    "index": 40,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Todas as coisas são diferenciações de uma mesma\ncoisa e são a mesma coisa. E isto é evidente. Porque\nse as coisas que são agora neste mundo ― terra, água,\nar e fogo e as outras coisas que se manifestam neste\nmundo ―, se alguma destas coisas fosse diferente de\nqualquer outra, diferente em sua natureza própria e\nse não permanecesse a mesma coisa em suas muitas\nmudanças e diferenciações, então não poderiam as\ncoisas, de nenhuma maneira, misturar-se umas às\noutras, nem fazer bem ou mal umas às outras, nem\na planta poderia brotar da terra, nem um animal ou\nqualquer outra coisa vir à existência, se todas as coisas\nnão fossem compostas de modo a serem as mesmas.\nTodas as coisas nascem, através de diferenciações, de\numa mesma coisa, ora em uma forma, ora em outra,\nretomando sempre a mesma coisa.\n\nDIÓGENES. In: BORNHEIM, G. A. Os filósofos pré-socráticos. São Paulo: Cultrix, 1967.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto descreve argumentos dos primeiros pensadores,\ndenominados pré-socráticos. Para eles, a principal\npreocupação filosófica era de ordem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cosmológica, propondo uma explicação racional do mundo fundamentada nos elementos da natureza.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "política, discutindo as formas de organização da pólis ao estabelecer as regras da democracia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ética, desenvolvendo uma filosofia dos valores virtuosos que tem a felicidade como o bem maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estética, procurando investigar a aparência dos entes sensíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hermenêutica, construindo uma explicação unívoca da realidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

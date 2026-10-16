@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2015 - Reaplicação",
+    "index": 28,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/28/93f11a82-acb6-4c15-b3f6-0bfdbce5a606.png)\n\nDUARTE, P. A. Fundamentos de cartografia. Florianópolis: UFSC, 2002.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/28/93f11a82-acb6-4c15-b3f6-0bfdbce5a606.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As diferentes representações cartográficas trazem\nconsigo as ideologias de uma época. A representação\ndestacada se insere no contexto das Cruzadas por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "revelar aspectos da estrutura demográfica de um povo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sinalizar a disseminação global de mitos e preceitos políticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilizar técnicas para demonstrar a centralidade de algumas regiões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mostrar o território para melhor administração dos recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "refletir a dinâmica sociocultural associada à visão de mundo eurocêntrica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2014 - Terceira aplicação",
+    "index": 100,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O seu cérebro é capaz de quase qualquer coisa.\nEle consegue parar o tempo, ficar vários dias numa boa\nsem dormir, ler pensamentos, mover objetos a distância\ne se reconstruir de acordo com a necessidade. Parecem\nsuperpoderes de histórias em quadrinhos, mas são\napenas algumas das descobertas que os neurocientistas\nfizeram ao longo da última década. Algumas dessas\nfaçanhas sempre fizeram parte do seu cérebro e só\nagora conseguimos perceber. Outras são fruto da ciência:\nao decifrar alguns mecanismos da nossa mente, os\npesquisadores estão encontrando maneiras de realizar\ncoisas que antes pareciam impossíveis. O resultado é\numa revolução como nenhuma outra, capaz de mudar\nnão só a maneira como entendemos o cérebro, mas\ntambém a imagem que fazemos do mundo, da realidade\ne de quem somos nós. Siga adiante e entenda o que\nestá acontecendo (e aproveite que, segundo uma das\nmais recentes descobertas, nenhum exercício para o seu\ncérebro é tão bom quanto a leitura).\n\nKENSKI, R. A revolução do cérebro. Superinteressante, ago. 2006.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/100/eaea3752-86df-490a-8946-f06c9763c271.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/100/eaea3752-86df-490a-8946-f06c9763c271.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa introdução de uma matéria de popularização da\nciência, são usados recursos linguísticos que estabelecem\ninteração com o leitor, buscando envolvê-lo. Desses\nrecursos, aquele que caracteriza a persuasão pretendida\nde forma mais incisiva se dá pelo emprego",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do pronome possessivo como em \"O seu cérebro é capaz de quase qualquer coisa\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "de verbos na primeira pessoa do plural como \"entendemos\" e \"somos\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de pronomes em primeira pessoa do plural como \"nossa\" e \"nós\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "de verbos no modo imperativo como \"siga\" e \"aproveite\".",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "de estruturas linguísticas avaliativas como \"tão bom quanto a leitura\".",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

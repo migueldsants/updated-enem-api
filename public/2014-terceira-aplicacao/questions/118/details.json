@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2014 - Terceira aplicação",
+    "index": 118,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os mesmos objetivos que a teatróloga Spolin propõe\npara o espetáculo são válidos em cada momento durante\no processo de aprendizagem, onde o teatro, enquanto\nmanifestação viva e espontânea, deve estar presente\nem todos os momentos. Da mesma forma como a plateia\nde espectadores é normalmente pouco estimulada por\nemoções que pertencem ao passado, o jogador no palco\nnão explora a si mesmo (suas emoções) através de um\nprocesso de identificação subjetivo, mas atua em função\ndo momento presente.\n\nKOUDELA, I. D. Jogos teatrais. São Paulo: Perspectiva, 2006.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O jogo teatral permite a liberdade de ação e o\nestabelecimento de contato com o ambiente e a ação\nespontânea se desenvolve de forma a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ocultar a atuação do ator, dispensando a renovação das emoções, que são desestimulantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estimular a lembrança de momentos passados para salientar a importância das novas emoções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "entender os processos que se desenvolvem no palco com a exploração dos seus próprios sentimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "experienciar emoções novas, que surgem no presente, sem a exploração das velhas emoções do ator.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "vivenciar alguns momentos, que Spolin acredita serem pertencentes ao processo subjetivo do ator.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

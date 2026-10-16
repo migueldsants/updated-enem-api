@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2016 - Reaplicação",
+    "index": 127,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Se o dançarino já preparou toda a sensação antes,\nele não está no vazio... já está acabado. Nesse momento\n(vazio) é o seu corpo que está dizendo algo, não é você.\nQuando o ator está nesse momento de desistir, é nesse\nmomento que ele deve continuar; é nesse momento que\nchega algo para quem está assistindo. Não importa tanto\na coreografia e todo esse trabalho. O mais importante é\nisso, o vazio, e como você continua com isso...\n\nCOLLA, A. C. Caminhante, não há caminhos, só rastros. São Paulo: Perspectiva, 2013.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto considera que um corpo vazio (de som,\nsentimento e pensamento) pode fazer qualquer coisa.\nNessa concepção, a atuação do dançarino alcança o\nápice de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inércia em cena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "transcendência de si.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "significação do preparo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ausência de comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "consciência do movimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

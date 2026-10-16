@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2015 - Reaplicação",
+    "index": 160,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Atendendo à encomenda de um mecânico, um\nsoldador terá de juntar duas barras de metais diferentes.\nA solda utilizada tem espessura de 18 milímetros,\nconforme ilustrado na figura.\n\n![](https://enem.dev/2015-reaplicacao/questions/160/3fa998d9-6137-4dfc-a34d-094c82c95de5.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/160/3fa998d9-6137-4dfc-a34d-094c82c95de5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual o comprimento, em metros, da peça resultante após\na soldagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,0230",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,2300",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,5018",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,5180",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2,6800",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

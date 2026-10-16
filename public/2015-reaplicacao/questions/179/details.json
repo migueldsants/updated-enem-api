@@ -1,0 +1,48 @@
+{
+    "title": "Questão 179 - ENEM 2015 - Reaplicação",
+    "index": 179,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um técnico precisa consertar o termostato do aparelho\nde ar-condicionado de um escritório, que está desregulado.\nA temperatura T, em graus Celsius, no escritório, varia de\n\n![](https://enem.dev/2015-reaplicacao/questions/179/040f0976-466b-472c-807e-90019c1aa1a6.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/179/a07e0a2f-6682-4f2b-a1ab-86e020d48c86.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/179/4d18ba5a-3ab9-43bd-a073-dc5253718fc0.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/179/729fc13f-bace-40d9-b096-afd3461af6f0.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/179/040f0976-466b-472c-807e-90019c1aa1a6.png",
+        "https://enem.dev/2015-reaplicacao/questions/179/a07e0a2f-6682-4f2b-a1ab-86e020d48c86.png",
+        "https://enem.dev/2015-reaplicacao/questions/179/4d18ba5a-3ab9-43bd-a073-dc5253718fc0.png",
+        "https://enem.dev/2015-reaplicacao/questions/179/729fc13f-bace-40d9-b096-afd3461af6f0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A = 18 e B = 8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A = 22 e B = -4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A = 22 e B = 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A = 26 e B = -8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A = 26 e B = 8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

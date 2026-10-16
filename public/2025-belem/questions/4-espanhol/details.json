@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 4,
+    "year": 2025,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "América morena\nSoy Guaraní en Paraguay\ny Aymara en mi Bolivia,\nSoy Guajiro en Venezuela\ny en Uruguay soy Charrúa.\n\nSoy el Kuna Colombiano\nSou Xingu no meu Brasil\ny el Cholo Ecuatoriano.\nEn Chile soy Mapuche\nSol del Inca en el Perú,\n\ny Pampas en Argentina.\nSoy el color del monte\nRemanzo del Amazonas\nSoy el trino del hornero\n\ndel colibrí el resplandor\ny del cóndor soy el vuelo.\n\nHACHEN, M. Disponível em: http://colegioadonaycurico.webescuela.cl.\nAcesso em: 5 fev. 2025.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao assumir várias identidades, o eu lírico ressalta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os tons da natureza andina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as línguas latino-americanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a geografia da América Latina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a fauna do continente americano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os povos originários da América do Sul.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

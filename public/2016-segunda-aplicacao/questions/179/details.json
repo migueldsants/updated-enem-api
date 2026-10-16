@@ -1,0 +1,46 @@
+{
+    "title": "Questão 179 - ENEM 2016 - Segunda aplicação",
+    "index": 179,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para que o pouso de um avião seja autorizado em um\naeroporto, a aeronave deve satisfazer, necessariamente,\nas seguintes condições de segurança:\n\nI. a envergadura da aeronave (maior distância\nentre as pontas das asas do avião) deve ser, no\nmáximo, igual à medida da largura da pista;\nII. o comprimento da aeronave deve ser inferior a 60 m;\nIII. a carga máxima (soma das massas da aeronave\ne sua carga) não pode exceder 110 t.\nSuponha que a maior pista desse aeroporto tenha\n0,045 km de largura, e que os modelos de aviões utilizados\npelas empresas aéreas, que utilizam esse aeroporto,\n\nA 44,57 m × 34,10 m 110 000 kg\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/179/e1944805-edf6-4f91-87d9-04b97e71d692.png)\n\nB 44,00 m × 34,00 m 95 000 kg\n\nC 44,50 m × 39,50 m 121 000 kg\n\nD 61,50 m × 34,33 m 79 010 kg\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/179/bd75df4b-08ab-4901-895f-9f5db457a071.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/179/e1944805-edf6-4f91-87d9-04b97e71d692.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/179/bd75df4b-08ab-4901-895f-9f5db457a071.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os únicos aviões aptos a pousar nesse aeroporto, de\nacordo com as regras de segurança, são os de modelos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A e B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "B e D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "B e E.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C e E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

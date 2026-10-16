@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2014 - Terceira aplicação",
+    "index": 165,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um conjunto residencial será construído em um\nterreno que está representado no mapa a seguir na escala\n1 : 1 000. O terreno está divido em lotes quadrados iguais\nao indicado na figura. No local, será construído um centro\ncomunitário, quiosques e praças de lazer e alimentação,\nde tal forma que a soma total dessas áreas não ultrapasse\n\nda área total do terreno.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/165/db48cde7-a423-4762-893c-a8c7476adb13.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/165/db48cde7-a423-4762-893c-a8c7476adb13.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A área total, a ser disponibilizada para a construção do\ncentro comunitário, dos quiosques e das praças de lazer\ne alimentação, não poderá ultrapassar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "40 000 m².",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4 000 m².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "400 m².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40 m².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 m².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

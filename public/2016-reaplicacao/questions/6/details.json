@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2016 - Reaplicação",
+    "index": 6,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Tendo se livrado do entulho do maquinário volumoso\ne das enormes equipes de fábrica, o capital viaja leve,\napenas com a bagagem de mão, pasta, computador\nportátil e telefone celular. O novo atributo da volatilidade\nfez de todo compromisso, especialmente do compromisso\nestável, algo ao mesmo tempo redundante e pouco\ninteligente: seu estabelecimento paralisaria o movimento\ne fugiria da desejada competitividade, reduzindo a priori as\nopções que poderiam levar ao aumento da produtividade.\n\nBAUMAN, Z. Modernidade líquida. Rio de Janeiro: Zahar, 2001.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, faz-se referência a um processo de transformação\ndo mundo produtivo cuja consequência é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "regulamentação de leis trabalhistas mais rígidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fragilização das relações hierárquicas de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "decréscimo do número de funcionários das empresas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "incentivo ao investimento de longos planos de carreiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desvalorização dos postos de gerenciamento corporativo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

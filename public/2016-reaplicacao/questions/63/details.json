@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2016 - Reaplicação",
+    "index": 63,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Caatinga é um ecossistema que se encontra nos\nlados equatoriais dos desertos quentes, com índices\npluviométricos muito baixos. Chove pouco no inverno\ne as chuvas, quando ocorrem, acontecem no verão.\nApresenta plantas semelhantes às das regiões de\ndeserto quente, do tipo xerófitas, como as cactáceas,\ncom adaptações às condições de escassez de água.\n\nSADAVA, D. et al.Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma característica que permite a sobrevivência dessas\nplantas, na condição da escassez citada, é a presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "caule subterrâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sistema radicular fasciculado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "folhas modificadas em espinhos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "parênquima amilífero desenvolvido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "limbo foliar desprovido de estômatos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

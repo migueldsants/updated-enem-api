@@ -1,0 +1,53 @@
+{
+    "title": "Questão 102 - ENEM 2022 - Digital",
+    "index": 102,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de\ncafé fresco ou de um pão doce de canela. Associações similares ocorriam no passado da\nhistória da química orgânica, quando os compostos ditos “aromáticos” apresentavam um\nodor agradável e foram isolados de óleos naturais. À medida que as estruturas desses\ncompostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade\nestrutural específica. Os compostos aromáticos que continham essa unidade estrutural\ntornaram-se parte de uma grande família, muito mais com base em suas estruturas\neletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos\nvegetais.\n\n![](https://enem.dev/2022-digital/questions/102/a337c7ff-28d9-4481-9581-de2a6f03edfc.png)\n\n![](https://enem.dev/2022-digital/questions/102/d97876cf-5341-41c3-96cc-133f96dcb226.png)\n\n![](https://enem.dev/2022-digital/questions/102/9b809ddc-c71c-494f-8798-b11d7b475a9d.png)\n\n![](https://enem.dev/2022-digital/questions/102/75d6697a-b932-4c92-aeef-0b6613855921.png)\n\nCH H C\n\n3 3\n\n![](https://enem.dev/2022-digital/questions/102/b286f98e-6175-4e32-9bda-a7ff6307da44.png)\n\nBenzaldeído Salicilato de metila Anetol\n(no óleo de amêndoas) (no óleo de gaultéria) (no óleo de anis)\n\nCH\n\n![](https://enem.dev/2022-digital/questions/102/42dadb67-bd2f-464b-bf25-910235a11598.png)\n\n![](https://enem.dev/2022-digital/questions/102/e66a5bde-4271-4d9c-b53c-e137fee02b70.png)\n\n![](https://enem.dev/2022-digital/questions/102/88586228-77fa-49e7-a699-c42a7edbcccb.png)\n\n![](https://enem.dev/2022-digital/questions/102/f1da6db2-96fd-4fab-bc2a-fa006e85116e.png)\n\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica.\nRio de Janeiro: LTC, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/102/a337c7ff-28d9-4481-9581-de2a6f03edfc.png",
+        "https://enem.dev/2022-digital/questions/102/d97876cf-5341-41c3-96cc-133f96dcb226.png",
+        "https://enem.dev/2022-digital/questions/102/9b809ddc-c71c-494f-8798-b11d7b475a9d.png",
+        "https://enem.dev/2022-digital/questions/102/75d6697a-b932-4c92-aeef-0b6613855921.png",
+        "https://enem.dev/2022-digital/questions/102/b286f98e-6175-4e32-9bda-a7ff6307da44.png",
+        "https://enem.dev/2022-digital/questions/102/42dadb67-bd2f-464b-bf25-910235a11598.png",
+        "https://enem.dev/2022-digital/questions/102/e66a5bde-4271-4d9c-b53c-e137fee02b70.png",
+        "https://enem.dev/2022-digital/questions/102/88586228-77fa-49e7-a699-c42a7edbcccb.png",
+        "https://enem.dev/2022-digital/questions/102/f1da6db2-96fd-4fab-bc2a-fa006e85116e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A característica estrutural dessa família de compostos é a presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ramificações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "insaturações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "anel benzênico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "átomos de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "carbonos assimétricos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

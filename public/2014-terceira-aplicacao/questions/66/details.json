@@ -1,0 +1,46 @@
+{
+    "title": "Questão 66 - ENEM 2014 - Terceira aplicação",
+    "index": 66,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Você já ouviu essa frase: rolou uma química entre\nnós! O amor é frequentemente associado a um fenômeno\nmágico ou espiritual, porém existe a atuação de alguns\ncompostos em nosso corpo, que provocam sensações\nquando estamos perto da pessoa amada, como coração\nacelerado e aumento da frequência respiratória. Essas\nsensações são transmitidas por neurotransmissores, tais\ncomo adrenalina, noradrenalina, feniletilamina, dopamina\ne as serotoninas.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/66/5571241d-4ad3-411c-8bee-9a2919d28c70.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/66/5571241d-4ad3-411c-8bee-9a2919d28c70.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/66/707a1111-5c54-4cd7-abfc-732e9f60297c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os neurotransmissores citados possuem em comum o\ngrupo funcional característico da função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "éter.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "amina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "cetona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/66/707a1111-5c54-4cd7-abfc-732e9f60297c.png",
+            "isCorrect": false
+        }
+    ]
+}

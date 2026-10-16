@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 118,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para melhorar seu condicionamento físico, um atleta amarra\nem sua cintura uma fita elástica presa a um pneu. Isso faz com\nque ele precise realizar um esforço muito maior para conseguir\nse deslocar. Durante o treinamento, o atleta pode estar nas\nseguintes situações:\n\n1. em repouso;\n2. movendo-se com velocidade constante;\n3. acelerado.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com relação às forças que atuam no atleta na situação 3,\na força de atrito é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "igual à força elástica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a reação à força normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "igual à força peso do pneu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a reação à força elástica realizada pela fita sobre o atleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a reação à força para trás realizada pelos pés do atleta sobre o solo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

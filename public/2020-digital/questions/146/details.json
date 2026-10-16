@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2020 - Digital",
+    "index": 146,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere o guindaste mostrado nas figuras, em duas posições (1 e 2). Na posição 1, o\nbraço de movimentação forma um ângulo reto com o cabo de aço CB que sustenta uma esfera\nmetálica na sua extremidade inferior.\n\nNa posição 2, o guindaste elevou seu braço de movimentação e o novo ângulo formado\nentre o braço e o cabo de aço ED, que sustenta a bola metálica, é agora igual a 60°.\n\n![](https://enem.dev/2020-digital/questions/146/b9c4b9bf-2666-46a1-a458-3088e706c92f.png)\n\nAssuma que os pontos A, B e C, na posição 1, formam o triângulo T1 e que os pontos A, D\ne E, na posição 2, formam o triângulo T2, os quais podem ser classificados em obtusângulo,\nretângulo ou acutângulo, e também em equilátero, isósceles ou escaleno.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/146/b9c4b9bf-2666-46a1-a458-3088e706c92f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo as classificações citadas, os triângulos T1 e T2 são identificados, respectivamente,\ncomo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "retângulo escaleno e retângulo isósceles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acutângulo escaleno e retângulo isósceles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "retângulo escaleno e acutângulo escaleno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acutângulo escaleno e acutângulo equilátero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retângulo escaleno e acutângulo equilátero.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2022 - Digital",
+    "index": 41,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O bebê de tarlatana rosa\n\n— [...] Na terça desliguei-me do grupo e caí no mar alto da depravação, só, com uma\nroupa leve por cima da pele e todos os maus instintos fustigados. De resto a cidade\ninteira estava assim. É o momento em que por trás das máscaras as meninas confessam\npaixões aos rapazes, é o instante em que as ligações mais secretas transparecem, em\nque a virgindade é dúbia, e todos nós a achamos inútil, a honra uma caceteação, o bom\nsenso uma fadiga. Nesse momento tudo é possível, os maiores absurdos, os maiores\ncrimes; nesse momento há um riso que galvaniza os sentidos e o beijo se desata\nnaturalmente.\n\nEu estava trepidante, com uma ânsia de acanalhar-me, quase mórbida. Nada de\nraparigas do galarim perfumadas e por demais conhecidas, nada do contato familiar, mas\no deboche anônimo, o deboche ritual de chegar, pegar, acabar, continuar. Era ignóbil.\nFelizmente muita gente sofre do mesmo mal no carnaval.\n\nRIO, J. Dentro da noite. São Paulo: Antiqua, 2002.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto, o personagem vincula ao carnaval atitudes e reações coletivas diante das quais\nexpressa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "consagração da alegria do povo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atração e asco perante atitudes libertinas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "espanto com a quantidade de foliões nas ruas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "intenção de confraternizar com desconhecidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reconhecimento da festa como manifestação cultural.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

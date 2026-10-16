@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2014 - Terceira aplicação",
+    "index": 30,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No dia 16 de agosto passado fugiu da Companhia de Mineração do Cuiabá o escravo de nome Severino,\nde 19 anos de idade, cabra, claro, estatura mais que regular, boa figura, bons dentes, e tem um sinal de cortadura de\numa polegada pouco mais ou menos na testa. Levou chapéu de palha trançado, 1 par de calças azuis, paletó preto,\ncamisa branca, e outras roupas. Está armado de uma pistola pequena de algibeira e uma faca de ponta. Gratifica-se\ncom a quantia acima de 100$000 a quem o apreender e levá-lo a seu senhor, residente em Sabará, ou o puser em\nqualquer cadeia da província.\n\nSabará, 2 de outubro de 1880.\n\nJornal A Província de Minas, Ouro Preto, edição 26, 18 dez.1880.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O anúncio de jornal sobre a fuga do escravo Severino mostra um aspecto importante do escravismo brasileiro. Qual\ndas seguintes afirmações expressa tal aspecto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As alforrias no sistema escravista brasileiro eram obtidas tanto pelo livre consentimento do senhor quanto pela compra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As fugas de escravos eram duramente reprimidas pelo Estado e pelos senhores de escravos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O movimento abolicionista teve papel fundamental para o fim da escravidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O paternalismo da escravidão brasileira gerava a preocupação do senhor em conseguir encontrar o seu escravo em fuga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os quilombos eram organizações revolucionárias voltadas para o combate ao sistema escravista brasileiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

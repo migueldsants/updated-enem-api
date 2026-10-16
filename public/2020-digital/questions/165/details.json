@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2020 - Digital",
+    "index": 165,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três pessoas, X, Y e Z, compraram plantas ornamentais de uma mesma espécie que\nserão cultivadas em vasos de diferentes tamanhos.\n\nO vaso escolhido pela pessoa X tem capacidade de 4 dm . O vaso da pessoa Y tem\ncapacidade de 7 000 cm e o de Z tem capacidade igual a 20 L.\n\nApós um tempo do plantio das mudas, um botânico que acompanha o desenvolvimento\ndelas realizou algumas medições e registrou que a planta que está no vaso da pessoa X tem\n0,6 m de altura. Já as plantas que estão nos vasos de Y e Z têm, respectivamente, alturas\nmedindo 120 cm e 900 mm.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O vaso de maior capacidade e a planta de maior altura são, respectivamente, os de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Y e X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y e Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Z e X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Z e Y.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Z e Z.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

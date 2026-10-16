@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2022 - Digital",
+    "index": 91,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho\nesportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo, pela\nutilização da eritropoietina, é proibido pelas principais federações de esportes no mundo.\nA eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é\nregular o processo de eritropoiese. Seu uso administrado intravenosamente em\nquantidades superiores àquelas presentes naturalmente no organismo permite que o\nindivíduo aumente a sua capacidade de realização de exercícios físicos.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse tipo de doping está diretamente relacionado ao aumento da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "frequência cardíaca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "capacidade pulmonar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "massa muscular do indivíduo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "atividade anaeróbica da musculatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "taxa de transporte de oxigênio pelo sangue.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

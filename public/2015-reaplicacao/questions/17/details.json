@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2015 - Reaplicação",
+    "index": 17,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Sabe-se o que era a mata do Nordeste, antes da\nmonocultura da cana: um arvoredo tanto e tamanho e tão\nbasto e de tantas prumagens que não podia homem dar\nconta. O canavial desvirginou todo esse mato grosso do\nmodo mais cru: pela queimada. A fogo é que foram se\nabrindo no mato virgem os claros por onde se estendeu\no canavial civilizador, mas ao mesmo tempo devastador.\n\nFREYRE, G. Nordeste. São Paulo: Global, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Analisando os desdobramentos da atividade canavieira\nsobre o meio físico, o autor salienta um paradoxo,\ncaracterizado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "demanda de trabalho, que favorecia a escravidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "modelo civilizatório, que acarretou danos ambientais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "rudimento das técnicas produtivas, que eram ineficientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "natureza da atividade econômica, que concentrou riqueza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "predomínio da monocultura, que era voltada para exportação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

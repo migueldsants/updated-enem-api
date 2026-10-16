@@ -1,0 +1,49 @@
+{
+    "title": "Questão 139 - ENEM 2021 - Digital",
+    "index": 139,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos\ndiferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição\n6 tecidos diferentes e 15 pedras ornamentais distintas.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/139/01cefa9a-03b2-4ba6-977a-1c5001845901.png",
+        "https://enem.dev/2021-digital/questions/139/5a53c1a9-6276-44fb-8e0e-f2ee6b025cd7.png",
+        "https://enem.dev/2021-digital/questions/139/1dad2a87-d30b-4903-ab6e-15199005eb7a.png",
+        "https://enem.dev/2021-digital/questions/139/8c33abf4-680b-4365-addc-8682c18050a0.png",
+        "https://enem.dev/2021-digital/questions/139/ea373370-a91c-4b35-916c-472efdef73c1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A quantidade de fantasias com materiais\nrepresentada pela expressão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/139/01cefa9a-03b2-4ba6-977a-1c5001845901.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/139/5a53c1a9-6276-44fb-8e0e-f2ee6b025cd7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/139/1dad2a87-d30b-4903-ab6e-15199005eb7a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/139/8c33abf4-680b-4365-addc-8682c18050a0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/139/ea373370-a91c-4b35-916c-472efdef73c1.png",
+            "isCorrect": false
+        }
+    ]
+}

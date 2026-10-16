@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2022 - Digital",
+    "index": 67,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Após sete anos da ocupação de um terreno abandonado em Santo André, no\nABC paulista, os condomínios Novo Pinheirinho e Santos Dias foram inaugurados, com a\npresença de representantes dos governos federal, estadual e municipal. A ocupação\ncomeçou em 2012 e, desde então, o movimento vinha reivindicando o direito de usufruir\ndo espaço para a construção de casas. A Carta Magna, em seu art. 6º, garante a todos os\nbrasileiros o direito à moradia.\n\nPUTTI, A. Disponível em: www.cartacapital.com.br. Acesso em: 13 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto apresenta uma estratégia usada pelo movimento social para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fragilizar o poder público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fomentar a economia solidária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controlar a propriedade estatal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "garantir o preceito constitucional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "incentivar a especulação imobiliária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

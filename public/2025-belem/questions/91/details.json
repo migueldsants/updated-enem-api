@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 91,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A identificação e/ou quantificação de moléculas em amostras é de extrema relevância durante um trabalho de perícia criminal.\nUma maneira simples e muito útil de se fazer essa análise é reconhecer a região do espectro eletromagnético em que essas\nmoléculas absorvem radiação. A região da luz visível vai de 400 nm a 700 nm, sendo o infravermelho a região acima de 700 nm.\nUma maior concentração das substâncias está relacionada com uma maior quantidade de radiação absorvida. Dependendo da\nnatureza da molécula e do meio onde ela se encontra, essa absorção de radiação ocorre em diferentes comprimentos de onda e\ncom diferentes absorbâncias. Um perito avaliou três amostras de mesma concentração de uma substância em diferentes valores\nde pH e obteve as curvas seguintes.\n\n![](https://enem.dev/2025-belem/questions/91/428b725d-4952-49aa-82b2-0d49c7d47ec9.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/91/428b725d-4952-49aa-82b2-0d49c7d47ec9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o gráfico, pode-se concluir que a elevação do pH aumenta a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reatividade da substância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "quantidade de energia absorvida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "concentração de íons H₃O⁺ no sistema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "absorbância na região do infravermelho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "quantidade de moléculas da substância no meio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

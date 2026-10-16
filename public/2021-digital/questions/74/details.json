@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2021 - Digital",
+    "index": 74,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Eu, Dom João, pela graça de Deus, faço saber a V. Mercê que me aprouve banir para\nessa cidade vários ciganos — homens, mulheres e crianças — devido ao seu\nescandaloso procedimento neste reino. Tiveram ordem de seguir em diversos navios\ndestinados a esse porto, e, tendo eu proibido, por lei recente, o uso da sua língua\nhabitual, ordeno a V. Mercê que cumpra essa lei sob ameaça de penalidades, não\npermitindo que ensinem dita língua a seus filhos, de maneira que daqui por diante o seu\nuso desapareça.\n\nTEIXEIRA, R. C. História dos ciganos no Brasil. Recife: Núcleo de Estudos Ciganos, 2008.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A ordem emanada da Coroa portuguesa para sua colônia americana, em 1718,\napresentava um tratamento da identidade cultural pautado em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "converter grupos infiéis à religião oficial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "suprimir formas divergentes de interação social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "evitar envolvimento estrangeiro na economia local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reprimir indivíduos engajados em revoltas nativistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "controlar manifestações artísticas de comunidades autóctones.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

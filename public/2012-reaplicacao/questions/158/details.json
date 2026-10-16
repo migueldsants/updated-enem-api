@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2012 - Reaplicação",
+    "index": 158,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pizzaria oferece, no cardápio, duas opções de\ntamanhos e preços:\n\nPizza média (6 fatias): R$ 24,00\n\nPizza grande (8 fatias): R$ 32,00\n\nUm grupo de jovens estava prestes a decidir o tipo de\npizza com melhor custo-benefício, quando um dos amigos\nquestionou ao garçom a respeito do diâmetro de cada uma\ndas pizzas. A informação obtida foi de que os diâmetros\ndas pizzas média e grande eram, respectivamente, 30 cm\ne 40 cm. Considerando que os dois tamanhos e preços\ndas pizzas atendem o grupo e que não haverá desperdício,\niniciou-se um debate entre eles:\n\n• Alan: A pizza grande tem melhor custo-benefício,\npois a área de sua fatia é superior à área da fatia\nda pizza média.\n\n• Breno: A pizza média tem melhor custo-benefício,\npois, como é dividida em menos fatias, cada fatia\ntem uma maior quantidade de pizza.\n\n• Cleber: As duas apresentam a mesma relação\ncusto-benefício, já que cada fatia custa R$ 4,00,\nindependentemente da escolha do tamanho.\n\n• Davidson: Como a razão entre os diâmetros e os\npreços das pizzas é a mesma, nenhuma das pizzas\ntem melhor custo-benefício que a outra.\n\n• Eric: A pizza grande possui melhor relação custo-\nbenefício, pois, independentemente do diâmetro,\nela é dividida em um número maior de fatias.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual jovem apresentou o melhor argumento para a\nescolha da pizza?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alan.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Breno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cleber.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Davidson.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Eric.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

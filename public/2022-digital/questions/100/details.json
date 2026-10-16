@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2022 - Digital",
+    "index": 100,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O esquema representa o ciclo do nitrogênio:\n\n![](https://enem.dev/2022-digital/questions/100/a425c97e-d38d-4a39-94bc-4549f54f4fd6.png)\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma\ndiminuição do pH do solo e da atmosfera, alterando a concentração dos compostos\npresentes nesse ciclo.\n\nDisponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/100/a425c97e-d38d-4a39-94bc-4549f54f4fd6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em um solo de menor pH, será favorecida a formação de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "N2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "NH3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "+ NH4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "− NO2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "− NO3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

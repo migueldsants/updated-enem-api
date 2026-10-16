@@ -1,0 +1,50 @@
+{
+    "title": "Questão 159 - ENEM 2016 - Reaplicação",
+    "index": 159,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na reforma e estilização de um instrumento de\npercussão, em formato cilíndrico (bumbo), será colada\numa faixa decorativa retangular, como a indicada na\nFigura 1, suficiente para cobrir integralmente, e sem\nsobra, toda a superfície lateral do instrumento.\n\n![](https://enem.dev/2016-reaplicacao/questions/159/c1d9b30e-4639-4f87-bd78-60d153244220.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/159/c1d9b30e-4639-4f87-bd78-60d153244220.png",
+        "https://enem.dev/2016-reaplicacao/questions/159/5d52fc09-adbf-4ec5-a129-52d6036f7c1e.png",
+        "https://enem.dev/2016-reaplicacao/questions/159/4b263632-a854-4a58-903a-09838586dff2.png",
+        "https://enem.dev/2016-reaplicacao/questions/159/38eac945-9222-4c98-9a64-7d9d2ed28b4b.png",
+        "https://enem.dev/2016-reaplicacao/questions/159/392b3c22-d59b-4ea7-a986-ad33b4b55d48.png",
+        "https://enem.dev/2016-reaplicacao/questions/159/ae25dcc8-fd5b-480a-859a-0d537db2f166.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Como ficará o instrumento após a colagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/159/5d52fc09-adbf-4ec5-a129-52d6036f7c1e.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/159/4b263632-a854-4a58-903a-09838586dff2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/159/38eac945-9222-4c98-9a64-7d9d2ed28b4b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/159/392b3c22-d59b-4ea7-a986-ad33b4b55d48.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/159/ae25dcc8-fd5b-480a-859a-0d537db2f166.png",
+            "isCorrect": false
+        }
+    ]
+}

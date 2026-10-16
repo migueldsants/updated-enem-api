@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 41,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quando não estou escrevendo, eu simplesmente não sei\ncomo se escreve. E se não soasse infantil e falsa a pergunta\ndas mais sinceras, eu escolheria um amigo escritor e lhe\nperguntaria: como é que se escreve? Por que, realmente, como\né que se escreve? que é que se diz? e como dizer? e como é\nque se começa? e que é que se faz com o papel em branco nos\ndefrontando tranquilo? Sei que a resposta, por mais que intrigue,\né a única: escrevendo. Sou a pessoa que mais se surpreende\nao escrever. Porque, fora das horas em que escrevo, não sei\nabsolutamente escrever. Será que escrever não é um ofício?\nNão há aprendizagem, então? O que é? Só me considerarei\nescritora no dia em que eu disser: sei como se escreve.\n\nLISPECTOR, C. A descoberta do mundo. Rio de Janeiro: Rocco, 1999.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa crônica, os questionamentos da autora evidenciam uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflexão sobre o ato de escrever.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "preferência pela forma de escrita tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "angústia decorrente do empobrecimento da escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "insatisfação com o resultado final da sua produção escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "resistência a impressões surgidas ao acaso no processo de escrita.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

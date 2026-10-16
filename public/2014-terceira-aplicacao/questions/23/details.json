@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2014 - Terceira aplicação",
+    "index": 23,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nas últimas décadas, a capoeira está cada vez\nmais presente no ambiente escolar, seja por intermédio\nde estudantes que a praticam nos intervalos das aulas,\nseja como parte das propostas curriculares de diversas\ninstituições de ensino.\n\nDisponível em: http://crv.educacao.mg.gov.br adaptado .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Cada vez mais reconhecida, a capoeira é considerada\na 14ª expressão artística do país, registrada como\npatrimônio imaterial pelo IPHAN. Sua prática representa\nnas escolas um a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atividade que proporciona diálogo e inclusão para os praticantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "alternativa que contraria o ECA Estatuto da Criança e do Adolescente .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "meio didático desvinculado da cultura popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "movimento teórico e intelectual sem práxis coletiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "prática sem vínculo identitário e cultural.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

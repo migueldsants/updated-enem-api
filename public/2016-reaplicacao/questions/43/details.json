@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2016 - Reaplicação",
+    "index": 43,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A teoria da democracia participativa é construída em\ntorno da afirmação central de que os indivíduos e suas\ninstituições não podem ser considerados isoladamente.\nA existência de instituições representativas em nível\nnacional não basta para a democracia; pois o máximo\nde participação de todas as pessoas, a socialização\nou “treinamento social” precisa ocorrer em outras\nesferas, de modo que as atitudes e as qualidades\npsicológicas necessárias possam se desenvolver. Esse\ndesenvolvimento ocorre por meio do próprio processo de\nparticipação. A principal função da participação na teoria\ndemocrática participativa é, portanto, educativa.\n\nPATEMAN, C. Participação e teoria democrática. Rio de Janeiro: Paz e Terra, 1992.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa teoria, a associação entre participação e educação\ntem como fundamento a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ascensão das camadas populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "organização do sistema partidário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "eficiência da gestão pública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ampliação da cidadania ativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "legitimidade do processo legislativo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2020 - Digital",
+    "index": 113,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A perfuração de poços para a extração de petróleo causa soterramento do leito\nsubmarino, contaminação química e aumento da turbidez da água. Além disso, o vazamento\ndesses hidrocarbonetos gera efeitos adversos, em especial no metabolismo de organismos\naquáticos, influenciando as cadeias alimentares de ecossistemas marinhos. Essas\nconsequências negativas advêm das propriedades do petróleo, uma mistura oleosa de\nsubstâncias orgânicas, de coloração escura e menos densa que a água.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A consequência do vazamento dessa mistura na produtividade primária do ecossistema é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução da atividade do fitoplâncton, em decorrência da alteração na zona fótica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "intoxicação dos animais filtradores, em decorrência da absorção de óleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "bioacumulação do óleo no zooplâncton, por causa da sua agregação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mortandade dos peixes, causada pela obstrução das suas brânquias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dizimação da população de bentônicos, pelo seu soterramento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2013 - Reaplicação",
+    "index": 168,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O matemático americano Eduardo Kasner pediu ao\nfilho que desse um nome a um número muito grande,\nque consistia do algarismo 1 seguido de 100 zeros. Seu\nfilho batizou o número de gugol. Mais tarde, o mesmo\nmatemático criou um número que apelidou de gugolplex,\nque consistia em 10 elevado a um gugol.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quantos algarismos tem um gugolplex?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "101",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10¹⁰⁰",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10¹⁰⁰ + 1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 000 10 + 1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

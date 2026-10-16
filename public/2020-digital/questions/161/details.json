@@ -1,0 +1,50 @@
+{
+    "title": "Questão 161 - ENEM 2020 - Digital",
+    "index": 161,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No projeto de uma nova máquina, um engenheiro encomendou a um torneiro mecânico a\nfabricação de uma peça, obtida a partir do recorte em um cubo, como ilustrado na figura. Para\nisso, o torneiro forneceu, juntamente com o desenho tridimensional da peça, suas vistas\nfrontal, lateral e superior, a partir das posições indicadas na figura. Para facilitar o trabalho do\ntorneiro, as arestas dos cortes que ficam ocultos nas três vistas devem ser representadas por\nsegmentos tracejados, quando for o caso.\n\n![](https://enem.dev/2020-digital/questions/161/a91ecc2b-a03b-4b0f-8c17-0b60c3a0e58d.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/161/a91ecc2b-a03b-4b0f-8c17-0b60c3a0e58d.png",
+        "https://enem.dev/2020-digital/questions/161/723adb0a-1c09-4d27-a29b-e37a1c9a5683.png",
+        "https://enem.dev/2020-digital/questions/161/fa52ff36-c0fb-4352-8e4e-bbfbe9617492.png",
+        "https://enem.dev/2020-digital/questions/161/69208705-d250-4be6-b059-985f11ce368c.png",
+        "https://enem.dev/2020-digital/questions/161/59e85233-c22f-4edf-846b-ea7038cda840.png",
+        "https://enem.dev/2020-digital/questions/161/2172d15d-20ad-4689-aa20-8fc8fc4c734f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As vistas frontal, lateral e superior que melhor representam o desenho entregue ao torneiro\nsão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/161/723adb0a-1c09-4d27-a29b-e37a1c9a5683.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/161/fa52ff36-c0fb-4352-8e4e-bbfbe9617492.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/161/69208705-d250-4be6-b059-985f11ce368c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/161/59e85233-c22f-4edf-846b-ea7038cda840.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/161/2172d15d-20ad-4689-aa20-8fc8fc4c734f.png",
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 141 - ENEM 2014 - Terceira aplicação",
+    "index": 141,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Até o fim do Império, as mulheres eram tolhidas em seu acesso à escola. Já na década de 1930, o número de\nmeninas e meninos nas instituições de ensino fica igual. Hoje, as mulheres são maioria em todos os níveis de ensino\n— do fundamental à pós-graduação. Veja a tabela a seguir:\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/141/437484ad-e199-4605-a4d3-af7b45285ba1.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/141/437484ad-e199-4605-a4d3-af7b45285ba1.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/141/8cb7396e-eb32-4ae9-83ca-fefc958c6304.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando os dados apresentados tem-se que, escolhida ao acaso uma brasileira com mais de 10 anos,\na probabilidade de que ela possua oito anos ou mais de estudos é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "17,1%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "29,6%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "34,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "50,5%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/141/8cb7396e-eb32-4ae9-83ca-fefc958c6304.png",
+            "isCorrect": false
+        }
+    ]
+}

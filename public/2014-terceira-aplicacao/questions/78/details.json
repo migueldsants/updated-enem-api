@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2014 - Terceira aplicação",
+    "index": 78,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante a formação de uma tempestade, são\nobservadas várias descargas elétricas, os raios, que podem\nocorrer das nuvens para o solo descarga descendente ,\ndo solo para as nuvens descarga ascendente ou entre\numa nuvem e outra. Normalmente, observa-se primeiro\num clarão no céu relâmpago e somente alguns segundos\ndepois ouve-se o barulho trovão causado pela descarga\nelétrica. O trovão ocorre devido ao aquecimento do ar pela\ndescarga elétrica que sofre uma expansão e se propaga\nem forma de onda sonora.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O fenômeno de ouvir o trovão certo tempo após a\ndescarga elétrica ter ocorrido deve-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à velocidade de propagação do som ser diminuída por conta do aquecimento do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à propagação da luz ocorrer através do ar e a propagação do som ocorrer através do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à velocidade de propagação da luz ser maior do que a velocidade de propagação do som no ar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ao relâmpago ser gerado pelo movimento de cargas elétricas, enquanto o som é gerado a partir da expansão do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao tempo da duração da descarga elétrica ser menor que o tempo gasto pelo som para percorrer a distância entre o raio e quem o observa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

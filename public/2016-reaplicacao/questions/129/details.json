@@ -1,0 +1,46 @@
+{
+    "title": "Questão 129 - ENEM 2016 - Reaplicação",
+    "index": 129,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/129/3764ff1f-2aff-42c3-95b0-835b4e15c789.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/129/c9f90b07-c7e3-4880-a44c-50def69ae42c.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/129/3764ff1f-2aff-42c3-95b0-835b4e15c789.png",
+        "https://enem.dev/2016-reaplicacao/questions/129/c9f90b07-c7e3-4880-a44c-50def69ae42c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Essa história em quadrinhos aborda a padronização da\nimagem corporal na contemporaneidade. O fator que pode\nser identificado como influenciador do comportamento\nobsessivo retratado nos quadrinhos é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "entendimento da aparência corporal relacionada à saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "controle feminino sobre o ideal social de estética corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desejo pelo modelo de corpo ideal construído socialmente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "questionamento crítico dos valores ligados ao sucesso social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "posicionamento reflexivo da mulher frente às imposições estéticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

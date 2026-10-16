@@ -1,0 +1,46 @@
+{
+    "title": "Questão 110 - ENEM 2022 - Digital",
+    "index": 110,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua\nqualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma\n\n−1\n\nalíquota de 25,0 mL do vinho com NaOH a 0,10 mol L , consumindo um volume igual a\n8,0 mL dessa base. A reação para esse processo de titulação é representada pela\nequação química:\n\n![](https://enem.dev/2022-digital/questions/110/71e1bcd1-9cd0-45d2-a1a0-a9d46f33f401.png)\n\n![](https://enem.dev/2022-digital/questions/110/b3d3c820-c92a-4a4e-8cdb-115df838853d.png)\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:",
+    "files": [
+        "https://enem.dev/2022-digital/questions/110/71e1bcd1-9cd0-45d2-a1a0-a9d46f33f401.png",
+        "https://enem.dev/2022-digital/questions/110/b3d3c820-c92a-4a4e-8cdb-115df838853d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "−1",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,8 g L",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "−1 2,4 g L",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "−1 3,6 g L",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "−1 4,8 g L",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "−1 9,6 g L",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

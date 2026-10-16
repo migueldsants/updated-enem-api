@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2021 - Digital",
+    "index": 44,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Naquele tempo, Itaguaí, que, como as demais vilas, arraiais e povoações da colônia,\nnão dispunha de imprensa, tinha dois modos de divulgar uma notícia; ou por meio de\ncartazes manuscritos e pregados na porta da Câmara, e da matriz; — ou por meio de\nmatraca.\n\nEis em que consistia este segundo uso. Contratava-se um homem, por um ou mais\ndias, para andar as ruas do povoado, com uma matraca na mão. De quando em quando\ntocava a matraca, reunia-se gente, e ele anunciava o que lhe incumbiam, — um remédio\npara sezões, umas terras lavradias, um soneto, um donativo eclesiástico, a melhor\ntesoura da vila, o mais belo discurso do ano, etc. O sistema tinha inconvenientes para a\npaz pública; mas era conservado pela grande energia de divulgação que possuía. Por\nexemplo, um dos vereadores desfrutava a reputação de perfeito educador de cobras e\nmacacos, e aliás nunca domesticara um só desses bichos; mas tinha o cuidado de fazer\ntrabalhar a matraca todos os meses. E dizem as crônicas que algumas pessoas\nafirmavam ter visto cascavéis dançando no peito do vereador; afirmação perfeitamente\nfalsa, mas só devida à absoluta confiança no sistema. Verdade, verdade, nem todas as\ninstituições do antigo regímen mereciam o desprezo do nosso século.\n\nASSIS, M. O alienista. Disponível em: www.dominiopubico.gov.br. Acesso em: 2 jun. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O fragmento faz uma referência irônica a formas de divulgação e circulação de\ninformações em uma localidade sem imprensa. Ao destacar a confiança da população no\nsistema da matraca, o narrador associa esse recurso à disseminação de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "campanhas políticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "anúncios publicitários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "notícias de apelo popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "informações não fidedignas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "serviços de utilidade pública.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

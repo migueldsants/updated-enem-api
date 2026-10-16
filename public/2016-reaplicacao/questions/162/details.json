@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2016 - Reaplicação",
+    "index": 162,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um arquiteto deseja construir um jardim circular de\n20 m de diâmetro. Nesse jardim, uma parte do terreno\nserá reservada para pedras ornamentais. Essa parte\nterá a forma de um quadrado inscrito na circunferência,\ncomo mostrado na figura. Na parte compreendida\nentre o contorno da circunferência e a parte externa\nao quadrado, será colocada terra vegetal. Nessa parte\ndo jardim, serão usados 15 kg de terra para cada m².\nA terra vegetal é comercializada em sacos com exatos\n15 kg cada. Use 3 como valor aproximado para p.\n\n![](https://enem.dev/2016-reaplicacao/questions/162/8b27116d-6000-4c0e-af9e-5fb198266a8e.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/162/8b27116d-6000-4c0e-af9e-5fb198266a8e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número mínimo de sacos de terra vegetal necessários\npara cobrir a parte descrita do jardim é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "140.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

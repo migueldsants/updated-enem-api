@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 159,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na área da computação, bit é a unidade de medida básica\nque deu origem ao byte, formado por 8 bits. Essas unidades\nderam origem a outras duas unidades de medida de taxa de\ntransferência de informações, sendo estas o megabit por\nsegundo (Mbps) e o megabyte por segundo (MB/s), em que\n1 MB/s representa 8 Mbps. Um consumidor, sabendo que as\nempresas de acesso à internet divulgam seus serviços usando\nessas taxas, pretende contratar a empresa com maior taxa de\ntransferência de informações ao custo mais baixo, encontrando\nna sua pesquisa dois anúncios:\n\n• Empresa X: internet de 50 megabits (50 Mbps) por apenas\nR$ 50,00;\n• Empresa Y: internet de 50 megabytes (50 MB/s) por apenas\nR$ 100,00.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para o consumidor obter o que pretende, deve escolher a\nempresa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X, pois a taxa de transferência de informações é 8 vezes a da empresa Y, e o custo por MB/s é 1/16 do custo da concorrente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "X, pois a taxa de transferência de informações é 8 vezes a da empresa Y, e o custo por MB/s é a metade do custo da concorrente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "X, pois as taxas de transferência de informações são iguais e esta empresa é a que apresenta o menor custo por Mbps.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Y, pois a taxa de transferência de informações é 8 vezes a da empresa X, e o custo por Mbps é 1/4 do custo da concorrente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Y, pois a taxa de transferência de informações é 8 vezes a da empresa X, e o custo por Mbps é 1/8 do custo da concorrente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

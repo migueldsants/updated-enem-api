@@ -1,0 +1,45 @@
+{
+    "title": "Questão 38 - ENEM 2022 - Digital",
+    "index": 38,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\n![](https://enem.dev/2022-digital/questions/38/d0d56589-64ac-49a2-bddc-e83bb507acde.png)\n\nEL GRECO. Laocoonte. Óleo sobre tela, 1,37cm x 1,72cm. National Gallery of Art, Washington,\nEstados Unidos, circa 1610-1614.\n\nDisponível em: https://images.mga.gov. Acesso em: 28 jun. 2019 (adaptado).\n\nTEXTO II\n\nEssa impressionante obra apresenta o sacerdote Laocoonte sendo punido pelos\ndeuses por tentar alertar os troianos da ameaça do cavalo de Troia, que escondia um\ngrupo de soldados gregos. Enviadas pelos deuses, serpentes marinhas são vistas\nmatando Laocoonte e seus dois filhos como forma de punição.\n\nKAY, A. In: FARTHING, S. (Org.). Tudo sobre arte. Rio de Janeiro: Sextante, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/38/d0d56589-64ac-49a2-bddc-e83bb507acde.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Produzida no início do século XVII, a obra maneirista distingue-se pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "representação da nudez masculina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "distorção ao representar a figura humana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "evocação de um fato da cultura clássica grega.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "presença do tema da morte como punição da família.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "utilização da perspectiva para integrar os diferentes planos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

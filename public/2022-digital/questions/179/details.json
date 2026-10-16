@@ -1,0 +1,46 @@
+{
+    "title": "Questão 179 - ENEM 2022 - Digital",
+    "index": 179,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para\num de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L.\nA figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída,\ncujas medidas, indicadas em centímetro, representam os valores das dimensões da\nvaranda na escala de 1 : 50.\n\n![](https://enem.dev/2022-digital/questions/179/53c68eb1-be7b-484e-a202-f7a0b0089e59.png)\n\n18,4 cm\n\n![](https://enem.dev/2022-digital/questions/179/efcf9c43-6e4e-4d1a-be89-c60a593994fb.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/179/53c68eb1-be7b-484e-a202-f7a0b0089e59.png",
+        "https://enem.dev/2022-digital/questions/179/efcf9c43-6e4e-4d1a-be89-c60a593994fb.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A medida real da área da varanda, em metro quadrado, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "33,40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "66,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "89,24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "133,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "534,40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2020 - Digital",
+    "index": 90,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Chamando o repórter de “cidadão”, em 1904, o preto acapoeirado justificava a revolta: era\npara “não andarem dizendo que o povo é carneiro. De vez em quando é bom a negrada\nmostrar que sabe morrer como homem!”. Para ele, a vacinação em si não era importante —\nembora não admitisse de modo algum deixar os homens da higiene meter o tal ferro em suas\nvirilhas. O mais importante era “mostrar ao governo que ele não põe o pé no pescoço do\npovo”.\n\nCARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República que não foi.\nSão Paulo: Cia. das Letras, 1987 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A referida Revolta, ocorrida na cidade do Rio de Janeiro no início da República, caracterizou-\nse por ser uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "agitação incentivada pelos médicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atitude de resistência dos populares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "estratégia elaborada pelos operários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tática de sobrevivência dos imigrantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ação de insurgência dos comerciantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

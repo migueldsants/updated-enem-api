@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2012 - Reaplicação",
+    "index": 30,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Mirem-se no exemplo\n\nDaquelas mulheres de Atenas\n\nVivem pros seus maridos\n\nOrgulho e raça de Atenas.\n\nBUARQUE, C.; BOAL, A. Mulheres de Atenas. In: Meus caros Amigos, 1976. Disponível\nem: http://letras.terra.com.br. Acesso em: 4 dez. 2011 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os versos da composição remetem à condição das\nmulheres na Grécia antiga, caracterizada, naquela\népoca, em razão de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sua função pedagógica, exercida junto às crianças atenienses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sua importância na consolidação da democracia, pelo casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "seu rebaixamento de status social frente aos homens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "seu afastamento das funções domésticas em períodos de guerra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sua igualdade política em relação aos homens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

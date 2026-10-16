@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2016 - Reaplicação",
+    "index": 14,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A importância do argumento de Hobbes está em parte\nno fato de que ele se ampara em suposições bastante\nplausíveis sobre as condições normais da vida humana.\nPara exemplificar: o argumento não supõe que todos\nsejam de fato movidos por orgulho e vaidade para buscar\no domínio sobre os outros; essa seria uma suposição\ndiscutível que possibilitaria a conclusão pretendida\npor Hobbes, mas de modo fácil demais. O que torna o\nargumento assustador e lhe atribui importância e força\ndramática é que ele acredita que pessoas normais, até\nmesmo as mais agradáveis, podem ser inadvertidamente\nlançadas nesse tipo de situação, que resvalará, então, em\num estado de guerra.\n\nRAWLS, J. Conferências sobre a história da filosofia política.\nSão Paulo: WMF, 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto apresenta uma concepção de filosofia política\nconhecida como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alienação ideológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "microfísica do poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estado de natureza.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "contrato social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vontade geral.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

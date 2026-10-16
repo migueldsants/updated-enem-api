@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 160,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A escassez de água em todo o planeta indica que a\npreservação desse recurso deve ser praticada e disseminada em\ntodos os países, independentemente da reserva que possuem.\n\nDisponível em: www.gentequeeduca.org.br. Acesso em: 9 jul. 2015.\n\nPensando nisso, uma empresa fornecedora de água potável\nelaborou uma nova fórmula de cobrança visando um consumo\nmais consciente. Residências com consumo mensal de até\n5 m³ de água pagarão uma taxa mínima de R$ 40,00 por mês,\ne aquelas cujo consumo mensal exceder a 5 m³ pagarão, além\ndos R$ 40,00, mais R$ 12,00 por metro cúbico de água que\nexceder a 5 m³.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A representação algébrica que fornece o valor mensal V, em real,\ncobrado pelo consumo de x m³ de água, quando x supera 5 m³, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "V = 12x - 20",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "V = 12x - 40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "V = 12x - 60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "V = 12x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V = 52x",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

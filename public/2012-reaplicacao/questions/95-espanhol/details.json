@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2012 - Reaplicação",
+    "index": 95,
+    "year": 2012,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Si hay una palabra que llama a la unanimidad en el\nmundo de la política contemporánea, fuera de la palabra\n“democracia”, es la palabra “integración”. Obviamente\ndetrás de esta palabra vienen interpretaciones muy\nd i v e r s a s , c u a n d o n o t o t a l m e n t e c o n t r a d i c t o r i a s .\nLa Alternativa Bolivariana de las Américas (ALBA), por\nejemplo, es un proceso de integración, al centro del cual\nse encuentra una perspectiva de solidaridad de los países\nlatinoamericanos, y de resistencia anti-hegemónica de sus\npueblos, pero igualmente llaman proceso de integración al\nTratado de Libre Comercio de América del Norte (TLCAN)\nque involucra a EEUU, Canadá y México, un TLC que\nrepresenta una verdadera anexión económica de México\npor parte de los Estados Unidos, mediante el comercio,\nque ha llevado a la quiebra y a la miseria a millones de\ncampesinos, ha profundizado la brecha social y acelera la\ndestrucción del medio ambiente.\n\nMARKOV, H. Integración sí, ¿pero cuál? América Latina en movimiento.Disponível em:\nwww.alainet.org. Acesso em: 23 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Conforme o texto, a palavra “integración” representa\num chamado à união no mundo contemporâneo,\nembora receba interpretações bastante diversas.\nA crítica suscitada no texto em relação a um dos\nsentidos assumidos por essa palavra reside nas\nconsequências que derivam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da condição de miséria de inúmeras pessoas do campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da destruição do meio ambiente em ritmo acelerado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da solidariedade crescente entre os países da América Latina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do aprofundamento da crise econômica e das diferenças sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "do enlace comercial dos países da América do Norte",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

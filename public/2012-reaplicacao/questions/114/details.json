@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2012 - Reaplicação",
+    "index": 114,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Cegueira\n\nAfastou-me da escola, atrasou-me, enquanto os\nfilhos de seu José Galvão se internavam em grandes\nvolumes coloridos, a doença de olhos que me perseguia\nna meninice. Torturava-me semanas e semanas, eu vivia\nna treva, o rosto oculto num pano escuro, tropeçando\nnos móveis, guiando-me às apalpadelas, ao longo das\nparedes. As pálpebras inflamadas colavam-se. Para\ndescerrá-las, eu ficava tempo sem fim mergulhando a\ncara na bacia de água, lavando-me vagarosamente, pois\no contato dos dedos era doloroso em excesso. Finda a\noperação extensa, o espelho da sala de visitas mostrava-\nme dois bugalhos sangrentos, que se molhavam depressa\ne queriam esconder-se. Os objetos surgiam empastados\ne brumosos. Voltava a abrigar-me sob o pano escuro,\nmas isto não atenuava o padecimento. Qualquer luz me\ndeslumbrava, feria-me como pontas de agulha [...].\n\nSem dúvida o meu espectro era desagradável, inspirava\nrepugnância. E a gente da casa se impacientava. Minha\nmãe tinha a franqueza de manifestar-me viva antipatia.\nDava-me dois apelidos: bezerro-encourado e cabra-cega.\n\nRAMOS, G. Infância. Rio de Janeiro: Record, 1984 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O impacto da doença, na infância, revela-se no texto\nmemorialista de Graciliano Ramos através de uma atitude\nmarcada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma tentativa de esquecer os efeitos da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "preservar a sua condição de vítima da negligência materna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apontar a precariedade do tratamento médico no sertão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "registrar a falta de solidariedade dos amigos e familiares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recompor, em minúcias e sem autopiedade, a sensação da dor.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

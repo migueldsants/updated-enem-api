@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2014 - Reaplicação",
+    "index": 133,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Senhora\n\n— Mãe, noooosssa! Esse seu cabelo novo ficou lindo!\nParece que você é, tipo, mais jovem!\n\n— Jura, minha filha? Obrigada!\n\n![](https://enem.dev/2014-reaplicacao/questions/133/89c15701-8752-4ed2-9d45-d6dacf7409fd.png)\n\n— Mas aí você vira de frente e aí a gente vê que, tipo,\nnão é, né?\n\n— Coisa linda da mamãe!\nEsse diálogo é real. Claro que achei graça, mas o fato\nde envelhecer já não é mais segredo para ninguém.\n\nUm belo dia, a vendedora da loja te pergunta: “A\nsenhora quer pagar como?” Senhora? Como assim?\n\nEu sempre fui a Marcinha! Agora eu sou a dona\nMárcia! Sim, o porteiro, o motorista de táxi, o jornaleiro,\no garçom, o mundo inteiro resolveu ter um respeito\ncomigo que eu não pedi!\n\nCABRITA, M. Disponível em: www.istoe.com.br. Acesso em: 11 ago. 2012 (fragmento).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/133/89c15701-8752-4ed2-9d45-d6dacf7409fd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A exploração de registros linguísticos é importante\nestratégia para o estabelecimento do efeito de sentido\npretendido em determinados textos. No texto, o recurso\na diferentes registros indica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mudança na representação social do locutor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "reflexão sobre a identidade profissional da mãe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "referência ao tradicionalismo linguístico da autora do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elogio às situações vivenciadas pela personagem mãe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "compreensão do processo de envelhecimento como algo prazeroso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

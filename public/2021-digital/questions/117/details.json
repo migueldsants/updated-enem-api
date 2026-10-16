@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2021 - Digital",
+    "index": 117,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Cientistas da Universidade de New South Wales, na Austrália, demonstraram em\n2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta\ncompreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de\nalguns dos fios construídos (respectivamente com as mesmas unidades de medida).\nConsidere que a resistividade mantém-se constante para todas as geometrias (uma\naproximação confirmada pelo estudo).\n\n![](https://enem.dev/2021-digital/questions/117/6755d365-406b-4bd4-9294-c4a91858e150.png)\n\nWEBER, S. B. et al. Ohm’s Law Survives to the Atomic Scale. Science, n. 335, jan. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/117/6755d365-406b-4bd4-9294-c4a91858e150.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As resistências elétricas dos fios, em ordem crescente, são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R1 < R2 < R3 < R4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R2 < R1 < R3 < R4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R2 < R3 < R1 < R4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R4 < R1 < R3 < R2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R4 < R3 < R2 < R1.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

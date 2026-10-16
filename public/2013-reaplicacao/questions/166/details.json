@@ -1,0 +1,47 @@
+{
+    "title": "Questão 166 - ENEM 2013 - Reaplicação",
+    "index": 166,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao realizar uma compra em uma loja de\ndepartamentos, o cliente tem o direito de participar de um\njogo de dardo, no qual, de acordo com a região do alvo\nacertada, ele pode ganhar um ou mais prêmios. Caso o\ncliente acerte fora de todos os quatro círculos, ele terá o\n\n![](https://enem.dev/2013-reaplicacao/questions/166/fa10aa85-a3d7-4811-b059-e95700d47f66.png)\n\ndireito de repetir a jogada, até que acerte uma região que\ndê o direito de ganhar pelo menos um prêmio. O alvo é o\napresentado na figura:\n\nA\n\n![](https://enem.dev/2013-reaplicacao/questions/166/874123e5-6f9a-44a2-b3b0-cea2c288fc5c.png)\n\nD B\n\nC\n\nAo acertar uma das regiões do alvo, ele terá direito\nao(s) prêmio(s) indicado(s) nesta região. Há ainda o prêmio\nextra, caso o cliente acerte o dardo no quadrado ABCD.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/166/fa10aa85-a3d7-4811-b059-e95700d47f66.png",
+        "https://enem.dev/2013-reaplicacao/questions/166/874123e5-6f9a-44a2-b3b0-cea2c288fc5c.png",
+        "https://enem.dev/2013-reaplicacao/questions/166/f3aa8ba6-9469-4f69-aefb-0dff6bb3b3b2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "João Maurício fez uma compra nessa loja e teve o direito\nde jogar o dardo. A quantidade de prêmios que João\nMaurício tem a menor probabilidade de ganhar, sabendo\nque ele jogou o dardo aleatoriamente, é exatamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/166/f3aa8ba6-9469-4f69-aefb-0dff6bb3b3b2.png",
+            "isCorrect": false
+        }
+    ]
+}

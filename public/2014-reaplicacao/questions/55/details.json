@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2014 - Reaplicação",
+    "index": 55,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os gêmeos sempre exerceram um fascínio para a maioria das pessoas, principalmente os monozigóticos ou\nidênticos. Parte desse interesse está relacionada ao fato de que esses indivíduos representam a manifestação\nnatural que mais se aproxima da clonagem na espécie humana.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O mecanismo que está associado com a formação dos indivíduos citados é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "divisão do feto em gestação em dois indivíduos separados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "divisão do embrião em dois grupos celulares independentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "fecundação de um óvulo por dois espermatozoides diferentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ocorrência de duas fecundações simultâneas no útero materno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fertilização sucessiva de dois óvulos por apenas um espermatozoide.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

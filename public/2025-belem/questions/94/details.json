@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 94,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Há um grande esforço científico no desenvolvimento de novos processos para o aproveitamento de resíduos lignocelulósicos,\ncomo o bagaço de cana-de-açúcar, para produção de etanol de segunda geração (2G). Apesar de já existirem tecnologias\ndisponíveis, a maioria apresenta limitações técnicas ou econômicas. Nesse sentido, um dos principais desafios que envolvem a\nprodução de etanol celulósico é disponibilizar monossacarídeos fermentáveis das moléculas poliméricas, conforme a ilustração.\n\nSANTOS, F. A. et al. Potencial da palha de cana-de-açúcar para produção de etanol. Química Nova, n. 5, 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um pesquisador, para tentar otimizar a produção, poderia acrescentar ao processo de hidrólise enzimas extraídas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "células entéricas de gaviões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "suco pancreático de humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "bactérias do rúmen de bovinos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "glândulas salivares de roedores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "macerado do estômago de macacos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

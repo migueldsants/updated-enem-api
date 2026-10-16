@@ -1,0 +1,43 @@
+{
+    "title": "Questão 152 - ENEM 2016 - Segunda aplicação",
+    "index": 152,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para comemorar o aniversário de uma cidade, a\nprefeitura organiza quatro dias consecutivos de atrações\nculturais. A experiência de anos anteriores mostra que, de\num dia para o outro, o número de visitantes no evento é\ntriplicado. É esperada a presença de 345 visitantes para\no primeiro dia do evento.\nUma representação possível do número esperado de\nparticipantes para o último dia é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 × 345",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(3 + 3 + 3) × 345",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3³ × 345",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 × 4 × 345",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3⁴ × 345",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

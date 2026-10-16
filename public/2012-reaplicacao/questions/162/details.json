@@ -1,0 +1,46 @@
+{
+    "title": "Questão 162 - ENEM 2012 - Reaplicação",
+    "index": 162,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O abandono escolar no ensino médio é um dos\nprincipais problemas da educação no Brasil. Reduzir\nas taxas de abandono tem sido uma tarefa que exige\npersistência e ações continuadas dos organismos\nresponsáveis pela educação no país.\n\nO gráfico apresentado a seguir mostra as taxas\npercentuais de abandono no ensino médio, para todo\no país, no período de 2007 a 2010, em que se percebe\numa queda a partir de 2008. Com o objetivo de reduzir de\nforma mais acentuada a evasão escolar são investidos\nmais recursos e intensificadas as ações, para se chegar a\numa taxa em torno de 5,2% ao final do ano de 2013.\n\n13,2\n\n10,3\n\n![](https://enem.dev/2012-reaplicacao/questions/162/128e5ba8-4145-438a-85ee-e49f59474945.png)\n\nMEC/Inep, Censo Escolar (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/162/128e5ba8-4145-438a-85ee-e49f59474945.png",
+        "https://enem.dev/2012-reaplicacao/questions/162/dd949790-f771-4016-98d9-1a66bc985d8a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a taxa de redução anual que deve ser obtida para\nque se chegue ao patamar desejado para o final de 2013?\nConsidere (0,8)³ = 0,51.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "41%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "49%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/162/dd949790-f771-4016-98d9-1a66bc985d8a.png",
+            "isCorrect": false
+        }
+    ]
+}

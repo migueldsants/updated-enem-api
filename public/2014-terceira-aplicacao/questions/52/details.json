@@ -1,0 +1,45 @@
+{
+    "title": "Questão 52 - ENEM 2014 - Terceira aplicação",
+    "index": 52,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/52/fdfdf799-5f9e-4baa-a2c2-da87a69fd447.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O entendimento de como as ligações químicas se\nformam é um dos assuntos fundamentais da ciência.\nA partir desses fundamentos, pode-se entender como\nsão desenvolvidos novos materias. Por exemplo, de\nacordo com a regra do octeto, na formação de uma\nligação covalente, os átomos tendem a completar\nseus octetos pelo compartilhamento de elétrons\natingir configuração de gás nobre, ns² np⁶ . Porém,\nquando o átomo central de uma molécula tem\norbitais d vazios, ele pode acomodar 10, 12 ou até\nmais elétrons. Os elétrons desta camada de valência\nexpandida podem estar como pares isolados ou podem\nser usados pelo átomo central para formar ligações.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estrutura que representa uma molécula com o octeto",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "NH₃.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "PCl₅.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "BeH₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/52/fdfdf799-5f9e-4baa-a2c2-da87a69fd447.png",
+            "isCorrect": false
+        }
+    ]
+}

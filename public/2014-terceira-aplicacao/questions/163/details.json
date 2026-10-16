@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2014 - Terceira aplicação",
+    "index": 163,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma plantação de eucaliptos, um fazendeiro\naplicará um fertilizante a cada 40 dias, um inseticida para\ncombater as formigas a cada 32 dias e um pesticida a\ncada 28 dias. Ele iniciou aplicando os três produtos em\num mesmo dia.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com essas informações, depois de quantos\ndias, após a primeira aplicação, os três produtos serão\naplicados novamente no mesmo dia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "140",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 120",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "35 840",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

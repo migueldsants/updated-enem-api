@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2016 - Reaplicação",
+    "index": 36,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ameaça real à segurança de mais de 500 pessoas de\n120 casas de Planaltina de Goiás, a voçoroca, que levou\nà decretação de situação de emergência no município\npelo Ministério da Integração Nacional, foi vistoriada\npelo procurador-geral de Justiça de Goiás e por várias\nautoridades das três esferas de governo. Durante a\nvistoria da erosão, que já mede quase 3 quilômetros de\nextensão, foi confirmada a liberação de recursos visando\nparalisar o processo degradante.\n\nDisponível em: http://mp-go.jusbrasil.com.br. Acesso em: 2 ago. 2012 (adaptado).\n\n![](https://enem.dev/2016-reaplicacao/questions/36/91edd2cc-5598-46d6-8831-de8271da2df5.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/36/91edd2cc-5598-46d6-8831-de8271da2df5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O fenômeno noticiado, sobre a área urbana de\nPlanaltina (GO), tem sua origem explicada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fraca cobertura vegetal e composição do solo, resultado da ação erosiva natural das chuvas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "relação entre o declive do terreno e a força erosiva da água, resultado da evolução do relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "declividade do terreno e intensidade das chuvas, resultado do escoamento superficial das águas pluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "degradação ambiental e deficiência na drenagem de águas pluviais, resultado da ocupação e uso inadequado do solo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "decomposição e transporte de sedimentos por escoamento superficial, resultado de processos erosivos naturais às encostas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

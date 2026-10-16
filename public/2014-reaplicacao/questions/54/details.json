@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2014 - Reaplicação",
+    "index": 54,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os bafômetros etilômetros indicam a quantidade de álcool, C₂H₆O (etanol), presente no organismo de uma\npessoa através do ar expirado por ela. Esses dispositivos utilizam células a combustível que funcionam de acordo com\nas reações químicas representadas:\n\n(I) C₂H₆O g → C₂H₄O (g) + 2 H⁺ (aq) + 2 e^ï\n\n![](https://enem.dev/2014-reaplicacao/questions/54/f4aac597-0a0e-4fcd-a913-05d94a33d526.png)\n\nBRAATHEN, P. C. Hálito culpado: o princípio químico do bafômetro. Química Nova na Escola, n. 5, maio 1997 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/54/f4aac597-0a0e-4fcd-a913-05d94a33d526.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na reação global de funcionamento do bafômetro, os reagentes e os produtos desse tipo de célula são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o álcool expirado como reagente; água, elétrons e H⁺ como produtos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o oxigênio do ar e H⁺ como reagentes; água e elétrons como produtos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas o oxigênio do ar como reagente; apenas os elétrons como produto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas o álcool expirado como reagente; água, C₂H₄O e H⁺ como produtos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o oxigênio do ar e o álcool expirado como reagentes; água e C₂H₄O como produtos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

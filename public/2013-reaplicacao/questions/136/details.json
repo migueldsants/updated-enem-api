@@ -1,0 +1,48 @@
+{
+    "title": "Questão 136 - ENEM 2013 - Reaplicação",
+    "index": 136,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Observe no gráfico alguns dados a respeito da\n\nprodução e do destino do lixo no Brasil no ano de 2010.\n\nQuanto Brasil produz de sujeira\n\nComposição do lixo brasileiro Para onde vão os detritos\n\n![](https://enem.dev/2013-reaplicacao/questions/136/d3e5931d-e2ce-4e74-9e8b-143adcdccc23.png)\n\nde toneladas orgânica controle sanitário\nde lixo produzido\n\n![](https://enem.dev/2013-reaplicacao/questions/136/1c6c0514-5adb-4f80-8179-fa73ad521aa3.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/136/2a4e0654-9b70-4ccd-8cd5-e0e9bf6fd076.png)\n\nno Brasil em 2010\n(população urbana)\n\n![](https://enem.dev/2013-reaplicacao/questions/136/8603dee0-a7ad-48fa-848b-cd7e1a27c576.png)\n\noutros rejeitos lixão\n\nVeja, São Paulo, dez. 2011 (adaptado).\n\nA partir desses dados, supondo que todo o lixo brasileiro,\n\ncom exceção dos recicláveis, é destinado aos aterros ou\n\naos lixões, quantos milhões de toneladas de lixo vão para",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/136/d3e5931d-e2ce-4e74-9e8b-143adcdccc23.png",
+        "https://enem.dev/2013-reaplicacao/questions/136/1c6c0514-5adb-4f80-8179-fa73ad521aa3.png",
+        "https://enem.dev/2013-reaplicacao/questions/136/2a4e0654-9b70-4ccd-8cd5-e0e9bf6fd076.png",
+        "https://enem.dev/2013-reaplicacao/questions/136/8603dee0-a7ad-48fa-848b-cd7e1a27c576.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "os lixões?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5,9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "10,9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "42,7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "76,8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

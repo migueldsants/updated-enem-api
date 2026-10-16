@@ -1,0 +1,46 @@
+{
+    "title": "Questão 48 - ENEM 2014 - Reaplicação",
+    "index": 48,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um pesquisador avaliou o efeito da temperatura do\nmotor em velocidade constante e da velocidade média\nde um veículo com temperatura do motor constante\nsobre a emissão de monóxido de carbono CO em dois\ntipos de percurso, aclive e declive, com iguais distâncias\npercorridas em linha reta. Os resultados são apresentados\nnas duas figuras.\n\n![](https://enem.dev/2014-reaplicacao/questions/48/3d9fe1ec-ab35-41fa-9297-b4db441ae6dd.png)\n\nAclive\nDeclive\n\nEmissão de CO (g/km)\n\n30 40 50 60 70\n\nTemperatura do motor (°C)\n\n![](https://enem.dev/2014-reaplicacao/questions/48/2d486c81-8226-456b-b763-b85632098d24.png)\n\nAclive\nDeclive\n\nEmissão de CO (g/km)\n\n40 50 60 70 80\n\nVelocidade média (km/h)\n\nDisponível em: www.producao.ufrgs.br. Acesso em: 3 ago. 2012 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/48/3d9fe1ec-ab35-41fa-9297-b4db441ae6dd.png",
+        "https://enem.dev/2014-reaplicacao/questions/48/2d486c81-8226-456b-b763-b85632098d24.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir dos resultados, a situação em que ocorre maior\nemissão de poluentes é aquela na qual o percurso é\nfeito com o motor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aquecido, em menores velocidades médias e em pista em declive.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aquecido, em maiores velocidades médias e em pista em aclive.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "frio, em menores velocidades médias e em pista em declive.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "frio, em menores velocidades médias e em pista em aclive.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "frio, em maiores velocidades médias e em pista em aclive.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

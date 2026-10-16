@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2016 - Reaplicação",
+    "index": 153,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em sua vez de jogar, um jogador precisa dar uma\ntacada na bola branca, de forma a acertar a bola 9\ne fazê-la cair em uma das caçapas de uma mesa de\nbilhar. Como a bola 8 encontra-se entre a bola branca\ne a bola 9, esse jogador adota a estratégia de dar uma\ntacada na bola branca em direção a uma das laterais\nda mesa, de forma que, ao rebater, ela saia em uma\ntrajetória retilínea, formando um ângulo de 90° com a\ntrajetória da tacada, conforme ilustrado na figura.\n\n![](https://enem.dev/2016-reaplicacao/questions/153/8a8a276d-cfe3-4f82-be7d-358890228b7d.png)\n\nCom essa estratégia, o jogador conseguiu encaçapar\na bola 9. Considere um sistema cartesiano de eixos sobre\no plano da mesa, no qual o ponto de contato da bola com a\nmesa define sua posição nesse sistema. As coordenadas\ndo ponto que representa a bola 9 são (3 ; 3), o centro da\ncaçapa de destino tem coordenadas (6 ; 0) e a abscissa\nda bola branca é 0,5, como representados na figura.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/153/8a8a276d-cfe3-4f82-be7d-358890228b7d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se a estratégia deu certo, a ordenada da posição original\nda bola branca era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

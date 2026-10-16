@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2021 - Digital",
+    "index": 143,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Após consulta médica, um paciente deve seguir um tratamento composto por três\nmedicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um\norçamento em três farmácias diferentes, conforme o quadro.\n\n![](https://enem.dev/2021-digital/questions/143/132079b3-3067-4dee-82a0-3823159d7c29.png)\n\nDessas farmácias algumas oferecem descontos:\n\nna compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de\n20% em ambos os produtos, independentemente da compra do medicamento Z, e\nnão há desconto para o medicamento Z;\nna compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no\nvalor total da compra.\n\nO paciente deseja efetuar a compra de modo a minimizar sua despesa com os\nmedicamentos.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/143/132079b3-3067-4dee-82a0-3823159d7c29.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da\nseguinte forma:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X, Y e Z na Farmácia 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "X e Y na Farmácia 1, e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "X e Y na Farmácia 2, e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "X na Farmácia 2, e Y e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "X, Y e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

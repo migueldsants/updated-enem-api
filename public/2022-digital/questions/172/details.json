@@ -1,0 +1,46 @@
+{
+    "title": "Questão 172 - ENEM 2022 - Digital",
+    "index": 172,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A luminosidade L de uma estrela está relacionada com o raio R e com a\ntemperatura T dessa estrela segundo a Lei de Stefan-Boltzmann: L = c ⋅ R² ⋅ T⁴, em que\nc é uma constante igual para todas as estrelas.\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\n\nConsidere duas estrelas E e F, sendo que a estrela E tem metade do raio da\nestrela F e o dobro da temperatura de F.\n\nIndique por L_E e L_F suas respectivas luminosidades.\n\nA relação entre as luminosidades dessas duas estrelas é dada por",
+    "files": [
+        "https://enem.dev/2022-digital/questions/172/2a4376c8-0c88-4e65-bc0a-5c6866dad85b.png",
+        "https://enem.dev/2022-digital/questions/172/b2343182-82ca-4ead-a440-6e474b99aee0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "L_F",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/172/2a4376c8-0c88-4e65-bc0a-5c6866dad85b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/172/b2343182-82ca-4ead-a440-6e474b99aee0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "L_E = L_F",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "L_E = 4L_F",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "L_E = 8L_F",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

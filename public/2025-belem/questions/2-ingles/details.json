@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 2,
+    "year": 2025,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Four years ago, when my daughter was born, my partner,\na Mexican, and me, a Slovenian, decided we would teach her to\nembrace both cultures with the same respect and enthusiasm.\nWe decided that she would speak both languages equally fluently\nand that she would consider herself Mexican as much as Slovenian.\nConsideringthatwe’relivinginMexico,I’mtheonewhohastoassume\nmore efforts to achieve that. This is how I motivate my daughter to\nembrace Slovenian culture. When my daughter was born, I promised\nmyself that I would teach her Slovene, so I decided to talk with her\nonly in that language. I never use Spanish with her, not even when\nmy partner or other people are around. I regularly switch from\nSpanish to Slovene, depending on the person I talk to, and it has been\nworking (almost) perfectly. I admit her bilingualism isn’t as good\nas I would like it to, as she regularly responds to me in Spanish;\nhowever, she does understand every single word I say, and as the\nyears go by she’s showing more and more interest in the language.\n\nŽOLDOŠ, M. Disponível em: https://matadornetwork.com.\nAcesso em: 8 dez. 2017.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao abordar a vivência multicultural de um casal com relação à\nformação da filha, esse texto destaca a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorização dos costumes locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "necessidade de interação social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "legitimação dos valores nacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "busca por qualificação profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "importância das heranças culturais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

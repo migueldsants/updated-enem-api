@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2021 - Digital",
+    "index": 110,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A curcumina, uma das substâncias que confere a cor alaranjada ao açafrão, pode\nauxiliar no combate à dengue quando adicionada à água de criadouros do mosquito\ntransmissor. Essa substância acumula-se no intestino do inseto após ser ingerida com a\nágua do criadouro e, quando ativada pela luz, induz a produção de espécies reativas de\noxigênio que danificam de forma fatal o tecido do tubo digestório.\n\nTOLEDO, K. Corante extraído do açafrão pode ser útil no combate à dengue. Disponível em:\nhttp://agencia.fapesp.br. Acesso em: 25 abr. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A forma de combate relatada tem como atividade o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "morte do indivíduo adulto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução da eclosão dos ovos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "comprometimento da metamorfose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "impedimento do desenvolvimento da larva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "repelência da forma transmissora da doença.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

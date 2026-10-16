@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 111,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No Rio Grande do Norte, já se produz a flor de sal, cobiçado\ntempero que há algum tempo aparece nos cardápios de\nrestaurantes de alto gabarito. O processo de sua produção é\nartesanal, em que a água do mar é levada a tanques escavados\ne vai passando de um tanque para outro, ficando cada vez mais\nconcentrada. Em determinado nível de saturação da água, o sal\ncomum começa a se cristalizar e se precipitar no fundo. E com\no sol intenso, clima seco e vento constante, a flor de sal se\nforma como uma fina rede cristalina na superfície da solução\nconcentrada.\n\nORENSTEIN, J. Disponível em: http://blog.estadao.com.br.\nAcesso em: 15 out. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O método utilizado para a obtenção desse tempero é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "destilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "decantação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "evaporação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "sublimação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 150 - ENEM 2022 - Digital",
+    "index": 150,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos\nos seus apartamentos à venda. Os apartamentos são identificados por números formados\npor dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento,\ne a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar.\nQuanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes\ncaracterísticas, em função de seus números de identificação:\n\nnaqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte\nda manhã;\nnaqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte\nda manhã;\nnaqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte\nda tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas\nquer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/150/74ae86b3-7950-43f8-8dce-4ca7155d6de3.png",
+        "https://enem.dev/2022-digital/questions/150/43855abd-0ce7-4641-a1bf-40cef88c8e2c.png",
+        "https://enem.dev/2022-digital/questions/150/55de39ea-1a00-4ec3-89e0-cb68e1582790.png",
+        "https://enem.dev/2022-digital/questions/150/0c91be99-5a8b-4103-a40c-1fb45444c123.png",
+        "https://enem.dev/2022-digital/questions/150/b77a7b55-97df-429b-b265-a5362072b549.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos\npara compra nas condições desejadas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/150/74ae86b3-7950-43f8-8dce-4ca7155d6de3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/150/43855abd-0ce7-4641-a1bf-40cef88c8e2c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/150/55de39ea-1a00-4ec3-89e0-cb68e1582790.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/150/0c91be99-5a8b-4103-a40c-1fb45444c123.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/150/b77a7b55-97df-429b-b265-a5362072b549.png",
+            "isCorrect": false
+        }
+    ]
+}

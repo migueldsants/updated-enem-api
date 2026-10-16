@@ -1,0 +1,48 @@
+{
+    "title": "Questão 167 - ENEM 2012 - Reaplicação",
+    "index": 167,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um professor, ao fazer uma atividade de origami\n\n(dobraduras) com seus alunos, pede para que estes\n\ndobrem um pedaço de papel em forma triangular, como\n\nna figura a seguir, de modo que M e N sejam pontos\n\nmédios respectivamente de AB e AC, e D, ponto do lado\n\nBC, indica a nova posição do vértice A do triângulo ABC.\n\nA\nA\n\n![](https://enem.dev/2012-reaplicacao/questions/167/f5dee42b-7f47-4745-8182-f07fc6b52372.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/167/df1cac22-8cc8-46a0-85fe-fc55df8e384d.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/167/06c582a1-379d-4864-b805-0eb8c0289f77.png)\n\nSe ABC é um triângulo qualquer, após a construção, são",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/167/f5dee42b-7f47-4745-8182-f07fc6b52372.png",
+        "https://enem.dev/2012-reaplicacao/questions/167/df1cac22-8cc8-46a0-85fe-fc55df8e384d.png",
+        "https://enem.dev/2012-reaplicacao/questions/167/06c582a1-379d-4864-b805-0eb8c0289f77.png",
+        "https://enem.dev/2012-reaplicacao/questions/167/18aaf715-295f-4569-bbb6-bae4bb1bd978.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "exemplos de triângulos isósceles os triângulos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CMA e CMB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CAD e ADB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "NAM e NDM.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CND e DMB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/167/18aaf715-295f-4569-bbb6-bae4bb1bd978.png",
+            "isCorrect": true
+        }
+    ]
+}

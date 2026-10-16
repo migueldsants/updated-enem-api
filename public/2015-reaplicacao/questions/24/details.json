@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2015 - Reaplicação",
+    "index": 24,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Mediante o Código de Posturas de 1932, o poder\npúblico enumera e prevê, para os habitantes de Fortaleza,\numa série de proibições condicionadas pela hora: após\nas 22 horas era vetada a emissão de sons em volume\nacentuado. O uso de buzinas, sirenes, vitrolas, motores\nou qualquer objeto que produzisse barulho seria punido\ncom multa. No início dos anos 1940 o último bonde partia\nda Praça do Ferreira às 23 horas.\n\nSILVA FILHO, A. L. M. Fortaleza: imagens da cidade. Fortaleza:\nMuseu do Ceará; Secult, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Como Fortaleza, muitas capitais brasileiras\nexperimentaram, na primeira metade do século XX, um\nnovo tipo de vida urbana, marcado por condutas que\nevidenciam uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "experiência temporal regida pelo tempo orgânico e pessoal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "experiência que flexibilizava a obediência ao tempo do relógio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "relação de códigos que estimulavam o trânsito de pessoas na cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "normatização do tempo com vistas à disciplina dos corpos na cidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "cultura urbana capaz de conviver com diferentes experiências temporais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2021 - Digital",
+    "index": 90,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\n![](https://enem.dev/2021-digital/questions/90/ee740287-5e7c-4bf2-aadd-b4b2f7f8d55f.png)\n\nEIGENHEER, E. M.Lixo: a limpeza urbana através dos tempos. Porto Alegre: Gráfica Palloti, 2009.\n\nTEXTO II\n\nA repugnante tarefa de carregar lixo e os dejetos da casa para as praças e praias era\ngeralmente destinada ao único escravo da família ou ao de menor status ou valor. Todas\nas noites, depois das dez horas, os escravos conhecidos popularmente como “tigres”\nlevavam tubos ou barris de excremento e lixo sobre a cabeça pelas ruas do Rio.\n\nKARASCH, M. C. A vida dos escravos no Rio de Janeiro, 1808-1850. Rio de Janeiro: Cia. das Letras, 2000.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/90/ee740287-5e7c-4bf2-aadd-b4b2f7f8d55f.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A ação representada na imagem e descrita no texto evidencia uma prática do cotidiano\nnas cidades no Brasil nos séculos XVIII e XIX caracterizada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorização do trabalho braçal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reiteração das hierarquias sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "sacralização das atividades laborais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "superação das exclusões econômicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ressignificação das heranças religiosas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

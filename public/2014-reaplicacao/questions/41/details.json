@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2014 - Reaplicação",
+    "index": 41,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A voadeira, canoa de alumínio com motor de popa\nusada como meio de transporte fluvial pelos ribeirinhos\nda Amazônia, ganhou uma versão movida a energia solar\nem vez de combustível.\n\nBRASIL, K. Voadeira movida a energia solar é opção para o transporte fluvial na Amazônia.\nFolha de S. Paulo, 12 maio 2012.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No texto, está descrita uma situação de mudança na\ntecnologia do transporte fluvial na Amazônia. Configura-se\ncomo uma consequência ambiental derivada da mudança\napresentada a redução",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da área de mata ciliar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da erosão dos solos aluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de descargas elétricas nas águas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do assoreamento dos cursos fluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da emissão de poluentes atmosféricos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2021 - Digital",
+    "index": 20,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Que tal transformar a internet em palco para a dança?\n\n![](https://enem.dev/2021-digital/questions/20/c2b6d3a0-0ce0-4534-938b-2cd19271d2f6.png)\n\nO coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que\ndescobriram a dança de outro ponto de vista. Mini@tures é uma experiência emblemática\nentre movimento, computador, internet e vídeo. Com os recursos da computação gráfica,\na dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como\npalco, o processo de criação das miniaturas de dança levou em consideração os limites\nde tempo de download e o tamanho de arquivo, para que um número maior de\n“espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação\nentre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior\ndiferença nesse grupo. Mini@tures explora uma nova dimensão que descobre o\nespaço-tempo da web e conquista um novo território para a dança contemporânea. A\nqualquer hora, dança on-line.\n\nSPANGHERO, M. A dança dos encéfalos acesos. São Paulo: Itaú Cultural, 2003 (adaptado).\n\nConsiderado o primeiro projeto de dança contemporânea concebido para a rede, esse\ntrabalho é apresentado como inovador por",
+    "files": [
+        "https://enem.dev/2021-digital/questions/20/c2b6d3a0-0ce0-4534-938b-2cd19271d2f6.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "adotar uma perspectiva conceitual como contraposição à tradição de grandes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "espetáculos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "privilegiar movimentos gerados por computação gráfica, com a substituição do palco pela tela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produzir uma arte multimodal, com o intuito de ampliar as possibilidades de expressão estética.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2014 - Terceira aplicação",
+    "index": 59,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A reprodução é uma característica atribuída a todos\nos seres vivos, unicelulares ou pluricelulares, de qualquer\nespécie.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em condições naturais, a importância dessa característica\nreside no fato de permitir o a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "transferência de características básicas entre indivíduos de espécies diferentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "duplicação da quantidade de DNA nas células da espécie ao longo das gerações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cruzamento entre indivíduos de espécies diferentes, gerando descendentes férteis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento da quantidade de células dos seres vivos, para que se tornem pluricelulares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "perpetuação da espécie e conservação de suas características ao longo das gerações.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

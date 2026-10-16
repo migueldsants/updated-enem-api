@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2022 - Digital",
+    "index": 10,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ciente de que, no campo da criação, as inovações tecnológicas abrem amplo leque\nde possibilidades — ao permitir, e mesmo estimular, que o artista explore a fundo, em seu\nprocesso criativo, questões como a aleatoriedade, o acaso, a não linearidade e a\nhipermídia —, Leo Cunha comenta que, no que tange ao campo da divulgação, as\nalternativas são ainda mais evidentes: “Afinal, é imensa a capacidade de reprodução,\nmultiplicação e compartilhamento das obras artísticas/culturais. Ao mesmo tempo,\nganham dimensão os dilemas envolvidos com a questão da autoria, dos direitos autorais,\nda reprodução e intervenção não autorizadas, entre outras questões”. Já segundo a\nprofessora Yacy-Ara Froner, o uso de ferramentas tecnológicas não pode ser visto como\num fim em si mesmo. Isso porque computadores, samplers, programas de imersão,\ninternet e intranet, vídeo, televisão, rádio, GPD etc. são apenas suportes com os quais os\nartistas exercem sua imaginação.\n\nSILVA JR., M. G. Movidas pela dúvida. Minas faz Ciências, n. 52, dez.-fev. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo os autores citados no texto, a expansão de possibilidades no campo das\nmanifestações artísticas promovida pela internet pode pôr em risco o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sucesso dos artistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorização dos suportes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "proteção da produção estética.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "modo de distribuição de obras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "compartilhamento das obras artísticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

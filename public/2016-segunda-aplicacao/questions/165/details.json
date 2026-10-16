@@ -1,0 +1,52 @@
+{
+    "title": "Questão 165 - ENEM 2016 - Segunda aplicação",
+    "index": 165,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um grupo de escoteiros mirins, numa atividade no\nparque da cidade onde moram, montou uma barraca\nconforme a foto da Figura 1. A Figura 2 mostra o esquema\nda estrutura dessa barraca, em forma de um prisma reto,\nem que foram usadas hastes metálicas.\n\nE\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/165/01aca3e8-0416-433a-a5c1-989d83210b50.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/165/b9c6f753-11ee-4221-a511-cbf397b0399a.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/165/d354cc31-66d2-4d3b-9dc9-d516a4e89ec5.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/01aca3e8-0416-433a-a5c1-989d83210b50.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/b9c6f753-11ee-4221-a511-cbf397b0399a.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/d354cc31-66d2-4d3b-9dc9-d516a4e89ec5.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/f1951d95-7761-45d3-8602-c907ce2fd5a4.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/c9187a01-98db-4a7d-a387-63a96329d8bf.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/c9cac7ff-582a-47eb-a6ad-0f72ca4e2c3e.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/e8551886-3757-4973-874a-5269b076da79.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/165/539a28bc-91a7-457c-88ea-185d35d28d7c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Após a armação das hastes, um dos escoteiros\nobservou um inseto deslocar-se sobre elas, partindo do\nvértice A em direção ao vértice B, deste em direção ao\nvértice E e, finalmente, fez o trajeto do vértice E ao C.\nConsidere que todos esses deslocamentos foram feitos\npelo caminho de menor distância entre os pontos.\nA projeção do deslocamento do inseto no plano que\ncontém a base ABCD é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/f1951d95-7761-45d3-8602-c907ce2fd5a4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/c9187a01-98db-4a7d-a387-63a96329d8bf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/c9cac7ff-582a-47eb-a6ad-0f72ca4e2c3e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/e8551886-3757-4973-874a-5269b076da79.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/539a28bc-91a7-457c-88ea-185d35d28d7c.png",
+            "isCorrect": true
+        }
+    ]
+}

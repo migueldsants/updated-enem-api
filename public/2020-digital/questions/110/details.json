@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2020 - Digital",
+    "index": 110,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As populares pilhas zinco-carbono (alcalinas e de Leclanché) são compostas por um\ninvólucro externo de aço (liga de ferro-carbono), um ânodo (zinco metálico), um cátodo\n(grafita) e um eletrólito (MnO2 mais NH4Cl ou KOH), contido em uma massa úmida com\ncarbono chamada pasta eletrolítica. Os processos de reciclagem, geralmente propostos para\nessas pilhas usadas, têm como ponto de partida a moagem (trituração). Na sequência, uma\ndas etapas é a separação do aço, presente no invólucro externo, dos demais componentes.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Que processo aplicado à pilha moída permite obter essa separação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Catação manual",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ação de um eletroímã",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Calcinação em um forno",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fracionamento por densidade",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dissolução do eletrólito em água",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

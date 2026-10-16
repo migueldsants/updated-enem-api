@@ -1,0 +1,47 @@
+{
+    "title": "Questão 173 - ENEM 2013 - Reaplicação",
+    "index": 173,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O proprietário de uma casa de espetáculos observou\nque, colocando o valor da entrada a R$ 10,00, sempre\ncontava com 1 000 pessoas a cada apresentação,\nfaturando R$ 10 000,00 com a venda dos ingressos.\nEntretanto, percebeu também que, a partir de R$ 10,00,\na cada R$ 2,00 que ele aumentava no valor da entrada,\nrecebia para os espetáculos 40 pessoas a menos.\n\nNessas condições, considerando P o número de pessoas\npresentes em um determinado dia e F o faturamento\ncom a venda dos ingressos, a expressão que relaciona o\nfaturamento em função do número de pessoas é dada por:",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/173/d1aa628c-d32b-4265-9b36-94a3a840ab05.png",
+        "https://enem.dev/2013-reaplicacao/questions/173/5dbb17df-e618-4bfd-9f97-dc90d1459190.png",
+        "https://enem.dev/2013-reaplicacao/questions/173/dcc8701a-2750-4f32-b9e0-27a55253d6cc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "− P²",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/173/d1aa628c-d32b-4265-9b36-94a3a840ab05.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/173/5dbb17df-e618-4bfd-9f97-dc90d1459190.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "F = − P² + 1 200 P",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/173/dcc8701a-2750-4f32-b9e0-27a55253d6cc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "F = P² − 1 200 P",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2014 - Reaplicação",
+    "index": 26,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em busca de matérias-primas e de mercados por\ncausa da acelerada industrialização, os europeus\nretalharam entre si a África. Mais do que alegações\neconômicas, havia justificativas políticas, científicas,\nideológicas e até filantrópicas. O rei belga Leopoldo II\ndefendia o trabalho missionário e a civilização dos nativos\ndo Congo, argumento desmascarado pelas atrocidades\npraticadas contra a população.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "NASCIMENTO, C. Partilha da África: o assombro do continente mutilado. Revista de\nHistória da Biblioteca Nacional, ano 7, n. 75, dez. 2011 adaptado .",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atuação dos países europeus contribuiu para que a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tentativa de regulação da atividade comercial com os países africanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "resgate humanitário das populações africanas em situação de extrema pobreza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "domínio sobre os recursos considerados estratégicos para o fortalecimento das nações europeias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "necessidade de expandir as fronteiras culturais da Europa pelo contato com outras civilizações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

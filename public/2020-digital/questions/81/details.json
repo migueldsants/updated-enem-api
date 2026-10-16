@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2020 - Digital",
+    "index": 81,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na primeira bica abasteciam os negros, forros e cativos, os mulatos e os índios; na\nsegunda, os moiros das galés, e os da primeira bica, quando fosse necessário; a terceira e\nquarta estavam reservadas aos homens e moços brancos; na quinta enchiam as mulheres\npretas e na sexta, as mulheres e moças brancas. A quem infringisse esta ordem eram\naplicados severos castigos — açoitamento com baraço e pregão, ao redor do Chafariz, sendo\nde cor; 2 000 réis de multa e três dias de cadeia, sendo branco o prevaricador.\n\nCAETANO, J. O. Chafarizes de Lisboa. Lisboa: Distri, 1991.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A organização dos consumidores nos chafarizes públicos de Lisboa no século XVI, descrita no\ntexto, expressava a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "escassez de recursos hídricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reprodução de distinções sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "prevenção da transmissão de doenças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "obsolescência das técnicas de fornecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ineficiência da cobertura de serviços estatais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

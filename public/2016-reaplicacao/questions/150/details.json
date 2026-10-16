@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2016 - Reaplicação",
+    "index": 150,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O técnico de um time de voleibol registra o número\nde jogadas e de acertos, por atleta, em cada fundamento,\npara verificar os desempenhos dos jogadores. Para que\no time tenha um melhor aproveitamento no fundamento\nbloqueio, ele decide substituir um dos jogadores em\nquadra por um dos que estão no banco de reservas.\nO critério a ser adotado é o de escolher o atleta que,\nno fundamento bloqueio, tenha apresentado o maior\nnúmero de acertos em relação ao número de jogadas de\nque tenha participado. Os registros dos cinco atletas que\nse encontram no banco de reservas, nesse fundamento,\n\n![](https://enem.dev/2016-reaplicacao/questions/150/93b5360c-ebfb-4001-a8e1-be4502211295.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/150/93b5360c-ebfb-4001-a8e1-be4502211295.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual dos atletas do banco de reservas o treinador deve\ncolocar em quadra?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

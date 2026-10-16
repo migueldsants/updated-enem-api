@@ -1,0 +1,49 @@
+{
+    "title": "Questão 160 - ENEM 2020 - Digital",
+    "index": 160,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com base na Lei Universal da Gravitação, proposta por Isaac Newton, o peso de um\nobjeto na superfície de um planeta aproximadamente esférico é diretamente proporcional à\nmassa do planeta e inversamente proporcional ao quadrado do raio desse planeta. A massa\n\ndo planeta Mercúrio é, aproximadamente,\n\naproximadamente, do raio da Terra. Considere um objeto que, na superfície da Terra, tenha\npeso P.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/160/287c41df-7722-42f7-8c5d-5610b2722739.png",
+        "https://enem.dev/2020-digital/questions/160/0d1f0eb0-c069-4622-9057-c0a40434065e.png",
+        "https://enem.dev/2020-digital/questions/160/584b1ea1-e49a-4676-9628-5badaf4fed34.png",
+        "https://enem.dev/2020-digital/questions/160/f86e66f1-a8e8-4cb3-8ad6-e8340283c9c6.png",
+        "https://enem.dev/2020-digital/questions/160/d51176af-abb6-49de-adda-0db063e4f9eb.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O peso desse objeto na superfície de Mercúrio será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/160/287c41df-7722-42f7-8c5d-5610b2722739.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/160/0d1f0eb0-c069-4622-9057-c0a40434065e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/160/584b1ea1-e49a-4676-9628-5badaf4fed34.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/160/f86e66f1-a8e8-4cb3-8ad6-e8340283c9c6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/160/d51176af-abb6-49de-adda-0db063e4f9eb.png",
+            "isCorrect": false
+        }
+    ]
+}

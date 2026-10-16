@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2016 - Reaplicação",
+    "index": 123,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As lutas podem ser classificadas de diferentes\nformas, de acordo com a relação espacial entre os\noponentes. As lutas de contato direto são caracterizadas\npela manutenção do contato direto entre os adversários,\nos quais procuram empurrar, desequilibrar, projetar ou\nimobilizar o oponente. Já as lutas que mantêm o adversário\na distância são caracterizadas pela manutenção de uma\ndistância segura em relação ao adversário, para não ser\natingido pelo oponente, procurando o contato apenas no\nmomento da aplicação de uma técnica (golpe).\n\nSecretaria de Estado da Educação. Diretrizes curriculares de educação física para os anos\nfinais do ensino fundamental e para o ensino médio. Curitiba: SEED, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base na classificação presente no texto, são\nexemplos de luta de contato direto e de luta que mantém\no adversário a distância, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "judô e karatê.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "jiu-jítsu e sumô.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "boxe e kung fu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "esgrima e luta olímpica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Muay Thai e tae kwon do.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

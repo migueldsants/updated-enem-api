@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2016 - Segunda aplicação",
+    "index": 67,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os métodos empregados nas análises químicas\nsão ferramentas importantes para se conhecer a\ncomposição dos diversos materiais presentes no meio\nambiente. É comum, na análise de metais presentes\nem amostras ambientais, como água de rio ou de\nmar, a adição de um ácido mineral forte, normalmente\no ácido nítrico (HNO₃), com a finalidade de impedir a\nprecipitação de compostos pouco solúveis desses\nmetais ao longo do tempo.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na ocorrência de precipitação, o resultado da análise\npode ser subestimado, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ocorreu passagem de parte dos metais para uma fase sólida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "houve volatilização de compostos dos metais para a atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os metais passaram a apresentar comportamento de não metais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "formou-se uma nova fase líquida, imiscível com a solução original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os metais reagiram com as paredes do recipiente que contém a amostra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

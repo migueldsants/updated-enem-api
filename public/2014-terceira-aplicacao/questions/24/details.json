@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2014 - Terceira aplicação",
+    "index": 24,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Tecnocracia e democracia são antitéticas: se o\nprotagonista da sociedade industrial é o especialista,\nimpossível que venha a ser o cidadão qualquer. A democracia\nsustenta-se sobre a hipótese de que todos podem decidir a\nrespeito de tudo. A tecnocracia, ao contrário, pretende que\nsejam convocados para decidir apenas aqueles poucos que\ndetêm conhecimentos específicos.\n\nBOBBIO, N. O futuro da democracia. São Paulo: Paz e Terra, 2000.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na democracia, a participação dos cidadãos nas decisões\ndeve ser a mais ampla possível. De acordo com o texto, o\nexercício pleno da democracia pressupõe",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "que as decisões sejam tomadas a partir de um princípio democrático, ou seja, todos têm o direito de opinar a respeito de tudo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "que aqueles que detêm conhecimento técnico em determinado assunto sejam os únicos a poderem opinar e decidir sobre o mesmo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "que os detentores do conhecimento técnico tenham preferência para decidir, pois a democracia se confunde com a especialização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uma forma de democracia na qual todos podem opinar, mas apenas dentro de sua especialidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a inclusão do conhecimento técnico como critério de julgamento,visto que ele serviria para agilizar o processo de escolha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 149 - ENEM 2016 - Reaplicação",
+    "index": 149,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um ciclista A usou uma bicicleta com rodas com\ndiâmetros medindo 60 cm e percorreu, com ela, 10 km.\nUm ciclista B usou outra bicicleta com rodas cujos\ndiâmetros mediam 40 cm e percorreu, com ela, 5 km.\n\n![](https://enem.dev/2016-reaplicacao/questions/149/b9a94890-08f1-48d5-8098-2afeb3df7ffc.png)\n\nConsidere 3,14 como aproximação para p.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/149/b9a94890-08f1-48d5-8098-2afeb3df7ffc.png",
+        "https://enem.dev/2016-reaplicacao/questions/149/5b0d045a-8f8a-4341-aae1-d128eff8f126.png",
+        "https://enem.dev/2016-reaplicacao/questions/149/eb83e4cd-5f76-48ce-9bdc-348cd2e58c96.png",
+        "https://enem.dev/2016-reaplicacao/questions/149/0e0a0cae-facb-4bfb-b5f9-d00b325856a2.png",
+        "https://enem.dev/2016-reaplicacao/questions/149/5aa0cb16-10a7-4467-a8f0-0c5539adfc7c.png",
+        "https://enem.dev/2016-reaplicacao/questions/149/8352f846-26ba-47a8-9f75-87228d706221.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A relação entre o número de voltas efetuadas pelas rodas\nda bicicleta do ciclista A e o número de voltas efetuadas\npelas rodas da bicicleta do ciclista B é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/149/5b0d045a-8f8a-4341-aae1-d128eff8f126.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/149/eb83e4cd-5f76-48ce-9bdc-348cd2e58c96.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/149/0e0a0cae-facb-4bfb-b5f9-d00b325856a2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/149/5aa0cb16-10a7-4467-a8f0-0c5539adfc7c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/149/8352f846-26ba-47a8-9f75-87228d706221.png",
+            "isCorrect": false
+        }
+    ]
+}

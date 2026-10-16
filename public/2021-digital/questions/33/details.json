@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2021 - Digital",
+    "index": 33,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021-digital/questions/33/c70adff4-ccba-49ae-8c20-0cbd5fc01692.png)\n\nLEMOS, A. Artistas brasileiras. Belo Horizonte: Miguilim, 2018.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/33/c70adff4-ccba-49ae-8c20-0cbd5fc01692.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "função de apresentação do livro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "apelo emocional apoiado nas imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "descrição do processo criativo da autora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "referência à mescla dos trabalhos manual e digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "uso de elementos gráficos voltados para o público-alvo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

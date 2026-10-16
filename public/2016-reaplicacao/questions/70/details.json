@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2016 - Reaplicação",
+    "index": 70,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A telefonia móvel no Brasil opera com celulares\ncuja potência média de radiação é cerca de 0,6 W. Por\nrecomendação do ANSI/IEEE, foram estipulados limites\npara exposição humana à radiação emitida por esses\naparelhos. Para o atendimento dessa recomendação,\nvalem os conselhos: segurar o aparelho a uma pequena\ndistância do ouvido, usar fones de ouvido para as\nchamadas de voz e utilizar o aparelho no modo viva voz\nou com dispositivos bluetooth. Essas medidas baseiam-se\nno fato de que a intensidade da radiação emitida decai\nrapidamente conforme a distância aumenta, por isso,\nafastar o aparelho reduz riscos.\n\nCOSTA, E. A. F. Efeitos na saúde humana da exposição aos campos de radiofrequência.\n\nDisponível em: www.ced.ufsc.br. Acesso em: 16 nov. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para reduzir a exposição à radiação do celular de forma\nmais eficiente, o usuário deve utlizar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fones de ouvido, com o aparelho na mão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fones de ouvido, com o aparelho no bolso da calça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fones bluetooth, com o aparelho no bolso da camisa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o aparelho mantido a 1,5 cm do ouvido, segurado pela mão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o sistema viva voz, com o aparelho apoiado numa mesa de trabalho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

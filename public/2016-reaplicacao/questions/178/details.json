@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2016 - Reaplicação",
+    "index": 178,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um campeonato de futebol, a vitória vale 3 pontos, o\nempate 1 ponto e a derrota zero ponto. Ganha o campeonato\no time que tiver maior número de pontos. Em caso de empate\nno total de pontos, os times são declarados vencedores.\n\nOs times R e S são os únicos com chance de ganhar\no campeonato, pois ambos possuem 68 pontos e estão\nmuito à frente dos outros times. No entanto, R e S não se\nenfrentarão na rodada final.\n\nOs especialistas em futebol arriscam as seguintes\nprobabilidades para os jogos da última rodada:",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "• R tem 80% de chance de ganhar e 15% de empatar;\n• S tem 40% de chance de ganhar e 20% de empatar.\nSegundo as informações dos especialistas em futebol,\nqual é a probabilidade de o time R ser o único vencedor\ndo campeonato?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "32%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "38%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "48%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "54%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "57%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

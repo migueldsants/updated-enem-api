@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2020 - Digital",
+    "index": 27,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/27/acf47d7c-62a6-4bf2-a506-fcb738de96ce.png)\n\nDisponível em: www.folhavitoria.com.br. Acesso em: 11 dez. 2017.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/27/acf47d7c-62a6-4bf2-a506-fcb738de96ce.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O uso inusitado do jogo de caça-palavras nessa publicidade de um mercado hortifrúti leva à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alusão a hábitos alimentares saudáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inclusão de carne em uma dieta alternativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "construção de uma lista de compras lúdica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ênfase na carne para uma alimentação balanceada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "quebra de expectativa em relação aos itens de um hortifrúti.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

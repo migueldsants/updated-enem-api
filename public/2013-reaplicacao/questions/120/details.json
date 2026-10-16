@@ -1,0 +1,45 @@
+{
+    "title": "Questão 120 - ENEM 2013 - Reaplicação",
+    "index": 120,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "História da máquina que faz o mundo rodar\n\nCego, aleijado e moleque,\nPadre, doutor e soldado,\n\n![](https://enem.dev/2013-reaplicacao/questions/120/96e105a5-fae9-4c38-bb49-4e86c3a254bb.png)\n\nInspetor, juiz de direito,\nComandante e delegado,\nTudo, tudo joga o dinheiro\nEsperando bom resultado.\n\nMatuto, senhor de engenho,\nPraciano e mandioqueiro,\nDo agreste ao sertão\nTodos jogam seu dinheiro\nSe um diz que é mentiroso\nOutro diz que é verdadeiro.\n\nNa opinião do povo\nNão tem quem possa mandar\nFaça ou não faça a máquina\nO povo tem que esperar\nPor que quem joga dinheiro\nSó espera mesmo é ganhar.\n\nAssim é que muitos pensam\nQue no abismo não cai\nQue quem não for no Juazeiro\nDepois de morto ainda vai,\nAssim também é crença\nQue a dita máquina sai.\n\nQuando um diz: ele não faz,\nJá outro fica zangado\nDizendo: assim como Cristo\nMorreu e foi ressuscitado\nEle também faz a máquina\nE seu dinheiro é lucrado.\n\nCRUZ, A. F. Disponível em: www.jangadabrasil.org. Acesso em: 5 ago. 2012 (fragmento).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/120/96e105a5-fae9-4c38-bb49-4e86c3a254bb.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No fragmento, as escolhas lexicais remetem às\norigens geográficas e sociais da literatura de cordel.\nExemplifica essa remissão o uso de palavras como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cego, aleijado, moleque, soldado, juiz de direito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "agreste, sertão, Juazeiro, matuto, senhor de engenho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "comandante, delegado, dinheiro, resultado, praciano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mentiroso, verdadeiro, joga, ganhar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "morto, crença, zangado, Cristo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

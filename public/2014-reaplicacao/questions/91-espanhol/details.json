@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2014 - Reaplicação",
+    "index": 91,
+    "year": 2014,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "El candombe es participación\nBastaría nombrar al tambor en nuestro país, y ya\nestaría implícita la referencia al candombe, patrimonio\ncultural uruguayo y, desde setiembre del 2009,\nPatrimonio Inmaterial de la Humanidad, reconocido por\nlas Naciones Unidas para la Educación, la Ciencia y la\nCultura — Unesco. Proceso que se remonta a la época\ncolonial, cuando era tenido como un mero baile de negros\nesclavos, ruidoso y obsceno, definición que toman incluso\nalgunos diccionarios antiguos y no tanto, viéndolo como\ndivertimento de pésima categoría por su procedencia\nracial. Esto fue cambiando merced al combate sin tregua\na los prejuicios, siempre en crecimiento su aceptación por\nel conjunto de la sociedad, hasta llegar a nuestros días,\ncuando el Gobierno progresista en el 2006 promovió la\nley 18059, consagrando los 3 de diciembre como Día del\nCandombe, la Cultura Afrouruguaya y la Equidad Racial,\nque en su artículo 5to y final dice: “Declárese patrimonio\ncultural de la República Oriental del Uruguay al candombe,\ncaracterizado por el toque de los tambores denominados\nchico, repique y piano, su danza y canto, creado por los\nafrouruguayos a partir del legado ancestral africano, sus\norígenes rituales y su contexto social como comunidad.”\n\nANDRADE, S. Disponível em: http://alainet.org. Acesso em: 22 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O status atual do candombe, resultante de um conjunto\nde mudanças ocorridas no país, contrasta com um\npassado marcado por preconceitos. Segundo o texto,\nesse status se deve à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "definição dada por dicionários atuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "receptividade crescente pela sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "crítica às festas barulhentas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conservação da herança africana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "visão da dança como obscena.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

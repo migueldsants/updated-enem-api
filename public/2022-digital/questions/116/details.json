@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2022 - Digital",
+    "index": 116,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante o ano de 2020, impulsionado pela necessidade de respostas rápidas e\neficientes para desinfectar ambientes de possíveis contaminações com o SARS-CoV-2,\ncausador da covid-19, diversas alternativas foram buscadas para os procedimentos de\ndescontaminação de materiais e ambientes. Entre elas, o uso de ozônio em meio aquoso\ncomo agente sanitizante para pulverização em humanos e equipamentos de proteção em\ncâmaras ou túneis, higienização de automóveis e de ambientes fechados e\ndescontaminação de trajes. No entanto, pouca atenção foi dada à toxicidade do ozônio, à\nformação de subprodutos, ao nível de concentração segura e às precauções necessárias.\n\nLIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na indústria, ambiente e saúde.\nQuímica Nova, n. 9, 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua\nação química como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "catalisador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "oxidante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "redutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "base.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

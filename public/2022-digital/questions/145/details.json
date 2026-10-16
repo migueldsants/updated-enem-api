@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2022 - Digital",
+    "index": 145,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na\nintegração e no processo de escoamento da produção agrícola de duas cidades.\nO projeto consiste na interligação direta das cidades A e B com a Rodovia 003, pela\nconstrução das Rodovias 001 e 002. As duas rodovias serão construídas em linha reta e\ndeverão se conectar à Rodovia 003 em um mesmo ponto, conforme esboço apresentado\nna figura, na qual estão também indicadas as posições das cidades A e B, considerando\no eixo x posicionado sobre a Rodovia 003, e cinco localizações sugeridas para o ponto de\nconexão entre as três rodovias.\n\ny (km)\n\n![](https://enem.dev/2022-digital/questions/145/c806cf11-05d2-47f3-9594-857860f5121d.png)\n\n0 5 10 15 20 25 30 35 40 45 50 55 x (km)\n\nPretende-se que a distância percorrida entre as duas cidades, pelas\nRodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/145/c806cf11-05d2-47f3-9594-857860f5121d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida\npara o ponto de conexão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

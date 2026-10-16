@@ -1,0 +1,49 @@
+{
+    "title": "Questão 150 - ENEM 2016 - Segunda aplicação",
+    "index": 150,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa farmacêutica fez um estudo da\neficácia (em porcentagem) de um medicamento durante\n12 h de tratamento em um paciente. O medicamento foi\nadministrado em duas doses, com espaçamento de 6 h\nentre elas. Assim que foi administrada a primeira dose,\na eficácia do remédio cresceu linearmente durante 1 h,\naté atingir a máxima eficácia (100%), e permaneceu em\nmáxima eficácia durante 2 h. Após essas 2 h em que a\neficácia foi máxima, ela passou a diminuir linearmente,\natingindo 20% de eficácia ao completar as 6 h iniciais\nde análise. Nesse momento, foi administrada a segunda\ndose, que passou a aumentar linearmente, atingindo a\nmáxima eficácia após 0,5 h e permanecendo em 100%\npor 3,5 h. Nas horas restantes da análise, a eficácia\ndecresceu linearmente, atingindo ao final do tratamento\n50% de eficácia.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/150/552ca186-a653-4418-b6fd-67c6e26f995a.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/150/16f56dda-b8f4-4d51-8ccd-c19c183aa02a.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/150/1d4b5842-bbb4-4bff-b508-606839e3c8f5.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/150/0ce0734d-2865-483b-ac2a-34eed676b808.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/150/96f8e6f1-2c26-4b8b-9879-d985c11d27a5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando as grandezas tempo (em hora), no\neixo das abscissas; e eficácia do medicamento (em\nporcentagem), no eixo das ordenadas, qual é o gráfico\nque representa tal estudo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/552ca186-a653-4418-b6fd-67c6e26f995a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/16f56dda-b8f4-4d51-8ccd-c19c183aa02a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/1d4b5842-bbb4-4bff-b508-606839e3c8f5.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/0ce0734d-2865-483b-ac2a-34eed676b808.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/96f8e6f1-2c26-4b8b-9879-d985c11d27a5.png",
+            "isCorrect": false
+        }
+    ]
+}

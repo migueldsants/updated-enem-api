@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2016 - Segunda aplicação",
+    "index": 36,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As convicções religiosas dos escravos eram\nentretanto colocadas a duras provas quando de\nsua chegada ao Novo Mundo, onde eram batizados\nobrigatoriamente “para a salvação de sua alma” e\ndeviam curvar-se às doutrinas religiosas de seus\nmestres. Iemanjá, mãe de numerosos outros orixás,\nfoi sincretizada com Nossa Senhora da Conceição, e\nNanã Buruku, a mais idosa das divindades das águas,\nfoi comparada a Sant’Ana, mãe da Virgem Maria.\n\nVERGER, P. Orixás: deuses iorubás na África e no Novo Mundo. São Paulo: Corrupio, 1981.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O sincretismo religioso no Brasil colônia foi uma estratégia\nutilizada pelos negros escravizados para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "compreender o papel do sagrado para a cultura europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "garantir a aceitação pelas comunidades dos convertidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "preservar as crenças e a sua relação com o sagrado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "integrar as distintas culturas no Novo Mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "possibilitar a adoração de santos católicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 6,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa crônica, os impactos do desenvolvimento tecnológico na vida das pessoas estão demonstrados pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "potencial restrito da memória humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "interação conflituosa na família moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "substituição rápida dos aparelhos eletrônicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "etarismo resultante da rapidez do fluxo informacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "descontentamento com o excesso de recursos digitais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

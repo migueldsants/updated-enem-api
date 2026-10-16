@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2014 - Terceira aplicação",
+    "index": 57,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A radioterapia é um método capaz de destruir\ncélulas tumorais, empregando feixe de radiações\nionizantes. Uma dose pré-calculada de radiação é\naplicada, buscando destruir as células tumorais, com o\nmenor dano possível às células normais circunvizinhas.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "resposta dos tecidos às radiações depende de",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "basofilia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "eosinofilia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "linfocitose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "leucopenia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

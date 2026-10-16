@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2015 - Reaplicação",
+    "index": 170,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na imagem, a personagem Mafalda mede a\ncircunferência do globo que representa o planeta Terra.\n\n![](https://enem.dev/2015-reaplicacao/questions/170/c633378f-0977-4db3-ba1f-11ebd27b6258.png)\n\nEm uma aula de matemática, o professor considera\nque a medida encontrada por Mafalda, referente à maior\ncircunferência do globo, foi de 80 cm. Além disso, informa\nque a medida real da maior circunferência da Terra, a\nlinha do Equador, é de aproximadamente 40 000 km.\n\nQUINO. Toda Mafalda. São Paulo: Martins Fontes, 2008 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/170/c633378f-0977-4db3-ba1f-11ebd27b6258.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A circunferência da linha do Equador é quantas vezes\nmaior do que a medida encontrada por Mafalda?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "500 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 000 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 000 000",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

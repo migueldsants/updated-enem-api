@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 81,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "teXto I\n\nA diferença entre um e outro homem não é suficientemente\nconsiderável para que qualquer um possa com base nela\nreclamar qualquer benefício a que o outro não possa também\naspirar, tal como ele. Portanto, se dois homens desejam a mesma\ncoisa, ao mesmo tempo em que é impossível ela ser gozada por\nambos, eles tornam-se inimigos.\n\nHOBBES, T. Leviatã. São Paulo: Abril, 1980.\n\nteXto II\n\nNada é mais meigo do que o homem em seu estado\nprimitivo, quando, colocado pela natureza entre a estupidez\ndos brutos e as luzes funestas do homem civil, e compelido\ntanto pelo instinto quanto pela razão a defender-se do mal\nque o ameaça, é impedido pela piedade natural de fazer\nmal a alguém sem ser a isso levado por alguma coisa ou mesmo\ndepois de atingido por algum mal.\n\nROUSSEAU, J.-J. Discurso sobre a origem e os fundamentos da\ndesigualdade entre os homens. São Paulo: Abril, 1978.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Comparando-se os textos dos contratualistas, verifica-se que\neles apresentam um traço constitutivo dos homens no estado\nde natureza, caracterizado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tendência à autopreservação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "expressão da inocência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "condição de igualdade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "estima à propriedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vontade de poder.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

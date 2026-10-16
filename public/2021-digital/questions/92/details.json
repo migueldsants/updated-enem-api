@@ -1,0 +1,46 @@
+{
+    "title": "Questão 92 - ENEM 2021 - Digital",
+    "index": 92,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem\ncomo a faixa de força eletromotriz necessária ao seu funcionamento.\n\n![](https://enem.dev/2021-digital/questions/92/ac66b5e8-1169-4786-8e7d-f1d49b043c0b.png)\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de\nlítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\n![](https://enem.dev/2021-digital/questions/92/124c9a0d-a7b4-4632-a034-1ffdfe092020.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/92/ac66b5e8-1169-4786-8e7d-f1d49b043c0b.png",
+        "https://enem.dev/2021-digital/questions/92/124c9a0d-a7b4-4632-a034-1ffdfe092020.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

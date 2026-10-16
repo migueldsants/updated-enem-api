@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2016 - Reaplicação",
+    "index": 35,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Enfermo a 14 de novembro, na segunda-feira o velho\nLima voltou ao trabalho, ignorando que no entretempo\ncaíra o regime. Sentou-se e viu que tinham tirado da\nparede a velha litografia representando D. Pedro de\nAlcântara. Como na ocasião passasse um contínuo,\nperguntou-lhe:\n\n— Por que tiraram da parede o retrato de Sua\nMajestade?\n\nO contínuo respondeu, num tom lentamente\ndesdenhoso:\n\n— Ora, cidadão, que fazia ali a figura do Pedro\nBanana?\n\n— Pedro Banana! — repetiu raivoso o velho Lima.\n\nE, sentando-se, pensou com tristeza:\n\n— Não dou três anos para que isso seja uma\nRepública!\n\nAZEVEDO, A. Vidas alheias. Porto Alegre: s.e, 1901 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A crônica de Artur Azevedo, retratando os dias imediatos\nà instauração da República no Brasil, refere-se ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ausência de participação popular no processo de queda da Monarquia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "tensão social envolvida no processo de instauração do novo regime.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mobilização de setores sociais na restauração do antigo regime.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "temor dos setores burocráticos com o novo regime.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "demora na consolidação do novo regime.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

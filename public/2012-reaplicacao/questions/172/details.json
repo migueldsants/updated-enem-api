@@ -1,0 +1,46 @@
+{
+    "title": "Questão 172 - ENEM 2012 - Reaplicação",
+    "index": 172,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma das paredes de um depósito existem\ncompartimentos de mesmo tamanho para armazenamento\nde caixas de dimensões frontais a e b. A terceira dimensão\nda caixa coincide com a profundidade de cada um dos\ncompartimentos. Inicialmente as caixas são arrumadas,\nem cada um deles, como representado na Figura 1.\nA fim de aproveitar melhor o espaço, uma nova proposta\nde disposição das caixas foi idealizada e está indicada\nna Figura 2. Essa nova proposta possibilitaria o aumento\ndo número de caixas armazenadas de 10 para 12 e a\neliminação de folgas.\n\n2 cm\n\n![](https://enem.dev/2012-reaplicacao/questions/172/a287ef98-38fe-4dd2-8a26-23a4d2bf2578.png)\n\nb\n\n2 cm a 3 cm\n\nFigura 1\n\n![](https://enem.dev/2012-reaplicacao/questions/172/262d71a4-9327-464e-b895-9ee6f5c39a06.png)\n\nb\nFigura 2",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/172/a287ef98-38fe-4dd2-8a26-23a4d2bf2578.png",
+        "https://enem.dev/2012-reaplicacao/questions/172/262d71a4-9327-464e-b895-9ee6f5c39a06.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É possível ocorrer a troca de arrumação segundo a\nnova proposta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Não, porque a segunda proposta deixa uma folga de 4 cm na altura do compartimento, que é de 12 cm, o que permitiria colocar um número maior de caixas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Não, porque, para aceitar a segunda proposta, seria necessário praticamente dobrar a altura e reduzir à metade a largura do compartimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sim, porque a nova disposição das caixas ficaria acomodada perfeitamente no compartimento de 20 cm de altura por 27 cm de largura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sim, pois efetivamente aumentaria o número de caixas e reduziria o número de folgas para apenas uma de 2 cm na largura do compartimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sim, porque a nova disposição de caixas ficaria acomodada perfeitamente no compartimento de 32 cm de altura por 45 cm de largura.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

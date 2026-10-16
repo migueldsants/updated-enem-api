@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2021 - Digital",
+    "index": 7,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A draga\n\nA gente não sabia se aquela draga tinha nascido ali, no Porto, como um pé de árvore ou\numa duna.\n— E que fosse uma casa de peixes?\nMeia dúzia de loucos e bêbados moravam dentro dela, enraizados em suas ferragens.\nDos viventes da draga era um o meu amigo Mário-pega-sapo.\n[...]\nQuando Mário morreu, um literato oficial, em necrológio caprichado, chamou-o de Mário-\n-Captura-Sapo! Ai que dor!\nAo literato cujo fazia-lhe nojo a forma coloquial.\nQueria captura em vez de pega para não macular (sic) a língua nacional lá dele…\n[...]\nDa velha draga\nAbrigo de vagabundos e de bêbados, restaram as expressões: estar na draga, viver na\ndraga por estar sem dinheiro, viver na miséria\nQue ora ofereço ao filólogo Aurélio Buarque de Hollanda\nPara que as registre em seus léxicos\nPois que o povo já as registrou.\n\nBARROS, M. Gramática expositiva do chão: poesia quase toda. Rio de Janeiro:\nCivilização Brasileira, 1990 (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao criticar o preciosismo linguístico do literato e ao sugerir a dicionarização de\nexpressões locais, o poeta expressa uma concepção de língua que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contrapõe características da escrita e da fala.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ironiza a comunicação fora da norma-padrão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "substitui regionalismos por registros formais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "valoriza o uso de variedades populares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "defende novas regras gramaticais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

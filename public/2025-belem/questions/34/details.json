@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 34,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "PODER JUDICIÁRIO\nTRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA\nVARA CRIMINAL DA COMARCA DE SENHOR DO BONFIM\n“DECIDAM”\nNo embalo da emoção\nSanfoneiros pedem aquela sanfona velha\nQue um dia já foi bela\nHoje ela é castigada, afastada da canção\nCondenada a viver gelada\nNo banheiro da prisão\n\nE o sanfoneiro engaiolado\nSem a voz, os dedos e o pulmão\nDistante da sanfona velha\nSeu maior bem de estimação\nEspera que o Juiz diga qual o querelado\nQue levará a sanfona do povo junto ao seu coração\n[…]\n\nNilvado, o direito é seu, como fiel depositário\nVisto o seu opositor não ter provado o contrário\nAté que se finde a contenda\nDelegado me atenda\nComo da outra vez foi buscar\nA bela sanfona do povo, vá agora entregar\n\nE para finalizar\nHei por bem declarar\nQue fui competente para buscar\nSou também para entregar\nCumpra-se, sem titubear!\n\nSenhor do Bonfim, 23 de março de 2018.\nJUIZ DE DIREITO\n\nDisponível em: www.migalhas.com.br.\nAcesso em: 10 jan. 2025 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse texto subverte um gênero ao apresentar, na forma de um\npoema, um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "relato pessoal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sentença judicial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "pedido de doação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mandado de prisão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "notificação de entrega.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

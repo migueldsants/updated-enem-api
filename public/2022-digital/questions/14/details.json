@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2022 - Digital",
+    "index": 14,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nA língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada,\nela é que classifica a realidade. No léxico, percebe-se, de maneira mais imediata, o fato\nde que a língua condensa as experiências de um dado povo.\n\nFIORIN, J. L. Língua, modernidade e tradição. Diversitas, n. 2, mar.-set. 2014.\n\nTEXTO II\n\nAs expressões coloquiais ainda estão impregnadas de discriminação contra os\nnegros. Basta recordar algumas delas, como passar um “dia negro”, ter um “lado negro”,\nser a “ovelha negra” da família ou praticar “magia negra”.\n\nDisponível em: https://brasil.elpais.com. Acesso em: 22 maio 2018.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O Texto II exemplifica o que se afirma no Texto I, na medida em que defende a ideia de\nque as escolhas lexicais são resultantes de um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expediente próprio do sistema linguístico que nos apresenta diferentes",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ato inventivo de nomear novas realidades que surgem diante de uma comunidade",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mecanismo de apropriação de formas linguísticas que estão no acervo da",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "processo de incorporação de preconceitos que são recorrentes na história de uma",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "recurso de expressão marcado pela objetividade que se requer na comunicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

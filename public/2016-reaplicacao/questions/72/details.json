@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2016 - Reaplicação",
+    "index": 72,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/72/b03abe8d-124b-414e-97e0-c027840df52e.png)\n\nDisponível em: http://angelobranco.blogspot.com.br. Acesso em: 4 maio 2013.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/72/b03abe8d-124b-414e-97e0-c027840df52e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na tirinha, o processo mencionado pelo molusco está relacionado a um mecanismo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "defesa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "excreção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "circulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "locomoção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reprodução.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

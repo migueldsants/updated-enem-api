@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 102,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A história evolutiva do grupo ao qual pertence a planta\ncomigo-ninguém-pode (Dieffenbachia spp.) remonta seu\nestabelecimento há aproximadamente 40 milhões de anos.\nEssas plantas podem produzir intoxicações sérias em adultos e\nmorte de crianças e animais domésticos, pois em seus tecidos\napresentam células que contêm “pequenas agulhas” de oxalato\nde cálcio, chamadas de ráfides, liberadas quando as células são\nde alguma forma danificadas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A hipótese aceita é a de que a presença dessas estruturas teria\nocorrido a partir da pressão seletiva exercida por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alterações na temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "animais domésticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "insetos herbívoros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "alterações no solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "seres humanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

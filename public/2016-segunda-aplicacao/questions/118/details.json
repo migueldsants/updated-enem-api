@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2016 - Segunda aplicação",
+    "index": 118,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Adoçante\nQuatro gotas do produto contêm 0,04 kcal e equivalem\nao poder adoçante de 1 colher (de chá) de açúcar.\n\nIngredientes — água, sorbitol, edulcorantes (sucralose\ne acesulfame de potássio); conservadores: benzoato de\nsódio e ácido benzoico, acidulante ácido cítrico e regulador\nde acidez citrato de sódio.\n\nNão contém glúten.\nInformação nutricional — porção de 0,12 mL (4 gotas).\nNão contém quantidade significativa de carboidratos,\nproteínas, gorduras totais, gorduras trans, fibra alimentar\ne sódio.\n\nConsumir preferencialmente sob orientação de\nnutricionista ou médico.\n\nCosmed Indústria de Cosméticos e Medicamentos S/A. Barueri, SP.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse texto, rótulo de um adoçante, tem como objetivo\ntransmitir ao leitor informações sobre a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "composição nutricional do produto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "necessidade de consultar um especialista antes do uso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "medida exata de cada ingrediente que compõe a fórmula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "quantidade do produto que deve ser consumida diariamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "correspondência calórica existente entre o adoçante e o açúcar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

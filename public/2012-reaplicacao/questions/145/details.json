@@ -1,0 +1,46 @@
+{
+    "title": "Questão 145 - ENEM 2012 - Reaplicação",
+    "index": 145,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/145/bbcb0b80-050d-410a-aed6-fa003a2c5aec.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/145/bbcb0b80-050d-410a-aed6-fa003a2c5aec.png",
+        "https://enem.dev/2012-reaplicacao/questions/145/3b90e317-c00a-4f96-a01c-2d893c7e0f06.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 9 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 7 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 4 250,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R$ 3 750,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/145/3b90e317-c00a-4f96-a01c-2d893c7e0f06.png",
+            "isCorrect": false
+        }
+    ]
+}

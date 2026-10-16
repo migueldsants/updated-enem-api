@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2020 - Digital",
+    "index": 118,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As células fotovoltaicas (placas semicondutoras compostas de silício) são os\ncomponentes principais dos painéis solares e são capazes de converter, com certa eficiência,\nparte da energia dos raios solares em energia elétrica. Essa conversão é causada pelo\nfenômeno físico denominado “efeito fotoelétrico”, que pode ocorrer em uma variedade de\nmateriais, incluindo metais e semicondutores.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na superfície dos metais, a sequência de eventos que caracteriza esse efeito, de forma\nsimplificada, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "absorção de fótons e a emissão de elétrons.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "absorção de elétrons e a emissão de fótons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "emissão de fótons e a absorção de elétrons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "absorção e a emissão de elétrons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "absorção e a emissão de fótons.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

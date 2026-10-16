@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2016 - Reaplicação",
+    "index": 125,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O adolescente\nA vida é tão bela que chega a dar medo.\nNão o medo que paralisa e gela,\nestátua súbita,\nmas\nesse medo fascinante e fremente de curiosidade\n[que faz\no jovem felino seguir para frente farejando o vento\nao sair, a primeira vez, da gruta.\nMedo que ofusca: luz!\nCumplicentemente,\nas folhas contam-te um segredo\nvelho como o mundo:\nAdolescente, olha! A vida é nova...\nA vida é nova e anda nua\n– vestida apenas com o teu desejo!\n\nQUINTANA, M. Nariz de vidro. São Paulo: Moderna, 1998.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao abordar uma etapa do desenvolvimento humano, o\npoema mobiliza diferentes estratégias de composição.\nO principal recurso expressivo empregado para a\nconstrução de uma imagem da adolescência é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hipérbole do medo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "metáfora da estátua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "personificação da vida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "antítese entre juventude e velhice.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comparação entre desejo e nudez.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

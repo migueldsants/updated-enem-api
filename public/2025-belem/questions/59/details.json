@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 59,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O catolicismo vivido nos trópicos desenharia uma trajetória\nsingular. A convivência com os mitos indígenas, os deuses\nafricanos e as crenças dos degredados do reino, acusados de\nfeitiçaria, judaísmo e apostasias de variegado tipo, promoveu\na migração de costumes, símbolos e mitos de uma religião a\noutra. O culto aos santos, em particular, o culto a São Jorge,\ndeu asas a toda sorte de identificações, associações e inversões.\n\nSANTOS, G. S. São Jorge: da Casa de Avis às casas de santo. Revista Atlântica\nde Cultura Ibero-Americana, n. 3, out. 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Diversos elementos da Igreja Católica foram reinterpretados,\nconforme indicado no texto, o que representa a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "interrupção de práticas devocionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "efetivação do sincretismo religioso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "absorção de culturas agnósticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "incorporação de dogmas animistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "compreensão da divindade unificada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2022 - Digital",
+    "index": 159,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cada número que identifica uma agência bancária tem quatro dígitos: N , N , N , N₁₂₃₄\nmais um dígito verificador N .₅\n\n![](https://enem.dev/2022-digital/questions/159/78b38d93-a5de-49bf-b649-d723657664d1.png)\n\nTodos esses dígitos são números naturais pertencentes ao conjunto\n{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N , primeiramente multiplica-se₅\nordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2,\nrespectivamente, somam-se os resultados e obtém-se S = 5 N₁ + 4 N₂ + 3 N₃ + 2 N .₄\n\nPosteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse\nresto. Dessa forma, N₅ é a diferença 11 − R.\n\nConsidere o número de uma agência bancária cujos quatro primeiros dígitos\nsão 0100.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/159/78b38d93-a5de-49bf-b649-d723657664d1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o dígito verificador N₅ dessa agência bancária?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

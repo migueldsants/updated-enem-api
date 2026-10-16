@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2016 - Reaplicação",
+    "index": 157,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um semáforo é composto, geralmente, de três\ncírculos de luzes coloridas (vermelho, amarelo e verde).\nA cor vermelha indica que o veículo deve estar parado e\npermanecer assim até que a cor verde volte a acender.\n\nO gráfico apresenta a variação de velocidade de um\ncarro ao longo de um percurso de 15 minutos de duração,\nda residência de uma pessoa até seu local de trabalho.\nDurante esse percurso, o carro parou somente nos\nsemáforos existentes ao longo de seu trajeto.\n\nV (km/h)\n\n![](https://enem.dev/2016-reaplicacao/questions/157/01f0dbd4-4546-4b57-a328-009aa6be265e.png)\n\n15t (min)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/157/01f0dbd4-4546-4b57-a328-009aa6be265e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em quantos semáforos ele parou?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2020 - Digital",
+    "index": 1,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/1-ingles/28cc3657-e999-4d8d-85a0-b20e01afec97.png)\n\nGOAL\n\nGOAL has worked to improve access to food for highly vulnerable and food-insecure\nhouseholds in many districts of Zimbabwe. We identify such households, supply them with\nmonthly food rations, and conduct monthly post-distribution monitoring. GOAL works in the\nsame districts, to improve access to food for the most vulnerable primary school children during\nthe peak hungry months. The emphasis is on orphans and vulnerable children. GOAL provides\nshort-term food security support to other vulnerable households by increasing the availability of\ngrain, and by helping enhance their ability to meet basic needs.\n\nDisponível em: www.goal.ie. Acesso em: 5 dez. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/1-ingles/28cc3657-e999-4d8d-85a0-b20e01afec97.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Tendo como público-alvo crianças órfãs e em situações de vulnerabilidade, a organização não\ngovernamental GOAL tem atuado no Zimbábue para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "incentivar a agricultura orgânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "intermediar processos de adoção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contribuir para a redução da fome.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "melhorar as condições de habitação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "qualificar professores da escola básica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

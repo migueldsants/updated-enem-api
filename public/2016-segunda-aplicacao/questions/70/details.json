@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2016 - Segunda aplicação",
+    "index": 70,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O motor de combustão interna, utilizado no transporte\nde pessoas e cargas, é uma máquina térmica cujo ciclo\nconsiste em quatro etapas: admissão, compressão,\nexplosão/expansão e escape. Essas etapas estão\nrepresentadas no diagrama da pressão em função do\nvolume. Nos motores a gasolina, a mistura ar/combustível\nentra em combustão por uma centelha elétrica.\n\nP D\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/70/95e32ebf-7e5b-4e61-81af-6c265cb90ceb.png)\n\nC\n\nE\n\nA B\n\nV",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/70/95e32ebf-7e5b-4e61-81af-6c265cb90ceb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para o motor descrito, em qual ponto do ciclo é produzida\na centelha elétrica?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

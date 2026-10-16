@@ -1,0 +1,47 @@
+{
+    "title": "Questão 116 - ENEM 2013 - Reaplicação",
+    "index": 116,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Informações ao paciente — Nimesulida\n\nAção esperada do medicamento: Nimesulida\npossui propriedades anti-inflamatórias, analgésicas e\nantipiréticas.\n\nCuidados de armazenamento: Nimesulida gotas deve\nser conservado em temperatura ambiente (entre 15 e 30 ºC),\nprotegido da luz.\n\nGravidez e lactação: Informe a seu médico a\nocorrência de gravidez durante o tratamento ou após o\nseu término. Informe ao médico se está amamentando.\nO uso de Nimesulida não é recomendado para gestantes\ne mulheres em fase de amamentação.\n\n![](https://enem.dev/2013-reaplicacao/questions/116/af4056a3-3335-4488-9bdd-37cc39406a18.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/116/4f41cb39-dab6-41fd-8924-8cd301d53688.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/116/3df49551-e2db-43dc-9c2a-a3dbc527856b.png)\n\nTODO MEDICAMENTO DEVE SER MANTIDO FORA\nDO ALCANCE DAS CRIANÇAS.\n\nDisponível em: www.bulas.med.br. Acesso em: 3 ago. 2012 (fragmento).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/116/af4056a3-3335-4488-9bdd-37cc39406a18.png",
+        "https://enem.dev/2013-reaplicacao/questions/116/4f41cb39-dab6-41fd-8924-8cd301d53688.png",
+        "https://enem.dev/2013-reaplicacao/questions/116/3df49551-e2db-43dc-9c2a-a3dbc527856b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O fragmento de bula apresenta informações ao paciente\nsobre as propriedades do medicamento e sobre o modo\nadequado de administrá-lo. Pela leitura desse texto,\no paciente obtém a informação de que o medicamento\ndeve ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mantido dentro da geladeira, preferencialmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ingerido num intervalo de seis em seis horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "administrado em horários específicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "tomado por pelo menos uma semana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "utilizado somente por adultos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

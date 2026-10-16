@@ -1,0 +1,46 @@
+{
+    "title": "Questão 92 - ENEM 2016 - Reaplicação",
+    "index": 92,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/92-espanhol/20517e68-eba5-4782-b695-a4f4ea05d916.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/92-espanhol/3efe55f8-3983-4d34-bd44-563676800fda.png)\n\nLÓPEZ, A. Pescado. Disponível em: http://blogs.publico.es. Acesso em: 25 ago. 2014.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/92-espanhol/20517e68-eba5-4782-b695-a4f4ea05d916.png",
+        "https://enem.dev/2016-reaplicacao/questions/92-espanhol/3efe55f8-3983-4d34-bd44-563676800fda.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa charge tem a função de denunciar ironicamente o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "rebeldia dos filhos em relação à alimentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contaminação dos alimentos ingeridos pela sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "inadequação dos hábitos alimentares da sociedade atual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "autoritarismo das mães na escolha da alimentação dos filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "falta de habilidade da mulher moderna no preparo das refeições.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

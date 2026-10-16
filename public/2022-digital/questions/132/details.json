@@ -1,0 +1,46 @@
+{
+    "title": "Questão 132 - ENEM 2022 - Digital",
+    "index": 132,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O eixo de rotação da Terra apresenta uma inclinação em relação ao plano de sua\nórbita em torno do Sol, interferindo na duração do dia e da noite ao longo do ano.\n\n![](https://enem.dev/2022-digital/questions/132/47db121d-3f8d-4403-b838-3944debe34e3.png)\n\nUma pessoa instala em sua residência uma placa fotovoltaica, que transforma\nenergia solar em elétrica. Ela monitora a energia total produzida por essa placa em 4 dias\ndo ano, ensolarados e sem nuvens, e lança os resultados no gráfico.\n\nEnergia\n\n![](https://enem.dev/2022-digital/questions/132/3ba52add-3162-4826-9c51-90cf54ac4b6c.png)\n\n10/01 10/04 10/07 10/10 Dia\n\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/132/47db121d-3f8d-4403-b838-3944debe34e3.png",
+        "https://enem.dev/2022-digital/questions/132/3ba52add-3162-4826-9c51-90cf54ac4b6c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Próximo a que região se situa a residência onde as placas foram instaladas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trópico de Capricórnio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Trópico de Câncer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Polo Norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Polo Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Equador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

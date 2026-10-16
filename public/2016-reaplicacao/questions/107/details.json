@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2016 - Reaplicação",
+    "index": 107,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/107/532f2527-1af6-4cd7-a756-b12e7f2bb432.png)\n\nFANG, C. Miopia. Disponível em: http://news.psu.edu. Acesso em: 18 abr. 2015.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/107/532f2527-1af6-4cd7-a756-b12e7f2bb432.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O cartum Miopia, de Chen Fang, foi apresentado em\n2011 na quarta mostra Ecocartoon, que teve como tema\na educação ambiental. Seu título e os elementos visuais\nfazem referência ao exame oftalmológico e a um tipo\nespecífico de dificuldade visual. Com o uso metafórico\nda miopia e a exploração de características da imagem,\no cartum",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evidencia o papel secundário que animais e plantas desempenham no processo de produção de riquezas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "expõe o alto custo para a manutenção da vida tanto dos seres humanos como de animais e plantas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "denuncia a hierarquia de valores que supervaloriza o dinheiro em detrimento dos seres vivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "revela o distanciamento entre o homem e a natureza, resultante das atividades econômicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "questiona o antagonismo entre homens e mulheres, motivado por questões econômicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

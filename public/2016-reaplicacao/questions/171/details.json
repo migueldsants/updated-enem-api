@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2016 - Reaplicação",
+    "index": 171,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em alguns supermercados, é comum a venda\nde produtos em atacado com preços inferiores aos\nhabituais. Um desses supermercados anunciou a venda\nde sabonetes em cinco opções de pacotes diferentes.\nSegue a descrição desses pacotes com as respectivas\nquantidades e preços.\n\nPacote I: 3 unidades por R$ 2,10;\nPacote II: 4 unidades por R$ 2,60;\nPacote III: 5 unidades por R$ 3,00;\nPacote IV: 6 unidades por R$ 3,90;\nPacote V: 12 unidades por R$ 9,60.\n\nTodos os sabonetes que compõem esses pacotes\nsão idênticos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual desses pacotes oferece o menor preço por sabonete?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

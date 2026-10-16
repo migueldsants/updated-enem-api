@@ -1,0 +1,46 @@
+{
+    "title": "Questão 137 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 137,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura representa uma bola de basquete dentro de uma caixa no formato de paralelepípedo reto de base quadrada,\ncuja altura mede 27 cm. A bola, quando cheia, tem o formato de uma esfera de 30 cm de diâmetro, que tangencia as faces laterais e\na base inferior da caixa, e parte dela fica no exterior da caixa. A tampa tem uma abertura circular que se ajusta perfeitamente à bola.\n\n![](https://enem.dev/2025-belem/questions/137/e31e549d-8d21-4956-a334-5d9f7354d342.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/137/e31e549d-8d21-4956-a334-5d9f7354d342.png",
+        "https://enem.dev/2025-belem/questions/137/d2be109d-465b-4a5d-8a7c-b62fb3621cae.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a medida da área da tampa da caixa, em centímetro quadrado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "π ⋅ 9²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "π ⋅ 15²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30² − π ⋅ 3²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30² − π ⋅ 9²",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/137/d2be109d-465b-4a5d-8a7c-b62fb3621cae.png",
+            "isCorrect": false
+        }
+    ]
+}

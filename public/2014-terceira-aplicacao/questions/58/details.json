@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2014 - Terceira aplicação",
+    "index": 58,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No território brasileiro, existem períodos do ano\nque apresentam queda na umidade do ar, fazendo com\nque o ar fique bastante seco. Nessa época, é comum\nobservar que as pessoas, ao saírem do carro e tocarem\na maçaneta da porta, levam pequenos choques elétricos.\nAlém disso, pessoas que ficam muito tempo em contato\ncom aparelhos eletrodomésticos, ou que dormem com\nroupas feitas de determinados materiais, como a seda, ao\ntocarem objetos metálicos, também sentem as descargas\nelétricas, ou seja, levam um choque elétrico.\nO corpo humano sofre com esse fenômeno de descarga\nelétrica, comportando-se como um condutor, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oferece resistência nula ao movimento da quantidade líquida de carga através do corpo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "permite que uma quantidade líquida de carga se desloque com facilidade através do corpo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "permite que uma quantidade líquida de carga se desloque com dificuldade através do corpo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reduz o deslocamento da quantidade líquida de carga em função do aumento da diferença de potencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alterna a capacidade de deslocamento da quantidade líquida de carga no corpo, facilitando ou dificultando o fenômeno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2014 - Reaplicação",
+    "index": 43,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-reaplicacao/questions/43/cb4df400-269d-43a9-82b6-cf7222f9f6ea.png)\n\nMadeira para\ncelulose e papel\nQuantidade produzida em 2006\n(metros cúbicos)\n2 624 058\n1 500 000\n650 000\n170 000\n\nDisponível em: www.fct.unesp.br. Acesso em: 1 ago. 2012.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/43/cb4df400-269d-43a9-82b6-cf7222f9f6ea.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A distribuição espacial de madeira para papel e celulose\nno Brasil possui uma estratégia logística que resulta na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "região produtiva contínua de perfil litorâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "integração intermodal entre Sul, Sudeste e Norte do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "construção de eixos rodoviários entre as zonas produtoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "organização da produção próxima às áreas de escoamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "localização do setor nos limites das unidades político- administrativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

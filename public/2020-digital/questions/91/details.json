@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2020 - Digital",
+    "index": 91,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisadores delimitaram Unidades Evolutivas Significativas (UES) de cinco espécies\npertencentes a diferentes grupos de vertebrados, distribuídos em oito áreas distintas, como\nmostra o quadro. Cada UES representa uma população isolada histórica e geneticamente\ndiferenciada e apresenta prioridade para manejo e conservação.\n\n![](https://enem.dev/2020-digital/questions/91/1752e80b-726e-448e-a51b-e87cf60c2994.png)\n\nMIRANDA, N. E. O.; ALMEIDA JR., E. B.; COLLEVATTI, R. G. Priorizando áreas para a conservação com base em\nUnidades Evolutivas Significativas (ESU). Genética na Escola, n.1, 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/91/1752e80b-726e-448e-a51b-e87cf60c2994.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando a área 4, a espécie que terá prioridade nas estratégias de conservação pertence\na que grupo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ave",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Anfíbio",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Roedor",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Lagarto",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Morcego",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

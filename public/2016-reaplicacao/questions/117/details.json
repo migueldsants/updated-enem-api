@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2016 - Reaplicação",
+    "index": 117,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Como se vai de São Paulo a Curitiba (1928)\nOs tempos mudaram.\nO mundo contemporâneo pulsa em ritmos acelerados.\nNovos fatores revelam conveniência de outros métodos.\n\nSurgem, no decurso dos nossos dias, motivos que nos\nconvencem de que cada município deve levar a sério o\nproblema da circulação rodoviária.\n\nPara facilitar a ação administrativa.\nPara uma revisão das suas possibilidades econômicas.\nRitmo de ruralização.\nCosturar o país com estradas alegres, desligadas de\nhorários. Livres e cheias de sol como um verso moderno!\n\nBOPP, R. Poesia completa de Raul Bopp. Rio de Janeiro: José Olympio;\nSão Paulo: Edusp, 1998 (fragmento).\n\n2016",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nos anos de 1920, a necessidade de modernizar o\nBrasil refletiu-se na proposta de renovação estética\ndefendida por artistas modernistas como Raul Bopp. No\npoema, o posicionamento favorável às transformações\nda sociedade brasileira aparece diretamente relacionado\nà experimentação na poesia. A relação direta entre\nmodernização e procedimento estético no poema deve-se\nà correspondência entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a discussão de tema técnico e a fragmentação da linguagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a afirmação da mudança dos tempos e a inovação vocabular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a oposição à realidade rural do país e a simplificação da sintaxe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a adesão ao ritmo de vida urbano e a subjetividade da linguagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a exortação à ampla difusão das estradas e a liberdade dos versos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

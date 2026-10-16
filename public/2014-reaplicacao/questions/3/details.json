@@ -1,0 +1,46 @@
+{
+    "title": "Questão 3 - ENEM 2014 - Reaplicação",
+    "index": 3,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "FIGURA 1\n\n![](https://enem.dev/2014-reaplicacao/questions/3/22c12c8f-6041-493e-a756-40b673b4260f.png)\n\nPrincesa Alexandra. Disponível em: www.democraciafashion.com.br. Acesso em: 4 ago. 2012.\n\nFIGURA 2\n\n![](https://enem.dev/2014-reaplicacao/questions/3/5339b2ab-68cd-41a3-8774-92e5d67952fe.png)\n\nDuquesa de Cambridge, Kate Middleton. Disponível em: http://rockandglamour.blogspot.com.\n\nAcesso em: 4 ago. 2012.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/3/22c12c8f-6041-493e-a756-40b673b4260f.png",
+        "https://enem.dev/2014-reaplicacao/questions/3/5339b2ab-68cd-41a3-8774-92e5d67952fe.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As figuras indicam mudanças no universo feminino, como a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decadência da Monarquia, revelada pela aparição solitária e informal das nobres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução na escolaridade, simbolizada pela vida dinâmica e sem dedicação à leitura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliação do status, conferida pela passagem do local rústico para os jardins do palácio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "inclusão na política, representada pela diferença entre o espaço privado e o espaço público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valorização do corpo, salientada pelo uso de roupas mais curtas e pela postura mais relaxada.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

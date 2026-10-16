@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 65,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Brasil, China e Índia tiveram maiores\nsaltos em expectativa de vida\nCrescimento relativo da expectativa de vida, comparação\nentre as 10 maiores economias do mundo, 1960-2020\n\n![](https://enem.dev/2025-belem/questions/65/bcdd2607-571e-4479-b50e-cc57c03b917a.png)\n\nBIERNATH, A. Os gráficos que mostram os paradoxos da expectativa\nde vida no Brasil. Disponível em: www.bbc.com.\nAcesso em: 21 out. 2023 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/65/bcdd2607-571e-4479-b50e-cc57c03b917a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No contexto apresentado, qual fator explica o desempenho\ndemográfico dos países emergentes?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solidez da cultura nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expansão do saldo migratório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Melhoria do desenvolvimento humano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Consolidação de fronteiras territoriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manutenção dos padrões familiares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

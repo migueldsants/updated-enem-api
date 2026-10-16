@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2016 - Segunda aplicação",
+    "index": 40,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A forma de organização interna da indústria citada gera a seguinte consequência para a mão de obra nela inserida:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ampliação da jornada diária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Melhoria da qualidade do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Instabilidade nos cargos ocupados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eficiência na prevenção de acidentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desconhecimento das etapas produtivas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

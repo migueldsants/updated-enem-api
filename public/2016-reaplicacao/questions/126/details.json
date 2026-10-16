@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2016 - Reaplicação",
+    "index": 126,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Maria Diamba\nPara não apanhar mais\nfalou que sabia fazer bolos:\nvirou cozinha.\nFoi outras coisas para que tinha jeito.\nNão falou mais:\nViram que sabia fazer tudo,\naté molecas para a Casa-Grande.\nDepois falou só,\nsó diante da ventania\nque ainda vem do Sudão;\nfalou que queria fugir\ndos senhores e das judiarias deste mundo\npara o sumidouro.\n\nLIMA, J. Poemas negros. Rio de Janeiro: Record, 2007.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O poema de Jorge de Lima sintetiza o percurso de vida\nde Maria Diamba e sua reação ao sistema opressivo\nda escravidão. A resistência dessa figura feminina é\nassinalada no texto pela relação que se faz entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o uso da fala e o desejo de decidir o próprio destino.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a exploração sexual e a geração de novas escravas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a prática na cozinha e a intenção de ascender socialmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o prazer de sentir os ventos e a esperança de voltar à África.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o medo da morte e a vontade de fugir da violência dos brancos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

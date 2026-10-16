@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2015 - Reaplicação",
+    "index": 10,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "SANTIAGO. O interior. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura: 1840-2001. Rio de Janeiro: Letras & Expressões, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O diálogo entre os personagens da charge evidencia, no Brasil, a(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reinserção do país na economia globalizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "transformações políticas na vigência do Estado Novo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alterações em áreas estratégicas para o desenvolvimento do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "suspensão das eleições legislativas durante o período da Ditadura Militar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "volta da democracia após um período sem eleições diretas para o Executivo Federal.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

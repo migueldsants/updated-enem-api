@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2014 - Terceira aplicação",
+    "index": 108,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O telefone tocou.\n— Alô? Quem fala?\n— Como? Com quem deseja falar?\n— Quero falar com o sr. Samuel Cardoso.\n— É ele mesmo. Quem fala, por obséquio?\n— Não se lembra mais da minha voz, seu Samuel?\nFaça um esforço.\n\n— Lamento muito, minha senhora, mas não me\nlembro. Pode dizer-me de quem se trata?\n\nANDRADE, C. D. Contos de aprendiz. Rio de Janeiro: José Olympio, 1958 fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pela insistência em manter o contato entre o emissor e o\nreceptor, predomina no texto a função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "metalinguística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fática.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "referencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "emotiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "conativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

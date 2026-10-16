@@ -1,0 +1,46 @@
+{
+    "title": "Questão 146 - ENEM 2013 - Reaplicação",
+    "index": 146,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A logomarca de uma empresa de computação é um\nquadrado, AEFG, com partes pintadas como mostra a\nfigura. Sabe-se que todos os ângulos agudos presentes\nna figura medem 45º e que AB = BC = CD = DE. A fim de\ndivulgar a marca entre os empregados, a gerência decidiu\nque fossem pintadas logomarcas de diversos tamanhos\nnas portas, paredes e fachada da empresa. Pintadas as\npartes cinza de todas as logomarcas, sem desperdício e\nsem sobras, já foram gastos R$ 320,00.\n\nG A\n\nB\n\n![](https://enem.dev/2013-reaplicacao/questions/146/cd77c6e2-723e-4342-a3da-072206f6cf19.png)\n\nC\n\nD\n\nF E",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/146/cd77c6e2-723e-4342-a3da-072206f6cf19.png",
+        "https://enem.dev/2013-reaplicacao/questions/146/c1de8fb6-2dca-4954-880f-bea6565a382c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O preço das tintas cinza, preta e branca é o mesmo.\nConsiderando que não haja desperdício e sobras, o custo\npara pintar as partes pretas e o custo para pintar as partes\nbrancas serão, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 320,00 e R$ 640,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 640,00 e R$ 960,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 960,00 e R$ 1 280,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R$ 1 280,00 e R$ 2 240,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/146/c1de8fb6-2dca-4954-880f-bea6565a382c.png",
+            "isCorrect": false
+        }
+    ]
+}

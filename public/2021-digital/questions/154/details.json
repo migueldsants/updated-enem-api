@@ -1,0 +1,50 @@
+{
+    "title": "Questão 154 - ENEM 2021 - Digital",
+    "index": 154,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo\nimposto devido (I).\n\n![](https://enem.dev/2021-digital/questions/154/77cac723-788b-4e3f-bde4-3e1c67737489.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/154/77cac723-788b-4e3f-bde4-3e1c67737489.png",
+        "https://enem.dev/2021-digital/questions/154/112f5bfe-b14f-4bde-9d4b-141faa33f38e.png",
+        "https://enem.dev/2021-digital/questions/154/9451ae7d-6e0a-49aa-8c00-d14883c2b77c.png",
+        "https://enem.dev/2021-digital/questions/154/6357f912-c386-4b48-9105-081e1e44dbc9.png",
+        "https://enem.dev/2021-digital/questions/154/ff528676-81d1-4224-9c31-1162f1249130.png",
+        "https://enem.dev/2021-digital/questions/154/12c396e3-1fdf-4c01-8a93-6b06cc6d1fa6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que melhor representa essa relação é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/154/112f5bfe-b14f-4bde-9d4b-141faa33f38e.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/154/9451ae7d-6e0a-49aa-8c00-d14883c2b77c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/154/6357f912-c386-4b48-9105-081e1e44dbc9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/154/ff528676-81d1-4224-9c31-1162f1249130.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/154/12c396e3-1fdf-4c01-8a93-6b06cc6d1fa6.png",
+            "isCorrect": false
+        }
+    ]
+}

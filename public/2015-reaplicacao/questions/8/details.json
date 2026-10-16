@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2015 - Reaplicação",
+    "index": 8,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O reconhecimento da união homoafetiva levou o\ndebate à esfera pública, dividindo opiniões. Apesar da\ngrande repercussão gerada pela mídia, a população ainda\nnão se faz suficientemente esclarecida, confundindo\no conceito de união estável com casamento. Apesar\nde ter sido legitimado pelo Supremo Tribunal Federal\n(STF), o reconhecimento da união homoafetiva é fruto do\nprotagonismo dos movimentos sociais como um todo.\n\nARÊDES, N.; SOUZA, I.; FERREIRA, E. Disponível em: http://reporterpontocom.wordpress.com.\n\nAcesso em: 1 mar. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As decisões em favor das minorias, tomadas pelo Poder\nJudiciário, foram possíveis pela organização desses\ngrupos. Ainda que não sejam assimiladas por toda a\npopulação, essas mudanças",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contribuem para a manutenção da ordem social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reconhecem a legitimidade desses pleitos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "dependem da iniciativa do Poder Legislativo Federal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "resultam na celebração de um consenso político.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "excedem o princípio da isonomia jurídica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

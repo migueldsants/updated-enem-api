@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2016 - Segunda aplicação",
+    "index": 29,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O mercado tende a gerir e regulamentar todas as\natividades humanas. Até há pouco, certos campos\n— cultura, esporte, religião — ficavam fora do seu\nalcance. Agora, são absorvidos pela esfera do\nmercado. Os governos confiam cada vez mais nele\n(abandono dos setores de Estado, privatizações).\n\nRAMONET, I. Guerras do século XXI: novos temores e novas ameaças.\nPetrópolis: Vozes, 2003.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto é apresentada uma lógica que constitui\numa característica central do seguinte sistema\nsocioeconômico:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Socialismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Feudalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Capitalismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Anarquismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Comunitarismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

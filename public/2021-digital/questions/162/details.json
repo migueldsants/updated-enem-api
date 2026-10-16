@@ -1,0 +1,52 @@
+{
+    "title": "Questão 162 - ENEM 2021 - Digital",
+    "index": 162,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para a comunicação entre dois navios é utilizado um sistema de codificação com\nbase em valores numéricos. Para isso, são consideradas as operações triângulo e\n\n![](https://enem.dev/2021-digital/questions/162/adc715b3-b854-4382-b78b-532e9e20df59.png)\n\nestrela , definidas sobre o conjunto dos números reais por e\n\n![](https://enem.dev/2021-digital/questions/162/61bbed99-f287-47ce-a05a-fcf6f6697870.png)\n\nO navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que\nirá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma das duas\n\n![](https://enem.dev/2021-digital/questions/162/09868bfc-a5ca-4bda-ac3b-3645621f00b2.png)\n\nmaiores soluções da equação . Cada valor possível de entrada e\nsaída representa uma mensagem diferente já conhecida pelos dois navios.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/162/adc715b3-b854-4382-b78b-532e9e20df59.png",
+        "https://enem.dev/2021-digital/questions/162/61bbed99-f287-47ce-a05a-fcf6f6697870.png",
+        "https://enem.dev/2021-digital/questions/162/09868bfc-a5ca-4bda-ac3b-3645621f00b2.png",
+        "https://enem.dev/2021-digital/questions/162/ee77e97b-4d17-4beb-b315-1d4eb201f9e5.png",
+        "https://enem.dev/2021-digital/questions/162/d542f153-5fff-48f1-a46e-7d80834b8eea.png",
+        "https://enem.dev/2021-digital/questions/162/ae354a95-78d4-4535-aec7-94ba93dde3d9.png",
+        "https://enem.dev/2021-digital/questions/162/a391ac59-15e2-42e3-8f3c-8f65101bc93c.png",
+        "https://enem.dev/2021-digital/questions/162/44f2e8dd-73ca-4190-a879-fd3ee114ab1b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um navio deseja enviar ao outro a mensagem \"ATENÇÃO!\". Para isso, deve utilizar o\nvalor de entrada b = 1.\nDessa forma, o valor recebido pelo navio receptor será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/162/ee77e97b-4d17-4beb-b315-1d4eb201f9e5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/162/d542f153-5fff-48f1-a46e-7d80834b8eea.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/162/ae354a95-78d4-4535-aec7-94ba93dde3d9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/162/a391ac59-15e2-42e3-8f3c-8f65101bc93c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/162/44f2e8dd-73ca-4190-a879-fd3ee114ab1b.png",
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2020 - Digital",
+    "index": 43,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Estudo da FGV mostra que robôs infestam debate político no Brasil\n\nUm estudo divulgado pela Diretoria de Análise de Políticas Públicas da Fundação Getulio\nVargas afirma que perfis automatizados em redes sociais já são usados em larga escala no\ndebate político no Brasil — e não para aprimorá-lo. Segundo a pesquisa, esses robôs “se\nconverteram em uma potencial ferramenta para a manipulação de debates nas redes sociais”.\n\n“Nas discussões políticas, os robôs têm sido usados por todo o espectro partidário não\napenas para conquistar seguidores, mas também para conduzir ataques a opositores e forjar\ndiscussões artificiais. Eles manipulam debates, criam e disseminam notícias falsas e\ninfluenciam a opinião pública, postando e replicando mensagens em larga escala. O estudo\ndemonstra de forma clara o potencial danoso dessa prática para a disputa política e o debate\npúblico”, diz o diretor da FGV/DAPP, Marco Aurélio Ruediger.\n\nO estudo conclui que os robôs buscam imitar o comportamento humano e se passar como\ntal, de maneira a interferir em debates espontâneos e criar discussões forjadas. “Com esse\ntipo de manipulação, os robôs criam a falsa sensação de amplo apoio político a certa proposta,\nideia ou figura pública.”\n\nPara a FGV, a participação ostensiva de robôs no ambiente virtual tornou urgente a\nnecessidade de identificar suas atividades e, consequentemente, diferenciar quais debates são\nlegítimos e quais são forjados\n\nGROSSMANN, L. O. Disponível em: www.convergenciadigital.com.br. Acesso em: 25 ago. 2017.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto descreve características de uma tecnologia de informação e comunicação\ncontemporânea, que têm se mostrado difíceis de identificar por causa da utilização de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "linguagens comuns.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "diferentes redes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "informações falsas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "opiniões políticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "figuras públicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

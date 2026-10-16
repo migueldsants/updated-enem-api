@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2021 - Digital",
+    "index": 130,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um\nfungo, constituída de sete códons, está escrita a seguir.\n\n![](https://enem.dev/2021-digital/questions/130/021d40aa-750b-40c0-a17d-54245118220d.png)\n\nPesquisadores submeteram a sequência a mutações independentes. Sabe-se que os\ncódons UAG e UAA são terminais, ou seja, indicam a interrupção da tradução.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/130/021d40aa-750b-40c0-a17d-54245118220d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual mutação produzirá a menor proteína?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Deleção de G no códon 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Substituição de C por U no códon 4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Substituição de G por C no códon 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Substituição de A por G no códon 7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Deleção dos dois primeiros nucleotídeos no códon 5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

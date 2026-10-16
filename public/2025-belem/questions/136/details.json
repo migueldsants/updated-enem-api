@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 136,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um site publicou este gráfico, que apresenta a evolução dos preços de dois produtos, em alguns dias de janeiro a julho de\n2021. Por exemplo, o Produto 1 atingiu o valor recorde de 304 reais em 16 de maio, e atingiu 153 reais em 4 de julho.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em qual(is) período(s) os preços de ambos os produtos tiveram aumento ao mesmo tempo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De 17 de janeiro a 2 de maio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "De 17 de janeiro a 16 de maio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "De 17 de janeiro a 4 de julho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "De 17 de janeiro a 2 de fevereiro e de 14 de fevereiro a 2 de maio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "De 17 de janeiro a 2 de fevereiro e de 14 de fevereiro a 16 de maio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

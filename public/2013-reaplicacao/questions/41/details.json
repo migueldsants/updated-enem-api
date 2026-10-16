@@ -1,0 +1,45 @@
+{
+    "title": "Questão 41 - ENEM 2013 - Reaplicação",
+    "index": 41,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Baile Charme, uma das mais conhecidas\nmanifestações culturais do povo carioca, fica cadastrado\ncomo bem cultural de natureza imaterial da cidade.\nO decreto considera o Baile Charme uma genuína\ninvenção carioca, e destaca a riqueza de sua origem na\nmusicalidade africana, que abriga ritmos como o soul,\no funk e o rythim’n blues, da fonte norte-americana, e o\nchoro, o samba e a bossa-nova, criações nascidas no\nRio. O Baile Charme é cultuado, principalmente na Zona\nNorte da cidade, seja em clubes, agremiações recreativas\ne espaços públicos como a área do Viaduto de Madureira.\n\nDisponível em: www.jb.com.br. Acesso em: 2 mar. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/41/62c4ceaf-8654-4564-8f1b-1237dc5b8011.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo o texto, o cadastramento do Baile Charme como\nbem imaterial da cidade do Rio de Janeiro ocorreu porque\nessa manifestação cultural",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "possui um grande apelo de público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "simboliza uma região de relevância social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contém uma pluralidade de gêneros musicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reflete um gosto fonográfico de camadas pobres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/41/62c4ceaf-8654-4564-8f1b-1237dc5b8011.png",
+            "isCorrect": true
+        }
+    ]
+}

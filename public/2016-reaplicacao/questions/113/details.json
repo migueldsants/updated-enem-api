@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2016 - Reaplicação",
+    "index": 113,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A carreira nas alturas\n\nA água está no joelho dos profissionais do mercado.\nAs fragilidades na formação em Língua Portuguesa têm\nalimentado um campo de reciclagem em Português nas\nescolas de idiomas e nos cursos de graduação para\npessoas oriundas do mundo dos negócios. O que antes\nera restrito a profissionais de educação e comunicação,\nagora já faz parte da rotina de profissionais de várias\náreas. Para eles, a Língua Portuguesa começa a ser\nassimilada como uma ferramenta para o desempenho\nestável. Sem ela, o conhecimento técnico fica restrito à\nprópria pessoa, que não sabe comunicá-lo.\n\n\"Embora algumas atuações exijam uma produção oral\nou escrita mais frequente, como docência e advocacia,\nmuitos profissionais precisam escrever relatório, carta,\ncomunicado, circular. Na linguagem oral, todos têm de\nexpressar-se de forma convincente nas reuniões, para\nganhar respeito e credibilidade. Isso vale para todos os\ncargos da hierarquia profissional\" – explica uma professora\nde Língua Portuguesa da Faculdade de Filosofia, Letras e\nCiências Humanas da USP.\n\nNATALI, A. Revista Língua, n. 63, jan. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nos usos cotidianos da língua, algumas expressões\npodem assumir diferentes sentidos. No texto, a expressão\n“a água está no joelho” remete à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exigência de aprofundamento em conhecimentos técnicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "demanda por formação profissional de professores e advogados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "procura por escolas de idiomas para o aprendizado de línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "melhoria do desempenho profissional nas várias áreas do conhecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "necessidade imediata de aperfeiçoamento das habilidades comunicativas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2022 - Digital",
+    "index": 81,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Decreto-Lei n. 1 949, de 27/12/1937\n\nArt. 1º Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente\nsubordinado ao presidente da República.\n\nArt. 2º O DIP tem por fim:\n\nh) coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de\nmaior aproximação da mesma com os fatos que se ligam aos interesses nacionais;\n\nn) autorizar mensalmente a devolução dos depósitos efetuados pelas empresas\njornalísticas para a importação de papel para imprensa, uma vez demonstrada, a seu\njuízo, a eficiência e a utilidade pública dos jornais ou periódicos por elas administrados ou\ndirigidos.\n\nBRASIL apud CARONE, E. A Terceira República (1937-1945). São Paulo: Difel, 1982 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo\npromover o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diversificação da opinião pública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mercantilização da cultura popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controle das organizações sindicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cerceamento da liberdade de expressão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "privatização dos meios de comunicação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2013 - Reaplicação",
+    "index": 96,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Disponível em: http://picasaweb.google.com.br. Acesso em: 27 abr. 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No processo de modernização apresentado na tirinha, Mafalda depara-se com um contraponto entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o domínio dos modos de produção e a geração de novas ferramentas com a tecnologia de informação e comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o acompanhamento das mudanças na sociedade e o surgimento de novas opções de vida e trabalho com a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cibernética. a constatação do avanço da tecnologia e a proposição de reprodução de velhas práticas com novas máquinas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a apresentação de novas perspectivas de vida e trabalho para a mulher com os avanços das tecnologias de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "informação. a aplicação da cibernética e o descontentamento com a passividade do cotidiano das mulheres no trabalho de corte e costura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

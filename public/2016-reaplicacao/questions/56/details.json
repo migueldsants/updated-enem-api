@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2016 - Reaplicação",
+    "index": 56,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na preparação da massa do pão, presente na mesa\ndo café da maioria dos brasileiros, utiliza-se o fungo\nSaccharomyces cerevisiae vivo, contido no fermento. Sua\nfinalidade é fazer com que a massa cresça por meio da\nprodução de gás carbônico.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse processo químico de liberação de gás é\ncausado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "glicogênese lática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fermentação alcoólica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "produção de ácido lático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produção de lactobacilos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "formação do ácido pirúvico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

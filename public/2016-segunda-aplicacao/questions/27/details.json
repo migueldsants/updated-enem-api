@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2016 - Segunda aplicação",
+    "index": 27,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Fundamos, como afirmam alguns cientistas, o\nantropoceno: uma nova era geológica com altíssimo poder\nde destruição, fruto dos últimos séculos que significaram\num transtorno perverso do equilíbrio do sistema-Terra.\nComo enfrentar esta nova situação nunca ocorrida antes\nde forma globalizada e profunda? Temos pessoalmente\ntrabalhado os paradigmas da sustentabilidade e do\ncuidado como relação amigável e cooperativa para\ncom a natureza. Queremos, agora, agregar a ética da\nresponsabilidade.\n\nBOFF, L. Responsabilidade coletiva. Disponível em: http://leonardoboff.wordpress.com.\nAcesso em: 14 maio 2013.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A ética da responsabilidade protagonizada pelo filósofo\nalemão Hans Jonas e reinvindicada no texto é expressa\npela máxima:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "\"A tua ação possa valer como norma para todos os homens.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "\"A norma aceita por todos advenha da ação comunicativa e do discurso.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "\"A tua ação possa produzir a máxima felicidade para a maioria das pessoas.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "\"O teu agir almeje alcançar determinados fins que possam justificar os meios.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "\"O efeito de tuas ações não destrua a possibilidade futura da vida das novas gerações.\"",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

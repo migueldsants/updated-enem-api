@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2014 - Reaplicação",
+    "index": 22,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Passada a festa da abolição, os ex-escravos\nprocuraram distanciar-se do passado de escravidão,\nnegando-se a se comportar como antigos cativos.\nEm diversos engenhos do Nordeste, negaram-se a\nreceber a ração diária e a trabalhar sem remuneração.\nQuando decidiram ficar, isso não significou que\nconcordassem em se submeter às mesmas condições\nde trabalho do regime anterior.\n\nFRAGA, W.; ALBUQUERQUE, W. R. Uma história da cultura afro-brasileira.\nSão Paulo: Moderna, 2009 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o texto, os primeiros anos após a abolição da\nescravidão no Brasil tiveram como característica o a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "caráter organizativo do movimento negro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "equiparação racial no mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "busca pelo reconhecimento do exercício da cidadania.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "estabelecimento do salário mínimo por projeto legislativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "entusiasmo com a extinção das péssimas condições de trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2022 - Digital",
+    "index": 22,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nProjeto Mural Eletrônico desenvolvido no INT, semelhante a um totem, promete\ntornar o acesso à informação disponível para todos\n\nA inclusão de pessoas com deficiência se constituiu um dos principais desafios e\npreocupações para a sociedade ao longo das últimas décadas. E o uso da tecnologia tem\nse revelado um aliado fundamental em muitas iniciativas voltadas para essa área.\nExemplo disso é uma das recentes criações do Instituto Nacional de Tecnologia (INT) —\nunidade de pesquisa do Ministério da Ciência, Tecnologia, Inovações e Comunicações\n(MCTIC). Ali, com o objetivo de que as diferenças entre pessoas não sejam sinônimo de\nobstáculos no acesso à informação ou na comunicação, engenheiros e tecnólogos vêm\ntrabalhando no desenvolvimento do projeto Mural Eletrônico.\n\nO Mural Eletrônico nasceu da necessidade de promover a inclusão nas escolas. Com\ninterface multimídia e interativa, todos têm a possibilidade de acessar o Mural Eletrônico.\nPor meio do equipamento, podem ser disponibilizados vídeos com Libras, leitura sonora\nde textos, que também estarão acessíveis em uma plataforma de braille dinâmico, ao lado\ndo teclado.\n\nKIFFER, D. Inclusão ampla e irrestrita. Rio Pesquisa, n. 36, set. 2016 (adaptado).\n\nTEXTO II\n\nProjeto Surdonews, desenvolvido na UFRJ, garante acesso de surdos à informação\n\ne contribui para sua “inclusão científica”\n\nPara não permitir que a falta de informação seja um fator para o isolamento e a\ninacessibilidade da comunidade surda, a jornalista e pesquisadora Roberta Savedra\nSchiaffino criou o projeto “Surdonews: montando os quebra-cabeças das notícias para o\nsurdo”. Trata-se de uma página no Facebook, com notícias constantemente atualizadas e\napresentadas por surdos em Libras, e veiculadas por meio de vídeos.\n\nA ideia de criar o projeto surgiu quando Roberta, ela própria surda profunda, ainda\ncursava o mestrado. Para isso, ela procurou traçar um diagnóstico do conhecimento\ninformal entre as pessoas com surdez. Ela entrevistou cinquenta alunos surdos do ensino\nfundamental e viu que eles tinham muita dificuldade de ler, além de não captar a notícia\nfalada. “Isso é muito grave, pois 90% do saber de um indivíduo vem do conhecimento\ninformal, adquirido em feiras científicas, conversas, cinema, teatro, incluindo a mídia, por\ntodas as suas possibilidades disseminadoras”, explica a pesquisadora. “Prezamos pelo\nconteúdo científico em nossas pautas. Contudo, independentemente disso, nosso\nprincipal trabalho é, além de informar e atualizar, fazer com que os textos não sejam\nempobrecidos no processo de ‘tradução’ e, sim, acessíveis”.\n\nKIFFER, D. Comunicação sem barreiras. Rio Pesquisa, n. 37, dez. 2016 (adaptado).\n\n/",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando-se o tema tecnologias e acessibilidade, os textos I e II aproximam-se\nporque apresentam projetos que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "garantem a igualdade entre as pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "foram criados por uma pesquisadora surda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tiveram origem em um curso de pós-graduação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estão circunscritos ao espaço institucional da escola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "têm como objetivo a disseminação do conhecimento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

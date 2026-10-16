@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2013 - Reaplicação",
+    "index": 49,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Balão de festa com\nbicarbonato de sódio\npreso a uma garrafa\ncom vinagre.\n\n![](https://enem.dev/2013-reaplicacao/questions/49/d01da9a5-93d9-40d4-8443-cbdc179dc022.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/49/d01da9a5-93d9-40d4-8443-cbdc179dc022.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A transformação química em questão é representada pela equação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CH₃COOH (aq) + NaHCO₃ (s) → Na⁺ (aq) + CH₃COO⁻",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "CH₃COOH (aq) + NaHCO₃ (s) → Na⁺ (aq) + CH₃COO⁻",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CH₃COOH (aq) + NaHCO₃ (s) → Na⁺ (aq) + CH₃COO⁻",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CH₃COOH (aq) + NaHCO₃ (s) → NaCO²⁺ (aq) + CH₃COO",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "CH₃COOH (aq) + NaHCO₃ (s) → Na⁺ (aq) + CH₃COO⁻",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

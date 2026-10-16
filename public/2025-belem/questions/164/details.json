@@ -1,0 +1,46 @@
+{
+    "title": "Questão 164 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 164,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica de refrigerantes criou um novo tipo de bebida ao adicionar uma quantidade de um tipo de xarope a 10\nde um refrigerante que já tem em sua fórmula 15% desse xarope em sua composição. Com\ntipo de bebida é formada por esse xarope.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/164/b3006df7-a4e1-4767-8afb-7046023a82af.png",
+        "https://enem.dev/2025-belem/questions/164/b769fcf6-f9fc-4233-8e66-3d9e3ebd48fe.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual quantidade desse xarope, em litro, foi adicionada aos 10",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/164/b3006df7-a4e1-4767-8afb-7046023a82af.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/164/b769fcf6-f9fc-4233-8e66-3d9e3ebd48fe.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

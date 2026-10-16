@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 108,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As mulheres tendem a sofrer alterações periódicas nos níveis\nde hormônios sexuais. Uma exceção é o período da gravidez,\népoca em que ocorrem menores variações hormonais.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Isso se deve à manutenção de níveis elevados do hormônio\nplacentário:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Progesterona, que reduz os níveis dos hormônios ovarianos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estrógeno, que estimula a produção dos hormônios hipofisários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Luteinizante, que diminui os níveis das gonadotrofinas hipofisárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Gonadotrofina coriônica, que diminui os níveis dos hormônios hipofisários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Folículo estimulante, que aumenta a concentração dos hormônios ovarianos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

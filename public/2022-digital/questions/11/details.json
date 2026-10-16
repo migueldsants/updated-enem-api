@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2022 - Digital",
+    "index": 11,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ora, sempre que surge uma nova técnica, ela quer demonstrar que revogará as\nregras e coerções que presidiram o nascimento de todas as outras invenções do\npassado. Ela se pretende orgulhosa e única. Como se a nova técnica carreasse com ela,\nautomaticamente, para seus novos usuários, uma propensão natural a fazer economia de\nqualquer aprendizagem. Como se ela se preparasse para varrer tudo que a precedeu, ao\nmesmo tempo transformando em analfabetos todos os que ousassem repeli-la.\n\nFui testemunha dessa mudança ao longo de toda a minha vida. Ao passo que, na\nrealidade, é o contrário que acontece. Cada nova técnica exige uma longa iniciação numa\nnova linguagem, ainda mais longa na medida em que nosso espírito é formatado pela\nutilização das linguagens que precederam o nascimento da recém-chegada.\n\nECO, U.; CARRIÈRE, J.-C. Não contem com o fim do livro. Rio de Janeiro: Record, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto revela que, quando a sociedade promove o desenvolvimento de uma nova\ntécnica, o que mais impacta seus usuários é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dificuldade na apropriação da nova linguagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "valorização da utilização da nova tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "recorrência das mudanças tecnológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "suplantação imediata dos conhecimentos prévios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "rapidez no aprendizado do manuseio das novas invenções.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

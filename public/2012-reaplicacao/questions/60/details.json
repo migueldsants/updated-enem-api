@@ -1,0 +1,45 @@
+{
+    "title": "Questão 60 - ENEM 2012 - Reaplicação",
+    "index": 60,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na investigação de paternidade por análise de\nDNA, avalia-se o perfil genético da mãe, do suposto\npai e do filho pela análise de regiões do genoma das\npessoas envolvidas. Cada indivíduo apresenta um par de\nalelos, iguais ou diferentes, isto é, são homozigotos ou\nheterozigotos, para cada região genômica. O esquema\nrepresenta uma eletroforese com cinco regiões genômicas\n(classificadas de A a E), cada uma com cinco alelos (1 a 5),\nanalisadas em uma investigação de paternidade:\n\nRegiões Possíveis\nMãe Filho Pai\ngenômicas alelos\n\nA\n\nB\n\n![](https://enem.dev/2012-reaplicacao/questions/60/ec4deba3-559a-4b9c-a7b7-ae3f55e6f6cc.png)\n\nC\n\nD\n\nE",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/60/ec4deba3-559a-4b9c-a7b7-ae3f55e6f6cc.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quais alelos, na sequência das regiões apresentadas, o\nfilho recebeu, obrigatoriamente, do pai?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2, 4, 5, 2, 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2, 4, 2, 1, 3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2, 1, 1, 1, 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1, 3, 2, 1, 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5, 4, 2, 1, 1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

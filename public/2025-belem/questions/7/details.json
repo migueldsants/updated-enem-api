@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 7,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre os vários aspectos que podem ser elencados como caracterizadores do gênero crônica, nesse texto fica evidente o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "presença de núcleos narrativos diversos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "flagrante de um acontecimento específico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "enredo centrado em uma situação conflituosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reflexão sobre um tema da vida contemporânea.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "passagem rápida do tempo na condução narrativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

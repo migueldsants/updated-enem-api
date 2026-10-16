@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2020 - Digital",
+    "index": 129,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os frutos da pupunha têm cerca de 1 g em populações silvestres no Acre, mas chegam\na 70 g em plantas domesticadas por populações indígenas. No princípio, porém, a\ndomesticação não era intencional. Os grupos humanos apenas identificavam vegetais mais\nsaborosos ou úteis, e sua propagação se dava pelo descarte de sementes para perto dos\nsítios habitados.\n\nDÓRIA, C. A.; VIEIRA, I. C. G. Iguarias da floresta. Ciência Hoje, n. 310, dez. 2013.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A mudança de fenótipo (tamanho dos frutos) nas populações domesticadas de pupunha deu-\nse porque houve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "introdução de novos genes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução da pressão de mutação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminuição da uniformidade genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento da frequência de alelos de interesse.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "expressão de genes de resistência a patógenos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

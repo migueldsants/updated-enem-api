@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2020 - Digital",
+    "index": 53,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No protestantismo ascético, temos não apenas a clara noção da primazia da ética sobre o\nmundo, mas também a mitigação dos efeitos da dupla moral judaica (uma moral interna para\nos irmãos de crença e outra externa para os infiéis). O desafio aqui é o da ética, que quer\ndeixar de ser um ideal eventual e ocasional (que exige dos virtuosos religiosos quase sempre\numa “fuga do mundo”, como na prática monástica cristã medieval) para tornar-se efetivamente\numa lei prática e cotidiana “dentro do mundo”.\n\nSOUZA, J. A ética protestante e a ideologia do atraso brasileiro.\nRevista Brasileira de Ciências Sociais, n. 38, out. 1998.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Retomando o pensamento de Max Weber, o texto apresenta a tensão entre positividade ético-\nreligiosa e esferas mundanas de ação. Nessa perspectiva, a ética protestante é compreendida\ncomo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vinculada ao abandono da felicidade terrena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contrária aos princípios econômicos liberais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "promovedora da dimensão política da vida cotidiana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estimuladora da igualdade social como direito divino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "adequada ao desenvolvimento do capitalismo moderno.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

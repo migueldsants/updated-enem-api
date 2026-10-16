@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2015 - Reaplicação",
+    "index": 109,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Famigerado\n\nCom arranco, [o sertanejo] calou-se. Como arrependido\nde ter começado assim, de evidente. Contra que aí estava\ncom o fígado em más margens; pensava, pensava.\nCabismeditado. Do que, se resolveu. Levantou as feições.\nSe é que se riu: aquela crueldade de dentes. Encarar, não\nme encarava, só se fito à meia esguelha. Latejava-lhe um\norgulho indeciso. Redigiu seu monologar.\n\nO que frouxo falava: de outras, diversas pessoas\ne coisas, da Serra, do São Ão, travados assuntos,\ninsequentes, como dificultação. A conversa era para\nteias de aranha. Eu tinha de entender-lhe as mínimas\nentonações, seguir seus propósitos e silêncios. Assim no\nfechar-se com o jogo, sonso, no me iludir, ele enigmava.\nE, pá:\n\n— Vosmecê agora me faça a boa obra de querer\nme ensinar o que é mesmo que é: fasmisgerado...\nfaz-me-gerado... falmisgeraldo... familhas-gerado...?\n\nROSA, J. G. Primeiras estórias. Rio de Janeiro: Nova Fronteira, 1988.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A linguagem peculiar é um dos aspectos que conferem\na Guimarães Rosa um lugar de destaque na literatura\nbrasileira. No fragmento lido, a tensão entre a personagem\ne o narrador se estabelece porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o narrador se cala, pensa e monologa, tentando assim evitar a perigosa pergunta de seu interlocutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o sertanejo emprega um discurso cifrado, com enigmas, como se vê em “a conversa era para teias de aranha”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "entre os dois homens cria-se uma comunicação impossível, decorrente de suas diferenças socioculturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a fala do sertanejo é interrompida pelo gesto de impaciência do narrador, decidido a mudar o assunto da conversa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a palavra desconhecida adquire o poder de gerar conflito e separar as personagens em planos incomunicáveis.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

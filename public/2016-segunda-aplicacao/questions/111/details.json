@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2016 - Segunda aplicação",
+    "index": 111,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As plataformas digitais têm ganhado mais espaço\nentre os internautas como ferramenta para exercer a\ncidadania. Através delas, é possível mapear problemas\nda cidade e propor soluções, utilizando-se das redes\nsociais para aproximar os moradores e articular projetos.\nO espaço colaborativo PortoAlegre.cc, um dos mais ativos\nno país, tem 150 participantes e ajudou a estudante de\njornalismo Renata Gomes, 25, a chamar 80 pessoas para\nretirar 1 tonelada de lixo da orla do rio Guaíba. “Foi a partir\nda sugestão de um integrante da plataforma que criei a\ncausa. Foi fundamental porque sempre senti vontade\nde fazer algo pela cidade, mas não sabia como”, diz\nRenata. O projeto colaborativo baseia-se no conceito de\nwikicidade (inspirado na enciclopédia virtual Wikipédia),\nem que um território real recebe anotações virtuais das\npessoas por meio de wikispots, que se referem a uma\npraça, uma rua ou um bairro. “A ideia de wikicidade é\nfomentar a cocriação, elaboração e experimentação de\nsugestões que possam ser aplicadas em uma cidade”,\nexplica Daniel Bittencourt, um dos desenvolvedores do\nprojeto PortoAlegre.cc.\n\nDIDONÊ, D. Cidadania 2.0. Vida Simples, n. 119, jun. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto, ao falar da utilização das redes sociais e informar\nsobre a quantidade de projetos colaborativos espalhados\npelo país, expõe a importância das plataformas digitais\nno exercício da cidadania. O espaço colaborativo\nPortoAlegre.cc tem como principal objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contratar pessoas para realizarem a limpeza de ruas e de margens dos rios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sugerir a criação de grupos virtuais de apoio à cidade e sua divulgação na Wikipédia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reunir pessoas dispostas a utilizar sugestões virtuais para a manutenção e a preservação da cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "divulgar as redes sociais para que mais pessoas possam interagir e resolver os problemas da cidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "aproximar as pessoas de cidades distantes para mapear problemas e criar projetos em comum.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

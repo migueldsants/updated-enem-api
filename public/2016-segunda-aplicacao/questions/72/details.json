@@ -1,0 +1,43 @@
+{
+    "title": "Questão 72 - ENEM 2016 - Segunda aplicação",
+    "index": 72,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A descoberta dos organismos extremófilos foi\numa surpresa para os pesquisadores. Alguns desses\norganismos, chamados de acidófilos, são capazes\nde sobreviver em ambientes extremamente ácidos.\nUma característica desses organismos é a capacidade\nde produzir membranas celulares compostas de lipídeos\nfeitos de éteres em vez dos ésteres de glicerol, comuns\nnos outros seres vivos (mesófilos), o que preserva\na membrana celular desses organismos mesmo em\ncondições extremas de acidez.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A degradação das membranas celulares de organismos\nnão extremófilos em meio ácido é classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hidrólise.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "termólise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "eterificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "condensação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "saponificação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

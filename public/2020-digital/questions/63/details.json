@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2020 - Digital",
+    "index": 63,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Vive-se a Revolução Verde. Trata-se da disseminação de novas práticas, permitindo um\nvasto aumento na produção. O modelo baseia-se na intensiva utilização de sementes\nmelhoradas (particularmente das híbridas), assim como no uso sistemático de insumos\nindustriais (fertilizantes e agrotóxicos), no recurso à irrigação e na mecanização do trabalho.\n\nDEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil.\nRio de Janeiro: Ediouro, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No Brasil, uma desvantagem para o pequeno produtor provocada pela expansão do modelo\nagrícola descrito é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estagnação da atividade agroindustrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diminuição da lavoura monocultora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "restrição do controle de pragas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elevação do custo de cultivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "redução do emprego formal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

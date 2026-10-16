@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2016 - Segunda aplicação",
+    "index": 146,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa está disputando um processo de seleção\npara uma vaga de emprego em um escritório. Em uma\ndas etapas desse processo, ela tem de digitar oito textos.\nA quantidade de erros dessa pessoa, em cada um dos\ntextos digitados, é dada na tabela.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/146/95473275-39eb-4edb-8d98-d645b332079c.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/146/95473275-39eb-4edb-8d98-d645b332079c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa etapa do processo de seleção, os\ncandidatos serão avaliados pelo valor da mediana do\nnúmero de erros.\nA mediana dos números de erros cometidos por essa\npessoa é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

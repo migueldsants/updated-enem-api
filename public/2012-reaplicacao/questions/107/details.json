@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2012 - Reaplicação",
+    "index": 107,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os conhecimentos de fisiologia são aqueles básicos\npara compreender as alterações que ocorrem durante as\natividades físicas (frequência cardíaca, queima de calorias,\nperda de água e sais minerais) e aquelas que ocorrem\nem longo prazo (melhora da condição cardiorrespiratória,\naumento da massa muscular, da força e da flexibilidade\ne diminuição de tecido adiposo). A bioquímica abordará\nconteúdos que subsidiam a fisiologia: alguns processos\nmetabólicos de produção de energia, eliminação e\nreposição de nutrientes básicos. Os conhecimentos de\nbiomecânica são relacionados à anatomia e contemplam,\nprincipalmente, a adequação dos hábitos posturais, como,\npor exemplo, levantar um peso e equilibrar objetos.\n\nBRASIL. Parâmetros Curriculares Nacionais: Educação Física. Brasília: MEC/SEF, 1997.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em um exercício físico, são exemplos da abordagem\nfisiológica, bioquímica e biomecânica, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a quebra da glicose na célula para produção de energia no ciclo de Krebs; o aumento da frequência cardíaca e da pressão arterial; o tamanho da passada durante a execução da corrida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a quebra da glicose na célula para produção de energia no ciclo de Krebs; o tamanho da passada durante a execução da corrida; o aumento da frequência cardíaca e da pressão arterial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o tamanho da passada durante a execução da corrida; o aumento da frequência cardíaca e da pressão arterial; a quebra da glicose na célula para produção de energia no ciclo de Krebs.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o aumento da frequência cardíaca e da pressão arterial; a quebra da glicose na célula para produção de energia no ciclo de Krebs; o tamanho da passada durante a execução da corrida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o aumento da frequência cardíaca e pressão arterial; o tamanho da passada durante a execução da corrida; a quebra da glicose na célula para produção de energia no ciclo de Krebs.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2013 - Reaplicação",
+    "index": 122,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/122/2d045788-79af-4b96-af20-f5d94d058a36.png)\n\nDisponível em: http://portal.rpc.com.br. Acesso em: 13 jun. 2011.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/122/2d045788-79af-4b96-af20-f5d94d058a36.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A tirinha faz referência a uma situação muito comum nas famílias brasileiras: a necessidade de estudar para o vestibular.\nBuscando convencer o seu interlocutor, os personagens da tira fazem uso das seguintes estratégias argumentativas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Comoção e chantagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Comoção e ironia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intimidação e chantagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Intimidação e sedução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sedução e ironia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 16,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Lima Barreto, o fato e a ficção\nNeste volume da Biblioteca Carioca, apresentam-se dois\ntextos de Lima Barreto. O primeiro — Diário do hospício —\ncombina memórias e reflexões acerca da vida no manicômio\n(e fora dele, algumas vezes), constituindo-se no diário do\nescritor, relativo ao período de 25 de dezembro de 1919 a\n2 de fevereiro de 1920, em que se encontrava internado\nno Hospício de D. Pedro II, situado na Praia Vermelha.\nO segundo texto — O cemitério dos vivos — apresenta caráter\nficcional e, apesar de centrar-se em um núcleo familiar,\nremete muitas vezes às observações transcritas no Diário do\nhospício. Acrescentou-se aos dois textos um conto, Como o\nhomem chegou, em que um episódio ocorrido com o autor,\npor ocasião de seu primeiro internamento, serve de base à\nfabulação; e cartas enviadas e recebidas por Lima Barreto\nquando se encontrava no hospício.\n\nMACHADO, A. L. O.; GENS, R. M. C. ln: BARRETO, L. Diário do hospício;\nO cemitério dos vivos. Rio de Janeiro: Biblioteca Carioca, 1993 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse trecho do prefácio do livro de Lima Barreto cumpre o\npropósito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tecer uma crítica aos textos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apresentar uma introdução da obra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "evidenciar o caráter confidencial da escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "registrar uma experiência pessoal do autor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "informar sobre o lançamento da coletânea de textos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

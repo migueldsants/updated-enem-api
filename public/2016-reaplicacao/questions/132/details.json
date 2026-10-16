@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2016 - Reaplicação",
+    "index": 132,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "É uma partida de futebol\nA bandeira no estádio é um estandarte\nA flâmula pendurada na parede do quarto\nO distintivo na camisa do uniforme\nQue coisa linda é uma partida de futebol\n\nPosso morrer pelo meu time\nSe ele perder, que dor, imenso crime\nPosso chorar se ele não ganhar\nMas se ele ganha, não adianta\nNão há garganta que não pare de berrar\n\nREIS, N.; ROSA, S. Samba poconé. São Paulo: Sony, 1996 (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No Brasil, além de um esporte de competição, o futebol\né um meio de interação social que desperta paixão nas\npessoas. No trecho da letra da canção, esse esporte é\napresentado como um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "modalidade esportiva técnica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "forma de controle da violência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "esporte organizado com regras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elemento da identidade nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "fator de alienação social do povo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

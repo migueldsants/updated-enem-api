@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2015 - Reaplicação",
+    "index": 131,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Manter as contas sob controle e as finanças saudáveis\nparece um objetivo inatingível para você? Tenha certeza\nde que você não está sozinho. A bagunça na vida\nfinanceira compromete os sonhos de muita gente no\n\n2015\n\nBrasil. É por isso que nós lançamos, pelo terceiro ano\nconsecutivo, este especial com informações que ajudam\na encarar a situação de forma prática. Sem malabarismos\n— mas com boa dose de disciplina! — é possível quitar\nas dívidas, organizar os gastos, fazer planos de consumo\nque caibam em seus rendimentos mensais e estruturar os\ninvestimentos para fazer o dinheiro que sobra render mais.\nTer dinheiro para viver melhor está diretamente\nrelacionado a sua capacidade de se organizar e de\neleger prioridades na hora de gastar. Aceite o desafio e\nboa leitura!\n\nVocê S/A, n. 16, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No trecho apresentado, são utilizados vários argumentos\nque demonstram que o objetivo principal do produtor do\ntexto, em relação ao público-alvo da revista, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conscientizar o leitor de que ele é capaz de economizar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "levar o leitor a envolver-se com questões de ordem econômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ajudar o leitor a quitar suas dívidas e organizar sua vida financeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "persuadir o leitor de que ele não é o único com problemas financeiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convencer o leitor da importância de ler essa edição especial da revista.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

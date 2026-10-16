@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2016 - Reaplicação",
+    "index": 20,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/20/b7fd4914-e098-4cf0-805a-efd2b071d128.png)\n\nOITICICA, H. Parangolé. Disponível em: www.muhka.be. Acesso em: 23 maio 2012.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/20/b7fd4914-e098-4cf0-805a-efd2b071d128.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Inspirada em fantasias de Carnaval, a arte apresentada se\nopunha à concepção de patrimônio vigente nas décadas\nde 1960 e 1970 na medida em que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "se apropriava das expressões da cultura popular para produzir uma arte efêmera destinada ao protesto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "resgatava símbolos ameríndios e africanos para se adaptar a exposições em espaços públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "absorvia elementos gráficos da propaganda para criar objetos comercializáveis pelas galerias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "valorizava elementos da arte popular para construir representações da identidade brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incorporava elementos da cultura de massa para atender às exigências dos museus.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

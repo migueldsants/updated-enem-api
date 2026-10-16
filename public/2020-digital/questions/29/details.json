@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2020 - Digital",
+    "index": 29,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/29/f88ac68d-6feb-4eb2-8811-44a3573fe6d4.png)\n\nDisponível em: www.ricmais.com.br. Acesso em: 10 nov. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/29/f88ac68d-6feb-4eb2-8811-44a3573fe6d4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com as intenções comunicativas e os recursos linguísticos que se destacam,\ndeterminadas funções são atribuídas à linguagem. A função que predomina nesse texto é a\nconativa, uma vez que ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atua sobre o interlocutor, procurando convencê-lo a realizar sua escolha de maneira consciente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "coloca em evidência o canal de comunicação pelo uso das palavras “corrige” e “confirma”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "privilegia o texto verbal, de base informativa, em detrimento do texto não verbal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "usa a imagem como único recurso para interagir com o público a que se destina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evidencia as emoções do enunciador ao usar a imagem de uma criança.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

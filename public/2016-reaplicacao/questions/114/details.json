@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2016 - Reaplicação",
+    "index": 114,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ainda os equívocos no combate\naos estrangeirismos\n\nPor que não se reconhece a existência de norma nas\nvariedades populares? Para desqualificá-las? Por que só\numa norma é reconhecida como norma e, não por acaso,\na da elite?\n\nPor tantos equívocos, só nos resta lamentar que\nalgumas pessoas, imbuídas da crença de que estão\ndefendendo a língua, a identidade e a pátria, na verdade\nestejam reforçando velhos preconceitos e imposições. O\nportuguês do Brasil há muito distanciou-se do português\nde Portugal e das prescrições dos gramáticos, cujo\nserviço às classes dominantes é definir a língua do poder\nem face de ameaças – internas e externas.\n\nZILLES, A. M. S. In: FARACO, C. A. (Org.). Estrangeirismos: guerras em torno da língua.\nSão Paulo: Parábola, 2004 (adaptado).\n\n2016",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto aborda a linguagem como um campo de disputas\ne poder. As interrogações da autora são estratégias que\nconduzem ao convencimento do leitor de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o português do Brasil é muito diferente do português de Portugal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as prescrições dos gramáticos estão a serviço das classes dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a norma linguística da elite brasileira é a única reconhecida como tal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o português do Brasil há muito distanciou-se das prescrições dos gramáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a desvalorização das variedades linguísticas populares tem motivação social.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

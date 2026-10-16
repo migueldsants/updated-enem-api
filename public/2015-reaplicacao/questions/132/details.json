@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2015 - Reaplicação",
+    "index": 132,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O primeiro contato dos suruís com o homem branco foi\nem 1969. A população indígena foi dizimada por doenças\ne matanças, mas, recentemente, voltou a crescer.\nSoa contraditório, mas a mesma modernidade que\nquase dizimou os suruís nos tempos do primeiro contato\npromete salvar a cultura e preservar o território desse\npovo. Em 2007, o líder Almir Suruí, de 37 anos, fechou\numa parceria inédita e levou a tecnologia às tribos.\nOs índios passaram a valorizar a história dos anciãos.\nE a resguardar, em vídeos e fotos on-line, as tradições\nda aldeia. Ainda se valeram de smartphones e GPS para\ndelimitar suas terras e identificar os desmatamentos\nilegais.\n\nRIBEIRO, A. Não temos o direito de ficar isolados. Época, n. 718, 20 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se as características históricas da relação\nentre índios e não índios, a suposta contradição observada\nna relação entre suruís e recursos da modernidade\njustifica-se porque os índios",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aderiram à tecnologia atual como forma de assimilar a cultura do homem branco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fizeram uso do GPS para identificar áreas propícias a novas plantações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "usaram recursos tecnológicos para registrar a cultura do seu povo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "fecharam parceria para denunciar as vidas perdidas por doenças e matanças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "resguardaram as tradições da aldeia à custa do isolamento provocado pela tecnologia moderna.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

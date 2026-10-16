@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2020 - Digital",
+    "index": 109,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O cultivo de células animais transformou-se em uma tecnologia moderna com inúmeras\naplicações, dentre elas testes de fármacos visando o desenvolvimento de medicamentos.\nApesar de os primeiros estudos datarem de 1907, o cultivo de células animais alcançou\nsucesso na década de 1950, quando Harry Eagle conseguiu definir os nutrientes necessários\npara o crescimento celular.\n\n![](https://enem.dev/2020-digital/questions/109/76b115bc-9027-40f9-9c6c-81c9d20a6255.png)\n\nCASTILHO, L. Tecnologia de biofármacos. São Paulo, 2010.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/109/76b115bc-9027-40f9-9c6c-81c9d20a6255.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual componente garante o suprimento energético para essas células?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H2O",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vitaminas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fonte de carbono",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Indicadores de pH",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Elementos inorgânicos",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

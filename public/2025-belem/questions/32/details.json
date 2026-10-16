@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 32,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Falavam-me sempre no perigo de subir à Favela. Nos seus\nterríveis valentes. Nos seus malandros que assaltam com a\nmesma facilidade com que se dá bom-dia.\n\nO maior perigo que eu encontrei na Favela foi o risco,\na cada passo, de despencar-me de lá de cima pela pedreira\nou pelo morro abaixo.\n\nAquela gente, que não tem nada, dá uma profunda lição\nde alegria àqueles que têm tudo.\n\nSem higiene, sem conforto, naqueles pequeninos casebres\n[...], que se arriscam, a cada instante, a voar com o vento\nou despencar-se lá de cima; aquela população de homens\nvalentes — estivadores, carvoeiros, embarcadiços — e de\nmulheres anemiadas e fracas, e de crianças mal alimentadas\ne em trapos, cria porcos, bebe cachaça, toca cavaquinho\ne canta!...\n\nCOSTALLAT, B. Mistérios do Rio. Rio de Janeiro: Secretaria Municipal\nde Cultura, Turismo e Esportes, 1990.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em 1924, quando foi publicada essa crônica, predominava uma\nvisão estigmatizada e preconceituosa sobre as comunidades\nno Rio de Janeiro da Primeira República. Nesse trecho, essa\npercepção é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reforçada pelas ameaças enfrentadas na favela, habitada por valentes e malandros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atenuada por uma visão romântica sobre a comunidade, compreendida como festiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ressignificada pela exposição do real perigo do morro, materializado pelo risco de queda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "relativizada por uma compreensão ambivalente do morro, constituído por mazelas e alegrias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "enfatizada pela denúncia das más condições da vida local, marcada pela falta de higiene e conforto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

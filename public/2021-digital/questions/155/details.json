@@ -1,0 +1,49 @@
+{
+    "title": "Questão 155 - ENEM 2021 - Digital",
+    "index": 155,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O administrador de um teatro percebeu que, com o ingresso do evento a R$ 20,00,\num show conseguia atrair 200 pessoas e que, a cada R$ 1,00 de redução no preço do\ningresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só\nadmitem trabalhar com valores inteiros para os ingressos, pela dificuldade de\ndisponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim,\napresentará um gráfico da arrecadação em função do valor do desconto no preço atual do\ningresso.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/155/e33d4014-7cae-4719-8493-bf76c357baf4.png",
+        "https://enem.dev/2021-digital/questions/155/cd532918-d4dc-4d13-818b-b69fc2c1b909.png",
+        "https://enem.dev/2021-digital/questions/155/caccc7c3-851f-4bcd-bd0a-1a573edaa3ab.png",
+        "https://enem.dev/2021-digital/questions/155/6d80a203-6d9f-4d63-9769-4eaff3326c39.png",
+        "https://enem.dev/2021-digital/questions/155/93b8107e-38c1-4677-b0ec-fff07fdb73c1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/155/e33d4014-7cae-4719-8493-bf76c357baf4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/155/cd532918-d4dc-4d13-818b-b69fc2c1b909.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/155/caccc7c3-851f-4bcd-bd0a-1a573edaa3ab.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/155/6d80a203-6d9f-4d63-9769-4eaff3326c39.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/155/93b8107e-38c1-4677-b0ec-fff07fdb73c1.png",
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 40,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A literatura indígena, por sua vinculação à tradição oral e\nconstrução multimodal, entre outros aspectos, desafia o leitor.\nOs textos indígenas apresentam uma complexidade em termos\nde gênero, autoria, multimodalidades, além de percepções\nculturais da realidade, que exigem do leitor um reposicionamento\ncultural, ao mesmo tempo em que motivam a interação com\no outro por meio da literatura. Como mediadores de leitura,\nos professores exercem um papel essencial na formação de\nleitores competentes. A leitura de obras literárias, em especial,\npromove a percepção não só de temas variados, mas também\nde como esses temas são abordados.\n\nQuando falamos sobre o contato de crianças e jovens com\na literatura indígena brasileira, estamos falando de muitas\nliteraturas, culturas e vozes, criadas não só em língua portuguesa,\nmas também em idiomas originários. Os educadores voltam-se\npara a questão da inclusão social e cultural de grupos cuja\nliteratura foi vista como inexistente por séculos. Isso se deve\nà visão de uma tradição literária ocidental cujos parâmetros\nde produção e divulgação divergem de culturas ainda muito\nligadas à tradição oral e de performance.\n\nDisponível em: www.revista.usp.br. Acesso em: 25 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A abordagem da literatura indígena brasileira nas escolas é\nimportante para a preservação da memória nacional por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estimular a diversidade no ensino de línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ampliar a competência leitora dos estudantes indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "promover a compreensão da cultura dos povos originários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "possibilitar o trabalho dos professores com a leitura multimodal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "transpor as marcas da oralidade de línguas indígenas para a escrita.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

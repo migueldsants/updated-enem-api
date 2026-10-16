@@ -1,0 +1,45 @@
+{
+    "title": "Questão 123 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 123,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A luz que atinge a retina desencadeia a formação de impulsos nervosos que são transmitidos para diferentes áreas do\nencéfalo, como representado no esquema. Para que uma pessoa possa enxergar, a informação tem que atingir o córtex visual.\nQuando alguma parte da via que conduz a informação até lá é lesada, ocorre perda da visão. Por outro lado, a informação que\nchega ao hipotálamo não participa da formação da imagem, mas influencia a secreção do hormônio melatonina pela glândula\npineal. Quando há entrada de luz na retina, a secreção de melatonina é inibida.\n\n![](https://enem.dev/2025-belem/questions/123/b1dbb1c1-6262-4ddb-82e3-f8e1aaef2468.png)\n\nUm médico avaliou a secreção de melatonina após iluminar a retina em dois pacientes com perda visual. No primeiro\npaciente (1), houve inibição da secreção de melatonina; enquanto no segundo (2), a inibição não aconteceu.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/123/b1dbb1c1-6262-4ddb-82e3-f8e1aaef2468.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os pacientes 1 e 2 tiveram perda visual, pois apresentavam problemas, respectivamente, no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "retina e nervo óptico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "córtex visual e retina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "nervo óptico e tálamo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tálamo e córtex visual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hipotálamo e glândula pineal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

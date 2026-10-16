@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2015 - Reaplicação",
+    "index": 96,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O mundo das grandes inovações tecnológicas, dos\n\n![](https://enem.dev/2015-reaplicacao/questions/96/9e14d174-1b68-4a3a-b7b2-46cbf1f4adcf.png)\n\navanços das pesquisas médicas e que já presenciou o\nenvio de homens ao espaço é o mesmo lugar onde 1 bilhão\nde pessoas dormem e acordam com fome. A desnutrição\nocupa o primeiro lugar no ranking dos 10 maiores riscos à\nsaúde e mata mais do que a aids, a malária e a tuberculose\ncombinadas. O equivalente às populações da Europa e\nda América do Norte, juntas, está de barriga vazia. E um\nfuturo famélico aguarda a raça humana. Em 2050, apenas\npor razões ligadas às mudanças climáticas, o número de\npessoas sem comida no prato vai aumentar em até 20%.\n\nDisponível em: www.correiobraziliense.com.br. Acesso em: 22 jan. 2012.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/96/9e14d174-1b68-4a3a-b7b2-46cbf1f4adcf.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a natureza do tema, a forma como está\napresentado e o meio pelo qual é veiculado o texto,\npercebe-se que seu principal objetivo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "divulgar dados estatísticos recentes sobre a fome no mundo e sobre as inovações tecnológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "esclarecer questões científicas acerca dos danos causados pela fome e pela aids nos indivíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "demonstrar que a fome, juntamente com as doenças endêmicas, também é um problema de saúde pública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "convidar o leitor a engajar-se em alguma ação positiva contra a fome, a partir da divulgação de dados alarmantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alertar sobre o problema da fome, apresentando-o como um contraste no mundo de tantos recursos tecnológicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

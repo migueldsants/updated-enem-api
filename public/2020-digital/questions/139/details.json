@@ -1,0 +1,49 @@
+{
+    "title": "Questão 139 - ENEM 2020 - Digital",
+    "index": 139,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um país, as infrações de trânsito são classificadas de acordo com sua gravidade.\nInfrações dos tipos leves e médias acrescentam, respectivamente, 3 e 4 pontos na carteira de\nhabilitação do infrator, além de multas a serem pagas. Um motorista cometeu 5 infrações de\ntrânsito. Em consequência teve 17 pontos acrescentados em sua carteira de habilitação.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/139/2c68b5d4-8a68-48de-aa6b-a73d9a798008.png",
+        "https://enem.dev/2020-digital/questions/139/b8eec913-252f-423d-acfc-d94751ff5d5a.png",
+        "https://enem.dev/2020-digital/questions/139/10a372a8-eb3b-40ae-8616-14c75da38423.png",
+        "https://enem.dev/2020-digital/questions/139/39dadfd8-2593-487b-a82c-573be2ce8008.png",
+        "https://enem.dev/2020-digital/questions/139/24a36f83-3ea8-4499-9ae4-7a6626021fe6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a razão entre o número de infrações do tipo\ncometidas por esse motorista?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/139/2c68b5d4-8a68-48de-aa6b-a73d9a798008.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/139/b8eec913-252f-423d-acfc-d94751ff5d5a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/139/10a372a8-eb3b-40ae-8616-14c75da38423.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/139/39dadfd8-2593-487b-a82c-573be2ce8008.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020-digital/questions/139/24a36f83-3ea8-4499-9ae4-7a6626021fe6.png",
+            "isCorrect": false
+        }
+    ]
+}

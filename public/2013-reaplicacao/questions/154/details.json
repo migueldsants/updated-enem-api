@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2013 - Reaplicação",
+    "index": 154,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Todos os anos, a Receita Federal alerta os\ncontribuintes para não deixarem o envio de seus dados\npara o último dia do prazo de entrega, pois, após esse\nprazo, terá que pagar uma multa. Em certo ano, a quatro\ndias do prazo final, contabilizou-se o recebimento de\n16,2 milhões de declarações, o equivalente a cerca\nde 60% do total estimado pela Receita Federal. Nesse\nmesmo momento, foi observado que a média de entrada\nera de aproximadamente 90 000 declarações por hora.\n\nDisponível em: www.folha.uol.com.br. Acesso em: 30 maio 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/154/8398007b-4bbf-4b48-8de8-17d8498ddac7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando o total estimado para entrega e\npermanecendo nesses últimos dias a mesma média\npor hora de recebimentos das declarações, qual a\nquantidade aproximada de pessoas que terão que pagar\nmulta por atraso, sabendo que a Receita Federal recebe\ndeclarações 24 horas por dia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,16 milhões",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4,05 milhões",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6,21 milhões",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7,65 milhões",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/154/8398007b-4bbf-4b48-8de8-17d8498ddac7.png",
+            "isCorrect": false
+        }
+    ]
+}

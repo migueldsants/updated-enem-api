@@ -1,0 +1,45 @@
+{
+    "title": "Questão 99 - ENEM 2021 - Digital",
+    "index": 99,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais\nelétricos advindos do coração. A imagem apresenta o resultado típico obtido em um\npaciente saudável e a intensidade do sinal (V_EC) em função do tempo.\n\n![](https://enem.dev/2021-digital/questions/99/cdd69a39-fd10-4f01-bbf3-e67cd5519d4e.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/99/cdd69a39-fd10-4f01-bbf3-e67cd5519d4e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos\ncardíacos por minuto desse paciente durante o exame?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "180",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

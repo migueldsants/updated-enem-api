@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 135,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os satélites artificiais e as sondas para exploração espacial são algumas das grandes realizações humanas desenvolvidas\nno último século. Para coletar e armazenar informações ao longo de anos, esses equipamentos precisam de energia.\nComo forma de fornecer energia limpa ao satélite, são acoplados diversos painéis de células solares, que, em fotografias, muitas\nvezes são confundidos com “asas”.\n\nUm satélite geoestacionário precisa armazenar a energia obtida pelos seus painéis solares em suas baterias. Como forma\nde otimizar o processo de absorção da energia solar, o ideal é que a superfície dos painéis mantenha-se perpendicular aos raios\nsolares incidentes. Para isso, foi adaptado um sistema que rotaciona os painéis solares com velocidade angular constante.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a velocidade de rotação dos painéis em comparação à velocidade de rotação da Terra (R_T)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,25 R_T",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,5 R_T",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R_T",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 R_T",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 R_T",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

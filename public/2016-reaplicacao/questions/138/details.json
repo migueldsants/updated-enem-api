@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2016 - Reaplicação",
+    "index": 138,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um artista utilizou uma caixa cúbica transparente para\na confecção de sua obra, que consistiu em construir um\npolígono IMNKPQ, no formato de um hexágono regular,\ndisposto no interior da caixa. Os vértices desse polígono\nestão situados em pontos médios de arestas da caixa.\nUm esboço da sua obra pode ser visto na figura.\n\nE K\n\n![](https://enem.dev/2016-reaplicacao/questions/138/5421b1a6-d2ec-4bfa-9a5c-0da74599fd94.png)\n\nC\n\nA B",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/138/5421b1a6-d2ec-4bfa-9a5c-0da74599fd94.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as diagonais do hexágono, distintas de IK,\nquantas têm o mesmo comprimento de IK?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

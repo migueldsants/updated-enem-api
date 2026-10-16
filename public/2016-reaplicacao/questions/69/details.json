@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2016 - Reaplicação",
+    "index": 69,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Todo ano, cresce a demanda mundial de energia\ncom o aumento das populações e do consumo. É cada\nvez mais necessário buscar fontes alternativas que não\ndegradem os recursos do planeta nem comprometam\na sobrevivência das espécies. Ainda há muito o que se\ndescobrir sobre o uso eficiente de recursos energéticos\nprovenientes de fontes renováveis, mas elas estão mais\npróximas do que parece da adoção em larga escala.\n\nBARBOSA, M. A sustentabilidade da energia renovável. Superinteressante, n. 102, 1996.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os recursos energéticos do tipo citado são provenientes de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pilhas e baterias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "usinas nucleares e hidrelétricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "células solares e geradores eólicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "centrais geotérmicas e termoelétricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "usinas maremotrizes e combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

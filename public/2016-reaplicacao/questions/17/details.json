@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2016 - Reaplicação",
+    "index": 17,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando\ncegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição\nconstante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar\no mais possível.\n\nCASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto destaca, além da dinâmica material do capitalismo, a importância da dimensão simbólica da sociedade, que\nconsiste em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "elaborar significações e valores no mundo para dotá-lo de um sentido que transcende a concretude da vida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "estabelecer relações lúdicas entre a vida e a realidade sem a pretensão de transformar o mundo dos homens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atuar sobre a vivência real e modificá-la para estabelecer relações interpessoais baseadas no interesse mútuo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "criar discursos destinados a exercer o convencimento sobre audiências, independentemente das posições defendidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "defender a caridade como realização pessoal, por meio de práticas assistenciais, na defesa dos menos favorecidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

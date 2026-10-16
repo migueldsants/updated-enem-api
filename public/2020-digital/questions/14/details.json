@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2020 - Digital",
+    "index": 14,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/14/e6579681-c0c2-4e77-b88c-c5cad8d2248e.png)\n\nDisponível em: www.comunicadores.info. Acesso em: 27 ago. 2017.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/14/e6579681-c0c2-4e77-b88c-c5cad8d2248e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa é uma campanha de conscientização sobre os efeitos do álcool na direção. Pela leitura\ndo texto, depreende-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o álcool afeta os sentidos humanos, podendo provocar a morte de pessoas inocentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a bicicleta é um veículo de difícil visibilidade para os motoristas alcoolizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o recipiente da bebida pode ser usado como refletor da imagem da criança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a visão do motorista alcoolizado fica turva após a ingestão de bebida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a bebida alcóolica é proibida a menores de idade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

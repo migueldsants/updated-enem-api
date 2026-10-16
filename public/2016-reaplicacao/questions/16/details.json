@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2016 - Reaplicação",
+    "index": 16,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Flor da negritude\n\nNascido numa casa antiga, pequena, com grande quintal arborizado, localizada no subúrbio de Lins de Vasconcelos,\no Renascença Clube foi fundado por 29 sócios, todos negros. Buscava-se instaurar, por meio do Renascença, um\ncampo de relações em que os filhos de famílias negras bem-sucedidas pudessem encontrar pessoas consideradas\ndo mesmo nível social e cultural, para fins de amizade ou casamento. Os homens usavam trajes obrigatoriamente\nformais, flores na lapela, às vezes de summer ou até de fraque. As mulheres se vestiam com muitas sedas, cetins e\nrendas, não esquecendo as luvas e os chapéus.\n\nGIACOMINI, S. M. Revista de História da Biblioteca Nacional, 19 set. 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No início dos anos 1950, a fundação do Renascença Clube, como espaço de convivência, demonstra o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inexperiência associativa que levou a elite negra a imitar os clubes dos brancos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "isolamento da comunidade destacada que ignorava a democracia racial brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "interesse de um grupo de negros na afirmação social para se livrar do preconceito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "existência de uma elite negra imune ao preconceito pela posição social que ocupava.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "criação de um racismo invertido que impedia a presença de pessoas brancas nesses clubes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

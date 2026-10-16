@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2016 - Reaplicação",
+    "index": 122,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Árvore é cortada para dar lugar à propaganda sobre\npreservação ambiental\n\n“Uma criança abraça uma árvore com o sorriso\nno rosto. No fundo verde, uma mensagem exalta a\n\n![](https://enem.dev/2016-reaplicacao/questions/122/5d84336e-4650-485e-9b6a-88a73d83a386.png)\n\nimportância da preservação da natureza e lembra o Dia\nda Árvore”. O que seria um roteiro padrão para uma\npeça publicitária virou motivo de revolta e indignação em\numa cidade do interior de São Paulo. Isso porque uma\nempresa de outdoor derrubou uma árvore centenária em\num terreno para a instalação de suas placas.\n\nA empresa teria informado que tinha autorização da\nprefeitura e da polícia ambiental para cortar a árvore.\nSobre a propaganda, a empresa disse que foi “uma infeliz\ncoincidência”, já que não sabia o que iria ser anunciado.\n\nEm nota, a Companhia de Tecnologia de Saneamento\nAmbiental (Cetesb), ligada à Secretaria do Meio Ambiente\ndo governo paulista, informou que não há nenhuma\nautorização em nome da empresa para o corte da árvore.\n\nA multa, segundo a polícia ambiental, varia entre\nR$ 100 e R$ 1 000 por árvore ou planta cortada.\n\nDisponível em: http://oglobo.globo.com. Acesso em: 21 set. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/122/5d84336e-4650-485e-9b6a-88a73d83a386.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto apresenta uma crítica ao uso social de um outdoor.\nEssa crítica está associada ao fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma multa de R$ 100 a R$ 1 000 ser aplicada por corte de árvore ou de planta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a Secretaria do Meio Ambiente ter negado a autorização do corte da árvore.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a empresa informar que foi uma “infeliz coincidência” o corte da árvore.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uma campanha ambiental ter substituído uma árvore centenária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a empresa utilizar a imagem de uma criança na campanha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

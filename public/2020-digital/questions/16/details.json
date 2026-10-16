@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2020 - Digital",
+    "index": 16,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nA planta de Belo Horizonte\n\nFoi muito grande o contraste entre a nova capital e as antigas vilas coloniais mineiras,\nnascidas das necessidades das populações do século XVIII, que se desenvolveram sem\nnenhum planejamento. A futura capital seria inovadora, moderna e progressista. Assim, o\nprojeto urbanístico que o engenheiro paraense Aarão Reis elaborou para Belo Horizonte\ncausou curiosidade e entusiasmo.\n\nÉ digno de atenção observar os nomes que foram dados às ruas de Belo Horizonte:\nestados brasileiros, tribos indígenas, rios etc. Mencioná-los era uma verdadeira aula de\nestudos sociais. Era, inclusive, uma forma de ensinar a população, ainda carente de ensino\nformal.\n\nDisponível em: www.descubraminas.com.br. Acesso em: 9 dez. 2017 (adaptado).\n\nTEXTO II\n\nRuas da cidade\n\nGuaicurus, Caetés, Goitacazes\nTupinambás, Aimorés\nTodos no chão\n\nGuajajaras, Tamoios, Tapuias\nTodos Timbiras, Tupis\nTodos no chão\n\nA parede das ruas não devolveu\nOs abismos que se rolou\nHorizonte perdido no meio da selva\nCresceu o arraial, arraial\n\nPassa bonde, passa boiada\nPassa trator, avião\nRuas e reis\n\nGuajajaras, Tamoios, Tapuias\nTupinambás, Aimorés\nTodos no chão\n\nA cidade plantou no coração\nTantos nomes de quem morreu\nHorizonte perdido no meio da selva\nCresceu o arraial, arraial\n\nA parede das ruas não devolveu\nOs abismos que se rolou\nHorizonte perdido no meio da selva\n\nBORGES, L.; BORGES, M. In: NASCIMENTO, M. Clube da esquina 2. Rio de Janeiro: EMI, 1978 (fragmento).\n\n![](https://enem.dev/2020-digital/questions/16/f81e863f-5891-4a4f-8b6d-658d161bc50f.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/16/f81e863f-5891-4a4f-8b6d-658d161bc50f.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Guaicurus, Caetés, Goitacazes” / “Tupinambás, Aimorés”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“A parede das ruas não devolveu” / “Os abismos que se rolou”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“Passa bonde, passa boiada” / “Passa trator, avião” / “Ruas e reis”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“A cidade plantou no coração” / “Tantos nomes de quem morreu”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Horizonte perdido no meio da selva” / “Cresceu o arraial, arraial”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

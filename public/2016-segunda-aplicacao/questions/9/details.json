@@ -1,0 +1,45 @@
+{
+    "title": "Questão 9 - ENEM 2016 - Segunda aplicação",
+    "index": 9,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/9/5948d4ab-fc08-43eb-8669-9dab17931d88.png)\n\nILLINGWORTH, L. G. Outubro de 1962. Disponível em: www.llgc.org.uk. Acesso em: 8 mar. 2016.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/9/5948d4ab-fc08-43eb-8669-9dab17931d88.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A charge faz alusão à intensa rivalidade entre as duas\nmaiores potências do século XX. O momento mais tenso\ndessa disputa foi provocado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ampliação da Guerra do Vietnã.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "construção do muro de Berlim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "instalação de mísseis em Cuba.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "eclosão da Guerra dos Sete Dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "invasão do território do Afeganistão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

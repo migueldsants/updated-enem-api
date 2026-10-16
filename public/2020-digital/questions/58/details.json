@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2020 - Digital",
+    "index": 58,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Associados a atividades importantes e variadas na evolução das sociedades americanas\nmodernas, os africanos conseguiram impor sua marca nas línguas, culturas, economias, além\nde participar, quase invariavelmente, na composição étnica das comunidades do Novo Mundo.\nA sua influência alcançou mais fortemente as regiões do latifúndio agrícola, em comunidades\ncujo desenvolvimento ocorreu às margens do Atlântico e do mar das Antilhas, do sudeste dos\nEstados Unidos até a porção nordeste do Brasil, e ao longo das costas do Pacífico, na\nColômbia, no Equador e no Peru.\n\nKNIGHT, F. W. A diáspora africana. In: AJAYI, J. F. A. (Org.). História geral da África:\nÁfrica do século XIX à década de 1880. Brasília: Unesco, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma das contribuições da diáspora descrita no texto para o continente americano foi o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fim da escravidão indígena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "declínio de monoculturas locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "introdução de técnicas produtivas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "formação de sociedades estamentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desvalorização das capitanias hereditárias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

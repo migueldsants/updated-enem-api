@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2020 - Digital",
+    "index": 79,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na América do Sul, a principal orientação dos investimentos nas últimas décadas foi\ndirecionada para aumentar a oferta de commodities agropecuárias e minerais no mercado\nmundial. Grande parte dessas commodities está sendo consumida na China e na Índia, que\nsão países que apresentam um rápido crescimento urbano com uma substancial mudança da\ndistribuição territorial de suas numerosas populações. Soja, minério de ferro, alumínio, petróleo\ne, mais recentemente, biocombustíveis integram a pauta de exportações das nações sul-\namericanas.\n\nEGLER, C. G. Crise, mudanças globais e inserção da América do Sul na economia mundial.\nIn: VIDEIRA, S. L.; COSTA, P. A.; FAJARDO, S. (Org.).Geografia econômica:\n(re)leituras contemporâneas. Rio de Janeiro: Letra Capital, 2011.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O principal risco econômico para os países da América do Sul dependentes da\ncomercialização dos produtos mencionados no texto é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "surgimento de fontes energéticas renováveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "instabilidade do preço dos produtos primários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "distância dos principais parceiros comerciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "concorrência de economias emergentes asiáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "esgotamento das reservas de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

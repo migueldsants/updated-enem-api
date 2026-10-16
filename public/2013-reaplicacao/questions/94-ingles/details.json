@@ -1,0 +1,46 @@
+{
+    "title": "Questão 94 - ENEM 2013 - Reaplicação",
+    "index": 94,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/94-ingles/ee825158-a66b-4aaf-b9d2-98b01d4e30ed.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/94-ingles/8aa2ba8c-d3fb-4678-be0e-9ddf1e22c668.png)\n\nDisponível em: www.arcamax.com. Acesso em: 26 fev. 2012.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/94-ingles/ee825158-a66b-4aaf-b9d2-98b01d4e30ed.png",
+        "https://enem.dev/2013-reaplicacao/questions/94-ingles/8aa2ba8c-d3fb-4678-be0e-9ddf1e22c668.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Tirinhas são construídas a partir de contextos sociais e podem promover reflexões diversas. Essa tirinha provoca no\nleitor uma reflexão acerca da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "divisão de espaço com os pais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "perda da atenção dos pais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "submissão aos pais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ausência dos pais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "semelhança com os pais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

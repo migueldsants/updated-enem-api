@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2016 - Reaplicação",
+    "index": 90,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A obtenção de energia por meio da fissão nuclear do\n\n235\n\nU é muito superior quando comparada à combustão da\ngasolina. O calor liberado na fissão do²³⁵U é 8 × 10¹⁰ J/g\ne na combustão da gasolina é 5 × 10⁴ J/g.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A massa de gasolina necessária para obter a mesma\nenergia na fissão de 1 kg de²³⁵U é da ordem de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10³ g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10⁴ g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10⁵ g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10⁶ g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10⁹ g.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 127,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um óxido é usado como inibidor do crescimento de fungos\nem pinturas e em pomadas antissépticas. Esse óxido tem a\npropriedade de manter o pH da água inalterado. No quadro,\nestão apresentados os comportamentos de alguns óxidos em\n\n![](https://enem.dev/2025-belem/questions/127/b77416b3-9c3f-4e9d-8910-efc68f1a13d8.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/127/b77416b3-9c3f-4e9d-8910-efc68f1a13d8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O óxido adequado para essas aplicações é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "PbO",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cr₂O₃",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ZnO",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "P₄O₁₀",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "MgO",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

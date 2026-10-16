@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2020 - Digital",
+    "index": 67,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O tenentismo veio preencher um espaço: o vazio deixado pela falta de lideranças civis\naptas a conduzirem o processo revolucionário brasileiro que começava a sacudir as já caducas\ninstituições políticas da República Velha. Os “tenentes” substituíram os inexistentes partidos\npolíticos de oposição aos governos de Epitácio Pessoa e de Artur Bernardes.\n\nPRESTES, A. L. Uma epopeia brasileira: a Coluna Prestes. São Paulo: Moderna, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um dos objetivos do movimento político abordado no texto era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "unificar as Forças Armadas pelo comando do Exército nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "combater a corrupção eleitoral perpetrada pelas oligarquias regionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "restaurar a segurança das fronteiras negligenciadas pelo governo central.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "organizar as frentes camponesas envolvidas na luta pela reforma agrária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pacificar os movimentos operários radicalizados pelo anarco-sindicalismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

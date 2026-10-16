@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2021 - Digital",
+    "index": 2,
+    "year": 2021,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Amuleto\n\nLo único cierto es que llegué a México en 1965 y me planté en casa de León Felipe y\nen casa de Pedro Garfias y les dije aquí estoy para lo que gusten mandar. Y les debí de\ncaer simpática, porque antipática no soy, aunque a veces soy pesada, pero antipática\nnunca. Y lo primero que hice fue coger una escoba y ponerme a barrer el suelo de sus\ncasas y luego a limpiar las ventanas y cada vez que podía les pedía dinero y les hacía\ncompra. Y ellos me decían con ese tono español tan peculiar, esa musiquilla distinta que\nno los abandonó nunca, como si encircularan las zetas y las ces y como si dejaran a las\neses más huérfanas y libidinosas que nunca, Auxilio, me decían, deja ya de trasegar por\nel piso, Auxilio, deja esos papeles tranquilos, mujer, que el polvo siempre se ha avenido\ncon la literatura.\n\nBOLAÑO, R. A. Tres novelas. Barcelona: Círculo de Lectores, 2003.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No fragmento do romance, a uruguaia Auxilio narra a experiência que viveu no México ao\ntrabalhar voluntariamente para dois escritores espanhóis. Com base na relação com os\nescritores, ela reflete sobre a(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "variação linguística do espanhol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "sujeira dos livros de literatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "distintas maneiras de acolher do mexicano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "orientações sobre a limpeza das casas dos espanhóis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dificuldades de comunicação entre patrão e empregada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

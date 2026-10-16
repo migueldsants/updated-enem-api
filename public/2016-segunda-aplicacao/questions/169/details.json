@@ -1,0 +1,50 @@
+{
+    "title": "Questão 169 - ENEM 2016 - Segunda aplicação",
+    "index": 169,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A bocha é um esporte jogado em canchas, que são terrenos planos e nivelados, limitados por tablados perimétricos\nde madeira. O objetivo desse esporte é lançar bochas, que são bolas feitas de um material sintético, de maneira a\nsituá-las o mais perto possível do bolim, que é uma bola menor feita, preferencialmente, de aço, previamente lançada.\nA Figura 1 ilustra uma bocha e um bolim que foram jogados em uma cancha. Suponha que um jogador tenha lançado\numa bocha, de raio 5 cm, que tenha ficado encostada no bolim, de raio 2 cm, conforme ilustra a Figura 2.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/169/1322d1d9-3e47-4459-b009-435fccba1b01.png)\n\nC\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/169/2dac96d3-adb4-49d5-a45f-0f6d366951c8.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/169/1bced2fa-5595-439e-93f4-abd5b9a95141.png)\n\nA B\n\nFigura 1 Figura 2",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/169/1322d1d9-3e47-4459-b009-435fccba1b01.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/169/2dac96d3-adb4-49d5-a45f-0f6d366951c8.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/169/1bced2fa-5595-439e-93f4-abd5b9a95141.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/169/5c32042d-821c-4696-a78a-909c5490195f.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/169/840dd5f8-3097-4ee4-beb3-07be06f93000.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/169/662939de-8be3-4556-87dd-925b2d3bf7bc.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considere o ponto C como o centro da bocha, e o ponto O como o centro do bolim. Sabe-se que A e B são os\npontos em que a bocha e o bolim, respectivamente, tocam o chão da cancha, e que a distância entre A e B é igual a d.\nNessas condições, qual a razão entre d e o raio do bolim?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/169/5c32042d-821c-4696-a78a-909c5490195f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/169/840dd5f8-3097-4ee4-beb3-07be06f93000.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/169/662939de-8be3-4556-87dd-925b2d3bf7bc.png",
+            "isCorrect": true
+        }
+    ]
+}

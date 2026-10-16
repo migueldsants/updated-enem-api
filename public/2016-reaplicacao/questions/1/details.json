@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2016 - Reaplicação",
+    "index": 1,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os gargalos rodoviários do Brasil e o caótico trânsito das suas metrópoles forçam os governos estaduais e federal\na retomar os planos de implantação dos trens regionais. Durante as últimas quatro décadas, a malha ferroviária foi\nesquecida e sucateada, tanto que hoje, em todo o país, apenas duas linhas de passageiros estão em funcionamento.\nTransportam 1,5 milhão de pessoas entre Belo Horizonte (MG) e Vitória (ES) e entre São Luís (MA) e Carajás (PA) ― as\nduas operadas pela mineradora Vale. Nos anos 1960, mais de 100 milhões de passageiros utilizavam trens interurbanos\nno território nacional.\n\nDisponível em: www.estadao.com.br. Acesso em: 2 set. 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O sucateamento do meio de transporte descrito foi provocado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução da demanda populacional por trens interurbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inadequação dos trajetos em função da extensão do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "precarização tecnológica frente a outros meios de deslocamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "priorização da malha rodoviária no período de modernização do espaço.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ampliação dos problemas ambientais associados à conservação das ferrovias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

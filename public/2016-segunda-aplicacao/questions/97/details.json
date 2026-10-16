@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2016 - Segunda aplicação",
+    "index": 97,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Fraudador é preso por emitir atestados\ncom erro de português\nMais um erro de português leva um criminoso às mãos\nda polícia. Desde 2003, M.O.P., de 37 anos, administrava\na empresa MM, que falsificava boletins de ocorrência,\ncarteiras profissionais e atestados de óbito, tudo para\nanular multas de trânsito. Amparado pela documentação\nfajuta de M.O.P., um motorista poderia alegar às Juntas\nAdministrativas de Recursos de Infrações que ultrapassou\no limite de velocidade para levar uma parente que passou\nmal e morreu a caminho do hospital.\n\nO esquema funcionou até setembro, quando M.O.P.\nfoi indiciado. Atropelara a gramática. Havia emitido, por\nexemplo, um atestado de abril do ano passado em que\nestava escrito aneurisma “celebral” (com l no lugar de r) e\n“insulficiência” múltipla de órgãos (com um l desnecessário\nem “insuficiência” — além do fato de a expressão médica\nadequada ser “falência múltipla de órgãos”).\n\nM.O.P. foi indiciado pela 2ª Delegacia de Divisão de\nCrimes de Trânsito. Na casa do acusado, em São Miguel\nPaulista, zona leste de São Paulo, a polícia encontrou um\ncomputador com modelos de documentos.\n\nLíngua Portuguesa, n. 12, set. 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto apresentado trata da prisão de um fraudador\nque emitia documentos com erros de escrita. Tendo em\nvista o assunto, a organização, bem como os recursos\nlinguísticos, depreende-se que esse texto é um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conto, porque discute problemas existenciais e sociais de um fraudador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "notícia, porque relata fatos que resultaram no indiciamento de um fraudador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "crônica, porque narra o imprevisto que levou a polícia a prender um fraudador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "editorial, porque opina sobre aspectos linguísticos dos documentos redigidos por um fraudador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "piada, porque narra o fato engraçado de um fraudador descoberto pela polícia por causa de erros de grafia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

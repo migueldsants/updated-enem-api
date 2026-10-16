@@ -1,0 +1,45 @@
+{
+    "title": "Questão 111 - ENEM 2014 - Terceira aplicação",
+    "index": 111,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/111/b6501abe-023d-4e33-b565-d1d4a7987bee.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/111/b6501abe-023d-4e33-b565-d1d4a7987bee.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao analisar as informações visuais e linguísticas dessa\ncharge, entende-se que ela cumpre a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ironizar, de forma bem-humorada, o fracasso dos esforços governamentais no combate à pirataria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "denunciar, de forma preconceituosa, o comportamento dos vendedores de programas piratas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "divulgar, de forma revolucionária, os projetos governamentais para impedir a pirataria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apoiar, de forma explícita, os movimentos populares de apoio ao combate à pirataria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incentivar, de forma irônica, o comércio popular de programas de informática.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

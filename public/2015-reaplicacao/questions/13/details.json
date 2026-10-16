@@ -1,0 +1,46 @@
+{
+    "title": "Questão 13 - ENEM 2015 - Reaplicação",
+    "index": 13,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/13/cf5b3557-882a-43fa-ba3d-05df2352ad9c.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/13/750326d3-2d3b-4565-818c-b9b7144fd6ae.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/13/cf5b3557-882a-43fa-ba3d-05df2352ad9c.png",
+        "https://enem.dev/2015-reaplicacao/questions/13/750326d3-2d3b-4565-818c-b9b7144fd6ae.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O processo indicado no gráfico demonstra um aumento\nsignificativo da população urbana em relação à população\nrural no Brasil. Esse fenômeno pode ser explicado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atração de mão de obra pelo setor produtivo concentrado nas áreas urbanas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "manutenção da instabilidade climática nas áreas rurais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "concentração da oferta de ensino nas áreas urbanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "inclusão da população das áreas urbanas em programas assistenciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "redução dos subsídios para os setores da economia localizados nas áreas rurais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
