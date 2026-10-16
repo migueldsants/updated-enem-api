@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "A sua entrada na escola aos sete anos de idade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "A alusão a uma planta no nome da família.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "O problema de identidade originado desde o berço.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "A isenção da multa por falta de declaração do nascimento.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "O seu nascimento em uma aldeia de camponeses.",
             "file": null,
             "isCorrect": false
         }

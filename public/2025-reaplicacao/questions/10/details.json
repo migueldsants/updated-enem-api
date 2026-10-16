@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "criticar as categorias avaliadas pela Academia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "questionar o papel da indústria do entretenimento.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "comparar o desempenho comercial de dois filmes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "ressaltar o sexismo presente no contexto cinematográfico.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "descrever as reações dos fãs à não indicação de um filme.",
             "file": null,
             "isCorrect": false
         }

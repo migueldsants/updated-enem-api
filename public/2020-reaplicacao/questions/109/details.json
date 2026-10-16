@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "alterações neurológicas, que causam crises epilépticas, tornando o doente incapacitado para o trabalho.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "diarreias agudas e explosivas, que fazem com que o doente fique vários dias impossibilitado de trabalhar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "febres constantes e intermitentes associadas à fadiga e dores de cabeça, que afastam o doente de suas atividades.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "imunossupressão, que impossibilita o doente de entrar em contato com outras pessoas sem o uso de máscaras e luvas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "infecção viral contagiosa, que faz com que o doente precise de isolamento para evitar transmissão para outras pessoas.",
             "file": null,
             "isCorrect": false
         }

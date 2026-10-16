@@ -4,32 +4,35 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Na modelagem e no estudo de fenômenos\nperiódicos, em geral, os modelos associados fazem uso\nde funções trigonométricas. Nesse sentido, considere\num experimento, realizado em laboratório, em que uma\nplanta foi colocada em uma estufa, onde a temperatura\né controlável. O experimento consiste em observar\nalterações nas características dessa planta ao ser\nsubmetida a variações de temperatura. Durante 24 horas,\na temperatura T(x) da estufa variou de acordo\n\n\u001a\n\u0019\u0018\nx\n4\n, em que x\n\né medido em hora, variando no intervalo 0 ≤ x ≤ 24.\n\ncom a função T(x) = 20 - 10sen \u001f \u001e\n\n\u001c\u001b\n\nDurante esse experimento, quantas vezes a temperatura\nna estufa atingiu o seu valor mínimo?",
-    "files": [],
+    "context": "Na modelagem e no estudo de fenômenos\nperiódicos, em geral, os modelos associados fazem uso\nde funções trigonométricas. Nesse sentido, considere\num experimento, realizado em laboratório, em que uma\nplanta foi colocada em uma estufa, onde a temperatura\né controlável. O experimento consiste em observar\nalterações nas características dessa planta ao ser\nsubmetida a variações de temperatura. Durante 24 horas,\na temperatura T(x) da estufa variou de acordo\n\n![](https://enem.dev/2023-reaplicacao/questions/142/ceecd075-21ec-4bc5-8518-e4ff455965f4.png)\n\n![](https://enem.dev/2023-reaplicacao/questions/142/94fcc1ca-5a8b-454e-bbf5-9428053000c5.png)",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/142/ceecd075-21ec-4bc5-8518-e4ff455965f4.png",
+        "https://enem.dev/2023-reaplicacao/questions/142/94fcc1ca-5a8b-454e-bbf5-9428053000c5.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "Durante esse experimento, quantas vezes a temperatura\nna estufa atingiu o seu valor mínimo?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "1 B",
+            "text": "1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "3 C",
+            "text": "3",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "4 D",
+            "text": "4",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "5 E",
+            "text": "5",
             "file": null,
             "isCorrect": false
         },

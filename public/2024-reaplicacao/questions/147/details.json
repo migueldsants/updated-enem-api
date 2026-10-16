@@ -4,10 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Um engenheiro civil organizou duas equipes de\npedreiros, I e II, para a construção de um muro bastante\nextenso. Todos os pedreiros, de ambas as equipes,\napresentam o mesmo rendimento por hora trabalhada\nfrente à construção planejada. A equipe I era composta\npor 3 pedreiros, que construíram 36 metros quadrados de\nmuro, em 2 dias, trabalhando 6 horas por dia. A equipe II\nera composta por 5 pedreiros, que trabalharam 8 horas\ndiárias, durante 6 dias.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Quantos metros quadrados a equipe II construiu a mais do que a equipe I?",
+    "alternativesIntroduction": "Quantos metros quadrados a equipe II construiu a mais\ndo que a equipe I?",
     "alternatives": [
         {
             "letter": "A",

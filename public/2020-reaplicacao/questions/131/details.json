@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O propranolol é um fármaco pouco solúvel em água utilizado no tratamento de algumas doenças cardiovasculares.\nQuando essa substância é tratada com uma quantidade estequiométrica de um ácido de Brönsted-Lowry, o grupamento\nde maior basicidade reage com o próton levando à formação de um derivado solúvel em água.\n\nO\nO\n\nPropranolol\n\nGONSALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brönsted-Lowry usando comprimidos de propranolol e nimesulida.",
-    "files": [],
+    "context": "O propranolol é um fármaco pouco solúvel em água utilizado no tratamento de algumas doenças cardiovasculares.\nQuando essa substância é tratada com uma quantidade estequiométrica de um ácido de Brönsted-Lowry, o grupamento\nde maior basicidade reage com o próton levando à formação de um derivado solúvel em água.\n\n![](https://enem.dev/2020-reaplicacao/questions/131/ebbf8f61-11d5-497a-ab5b-f3c7936a79d8.png)\n\nPropranolol\n\nGONSALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brönsted-Lowry usando comprimidos de propranolol e nimesulida.",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/131/ebbf8f61-11d5-497a-ab5b-f3c7936a79d8.png"
+    ],
     "correctAlternative": "D",
     "alternativesIntroduction": "O ácido de Brönsted-Lowry reage com",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "a hidroxila alcoólica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "os anéis aromáticos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "as metilas terminais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "o grupamento amina.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "o oxigênio do grupamento éter.",
             "file": null,
             "isCorrect": false
         }

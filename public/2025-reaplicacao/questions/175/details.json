@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Pretende-se utilizar uma bomba de combustível para abastecer, simultaneamente, duas aeronaves (A1 e A2), usando para\nisso vazões σ1 > 0 e σ2 > 0, respectivamente. A aeronave A2 tem um volume de 100 litros de combustível antes do início do\nabastecimento, mas A1 está sem combustível. Portanto, passados t segundos a partir do início do abastecimento, os volumes\nde combustível nas aeronaves são dados por V1 = σ1t e V2 = σ2t + 100. A vazão σ1 é ajustável, mas a vazão σ2 deve ser mantida\na um valor fixo de 2 litros por segundo, conforme especificado pelo fabricante de A2. O abastecimento das duas aeronaves se\ninicia no mesmo instante, e o operador da bomba foi orientado para programá-la de modo que A1 e A2 tenham o mesmo volume\nVT de combustível após 10 minutos de abastecimento.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/175/9939c7ef-6193-4c4c-aa3c-e4546841e224.png",
+        "https://enem.dev/2025-reaplicacao/questions/175/3a5ca560-2cc6-41ab-b8dc-b4b005c56308.png",
+        "https://enem.dev/2025-reaplicacao/questions/175/20569982-1318-467f-9082-575fcd691fee.png",
+        "https://enem.dev/2025-reaplicacao/questions/175/f7e4358a-caf2-4028-ae58-6c42249a8c37.png",
+        "https://enem.dev/2025-reaplicacao/questions/175/33f76c8b-a8db-49a2-b668-8c303d790fe6.png"
+    ],
     "correctAlternative": "C",
     "alternativesIntroduction": "Após ser ajustada, a vazão σ1, em termos do volume VT, é expressa por",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/175/9939c7ef-6193-4c4c-aa3c-e4546841e224.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/175/3a5ca560-2cc6-41ab-b8dc-b4b005c56308.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/175/20569982-1318-467f-9082-575fcd691fee.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/175/f7e4358a-caf2-4028-ae58-6c42249a8c37.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/175/33f76c8b-a8db-49a2-b668-8c303d790fe6.png",
             "isCorrect": false
         }
     ]

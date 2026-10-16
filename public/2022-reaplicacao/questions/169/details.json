@@ -4,39 +4,47 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUma indústria de sucos utiliza uma embalagem no\nformato de prisma reto de base quadrada, com aresta da\nbase de medida a e altura de medida h, ambas de mesma\nunidade de medida, como representado na figura.\n\nh\n\na\n\na\n\nDeseja-se criar uma linha de produção para\numa nova embalagem de igual formato, mas que\ndeverá ter uma capacidade igual ao triplo da atual.\n\nA altura da nova embalagem será igual a 4\n\n3 da altura\n\nda embalagem atual. As arestas da base da nova\nembalagem serão denominadas de x.\nQual a relação de dependência entre a medida x da\nnova aresta da base e a medida a da aresta atual?",
-    "files": [],
+    "context": "Uma indústria de sucos utiliza uma embalagem no\nformato de prisma reto de base quadrada, com aresta da\nbase de medida a e altura de medida h, ambas de mesma\nunidade de medida, como representado na figura.\n\n![](https://enem.dev/2022-reaplicacao/questions/169/c90872f0-6c47-4452-95e6-03c710d37bfc.png)\n\nDeseja-se criar uma linha de produção para\numa nova embalagem de igual formato, mas que\ndeverá ter uma capacidade igual ao triplo da atual.\n\n![](https://enem.dev/2022-reaplicacao/questions/169/1ecebe48-1aa4-46bb-91f9-b8bff389dbff.png)",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/169/c90872f0-6c47-4452-95e6-03c710d37bfc.png",
+        "https://enem.dev/2022-reaplicacao/questions/169/1ecebe48-1aa4-46bb-91f9-b8bff389dbff.png",
+        "https://enem.dev/2022-reaplicacao/questions/169/35aea178-979d-4060-83a7-923f9f0066bb.png",
+        "https://enem.dev/2022-reaplicacao/questions/169/3f6d1f0c-900b-4db5-a412-50bb9848e115.png",
+        "https://enem.dev/2022-reaplicacao/questions/169/f6e3d77e-cc8e-48a2-8178-e404addb9c9c.png",
+        "https://enem.dev/2022-reaplicacao/questions/169/8f7d6cf8-3832-45f1-b1ac-5e53899d8b4e.png",
+        "https://enem.dev/2022-reaplicacao/questions/169/c675ad97-cee7-4ccb-9519-533e2b10155d.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "da embalagem atual. As arestas da base da nova\nembalagem serão denominadas de x.\nQual a relação de dependência entre a medida x da\nnova aresta da base e a medida a da aresta atual?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "x = a B",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/169/35aea178-979d-4060-83a7-923f9f0066bb.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "x = 3a C",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/169/3f6d1f0c-900b-4db5-a412-50bb9848e115.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "x = 9a D",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/169/f6e3d77e-cc8e-48a2-8178-e404addb9c9c.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "x = 3 2 a E",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/169/8f7d6cf8-3832-45f1-b1ac-5e53899d8b4e.png",
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "x = a 3 28 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/169/c675ad97-cee7-4ccb-9519-533e2b10155d.png",
             "isCorrect": false
         }
     ]

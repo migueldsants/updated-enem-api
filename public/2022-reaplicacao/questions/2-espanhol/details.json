@@ -4,32 +4,34 @@
     "year": 2022,
     "language": "espanhol",
     "discipline": "linguagens",
-    "context": "Como en casa\nMe he estado bañando en playas del Caribe, con\n\n[ganas de volver\n\u0007he andado por la Gran Manzana inclusive, a punto\n\n[de devolver\nyo he estado en todas partes\nhe visitado museos, he sentido el arte\nhe tenido empleos feos, y a veces he dormido\n\n[parques […]\n\u0007entre gente buena y gente mala...\nhe cambiado de gustos y de forma de ser\nhe perdido el contacto con todos para no perder mi fe\nhe tocado en Holanda, Alemania, México, Chile, ¡qué!\n\ny he tocado en las salas minúsculas, no te olvides,\n\n[man […]\nhe perdido muchas riendas y he cuidado muchos\n\n[detalles\nhe conocido muchos sitios y muchas cosas he probado\n\u0007pero como se está en Sevilla no se está en ningún\n\n[lado...\n\nEsta es mi casa...\neste es... mi sitio, mi calle, mi plaza\nmis bares, mi clima, mi centro... es mi casa...\nAño tras año con los mismos conceptos\nCreo, no necesito mucho más que esto\n\nTOTEKING. T.O.T.E. Madri: BOA Música, 2008 (fragmento).\n\nA expressão “Como en casa”, que intitula o texto,\nevidencia seu tema central, que é a",
-    "files": [],
+    "context": "Como en casa\nMe he estado bañando en playas del Caribe, con\n\n[ganas de volver\nhe andado por la Gran Manzana inclusive, a punto\n\n[de devolver\nyo he estado en todas partes\nhe visitado museos, he sentido el arte\nhe tenido empleos feos, y a veces he dormido\n\n![](https://enem.dev/2022-reaplicacao/questions/2-espanhol/2ec013aa-32e3-4d35-a2c8-0496903dc9d1.png)\n\n[man […]\nhe perdido muchas riendas y he cuidado muchos\n\n[detalles\nhe conocido muchos sitios y muchas cosas he probado\npero como se está en Sevilla no se está en ningún\n\n[lado...\n\nEsta es mi casa...\neste es... mi sitio, mi calle, mi plaza\nmis bares, mi clima, mi centro... es mi casa...\nAño tras año con los mismos conceptos\nCreo, no necesito mucho más que esto",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/2-espanhol/2ec013aa-32e3-4d35-a2c8-0496903dc9d1.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "TOTEKING. T.O.T.E. Madri: BOA Música, 2008 (fragmento).",
     "alternatives": [
         {
             "letter": "A",
-            "text": "defesa da postura de rebeldia condizente com o universo do rap. B",
+            "text": "expressão “Como en casa”, que intitula o texto,",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "valorização da cultura no processo de formação do compositor. C",
+            "text": "valorização da cultura no processo de formação do compositor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "expressão do sentimento de pertencimento ao lugar de origem. D",
+            "text": "expressão do sentimento de pertencimento ao lugar de origem.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "revelação das dificuldades enfrentadas para tornar-se músico. E",
+            "text": "revelação das dificuldades enfrentadas para tornar-se músico.",
             "file": null,
             "isCorrect": false
         },

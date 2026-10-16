@@ -8,36 +8,36 @@
     "files": [
         "https://enem.dev/2020-reaplicacao/questions/3-espanhol/e0110b96-6ec9-4919-af13-c94199c08f20.png"
     ],
-    "correctAlternative": "B",
+    "correctAlternative": "A",
     "alternativesIntroduction": "Considerando-se os elementos verbais e não verbais dessa campanha publicitária, a expressão “dos dedos de frente” remete ao(à)",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": null,
+            "text": "consumo responsável de cerveja.",
             "file": null,
             "isCorrect": true
         },
         {
+            "letter": "B",
+            "text": "quantidade ideal de espuma na cerveja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
             "letter": "C",
-            "text": null,
+            "text": "aumento registrado no consumo de cerveja.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "diversidade de palavras para se referir à cerveja.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "qualidade da visão dos consumidores de cerveja.",
             "file": null,
             "isCorrect": false
         }

@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "A taxa de mortalidade infantil vem decaindo a\ncada ano no Brasil. O gráfico, gerado a partir de\ndados do IBGE, apresenta a evolução da taxa de\nmortalidade infantil (número de óbitos para cada\n1 000 nascidos vivos) de crianças com até 5 anos, no\nBrasil, no período de 2000 a 2011.\n\nÓbitos por 1 000 nascidos vivos\n\n30,1\n\n22,5\n18,7\n\n0\n2000\n2009\n2011\n\nConsidere que, para os próximos anos, o\ndecréscimo anual médio do número de óbitos para\ncada 1 000 nascidos vivos registrado, no período de\n2009 a 2011, será mantido.",
-    "files": [],
+    "context": "A taxa de mortalidade infantil vem decaindo a\ncada ano no Brasil. O gráfico, gerado a partir de\ndados do IBGE, apresenta a evolução da taxa de\nmortalidade infantil (número de óbitos para cada\n1 000 nascidos vivos) de crianças com até 5 anos, no\nBrasil, no período de 2000 a 2011.\n\n![](https://enem.dev/2020-reaplicacao/questions/171/af4cc347-2e97-436c-88d6-787f48464bc3.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/171/af4cc347-2e97-436c-88d6-787f48464bc3.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A partir das informações fornecidas, a taxa de mortalidade infantil de crianças com até 5 anos tornar-se-á inferior a 10 no período de",
+    "alternativesIntroduction": "Considere que, para os próximos anos, o\ndecréscimo anual médio do número de óbitos para\ncada 1 000 nascidos vivos registrado, no período de\n2009 a 2011, será mantido.\nA partir das informações fornecidas, a taxa de mortalidade\ninfantil de crianças com até 5 anos tornar-se-á inferior a\n10 no período de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "2011 a 2012.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "2012 a 2013.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "2013 a 2014.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "2015 a 2016.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "2017 a 2018.",
             "file": null,
             "isCorrect": false
         }

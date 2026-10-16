@@ -4,38 +4,38 @@
     "year": 2021,
     "language": null,
     "discipline": "linguagens",
-    "context": "Amor na escola\n\n<\u0007\b\u0006\u0005\u0010\b\u0005\u0004\b\u0010\f\u0007\u000b\b\u0010\b4\u0005?\u0005\u0002\b\u0006\b\t\u0005\u0017\u0007\u0011\u0005\u0010\n\u0006\u0002\u0007\u0012\u0011\u0005\u000f\u0003\u0005\b\u000f\u0010\b\f\u0005\n\u0010\u0011\u0005 &\b\nW\u0003\u0005 \u0011\u0006\u0012\u001f\u0005 \u0012\u0011\u000f\u0012\b\u000f\u0010\u0003\u0005 \b(\f\u0011\u000f\u0010\u0011\f4\u0005 =\t\u0011\u0006\u0005 (\u0011\u000f\u0006\b\u001d\b\u0004\u0005 \u0017\u0007\u0011\u0005\n\u0011\f\b\u0005\u0006#\u0005\u001d\u0011\u0006\u0012\n\f\u0005&\f\b\u000f\u0002\u0003\u000e\u0005\u0002\b(\f\n\u00028\b\f\u0005\u000f\b\u0005\u0010\u0011\u0002\u0003\f\b*+\u0003\u0005\u0011\u0005\u0014\bx\u0011\f\u0005\u0003\u0006\u0005\n\u0002\u0003\u000f\u001d\n\u0012\u0011\u0006\u0005 \u00028\u0011\u000b\b\f\u0011\u0004\u0005 \b\u0005 \u0012\u0011\u0004(\u00034\u0005 k\b\u0006\u0005 \u000f+\u00034\u0005 >\b\u0005 \u0011\u0006\u0002\u0003\t\b\u000e\u0005 \b\u0012I\u0005\n\t\u0003\u000b\b\f\n\u0012\u0004\u0003\u0005\u000f\u0003\u0006\u0005\u0014\u0003\n\u0005\u0011\u000f\u0006\n\u000f\b\u0010\u00034\u0005<\u0011\u0002\u0003\f\b\u0004\u0003\u0006\u0005\b\u0005\u0012\b&\u0011\t\b\u0005(\u0011\f\n#\u0010\n\u0002\b4\u0005\n>\u0003\u0006\u0005 \u0011\u0004(\u0007\f\f\b\f\b\u0004\u0005 \u0017\u00075\u0004\n\u0002\b\u0005 \u0003\f\u000b\u000f\n\u0002\b4\u0005 k\b\u0006\u0005 \u000f\b\u0010\b\u0005 \u000f\u0003\u0006\u0005 \u0014\u0003\n\u0005\n\u0010\n\u0012\u0003\u0005\u0006\u0003&\f\u0011\u0005\u0003\u0005\b\u0004\u0003\f4\n\nhB=));\u000e\u0005\"4\u0005<\n\u0006(\u0003\u000f5\u001d\u0011\t\u0005\u0011\u0004\u0015\u00058\u0012\u0012(\u0015VV\u001d\u0011H\b&84\b&\f\n\t4\u0002\u0003\u00044&\f4\u0005;\u0002\u0011\u0006\u0006\u0003\u0005\u0011\u0004\u0015\u0005\u001a/\u0005\u000f\u0003\u001d4\u0005{\u0019\u001a\u001b4",
+    "context": "Amor na escola\nDuas da madrugada. O casal que discute no andar\nde baixo está tentando aprender. Eles pensavam que\nera só vestir branco, caprichar na decoração e fazer os\nconvites chegarem a tempo. Mas não. Na escola, até\nlogaritmo nos foi ensinado. Decoramos a tabela periódica.\nNos empurraram química orgânica. Mas nada nos foi\ndito sobre o amor.\n\nGUERRA, C. Disponível em: http://vejabh.abril.com.br. Acesso em: 19 nov. 2014.",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "@\u0007\b \u0005 I\u0005 \u0003\u0005 \u0011\u0002\u0007 \u0006\u0003\u0005 \u0017\u0007\u0011\u0005 \u0010\u0011\u000f\u0012 \u0002\b\u0005 \u0011\u0006\u0006\u0011\u0005 \u0012\u0011W\u0012\u0003\u0005 \u0002\u0003\u0004\u0003\u0005 \u0007\u0004\b\u0005 \u0002 \u000f \u0002\b^",
+    "alternativesIntroduction": "Qual é o recurso que identifica esse texto como uma\ncrônica?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "A referência a um fato do cotidiano na vida de um casal.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "A marcação do tempo em “Duas da madrugada”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "A descrição do espaço em “andar de baixo”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "A enumeração de conteúdos escolares.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "A utilização dupla da conjunção “mas”.",
             "file": null,
             "isCorrect": false
         }

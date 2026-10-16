@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "ciencias-natureza",
     "context": null,
-    "files": [],
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/107/4bad45a1-a4c9-4ba0-b66e-005852cb4222.png",
+        "https://enem.dev/2022-reaplicacao/questions/107/a40ab354-e2aa-4e7e-a8d8-5d5eb30195ba.png",
+        "https://enem.dev/2022-reaplicacao/questions/107/603c30fc-968e-485f-8400-9b90fcf42c61.png",
+        "https://enem.dev/2022-reaplicacao/questions/107/02b0732b-c7eb-40b8-b9f5-634438619760.png",
+        "https://enem.dev/2022-reaplicacao/questions/107/9a3b02e5-cb21-4692-a318-a1dec083ec4f.png"
+    ],
     "correctAlternative": "A",
     "alternativesIntroduction": "O feixe de um laser incide obliquamente na lateral de uma janela de vidro, cujo índice de refração é maior do que o do ar, e a atravessa. Uma representação esquemática dessa situação utiliza linhas pontilhadas para demonstrar a trajetória que o feixe teria, caso não sofresse refração, e linhas contínuas com setas para mostrar a trajetória realmente seguida pelo feixe. Qual representação esquemática apresenta a trajetória seguida pelo feixe de laser quando atravessa a janela de vidro?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/107/4bad45a1-a4c9-4ba0-b66e-005852cb4222.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/107/a40ab354-e2aa-4e7e-a8d8-5d5eb30195ba.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/107/603c30fc-968e-485f-8400-9b90fcf42c61.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/107/02b0732b-c7eb-40b8-b9f5-634438619760.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/107/9a3b02e5-cb21-4692-a318-a1dec083ec4f.png",
             "isCorrect": false
         }
     ]

@@ -4,40 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
-    "context": "![](https://enem.dev/2017-reaplicacao/questions/39/0010f885-2470-4199-afa2-0fe4fb06a1ce.png)",
+    "context": "![](https://enem.dev/2017-reaplicacao/questions/39/decdcb6a-1d96-4a3e-819a-5bfefb68dfec.png)\n\nDAHMER, A. Disponível em: www.malvados.com.br. Acesso em: 15 maio 2013.",
     "files": [
-        "https://enem.dev/2017-reaplicacao/questions/39/0010f885-2470-4199-afa2-0fe4fb06a1ce.png"
+        "https://enem.dev/2017-reaplicacao/questions/39/decdcb6a-1d96-4a3e-819a-5bfefb68dfec.png"
     ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "DAHMER, A. Disponível em: www.malvados.com.br. Acesso em: 15 maio 2013. Importantes recursos de reflexão e crítica próprios do gênero textual, esses quadrinhos possibilitam pensar sobre o papel da tecnologia nas sociedades FRQWHPSRUkQHDV\u000f\u0003SRLV",
+    "alternativesIntroduction": "Importantes recursos de reflexão e crítica próprios\ndo gênero textual, esses quadrinhos possibilitam\npensar sobre o papel da tecnologia nas sociedades\ncontemporâneas, pois",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "indicam a solidão existencial dos usuários das redes sociais virtuais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "criticam a superficialidade das relações humanas mantidas pela internet.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "retratam a dificuldade de adaptação de pessoas mais velhas às relações virtuais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "ironizam o crescimento da conexão virtual oposto à falta de vínculos reais entre as pessoas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "denunciam o enfraquecimento das relações humanas nos mundos virtual e real contemporâneos.",
             "file": null,
             "isCorrect": false
         }

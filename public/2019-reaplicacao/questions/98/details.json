@@ -4,39 +4,46 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O 2-BHA é um fenol usado como antioxidante para\nretardar a rancificação em alimentos e cosméticos que\ncontêm ácidos graxos insaturados. Esse composto\ncaracteriza-se por apresentar uma cadeia carbônica\naromática\nmononuclear,\napresentando\no\ngrupo\nsubstituinte terc-butil na posição orto e o grupo metóxi\nna posição para.\n\nA fórmula estrutural do fenol descrito é",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/98/55da5772-245f-4f36-ba34-af73bcb69609.png)\n\nO 2-BHA é um fenol usado como antioxidante para\nretardar a rancificação em alimentos e cosméticos que\ncontêm ácidos graxos insaturados. Esse composto\ncaracteriza-se por apresentar uma cadeia carbônica\naromática mononuclear, apresentando o grupo\nsubstituinte terc-butil na posição orto e o grupo metóxi\nna posição para.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/98/55da5772-245f-4f36-ba34-af73bcb69609.png",
+        "https://enem.dev/2019-reaplicacao/questions/98/4a8094e5-c6e3-44ce-a8fc-079b43c3855d.png",
+        "https://enem.dev/2019-reaplicacao/questions/98/c9f8a432-7d93-4239-836f-c7c76c14bf7f.png",
+        "https://enem.dev/2019-reaplicacao/questions/98/b1a4ebd3-dbea-43c7-a72f-968ff36354f1.png",
+        "https://enem.dev/2019-reaplicacao/questions/98/56297882-284d-4216-912a-b72ce26384b5.png",
+        "https://enem.dev/2019-reaplicacao/questions/98/a4e1db76-1aba-40e8-9699-093ac87f0b0b.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "CH2CH(CH3)2",
+    "alternativesIntroduction": "A fórmula estrutural do fenol descrito é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "B C(CH3)3 C(CH3)3",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/98/4a8094e5-c6e3-44ce-a8fc-079b43c3855d.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/98/c9f8a432-7d93-4239-836f-c7c76c14bf7f.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "C(CH3)3",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/98/b1a4ebd3-dbea-43c7-a72f-968ff36354f1.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "C(CH3)3",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/98/56297882-284d-4216-912a-b72ce26384b5.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/98/a4e1db76-1aba-40e8-9699-093ac87f0b0b.png",
             "isCorrect": true
         }
     ]

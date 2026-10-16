@@ -6,7 +6,7 @@
     "discipline": "linguagens",
     "context": "No decênio de 1870, Franklin Távora defendeu a tese de que no Brasil havia duas literaturas independentes dentro da mesma língua: uma do Norte e outra do Sul, regiões segundo ele muito diferentes por formação histórica, composição étnica, costumes, modismos linguísticos etc. Por isso, deu aos romances regionais que  \npublicou o título geral de **Literatura do Norte**. Em nossos dias, um escritor gaúcho, Viana Moog, procurou mostrar com bastante engenho que no Brasil há, em verdade, literaturas setoriais diversas, refletindo as características locais.\n\nCANDIDO, A. A nova narrativa. **A educação pela noite e**  \n**outros ensaios.** São Paulo: Ática, 2003",
     "files": [],
-    "correctAlternative": "D",
+    "correctAlternative": "C",
     "alternativesIntroduction": "Com relação à valorização, no romance regionalista brasileiro, do homem e da paisagem de determinadas regiões nacionais, sabe-se que",
     "alternatives": [
         {
@@ -25,13 +25,13 @@
             "letter": "C",
             "text": "O romance do Nordeste caracteriza-se pelo acentuado realismo no uso do vocabulário, pelo temário local, expressando a vida do homem em face da natureza agreste, e assume frequentemente o ponto de vista dos menos favorecidos.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "D",
             "text": "A literatura urbana brasileira, da qual um dos expoentes é Machado de Assis, põe em relevo a formação do homem brasileiro, o sincretismo religioso, as raízes africanas e indígenas que caracterizam o nosso povo.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "E",

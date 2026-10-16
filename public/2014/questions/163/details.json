@@ -4,39 +4,43 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Um cliente de uma videolocadora tem o hábito de\nalugar dois filmes por vez. Quando os devolve, sempre\npega outros dois filmes e assim sucessivamente.\nEle soube que a videolocadora recebeu alguns\nlançamentos, sendo 8 filmes de ação, 5 de comédia\ne 3 de drama e, por isso, estabeleceu uma estratégia\npara ver todos esses 16 lançamentos. Inicialmente\nalugará, em cada vez, um filme de ação e um de\ncomédia. Quando se esgotarem as possibilidades de\ncomédia, o cliente alugará um filme de ação e um de\ndrama, até que todos os lançamentos sejam vistos e\nsem que nenhum filme seja repetido.",
+    "files": [
+        "https://enem.dev/2014/questions/163/d485a503-1352-4529-9497-94a0fadd7a0f.png",
+        "https://enem.dev/2014/questions/163/2dbb4619-920d-45d6-a9aa-fac0e94eeb6e.png",
+        "https://enem.dev/2014/questions/163/c7e7c80b-b0c5-48da-a961-0d42e0c53cbb.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "De quantas formas distintas a estratégia desse cliente poderá ser posta em prática?",
+    "alternativesIntroduction": "De quantas formas distintas a estratégia desse cliente\npoderá ser posta em prática?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2014/questions/163/d5d5048f-7ee3-40c6-b96b-ba9980dc7d05.png",
+            "text": "20 × 8! + (3!)²",
+            "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2014/questions/163/41b3be85-5bb9-46db-9a3b-867bd95c514a.png",
+            "text": "8! × 5! × 3!",
+            "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2014/questions/163/c02a3e9d-3cd7-4b47-91d5-d99aa1ee7b5d.png",
+            "file": "https://enem.dev/2014/questions/163/d485a503-1352-4529-9497-94a0fadd7a0f.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2014/questions/163/2940ac08-b920-4111-9d2c-1d107c65df28.png",
+            "file": "https://enem.dev/2014/questions/163/2dbb4619-920d-45d6-a9aa-fac0e94eeb6e.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2014/questions/163/17d5d462-0b07-4324-9f98-61f36a9f808c.png",
+            "file": "https://enem.dev/2014/questions/163/c7e7c80b-b0c5-48da-a961-0d42e0c53cbb.png",
             "isCorrect": false
         }
     ]

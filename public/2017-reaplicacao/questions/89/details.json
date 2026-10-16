@@ -4,38 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2017-reaplicacao/questions/89/694ead42-85c8-4de4-8854-aff05fbc6b94.png)",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/89/694ead42-85c8-4de4-8854-aff05fbc6b94.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "2\u0003LPSDFWR\u0003DSUHVHQWDGR\u0003QHVVH\u0003DPELHQWH\u0003WHP\u0003VLGR\u0003LQWHQVL¿FDGR\u0003SHOD",
+    "alternativesIntroduction": "O impacto apresentado nesse ambiente tem sido intensificado pela",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "intervenção direta do homem ao impermeabilizar o solo urbano.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "irregularidade das chuvas decorrentes do fenômeno climático",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "queima de combustíveis fósseis como o carvão, o petróleo e o gás natural.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "vaporização crescente dos oceanos devido ao derretimento das geleiras.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "extinção de organismos marinhos responsáveis pela produção de oxigênio.",
             "file": null,
             "isCorrect": false
         }

@@ -4,39 +4,46 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Um longo trecho retilíneo de um rio tem um afluente\nperpendicular em sua margem esquerda, conforme\nmostra a figura. Observado de cima, um barco trafega\ncom velocidade constante pelo afluente para entrar no rio.\nSabe-se que a velocidade da correnteza desse rio varia\nuniformemente, sendo muito pequena junto à margem\ne máxima no meio. O barco entra no rio e é arrastado\nlateralmente pela correnteza, mas o navegador procura\nmantê-lo sempre na direção perpendicular à correnteza\ndo rio e o motor acionado com a mesma potência.\n\nCorrenteza",
-    "files": [],
+    "context": "Um longo trecho retilíneo de um rio tem um afluente\nperpendicular em sua margem esquerda, conforme\nmostra a figura. Observado de cima, um barco trafega\ncom velocidade constante pelo afluente para entrar no rio.\nSabe-se que a velocidade da correnteza desse rio varia\nuniformemente, sendo muito pequena junto à margem\ne máxima no meio. O barco entra no rio e é arrastado\nlateralmente pela correnteza, mas o navegador procura\nmantê-lo sempre na direção perpendicular à correnteza\ndo rio e o motor acionado com a mesma potência.\n\n![](https://enem.dev/2017-reaplicacao/questions/101/683c3344-904d-40e0-967e-bff3064d7415.png)",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/101/683c3344-904d-40e0-967e-bff3064d7415.png",
+        "https://enem.dev/2017-reaplicacao/questions/101/3b2778b9-7d61-4ee7-80d3-4545ad1320ea.png",
+        "https://enem.dev/2017-reaplicacao/questions/101/d5830c5d-a00c-4421-a9b2-ac5ee26da724.png",
+        "https://enem.dev/2017-reaplicacao/questions/101/4ed14937-0c0f-49cb-a50b-4079a66a3ac9.png",
+        "https://enem.dev/2017-reaplicacao/questions/101/7f1ae547-41d1-48f6-b172-80708ca6ded7.png",
+        "https://enem.dev/2017-reaplicacao/questions/101/d555586a-bfb0-4bc9-ab30-dae13a858c51.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Pelas condições descritas, a trajetória que representa o movimento seguido pelo barco é:",
+    "alternativesIntroduction": "Pelas condições descritas, a trajetória que representa o\nmovimento seguido pelo barco é:",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/101/3b2778b9-7d61-4ee7-80d3-4545ad1320ea.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/101/d5830c5d-a00c-4421-a9b2-ac5ee26da724.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/101/4ed14937-0c0f-49cb-a50b-4079a66a3ac9.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/101/7f1ae547-41d1-48f6-b172-80708ca6ded7.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2017-reaplicacao/questions/101/d555586a-bfb0-4bc9-ab30-dae13a858c51.png",
             "isCorrect": false
         }
     ]

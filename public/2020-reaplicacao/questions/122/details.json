@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
+    "context": "Em um manual de instruções de uma geladeira,\nconstam as seguintes recomendações:",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "• Mantenha a porta de seu refrigerador aberta apenas o tempo necessário; • É importante não obstruir a circulação do ar com a má distribuição dos alimentos nas prateleiras; • Deixe um espaço de, no mínimo, 5 cm entre a parte traseira do produto (dissipador serpentinado) e a parede. Com base nos princípios da termodinâmica, as justificativas para essas recomendações são, respectivamente:",
+    "alternativesIntroduction": "• Mantenha a porta de seu refrigerador aberta\napenas o tempo necessário;\n• É importante não obstruir a circulação do ar com a\nmá distribuição dos alimentos nas prateleiras;\n• Deixe um espaço de, no mínimo, 5 cm entre a parte\ntraseira do produto (dissipador serpentinado) e a\nparede.\nCom base nos princípios da termodinâmica, as justificativas\npara essas recomendações são, respectivamente:",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "Reduzir a saída de frio do refrigerador para o ambiente, garantir a transmissão do frio entre os alimentos na prateleira e permitir a troca de calor entre o dissipador de calor e o ambiente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "Reduzir a saída de frio do refrigerador para o ambiente, garantir a convecção do ar interno, garantir o isolamento térmico entre a parte interna e a externa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "Reduzir o fluxo de calor do ambiente para a parte interna do refrigerador, garantir a convecção do ar interno e permitir a troca de calor entre o dissipador e o ambiente.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "Reduzir o fluxo de calor do ambiente para a parte interna do refrigerador, garantir a transmissão do frio entre os alimentos na prateleira e permitir a troca de calor entre o dissipador e o ambiente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "Reduzir o fluxo de calor do ambiente para a parte interna do refrigerador, garantir a convecção do ar interno e garantir o isolamento térmico entre as partes interna e externa.",
             "file": null,
             "isCorrect": false
         }

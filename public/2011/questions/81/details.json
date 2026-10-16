@@ -8,7 +8,7 @@
     "files": [
         "https://enem.dev/2011/questions/81/821b4e4b-ae24-40d1-a0fd-149f6b8ce34a.jpg"
     ],
-    "correctAlternative": "B",
+    "correctAlternative": "D",
     "alternativesIntroduction": "De acordo com a estequiometria da reação descrita, a quantidade de permanganato de potássio necessária para reagir completamente com 20,0 mL de uma solução 0,1 mol/L de peróxido de hidrogênio é igual a",
     "alternatives": [
         {
@@ -21,7 +21,7 @@
             "letter": "B",
             "text": "2,0×10-3 mol.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "C",
@@ -33,7 +33,7 @@
             "letter": "D",
             "text": "8,0×10-4 mol.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",

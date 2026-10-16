@@ -4,38 +4,38 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Uma liga metálica sai do forno a uma temperatura de\n3 000 °C e diminui 1% de sua temperatura a cada 30 min.",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Use 0,477 como aproximação para log10 3 e 1,041 como aproximação para log10 11.\nO tempo decorrido, em hora, até que a liga atinja 30℃ é mais próximo de",
+    "alternativesIntroduction": "Use 0,477 como aproximação para log₁₀(3) e 1,041\ncomo aproximação para log₁₀(11).\nO tempo decorrido, em hora, até que a liga atinja 30 °C é\nmais próximo de",
     "alternatives": [
         {
             "letter": "A",
-            "text": "22",
+            "text": "22.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "50",
+            "text": "50.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "100",
+            "text": "100.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "200",
+            "text": "200.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "400",
+            "text": "400.",
             "file": null,
             "isCorrect": false
         }

@@ -4,10 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Uma pessoa compra semanalmente, numa mesma\nloja, sempre a mesma quantidade de um produto que\ncusta R$ 10,00 a unidade. Como já sabe quanto deve\ngastar, leva sempre R$ 6,00 a mais do que a quantia\nnecessária para comprar tal quantidade, para o caso\nde eventuais despesas extras. Entretanto, um dia, ao\nchegar à loja, foi informada de que o preço daquele\nproduto havia aumentado 20%. Devido a esse reajuste,\nconcluiu que o dinheiro levado era a quantia exata para\ncomprar duas unidades a menos em relação à quantidade\nhabitualmente comprada.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A quantia que essa pessoa levava semanalmente para fazer a compra era",
+    "alternativesIntroduction": "A quantia que essa pessoa levava semanalmente para\nfazer a compra era",
     "alternatives": [
         {
             "letter": "A",

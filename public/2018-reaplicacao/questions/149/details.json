@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": null,
-    "files": [],
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/149/84e61eba-085e-489d-bdf7-3832960d7473.png",
+        "https://enem.dev/2018-reaplicacao/questions/149/c9a954b9-1646-42ce-b6a1-4cc17f9bd59d.png",
+        "https://enem.dev/2018-reaplicacao/questions/149/40eebf04-924a-4d6c-b549-0772b3f0c149.png",
+        "https://enem.dev/2018-reaplicacao/questions/149/479620a9-2eca-4adc-a54a-3604ec77d965.png",
+        "https://enem.dev/2018-reaplicacao/questions/149/00387b48-fa99-4803-8bf4-5885e57fbe66.png"
+    ],
     "correctAlternative": "D",
     "alternativesIntroduction": "Uma senhora acaba de fazer uma ultrassonografia e descobre que está grávida de quadrigêmeos. Qual é a probabilidade de nascerem dois meninos e duas meninas?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/149/84e61eba-085e-489d-bdf7-3832960d7473.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/149/c9a954b9-1646-42ce-b6a1-4cc17f9bd59d.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/149/40eebf04-924a-4d6c-b549-0772b3f0c149.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/149/479620a9-2eca-4adc-a54a-3604ec77d965.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/149/00387b48-fa99-4803-8bf4-5885e57fbe66.png",
             "isCorrect": false
         }
     ]

@@ -7,35 +7,35 @@
     "context": null,
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Considere que o modelo matemático utilizado no estudo da velocidade V$\u0002\u000f \u0002 \u0010\b\u0002%\b\u0007 G 2\b\u0002\u000f \u0002 \u0010\u0002~ \u000e\u000f\u0004\u0002 escoando em um tubo, seja diretamente proporcional à diferença dos quadrados do raio R\u0002\u000f\b\u0002 ' \u0004\u0002 \u0007\b\u0005 # \u0007 \b2\u0002 do tubo e da distância x\u0002\u000f\b\u0002%\b\u0007 G 2\b\u0002\b\u0004\u0002 \u0005 \u0007\u0004\u0002\u000f\b\u0002 ' \u0004\u0002 que a contém. Isto é, V(x) \u0003 2( 2 \u0007 2), em que K é uma constante positiva. O valor de x$\u0002 \u0010\u0002P \u0005' \u0004\u0002\u000f \u0002R, para que a velocidade de escoamento de uma partícula seja máxima é de",
+    "alternativesIntroduction": "Considere que o modelo matemático utilizado no\nestudo da velocidade V, de uma partícula de um fluido\nescoando em um tubo, seja diretamente proporcional à\ndiferença dos quadrados do raio R da secção transversal\ndo tubo e da distância x da partícula ao centro da secção\nque a contém. Isto é, V(x) = K²(R² − x²), em que K é uma\nconstante positiva.\nO valor de x, em função de R, para que a velocidade de\nescoamento de uma partícula seja máxima é de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "0.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "R.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "2R.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "KR.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "K²R².",
             "file": null,
             "isCorrect": false
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "articulação entre as informações do texto leva à",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "análise dos dados demográficos de diferentes países do mundo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "comparação entre a idade da população economicamente ativa no mundo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "questionamento sobre o impacto negativo do envelhecimento da população.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "alerta aos economistas sobre as contribuições da população abaixo dos 65 anos.",
             "file": null,
             "isCorrect": false
         }

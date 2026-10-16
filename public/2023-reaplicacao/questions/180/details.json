@@ -4,39 +4,45 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Veja o gasto médio de calorias, por hora de atividade, quando são exercidas algumas atividades domésticas:\n•\t varrer o chão: 200 calorias;\n•\t passar aspirador de pó: 350 calorias;\n•\t limpar janelas: 260 calorias.\nDisponível em: www.corpoacorpo.uol.com.br. Acesso em: 4 dez. 2017 (adaptado).\nUma pessoa varreu o chão da casa, depois passou o aspirador de pó e, por fim, limpou as janelas, gastando\n30 minutos em cada atividade, sem parar para descansar. Considere que o gasto de calorias em uma atividade varie\nproporcionalmente em relação ao tempo.\nO gráfico que melhor representa o gasto acumulado de calorias dessa pessoa durante as atividades desenvolvidas é\n\nCaloria\n\n(cal)",
-    "files": [],
+    "context": "Veja o gasto médio de calorias, por hora de atividade,\n• varrer o chão: 200 calorias;\n• passar aspirador de pó: 350 calorias;\n• limpar janelas: 260 calorias.",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/180/849cf174-6c12-4bdd-b036-cd07dbdea704.png",
+        "https://enem.dev/2023-reaplicacao/questions/180/a69e0ec5-4d26-418a-8592-0217f5c71c16.png",
+        "https://enem.dev/2023-reaplicacao/questions/180/74d8c3ef-d233-44fd-9361-e3559484d663.png",
+        "https://enem.dev/2023-reaplicacao/questions/180/47ae314d-38f4-4dad-a895-e5a0f8e997be.png",
+        "https://enem.dev/2023-reaplicacao/questions/180/c95acbcd-d31c-42ee-b392-e794f9c1ead0.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "Uma pessoa varreu o chão da casa, depois passou\n30 minutos em cada atividade, sem parar para descansar. Considere que o gasto de calorias em uma atividade varie\nproporcionalmente em relação ao tempo.\nO gráfico que melhor representa o gasto acumulado de calorias",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/180/849cf174-6c12-4bdd-b036-cd07dbdea704.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/180/a69e0ec5-4d26-418a-8592-0217f5c71c16.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/180/74d8c3ef-d233-44fd-9361-e3559484d663.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/180/47ae314d-38f4-4dad-a895-e5a0f8e997be.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2023-reaplicacao/questions/180/c95acbcd-d31c-42ee-b392-e794f9c1ead0.png",
             "isCorrect": false
         }
     ]

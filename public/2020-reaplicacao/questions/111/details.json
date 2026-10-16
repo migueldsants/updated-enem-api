@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O peróxido de hidrogênio é um produto secundário do\nmetabolismo celular e apresenta algumas funções úteis,\nmas, quando em excesso, é prejudicial, gerando radicais\nque são tóxicos para as células. Para se defender, o\norganismo vivo utiliza a enzima catalase, que decompõe\nH2O2 em H2O e O2. A energia de reação de decomposição,\nquando na presença e ausência da catalase, está\nmostrada no gráfico.\n\nReação sem catalase\nReação com catalase\n\nEnergia potencial\n\nProgresso da reação\n\nDisponível em: www.pontociencia.org.br.  Acesso em: 14 ago. 2013 (adaptado).\nNa situação descrita, o organismo utiliza a catalase\nporque ela",
-    "files": [],
+    "context": "O peróxido de hidrogênio é um produto secundário do\nmetabolismo celular e apresenta algumas funções úteis,\nmas, quando em excesso, é prejudicial, gerando radicais\nque são tóxicos para as células. Para se defender, o\norganismo vivo utiliza a enzima catalase, que decompõe\nH₂O₂ em H₂O e O₂. A energia de reação de decomposição,\nquando na presença e ausência da catalase, está\n\n![](https://enem.dev/2020-reaplicacao/questions/111/30a15e35-aa2a-4577-a817-ca4d4581a565.png)\n\nDisponível em: www.pontociencia.org.br. Acesso em: 14 ago. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/111/30a15e35-aa2a-4577-a817-ca4d4581a565.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Na situação descrita, o organismo utiliza a catalase\nporque ela",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "diminui a energia de ativação.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "permite maior rendimento da reação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "diminui o valor da entalpia da reação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "consome rapidamente o oxigênio do reagente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "reage rapidamente com o peróxido de hidrogênio.",
             "file": null,
             "isCorrect": false
         }

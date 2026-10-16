@@ -4,38 +4,40 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "O preço médio cobrado por um pintor para executar\n\f\u0010\u0002\n\u0007#\u000e'\u0004\u0002\u001e\u0004\u0005\t\u000e\t\r\n\u0002\n\u0010\u0002\f\u0010\b\u0002\r\b@\b\u0002\u0006@\b\u0002\u000f\n\u0002\u0015·\u0002&$\u0002\u0010\b\u000e\t\u0002\numa quantia proporcional à área pintada. O quadro\napresenta os valores cobrados por ele em trabalhos\nrecentes.\n\nÁrea pintada (m2)\nTotal a pagar (R$)\n\n5\n35,00\n\n10\n45,00\n\n20\n65,00\n\n40\n105,00\n\n80\n185,00\n\n24\nMT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
-    "files": [],
+    "context": "O preço médio cobrado por um pintor para executar\num serviço consiste em uma taxa fixa de R$ 25,00 mais\numa quantia proporcional à área pintada. O quadro\napresenta os valores cobrados por ele em trabalhos\nrecentes.\n\n![](https://enem.dev/2021-reaplicacao/questions/163/4f100d8b-0e44-4db2-b369-dfc3ab6ad3df.png)",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/163/4f100d8b-0e44-4db2-b369-dfc3ab6ad3df.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Qual o preço cobrado para realizar um serviço de pintura de uma área de 150 m2?",
+    "alternativesIntroduction": "Qual o preço cobrado para realizar um serviço de pintura\nde uma área de 150 m²?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "R$ 300,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "R$ 325,00",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "R$ 400,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "R$ 1 050,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "R$ 3 750,00",
             "file": null,
             "isCorrect": false
         }

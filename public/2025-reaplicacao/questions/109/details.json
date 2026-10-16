@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "O conflito ético na utilização de células-tronco.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "A ocorrência de rejeição às novas células transplantadas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "A resistência dos receptores de insulina à ação hormonal.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "A susceptibilidade maior do paciente a infecções oportunistas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "A necessidade de testes de compatibilidade genética para o transplante.",
             "file": null,
             "isCorrect": false
         }

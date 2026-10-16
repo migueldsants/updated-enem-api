@@ -4,39 +4,47 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "Dois atletas partem de pontos, respectivamente P1 e\nP2, em duas pistas planas distintas, conforme a figura,\ndeslocando-se no sentido anti-horário até a linha de\nchegada, percorrendo, desta forma, a mesma distância\n(L). Os trechos retos dos finais das curvas até a linha de\nchegada desse percurso têm o mesmo comprimento (l)\nnas duas pistas e são tangentes aos trechos curvos, que\nsão semicírculos de centro C. O raio do semicírculo maior\né R1 e o raio do semicírculo menor é R2.",
-    "files": [],
+    "context": "Dois atletas partem de pontos, respectivamente P₁ e\nP₂, em duas pistas planas distintas, conforme a figura,\ndeslocando-se no sentido anti-horário até a linha de\nchegada, percorrendo, desta forma, a mesma distância\n(L). Os trechos retos dos finais das curvas até a linha de\nchegada desse percurso têm o mesmo comprimento (l)\nnas duas pistas e são tangentes aos trechos curvos, que\nsão semicírculos de centro C. O raio do semicírculo maior\n\n![](https://enem.dev/2020-reaplicacao/questions/164/ab0a0294-0154-4b70-b61f-35ecaf3b4998.png)\n\nSabe-se que o comprimento de um arco circular é\ndado pelo produto do seu raio pelo ângulo, medido em\nradiano, subentendido pelo arco.\nNas condições apresentadas, a razão da medida do\n\n![](https://enem.dev/2020-reaplicacao/questions/164/8e93a9fa-60d9-434f-b056-726dfc1e1f80.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/164/ab0a0294-0154-4b70-b61f-35ecaf3b4998.png",
+        "https://enem.dev/2020-reaplicacao/questions/164/8e93a9fa-60d9-434f-b056-726dfc1e1f80.png",
+        "https://enem.dev/2020-reaplicacao/questions/164/5824f3fd-a891-4869-be8f-0203321f40a5.png",
+        "https://enem.dev/2020-reaplicacao/questions/164/82df7e64-9c84-4867-972f-3bc1bc3cf762.png",
+        "https://enem.dev/2020-reaplicacao/questions/164/425e29f7-ce42-44f1-a9f3-fda5475967d4.png",
+        "https://enem.dev/2020-reaplicacao/questions/164/c0cce425-d875-493c-8efb-ec6c5c802030.png",
+        "https://enem.dev/2020-reaplicacao/questions/164/fd633688-1653-44f8-b878-d0cb54dd14ef.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "R2 R1",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/164/5824f3fd-a891-4869-be8f-0203321f40a5.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "R 1            2 R −1 C 1 R 2            1 D 1 R −R 2           1 R + 1 E 1 R 1           2",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/164/82df7e64-9c84-4867-972f-3bc1bc3cf762.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Linha de chegada 2ª aplicação MT - 2° dia | Caderno 7 - AZUL - Página 26 Sabe-se que o comprimento de um arco circular é dado pelo produto do seu raio pelo ângulo, medido em radiano, subentendido pelo arco. Nas condições apresentadas, a razão da medida do A R −R 2 1 ângulo C 2 1 P P pela diferença L− l  é dada por 1 R −1",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/164/425e29f7-ce42-44f1-a9f3-fda5475967d4.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/164/c0cce425-d875-493c-8efb-ec6c5c802030.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/164/fd633688-1653-44f8-b878-d0cb54dd14ef.png",
             "isCorrect": false
         }
     ]

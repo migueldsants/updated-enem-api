@@ -5,38 +5,40 @@
     "language": null,
     "discipline": "ciencias-humanas",
     "context": "Em outubro de 2019, depois de uma semana de\nrecrudescimento dos protestos e da morte de dezoito pessoas, o\ngoverno chileno suspendeu o toque de recolher, mas a extensão\ndas reivindicações já deixava claro o que grande parte da\npopulação desejava: o fim da Carta Magna de Pinochet. Desde o\ninício de outubro, estudantes secundaristas iniciaram protestos\ncontra o aumento da tarifa do metrô. As ações coordenadas\nganharam fôlego e explodiram em um enorme movimento,\nsem precedentes na história recente do país.\n\nFERNANDES, L. A. V. Disponível em: https://diplomatique.org.br.\n\nAcesso em: 11 nov. 2021 (adaptado).",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/47/358451b0-b5bb-4d04-a5c5-6ab0320a6a7f.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "O acontecimento histórico descrito no texto teve como efeito a convocação de uma assembleia constituinte, demonstrando a relação entre",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "repressão policial e liberalismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "resistência operária e sindicalismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "mobilizações partidárias e corporativismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "manifestações socialistas e anarquia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/47/358451b0-b5bb-4d04-a5c5-6ab0320a6a7f.png",
             "isCorrect": true
         }
     ]

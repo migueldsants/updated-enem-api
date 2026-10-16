@@ -4,39 +4,45 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Em uma central de atendimento, cem pessoas\nreceberam senhas numeradas de 1 até 100. Uma das\nsenhas é sorteada ao acaso.",
+    "files": [
+        "https://enem.dev/2015/questions/142/5debb54c-634a-4b1b-a15b-0ad31352b811.png",
+        "https://enem.dev/2015/questions/142/5988c421-d0d1-41ef-8131-29668448cb0c.png",
+        "https://enem.dev/2015/questions/142/217f538c-902d-444c-bea4-4f1b079d4c3e.png",
+        "https://enem.dev/2015/questions/142/2d4278ae-2570-442b-8f8a-5c82b29d0a80.png",
+        "https://enem.dev/2015/questions/142/fa7765a2-c573-4e51-9559-3b4324b85ca4.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é a probabilidade de a senha sorteada ser um número de 1 a 20?",
+    "alternativesIntroduction": "Qual é a probabilidade de a senha sorteada ser um\nnúmero de 1 a 20?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "1/100",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2015/questions/142/5debb54c-634a-4b1b-a15b-0ad31352b811.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "19/100",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2015/questions/142/5988c421-d0d1-41ef-8131-29668448cb0c.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "20/100",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2015/questions/142/217f538c-902d-444c-bea4-4f1b079d4c3e.png",
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "21/100",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2015/questions/142/2d4278ae-2570-442b-8f8a-5c82b29d0a80.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "80/100",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2015/questions/142/fa7765a2-c573-4e51-9559-3b4324b85ca4.png",
             "isCorrect": false
         }
     ]

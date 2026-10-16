@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "aclamado pelo movimento ambientalista em 1963.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "comparado a uma coletânea de trabalhos científicos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "considerado como representativo da cultura indígena.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "inspirado em conhecimentos de indígenas estadunidenses.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "valorizado a partir da popularização do conceito de mudança climática.",
             "file": null,
             "isCorrect": false
         }

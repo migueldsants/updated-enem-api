@@ -4,38 +4,38 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "Um diretor esportivo organiza um campeonato no qual\nhaverá disputa de times em turno e returno, isto é, cada\ntime jogará duas vezes com todos os outros, totalizando\n380 partidas a serem disputadas.",
+    "context": null,
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A quantidade de times (x) que faz parte desse campeonato %\u0004\u000f \u0002 \u0007\u0002 \b2 2\b\u000f\b\u0002% 2\b\u0002 \b' \u0004",
+    "alternativesIntroduction": "Um diretor esportivo organiza um campeonato no qual\nhaverá disputa de times em turno e returno, isto é, cada\ntime jogará duas vezes com todos os outros, totalizando\n380 partidas a serem disputadas.\nA quantidade de times (x) que faz parte desse campeonato\npode ser calculada pela equação",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "x = 380 − x²",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "x² − x = 380",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "x² = 380",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "2x − x = 380",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "2x = 380",
             "file": null,
             "isCorrect": false
         }

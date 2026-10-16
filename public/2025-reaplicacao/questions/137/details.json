@@ -5,38 +5,40 @@
     "language": null,
     "discipline": "matematica",
     "context": "Um laboratório precisa comprar lâminas de vidro com\nespessura de 2 mm. No entanto, no mercado estão disponíveis\napenas 5 tipos de lâminas de vidro, com as seguintes\nespecificações de espessura:\n\n• tipo I: 1,97 mm;\n• tipo II: 2,10 mm;\n• tipo III: 1,098 mm;\n• tipo IV: 2,06 mm;\n• tipo V: 2,025 mm.\n\nComo nenhum dos 5 tipos de lâminas possui 2 mm de\nespessura, então, o laboratório irá adquirir o tipo cuja espessura\nseja a mais próxima de 2 mm.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/137/1d928e01-aefe-43a5-bcf3-4949ac243649.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "Nessas condições, o tipo de lâmina que será adquirido é",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "I.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "II.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "III.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "IV.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/137/1d928e01-aefe-43a5-bcf3-4949ac243649.png",
             "isCorrect": true
         }
     ]

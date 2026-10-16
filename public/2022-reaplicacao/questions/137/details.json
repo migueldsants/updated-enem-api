@@ -4,38 +4,38 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Os aeroportos apresentam regras rígidas para\ndespacho de bagagem. No caso de embarque nacional,\nalgumas companhias aéreas ainda não cobravam, até\n2017, por unidade de bagagem despachada, limitada a\n23 kg por passageiro.",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Os aeroportos apresentam regras rígidas para despacho de bagagem. No caso de embarque nacional, algumas companhias aéreas ainda não cobravam, até 2017, por unidade de bagagem despachada, limitada a 23 kg por passageiro. Uma pessoa irá viajar com uma única mala. Como não quer pagar por “excesso de peso” e dispõe, em casa, de uma balança de pêndulo que apresenta um erro máximo de 8% a mais em relação à massa real do objeto que nela for verificada, conferirá qual a massa de sua mala antes de ir para o aeroporto. O valor máximo, em quilograma, indicado em sua balança deverá ser A",
+    "alternativesIntroduction": "Uma pessoa irá viajar com uma única mala. Como\nnão quer pagar por “excesso de peso” e dispõe, em\ncasa, de uma balança de pêndulo que apresenta um erro\nmáximo de 8% a mais em relação à massa real do objeto\nque nela for verificada, conferirá qual a massa de sua\nmala antes de ir para o aeroporto.\nO valor máximo, em quilograma, indicado em sua balança\ndeverá ser",
     "alternatives": [
         {
             "letter": "A",
-            "text": "21,16. B",
+            "text": "21,16.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "22,08. C",
+            "text": "22,08.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "23,92. D",
+            "text": "23,92.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "24,84. E",
+            "text": "24,84.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "25,00. 16 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "text": "25,00.",
             "file": null,
             "isCorrect": false
         }

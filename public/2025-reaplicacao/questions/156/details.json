@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Paulo esqueceu a senha de acesso à sua conta bancária.\nEle se lembra apenas de que sua senha é uma das possíveis\npermutações da palavra DETETIVE que se iniciam pela letra D.\nO sistema do banco permite que ele faça até quatro tentativas\nantes de bloquear o acesso, e Paulo não digitará uma mesma\ncombinação de letras duas vezes.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/156/f34fe9f9-a3ea-4cfd-83af-7c748153af57.png",
+        "https://enem.dev/2025-reaplicacao/questions/156/e25bc952-a7a0-4652-b09e-af2e58a9bec1.png",
+        "https://enem.dev/2025-reaplicacao/questions/156/4b8ce33f-e5bf-494b-8b42-b1ed31273208.png",
+        "https://enem.dev/2025-reaplicacao/questions/156/2b0a9d2f-14cc-43ee-9eea-27b514e25644.png",
+        "https://enem.dev/2025-reaplicacao/questions/156/b00f5b28-80be-4fdf-bd2c-3b91438119ab.png"
+    ],
     "correctAlternative": "A",
     "alternativesIntroduction": "A probabilidade de Paulo acessar sua conta, sem bloqueá-la, é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/156/f34fe9f9-a3ea-4cfd-83af-7c748153af57.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/156/e25bc952-a7a0-4652-b09e-af2e58a9bec1.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/156/4b8ce33f-e5bf-494b-8b42-b1ed31273208.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/156/2b0a9d2f-14cc-43ee-9eea-27b514e25644.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/156/b00f5b28-80be-4fdf-bd2c-3b91438119ab.png",
             "isCorrect": false
         }
     ]

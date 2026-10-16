@@ -4,10 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Um casal realiza um financiamento imobiliário de\nR$ 180 000,00, a ser pago em 360 prestações mensais,\ncom taxa de juros efetiva de 1% ao mês. A primeira\nprestação é paga um mês após a liberação dos recursos\ne o valor da prestação mensal é de R$ 500,00 mais juro\nde 1% sobre o saldo devedor (valor devido antes do\npagamento). Observe que, a cada pagamento, o saldo\ndevedor se reduz em R$ 500,00 e considere que não há\nprestação em atraso.",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Efetuando o pagamento dessa forma, o valor, em reais, a ser pago ao banco na décima prestação é de",
+    "alternativesIntroduction": "Efetuando o pagamento dessa forma, o valor, em reais, a\nser pago ao banco na décima prestação é de",
     "alternatives": [
         {
             "letter": "A",

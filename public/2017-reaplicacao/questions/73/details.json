@@ -4,38 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "As rochas são desagregadas e decompostas e os\nmateriais resultantes de sua ação, tais como seixos,\ncascalhos, areias, siltes e argilas, são carregados e depois\nGHSRVLWDGRV\u0003H\u000f\u0003WDPEpP\u000f\u0003VXEVWkQFLDV\u0003GLVVROYLGDV\u0003QD\u0003iJXD\u0003\npodem precipitar. Em virtude de sua atuação, quaisquer\nrochas, independentemente de suas características,\nSRGHP\u0003¿FDU\u0003GHVWDFDGDV\u0003QR\u0003UHOHYR\u0011\n\nBELLOMO, H. R. et al. (Org.). 5LR\u0003*UDQGH\u0003GR\u00036XO\u001d\u0003DVSHFWRV\u0003GD\u0003JHRJUD¿D.\n\nPorto Alegre: Martins Livreiro, 1997 (adaptado).",
-    "files": [],
+    "context": "As rochas são desagregadas e decompostas e os\nmateriais resultantes de sua ação, tais como seixos,\ncascalhos, areias, siltes e argilas, são carregados e depois\ndepositados e, também, substâncias dissolvidas na água\npodem precipitar. Em virtude de sua atuação, quaisquer\nrochas, independentemente de suas características,\npodem ficar destacadas no relevo.\n\n![](https://enem.dev/2017-reaplicacao/questions/73/c1930c21-6639-4f22-a511-115ba7e1502d.png)",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/73/c1930c21-6639-4f22-a511-115ba7e1502d.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "O texto refere-se à modelagem do relevo pelos processos naturais de",
+    "alternativesIntroduction": "O texto refere-se à modelagem do relevo pelos processos\nnaturais de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "magmatismo e fusão.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "vulcanismo e erupção.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "intemperismo e erosão.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "tectonismo e subducção.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "metamorfismo e recristalização.",
             "file": null,
             "isCorrect": false
         }

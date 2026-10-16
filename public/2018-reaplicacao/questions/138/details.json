@@ -4,39 +4,47 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "A resistência elétrica R de um condutor homogêneo\né inversamente proporcional à área S de sua seção\ntransversal.\n\nCondutor homogêneo\nSeção\ntransversal\n\nraio\n\nDisponível em: http://efisica.if.usp.br. Acesso em: 2 ago. 2012.",
-    "files": [],
+    "context": "A resistência elétrica R de um condutor homogêneo\né inversamente proporcional à área S de sua seção\ntransversal.\n\n![](https://enem.dev/2018-reaplicacao/questions/138/6a9c978e-d8a7-46b1-a07d-2e93e8e893a0.png)\n\n![](https://enem.dev/2018-reaplicacao/questions/138/f4543643-2d1c-4215-a5cd-9c13d3e626a2.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/138/6a9c978e-d8a7-46b1-a07d-2e93e8e893a0.png",
+        "https://enem.dev/2018-reaplicacao/questions/138/f4543643-2d1c-4215-a5cd-9c13d3e626a2.png",
+        "https://enem.dev/2018-reaplicacao/questions/138/903926be-75a9-45f8-ad14-f6fa91bb052e.png",
+        "https://enem.dev/2018-reaplicacao/questions/138/1c94eaed-e961-4fd8-9d7b-a86cf9f4c0e0.png",
+        "https://enem.dev/2018-reaplicacao/questions/138/3b77ee89-1ce1-4d55-be4a-6d212731056b.png",
+        "https://enem.dev/2018-reaplicacao/questions/138/391272f0-5a9f-47c9-aac4-e2093d068ca1.png",
+        "https://enem.dev/2018-reaplicacao/questions/138/79ad0af5-f6ca-48da-8580-a12106d32b3a.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "O gráfico que representa a variação da resistência R do condutor em função da área S de sua seção transversal é",
+    "alternativesIntroduction": "O gráfico que representa a variação da resistência R do\ncondutor em função da área S de sua seção transversal é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/138/903926be-75a9-45f8-ad14-f6fa91bb052e.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/138/1c94eaed-e961-4fd8-9d7b-a86cf9f4c0e0.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/138/3b77ee89-1ce1-4d55-be4a-6d212731056b.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/138/391272f0-5a9f-47c9-aac4-e2093d068ca1.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/138/79ad0af5-f6ca-48da-8580-a12106d32b3a.png",
             "isCorrect": false
         }
     ]

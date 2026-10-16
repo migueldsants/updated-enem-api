@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": "X. y. z",
+            "text": "x ⋅ y ⋅ z",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "(x+ 1).(y + 1)",
+            "text": "(x + 1) ⋅ (y + 1)",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "X . y . z - 1",
+            "text": "x ⋅ y ⋅ z − 1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "(x + 1).(y + 1).z",
+            "text": "(x + 1) ⋅ (y + 1) ⋅ z",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "(x + 1).(y + 1).(z + 1) - 1",
+            "text": "(x + 1) ⋅ (y + 1) ⋅ (z + 1) − 1",
             "file": null,
             "isCorrect": true
         }

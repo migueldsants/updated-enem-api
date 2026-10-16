@@ -4,39 +4,46 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Um dos exemplos mais conhecidos de herança\nrecessiva ligada ao cromossomo X é o daltonismo.\nComo em qualquer distúrbio recessivo ligado ao\ncromossomo X, existem muito mais homens apresentando\no fenótipo com esse tipo de daltonismo do que mulheres.\nUm casal formado por um homem não daltônico e por uma\nmulher gestante também não daltônica, mas portadora\ndo gene recessivo para esse tipo de daltonismo, está\nesperando um bebê. Em uma das consultas de pré-natal,\no casal recebeu um heredograma que contém todas as\npossibilidades de genótipo para esse bebê.\n\nConsidere a legenda:\n\nMulher heterozigota portadora\ndo gene para daltonismo\n\nMulher não daltônica\n\nMulher daltônica\n\nHomem não daltônico\n\nHomem daltônico\n\nGRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro:\n\nGuanabara Koogan, 2016 (adaptado).",
-    "files": [],
+    "context": "Um dos exemplos mais conhecidos de herança\nrecessiva ligada ao cromossomo X é o daltonismo.\nComo em qualquer distúrbio recessivo ligado ao\ncromossomo X, existem muito mais homens apresentando\no fenótipo com esse tipo de daltonismo do que mulheres.\nUm casal formado por um homem não daltônico e por uma\nmulher gestante também não daltônica, mas portadora\ndo gene recessivo para esse tipo de daltonismo, está\nesperando um bebê. Em uma das consultas de pré-natal,\no casal recebeu um heredograma que contém todas as\npossibilidades de genótipo para esse bebê.\n\nConsidere a legenda:\n\n![](https://enem.dev/2024/questions/112/872f92db-8aa9-4bb3-b807-10f51829c212.png)\n\nGRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro:\nGuanabara Koogan, 2016 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/112/872f92db-8aa9-4bb3-b807-10f51829c212.png",
+        "https://enem.dev/2024/questions/112/bdf9a5b6-afe0-44da-aa6d-1a7aa24c29d7.png",
+        "https://enem.dev/2024/questions/112/63b9cade-4016-4061-9c03-b55f74e7f8e8.png",
+        "https://enem.dev/2024/questions/112/3f86c397-c327-4d8a-97c4-23a8f5863770.png",
+        "https://enem.dev/2024/questions/112/1052f939-1410-47f0-a299-e07f888f844f.png",
+        "https://enem.dev/2024/questions/112/ae234527-cb60-48f1-b5c6-52e738725634.png"
+    ],
     "correctAlternative": "B",
     "alternativesIntroduction": "Qual heredograma foi recebido pelo casal?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/112/bdf9a5b6-afe0-44da-aa6d-1a7aa24c29d7.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/112/63b9cade-4016-4061-9c03-b55f74e7f8e8.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/112/3f86c397-c327-4d8a-97c4-23a8f5863770.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/112/1052f939-1410-47f0-a299-e07f888f844f.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/112/ae234527-cb60-48f1-b5c6-52e738725634.png",
             "isCorrect": false
         }
     ]

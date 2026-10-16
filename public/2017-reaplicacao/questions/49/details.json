@@ -4,38 +4,38 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "O dicionário da Real Academia Espanhola não usa\na terminologia de Estado, nação e língua no sentido\nmoderno. Antes de sua edição de 1884, a palavra nación\nVLJQL¿FDYD\u0003 VLPSOHVPHQWH\u0003 ³R\u0003 DJUHJDGR\u0003 GH\u0003 KDELWDQWHV\u0003 GH\u0003\nXPD\u0003 SURYtQFLD\u000f\u0003 GH\u0003 XP\u0003 SDtV\u0003 RX\u0003 GH\u0003 XP\u0003 UHLQR´\u0003 H\u0003 WDPEpP\u0003\n³XP\u0003HVWUDQJHLUR´\u0011\u00030DV\u0003DJRUD\u0003HUD\u0003GDGD\u0003FRPR\u0003³XP\u0003(VWDGR\u0003\nou corpo político que reconhece um centro supremo de\nJRYHUQR\u0003FRPXP´\u0011\n\nHOBSBAWM, E. J. Nações e nacionalismo (desde 1870).\n\nRio de Janeiro: Paz e Terra, 1990 (adaptado).",
+    "context": "O dicionário da Real Academia Espanhola não usa\na terminologia de Estado, nação e língua no sentido\nmoderno. Antes de sua edição de 1884, a palavra nación\nsignificava simplesmente “o agregado de habitantes de\numa província, de um país ou de um reino” e também\n“um estrangeiro”. Mas agora era dada como “um Estado\nou corpo político que reconhece um centro supremo de\ngoverno comum”.\n\nHOBSBAWM, E. J. Nações e nacionalismo (desde 1870).\nRio de Janeiro: Paz e Terra, 1990 (adaptado).",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A ideia de nação como lugar de pertencimento, ao qual os indivíduos têm ligação por nascimento, constitui-se na (XURSD\u0003GR\u0003¿QDO\u0003GR\u0003VpFXOR\u0003;,;\u0011\u00036XD\u0003GLIXVmR\u0003UHVXOWRX",
+    "alternativesIntroduction": "A ideia de nação como lugar de pertencimento, ao qual\nos indivíduos têm ligação por nascimento, constitui-se na\nEuropa do final do século XIX. Sua difusão resultou",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "na rápida ascensão de governos com maior participação popular, dado que a unidade nacional anulava as diferenças sociais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "na construção de uma cultura que incorporava todas as parcialidades equilibradamente dentro de uma identidade comum.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "na imposição de uma única língua, cultura e tradição às diferentes comunidades agregadas ao Estado nacional.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "na anulação pacífica das diferenças étnicas existentes entre as comunidades que passaram a compor a nacionalidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "em um intenso processo cultural marcado pelo protagonismo das populações autóctones.",
             "file": null,
             "isCorrect": false
         }

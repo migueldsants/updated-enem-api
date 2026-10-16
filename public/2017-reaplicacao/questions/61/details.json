@@ -4,40 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/2017-reaplicacao/questions/61/c0f18f61-14ae-4d31-a867-9c1a37bf81f6.png)\n\n68(57(*$5$<\u000f\u0003'\u0011\u00030\u0011\u0003$\u0011\u0003\u000b2UJ\u0011\f\u0011\u0003Terra: feições ilustradas\u0011\u00033RUWR\u0003$OHJUH\u001d\u00038)5*6\u000f\u0003\u0015\u0013\u0013\u001b\u0011",
+    "context": "![](https://enem.dev/2017-reaplicacao/questions/61/a3c57b15-6d50-4ceb-a248-75d94c57a96c.png)\n\nSUERTEGARAY, D. M. A. Org. . Terra: feições ilustradas. Porto Alegre: UFRGS, 2008.",
     "files": [
-        "https://enem.dev/2017-reaplicacao/questions/61/c0f18f61-14ae-4d31-a867-9c1a37bf81f6.png"
+        "https://enem.dev/2017-reaplicacao/questions/61/a3c57b15-6d50-4ceb-a248-75d94c57a96c.png"
     ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "As características morfológicas do terreno estão representadas no bloco diagrama, que mostra uma região acometida por processos erosivos decorrentes da",
+    "alternativesIntroduction": "As características morfológicas do terreno estão\nrepresentadas no bloco diagrama, que mostra uma região\nacometida por processos erosivos decorrentes da",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "resistência geológica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "instabilidade do terreno.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "profundidade do solo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "intervenção antrópica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "ação de cursos de água.",
             "file": null,
             "isCorrect": true
         }

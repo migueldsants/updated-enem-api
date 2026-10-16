@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "relação entre as carreiras e as tecnologias de informação e comunicação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "discordância entre empregadores e funcionários no que diz respeito à produção.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "negatividade do impacto das tecnologias de informação e comunicação no mercado de trabalho.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "desvinculação entre o desenvolvimento das tecnologias de informação e comunicação e a produtividade no trabalho.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "necessidade de uma compreensão ampla e cuidadosa do impacto das tecnologias de informação e comunicação no mercado de trabalho.",
             "file": null,
             "isCorrect": true
         }

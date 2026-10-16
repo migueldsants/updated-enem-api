@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "O combate aos problemas decorrentes do aquecimento global é visto como uma guerra.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "O aquecimento global é mundialmente considerado um problema insuperável e irreversível.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "O problema do aquecimento global poderá ser solucionado com a ajuda do Exército.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "As grandes guerras provocaram devastação, o que contribuiu para o aquecimento global.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "O Exército está trabalhando no processo de reposição de árvores em áreas devastadas.",
             "file": null,
             "isCorrect": false
         }

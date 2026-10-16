@@ -23,19 +23,19 @@
         },
         {
             "letter": "C",
-            "text": "A +3B → C (a reação ocorre com uso de solvente orgânico).",
+            "text": "A + 3B → C (a reação ocorre com uso de solvente orgânico).",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "3A + 2B → 2C → 3D + 2E (a reação ocorre sob pressão atmosférica).",
+            "text": "3A + 2B → 2C → 3D + 2E (a reação ocorrre sob pressão atmosférica).",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "A + 1/2 B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico).",
+            "text": "A + − B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico). O",
             "file": null,
             "isCorrect": true
         }

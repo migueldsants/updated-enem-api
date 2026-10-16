@@ -6,7 +6,12 @@
     "discipline": "matematica",
     "context": "O nanofio é um feixe de metais semicondutores usualmente utilizado na fabricação de fibra óptica. A imagem\nilustra, sem escala, as representações das medidas dos diâmetros de um nanofio e de um fio de cabelo, possibilitando\ncomparar suas espessuras e constatar o avanço das novas tecnologias.\n\n![](https://enem.dev/2020-reaplicacao/questions/160/447f2055-e59c-45ff-9e1b-854d43507a67.png)",
     "files": [
-        "https://enem.dev/2020-reaplicacao/questions/160/447f2055-e59c-45ff-9e1b-854d43507a67.png"
+        "https://enem.dev/2020-reaplicacao/questions/160/447f2055-e59c-45ff-9e1b-854d43507a67.png",
+        "https://enem.dev/2020-reaplicacao/questions/160/0a0266fb-a8d3-4d4e-8abc-2ddbfc728475.png",
+        "https://enem.dev/2020-reaplicacao/questions/160/2465ab76-ca38-4f77-9c78-f4af3aee621f.png",
+        "https://enem.dev/2020-reaplicacao/questions/160/c38b794f-ea7b-4609-8e06-686550830d22.png",
+        "https://enem.dev/2020-reaplicacao/questions/160/0279409c-9252-4140-be93-a3ffd01354e8.png",
+        "https://enem.dev/2020-reaplicacao/questions/160/c57a353a-2c53-4c37-a6ca-e63df2b98585.png"
     ],
     "correctAlternative": "D",
     "alternativesIntroduction": "O número que expressa a razão existente entre o comprimento do diâmetro de um fio de cabelo e o de um nanofio é",
@@ -14,31 +19,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/160/0a0266fb-a8d3-4d4e-8abc-2ddbfc728475.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/160/2465ab76-ca38-4f77-9c78-f4af3aee621f.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/160/c38b794f-ea7b-4609-8e06-686550830d22.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/160/0279409c-9252-4140-be93-a3ffd01354e8.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/160/c57a353a-2c53-4c37-a6ca-e63df2b98585.png",
             "isCorrect": false
         }
     ]

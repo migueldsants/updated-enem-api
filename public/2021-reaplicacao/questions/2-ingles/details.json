@@ -4,38 +4,40 @@
     "year": 2021,
     "language": "ingles",
     "discipline": "linguagens",
-    "context": "I DON´T\nUNDERSTAND.\n\nPLEASE, MATE,\nBUNG US SOME\nDOSH FOR THE\nDOG. AND BONE!\n\nENGLISH!\n\nL!;>;h;>\u000e\u0005k4\u0005<\n\u0006(\u0003\u000f5\u001d\u0011\t\u0005\u0011\u0004\u0015\u0005```4\u0002\b\f\u0012\u0003\u0003\u000f\u0006\u0012\u0003\u0002f4\u0002\u0003\u00044\u0005;\u0002\u0011\u0006\u0006\u0003\u0005\u0011\u0004\u0015\u0005{\u001a\u0005\b\u000b\u00034\u0005{\u0019\u001a~4",
-    "files": [],
+    "context": "![](https://enem.dev/2021-reaplicacao/questions/2-ingles/ab571ba0-638d-423c-8db4-c806cc256e5a.png)\n\nFLANAGAN, M. Disponível em: www.cartoonstock.com. Acesso em: 21 ago. 2017.",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/2-ingles/ab571ba0-638d-423c-8db4-c806cc256e5a.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Tendo em\u0005 \u0006\u0012\b\u0005 \b\u0005 \b& \b\u000f 2\u000f\u0002 \b\u0005 \u0010\u0003\u0005 \u000f 2\u0006\u0005 \u000f\u0003\u0005 \u0002\u0003\u000f\u0012\u0011W\u0012\u0003\u0005 \u0003&\b \u000e\u0005\b\u0005\u0014\b 8\b\u0005\u000f\b\u0005\u0002\u0003\u0004\u0007\u000f \u0002\b*+\u0003\u0005\u0011 \u0010\u0011\u000f\u0002 \b\u0010\b\u0005\u000f\u0011\u0006\u0006\u0011\u0005\u0010 \u0003 \u0003\u0005 I\u0005 \u0011 \b\u0010\b\u0005(\u0011 \u0003\u0005\u0014\b\u0012\u0003\u0005\u0010\u0011\u0005que os interlocutores",
+    "alternativesIntroduction": "Tendo em vista a abrangência do inglês no contexto\nglobal, a falha na comunicação evidenciada nesse diálogo\né gerada pelo fato de que os interlocutores",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "usam variedades distintas da língua inglesa.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "cometem erros no emprego da língua inglesa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "têm dificuldade para aprender a língua inglesa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "adotam estruturas inadequadas da língua inglesa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "resistem a mudanças sofridas pela língua inglesa.",
             "file": null,
             "isCorrect": false
         }

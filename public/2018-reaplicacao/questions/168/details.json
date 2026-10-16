@@ -4,10 +4,15 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "A inclinação de um telhado depende do tipo e da\nmarca das telhas escolhidas. A figura é o esboço do\ntelhado da casa de um específico proprietário. As telhas\n\n![](https://enem.dev/2018-reaplicacao/questions/168/44c03a6f-94c9-4860-9637-895de2bf6536.png)\n\nserão apoiadas sobre a superfície quadrada plana ABCD,\nsendo BOC um triângulo retângulo em O. Sabe-se que h\né a altura do telhado em relação ao forro da casa (a figura\nplana ABOE), b = 10 é o comprimento do segmento OB, e\nd é a largura do telhado (segmento AB), todas as medidas\ndadas em metro.\n\nD\n\nC\nE\n\n![](https://enem.dev/2018-reaplicacao/questions/168/aedc94d5-2ca6-44b8-8779-1ee9b4c44539.png)\n\nA O\n\nB\n\nDisponível em: www.toptelha.com.br. Acesso em: 31 jul. 2012.\n\nSabe-se que, em função do tipo de telha escolhida\npelo proprietário, a porcentagem i de inclinação ideal do\n\n![](https://enem.dev/2018-reaplicacao/questions/168/fd29c87c-e5a3-4022-9b67-6dafe0c1fb66.png)\n\n![](https://enem.dev/2018-reaplicacao/questions/168/3ba6cfff-a341-405d-bd05-5b07a0f0950c.png)\n\nAlém disso, essas telhas são vendidas somente em\nmilheiros.",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/168/44c03a6f-94c9-4860-9637-895de2bf6536.png",
+        "https://enem.dev/2018-reaplicacao/questions/168/aedc94d5-2ca6-44b8-8779-1ee9b4c44539.png",
+        "https://enem.dev/2018-reaplicacao/questions/168/fd29c87c-e5a3-4022-9b67-6dafe0c1fb66.png",
+        "https://enem.dev/2018-reaplicacao/questions/168/3ba6cfff-a341-405d-bd05-5b07a0f0950c.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A inclinação de um telhado depende do tipo e da marca das telhas escolhidas. A figura é o esboço do telhado da casa de um específico proprietário. As telhas serão apoiadas sobre a superfície quadrada plana ABCD, sendo BOC um triângulo retângulo em O. Sabe-se que h é a altura do telhado em relação ao forro da casa (a figura plana ABOE), b = 10 é o comprimento do segmento OB, e d é a largura do telhado (segmento AB), todas as medidas dadas em metro.",
+    "alternativesIntroduction": "O proprietário avalia ser fundamental respeitar a\ninclinação ideal informada pelo fabricante, por isso\nargumenta ser necessário adquirir a quantidade mínima\nde telhas correspondente a",
     "alternatives": [
         {
             "letter": "A",
@@ -17,25 +22,25 @@
         },
         {
             "letter": "B",
-            "text": "Disponível em: www.toptelha.com.br. Acesso em: 31 jul. 2012. Sabe-se que, em função do tipo de telha escolhida pelo proprietário, a porcentagem i de inclinação ideal do b = ×100 , é de telhado, descrita por meio da relação i h 40%, e que a expressão que determina o número N de telhas necessárias na cobertura é dada por N d = × 2 10 5 , . Além disso, essas telhas são vendidas somente em milheiros. O proprietário avalia ser fundamental respeitar a inclinação ideal informada pelo fabricante, por isso argumenta ser necessário adquirir a quantidade mínima de telhas correspondente a",
+            "text": "dois milheiros.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "três milheiros.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "seis milheiros.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "h O A d b",
+            "text": "oito milheiros.",
             "file": null,
             "isCorrect": false
         }

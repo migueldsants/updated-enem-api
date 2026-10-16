@@ -4,39 +4,46 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "Um piscicultor cria uma espécie de peixe em\num tanque cilíndrico. Devido às características\ndessa espécie, o tanque deve ter, exatamente,\n2 metros de profundidade e ser dimensionado\nde forma a comportar 5 peixes para cada metro\ncúbico de água. Atualmente, o tanque comporta um\ntotal de 750 peixes. O piscicultor deseja aumentar\na capacidade do tanque para que ele comporte\n900 peixes, mas sem alterar a sua profundidade.\nConsidere 3 como aproximação para .\nO aumento da medida do raio do tanque, em metro, deve\nser de\n\nA\n30 −5\n\nB\n30 −5\n2\n\nC\n5",
-    "files": [],
+    "context": null,
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/141/384e1d33-2fdb-4c05-9181-edb72301787b.png",
+        "https://enem.dev/2020-reaplicacao/questions/141/db94ed21-59b6-4ca7-b117-c646639af803.png",
+        "https://enem.dev/2020-reaplicacao/questions/141/77e9c709-d2d4-4457-976e-287c74f6f4ca.png",
+        "https://enem.dev/2020-reaplicacao/questions/141/11d7daee-8e53-4209-a441-1622a0e270a5.png",
+        "https://enem.dev/2020-reaplicacao/questions/141/5797fb7a-28cd-4fe8-b2e1-53c4718bf730.png",
+        "https://enem.dev/2020-reaplicacao/questions/141/c5b54275-f20b-4b64-9194-c698bf9b650f.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "5 2",
+    "alternativesIntroduction": "![](https://enem.dev/2020-reaplicacao/questions/141/384e1d33-2fdb-4c05-9181-edb72301787b.png)",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/141/db94ed21-59b6-4ca7-b117-c646639af803.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/141/77e9c709-d2d4-4457-976e-287c74f6f4ca.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/141/11d7daee-8e53-4209-a441-1622a0e270a5.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "E 15",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/141/5797fb7a-28cd-4fe8-b2e1-53c4718bf730.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/141/c5b54275-f20b-4b64-9194-c698bf9b650f.png",
             "isCorrect": false
         }
     ]

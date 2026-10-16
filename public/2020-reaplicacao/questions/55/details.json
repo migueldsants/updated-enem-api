@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "fomento à expansão territorial e avanço da acumulação capitalista.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "apelo a lideranças carismáticas e adoção de diplomacia isolacionista.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "privatização da instrução pública e ampliação do ensino confessional.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "construção do monolitismo partidário e abandono do legislativo bicameral.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "contenção da indústria de defesa e promoção do internacionalismo pacifista.",
             "file": null,
             "isCorrect": false
         }

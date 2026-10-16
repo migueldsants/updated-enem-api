@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Uma empresa com 425 funcionários resolve sortear,\nnuma festa comemorativa, uma bicicleta entre os\nfuncionários que têm filhos. Dos seus 425 funcionários,\n68 não têm filhos, 153 têm um filho, 119 têm dois filhos e\no restante tem mais de dois filhos. Cartões, com um único\nnúmero impresso, serão distribuídos a funcionários que\ntêm, pelo menos, um filho. Cada funcionário receberá, no\nmáximo, um desses cartões.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/155/889e07e6-69da-4fdf-b084-86d090b91fb6.png",
+        "https://enem.dev/2024-reaplicacao/questions/155/30ac5968-5291-4f4c-968f-21c64d5cafd8.png",
+        "https://enem.dev/2024-reaplicacao/questions/155/a082cab2-f6e9-4c75-b524-aac9b2b26568.png",
+        "https://enem.dev/2024-reaplicacao/questions/155/5c886b52-dd6c-47b9-8783-624c510e0074.png",
+        "https://enem.dev/2024-reaplicacao/questions/155/f2fee8ec-cf30-4a73-9d36-f875f3d8d9ab.png"
+    ],
     "correctAlternative": "D",
     "alternativesIntroduction": "A probabilidade de a bicicleta ser sorteada para um funcionário que tenha exatamente dois filhos é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "357",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/155/889e07e6-69da-4fdf-b084-86d090b91fb6.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "238",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/155/30ac5968-5291-4f4c-968f-21c64d5cafd8.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "119",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/155/a082cab2-f6e9-4c75-b524-aac9b2b26568.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "119 E 1 119",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/155/5c886b52-dd6c-47b9-8783-624c510e0074.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/155/f2fee8ec-cf30-4a73-9d36-f875f3d8d9ab.png",
             "isCorrect": false
         }
     ]

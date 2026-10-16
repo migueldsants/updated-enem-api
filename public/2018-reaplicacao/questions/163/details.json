@@ -4,39 +4,47 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "Em março de 2011, um terremoto de 9,0 graus de\n\nmagnitude na escala Richter atingiu o Japão matando\n\nmilhares de pessoas e causando grande destruição.\n\nEm janeiro daquele ano, um terremoto de 7,0 graus na\n\nescala Richter atingiu a cidade de Santiago Del Estero,\n\nna Argentina. A magnitude de um terremoto, medida\n\npela escala Richter, é R\nA\nA\n= log\n)\n(\n\n, em que A é a\n\namplitude do movimento vertical do solo, informado em\n\num sismógrafo, A 0 é uma amplitude de referência e log\n\nrepresenta o logaritmo na base 10.\n\nDisponível em: http://earthquake.usgs.gov. Acesso em: 28 fev. 2012 (adaptado).",
-    "files": [],
+    "context": "Em março de 2011, um terremoto de 9,0 graus de\nmagnitude na escala Richter atingiu o Japão matando\nmilhares de pessoas e causando grande destruição.\nEm janeiro daquele ano, um terremoto de 7,0 graus na\nescala Richter atingiu a cidade de Santiago Del Estero,\nna Argentina. A magnitude de um terremoto, medida\n\n![](https://enem.dev/2018-reaplicacao/questions/163/b9aad9d4-5973-4a55-843d-e5d1bc2c9e47.png)\n\n![](https://enem.dev/2018-reaplicacao/questions/163/423a8bb5-f66f-4dda-983d-23c1250d0bdf.png)\n\nDisponível em: http://earthquake.usgs.gov. Acesso em: 28 fev. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/163/b9aad9d4-5973-4a55-843d-e5d1bc2c9e47.png",
+        "https://enem.dev/2018-reaplicacao/questions/163/423a8bb5-f66f-4dda-983d-23c1250d0bdf.png",
+        "https://enem.dev/2018-reaplicacao/questions/163/98434c46-6df9-4109-bb72-d8573904eb2a.png",
+        "https://enem.dev/2018-reaplicacao/questions/163/b5b9316c-8d3f-49a5-819b-c5e68510016a.png",
+        "https://enem.dev/2018-reaplicacao/questions/163/5522d090-883c-42b3-9325-0f37ba67b53c.png",
+        "https://enem.dev/2018-reaplicacao/questions/163/7ac53793-5ea4-450d-a42b-352152f89342.png",
+        "https://enem.dev/2018-reaplicacao/questions/163/d663695b-9d9e-4111-a3a5-59422e079226.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A razão entre as amplitudes dos movimentos verticais dos terremotos do Japão e da Argentina é",
+    "alternativesIntroduction": "A razão entre as amplitudes dos movimentos verticais dos\nterremotos do Japão e da Argentina é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/163/98434c46-6df9-4109-bb72-d8573904eb2a.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/163/b5b9316c-8d3f-49a5-819b-c5e68510016a.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/163/5522d090-883c-42b3-9325-0f37ba67b53c.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/163/7ac53793-5ea4-450d-a42b-352152f89342.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/163/d663695b-9d9e-4111-a3a5-59422e079226.png",
             "isCorrect": false
         }
     ]

@@ -5,38 +5,41 @@
     "language": null,
     "discipline": "ciencias-natureza",
     "context": "Pretende-se utilizar um aquecedor d’água, mas a rede elétrica local não suporta a potência dissipada, interrompendo seu\nfuncionamento. A solução criativa adotada foi associar em série, ao primeiro, um segundo aquecedor idêntico. Com essa solução,\no tempo que leva para ferver determinado volume de água é t.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/129/20b2f3a9-e753-4b94-8d79-994996cf0998.png",
+        "https://enem.dev/2025-reaplicacao/questions/129/bd1a101d-f839-49d9-a7c0-2a6e8283fe70.png"
+    ],
     "correctAlternative": "D",
     "alternativesIntroduction": "Quanto tempo levaria para ferver o mesmo volume de água, se a rede suportasse um único aquecedor?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "4í",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "2í",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "í",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/129/20b2f3a9-e753-4b94-8d79-994996cf0998.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/129/bd1a101d-f839-49d9-a7c0-2a6e8283fe70.png",
             "isCorrect": false
         }
     ]

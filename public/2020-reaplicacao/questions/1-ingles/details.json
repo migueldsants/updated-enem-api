@@ -4,38 +4,40 @@
     "year": 2020,
     "language": "ingles",
     "discipline": "linguagens",
-    "context": "Of the 7.2 billion people on Earth...\n\n...nearly two-thirds speak one\nof these 12 languages as their\n\nnative language.\nArabic\n\nHindi-Urdu\n\nChinese\n(all dialects)\n1.39 billion\nspeakers\n\nBengali\n\nSpanish\n\nEnglish\n\n67M\nPortuguese\n\n132M\nItalian\n\n123M\nGerman\n\n118M\nJapanese\n\n254M\nFrench\n\nRussian\n\nSources: Ulrich Ammon, University of Düsseldorf, Population Reference Bureau\nNote: Totals for languages include bilingual speakers.\n\nOf the 7.2 Billion People on Earth, 2015. Disponível em:\n\nwww.washingtonpost.com. Acesso em: 18 ago. 2017.\nConsiderando a relação entre o número de habitantes\ne de línguas faladas no mundo, os dados trazidos pelo\ninfográfico revelam uma",
-    "files": [],
+    "context": "![](https://enem.dev/2020-reaplicacao/questions/1-ingles/e5e9c923-8119-4dda-9331-471bb8796489.png)\n\nwww.washingtonpost.com. Acesso em: 18 ago. 2017.",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/1-ingles/e5e9c923-8119-4dda-9331-471bb8796489.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Considerando a relação entre o número de habitantes\ne de línguas faladas no mundo, os dados trazidos pelo\ninfográfico revelam uma",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "hierarquização das línguas pela localização dos países.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "ampliação da quantidade de falantes bilíngues no mundo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "preferência pelo estudo de línguas mais conhecidas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "expansão do ensino de mandarim como segunda língua.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "concentração de falantes em um conjunto limitado de línguas.",
             "file": null,
             "isCorrect": true
         }

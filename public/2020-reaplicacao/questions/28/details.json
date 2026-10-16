@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "exalta uma forma específica de dizer.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "utiliza elementos pouco usuais na língua.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "influencia a maneira de falar do povo brasileiro.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "discute a diversidade lexical de um dado grupo social.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "integra o patrimônio linguístico do português brasileiro.",
             "file": null,
             "isCorrect": true
         }

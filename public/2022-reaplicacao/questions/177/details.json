@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Um jovem, no trajeto que usa para ir para a escola,\nsempre passa por um grande relógio digital que há no\ncentro da sua cidade e compara a hora nele mostrada\ncom a hora que marca o seu relógio de pulso. Ao longo\nde 30 dias de observação, constata que o seu relógio\natrasa 2 minutos, a cada 15 dias, em relação ao do centro\nda cidade.",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "Após 90 dias, sem nenhum dos dois relógios\nreceberem ajustes e mantida a mesma parcela de atraso\ndiário, ao ler as marcações de horário dos dois relógios,\nverificou que o do centro da cidade marcava exatamente\n7 horas.\nQual horário marcava seu relógio de pulso nesse\ninstante?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "6 h e 48 min B",
+            "text": "6 h e 48 min",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "6 h e 54 min C",
+            "text": "6 h e 54 min",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "6 h e 58 min D",
+            "text": "6 h e 58 min",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "7 h e 06 min E",
+            "text": "7 h e 06 min",
             "file": null,
             "isCorrect": false
         },

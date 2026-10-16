@@ -4,38 +4,43 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "A densidade é uma propriedade que relaciona massa\ne volume de um material. Um estudante iniciou um\n%\u0007\u0004\u001e\n\u000f\u000e\u0010\n\u0005\r\u0004\u0002 \u000f\n\u0002 \u000f\n\n\u0007\u0010\u000e\u0005\b'\u001d\u0004\u0002 \u000f\b\u0002 \u000f\n\u0005\t\u000e\u000f\b\u000f\n\u0002 \u000f\n\u0002 \f\u0010\b\u0002\namostra sólida desconhecida. Primeiro ele determinou a\nmassa da amostra, obtendo 27,8 g. Em seguida, utilizou\numa proveta, graduada em mililitro, com água para\ndeterminar o volume da amostra, conforme esquematizado\n\u0005\b\u0002\u0006J\f\u0007\b(\u0002\u0003\u0004\u0005\t\u000e\u000f\n\u0007\n\u0002\b\u0002\u000f\n\u0005\t\u000e\u000f\b\u000f\n\u0002\u000f\b\u0002?J\f\b\u0002\u000eJ\f\b2\u0002\b\u0002\u0002J\u00107(\n\nVolume final\n\nVolume inicial\n\nÁgua\n\nÁgua\n\nAmostra\n\nProveta com água\nProveta com água e amostra",
-    "files": [],
+    "context": "A densidade é uma propriedade que relaciona massa\ne volume de um material. Um estudante iniciou um\nprocedimento de determinação da densidade de uma\namostra sólida desconhecida. Primeiro ele determinou a\nmassa da amostra, obtendo 27,8 g. Em seguida, utilizou\numa proveta, graduada em mililitro, com água para\ndeterminar o volume da amostra, conforme esquematizado\nna figura. Considere a densidade da água igual a 1 g/mL.\n\n![](https://enem.dev/2021-reaplicacao/questions/103/8a541ca7-0557-480a-976d-40e0c73fc9ab.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/103/8611c674-1ca9-4049-b956-1e4182f3b00b.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/103/5ee20148-a9c6-4262-8e5c-e751efbf50c6.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/103/d66664a2-7e73-40b0-b013-dfa569c21900.png)",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/103/8a541ca7-0557-480a-976d-40e0c73fc9ab.png",
+        "https://enem.dev/2021-reaplicacao/questions/103/8611c674-1ca9-4049-b956-1e4182f3b00b.png",
+        "https://enem.dev/2021-reaplicacao/questions/103/5ee20148-a9c6-4262-8e5c-e751efbf50c6.png",
+        "https://enem.dev/2021-reaplicacao/questions/103/d66664a2-7e73-40b0-b013-dfa569c21900.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "\u0012\u0002 \u000f \u0005 \u000e\u000f\b\u000f \u0002 \u000f\b\u0002 \b\u0010\u0004 \u0007\b\u0002 \u0004! \u000e\u000f\b$\u0002 \u0010\u0002 J\u00107$\u0002 ^\u0002 \u0010\b\u000e \u0002 próxima de",
+    "alternativesIntroduction": "Proveta com água Proveta com água e amostra\nA densidade da amostra obtida, em g/mL, é mais\npróxima de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "0,36.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "0,56.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "0,62.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "0,79.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "2,78.",
             "file": null,
             "isCorrect": true
         }

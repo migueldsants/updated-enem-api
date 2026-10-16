@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "abordagem epistemológica sobre o lógos e a fundamentação da metafísica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "teoria crítica sobre a essência e o método do conhecimento científico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "justificação religiosa sobre a existência e as contradições humanas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "elaboração poética sobre os mitos e as narrativas cosmogônicas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "explicação racional sobre a origem e a transformação da physis.",
             "file": null,
             "isCorrect": true
         }

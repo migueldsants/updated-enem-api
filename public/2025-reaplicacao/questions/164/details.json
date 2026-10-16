@@ -4,40 +4,40 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma pessoa irá de carro retirar uma mercadoria em uma loja. Pesquisou no aplicativo do seu celular as opções de loja onde\npoderá retirar essa mercadoria e obteve como resposta o mapa da região onde ele se encontra e as cinco possibilidades de lojas.\n\n![](https://enem.dev/2025-reaplicacao/questions/164/09bbafe7-2b3c-4cfd-9f95-748c1582474c.png)\n\nAo escolher uma das cinco lojas, o aplicativo identificou sua localização e apresentou a seguinte descrição de trajeto:\n\n1º) siga em frente até a rotatória, nela pegue a segunda saída;\n2º) siga em frente até a rotatória, nela pegue a segunda saída;\n3º) siga em frente até a rotatória, nela pegue a segunda saída e chegue ao seu destino final.\n\nAs rotatórias são percorridas no sentido anti-horário e, no trajeto descrito pelo aplicativo, a distância entre a segunda e\na terceira rotatórias é o dobro da distância entre a primeira e a segunda. As distâncias entre as rotatórias estão apresentadas\nno quadro.\n\nRotatórias\nDistância (m)\n\n1 e 2\n200\n\n2 e 3\n100\n\n2 e 4\n400\n\n2 e 5\n200",
+    "context": "Uma pessoa irá de carro retirar uma mercadoria em uma loja. Pesquisou no aplicativo do seu celular as opções de loja onde\npoderá retirar essa mercadoria e obteve como resposta o mapa da região onde ele se encontra e as cinco possibilidades de lojas.\n\nAo escolher uma das cinco lojas, o aplicativo identificou sua localização e apresentou a seguinte descrição de trajeto:\n1º) siga em frente até a rotatória, nela pegue a segunda saída;\n2º) siga em frente até a rotatória, nela pegue a segunda saída;\n3º) siga em frente até a rotatória, nela pegue a segunda saída e chegue ao seu destino final.\nAs rotatórias são percorridas no sentido anti-horário e, no trajeto descrito pelo aplicativo, a distância entre a segunda e\na terceira rotatórias é o dobro da distância entre a primeira e a segunda. As distâncias entre as rotatórias estão apresentadas\nno quadro.\n\n![](https://enem.dev/2025-reaplicacao/questions/164/fa39b4ec-f11c-4ced-ab9f-c9ebeb15860a.png)",
     "files": [
-        "https://enem.dev/2025-reaplicacao/questions/164/09bbafe7-2b3c-4cfd-9f95-748c1582474c.png"
+        "https://enem.dev/2025-reaplicacao/questions/164/fa39b4ec-f11c-4ced-ab9f-c9ebeb15860a.png"
     ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "2 e 6 200",
+    "alternativesIntroduction": "Seguindo as instruções recebidas do aplicativo, ela irá retirar a mercadoria na loja",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "I.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "II.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "III.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "IV.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "V.",
             "file": null,
             "isCorrect": false
         }

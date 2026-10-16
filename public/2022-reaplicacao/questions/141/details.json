@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Uma indústria planeja produzir caixa-d’água, em\nformato cilíndrico, com 1 m de altura, capaz de armazenar\n0,4 m³ de água.\nA medida do raio da base dessa caixa-d’água, em metro,\ndeve ser",
-    "files": [],
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/141/a7971208-2ca3-4562-9222-c6872f9618cd.png",
+        "https://enem.dev/2022-reaplicacao/questions/141/ad212c23-2a98-45e3-8536-460534d2e7da.png",
+        "https://enem.dev/2022-reaplicacao/questions/141/9839da0d-38cf-4d73-a39e-3deb208b5228.png",
+        "https://enem.dev/2022-reaplicacao/questions/141/57cf94c0-242b-4d03-972e-df75a6f53c26.png",
+        "https://enem.dev/2022-reaplicacao/questions/141/698fd084-b837-4e00-ad2d-ea8809eb1368.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "M OI",
     "alternatives": [
         {
             "letter": "A",
-            "text": "0 2 , π B",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/141/a7971208-2ca3-4562-9222-c6872f9618cd.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "0 4 , π C C 0 2 , π D D 0 4 , π E E 1 2 , π",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/141/ad212c23-2a98-45e3-8536-460534d2e7da.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/141/9839da0d-38cf-4d73-a39e-3deb208b5228.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/141/57cf94c0-242b-4d03-972e-df75a6f53c26.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/141/698fd084-b837-4e00-ad2d-ea8809eb1368.png",
             "isCorrect": false
         }
     ]

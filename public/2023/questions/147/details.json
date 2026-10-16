@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Alguns estudos comprovam que os carboidratos\nfornecem energia ao corpo, preservam as proteínas\nestruturais dos músculos durante a prática de atividade\nfísica e ainda dão força para o cérebro coordenar os\nmovimentos, o que de fato tem impacto positivo no\ndesenvolvimento do praticante. O ideal é consumir 1 grama\nde carboidrato para cada minuto de caminhada.\n\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o\ndesempenhodo atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o desempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de caminhada, ingerindo, antes dessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o consumo ideal apenas por meio do consumo de pão de fôrma integral, o casal planeja garantir o suprimento de pães para um período de 30 dias ininterruptos. Sabe-se que cada pacote desse pão vem com 18 fatias, e que cada uma delas tem 15 gramas de carboidratos.\nA quantidade mínima de pacotes de pão de fôrma necessários para prover o suprimento a esse casal é",
+    "alternativesIntroduction": "Um casal realizará diariamente 30 minutos de\ncaminhada, ingerindo, antes dessa atividade, a quantidade\nideal de carboidratos recomendada. Para ter o consumo ideal\napenas por meio do consumo de pão de fôrma integral, o\ncasal planeja garantir o suprimento de pães para um período\nde 30 dias ininterruptos. Sabe-se que cada pacote desse pão\nvem com 18 fatias, e que cada uma delas tem 15 gramas\nde carboidratos.",
     "alternatives": [
         {
             "letter": "A",
-            "text": "1",
+            "text": "quantidade mínima de pacotes de pão de fôrma",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "4",
+            "text": "4.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "6",
+            "text": "6.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "7",
+            "text": "7.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "8",
+            "text": "8.",
             "file": null,
             "isCorrect": false
         }

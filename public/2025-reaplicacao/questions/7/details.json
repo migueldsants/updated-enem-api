@@ -13,31 +13,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "tópicos que compõem o livro são listados e paginados.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "elementos não verbais dialogam com a temática da narrativa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "partes que constituem a narrativa estão destacadas graficamente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "títulos das seções resumem os acontecimentos da história contada.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "seções posfácio e biografia estão posicionadas conforme as normas editoriais.",
             "file": null,
             "isCorrect": false
         }

@@ -4,8 +4,14 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "Um professor pediu aos seus alunos que esboçassem um gráfico representando a relação entre metro cúbico e litro,\nutilizando um software. Pediu ainda que representassem graficamente os pontos correspondentes às transformações\nde 0 m³, 2 m³ e 4 m³ em litro.\n\nO professor recebeu de cinco alunos os seguintes gráficos:\n\nL\nL\nL\nL\nL\n\n3 4\n2 000\n\n2\n3\n\nm3\n0\n2\n4\nm3\n0\n2\n4\nm3\n0\n2\n4\nm3\n0\n2\n4\nm3\n0\n2\n4\n\nI\nV",
-    "files": [],
+    "context": "Um professor pediu aos seus alunos que esboçassem um gráfico representando a relação entre metro cúbico e litro,\nutilizando um software. Pediu ainda que representassem graficamente os pontos correspondentes às transformações\nde 0 m³, 2 m³ e 4 m³ em litro.\n\n![](https://enem.dev/2020-reaplicacao/questions/159/ffc0428a-bb1e-4c8f-8575-ab860b39b7a5.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/159/b47a004f-78da-4dd9-b434-6a8ec597ec60.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/159/a3a7b466-af1c-4dd6-8d43-aa0150b7dd50.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/159/410f58d5-7411-4a7f-920e-2aaec92672b6.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/159/043b1628-36d6-4608-9f84-8a70b66a73fe.png)\n\nf ff fff",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/159/ffc0428a-bb1e-4c8f-8575-ab860b39b7a5.png",
+        "https://enem.dev/2020-reaplicacao/questions/159/b47a004f-78da-4dd9-b434-6a8ec597ec60.png",
+        "https://enem.dev/2020-reaplicacao/questions/159/a3a7b466-af1c-4dd6-8d43-aa0150b7dd50.png",
+        "https://enem.dev/2020-reaplicacao/questions/159/410f58d5-7411-4a7f-920e-2aaec92672b6.png",
+        "https://enem.dev/2020-reaplicacao/questions/159/043b1628-36d6-4608-9f84-8a70b66a73fe.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "O gráfico que melhor representa o esboço da transformação de metro cúbico para litro é o do aluno",
     "alternatives": [
@@ -23,13 +29,13 @@
         },
         {
             "letter": "C",
-            "text": "III. D \t IV.",
+            "text": "III.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "IV.",
             "file": null,
             "isCorrect": false
         },

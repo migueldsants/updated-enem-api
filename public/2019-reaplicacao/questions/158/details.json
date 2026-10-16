@@ -4,39 +4,53 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Os movimentos ondulatórios (periódicos) são\nrepresentados por equações do tipo \u001f\n\nAsen wt\n\u001b ,\nque apresentam parâmetros com significados físicos\n\nimportantes, tais como a frequência w\nT\n\u001f 2\u001e , em que T\n\né o período; A é a amplitude ou deslocamento máximo;\n\nθ é o ângulo de fase 0\n2\n\nw\n\n, que mede o\n\ndeslocamento no eixo horizontal em relação à origem no\ninstante inicial do movimento.\n\nO gráfico representa um movimento periódico,\nP = P(t), em centímetro, em que P é a posição da\ncabeça do pistão do motor de um carro em um\ninstante t, conforme ilustra a figura.\n\n0\nπ\nπ\n\n2\nπ\n3\n2\nπ\n2\nπ\n5\n2\nπ\n3\nπ\n7\n2\nπ\n4\nt\n\n−1\n\n−2\n\n−3\n\n− 4",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/158/b3a5aab9-38e4-45ac-9da8-553f4d200d49.png)\n\nOs movimentos ondulatórios (periódicos) são\n\n![](https://enem.dev/2019-reaplicacao/questions/158/7647ab26-7841-467d-b81c-10081b6f4515.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/158/ac28244f-a3e1-493f-aab4-2d4b45d3e965.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/158/2fc44daf-ab1d-4071-9b16-dba44e647570.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/158/3f3a02f6-bdec-4dcc-a31a-f02ad5b11724.png)\n\né o período; A é a amplitude ou deslocamento máximo;\n\n![](https://enem.dev/2019-reaplicacao/questions/158/19dd1c1b-c9f2-4b83-b52e-ed489b1cb142.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/158/e646ab33-223c-45ef-b74b-8f5b0a04a0a8.png)\n\ndeslocamento no eixo horizontal em relação à origem no\ninstante inicial do movimento.\n\nO gráfico representa um movimento periódico,\nP = P(t), em centímetro, em que P é a posição da\ncabeça do pistão do motor de um carro em um\ninstante t, conforme ilustra a figura.\n\n![](https://enem.dev/2019-reaplicacao/questions/158/ba9b2f85-f965-48ae-b061-ec2e8c598211.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/158/b3a5aab9-38e4-45ac-9da8-553f4d200d49.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/7647ab26-7841-467d-b81c-10081b6f4515.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/ac28244f-a3e1-493f-aab4-2d4b45d3e965.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/2fc44daf-ab1d-4071-9b16-dba44e647570.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/3f3a02f6-bdec-4dcc-a31a-f02ad5b11724.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/19dd1c1b-c9f2-4b83-b52e-ed489b1cb142.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/e646ab33-223c-45ef-b74b-8f5b0a04a0a8.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/ba9b2f85-f965-48ae-b061-ec2e8c598211.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/77ba3c79-de1b-48d2-8523-03519e841d19.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/447dbbfd-ef0d-409e-ab73-2d5dcf0ce53e.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/1e30260e-9549-4b95-92bc-ce429798b7b2.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/d3e41050-49e6-48b3-9d0e-c03b34446454.png",
+        "https://enem.dev/2019-reaplicacao/questions/158/b8088192-5159-4216-9b94-5095f6c87846.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A expressão algébrica que representa a posição P(t), da cabeça do pistão, em função do tempo t é",
+    "alternativesIntroduction": "A expressão algébrica que representa a posição P(t),\nda cabeça do pistão, em função do tempo t é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/158/77ba3c79-de1b-48d2-8523-03519e841d19.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/158/447dbbfd-ef0d-409e-ab73-2d5dcf0ce53e.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/158/1e30260e-9549-4b95-92bc-ce429798b7b2.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/158/d3e41050-49e6-48b3-9d0e-c03b34446454.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/158/b8088192-5159-4216-9b94-5095f6c87846.png",
             "isCorrect": false
         }
     ]

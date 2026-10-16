@@ -4,8 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Deseja-se comprar determinado produto e, após\numa pesquisa de preços, o produto foi encontrado em\n5 lojas diferentes, a preços variados.\n\n•\t Loja 1: \u000720% de desconto, que equivale a R$ 720,00,\nmais R$ 70,00 de frete;\n•\t Loja 2: \u000720% de desconto, que equivale a R$ 740,00,\nmais R$ 50,00 de frete;\n•\t Loja 3: \u000720% de desconto, que equivale a R$ 760,00,\nmais R$ 80,00 de frete;\n•\t Loja 4: \u000715% de desconto, que equivale a R$ 710,00,\nmais R$ 10,00 de frete;\n•\t Loja 5: \u000715% de desconto, que equivale a R$ 690,00,\nsem custo de frete.\nO produto foi comprado na loja que apresentou o\nmenor preço total.",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/171/5523a86f-0ec9-4c1c-9534-087fa578c2dd.png)\n\nDeseja-se comprar determinado produto e, após\numa pesquisa de preços, o produto foi encontrado em\n5 lojas diferentes, a preços variados.\n\n• Loja 1: 20% de desconto, que equivale a R$ 720,00,\nmais R$ 70,00 de frete;\n• Loja 2: 20% de desconto, que equivale a R$ 740,00,\nmais R$ 50,00 de frete;\n• Loja 3: 20% de desconto, que equivale a R$ 760,00,\nmais R$ 80,00 de frete;\n• Loja 4: 15% de desconto, que equivale a R$ 710,00,\nmais R$ 10,00 de frete;\n• Loja 5: 15% de desconto, que equivale a R$ 690,00,\nsem custo de frete.\nO produto foi comprado na loja que apresentou o\nmenor preço total.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/171/5523a86f-0ec9-4c1c-9534-087fa578c2dd.png"
+    ],
     "correctAlternative": "A",
     "alternativesIntroduction": "O produto foi adquirido na loja",
     "alternatives": [

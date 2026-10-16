@@ -4,39 +4,46 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma formiga encontra-se no ponto X, no lado externo de um copo que tem a forma de um cilindro reto. No\nlado interno, no ponto V, existe um grão de açúcar preso na parede do copo. A formiga segue o caminho XYZWV\n(sempre sobre a superfície lateral do copo), de tal forma que os trechos ZW e WV são realizados na superfície\ninterna do copo. O caminho XYZWV é mostrado na figura.\n\nW\nV\nX\n\nSabe-se que: os pontos X, V, W se encontram à mesma distância da borda; o trajeto WV é o mais curto possível;\nos trajetos XY e ZW são perpendiculares à borda do copo; e os pontos X e V se encontram diametralmente opostos.\n\nSupondo que o copo é de material recortável, realiza-se um corte pelo segmento unindo P a Q, perpendicular à\nborda do copo, e recorta-se também sua base, obtendo então uma figura plana. Desconsidere a espessura do copo.\n\nConsiderando apenas a planificação da superfície lateral do copo, a trajetória da formiga é",
-    "files": [],
+    "context": "Uma formiga encontra-se no ponto X, no lado externo de um copo que tem a forma de um cilindro reto. No\nlado interno, no ponto V, existe um grão de açúcar preso na parede do copo. A formiga segue o caminho\n(sempre sobre a superfície lateral do copo), de tal forma que os trechos\ninterna do copo. O caminho XYZWV é mostrado na figura.\n\n![](https://enem.dev/2019-reaplicacao/questions/138/6e4548e6-eeea-4f5a-b2cb-2bead1e852e8.png)\n\nSabe-se que: os pontos X, V, W se encontram à mesma distância da borda; o trajeto\nos trajetos XY e ZW são perpendiculares à borda do copo; e os pontos\n\nSupondo que o copo é de material recortável, realiza-se um corte pelo segmento unindo\nborda do copo, e recorta-se também sua base, obtendo então uma figura plana. Desconsidere a espessura do copo.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/138/6e4548e6-eeea-4f5a-b2cb-2bead1e852e8.png",
+        "https://enem.dev/2019-reaplicacao/questions/138/6b075df2-5f69-4ba1-8810-883b146a65fd.png",
+        "https://enem.dev/2019-reaplicacao/questions/138/93b3312f-0aec-4229-989c-468eaff94b56.png",
+        "https://enem.dev/2019-reaplicacao/questions/138/f02e69f0-6875-4cda-8fca-c7e98e544912.png",
+        "https://enem.dev/2019-reaplicacao/questions/138/3fbfe006-2124-4425-91a3-46717be3a059.png",
+        "https://enem.dev/2019-reaplicacao/questions/138/e651b8d8-c226-496f-bbe0-3415e6e5d4bd.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "V W",
+    "alternativesIntroduction": "Considerando apenas a planificação da superfície lateral do copo, a trajetória da formiga é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/138/6b075df2-5f69-4ba1-8810-883b146a65fd.png",
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "E W V X V W",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/138/93b3312f-0aec-4229-989c-468eaff94b56.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "W V Z Y",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/138/f02e69f0-6875-4cda-8fca-c7e98e544912.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Z Y W V X",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/138/3fbfe006-2124-4425-91a3-46717be3a059.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/138/e651b8d8-c226-496f-bbe0-3415e6e5d4bd.png",
             "isCorrect": false
         }
     ]

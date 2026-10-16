@@ -4,39 +4,46 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "O chocolate é um dos alimentos mais apreciados\ne desejados do mundo. Uma loja especializada nesse\nproduto oferece uma promoção para os bombons, que\ncustam R$ 2,00 cada. Cada cliente tem x% de desconto\nna compra de x bombons. A promoção é válida para a\ncompra de até 40 bombons, ou seja, 40% é o desconto\nmáximo possível. Queremos escrever uma expressão\npara V em função de x, com x ≤40 .\nQual é a expressão do valor V, em reais, na compra de x\nbombons da promoção, por cliente?",
-    "files": [],
+    "context": null,
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/171/58ee43c3-6f62-46b0-a62b-0a15010882ca.png",
+        "https://enem.dev/2022-reaplicacao/questions/171/57730db2-b75c-4ab0-ac8f-1f7afa1db586.png",
+        "https://enem.dev/2022-reaplicacao/questions/171/68d0a28e-d657-44dc-b0b9-040cc65d23e0.png",
+        "https://enem.dev/2022-reaplicacao/questions/171/41f3620e-ff37-412a-884c-ee438e98e091.png",
+        "https://enem.dev/2022-reaplicacao/questions/171/466e478d-ff06-444d-b85c-99a2160b07f4.png",
+        "https://enem.dev/2022-reaplicacao/questions/171/ff62eb58-f368-42a7-8866-a5dd819a9c8b.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "![](https://enem.dev/2022-reaplicacao/questions/171/58ee43c3-6f62-46b0-a62b-0a15010882ca.png)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "V x = 1 B",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/171/57730db2-b75c-4ab0-ac8f-1f7afa1db586.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "V x 2 1 50 C",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/171/68d0a28e-d657-44dc-b0b9-040cc65d23e0.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "V x x 2 1 50 D",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/171/41f3620e-ff37-412a-884c-ee438e98e091.png",
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "V x x 1 100 E",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/171/466e478d-ff06-444d-b85c-99a2160b07f4.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "V x x 2 1 100",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/171/ff62eb58-f368-42a7-8866-a5dd819a9c8b.png",
             "isCorrect": false
         }
     ]

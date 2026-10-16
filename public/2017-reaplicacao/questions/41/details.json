@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "colocação pronominal em próclise.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "uso recorrente de marcas de negação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "emprego adequado dos tempos verbais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "preferência por arcaísmos, como “abrupta” e “turvo”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "presença de qualificadores, como “maravilhoso” e “peixe-anjo”.",
             "file": null,
             "isCorrect": false
         }

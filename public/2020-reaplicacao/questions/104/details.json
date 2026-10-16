@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Uma lagarta ao comer as folhas do milho, induz no\n\nvegetal a produção de óleos voláteis cujas estruturas\n\nestão mostradas a seguir:",
-    "files": [],
+    "context": "Uma lagarta ao comer as folhas do milho, induz no\nvegetal a produção de óleos voláteis cujas estruturas\n\n![](https://enem.dev/2020-reaplicacao/questions/104/6661c5b8-cd16-42c5-9e54-b8038668adec.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/104/6661c5b8-cd16-42c5-9e54-b8038668adec.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A volatilidade desses óleos é decorrência do(a)",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "elevado caráter covalente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "alta miscibilidade em água.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "baixa estabilidade química.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "grande superfície de contato.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "fraca interação intermolecular.",
             "file": null,
             "isCorrect": true
         }

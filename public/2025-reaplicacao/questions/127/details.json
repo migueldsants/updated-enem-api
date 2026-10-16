@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "produção de proteínas de resistência contra o vírus.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "inibição da síntese das proteínas Rep não funcionais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "produção de proteínas virais que repelem a mosca-branca.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "indução de uma resposta de defesa da planta contra a mosca-branca.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "síntese da proteína Rep não funcional, que impede a replicação viral.",
             "file": null,
             "isCorrect": true
         }

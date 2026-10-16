@@ -4,40 +4,40 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
-    "context": "![](https://enem.dev/2017-reaplicacao/questions/27/ad6f1366-aecf-45d3-b06b-1007440c1b46.png)\n\n0Ò.+,1$\u000f\u00039\u0011\u0003Operário e mulher kolkosiana.\nAço inoxidável, 24,5 m. Moscou, 1937.\n\nDisponível em: http://laphotodujour.hautetfort.com. Acesso em: 7 maio 2013.",
+    "context": "![](https://enem.dev/2017-reaplicacao/questions/27/d8f9c59b-10f4-4206-82fd-088601b4f315.png)\n\nMÚKHINA, V. Operário e mulher kolkosiana.\nAço inoxidável, 24,5 m. Moscou, 1937.\n\nDisponível em: http://laphotodujour.hautetfort.com. Acesso em: 7 maio 2013.",
     "files": [
-        "https://enem.dev/2017-reaplicacao/questions/27/ad6f1366-aecf-45d3-b06b-1007440c1b46.png"
+        "https://enem.dev/2017-reaplicacao/questions/27/d8f9c59b-10f4-4206-82fd-088601b4f315.png"
     ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Essa escultura foi produzida durante o período da ditadura stalinista, na ex-União Soviética, e representa o(a)",
+    "alternativesIntroduction": "Essa escultura foi produzida durante o período da ditadura\nstalinista, na ex-União Soviética, e representa o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "luta do proletariado soviético para sua emancipação do sistema vigente.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "trabalhador soviético retratado de acordo com a realidade do período.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "exaltação idealizada da capacidade de trabalho do povo soviético.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "união de operários e camponeses soviéticos pela volta do regime czarista.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "sofrimento de trabalhadores soviéticos pela opressão do regime stalinista.",
             "file": null,
             "isCorrect": false
         }

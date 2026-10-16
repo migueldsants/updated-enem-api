@@ -4,39 +4,47 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Um carpinteiro fabrica portas retangulares maciças,\nfeitas de um mesmo material. Por ter recebido de seus\nclientes pedidos de portas mais altas, aumentou sua\n\n![](https://enem.dev/2014/questions/139/3568cea9-2af7-4d55-b870-dddb36d0610a.png)\n\n![](https://enem.dev/2014/questions/139/3cd152eb-85a4-4339-9eba-5804f66ce645.png)\n\nmanter o custo com o material de cada porta, precisou\nreduzir a largura.",
+    "files": [
+        "https://enem.dev/2014/questions/139/3568cea9-2af7-4d55-b870-dddb36d0610a.png",
+        "https://enem.dev/2014/questions/139/3cd152eb-85a4-4339-9eba-5804f66ce645.png",
+        "https://enem.dev/2014/questions/139/186157ea-bf87-434f-963d-269a8228eab4.png",
+        "https://enem.dev/2014/questions/139/1179c02f-73fe-4e24-8601-ff95fcacd5d9.png",
+        "https://enem.dev/2014/questions/139/444de8fb-0818-4f5e-8d3b-c2e2f4ef430d.png",
+        "https://enem.dev/2014/questions/139/b78d3dec-000e-48ac-8c35-7d305488c193.png",
+        "https://enem.dev/2014/questions/139/89bfbfcb-b006-4c7a-9f53-1439a121bb33.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A razão entre a largura da nova porta e a largura da porta anterior é",
+    "alternativesIntroduction": "A razão entre a largura da nova porta e a largura da porta\nanterior é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "1/8",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2014/questions/139/186157ea-bf87-434f-963d-269a8228eab4.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "7/8",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2014/questions/139/1179c02f-73fe-4e24-8601-ff95fcacd5d9.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "8/7",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2014/questions/139/444de8fb-0818-4f5e-8d3b-c2e2f4ef430d.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "8/9",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2014/questions/139/b78d3dec-000e-48ac-8c35-7d305488c193.png",
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "9/8",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2014/questions/139/89bfbfcb-b006-4c7a-9f53-1439a121bb33.png",
             "isCorrect": false
         }
     ]

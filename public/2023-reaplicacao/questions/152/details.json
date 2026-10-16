@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "16 minutos e 40 segundos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "2 horas, 46 minutos e 40 segundos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "1 dia, 3 horas, 46 minutos e 40 segundos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "11 dias, 13 horas, 46 minutos e 40 segundos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "3 meses, 25 dias, 17 horas, 46 minutos e 40 segundos.",
             "file": null,
             "isCorrect": false
         }

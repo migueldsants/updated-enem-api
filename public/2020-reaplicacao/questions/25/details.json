@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "“‘Nunca conheci quem tivesse levado porrada. Todos os meus conhecidos têm sido campeões em tudo’.”",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "“O heterônimo parece estar falando da minha timeline: ‘Arre, estou farto de semideuses! Onde é que há gente no mundo?’”.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "“Humblebrag é uma palavra que faz falta em português. Composta pela junção das palavras humble (humilde) e brag (gabar-se), seria algo como a gabação modesta.”",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "“‘O Festival de Gramado está muito decadente. Para vocês terem uma ideia, me deram um prêmio de melhor ator’.”",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "“Tudo o que eu mais quero é que vocês me achem o máximo. ‘Então sou só eu que sou vil e errôneo nessa terra?’. Não, Álvaro. Me adiciona.”",
             "file": null,
             "isCorrect": false
         }

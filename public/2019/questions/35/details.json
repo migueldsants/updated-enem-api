@@ -4,38 +4,40 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019/questions/35/8a2fd291-da50-40a6-824c-fbb766f824d8.png)\n\nNo Brasil, a disseminação de uma expectativa de\ncorpo com base na estética da magreza é bastante grande\ne apresenta uma enorme repercussão, especialmente,\nse considerada do ponto de vista da realização pessoal.\nEm pesquisa feita na cidade de São Paulo, aparecem os\npercentuais de 90% entre as mulheres pesquisadas que\nse dizem preocupadas com seu peso corporal, sendo\nque 95% se sentem insatisfeitas com “seu próprio corpo”.\n\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da gestação\nde um novo arquétipo da felicidade. Campinas: Autores Associados;\nFlorianópolis: UFSC, 2001.",
+    "files": [
+        "https://enem.dev/2019/questions/35/8a2fd291-da50-40a6-824c-fbb766f824d8.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "No Brasil, a disseminação de uma expectativa de corpo com base na estética da magreza é bastante grande e apresenta uma enorme repercussão, especialmente, se considerada do ponto de vista da realização pessoal. Em pesquisa feita na cidade de São Paulo, aparecem os percentuais de 90% entre as mulheres pesquisadas que se dizem preocupadas com seu peso corporal, sendo que 95% se sentem insatisfeitas com “seu próprio corpo”.\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da\ngestação de um novo arquétipo da felicidade. Campinas: Autores\nAssociados; Florianópolis: UFSC, 2001\n\n\n\nA preocupação excessiva com o “peso” corporal pode provocar o desenvolvimento de distúrbios associados diretamente à imagem do corpo, tais como",
+    "alternativesIntroduction": "A preocupação excessiva com o “peso” corporal pode\nprovocar o desenvolvimento de distúrbios associados\ndiretamente à imagem do corpo, tais como",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Anorexia e bulimia.",
+            "text": "anorexia e bulimia.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "Ortorexia e vigorexia.",
+            "text": "ortorexia e vigorexia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Ansiedade e depressão.",
+            "text": "ansiedade e depressão.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Sobrepeso e fobia social.",
+            "text": "sobrepeso e fobia social.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Sedentarismo e obesidade.",
+            "text": "sedentarismo e obesidade.",
             "file": null,
             "isCorrect": false
         }

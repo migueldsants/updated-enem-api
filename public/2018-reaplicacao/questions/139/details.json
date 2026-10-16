@@ -4,39 +4,45 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "Na música, usam-se sinais gráficos chamados figuras\nde duração para indicar por quanto tempo se deve emitir\ndeterminado som.\n\nAs figuras de duração usadas atualmente são:\nsemibreve, mínima, semínima, colcheia, semicolcheia,\nfusa e semifusa.\n\nEssas figuras não possuem um valor (tempo) fixo. Elas\nsão proporcionais entre si. A duração de tempo de uma\nsemibreve é equivalente à de duas mínimas, a duração\nde uma mínima é equivalente à de duas semínimas, a\nduração de uma semínima equivale à de duas colcheias\ne assim por diante, seguindo a ordem dada.\n\nConsidere que a semibreve tem a duração de tempo\nde uma unidade.\n\nSemibreve\nMínima\nSemínima\nColcheia Semicolcheia\nFusa\nSemifusa\n\nDisponível em: www.portaledumusicalcp2.mus.br. Acesso em: 11 nov. 2013 (adaptado).",
-    "files": [],
+    "context": "Na música, usam-se sinais gráficos chamados figuras\nde duração para indicar por quanto tempo se deve emitir\ndeterminado som.\n\nAs figuras de duração usadas atualmente são:\nsemibreve, mínima, semínima, colcheia, semicolcheia,\nfusa e semifusa.\n\nEssas figuras não possuem um valor (tempo) fixo. Elas\nsão proporcionais entre si. A duração de tempo de uma\nsemibreve é equivalente à de duas mínimas, a duração\nde uma mínima é equivalente à de duas semínimas, a\nduração de uma semínima equivale à de duas colcheias\ne assim por diante, seguindo a ordem dada.\n\nConsidere que a semibreve tem a duração de tempo\nde uma unidade.\n\n![](https://enem.dev/2018-reaplicacao/questions/139/fb66bb13-3c11-4129-8787-009ab4cc3ff0.png)\n\nDisponível em: www.portaledumusicalcp2.mus.br. Acesso em: 11 nov. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/139/fb66bb13-3c11-4129-8787-009ab4cc3ff0.png",
+        "https://enem.dev/2018-reaplicacao/questions/139/36e9ae8e-bcaa-44f8-9e98-2bcaf7135c93.png",
+        "https://enem.dev/2018-reaplicacao/questions/139/1d3fe75d-7114-4f1b-b0a6-8075feacb1b1.png",
+        "https://enem.dev/2018-reaplicacao/questions/139/3d69f0c9-e1c4-424a-ab17-21e67dca9dfb.png",
+        "https://enem.dev/2018-reaplicacao/questions/139/bb4a3afe-57fd-4e82-b7fa-eb757b12ab98.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A sequência que indica a duração de tempo de uma mínima, de uma semínima, de uma colcheia, de uma semicolcheia, de uma fusa e de uma semifusa é",
+    "alternativesIntroduction": "A sequência que indica a duração de tempo de uma\nmínima, de uma semínima, de uma colcheia, de uma\nsemicolcheia, de uma fusa e de uma semifusa é",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "2 4 8 16 32 64, , , , ,",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/139/36e9ae8e-bcaa-44f8-9e98-2bcaf7135c93.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/139/1d3fe75d-7114-4f1b-b0a6-8075feacb1b1.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/139/3d69f0c9-e1c4-424a-ab17-21e67dca9dfb.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2018-reaplicacao/questions/139/bb4a3afe-57fd-4e82-b7fa-eb757b12ab98.png",
             "isCorrect": true
         }
     ]

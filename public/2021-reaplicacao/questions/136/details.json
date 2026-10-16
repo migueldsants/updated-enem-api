@@ -4,39 +4,46 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "Um inseto percorreu sobre a superfície de um objeto,\nem formato de um prisma reto ABCDEFGH, com base\nretangular, uma trajetória poligonal, com vértices nos\npontos: A\u0002/\u0002X\u0002/\u0002Y\u0002/\u0002G\u0002/\u0002F\u0002/\u0002E\u0002/\u0002X\u0002/\u0002G\u0002/\u0002E, na ordem em que\nforam apresentados.\n\nG\nF",
-    "files": [],
+    "context": "Um inseto percorreu sobre a superfície de um objeto,\nem formato de um prisma reto ABCDEFGH, com base\nretangular, uma trajetória poligonal, com vértices nos\npontos: A - X - Y - G - F - E - X - G - E, na ordem em que\nforam apresentados.\n\nE\n\n![](https://enem.dev/2021-reaplicacao/questions/136/fd0ff29f-a834-49ef-bc80-d2242c0a7939.png)\n\nB\nC\n\nA D",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/136/fd0ff29f-a834-49ef-bc80-d2242c0a7939.png",
+        "https://enem.dev/2021-reaplicacao/questions/136/8cd80152-a132-4a05-a534-7822d515f90f.png",
+        "https://enem.dev/2021-reaplicacao/questions/136/786e1996-f293-47c9-a414-4a55d268abb4.png",
+        "https://enem.dev/2021-reaplicacao/questions/136/bdde020a-8906-4c36-bbd5-5495638943b5.png",
+        "https://enem.dev/2021-reaplicacao/questions/136/1e21c999-debb-4a04-9ce5-7648bb36635c.png",
+        "https://enem.dev/2021-reaplicacao/questions/136/1a2fa672-af4d-45cd-93b7-2568fd8bb265.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "H E",
+    "alternativesIntroduction": "É necessário representar a projeção ortogonal do\ntrajeto percorrido pelo inseto sobre o plano determinado\npela base do prisma.",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2021-reaplicacao/questions/136/8cd80152-a132-4a05-a534-7822d515f90f.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2021-reaplicacao/questions/136/786e1996-f293-47c9-a414-4a55d268abb4.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "A D µ\u0002 \u0005 ?\u0007\u000e\u0004\u0002 \u0007 %\u0007 \u0005\r\b\u0007\u0002 \b\u0002 %\u0007\u0004\" '\u001d\u0004\u0002 \u0004\u0007\r\u0004J\u0004\u0005\b2\u0002 \u000f\u0004\u0002 trajeto percorrido pelo inseto sobre o plano determinado pela base do prisma. \u0012\u0002 \u0007 %\u0007 \u0005\r\b'\u001d\u0004\u0002 \u000f\b\u0002 %\u0007\u0004\" '\u001d\u0004\u0002 \u0004\u0007\r\u0004J\u0004\u0005\b2\u0002 \u000f\u0004\u0002 \r\u0007\b\" \u0004\u0002 percorrido pelo inseto é B C",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2021-reaplicacao/questions/136/bdde020a-8906-4c36-bbd5-5495638943b5.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "B C",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2021-reaplicacao/questions/136/1e21c999-debb-4a04-9ce5-7648bb36635c.png",
             "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2021-reaplicacao/questions/136/1a2fa672-af4d-45cd-93b7-2568fd8bb265.png",
             "isCorrect": false
         }
     ]

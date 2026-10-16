@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "fazer referência a ações governamentais, em andamento, de combate ao desperdício de alimentos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "quantificar o desperdício ocorrido no campo como superior a um terço da produção mundial de alimentos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "utilizar a expressão figurada “perde-se no caminho” como referência ao desperdício de alimentos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "apontar uma vantagem financeira para o consumidor engajar-se em práticas de combate ao desperdício de alimentos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "recomendar medidas de distribuição mais eficazes com vistas à diminuição do desperdício de alimentos.",
             "file": null,
             "isCorrect": false
         }

@@ -4,10 +4,14 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Uma das formas de se obter energia elétrica é usar\numa lente convergente circular para concentrar os raios\nde sol em um único ponto, aquecendo um dispositivo\nlocalizado nesse ponto a uma temperatura elevada. Com\na transformação da energia luminosa em energia térmica,\npode ser criado vapor-d’água que moverá uma turbina e\ngerará energia elétrica. Para projetar um sistema de\ngeração de energia elétrica, a fim de alimentar um\nchuveiro elétrico de 2 000 W de potência, sabe-se que,\n\nneste local, a energia recebida do Sol é 1 000 W\n\nm2 .\n\nEsse sistema apresenta taxa de eficiência de\nconversão em energia elétrica de 50% da energia\nsolar incidente. Considere \u001f = 1,8.",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/100/bdc8ae7a-f373-4aa7-aed5-ba022e7eda51.png)\n\nUma das formas de se obter energia elétrica é usar\numa lente convergente circular para concentrar os raios\nde sol em um único ponto, aquecendo um dispositivo\nlocalizado nesse ponto a uma temperatura elevada. Com\na transformação da energia luminosa em energia térmica,\npode ser criado vapor-d’água que moverá uma turbina e\ngerará energia elétrica. Para projetar um sistema de\ngeração de energia elétrica, a fim de alimentar um\nchuveiro elétrico de 2 000 W de potência, sabe-se que,\n\n![](https://enem.dev/2019-reaplicacao/questions/100/e7b8e024-501d-426e-bcc3-b7d9bd649627.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/100/d9db1b46-6b0b-48e3-880e-28f4b43968d1.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/100/bdc8ae7a-f373-4aa7-aed5-ba022e7eda51.png",
+        "https://enem.dev/2019-reaplicacao/questions/100/e7b8e024-501d-426e-bcc3-b7d9bd649627.png",
+        "https://enem.dev/2019-reaplicacao/questions/100/d9db1b46-6b0b-48e3-880e-28f4b43968d1.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Qual deve ser, em metro, o raio da lente para que esse sistema satisfaça aos requisitos do projeto?",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",

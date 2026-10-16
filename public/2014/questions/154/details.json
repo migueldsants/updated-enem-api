@@ -4,7 +4,7 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Boliche é um jogo em que se arremessa uma bola\nsobre uma pista para atingir dez pinos, dispostos em uma\nformação de base triangular, buscando derrubar o maior\nnúmero de pinos. A razão entre o total de vezes em que\no jogador derruba todos os pinos e o número de jogadas\ndetermina seu desempenho.\n\nEm uma disputa entre cinco jogadores, foram\nobtidos os seguintes resultados:\n\nJogador I – Derrubou todos os pinos 50 vezes em\n85 jogadas.\n\nJogador II – Derrubou todos os pinos 40 vezes em\n65 jogadas.\n\nJogador III – Derrubou todos os pinos 20 vezes em\n65 jogadas.\n\nJogador IV – Derrubou todos os pinos 30 vezes em\n40 jogadas.\n\nJogador V – Derrubou todos os pinos 48 vezes em\n90 jogadas.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "Qual desses jogadores apresentou maior desempenho?",

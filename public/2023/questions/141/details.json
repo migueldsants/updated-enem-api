@@ -4,39 +4,45 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "No alojamento de uma universidade, há alguns quartos\nficou disponível, e muitos estudantes se candidataram para\num sorteio será realizado. Para esse sorteio, cartões individuais\ndepositados em uma urna, sendo que, para cada estudante\nseu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano,\ntrês cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro\nano. Todos os cartões têm a mesma probabilidade de serem sorteados.\nQual a probabilidade de o vencedor do sorteio ser um estudante",
+    "files": [
+        "https://enem.dev/2023/questions/141/fbf0765b-eb9d-48b3-97e5-129dbfd8bd59.png",
+        "https://enem.dev/2023/questions/141/f1117f48-c1e5-44ab-a8f9-ac21ac09e0a7.png",
+        "https://enem.dev/2023/questions/141/db7eb504-bcac-4065-9f13-40adf5f315b3.png",
+        "https://enem.dev/2023/questions/141/88c72814-6eba-4d35-87a1-e401ba3f726b.png",
+        "https://enem.dev/2023/questions/141/a720b71f-2fa8-4f5f-b74b-d6d7560130e4.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Qual a probabilidade de o vencedor do sorteio ser um estudante do terceiro ano?",
+    "alternativesIntroduction": "N",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2023/questions/141/e698edb1-adc0-416b-9370-c20a7e878259.jpg",
+            "file": "https://enem.dev/2023/questions/141/fbf0765b-eb9d-48b3-97e5-129dbfd8bd59.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2023/questions/141/b5f5bdf5-2251-4326-9877-ce9c2d831600.jpg",
+            "file": "https://enem.dev/2023/questions/141/f1117f48-c1e5-44ab-a8f9-ac21ac09e0a7.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2023/questions/141/d241fadb-6516-4ca8-aa9b-e72fff314881.jpg",
+            "file": "https://enem.dev/2023/questions/141/db7eb504-bcac-4065-9f13-40adf5f315b3.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2023/questions/141/1dcce683-4ef7-4862-b554-3e3c66de54c3.jpg",
+            "file": "https://enem.dev/2023/questions/141/88c72814-6eba-4d35-87a1-e401ba3f726b.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2023/questions/141/7b4de18d-92ca-488f-8419-ec95d852a135.jpg",
+            "file": "https://enem.dev/2023/questions/141/a720b71f-2fa8-4f5f-b74b-d6d7560130e4.png",
             "isCorrect": true
         }
     ]

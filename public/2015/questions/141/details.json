@@ -4,10 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Uma fábrica de sorvetes utiliza embalagens\nplásticas no formato de paralelepípedo retangular reto.\nInternamente, a embalagem tem 10 cm de altura e\nbase de 20 cm por 10 cm. No processo de confecção\ndo sorvete, uma mistura é colocada na embalagem\nno estado líquido e, quando levada ao congelador,\ntem seu volume aumentado em 25%, ficando com\nconsistência cremosa.\n\nInicialmente é colocada na embalagem uma mistura\nsabor chocolate com volume de 1 000 cm³ e, após essa\nmistura ficar cremosa, será adicionada uma mistura\nsabor morango, de modo que, ao final do processo de\ncongelamento, a embalagem fique completamente\npreenchida com sorvete, sem transbordar.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "O volume máximo, em cm³, da mistura sabor morango que deverá ser colocado na embalagem é",
+    "alternativesIntroduction": "O volume máximo, em cm³, da mistura sabor morango\nque deverá ser colocado na embalagem é",
     "alternatives": [
         {
             "letter": "A",

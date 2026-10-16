@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
-    "context": "A Associação Internacional das Federações de\nAtletismo (IAAF) aprovou o aumento da suspensão de\ndois para quatro anos em casos de atletas flagrados por\ndoping. Em sincronia com o próximo Código Mundial\nAntidoping, da Agência Mundial de Doping (WADA), a\nnova punição entrará em vigor no dia 1º de janeiro de\n2015. Até lá, a penalidade continua sendo de dois anos.\n\nDisponível em: http://globoesporte.com. Acesso em: 15 ago. 2013.\nCom base na decisão da Associação Internacional\ndas Federações de Atletismo, considera-se que as\npenalidades previstas para esse esporte indicam um(a)",
+    "context": "A Associação Internacional das Federações de\nAtletismo (IAAF) aprovou o aumento da suspensão de\ndois para quatro anos em casos de atletas flagrados por\ndoping. Em sincronia com o próximo Código Mundial\nAntidoping, da Agência Mundial de Doping (WADA), a\nnova punição entrará em vigor no dia 1º de janeiro de\n2015. Até lá, a penalidade continua sendo de dois anos.\n\nDisponível em: http://globoesporte.com. Acesso em: 15 ago. 2013.",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Com base na decisão da Associação Internacional\ndas Federações de Atletismo, considera-se que as\npenalidades previstas para esse esporte indicam um(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "incentivo a novas formas de doping por parte dos atletas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "descaso com a performance esportiva das várias modalidades do atletismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "uso favorável dos produtos da indústria farmacêutica nos torneios oficiais de atletismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "procedimento prejudicial para a credibilidade da modalidade e do fair play nos esportes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "aumento na utilização do doping para a melhora na performance dos atletas.",
             "file": null,
             "isCorrect": true
         }

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2023",
+    "index": 174,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa comprou um ingresso para o cinema em\nbidimensional do posicionamento das poltronas, conforme\na subir uma das escadas e parou na posição indicada pela\ne observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na\ndireção norte por mais quatro fileiras e olhar à sua direita,\n\n![](https://enem.dev/2023/questions/174/9321ca2c-2622-4bf2-b01a-06dc85497e50.png)\n\nE\nD\n\nC\n\nB\nA\n\nNesse cinema, as poltronas são identificadas por uma\nposição da poltrona na fileira, respectivamente.",
+    "files": [
+        "https://enem.dev/2023/questions/174/9321ca2c-2622-4bf2-b01a-06dc85497e50.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A poltrona dessa pessoa é a identificada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "H1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "H6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I6.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -4,32 +4,37 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Na anestesia peridural, como a usada nos partos,\no médico anestesista precisa introduzir uma agulha nas\ncostas do paciente, que atravessará várias camadas de\ntecido até chegar a uma região estreita, chamada espaço\nepidural, que envolve a medula espinhal. A agulha é\nusada para injetar um líquido anestésico, e a força que\ndeve ser aplicada à agulha para fazê-la avançar através\ndos tecidos é variável.\n\nA figura é um gráfico do módulo F da força (em newton)\nem função do deslocamento x da ponta da agulha\n(em milímetro) durante uma anestesia peridural típica.",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/142/efd0307e-dc00-4f04-89f6-f897b4dc2f6e.png)\n\nNa anestesia peridural, como a usada nos partos,\no médico anestesista precisa introduzir uma agulha nas\ncostas do paciente, que atravessará várias camadas de\ntecido até chegar a uma região estreita, chamada espaço\nepidural, que envolve a medula espinhal. A agulha é\nusada para injetar um líquido anestésico, e a força que\ndeve ser aplicada à agulha para fazê-la avançar através\ndos tecidos é variável.\n\nA figura é um gráfico do móduloF da força (em newton)\nem função do deslocamento x da ponta da agulha\n(em milímetro) durante uma anestesia peridural típica.\n\nConsidere que a velocidade de penetração da agulha\ndeva ser a mesma durante a aplicação da anestesia e\nque a força aplicada à agulha pelo médico anestesista\nem cada ponto deve ser proporcional à resistência\nnaquele ponto.\n\n![](https://enem.dev/2019-reaplicacao/questions/142/f1e5e956-433a-4f5d-aaee-b38c7ba6ea3b.png)\n\nD\n\n![](https://enem.dev/2019-reaplicacao/questions/142/895aeefb-a09e-456d-8665-b1957099da58.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/142/d0af1329-1146-4fb8-92d8-289c84af10e7.png)\n\nF\nC\n\nA\nM NM OM PM\nx EããF\n\nHALLIDAY, D.; RESNICK, R. Fundamentos de física.\nRio de Janeiro: LTC, 2008.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/142/efd0307e-dc00-4f04-89f6-f897b4dc2f6e.png",
+        "https://enem.dev/2019-reaplicacao/questions/142/f1e5e956-433a-4f5d-aaee-b38c7ba6ea3b.png",
+        "https://enem.dev/2019-reaplicacao/questions/142/895aeefb-a09e-456d-8665-b1957099da58.png",
+        "https://enem.dev/2019-reaplicacao/questions/142/d0af1329-1146-4fb8-92d8-289c84af10e7.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Considere que a velocidade de penetração da agulha deva ser a mesma durante a aplicação da anestesia e que a força aplicada à agulha pelo médico anestesista em cada ponto deve ser proporcional à resistência naquele ponto.",
+    "alternativesIntroduction": "Com base nas informações apresentadas, a maior\nresistência à força aplicada observa-se ao longo\ndo segmento",
     "alternatives": [
         {
             "letter": "A",
-            "text": "0 10 20 30 x (mm) HALLIDAY, D.; RESNICK, R. Fundamentos de física. Rio de Janeiro: LTC, 2008. Com base nas informações apresentadas, a maior resistência à força aplicada observa-se ao longo do segmento",
+            "text": "AB.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "FG.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "Ef.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "E F F (N)",
+            "text": "GH.",
             "file": null,
             "isCorrect": true
         },

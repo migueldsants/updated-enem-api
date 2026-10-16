@@ -4,32 +4,34 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "No circuito elétrico, estão associadas quatro\nlâmpadas elétricas idênticas A, B, C e D. Considere a\nfonte de tensão (V) ideal.",
-    "files": [],
+    "context": "No circuito elétrico, estão associadas quatro\nlâmpadas elétricas idênticas A, B, C e D. Considere a\nfonte de tensão (V) ideal.\n\n![](https://enem.dev/2022-reaplicacao/questions/118/96474c2b-2415-4682-851c-796ea754e9d1.png)",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/118/96474c2b-2415-4682-851c-796ea754e9d1.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A B",
+    "alternativesIntroduction": "Comparando-se o brilho das lâmpadas, se a lâmpada A\nqueimar, de modo que não possa conduzir corrente elétrica,\nobserva-se que",
     "alternatives": [
         {
             "letter": "A",
-            "text": "as lâmpadas B e D apagam-se, e C permanece acesa com o mesmo brilho. B",
+            "text": "as lâmpadas B e D apagam-se, e C permanece acesa com o mesmo brilho.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "a lâmpada B apaga-se, a C permanece acesa com mesmo brilho e D permanece apagada. C",
+            "text": "a lâmpada B apaga-se, a C permanece acesa com mesmo brilho e D permanece apagada.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "a lâmpada B apaga-se, a C permanece acesa com maior brilho e D permanece acesa com o mesmo brilho.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "+ − Comparando-se o brilho das lâmpadas, se a lâmpada A queimar, de modo que não possa conduzir corrente elétrica, observa-se que A",
+            "text": "a lâmpada B apaga-se, a C permanece acesa com o mesmo brilho e D permanece acesa com maior brilho.",
             "file": null,
             "isCorrect": false
         },

@@ -4,39 +4,45 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "O tênis é um esporte em que a estratégia de jogo a ser\nadotada depende, entre outros fatores, de o adversário\nser canhoto ou destro.\n\nUm clube tem um grupo de 10 tenistas, sendo\nque 4 são canhotos e 6 são destros. O técnico do clube\ndeseja realizar uma partida de exibição entre dois desses\njogadores, porém, não poderão ser ambos canhotos.\nQual o número de possibilidades de escolha dos tenistas\npara a partida de exibição?",
+    "files": [
+        "https://enem.dev/2016/questions/147/e8ea6676-7ad6-4e85-bd6b-125fbfb366b2.png",
+        "https://enem.dev/2016/questions/147/d1599b40-46d2-4a44-bf78-64e09134e451.png",
+        "https://enem.dev/2016/questions/147/da2d5715-948f-487e-9f2e-97f3306d74f5.png",
+        "https://enem.dev/2016/questions/147/f562cc66-43ed-47cd-a936-7e8b1611b5d1.png",
+        "https://enem.dev/2016/questions/147/71753fdd-9fb0-4476-8e59-5bfc9ab34306.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Qual o número de possibilidades de escolha dos tenistas para a partida de exibição?",
+    "alternativesIntroduction": "10! 4!",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2016/questions/147/b312c7db-dd7d-4633-af66-83c020de8340.png",
+            "file": "https://enem.dev/2016/questions/147/e8ea6676-7ad6-4e85-bd6b-125fbfb366b2.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2016/questions/147/6eea6a39-3b2d-4b06-8f22-3fb8b3354049.png",
+            "file": "https://enem.dev/2016/questions/147/d1599b40-46d2-4a44-bf78-64e09134e451.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2016/questions/147/e5274b9d-58c1-47d8-80c4-9ba8ea7db58f.png",
+            "file": "https://enem.dev/2016/questions/147/da2d5715-948f-487e-9f2e-97f3306d74f5.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2016/questions/147/9ed4324a-682b-4a89-b93b-ce8035218bc6.png",
+            "file": "https://enem.dev/2016/questions/147/f562cc66-43ed-47cd-a936-7e8b1611b5d1.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2016/questions/147/3f06a01b-fdec-4bb2-affb-45cf27b74bfd.png",
+            "file": "https://enem.dev/2016/questions/147/71753fdd-9fb0-4476-8e59-5bfc9ab34306.png",
             "isCorrect": false
         }
     ]

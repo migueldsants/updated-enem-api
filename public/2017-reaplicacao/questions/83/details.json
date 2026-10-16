@@ -4,38 +4,38 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "$UW\u0011\u0003 \u0014\u0003 ±\u0003 2\u0003 HVWUDQJHLUR\u0003 TXH\u000f\u0003 SRU\u0003 TXDOTXHU\u0003 PRWLYR\u000f\u0003\ncomprometer a segurança nacional ou a tranquilidade\npública, pode ser expulso de parte ou de todo o território\nnacional.\n\n$UW\u0011\u0003 \u0015\u0003 ±\u0003 6mR\u0003 WDPEpP\u0003 FDXVDV\u0003 EDVWDQWHV\u0003 SDUD\u0003 D\u0003\nexpulsão:\n1ª) a condenação ou processo pelos tribunais\nestrangeiros por crimes ou delitos de natureza comum;\n\n2ª) duas condenações, pelo menos, pelos tribunais\nbrasileiros, por crimes ou delitos de natureza comum;\n\n3ª) a vagabundagem, a mendicidade e o lenocínio\nFRPSHWHQWHPHQWH\u0003YHUL¿FDGRV\u0011\n\nBRASIL. Lei 1.641, de 7 de janeiro de 1907. Disponível em: www2.camara.leg.br.\n\nAcesso em: 29 ago. 2012 (adaptado).",
+    "context": "Art. 1º – O estrangeiro que, por qualquer motivo,\ncomprometer a segurança nacional ou a tranquilidade\npública, pode ser expulso de parte ou de todo o território\nnacional.\n\nArt. 2º – São também causas bastantes para a\nexpulsão:\n1ª) a condenação ou processo pelos tribunais\nestrangeiros por crimes ou delitos de natureza comum;\n2ª) duas condenações, pelo menos, pelos tribunais\nbrasileiros, por crimes ou delitos de natureza comum;\n3ª) a vagabundagem, a mendicidade e o lenocínio\ncompetentemente verificados.\n\nBRASIL. Lei 1.641, de 7 de janeiro de 1907. Disponível em: www2.camara.leg.br.\nAcesso em: 29 ago. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "No início do século XX, na transição do trabalho escravo para o livre, os objetivos da legislação citada eram",
+    "alternativesIntroduction": "No início do século XX, na transição do trabalho escravo\npara o livre, os objetivos da legislação citada eram",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "disciplinar o trabalhador e evitar sua participação em movimentos políticos contrários ao governo.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "estabelecer as condições para a vinda dos imigrantes e definir as regiões que seriam ocupadas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "demonstrar preocupação com as condições de trabalho e favorecer a organização sindical.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "criar condições políticas para a imigração e isolar os imigrantes socialmente indesejáveis.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "estimular o trabalho urbano e disciplinar as famílias estrangeiras nas fábricas.",
             "file": null,
             "isCorrect": false
         }

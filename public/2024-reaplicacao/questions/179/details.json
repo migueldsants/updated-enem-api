@@ -6,7 +6,12 @@
     "discipline": "matematica",
     "context": "Um tanque de armazenamento de líquidos tem o\nformato de uma pirâmide reta de base quadrada, cujo\nplano que contém essa base é paralelo a um solo plano\ne horizontal. Esse tanque tem capacidade de 240 litros e\naltura de 2 metros. Inicialmente vazio, nele é despejado\num líquido à vazão constante de 0,015 m3/s.\n\nSabe-se que 1 L = 1 dm3 = 0,001 m3.\n\n![](https://enem.dev/2024-reaplicacao/questions/179/5c88b08b-016d-4a39-86f5-9de1ea6d4bfa.png)",
     "files": [
-        "https://enem.dev/2024-reaplicacao/questions/179/5c88b08b-016d-4a39-86f5-9de1ea6d4bfa.png"
+        "https://enem.dev/2024-reaplicacao/questions/179/5c88b08b-016d-4a39-86f5-9de1ea6d4bfa.png",
+        "https://enem.dev/2024-reaplicacao/questions/179/bcaa3685-24d2-4932-b88b-a582b68556b2.png",
+        "https://enem.dev/2024-reaplicacao/questions/179/aa617781-59e3-4ed7-97c3-9b9ed6ab3a52.png",
+        "https://enem.dev/2024-reaplicacao/questions/179/a846822b-2084-4996-bfe7-4efc84ef92c8.png",
+        "https://enem.dev/2024-reaplicacao/questions/179/86d8b6bb-836d-4900-9eb1-985bc05a827e.png",
+        "https://enem.dev/2024-reaplicacao/questions/179/83790df3-e8a2-4cba-b9a5-e1bceed72787.png"
     ],
     "correctAlternative": "A",
     "alternativesIntroduction": "Qual expressão fornece a altura, em metro, da coluna de líquido dentro desse tanque em função do tempo t, em segundo?",
@@ -14,31 +19,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/179/bcaa3685-24d2-4932-b88b-a582b68556b2.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/179/aa617781-59e3-4ed7-97c3-9b9ed6ab3a52.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/179/a846822b-2084-4996-bfe7-4efc84ef92c8.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/179/86d8b6bb-836d-4900-9eb1-985bc05a827e.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/179/83790df3-e8a2-4cba-b9a5-e1bceed72787.png",
             "isCorrect": false
         }
     ]

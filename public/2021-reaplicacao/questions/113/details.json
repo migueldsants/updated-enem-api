@@ -7,35 +7,35 @@
     "context": null,
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "No manual de instruções de um conjunto de\n30 lâmpadas idênticas, usadas para enfeite, está\nespecificado que o conjunto deve ser ligado em uma\nrede elétrica de 120 V resultando em uma corrente\ntotal de 4,5 A. No entanto, o manual não informa a\npotência nominal de cada lâmpada para a aquisição de\nlâmpadas individuais de reposição em caso de queima.\nDepois de ligar o conjunto, percebe-se que, ao retirar\nqualquer lâmpada, um terço das demais não acende.\nQual a potência nominal de cada lâmpada?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "4 W",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "18 W",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "55 W",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "180 W",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "540 W",
             "file": null,
             "isCorrect": false
         }

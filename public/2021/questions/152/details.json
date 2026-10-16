@@ -11,7 +11,7 @@
         "https://enem.dev/2021/questions/152/b78eb0e6-f154-443d-a6f5-1ffeb2ff1252.png",
         "https://enem.dev/2021/questions/152/54a56c94-9682-42f3-98b2-fc5a0fef2dba.png"
     ],
-    "correctAlternative": "D",
+    "correctAlternative": "E",
     "alternativesIntroduction": "Dessa forma, o valor recebido pelo navio receptor será",
     "alternatives": [
         {
@@ -36,13 +36,13 @@
             "letter": "D",
             "text": null,
             "file": "https://enem.dev/2021/questions/152/fc88fa35-1166-4a50-8b3e-98825f086b76.png",
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
             "file": "https://enem.dev/2021/questions/152/51026f4e-2d93-4516-b1e1-65e937a6e88a.png",
-            "isCorrect": false
+            "isCorrect": true
         }
     ]
 }

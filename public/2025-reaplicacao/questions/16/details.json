@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "apresentar personagem com atitudes ingênuas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "descrever cenários de forma detalhada e crítica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "recorrer a um narrador-observador externo ao relato.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "expor comportamentos de uma classe social frustrada.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "metaforizar os sentimentos idealistas sobre o casamento.",
             "file": null,
             "isCorrect": false
         }

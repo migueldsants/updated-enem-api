@@ -7,35 +7,35 @@
     "context": null,
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Em uma palestra, o apresentador falou sobre uma importante doença negligenciada no Brasil, citando algumas medidas ou ações que podem ser adotadas %\b\u0007\b\u0002 \u0004\u0002 \u0002 \u0004\u0005 \u0007\u00042 $\u0002 \b\u000e \u0002 \u0004\u0010\u0004I\u0002 \b\u0002 \b\u0005? \u000e\b\u0002 \u000f \u0002 \u0002 \u0004\u0007\u0004%\u0004 \u000e \u000e#\u0004 $\u0002 \b\u0002 !\u0004\u0007\u0007\u000eP\b' \u0004\u0002 \u0004\u0010\u0002 \u000e\u0005 \u000e \u000e\u000f\b$\u0002 \b\u0002 \u0007 \u0010\u0004' \u0004\u0002 de matéria orgânica e a poda de árvores no quintal das residências. No texto, a qual doença o apresentador se referia?",
+    "alternativesIntroduction": "Em uma palestra, o apresentador falou sobre uma\nimportante doença negligenciada no Brasil, citando\nalgumas medidas ou ações que podem ser adotadas\npara o seu controle, tais como: a eutanásia de cães\nsoropositivos, a borrifação com inseticida, a remoção\nde matéria orgânica e a poda de árvores no quintal das\nresidências.\nNo texto, a qual doença o apresentador se referia?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "Raiva.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "Malária.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "Dengue.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "Toxoplasmose.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "Leishmaniose visceral.",
             "file": null,
             "isCorrect": true
         }

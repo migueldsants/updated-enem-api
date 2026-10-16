@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Os impactos ambientais das usinas hidrelétricas\nsão\nmotivo\nde\npolêmica\nnas\ndiscussões\nsobre\ndesenvolvimento\nsustentável.\nEmbora\nusualmente\nrelacionadas ao conceito de “energia limpa” ou associadas\nà ideia de “sustentabilidade”, essas usinas podem causar\nvários problemas ambientais. Destaca-se a proliferação\nde determinadas espécies aquáticas em relação a outras,\nocasionando a perda de diversidade das comunidades de\npeixes (ictiofauna) do local.\n\nDisponível em: http://ciencia.hsw.com.br. Acesso em: 25 mar. 2013 (adaptado).\nEm um primeiro momento, as mudanças na composição\ndessas comunidades devem-se",
+    "context": "Os impactos ambientais das usinas hidrelétricas\nsão motivo de polêmica nas discussões sobre\ndesenvolvimento sustentável. Embora usualmente\nrelacionadas ao conceito de “energia limpa” ou associadas\nà ideia de “sustentabilidade”, essas usinas podem causar\nvários problemas ambientais. Destaca-se a proliferação\nde determinadas espécies aquáticas em relação a outras,\nocasionando a perda de diversidade das comunidades de\npeixes (ictiofauna) do local.\n\nDisponível em: http://ciencia.hsw.com.br. Acesso em: 25 mar. 2013 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Em um primeiro momento, as mudanças na composição\ndessas comunidades devem-se",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "às alterações nos hábitats causadas pela construção das barragens.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "à poluição das águas por substâncias liberadas no funcionamento da usina.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "ao aumento da concentração de CO₂ na água produzido pelo represamento do rio.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "às emissões de gases de efeito estufa pela decomposição da matéria orgânica submersa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "aos impactos nas margens da barragem em função da pressão exercida pela água represada.",
             "file": null,
             "isCorrect": false
         }

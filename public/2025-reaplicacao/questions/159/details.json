@@ -5,38 +5,44 @@
     "language": null,
     "discipline": "matematica",
     "context": "Na bolsa de Paula, há uma cédula de R$ 2,00, duas de\nR$ 5,00, duas de R$ 10,00, uma de R$ 20,00, duas de R$ 50,00\ne quatro moedas: uma de R$ 0,10, uma de R$ 0,25, uma de\nR$ 0,50 e uma de R$ 1,00.\n\nPaula deseja pagar uma despesa de R$ 10,75 e, para isso, retira\nde sua bolsa, sem olhar, uma cédula juntamente com duas moedas.",
-    "files": [],
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/159/d0696916-5afa-436b-babb-8964af1a0092.png",
+        "https://enem.dev/2025-reaplicacao/questions/159/8633d373-4c38-4061-9de0-bd209978dfa9.png",
+        "https://enem.dev/2025-reaplicacao/questions/159/776bf9cc-1155-4e36-b9f3-e8bbc41ca9b6.png",
+        "https://enem.dev/2025-reaplicacao/questions/159/c7875c96-5691-40ad-9860-465b650145d3.png",
+        "https://enem.dev/2025-reaplicacao/questions/159/4d480e18-446c-4581-853c-7ff1184393e6.png"
+    ],
     "correctAlternative": "B",
     "alternativesIntroduction": "Qual é a probabilidade de Paula retirar exatamente o valor de sua despesa?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/159/d0696916-5afa-436b-babb-8964af1a0092.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/159/8633d373-4c38-4061-9de0-bd209978dfa9.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/159/776bf9cc-1155-4e36-b9f3-e8bbc41ca9b6.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/159/c7875c96-5691-40ad-9860-465b650145d3.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/159/4d480e18-446c-4581-853c-7ff1184393e6.png",
             "isCorrect": false
         }
     ]

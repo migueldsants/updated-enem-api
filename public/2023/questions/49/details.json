@@ -4,14 +4,14 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "TEXTO I\n\nCom uma população de 25 milhões de habitantes\n(cerca de 60% de minorias muçulmanas, principalmente\nda etnia Uigur), Xinjiang é uma região estratégica para a\nChina. Faz fronteira com oito países, é uma artéria crucial\ndo megaprojeto de infraestrutura chinês Cinturão e Rota e\ntem as maiores reservas nacionais de carvão e gás natural.\n\nNINIO,M. Disponívelem: https://oglobo.globo.com. Acessoem:5out.2021 (adaptado).\n\nTEXTO II\n\nDentre as províncias da Região Oeste, Xinjiang se\ndestaca ao receber mais de 1,7 milhão de migrantes entre\n2000 e 2010. O principal motivo desse fluxo migratório\né que o governo fornece subsídios à população visando\naumentar a proporção de chineses da etnia Han em\nrelação à população local de etnias turca e muçulmana.",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "TEXTO I\nCom uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fronteira com oito países, é uma artéria crucial do megaprojeto de infraestrutura chinês Cinturão e Rota e tem as maiores reservas nacionais de carvão e gás natural.\n(NINIO, M. Disponível em: https: oglobo.globo.com. Acesso em: 5 out. 2021 adaptado)\nTEXTO II\nDentre as províncias da Região Oeste, Xinjiang se destaca ao receber mais de 1,7 milhão de migrantes entre 2000 e 2010. O principal motivo desse fluxo migratório é que o governo fornece subsídios à população visando aumentar a proporção de chineses da etnia Han em relação à população local de etnias turca e muçulmana.\nALVES. F.: TOYOSHIMA. S. Disparidade socioeconômica e fluxo migratório chinês: interpretação de eventos contemporâneos segundo os clássicos do desenvolvimento. Revista de Economia Contemporânea. n 1. jan. abr. 2017 (adaptado)\nA política demográfica para a província mencionada nos textos é parte da seguinte ação estratégica do governo chinês:",
+    "alternativesIntroduction": "ALVES,F.; TOYOSHIMA,S. Disparidade socioeconômicae fluxo migratório chinês:\ninterpretação de eventos contemporâneos segundo os clássicos do desenvolvimento.\nRevista de Economia Contemporânea,n.1, jan.-abr.2017 (adaptado).",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Promover a ocupação rural.",
+            "text": "política demográfica para a província mencionada",
             "file": null,
             "isCorrect": false
         },

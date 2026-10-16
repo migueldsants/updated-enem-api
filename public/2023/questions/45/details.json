@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
+    "context": "Carta aberta à população brasileira\n\nPrezados Cidadãos e Cidadãs,\nO envelhecimento populacional é um fenômeno\nmundial. Infelizmente, nosso país ainda não está preparado\npara atender às demandas dessa população.\n\nEste é o retrato da saúde pública no Brasil, que,\napesar dos indiscutíveis avanços, apresenta um cenário\nde deficiências e falta de integração em todos os níveis de\natenção à saúde: primária (atendimento deficiente nas\nunidades de saúde da atenção básica), secundária\n(carência de centros de referência com atendimento por\nespecialistas) e terciária (atendimento hospitalar com\nabordagem ao idoso centrada na doença), ou seja, não\nhá, na prática, uma rede de atenção à saúde do idoso.\n\nDiante desse cenário, a Sociedade Brasileira de\nGeriatria e Gerontologia (SBGG) vem a público manifestar\nsuas preocupações com o presente e o futuro dos idosos\nno Brasil. É preciso garantir a saúde como direito universal.\n\nEsperamos que tanto nossos atuais quanto os futuros\ngovernantes e legisladores reflitam sobre a necessidade\nde investir na saúde e na qualidade de vida associada ao\nenvelhecimento.\n\nDignidade à saúde do idoso!\nRio de Janeiro, 15 de setembro de 2014.\n\nDisponível em: www.sbgg.org.br. Acesso em: 20 out. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Carta aberta à população brasileira\nPrezados Cidadãos e Cidadãs, O envelhecimento populacional é um fenômeno mundial. Infelizmente, nosso país ainda não está preparado para atender às demandas dessa população.\nEste é o retrato da saúde pública no Brasil, que, apesar dos indiscutíveis avanços, apresenta um cenário de deficiências e falta de integração em todos os níveis de atenção à saúde: primária (atendimento deficiente nas unidades de saúde da atenção básica), secundária (carência de centros de referência com atendimento por especialistas) e terciária (atendimento hospitalar com abordagem ao idoso centrada na doença), ou seja, não há, na prática, uma rede de atenção à saúde do idoso.\nDiante desse cenário, a Sociedade Brasileira de Geriatria e Gerontologia (SBGG) vem a público manifestar suas preocupações com o presente e o futuro dos idosos no Brasil. É preciso garantir a saúde como direito universal.\nEsperamos que tanto nossos atuais quanto os futuros governantes e legisladores reflitam sobre a necessidade de investir na saúde e na qualidade de vida associada ao envelhecimento.\nDignidade à saúde do idoso!\nRio de Janeiro, 15 de setembro de 2014.\nDisponível em: www.sbgg.org.br. Acesso em: 20 out. 2021 (adaptado).\nO objetivo desse texto é",
+    "alternativesIntroduction": "O objetivo desse texto é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "A sensibilizar o idoso a respeito dos cuidados com a saude.",
+            "text": "sensibilizar o idoso a respeito dos cuidados com a saúde.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Alertar os governantes sobre os cuidados requeridos pelo idoso.",
+            "text": "alertar os governantes sobre os cuidados requeridos pelo idoso.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Divulgar o trabalho da Sociedade Brasileira de Geriatria e Gerontologia.",
+            "text": "divulgar o trabalho da Sociedade Brasileira de Geriatria e Gerontologia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Informar o setor público sobre o retrocesso da legislação destinada à população idosa.",
+            "text": "informar o setor público sobre o retrocesso da legislação destinada à população idosa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso.",
+            "text": "chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso.",
             "file": null,
             "isCorrect": true
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "abordar aspectos físicos e políticos do país de",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "maneira impessoal. apresentar argumentos plausíveis sobre a estrutura",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "geopolítica do Brasil. tratar aspectos físicos e políticos do país por meio de",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "abordagem cômica. trazer informações relevantes sobre os aspectos",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "físicos e políticos do Brasil. propor uma descrição sucinta sobre a organização física e política do Brasil.",
             "file": null,
             "isCorrect": false
         }

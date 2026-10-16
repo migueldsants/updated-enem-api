@@ -8,14 +8,14 @@
     "files": [
         "https://enem.dev/2021/questions/145/9fa287d2-647c-4f7e-87a9-e58f5130bed7.png"
     ],
-    "correctAlternative": "A",
+    "correctAlternative": "C",
     "alternativesIntroduction": "Os valores de x e y do quadro são, respectivamente, iguais a",
     "alternatives": [
         {
             "letter": "A",
             "text": "10 e 80.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "B",
@@ -27,7 +27,7 @@
             "letter": "C",
             "text": "20 e 60.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "D",

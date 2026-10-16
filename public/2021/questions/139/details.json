@@ -8,14 +8,14 @@
     "files": [
         "https://enem.dev/2021/questions/139/0c2cb7d1-b950-436a-8eab-6051b344e8ab.png"
     ],
-    "correctAlternative": "A",
+    "correctAlternative": "E",
     "alternativesIntroduction": "Com base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
     "alternatives": [
         {
             "letter": "A",
             "text": "I.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "B",
@@ -39,7 +39,7 @@
             "letter": "E",
             "text": "V.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         }
     ]
 }

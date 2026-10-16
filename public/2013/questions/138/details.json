@@ -4,39 +4,43 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Um banco solicitou aos seus clientes a criação de\numa senha pessoal de seis dígitos, formada somente\npor algarismos de 0 a 9, para acesso à conta corrente\npela internet.\n\nEntretanto, um especialista em sistemas de\nsegurança eletrônica recomendou à direção do banco\nrecadastrar seus usuários, solicitando, para cada um\ndeles, a criação de uma nova senha com seis dígitos,\npermitindo agora o uso das 26 letras do alfabeto, além\ndos algarismos de 0 a 9. Nesse novo sistema, cada\nletra maiúscula era considerada distinta de sua versão\nminúscula. Além disso, era proibido o uso de outros\ntipos de caracteres.\n\nUma forma de avaliar uma alteração no sistema de\nsenhas é a verificação do coeficiente de melhora, que é\na razão do novo número de possibilidades de senhas em\nrelação ao antigo.\n\nO coeficiente de melhora da alteração recomendada é",
+    "files": [
+        "https://enem.dev/2013/questions/138/0bb0889d-254c-4c97-81fb-960306e2421f.png",
+        "https://enem.dev/2013/questions/138/f7f2d373-351c-4cdf-a60c-90726868029e.png",
+        "https://enem.dev/2013/questions/138/766c8ac3-62eb-412f-97da-15ef90b5341c.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "O coeficiente de melhora da alteração recomendada é:",
+    "alternativesIntroduction": "62⁶",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2013/questions/138/5d194d75-3537-44ca-a717-a3a797eab3be.bmp",
+            "file": "https://enem.dev/2013/questions/138/0bb0889d-254c-4c97-81fb-960306e2421f.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2013/questions/138/a67a68da-6453-497a-8e78-0c33a1c20fb5.bmp",
+            "file": "https://enem.dev/2013/questions/138/f7f2d373-351c-4cdf-a60c-90726868029e.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2013/questions/138/2854e931-9b7c-441c-9652-567df9eee479.bmp",
+            "file": "https://enem.dev/2013/questions/138/766c8ac3-62eb-412f-97da-15ef90b5341c.png",
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/138/aaa5d51e-8cdf-479e-bc3e-a1d2332e4d55.bmp",
+            "text": "62! − 10!",
+            "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2013/questions/138/e3ac6ce3-9ba0-4cf0-b0d7-bdc11bca203c.bmp",
+            "text": "62⁶ − 10⁶",
+            "file": null,
             "isCorrect": false
         }
     ]

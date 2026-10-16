@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
+    "context": "O masseiro, a mulher, e quatro filhos, dormindo numa\ntapera de quatro paredes de caixão, coberta de zinco.\nA água do mangue, na maré cheia, ia dentro de casa.\nOs maruins de noite encalombavam o corpo dos meninos.\nO mangue tinha ocasião que fedia, e os urubus faziam\nponto por ali atrás dos petiscos. Perto da rua lavavam\ncouro de boi, pele de bode para o curtume de um espanhol.\nMorria peixe envenenado, e quando a maré secava, os\nurubus enchiam o papo, ciscavam a lama, passeando\nbanzeiros pelas biqueiras dos mocambos no Recife.\n\nRÊGO, J. L. O moleque Ricardo. Rio de Janeiro: J. Olympio, 1966 (adaptado).",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "O masseiro, a mulher, e quatro filhos, dormindo numa tapera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite encalombavam o corpo dos meninos. O mangue tinha ocasião que fedia, e os urubus faziam ponto por ali atrás dos petiscos. Perto da rua lavavam couro de boi, pele de bode para o curtume de um espanhol. Morria peixe envenenado e quando a maré secava os urubus enchiam o papo, ciscavam a lama, passeando banzeiros pelas biqueiras dos mocambos no Recife.\nRÊGO. J. L. O moleque Ricardo. Rio de Janeiro. J. Olympio, 1966 (adaptado).\nA aglomeração urbana representada no texto resulta em",
+    "alternativesIntroduction": "A aglomeração urbana representada no texto resulta em",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Conservação do meio rural.",
+            "text": "conservação do meio rural.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Crescimento da vegetação ciliar.",
+            "text": "crescimento da vegetação ciliar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Interferência do espaço geográfico.",
+            "text": "interferência do espaço geográfico.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "Equilíbrio do ambiente das cidades.",
+            "text": "equilíbrio do ambiente das cidades.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Controle da proliferação dos animais.",
+            "text": "controle da proliferação dos animais.",
             "file": null,
             "isCorrect": false
         }

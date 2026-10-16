@@ -4,38 +4,40 @@
     "year": 2022,
     "language": null,
     "discipline": "linguagens",
-    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\n\u001b\u001a\u0019\u0018\nRAPOSO- RJ\n\n- 1104 E\n- 8744\n\nDisponível em: www.nadaver.com. Acesso em: 20 jul. 2012.\n\nEsse cartaz tem como função social conquistar clientes\npara um evento turístico, e, por isso, seria recomendável\nque fosse escrito na norma-padrão da língua portuguesa.\nO comentário acrescentado por um interlocutor sugere\nque a grafia incorreta da palavra “excursão”",
-    "files": [],
+    "context": "![](https://enem.dev/2022-reaplicacao/questions/29/5e4d7939-f6eb-4c98-b2dc-dff4017e3242.png)",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/29/5e4d7939-f6eb-4c98-b2dc-dff4017e3242.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "Esse cartaz tem como função social conquistar clientes\npara um evento turístico, e, por isso, seria recomendável\nque fosse escrito na norma-padrão da língua portuguesa.\nO comentário acrescentado por um interlocutor sugere\nque a grafia incorreta da palavra “excursão”",
     "alternatives": [
         {
             "letter": "A",
-            "text": "interfere na pronúncia do vocábulo. B",
+            "text": "interfere na pronúncia do vocábulo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "reflete uma interferência da fala na escrita. C",
+            "text": "reflete uma interferência da fala na escrita.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "caracteriza uma violação proposital para chamar a prestadora. E",
+            "text": "caracteriza uma violação proposital para chamar a atenção dos clientes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "diminui a confiabilidade nos serviços oferecidos pela prestadora.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "compromete o entendimento do conteúdo da mensagem. 13 LC - 1° dia | Caderno 1 - AZUL - 2ª Aplicação",
+            "text": "compromete o entendimento do conteúdo da mensagem.",
             "file": null,
             "isCorrect": false
         }

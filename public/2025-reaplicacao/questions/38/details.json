@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "“Às vezes vejo-me envolvido em discussões sobre ‘escrever bem’. Já pensei no assunto e tenho uma ideia formada: ninguém ‘escreve bem’”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "“O segredo está em ler o que se acabou de escrever, enxergar os excessos e meter-lhes a caneta”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "“Certa vez, revisei um livro de autor famoso e joguei fora tantos naturalmentes e principalmentes que dariam para encher um caminhão. O livro melhorou muito”.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "“Reescrever exige colocar-se no lugar do leitor”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "“O papel aceita tudo, como sabemos. Mas muitos leitores não”.",
             "file": null,
             "isCorrect": false
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "informar sobre o surgimento de novos focos de incêndio nos estados brasileiros.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "conscientizar os leitores sobre a importância de atuar na preservação ambiental.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "denunciar os responsáveis pelos incêndios ocorridos em ecossistemas brasileiros.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "refletir sobre a urgência de enfrentamento dos problemas ambientais abordados na matéria.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "apresentar o posicionamento de um jornal sobre as ocorrências intensas de fogo no país.",
             "file": null,
             "isCorrect": false
         }

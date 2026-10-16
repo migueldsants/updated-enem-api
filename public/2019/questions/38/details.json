@@ -4,38 +4,40 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019/questions/38/39dae478-1640-4e30-8823-0dfc2b92ceaf.png)\n\n“O computador, dando prioridade à busca pela\nprópria felicidade, parou de trabalhar para os humanos”.\nÉ assim que termina o conto O dia em que um computador\nescreveu um conto, escrito por uma inteligência artificial\ncom a ajuda de cientistas humanos.\n\nOs cientistas selecionaram palavras e frases que\nseriam usadas na narrativa, e definiram um roteiro geral\nda história, que serviria como guia para a inteligência\nartificial. A partir daí, o computador criou o texto\ncombinando as frases e seguindo as diretrizes que\nos cientistas impuseram. Os juízes não sabem quais\ntextos são escritos por humanos e quais são feitos por\ncomputadores, o que mostra que o conto estava bem\nescrito. O dia só não passou para as próximas etapas\nporque, de acordo com os juízes, os personagens não\nforam muito bem descritos, embora o texto estivesse\nestruturalmente impecável.\n\nA ideia dos cientistas é continuar desenvolvendo a\ncriatividade da IA para que ela se pareça cada vez mais\ncom a humana. Simular esse tipo de resposta é difícil,\nporque o computador precisa ter, primeiro, um banco de\ndados vasto vinculado a uma programação específica\npara cada tipo de projeto — escrita, pintura, música,\ndesenho e por aí vai.\n\nD’ANGELO, H. Disponível em: https://super.abril.com.br.\nAcesso em: 5 dez. 2018.",
+    "files": [
+        "https://enem.dev/2019/questions/38/39dae478-1640-4e30-8823-0dfc2b92ceaf.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "“O computador, dando prioridade à busca pela própria felicidade, parou de trabalhar para os humanos”. E assim que termina o conto O dia em que um computador escreveu um conto, escrito por uma inteligência artificial com a ajuda de cientistas humanos.\nOs cientistas selecionaram palavras e frases que seriam usadas na narrativa, e definiram um roteiro geral da história, que serviria como guia para a inteligência artificial. A partir daí, o computador criou o texto combinando as frases e seguindo as diretrizes que os cientistas impuseram. Os juízes não sabem quais textos são escritos por humanos e quais são feitos por computadores, o que mostra que o conto estava bem escrito. O dia só não passou para as próximas etapas porque, de acordo com os juízes, os personagens não foram muito bem descritos, embora o texto estivesse estruturalmente impecável.\nA ideia dos cientistas é continuar desenvolvendo a criatividade da IA para que ela se pareça cada vez mais com a humana. Simular esse tipo de resposta é difícil, porque o computador precisa ter, primeiro, um banco de dados vasto vinculado a uma programação específica para cada tipo de projeto – escrita, pintura, música, desenho e por aí vai.\nDANGELO, H. Disponível em: https: /isuper.abril.com.br. Acesso em: 5 dez. 2018\n \nO êxito e as limitações da tecnologia utilizada na composição do conto evidencia a",
+    "alternativesIntroduction": "O êxito e as limitações da tecnologia utilizada na\ncomposição do conto evidenciam a",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Indistinção entre personagens produzidos por máquinas e seres humanos.",
+            "text": "indistinção entre personagens produzidos por máquinas e seres humanos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Necessidade de reformulação da base de dados elaborada por cientistas.",
+            "text": "necessidade de reformulação da base de dados elaborada por cientistas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Autonomia de programas computacionais no desenvolvimento ficcional.",
+            "text": "autonomia de programas computacionais no desenvolvimento ficcional.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Diferença entre a estrutura e a criatividade da linguagem humana.",
+            "text": "diferença entre a estrutura e a criatividade da linguagem humana.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": "Qualidade artística de textos produzidos por computadores.",
+            "text": "qualidade artística de textos produzidos por computadores.",
             "file": null,
             "isCorrect": false
         }

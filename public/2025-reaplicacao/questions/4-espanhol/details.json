@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "relação entre o prato e a memória afetiva da população.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "ênfase nas etapas seguidas na preparação do prato típico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "referência à sequência dos pratos servidos durante uma refeição.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "valorização dos ingredientes regionais na adaptação das receitas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "restrição do preparo da iguaria em determinadas estações do ano.",
             "file": null,
             "isCorrect": false
         }

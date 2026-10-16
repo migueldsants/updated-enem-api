@@ -4,39 +4,41 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "A pressão sonora (P), medida em newton por metro quadrado (N/m²), e o nível dessa pressão sonora (n), medido\nem decibel (dB), se relacionam mediante a expressão\n\nn\nP\nP\n\n0\nlog\n,\n\n\u001a\n\u0019\n20\n\nsendo P0 = 2 × 10–5 N/m2 uma constante, denominada limiar de percepção do ouvido humano.\n\nDurante uma fiscalização, foi medido, por um decibelímetro, que o ruído proveniente de um carro, com seu som\nautomotivo ligado, atingiu um nível de pressão sonora de 80 dB.",
-    "files": [],
+    "context": "A pressão sonora (P), medida em newton por metro quadrado (N/m²), e o nível dessa pressão sonora (\nem decibel (dB), se relacionam mediante a expressão\n\nn = 20\n\nsendo P₀ Z 2 ˜ 10⁻⁵ N/m² uma constante, denominada limiar de percepção do ouvido humano.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/152/3e41e5a2-f114-4001-90d6-38aef1154f1e.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A pressão sonora, em newton por metro quadrado, proveniente desse ruído foi igual a",
+    "alternativesIntroduction": "Durante uma fiscalização, foi medido, por um decibelímetro, que o ruído proveniente de um carro, com seu som\nautomotivo ligado, atingiu um nível de pressão sonora de 80 dB.\nA pressão sonora, em newton por metro quadrado, proveniente desse ruído foi igual a",
     "alternatives": [
         {
             "letter": "A",
-            "text": "8 × 10−5",
+            "text": "8 ˜ 10⁻⁵",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "5 × 10−2",
+            "text": "5 ˜ 10⁻²",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "2 × 10−1",
+            "text": "2 ˜ 10⁻¹",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "1 × 103",
+            "text": "1 ˜ 10³",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "2 × 109 \u001b",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/152/3e41e5a2-f114-4001-90d6-38aef1154f1e.png",
             "isCorrect": false
         }
     ]

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "homenagear um ícone do rock and roll.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "informar sobre lançamentos cinematográficos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "discorrer sobre os gêneros cinebiografia e musical.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "apontar discrepâncias que distanciam filmes e vida real.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "contrastar filmes que versam sobre um mesmo assunto.",
             "file": null,
             "isCorrect": true
         }

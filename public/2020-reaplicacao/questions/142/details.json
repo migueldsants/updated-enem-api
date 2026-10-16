@@ -5,38 +5,41 @@
     "language": null,
     "discipline": "matematica",
     "context": "Um imposto é dito cumulativo se incide em duas ou\nmais etapas da circulação de mercadorias, sem que na\netapa posterior possa ser abatido o montante pago na\netapa anterior. PIS e Cofins são exemplos de impostos\ncumulativos e correspondem a um percentual total de\n3,65%, que incide em cada etapa da comercialização\nde um produto.\n\nConsidere um produto com preço inicial C. Suponha\nque ele é revendido para uma loja pelo preço inicial\nacrescido dos impostos descritos. Em seguida, o produto\né revendido por essa loja ao consumidor pelo valor pago\nacrescido novamente dos mesmos impostos.\n\nDisponível em: www.centraltributaria.com.br. Acesso em: 15 jul. 2015 (adaptado).",
-    "files": [],
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/142/31babab1-47ce-4b26-955f-7da9add6f783.png",
+        "https://enem.dev/2020-reaplicacao/questions/142/f056928e-4c77-427a-86a2-b0550767f775.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "Qual a expressão algébrica que corresponde ao valor pago em impostos pelo consumidor?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "C × 0,0365",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "OC × MIMPSR",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "C × 1,0365²",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/142/31babab1-47ce-4b26-955f-7da9add6f783.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/142/f056928e-4c77-427a-86a2-b0550767f775.png",
             "isCorrect": true
         }
     ]

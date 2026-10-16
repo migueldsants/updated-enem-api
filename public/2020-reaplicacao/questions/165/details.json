@@ -4,39 +4,48 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "Foi feita uma pesquisa sobre a escolaridade dos\n\nfuncionários de uma empresa. Verificou-se que 1\n\n4 dos\n\nenquanto 2\n\n3 das mulheres que trabalham na empresa\n\nsão homens.\n\nA fração que representa o número de funcionários homens\n\nem relação ao total de funcionários dessa empresa é",
-    "files": [],
+    "context": "Foi feita uma pesquisa sobre a escolaridade dos\n\n![](https://enem.dev/2020-reaplicacao/questions/165/750a84bb-1688-405b-9801-41179a461dd9.png)\n\nhomens que ali trabalham têm o ensino médio completo,\n\n![](https://enem.dev/2020-reaplicacao/questions/165/c2bdca35-dccf-4ad7-a7b9-21a0e2c0dd7b.png)\n\n![](https://enem.dev/2020-reaplicacao/questions/165/b6284d44-a17c-452c-ad26-a423ed511dfa.png)\n\nentre todos os que têm o ensino médio completo, metade\n\nsão homens.\n\nA fração que representa o número de funcionários homens",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/165/750a84bb-1688-405b-9801-41179a461dd9.png",
+        "https://enem.dev/2020-reaplicacao/questions/165/c2bdca35-dccf-4ad7-a7b9-21a0e2c0dd7b.png",
+        "https://enem.dev/2020-reaplicacao/questions/165/b6284d44-a17c-452c-ad26-a423ed511dfa.png",
+        "https://enem.dev/2020-reaplicacao/questions/165/c035077d-1b1f-4688-8045-f7c7842f0ed1.png",
+        "https://enem.dev/2020-reaplicacao/questions/165/519bcf32-72c0-4ecb-84db-1ff61fcb69af.png",
+        "https://enem.dev/2020-reaplicacao/questions/165/0e2d9889-bbca-4cac-89c4-41c845e527bb.png",
+        "https://enem.dev/2020-reaplicacao/questions/165/8cdd7f9c-a647-40de-a8c3-744b4b94b056.png",
+        "https://enem.dev/2020-reaplicacao/questions/165/46d49bc5-1054-4ace-abaa-198b1a93c2dd.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "1 8",
+    "alternativesIntroduction": "em relação ao total de funcionários dessa empresa é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "3 11",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/165/c035077d-1b1f-4688-8045-f7c7842f0ed1.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "11 24",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/165/519bcf32-72c0-4ecb-84db-1ff61fcb69af.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "D 2 E 8",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/165/0e2d9889-bbca-4cac-89c4-41c845e527bb.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/165/8cdd7f9c-a647-40de-a8c3-744b4b94b056.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2020-reaplicacao/questions/165/46d49bc5-1054-4ace-abaa-198b1a93c2dd.png",
             "isCorrect": true
         }
     ]

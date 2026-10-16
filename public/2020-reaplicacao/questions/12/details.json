@@ -4,38 +4,38 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
-    "context": "Como ocorrem os eclipses solares?\nQuando a Lua passa exatamente entre a Terra e o\nSol, o astro que ilumina nosso planeta some por alguns\nminutos. O espetáculo só ocorre durante a lua nova e\napenas nas ocasiões em que a sombra projetada pelo\nsatélite atinge algum ponto da superfície do planeta.\nAliás, é o tamanho dessa sombra que vai determinar se\no desaparecimento do astro será total, parcial ou anular.\nGeralmente, ocorrem ao menos dois eclipses solares por\nano. Um eclipse solar é uma excelente oportunidade para\nestudar melhor o Sol.\n\nDisponível em: https://mundoestranho.abril.com.br. Acesso em: 21 ago. 2017 (adaptado).\nNesse texto, a palavra “aliás” cumpre a função de",
+    "context": "Como ocorrem os eclipses solares?\nQuando a Lua passa exatamente entre a Terra e o\nSol, o astro que ilumina nosso planeta some por alguns\nminutos. O espetáculo só ocorre durante a lua nova e\napenas nas ocasiões em que a sombra projetada pelo\nsatélite atinge algum ponto da superfície do planeta.\nAliás, é o tamanho dessa sombra que vai determinar se\no desaparecimento do astro será total, parcial ou anular.\nGeralmente, ocorrem ao menos dois eclipses solares por\nano. Um eclipse solar é uma excelente oportunidade para\nestudar melhor o Sol.\n\nDisponível em: https://mundoestranho.abril.com.br. Acesso em: 21 ago. 2017 (adaptado).",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Nesse texto, a palavra “aliás” cumpre a função de",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "promover uma conclusão de ideias valendo-se das informações da frase anterior.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "indicar uma mudança de assunto e de foco no tema desenvolvido.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "conectar a informação da frase anterior com a da posterior.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "conferir um caráter mais coloquial à reportagem.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "salientar a negação expressa na frase posterior.",
             "file": null,
             "isCorrect": false
         }

@@ -4,39 +4,45 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Sete países americanos, Argentina, Brasil, Canadá,\nChile, Estados Unidos, Paraguai e Uruguai; e sete países\neuropeus, Portugal, Espanha, França, Inglaterra, Itália,\nAlemanha e Suíça, decidem criar uma comissão com\nrepresentantes de oito desses países, objetivando criar\npolíticas de incentivo e regulação do turismo entre eles.\nNa hipótese de criação da comissão, serão escolhidos\naleatoriamente quatro representantes de países das\nAméricas e quatro representantes de países europeus,\nnão podendo estar na comissão dois representantes de\num mesmo país.\nQual é a probabilidade de o Brasil e a França pertencerem\na essa comissão?",
-    "files": [],
+    "context": null,
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/142/c253a439-dd1d-4706-9c7d-03913ff8032c.png",
+        "https://enem.dev/2022-reaplicacao/questions/142/08227bd9-1c98-44f2-b9a3-d07a535f57b7.png",
+        "https://enem.dev/2022-reaplicacao/questions/142/171a4b45-ba3b-4441-960d-c71855b3fae8.png",
+        "https://enem.dev/2022-reaplicacao/questions/142/b6337a00-c1f5-4797-abaf-14d9bdc670ff.png",
+        "https://enem.dev/2022-reaplicacao/questions/142/94260287-d4ab-4512-b7cf-67823b41d537.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": "Sete países americanos, Argentina, Brasil, Canadá,\nChile, Estados Unidos, Paraguai e Uruguai; e sete países\neuropeus, Portugal, Espanha, França, Inglaterra, Itália,\nAlemanha e Suíça, decidem criar uma comissão com\nrepresentantes de oito desses países, objetivando criar\npolíticas de incentivo e regulação do turismo entre eles.\nNa hipótese de criação da comissão, serão escolhidos\naleatoriamente quatro representantes de países das\nAméricas e quatro representantes de países europeus,\nnão podendo estar na comissão dois representantes de\num mesmo país.\nQual é a probabilidade de o Brasil e a França pertencerem\na essa comissão?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/142/c253a439-dd1d-4706-9c7d-03913ff8032c.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/142/08227bd9-1c98-44f2-b9a3-d07a535f57b7.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/142/171a4b45-ba3b-4441-960d-c71855b3fae8.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/142/b6337a00-c1f5-4797-abaf-14d9bdc670ff.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/142/94260287-d4ab-4512-b7cf-67823b41d537.png",
             "isCorrect": true
         }
     ]

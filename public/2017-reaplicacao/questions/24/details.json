@@ -4,38 +4,38 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
-    "context": "$\u0003WHFQRORJLD\u0003HVWi\u000f\u0003GH¿QLWLYDPHQWH\u000f\u0003SUHVHQWH\u0003QD\u0003YLGD\u0003\ncotidiana. Seja para consultar informações, conversar\ncom amigos e familiares ou apenas entreter, a internet e\nos celulares não saem das mãos e mentes das pessoas.\nPor esse motivo, especialistas alertam: o uso excessivo\ndessas ferramentas pode viciar. O problema, dizem\nos especialistas, é o usuário conseguir diferenciar a\ndependência do uso considerado normal. Hoje, a internet\ne os celulareV\u0003VmR\u0003IHUUDPHQWDV\u0003SUR¿VVLRQDLV\u0003H\u0003GH\u0003HVWXGR\u0011\n\nMATSUURA, S. O Globo, 10 jun. 2013 (adaptado).",
+    "context": "A tecnologia está, definitivamente, presente na vida\ncotidiana. Seja para consultar informações, conversar\ncom amigos e familiares ou apenas entreter, a internet e\nos celulares não saem das mãos e mentes das pessoas.\nPor esse motivo, especialistas alertam: o uso excessivo\ndessas ferramentas pode viciar. O problema, dizem\nos especialistas, é o usuário conseguir diferenciar a\ndependência do uso considerado normal. Hoje, a internet\ne os celulares são ferramentas profissionais e de estudo.\n\nMATSUURA, S. O Globo, 10 jun. 2013 (adaptado).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "O desenvolvimento da sociedade está relacionado ao avanço das tecnologias, que estabelecem novos padrões de comportamento. De acordo com o texto, o alerta dos especialistas deve-se à",
+    "alternativesIntroduction": "O desenvolvimento da sociedade está relacionado ao\navanço das tecnologias, que estabelecem novos padrões\nde comportamento. De acordo com o texto, o alerta dos\nespecialistas deve-se à",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "insegurança do usuário, em razão do grande número de pessoas conectadas às redes sociais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "falta de credibilidade das informações transmitidas pelos meios de comunicação de massa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "comprovação por pesquisas de que os danos ao cérebro são muito maiores do que se pode imaginar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "subordinação das pessoas aos recursos oferecidos pelas novas tecnologias, a ponto de prejudicar suas vidas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "possibilidade de as pessoas se isolarem socialmente, em razão do uso das novas tecnologias de comunicação.",
             "file": null,
             "isCorrect": false
         }

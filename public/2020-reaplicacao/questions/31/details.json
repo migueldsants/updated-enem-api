@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "construção de relações sociais mais responsáveis.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "garantia das informações propiciadas pelas redes sociais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "promoção de relações mercadológicas pautadas em interesses pessoais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "propagação de relações interpessoais mediadas por interesses de mercado.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "divulgação de informações para atingir a reputação de empresas.",
             "file": null,
             "isCorrect": false
         }

@@ -4,10 +4,12 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
-    "context": "Um síndico precisa pintar os muros, portões e calçamento de um edifício. Os pintores solicitaram três galões\nde tinta T1 para os muros, um galão de tinta T2 para os portões e dois galões de tinta T3 para o calçamento. Ele\npesquisou o preço das tintas em cinco lojas diferentes, obtendo os seguintes valores, em real.\n\nLoja\nT1\nT2\nT3\n\n1\n82,00\n134,00\n202,00\n\n2\n80,00\n122,00\n214,00\n\n3\n85,00\n115,00\n209,00\n\n4\n88,00\n132,00\n199,00\n\n5\n90,00\n116,00\n202,00\n\nO síndico irá comprar as tintas numa única loja, escolhendo aquela em que o valor total da compra resulte no\nmenor preço médio por galão.",
-    "files": [],
+    "context": "Um síndico precisa pintar os muros, portões e calçamento de um edifício. Os pintores solicitaram três galões\nde tinta T1 para os muros, um galão de tinta T2 para os portões e dois galões de tinta T3 para o calçamento. Ele\npesquisou o preço das tintas em cinco lojas diferentes, obtendo os seguintes valores, em real.\n\n![](https://enem.dev/2020-reaplicacao/questions/151/39fb3218-8555-45a4-a429-e9308f78c2cc.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/151/39fb3218-8555-45a4-a429-e9308f78c2cc.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Com base nessas informações, a loja escolhida será",
+    "alternativesIntroduction": "O síndico irá comprar as tintas numa única loja, escolhendo aquela em que o valor total da compra resulte no\nmenor preço médio por galão.\nCom base nessas informações, a loja escolhida será",
     "alternatives": [
         {
             "letter": "A",
@@ -17,25 +19,25 @@
         },
         {
             "letter": "B",
-            "text": "2. C \t 3. D \t 4. E \t 5.",
+            "text": "2.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "4.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "5.",
             "file": null,
             "isCorrect": false
         }

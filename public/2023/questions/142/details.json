@@ -4,10 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto\ncujo raio da base mede 5 metros, sempre abastecido no primeiro\ndesse vilarejo consome, em média, 200 litros de água por dia.",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo que o reservatório não fique sem água nos próximos 10 dias?",
+    "alternativesIntroduction": "No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água\nnos primeiros 20 dias. Passado esse período, as pessoas\ne constataram que o nível da coluna de água estava em 1,5\ndurante os 10 dias seguintes. Considere 3 como aproximação\nQual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo\nque o reservatório não fique sem água nos próximos 10 dias?",
     "alternatives": [
         {
             "letter": "A",

@@ -4,10 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Os vidros para veículos produzidos por certo fabricante\ntêm transparências entre 70% e 90%, dependendo do lote\nfabricado. Isso significa que, quando um feixe luminoso\nincide no vidro, uma parte entre 70% e 90% da luz\nconsegue atravessá-lo. Os veículos equipados com vidros\ndesse fabricante terão instaladas, nos vidros das portas,\npelículas protetoras cuja transparência, dependendo do\nlote fabricado, estará entre 50% e 70%. Considere que\numa porcentagem P da intensidade da luz, proveniente\nde uma fonte externa, atravessa o vidro e a película.",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "De acordo com as informações, o intervalo das porcentagens que representam a variação total possível de P é",
+    "alternativesIntroduction": "De acordo com as informações, o intervalo das\nporcentagens que representam a variação total possível\nde P é",
     "alternatives": [
         {
             "letter": "A",

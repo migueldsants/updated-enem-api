@@ -4,39 +4,45 @@
     "year": 2012,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Certo vendedor tem seu salário mensal calculado\nda seguinte maneira: ele ganha um valor fixo de\nR$ 750,00, mais uma comissão de R$ 3,00 para cada\nproduto vendido. Caso ele venda mais de 100 produtos,\nsua comissão passa a ser de R$ 9,00 para cada produto\nvendido, a partir do 101º produto vendido.",
+    "files": [
+        "https://enem.dev/2012/questions/156/57bdca09-0074-4d72-9aa7-b435c437ef5d.png",
+        "https://enem.dev/2012/questions/156/f42eec86-6828-4413-9b3a-c93df790d604.png",
+        "https://enem.dev/2012/questions/156/20e1484f-9a7c-464b-aac1-32dceb3f5756.png",
+        "https://enem.dev/2012/questions/156/c8f11d9d-32c5-4be4-9d3b-70e193ec239f.png",
+        "https://enem.dev/2012/questions/156/5a0267d2-e738-4a9a-984f-e2873ee40996.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Com essas informações, o gráfico que melhor representa a relação entre salário e o número de produtos vendidos é",
+    "alternativesIntroduction": "Com essas informações, o gráfico que melhor representa\na relação entre salário e o número de produtos vendidos é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2012/questions/156/4e2c0e03-b523-4518-aaef-fb4734e8ad69.png",
+            "file": "https://enem.dev/2012/questions/156/57bdca09-0074-4d72-9aa7-b435c437ef5d.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2012/questions/156/f19a221b-7715-49be-a78c-0554583108f7.png",
+            "file": "https://enem.dev/2012/questions/156/f42eec86-6828-4413-9b3a-c93df790d604.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2012/questions/156/35d71a7f-1928-470f-b151-e475785e7579.png",
+            "file": "https://enem.dev/2012/questions/156/20e1484f-9a7c-464b-aac1-32dceb3f5756.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2012/questions/156/7ab9d513-032b-4753-81cc-95bcd632fb4d.png",
+            "file": "https://enem.dev/2012/questions/156/c8f11d9d-32c5-4be4-9d3b-70e193ec239f.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2012/questions/156/0df218fe-bdcd-42f6-8188-5cc32405b48e.png",
+            "file": "https://enem.dev/2012/questions/156/5a0267d2-e738-4a9a-984f-e2873ee40996.png",
             "isCorrect": true
         }
     ]

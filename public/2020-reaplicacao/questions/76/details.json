@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "diminuição de empregos formais na área de reciclagem.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "redução do consumo consciente entre as nações envolvidas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "negligenciamento da logística reversa por esse setor industrial.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "desmantelamento das propostas de tratamento dos resíduos sólidos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "desestruturação dos serviços de assistência técnica em países emergentes.",
             "file": null,
             "isCorrect": false
         }

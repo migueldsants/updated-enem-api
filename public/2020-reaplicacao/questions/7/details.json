@@ -4,38 +4,40 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
-    "context": "‘Todas chora’\n\nO erro de concordância impresso\n\nna sandália ao lado é proposital, viu?\n\nUma estilista pegou carona no Twitter e, por\n\nextensão, nos bordões “todas comemora” e\n\n“todas chora”, muito usados na rede.\n\nEm versão rasteirinha, custa R$ 49.\n\nO Globo, 12 fev. 2012 (adaptado).\n\n2ª aplicação\nLC - 1° dia | Caderno 1 - AZUL - Página 6",
-    "files": [],
+    "context": "![](https://enem.dev/2020-reaplicacao/questions/7/f3b74277-cf20-4f6c-b686-9db0b1ba1af2.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/7/f3b74277-cf20-4f6c-b686-9db0b1ba1af2.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Considerando-se os contextos de uso de “Todas chora”, essa expressão é um exemplo de variante linguística",
+    "alternativesIntroduction": "Considerando-se os contextos de uso de “Todas chora”,\nessa expressão é um exemplo de variante linguística",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "típica de pessoas despreocupadas em seguir as regras de escrita.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "usada como recurso para atrair a atenção de interlocutores e consumidores.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "transposta de situações de interação típicas de ambientes rurais do interior do Brasil.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "incompatível com ambientes frequentados por usuários da norma-padrão da língua.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "condenável em produtos voltados para uma clientela exigente e interessada em novidades.",
             "file": null,
             "isCorrect": false
         }

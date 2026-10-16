@@ -4,39 +4,45 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
+    "context": "Para melhorar a mobilidade urbana na rede metroviária é necessário minimizar o tempo entre estações. Para isso\na administração do metrô de uma grande cidade adotou o seguinte procedimento entre duas estações: a locomotiva\nparte do repouso com aceleração constante por um terço do tempo de percurso, mantém a velocidade constante por\noutro terço e reduz sua velocidade com desaceleração constante no trecho final, até parar.",
+    "files": [
+        "https://enem.dev/2012/questions/60/52901645-36b2-4ea9-94d5-94a47096d841.png",
+        "https://enem.dev/2012/questions/60/a92628dd-8483-4ba1-b5af-ad860ae972f7.png",
+        "https://enem.dev/2012/questions/60/558b08a7-7fec-4e44-ae2e-1b31ff6f9d98.png",
+        "https://enem.dev/2012/questions/60/99e6505e-238e-4bd3-b7fc-fe15da12e712.png",
+        "https://enem.dev/2012/questions/60/f1b757f3-61ae-4700-9755-e13cf039dbe0.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é o gráfico de posição (eixo vertical) em função do tempo (eixo horizontal) que representa o movimento desse trem?",
+    "alternativesIntroduction": "Qual é o gráfico de posição (eixo vertical) em função do tempo (eixo horizontal) que representa o movimento\ndesse trem?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2012/questions/60/f75fbb9b-e2dd-4abf-8796-5b2fc09bb90d.png",
+            "file": "https://enem.dev/2012/questions/60/52901645-36b2-4ea9-94d5-94a47096d841.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2012/questions/60/5cac9f80-9281-4486-9340-9d99e77b59b1.png",
+            "file": "https://enem.dev/2012/questions/60/a92628dd-8483-4ba1-b5af-ad860ae972f7.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2012/questions/60/38bf386c-b484-4f24-aea8-c351b55ab365.png",
+            "file": "https://enem.dev/2012/questions/60/558b08a7-7fec-4e44-ae2e-1b31ff6f9d98.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2012/questions/60/d72eb90a-ce8b-401a-97ab-a62e182a6fd3.png",
+            "file": "https://enem.dev/2012/questions/60/99e6505e-238e-4bd3-b7fc-fe15da12e712.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2012/questions/60/ef17337d-941b-4a83-9815-a2c35a3999d9.png",
+            "file": "https://enem.dev/2012/questions/60/f1b757f3-61ae-4700-9755-e13cf039dbe0.png",
             "isCorrect": false
         }
     ]

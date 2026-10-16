@@ -4,39 +4,45 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Um sinalizador de trânsito tem o formato de um\ncone circular reto. O sinalizador precisa ser revestido\nexternamente com adesivo fluorescente, desde sua\nbase (base do cone) até a metade de sua altura, para\nsinalização noturna. O responsável pela colocação do\nadesivo precisa fazer o corte do material de maneira que\na forma do adesivo corresponda exatamente à parte da\nsuperfície lateral a ser revestida.",
+    "files": [
+        "https://enem.dev/2014/questions/144/fa6a0bac-7fb7-4e6d-b7c7-5913f9c68ed5.png",
+        "https://enem.dev/2014/questions/144/26c4c495-7d42-4e30-b8fe-b03a5ce7be6b.png",
+        "https://enem.dev/2014/questions/144/ee5a5494-9bd6-44f8-9fa2-9a5dfab2cd53.png",
+        "https://enem.dev/2014/questions/144/6f3e419a-9512-429d-8bf4-655e2a279fbe.png",
+        "https://enem.dev/2014/questions/144/8f9312ba-7ccb-4bd2-b065-fe738ee2562c.png"
+    ],
     "correctAlternative": "E",
     "alternativesIntroduction": "Qual deverá ser a forma do adesivo?",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2014/questions/144/44526171-b101-4a97-acc1-054ba72d0fa7.png",
+            "file": "https://enem.dev/2014/questions/144/fa6a0bac-7fb7-4e6d-b7c7-5913f9c68ed5.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2014/questions/144/a2d14544-a249-440f-b625-70e5ac48098c.png",
+            "file": "https://enem.dev/2014/questions/144/26c4c495-7d42-4e30-b8fe-b03a5ce7be6b.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2014/questions/144/1cb65586-4441-4648-95ca-f2d2d2219c50.png",
+            "file": "https://enem.dev/2014/questions/144/ee5a5494-9bd6-44f8-9fa2-9a5dfab2cd53.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2014/questions/144/d9792780-c879-4c1d-921c-dd1b1ac88884.png",
+            "file": "https://enem.dev/2014/questions/144/6f3e419a-9512-429d-8bf4-655e2a279fbe.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2014/questions/144/fda755b2-ba2a-4f7f-84a5-6a29fb07e1e0.png",
+            "file": "https://enem.dev/2014/questions/144/8f9312ba-7ccb-4bd2-b065-fe738ee2562c.png",
             "isCorrect": true
         }
     ]

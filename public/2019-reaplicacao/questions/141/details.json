@@ -4,38 +4,42 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "O projeto de transposição do Rio São Francisco\nconsiste na tentativa de solucionar um problema que\nhá muito afeta as populações do semiárido brasileiro,\na seca. O projeto prevê a retirada de 26,4 m³/s de água\ndesse rio. Para tornar mais compreensível a informação\ndo volume de água a ser retirado, deseja-se expressar\nessa quantidade em litro por minuto.\n\nDisponível em: www.infoescola.com. Acesso em: 28 out. 2015.\n\nCom base nas informações, qual expressão representa\na quantidade de água retirada, em litro por minuto?",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/141/0dbc452e-6376-4840-a9e3-b46b3e9f49f5.png)\n\nO projeto de transposição do Rio São Francisco\nconsiste na tentativa de solucionar um problema que\nhá muito afeta as populações do semiárido brasileiro,\na seca. O projeto prevê a retirada de 26,4 m³/s de água\ndesse rio. Para tornar mais compreensível a informação\ndo volume de água a ser retirado, deseja-se expressar\nessa quantidade em litro por minuto.\n\nDisponível em: www.infoescola.com. Acesso em: 28 out. 2015.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/141/0dbc452e-6376-4840-a9e3-b46b3e9f49f5.png",
+        "https://enem.dev/2019-reaplicacao/questions/141/67ad81e9-90bf-4336-8708-7ce80807adec.png",
+        "https://enem.dev/2019-reaplicacao/questions/141/b85c6285-bb6e-4785-8e67-4263f88ab93d.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "26 4 1000 60 , ×",
+    "alternativesIntroduction": "Com base nas informações, qual expressão representa\na quantidade de água retirada, em litro por minuto?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "26 4 10 60 , ×",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/141/67ad81e9-90bf-4336-8708-7ce80807adec.png",
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "C 26,4 × 1 × 60 D 26,4 × 10 × 60 E 26,4 × 1 000 × 60",
-            "file": null,
+            "text": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/141/b85c6285-bb6e-4785-8e67-4263f88ab93d.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "26,4 × 1 × 60",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "26,4 × 10 × 60",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "26,4 × 1 000 × 60",
             "file": null,
             "isCorrect": true
         }

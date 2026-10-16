@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "menor, pois a força normal com o solo é menor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "menor, pois a altura do salto seria maior.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "igual, pois o impulso aplicado pelo astronauta é o mesmo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "maior, pois a aceleração da gravidade é seis vezes menor.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "maior, pois na ausência de atmosfera não há resistência do ar.",
             "file": null,
             "isCorrect": false
         }

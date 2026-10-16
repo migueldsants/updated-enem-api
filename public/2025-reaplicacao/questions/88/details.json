@@ -4,38 +4,38 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Com capital inicial de US$ 50 bilhões para financiar obras\nde infraestrutura em países pobres e emergentes, o novo\nBanco de Desenvolvimento dos Brics vem sendo encarado\ncomo uma alternativa ao Banco Mundial e ao Fundo Monetário\nInternacional (FMI). O banco deverá reduzir a influência\ninternacional dos Estados Unidos e da União Europeia.\n\nCORRÊA, A. Disponível em: www.bbc.com.\n\nAcesso em: 14 jul. 2014 (adaptado).\nA instituição abordada no texto busca uma mudança na\ngeopolítica ao",
+    "context": "Com capital inicial de US$ 50 bilhões para financiar obras\nde infraestrutura em países pobres e emergentes, o novo\nBanco de Desenvolvimento dos Brics vem sendo encarado\ncomo uma alternativa ao Banco Mundial e ao Fundo Monetário\nInternacional (FMI). O banco deverá reduzir a influência\ninternacional dos Estados Unidos e da União Europeia.\n\nCORRÊA, A. Disponível em: www.bbc.com.\nAcesso em: 14 jul. 2014 (adaptado).",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "A instituição abordada no texto busca uma mudança na\ngeopolítica ao",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "intensificar a utilização do dólar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "enfatizar a relação Sul-Sul.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "ampliar a bipolaridade global.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "garantir a taxação de importados.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "padronizar a matriz energética.",
             "file": null,
             "isCorrect": false
         }

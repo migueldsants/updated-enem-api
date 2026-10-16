@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "influenciar o leitor em relação aos sentimentos provocados por uma carta de amor, por meio de opiniões pessoais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "definir com objetividade o sentimento amoroso e a importância das cartas de amor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "alertar para consequências perigosas advindas de mensagens amorosas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "esclarecer como devem ser escritas as mensagens sentimentais nas cartas de amor.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "produzir uma visão ficcional do sentimento amoroso presente em cartas de amor.",
             "file": null,
             "isCorrect": false
         }

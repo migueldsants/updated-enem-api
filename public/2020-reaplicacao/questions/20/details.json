@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "aviso, pois sua função é advertir o leitor sobre o perigo de se caminhar nas orlas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "relato, pois descreve o acidente envolvendo um motociclista e seus desdobramentos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "obituário, pois tem o propósito de levar ao leitor informações sobre o velório do professor.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "anúncio, pois divulga o recebimento do título de doutor honoris causa pelo professor morto.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "notícia, pois seu objetivo é informar o leitor sobre o acidente, seguido da morte do professor.",
             "file": null,
             "isCorrect": false
         }

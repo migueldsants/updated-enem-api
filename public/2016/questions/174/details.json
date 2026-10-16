@@ -4,38 +4,40 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "Um paciente necessita de reidratação endovenosa\nfeita por meio de cinco frascos de soro durante 24 h.\nCada frasco tem um volume de 800 mL de soro.\nNas primeiras quatro horas, deverá receber 40% do total\na ser aplicado. Cada mililitro de soro corresponde a\n\n![](https://enem.dev/2016/questions/174/89d88837-1686-440d-87bf-e1b7aa74972e.png)",
+    "files": [
+        "https://enem.dev/2016/questions/174/89d88837-1686-440d-87bf-e1b7aa74972e.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "O número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será",
+    "alternativesIntroduction": "12 gotas.\nO número de gotas por minuto que o paciente deverá\nreceber após as quatro primeiras horas será",
     "alternatives": [
         {
             "letter": "A",
-            "text": "16",
+            "text": "16.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "20",
+            "text": "20.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "24",
+            "text": "24.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "34",
+            "text": "34.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "40",
+            "text": "40.",
             "file": null,
             "isCorrect": false
         }

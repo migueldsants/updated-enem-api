@@ -4,32 +4,34 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "A trajetória de um avião durante um voo entre duas\ncidades ocorre dentro de áreas de controle de tráfego.\nDurante um voo, é exigido que o avião sobrevoe pontos\nde controle situados no solo e demarcados entre a\norigem (O) e o destino (D) da aeronave. Assim, embora a\ntrajetória do avião ocorra num espaço tridimensional, para\no controlador de voo, a visualização representativa dessa\ntrajetória é dada por uma linha poligonal plana, em que\ntrês pontos de controle sucessivos, nas representações,\ndevem ser não colineares.\n\nDisponível em: www.kaspersky.com.br. Acesso em: 21 out. 2019 (adaptado).\nAs figuras apresentam algumas possibilidades dessas\nrepresentações, nas quais todos os pontos de controle\nestão representados.",
-    "files": [],
+    "context": "A trajetória de um avião durante um voo entre duas\ncidades ocorre dentro de áreas de controle de tráfego.\nDurante um voo, é exigido que o avião sobrevoe pontos\nde controle situados no solo e demarcados entre a\norigem (O) e o destino (D) da aeronave. Assim, embora a\ntrajetória do avião ocorra num espaço tridimensional, para\no controlador de voo, a visualização representativa dessa\ntrajetória é dada por uma linha poligonal plana, em que\ntrês pontos de controle sucessivos, nas representações,\ndevem ser não colineares.\n\nDisponívelem: www.kaspersky.com.br. Acessoem:21out.2019 (adaptado).\n\nAs figuras apresentam algumas possibilidades dessas\nrepresentações, nas quais todos os pontos de controle\n\nD\n\nD\n\nD\nD\n\n![](https://enem.dev/2023-reaplicacao/questions/157/fc9fb405-9cdc-4f82-93f8-a45e06517879.png)\n\nD\n\nSuponha que um avião fez um voo com origem\ndiferente do destino final e cuja representação apresente\ntrês pontos de controle.",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/157/fc9fb405-9cdc-4f82-93f8-a45e06517879.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "Nesse voo, qual das figuras apresentadas é compatível\ncom as restrições estabelecidas?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "I B",
+            "text": "I",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "II C",
+            "text": "II",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "III D",
+            "text": "III",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "IV",
             "file": null,
             "isCorrect": false
         },

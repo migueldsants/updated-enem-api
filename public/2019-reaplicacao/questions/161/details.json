@@ -4,39 +4,46 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma empresa sorteia prêmios entre os funcionários\ncomo reconhecimento pelo tempo trabalhado. A tabela\nmostra a distribuição de frequência de 20 empregados\ndessa empresa que têm de 25 a 35 anos trabalhados.\nA empresa sorteou, entre esses empregados, uma\nviagem de uma semana, sendo dois deles escolhidos\naleatoriamente.\n\nTempo de serviço\nNúmero de empregados\n\n25\n4\n27\n1\n29\n2\n30\n2\n32\n3\n34\n5\n35\n3",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/161/034b31b2-3029-45fc-abbb-01261a3091e5.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/161/034b31b2-3029-45fc-abbb-01261a3091e5.png",
+        "https://enem.dev/2019-reaplicacao/questions/161/050d2b84-3ceb-448b-91b3-38caaaafd886.png",
+        "https://enem.dev/2019-reaplicacao/questions/161/a1df78ea-9967-45de-8d50-5a7574fd1154.png",
+        "https://enem.dev/2019-reaplicacao/questions/161/0f40e7aa-6f7d-4ef1-9243-c5fe14202712.png",
+        "https://enem.dev/2019-reaplicacao/questions/161/c58790f5-d5a2-4d6f-891e-cf61386f6905.png",
+        "https://enem.dev/2019-reaplicacao/questions/161/4727856a-36d6-4098-bfd3-5983f31fa19e.png"
+    ],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Qual a probabilidade de que ambos os sorteados tenham 34 anos de trabalho?",
+    "alternativesIntroduction": "Uma empresa sorteia prêmios entre os funcionários\ncomo reconhecimento pelo tempo trabalhado. A tabela\nmostra a distribuição de frequência de 20 empregados\ndessa empresa que têm de 25 a 35 anos trabalhados.",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/161/050d2b84-3ceb-448b-91b3-38caaaafd886.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/161/a1df78ea-9967-45de-8d50-5a7574fd1154.png",
             "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/161/0f40e7aa-6f7d-4ef1-9243-c5fe14202712.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/161/c58790f5-d5a2-4d6f-891e-cf61386f6905.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2019-reaplicacao/questions/161/4727856a-36d6-4098-bfd3-5983f31fa19e.png",
             "isCorrect": false
         }
     ]

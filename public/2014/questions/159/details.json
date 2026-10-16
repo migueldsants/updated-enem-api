@@ -4,10 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Uma pessoa possui um espaço retangular de lados\n11,5 m e 14 m no quintal de sua casa e pretende fazer\num pomar doméstico de maçãs. Ao pesquisar sobre o\nplantio dessa fruta, descobriu que as mudas de maçã\ndevem ser plantadas em covas com uma única muda e\ncom espaçamento mínimo de 3 metros entre elas e entre\nelas e as laterais do terreno. Ela sabe que conseguirá\nplantar um número maior de mudas em seu pomar se\ndispuser as covas em filas alinhadas paralelamente ao\nlado de maior extensão.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "O número máximo de mudas que essa pessoa poderá plantar no espaço disponível é",
+    "alternativesIntroduction": "O número máximo de mudas que essa pessoa poderá\nplantar no espaço disponível é",
     "alternatives": [
         {
             "letter": "A",

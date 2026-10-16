@@ -4,38 +4,38 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "![](https://enem.dev/broken-image.svg)\n\nLAERTE. Disponível em: www.laerte.art.br. Acesso em: 23 nov. 2021 (adaptado)",
+    "context": "FORÇA? VISÃO DE\nEU QUERIA\n\nRAIO X? TELECINESE?\nPODER.",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Situação de revolta individual.",
+            "text": "situação de revolta individual.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Satisfação de desejos pessoais.",
+            "text": "satisfação de desejos pessoais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Participação em ações decisórias.",
+            "text": "participação em ações decisórias.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "Permanência em passividade social.",
+            "text": "permanência em passividade social.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Conivência em interesses partidários.",
+            "text": "conivência em interesses partidários.",
             "file": null,
             "isCorrect": false
         }

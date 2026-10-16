@@ -4,39 +4,45 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Na área de comunicações, a demanda por\ngrande volume de dados exige uma transmissão em\nalta frequência. Uma inovação nesse sentido foi o\ndesenvolvimento da fibra óptica, que faz uso da luz\ncomo portadora de sinais. A fibra óptica é um meio de\npropagação da luz formada por duas camadas de vidro,\ncom índices de refração diferentes. Considere que a\ncamada externa da fibra apresente índice de refração n2,\ne a camada interna, índice de refração n1, como ilustrado\nna figura.\n\nn2\n\nn1\n\nLuz incidente\n\nO objetivo dessa diferença é obter a condição de\nreflexão interna total do sinal óptico que se encontre na\ncamada interna, de forma que ele se propague por toda\na extensão da fibra.",
-    "files": [],
+    "context": "Na área de comunicações, a demanda por\ngrande volume de dados exige uma transmissão em\nalta frequência. Uma inovação nesse sentido foi o\ndesenvolvimento da fibra óptica, que faz uso da luz\ncomo portadora de sinais. A fibra óptica é um meio de\npropagação da luz formada por duas camadas de vidro,\ncom índices de refração diferentes. Considere que a\ncamada externa da fibra apresente índice de refração n₂,\ne a camada interna, índice de refração n₁, como ilustrado\nna figura.\n\n![](https://enem.dev/2022-reaplicacao/questions/115/af530ead-cdf3-4b59-8b15-51c0c3a37350.png)",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/115/af530ead-cdf3-4b59-8b15-51c0c3a37350.png",
+        "https://enem.dev/2022-reaplicacao/questions/115/1e8006e7-f9fe-41d4-85d4-5e154a7263e1.png",
+        "https://enem.dev/2022-reaplicacao/questions/115/4a30c859-0717-4e68-b666-adc34cba1662.png",
+        "https://enem.dev/2022-reaplicacao/questions/115/2d6f39ad-0810-478f-bfc6-754e8ec30cdd.png",
+        "https://enem.dev/2022-reaplicacao/questions/115/b6d3d946-af01-49f7-953a-f554bf68446d.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A tecnologia envolvida na confecção das fibras ópticas deve garantir que o ângulo de refração e a relação entre n1 e n2 sejam, respectivamente,",
+    "alternativesIntroduction": "O objetivo dessa diferença é obter a condição de\nreflexão interna total do sinal óptico que se encontre na\ncamada interna, de forma que ele se propague por toda\na extensão da fibra.",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "tecnologia envolvida na confecção das fibras ópticas",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/115/1e8006e7-f9fe-41d4-85d4-5e154a7263e1.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/115/4a30c859-0717-4e68-b666-adc34cba1662.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/115/2d6f39ad-0810-478f-bfc6-754e8ec30cdd.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/115/b6d3d946-af01-49f7-953a-f554bf68446d.png",
             "isCorrect": true
         }
     ]

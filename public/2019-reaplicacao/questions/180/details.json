@@ -4,10 +4,14 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma pista circular delimitada por duas circunferências\nconcêntricas foi construída. Na circunferência interna dessa\npista, de raio 0,3 km, serão colocados aparelhos de ginástica\nlocalizados nos pontos P, Q e R, conforme a figura.\n\nO segmento RP é um diâmetro dessa circunferência\n\ninterna, e o ângulo PRQ\n\n tem medida igual a π\n\n5 radianos.",
-    "files": [],
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/180/7412a836-ea45-45a4-a25a-bbe7b41f7481.png)\n\nUma pista circular delimitada por duas circunferências\nconcêntricas foi construída. Na circunferência interna dessa\npista, de raio 0,3 km, serão colocados aparelhos de ginástica\nlocalizados nos pontos m, n e o, conforme a figura.\n\n![](https://enem.dev/2019-reaplicacao/questions/180/4cdd989f-333a-4503-9c65-74a874b9dd8c.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/180/d2d544c7-43ef-47de-bae2-561f0345fa0f.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/180/7412a836-ea45-45a4-a25a-bbe7b41f7481.png",
+        "https://enem.dev/2019-reaplicacao/questions/180/4cdd989f-333a-4503-9c65-74a874b9dd8c.png",
+        "https://enem.dev/2019-reaplicacao/questions/180/d2d544c7-43ef-47de-bae2-561f0345fa0f.png"
+    ],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Para uma pessoa ir do ponto P ao ponto Q andando pela circunferência interna no sentido anti-horário, ela percorrerá uma distância, em quilômetro, igual a",
+    "alternativesIntroduction": "Para uma pessoa ir do ponto m ao ponto n andando\npela circunferência interna no sentido anti-horário, ela\npercorrerá uma distância, em quilômetro, igual a",
     "alternatives": [
         {
             "letter": "A",

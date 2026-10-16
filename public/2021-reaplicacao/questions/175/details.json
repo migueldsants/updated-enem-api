@@ -4,38 +4,38 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
-    "context": "A massa de um tanque de combustível depende:\n\nI. da quantidade de combustível nesse tanque;\nII. do tipo de combustível que se utiliza no momento;\nIII. da massa do tanque quando está vazio.\n\n\u001a\b!\n/\n\u0002 \u000b\f\n\u0002 \f\u0010\u0002 \r\b\u0005\u000b\f\n\u0002 \r\n\u0010\u0002 \u0010\b\t\t\b\u0002 \u000eJ\f\b2\u0002 \b\u0002 \u0002 J\u0002\nquando está cheio de gasolina, 37 kg quando está cheio\nde etanol e que a densidade da gasolina é sete oitavos da\ndensidade do etanol.",
+    "context": "A massa de um tanque de combustível depende:\nI. da quantidade de combustível nesse tanque;\nII. do tipo de combustível que se utiliza no momento;\nIII. da massa do tanque quando está vazio.\n\nSabe-se que um tanque tem massa igual a 33 kg\nquando está cheio de gasolina, 37 kg quando está cheio\nde etanol e que a densidade da gasolina é sete oitavos da\ndensidade do etanol.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "Qual é a massa, em quilograma, do tanque vazio?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "1,0",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "3,5",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "4,0",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "5,0",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "9,0",
             "file": null,
             "isCorrect": false
         }

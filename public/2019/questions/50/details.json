@@ -4,38 +4,40 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2019/questions/50/9c50ec45-5b46-4afc-8af0-a23ff9763416.png)\n\nA hospitalidade pura consiste em acolher aquele que\nchega antes de lhe impor condições, antes de saber e\nindagar o que quer que seja, ainda que seja um nome ou\num “documento” de identidade. Mas ela também supõe\nque se dirija a ele, de maneira singular, chamando-o\nportanto e reconhecendo-lhe um nome próprio:\n“Como você se chama?” A hospitalidade consiste em\nfazer tudo para se dirigir ao outro, em lhe conceder,\naté mesmo perguntar seu nome, evitando que essa\npergunta se torne uma “condição”, um inquérito policial,\num fichamento ou um simples controle das fronteiras.\nUma arte e uma poética, mas também toda uma política\ndependem disso, toda uma ética se decide aí.\n\nDERRIDA, J. Papel-máquina. São Paulo:\nEstação Liberdade, 2004 (adaptado).",
+    "files": [
+        "https://enem.dev/2019/questions/50/9c50ec45-5b46-4afc-8af0-a23ff9763416.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A hospitalidade pura consiste em acolher aquele que chega antes de lhe impor condições, antes de saber e indagar o que quer que seja, ainda que seja um nome ou um “documento” de identidade. Mas ela também supõe que se dirija a ele, de maneira singular, chamando-o portanto e reconhecendo-lhe um nome próprio: “Como você se chama?” A hospitalidade consiste em fazer tudo para se dirigir ao outro, em lhe conceder, até mesmo perguntar seu nome, evitando que essa pergunta se torne uma “condição”, um inquérito policial, um fichamento ou um simples controle das fronteiras. Uma arte e uma poética, mas também toda uma política dependem disso, toda uma ética se decide aí.\nDERRIDA, J. Papel-máquina. São Paulo: Estação Liberdade, 2004 (adaptado).\n \nAssociado ao contexto migratório contemporâneo, o conceito de hospitalidade proposto pelo autor impõe a necessidade de",
+    "alternativesIntroduction": "Associado ao contexto migratório contemporâneo,\no conceito de hospitalidade proposto pelo autor impõe a\nnecessidade de",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Anulação da diferença.",
+            "text": "anulação da diferença.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Cristalização da biografia.",
+            "text": "cristalização da biografia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Incorporação da alteridade.",
+            "text": "incorporação da alteridade.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "Supressão da comunicação.",
+            "text": "supressão da comunicação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "Verificação da proveniência.",
+            "text": "verificação da proveniência.",
             "file": null,
             "isCorrect": false
         }

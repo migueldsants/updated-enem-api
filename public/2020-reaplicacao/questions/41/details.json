@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "reprodução de estereótipos sociais e de gênero.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "presença de traços marcadores de nacionalidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "sublimação do desejo por meio da espiritualização.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "correlação feita entre estados emocionais e natureza.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "mudança de paradigmas relacionados à sensibilidade.",
             "file": null,
             "isCorrect": false
         }

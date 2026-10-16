@@ -4,38 +4,38 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "A Caxemira foi dominada por dinastias ou imperadores\nhindus, budistas, muçulmanos, mongóis, afegãos, sikhs, até chegar\no Império Britânico. Quando os britânicos saíram, depois de quase\n200 anos, foram criados dois países, um de maioria muçulmana\n(Paquistão) e outro de maioria hindu (Índia). Uma divisão que\nprovocou uma das maiores ondas migratórias da história, com\n15 milhões de muçulmanos, hindus e sikhs fugindo para lados\nopostos. A passagem de poder na Caxemira é até hoje motivo de\ncontrovérsia e a origem do conflito entre os dois países.\n\nDisponível em: https://oglobo.globo.com. Acesso em: 8 set. 2019 (adaptado).\nO conflito mencionado no texto origina-se por questões\nrelacionadas a",
+    "context": "A Caxemira foi dominada por dinastias ou imperadores\nhindus, budistas, muçulmanos, mongóis, afegãos, sikhs, até chegar\no Império Britânico. Quando os britânicos saíram, depois de quase\n200 anos, foram criados dois países, um de maioria muçulmana\n(Paquistão) e outro de maioria hindu (Índia). Uma divisão que\nprovocou uma das maiores ondas migratórias da história, com\n15 milhões de muçulmanos, hindus e sikhs fugindo para lados\nopostos. A passagem de poder na Caxemira é até hoje motivo de\ncontrovérsia e a origem do conflito entre os dois países.\n\nDisponível em: https://oglobo.globo.com. Acesso em: 8 set. 2019 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": null,
+    "alternativesIntroduction": "O conflito mencionado no texto origina-se por questões\nrelacionadas a",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "grupos religiosos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "recursos minerais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "castas sociais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "energias renováveis.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "comunidades tribais.",
             "file": null,
             "isCorrect": false
         }

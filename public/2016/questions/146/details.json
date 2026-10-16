@@ -4,38 +4,38 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
-    "context": null,
+    "context": "Uma pessoa comercializa picolés. No segundo dia de\ncerto evento ela comprou 4 caixas de picolés, pagando\nR$ 16,00 a caixa com 20 picolés para revendê-los no\nevento. No dia anterior, ela havia comprado a mesma\nquantidade de picolés, pagando a mesma quantia, e\nobtendo um lucro de R$ 40,00 (obtido exclusivamente\npela diferença entre o valor de venda e o de compra dos\npicolés) com a venda de todos os picolés que possuía.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Para atingir seu objetivo, e supondo que todos os picolés disponíveis foram vendidos no segundo dia, o valor de venda de cada picolé, no segundo dia, deve ser",
+    "alternativesIntroduction": "Pesquisando o perfil do público que estará presente\nno evento, a pessoa avalia que será possível obter um\nlucro 20% maior do que o obtido com a venda no primeiro\ndia do evento.\nPara atingir seu objetivo, e supondo que todos os picolés\ndisponíveis foram vendidos no segundo dia, o valor de\nvenda de cada picolé, no segundo dia, deve ser",
     "alternatives": [
         {
             "letter": "A",
-            "text": "R$ 0,96",
+            "text": "R$ 0,96.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "R$ 1,00",
+            "text": "R$ 1,00.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "R$ 1,40",
+            "text": "R$ 1,40.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "R$ 1,50",
+            "text": "R$ 1,50.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "R$ 1,56",
+            "text": "R$ 1,56.",
             "file": null,
             "isCorrect": false
         }

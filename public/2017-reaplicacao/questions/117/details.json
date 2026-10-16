@@ -4,20 +4,22 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
+    "context": "Um estudante construiu um densímetro,\nesquematizado na figura, utilizando um canudinho e\nmassa de modelar. O instrumento foi calibrado com duas\nmarcas de flutuação, utilizando água (marca A) e etanol\n(marca B) como referências.\n\nB\n\nA\n\n![](https://enem.dev/2017-reaplicacao/questions/117/d5257d4a-6686-45c0-85db-5d5e4ac64630.png)\n\nEm seguida, o densímetro foi usado para avaliar cinco\namostras: vinagre, leite integral, gasolina (sem álcool\nanidro), soro fisiológico e álcool comercial (92,8 °GL).",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/117/d5257d4a-6686-45c0-85db-5d5e4ac64630.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Um estudante construiu um densímetro, esquematizado na figura, utilizando um canudinho e massa de modelar. O instrumento foi calibrado com duas marcas de flutuação, utilizando água (marca A) e etanol (marca B) como referências.",
+    "alternativesIntroduction": "Que amostra apresentará marca de flutuação entre os\nlimites A e B?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Em seguida, o densímetro foi usado para avaliar cinco amostras: vinagre, leite integral, gasolina (sem álcool anidro), soro fisiológico e álcool comercial (92,8 °GL). Que amostra apresentará marca de flutuação entre os limites A e B?",
+            "text": "Vinagre.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "Gasolina.",
             "file": null,
             "isCorrect": false
         },

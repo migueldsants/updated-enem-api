@@ -4,38 +4,38 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "A destruição, o transporte e a deposição de\npequenos fragmentos rochosos dependem da direção\ne intensidade com que este agente atua na superfície\nterrestre, sobretudo em regiões áridas e semiáridas, com\npouca presença de vegetação. É nesse ambiente que se\nYHUL¿FD\u0003 R\u0003 FRQVWDQWH\u0003 WUDEDOKR\u0003 GH\u0003 IRUPDomR\u000f\u0003 GHVWUXLomR\u0003 H\u0003\nreconstrução de elevações de areia que recebem o nome\nde dunas.\n\nLEINZ, V.; AMARAL, S. E. Geologia geral. São Paulo: Cia. Editora Nacional, 1995 (adaptado).",
+    "context": "A destruição, o transporte e a deposição de\npequenos fragmentos rochosos dependem da direção\ne intensidade com que este agente atua na superfície\nterrestre, sobretudo em regiões áridas e semiáridas, com\npouca presença de vegetação. É nesse ambiente que se\nverifica o constante trabalho de formação, destruição e\nreconstrução de elevações de areia que recebem o nome\nde dunas.\n\nLEINZ, V.; AMARAL, S. E. Geologia geral. São Paulo: Cia. Editora Nacional, 1995 (adaptado).",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A modelagem do relevo apresentado relaciona-se ao processo de erosão decorrente da ação",
+    "alternativesIntroduction": "A modelagem do relevo apresentado relaciona-se ao\nprocesso de erosão decorrente da ação",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "glacial.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "fluvial.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "eólica.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "pluvial.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "marinha.",
             "file": null,
             "isCorrect": false
         }

@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "descreve ações de resgaste de línguas no país.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "traça o percurso histórico de troncos linguísticos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "incentiva o ensino de línguas e saberes originários no país.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "divulga a criação de espaço dedicado à memória e ao estudo.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "informa sobre a quantidade de línguas extintas ao longo do tempo.",
             "file": null,
             "isCorrect": false
         }

@@ -4,14 +4,16 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Rudolf Diesel patenteou um motor a combustão\ninterna\nde\nelevada\neficiência,\ncujo\nciclo\nestá\nesquematizado no diagrama pressão × volume. O ciclo\nDiesel é composto por quatro etapas, duas das quais\nsão transformações adiabáticas. O motor de Diesel é\ncaracterizado pela compressão de ar apenas, com a\ninjeção do combustível no final.\n\nPressão",
-    "files": [],
+    "context": "Rudolf Diesel patenteou um motor a combustão\ninterna de elevada eficiência, cujo ciclo está\nesquematizado no diagrama pressão × volume. O ciclo\nDiesel é composto por quatro etapas, duas das quais\nsão transformações adiabáticas. O motor de Diesel é\ncaracterizado pela compressão de ar apenas, com a\ninjeção do combustível no final.\n\n![](https://enem.dev/2017-reaplicacao/questions/121/31f32e28-b314-4e98-a4e2-1f6bc0db068d.png)",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/121/31f32e28-b314-4e98-a4e2-1f6bc0db068d.png"
+    ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "B C",
+    "alternativesIntroduction": "No ciclo Diesel, o calor é absorvido em:",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Volume V1 V2 V3 No ciclo Diesel, o calor é absorvido em:",
+            "text": "A → B e C → D, pois em ambos ocorre realização de trabalho.",
             "file": null,
             "isCorrect": false
         },
@@ -29,7 +31,7 @@
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "A → B, pois representa uma compressão adiabática em que ocorre elevação da temperatura.",
             "file": null,
             "isCorrect": false
         },

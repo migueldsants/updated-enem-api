@@ -11,7 +11,7 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": "2 X 128",
+            "text": "2 × 128",
             "file": null,
             "isCorrect": false
         },
@@ -35,7 +35,7 @@
         },
         {
             "letter": "E",
-            "text": "64 + 32 + 16 + 8+ 4 + 2+ 1",
+            "text": "64 + 32 + 16 + 8 + 4 + 2 + 1",
             "file": null,
             "isCorrect": true
         }

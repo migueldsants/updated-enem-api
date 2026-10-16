@@ -11,31 +11,31 @@
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "tanto a escrita quanto a oralidade, atualmente, são modalidades realizadas sempre em tempo real.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "tanto o telefonema quanto o bate-papo virtual são considerados gêneros com características exclusivas da oralidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "enquanto o telefonema exige a presença física dos interlocutores, o bate-papo virtual não apresenta essa característica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "tanto o telefonema quanto o bate-papo virtual mudaram algumas concepções sobre a oralidade e a escrita: essa quanto ao tempo e aquela quanto ao espaço.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "enquanto a conversação não mais exige que os interlocutores estejam no mesmo local graças ao advento do telefone, os bate-papos virtuais não têm mais a escrita como essencial.",
             "file": null,
             "isCorrect": false
         }

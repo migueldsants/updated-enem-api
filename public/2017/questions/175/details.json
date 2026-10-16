@@ -4,39 +4,47 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
-    "context": null,
-    "files": [],
+    "context": "![](https://enem.dev/2017/questions/175/029df796-e795-4a86-b220-7afe9c9634d1.png)\n\n![](https://enem.dev/2017/questions/175/188fb4f5-cbf4-4745-a148-94f92e1509e8.png)\n\nQual a probabilidade de que esta pessoa tenha observado\nexatamente um sinal na cor verde?",
+    "files": [
+        "https://enem.dev/2017/questions/175/029df796-e795-4a86-b220-7afe9c9634d1.png",
+        "https://enem.dev/2017/questions/175/188fb4f5-cbf4-4745-a148-94f92e1509e8.png",
+        "https://enem.dev/2017/questions/175/9c6c9b93-2e86-47f5-9eb3-e48b84919e75.png",
+        "https://enem.dev/2017/questions/175/7cc1be4d-23ed-4191-8746-bdfe79da37d8.png",
+        "https://enem.dev/2017/questions/175/7989e1c5-d40f-4225-85ec-f61219656ffd.png",
+        "https://enem.dev/2017/questions/175/9212d5c0-8652-42ce-8659-b40b3f665b10.png",
+        "https://enem.dev/2017/questions/175/665a2fe6-adea-46a1-9fad-a0cdb95a4872.png"
+    ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "Qual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?",
+    "alternativesIntroduction": "NM × O",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2017/questions/175/76855355-588b-40de-adfa-78c67373b3cd.png",
+            "file": "https://enem.dev/2017/questions/175/9c6c9b93-2e86-47f5-9eb3-e48b84919e75.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2017/questions/175/f0b54cb7-a0b0-4661-a2e2-afda4b8d2135.png",
+            "file": "https://enem.dev/2017/questions/175/7cc1be4d-23ed-4191-8746-bdfe79da37d8.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2017/questions/175/b7396163-6b89-41cf-b08b-473d800ef585.png",
+            "file": "https://enem.dev/2017/questions/175/7989e1c5-d40f-4225-85ec-f61219656ffd.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2017/questions/175/486162c7-f43b-49a2-9476-dddf8af7bdf4.png",
+            "file": "https://enem.dev/2017/questions/175/9212d5c0-8652-42ce-8659-b40b3f665b10.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2017/questions/175/744d3069-d18a-4930-9697-45171bee53b2.png",
+            "file": "https://enem.dev/2017/questions/175/665a2fe6-adea-46a1-9fad-a0cdb95a4872.png",
             "isCorrect": false
         }
     ]

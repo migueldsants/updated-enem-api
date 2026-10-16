@@ -4,38 +4,40 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Radionuclídeos são utilizados para a obtenção de imagens\nmédicas de diferentes órgãos do corpo humano. No processo\nde geração de imagem, o radionuclídeo sofre desintegração\ncom emissão de radiação. O tempo dessa desintegração deve\nser suficiente para que haja acúmulo do radionuclídeo no órgão\nque se pretende examinar, e para que corresponda a cerca de\numa vez e meia (1,5 ×) o tempo de duração do exame. Para se\nobterem imagens de um órgão num exame que tem duração\nde 4 horas, é necessário selecionar um radionuclídeo dentre\nos cinco apresentados no quadro.\n\nRadionuclídeo\ntempo de meia-vida\n\n13N\n10 min\n\n18F\n110 min\n\n64Cu\n13 h\n\n99Tc\n6,0 h\n\n124I\n4,2 d\n\nOLIVEIRA, R. et al. Preparações radiofarmacêuticas e suas aplicações.\n\nRev. Bras. Ciênc. Farm., n. 2, 2006 (adaptado).",
-    "files": [],
+    "context": "Radionuclídeos são utilizados para a obtenção de imagens\nmédicas de diferentes órgãos do corpo humano. No processo\nde geração de imagem, o radionuclídeo sofre desintegração\ncom emissão de radiação. O tempo dessa desintegração deve\nser suficiente para que haja acúmulo do radionuclídeo no órgão\nque se pretende examinar, e para que corresponda a cerca de\numa vez e meia (1,5 ×) o tempo de duração do exame. Para se\nobterem imagens de um órgão num exame que tem duração\nde 4 horas, é necessário selecionar um radionuclídeo dentre\nos cinco apresentados no quadro.\n\n![](https://enem.dev/2025-reaplicacao/questions/102/06c5360e-a11b-4702-920f-6de8aab8a678.png)\n\nOLIVEIRA, R. et al. Preparações radiofarmacêuticas e suas aplicações.\nRev. Bras. Ciênc. Farm., n. 2, 2006 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/102/06c5360e-a11b-4702-920f-6de8aab8a678.png"
+    ],
     "correctAlternative": "D",
     "alternativesIntroduction": "Qual é o radionuclídeo adequado para a obtenção dessas imagens?",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "¹³N",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": null,
+            "text": "¹⁸F",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "⁶⁴Cu",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "⁹⁹Tc",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "¹²⁴I",
             "file": null,
             "isCorrect": false
         }

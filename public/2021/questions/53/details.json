@@ -6,20 +6,20 @@
     "discipline": "ciencias-humanas",
     "context": "Famoso por ser o encantador de viúvas da cidade de Cabaceiras, na Paraíba, Zé de Sila é um contador de histórias parecido com o personagem Chicó, do Auto da Compadecida. Ele defende veementemente que a oração da avó sustentava mais a chuva. “Quando era pequeno e  \nchovia por aqui, ajudava minha avó colocando os pratos emborcados no terreiro para diminuir o vento. Ela fazia isso e rezava para a chuva durar mais”, diz Zé de Sila.\n\nGALDINO, V.; BARBOSA, R. C. **Artistas por um dia**?  \nJoão Pessoa: Editora Universitária, 2009.",
     "files": [],
-    "correctAlternative": "A",
+    "correctAlternative": "B",
     "alternativesIntroduction": "A destacar expressões e vivências populares do\ncotidiano, o texto mobiliza os seguintes aspectos da\ndiversidade regional:",
     "alternatives": [
         {
             "letter": "A",
             "text": "Alianças afetivas conectadas a ritual matrimonial. B Práticas místicas associadas a patrimônio cultural. © Manifestações teatrais atreladas a imaginário político. d Narrativas filmicas relacionadas às intempéries climáticas. © Argumentações literárias interligadas às catástrofes ambientais.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "B",
             "text": "Práticas místicas associadas a patrimônio cultural. Manifestações teatrais atreladas a imaginário político. d Narrativas filmicas relacionadas às intempéries climáticas. © Argumentações literárias interligadas às catástrofes ambientais.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "C",

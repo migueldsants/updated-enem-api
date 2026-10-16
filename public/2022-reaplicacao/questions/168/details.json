@@ -4,38 +4,42 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma empresa de publicidade está criando um\nlogotipo que tem o formato indicado na figura. O círculo\nmenor está inscrito no quadrado ABCD, e o círculo maior\ncircunscreve o mesmo quadrado. Considere S1 a área do\ncírculo menor e S2 a área do círculo maior.",
-    "files": [],
+    "context": "Uma empresa de publicidade está criando um\nlogotipo que tem o formato indicado na figura. O círculo\nmenor está inscrito no quadrado ABCD, e o círculo maior\ncircunscreve o mesmo quadrado. Considere S1 a área do\ncírculo menor e S2 a área do círculo maior.\n\nA D\n\n![](https://enem.dev/2022-reaplicacao/questions/168/da452acb-4179-432e-adf5-4626ec4ffb14.png)\n\nB C",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/168/da452acb-4179-432e-adf5-4626ec4ffb14.png",
+        "https://enem.dev/2022-reaplicacao/questions/168/94603152-c4e1-4fee-84c6-1aa8c478bc9b.png",
+        "https://enem.dev/2022-reaplicacao/questions/168/5aa4313f-a6cb-4374-99e9-a115192cfa18.png"
+    ],
     "correctAlternative": "C",
-    "alternativesIntroduction": "D",
+    "alternativesIntroduction": "A razão da área do círculo maior para o círculo menor é\nigual a",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/168/94603152-c4e1-4fee-84c6-1aa8c478bc9b.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2022-reaplicacao/questions/168/5aa4313f-a6cb-4374-99e9-a115192cfa18.png",
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": null,
+            "text": "2",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": null,
+            "text": "8",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "16",
             "file": null,
             "isCorrect": false
         }

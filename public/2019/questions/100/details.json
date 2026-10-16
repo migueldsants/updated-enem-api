@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2019",
+    "index": 100,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2019/questions/100/9583bd2a-81a2-45ac-8006-55cf068e9cba.png)\n\nUm alimento orgânico deve apresentar em sua\nembalagem o selo de uma instituição certificadora,\ngarantindo ao consumidor que, além de ser um alimento\nisento de agrotóxicos, também é produzido com técnicas\nplanejadas e controladas. A técnica de produção desses\nalimentos causa menor impacto aos recursos naturais,\ncontribuindo para melhorar a qualidade de vida das\npessoas.",
+    "files": [
+        "https://enem.dev/2019/questions/100/9583bd2a-81a2-45ac-8006-55cf068e9cba.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nesse sistema de produção de alimentos vegetais, o\ncontrole de insetos é manejado por meio do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "prática de adubação verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "emprego da compostagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controle da irrigação do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilização de predadores naturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "uso de sementes inoculadas com oÜáòçÄáìã.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

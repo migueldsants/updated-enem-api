@@ -6,38 +6,41 @@
     "discipline": "matematica",
     "context": "Uma caneca com água fervendo é retirada de um\nforno de micro-ondas. A temperatura T, em grau Celsius,\nda caneca, em função do tempo t, em minuto, pode ser\nmodelada pela função T(t) = a + 80 bt, representada no\ngráfico a seguir.\n\n![](https://enem.dev/2024/questions/148/39493b80-f70d-478f-bb80-9286e7fb4220.png)",
     "files": [
-        "https://enem.dev/2024/questions/148/39493b80-f70d-478f-bb80-9286e7fb4220.png"
+        "https://enem.dev/2024/questions/148/39493b80-f70d-478f-bb80-9286e7fb4220.png",
+        "https://enem.dev/2024/questions/148/bae21e16-4797-4857-b0e8-395559a5ba1c.png",
+        "https://enem.dev/2024/questions/148/c40888d2-78a3-4eb3-8d98-61a59899a897.png",
+        "https://enem.dev/2024/questions/148/7de33d3d-191a-489c-82e1-a3c3cdec1df6.png"
     ],
     "correctAlternative": "C",
     "alternativesIntroduction": "Os valores das constantes a e b são",
     "alternatives": [
         {
             "letter": "A",
-            "text": null,
+            "text": "a = 20; b = log(0,5)",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/148/bae21e16-4797-4857-b0e8-395559a5ba1c.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/148/c40888d2-78a3-4eb3-8d98-61a59899a897.png",
             "isCorrect": true
         },
         {
             "letter": "D",
             "text": null,
-            "file": null,
+            "file": "https://enem.dev/2024/questions/148/7de33d3d-191a-489c-82e1-a3c3cdec1df6.png",
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": null,
+            "text": "a = 20; b = 40",
             "file": null,
             "isCorrect": false
         }
