@@ -1,0 +1,49 @@
+{
+    "title": "Questão 93 - ENEM 2022 - Digital",
+    "index": 93,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias\ndoenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7.\nA penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos\nfuncionais que podem ser ionizados:\n\ncarboxila: —COOH, cujo pK_a é igual a 1,8;\namino: —NH , que pode ser convertido em amínio (—NH₂₃⁺, cujo pK_a é igual a 7,9);\ntiol: —SH, cujo pK_a é igual a 10,5.\n\nSabe-se que pK_a= −log K_a.\n\nCH H\n\n![](https://enem.dev/2022-digital/questions/93/3750e992-6696-4ff3-979d-0c073094dccb.png)\n\nCH NH\n\n3 2\n\nPenicilamina\n\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+    "files": [
+        "https://enem.dev/2022-digital/questions/93/3750e992-6696-4ff3-979d-0c073094dccb.png",
+        "https://enem.dev/2022-digital/questions/93/36b121d8-69bf-4645-8a67-7bf08492dc8e.png",
+        "https://enem.dev/2022-digital/questions/93/c151e6fc-8416-4737-bac6-f80de0d85fb7.png",
+        "https://enem.dev/2022-digital/questions/93/382bdf4a-1d26-4599-8009-36603bf7b648.png",
+        "https://enem.dev/2022-digital/questions/93/7e563b58-0650-4730-8731-92ed5c04a040.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "CH H",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/93/36b121d8-69bf-4645-8a67-7bf08492dc8e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/93/c151e6fc-8416-4737-bac6-f80de0d85fb7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CH H",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/93/382bdf4a-1d26-4599-8009-36603bf7b648.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/93/7e563b58-0650-4730-8731-92ed5c04a040.png",
+            "isCorrect": false
+        }
+    ]
+}

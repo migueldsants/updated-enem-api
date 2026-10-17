@@ -1,0 +1,45 @@
+{
+    "title": "Questão 128 - ENEM 2020 - Digital",
+    "index": 128,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O reagente conhecido como Kastle-Meyer é muito utilizado por investigadores criminais\npara detectar a presença de sangue. Trata-se de uma solução aquosa incolor, preparada com\nzinco metálico, hidróxido de sódio (Reação 1) e indicador (Reação 2). Essa solução, quando\nem contato com a hemoglobina contida no sangue e na presença de água oxigenada (Reação\n3), passa de incolor para vermelha, indicando a presença de sangue no local, conforme as\nreações descritas.\n\n![](https://enem.dev/2020-digital/questions/128/e10df7b5-2a07-4268-b3f5-b9f39be785b3.png)\n\nDIAS FILHO, C. R.; ANTEDOMENICO, E. A perícia criminal e a interdisciplinaridade no ensino de ciências naturais.\nQuímica Nova na Escola, n. 2, maio 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/128/e10df7b5-2a07-4268-b3f5-b9f39be785b3.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A mudança de coloração que indica a presença de sangue ocorre por causa da reação do\nindicador com o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sal de Na2[Zn(OH)4] na presença de hemoglobina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "água produzida pela decomposição da água oxigenada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "hemoglobina presente na reação com a água oxigenada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "gás oxigênio produzido pela decomposição da água oxigenada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "gás hidrogênio produzido na reação do zinco com hidróxido de sódio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

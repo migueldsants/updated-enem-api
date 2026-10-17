@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 138,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jogador de videogame tem quatro personagens com\ndiferentes habilidades para avançar no jogo. Para uma missão,\né apresentado um quadro que descreve os níveis de cada\npersonagem em suas diferentes habilidades, no qual 10 é o\nmaior nível de qualquer habilidade. O jogador sabe que, para\navançar nessa missão, deve escolher um personagem cuja\nmédia entre os níveis de suas diferentes habilidades seja igual\n\n![](https://enem.dev/2025-belem/questions/138/742e44b1-1ac6-4f7b-81d3-eda772e68e9b.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/138/742e44b1-1ac6-4f7b-81d3-eda772e68e9b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com as informações apresentadas, os possíveis\npersonagens para avançar nessa missão são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "I e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 22 - ENEM 2013 - Reaplicação",
+    "index": 22,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/22/70d91b7f-e712-4997-b092-4cc7fbe89136.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/22/abaa159f-0ac3-453f-8318-b6d99fb1da9c.png)\n\nDisponível em: www.estadao.com.br. Acesso em: 3 dez. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/22/70d91b7f-e712-4997-b092-4cc7fbe89136.png",
+        "https://enem.dev/2013-reaplicacao/questions/22/abaa159f-0ac3-453f-8318-b6d99fb1da9c.png",
+        "https://enem.dev/2013-reaplicacao/questions/22/b8040d87-150e-4087-913e-45457bf313cd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nos mapas, está representada a região dos Bálcãs, em\ndois momentos do século XX. Uma causa para a mudança\ngeopolítica representada foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adoção do euro como moeda única.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "suspensão do apoio econômico soviético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "intervenção internacional liderada pela Otan.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "intensificação das tensões étnicas regionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/22/b8040d87-150e-4087-913e-45457bf313cd.png",
+            "isCorrect": false
+        }
+    ]
+}

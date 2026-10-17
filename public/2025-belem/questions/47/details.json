@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 47,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Para os gregos, forçar alguém mediante violência, ordenar\nao invés de persuadir, eram modos pré-políticos de lidar com\nas pessoas, típicos da vida fora da polis, característicos do lar\ne da vida em família, na qual o chefe da casa imperava com\npoderes incontestes e despóticos.\n\nARENDT, H. A condição humana. São Paulo: Perspectiva, 2004.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A filósofa alemã Hannah Arendt analisa uma noção de poder\nsustentada pelo vínculo entre a autoridade e a violência para\ncriticar tendências que se baseiam no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "força coercitiva das leis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "arbítrio individual do governante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "monitoramento coletivo dos cidadãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "imposição constritiva dos argumentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "obediência aos mecanismos de repressão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2012 - Reaplicação",
+    "index": 79,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisadores conseguiram produzir grafita\nmagnética por um processo inédito em forno com\natmosfera controlada e em temperaturas elevadas.\nNo forno são colocados grafita comercial em pó e\nóxido metálico, tal como CuO. Nessas condições, o\nóxido é reduzido e ocorre a oxidação da grafita, com\na introdução de pequenos defeitos, dando origem à\npropriedade magnética do material.\n\nVASCONCELOS, Y. Um ímã diferente. Disponível em: http://revistapesquisa.fapesp.br.\nAcesso em: 24 fev. 2012 (adaptado).\n\nConsiderando o processo descrito com um rendimento de\n100%, 8 g de CuO produzirão uma massa de CO₂ igual a",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dados: Massa molar em g/mol: C = 12; O = 16; Cu = 64",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,2 g.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2,8 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,7 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,4 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,5 g.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

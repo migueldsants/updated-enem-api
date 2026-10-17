@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2020 - Digital",
+    "index": 24,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Assim, está nascendo dentro da língua portuguesa, e provavelmente dentro de todas as\ndemais línguas, uma nova linguagem, a linguagem radiofônica. Como a dos engenheiros,\ncomo a dos gatunos, como a dos amantes, como a usada pela mãe com o filho que ainda não\nfala, essa linguagem radiofônica tem suas características próprias determinadas por\nexigências ecológicas e técnicas.\n\nANDRADE, M.apud PINTO, E. P. O português do Brasil. São Paulo: Edusp, 1981.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Mário de Andrade, ao se referir ao impacto que o rádio teria nas pessoas e principalmente\nsobre a linguagem, possibilita uma reflexão acerca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "das relações sociais específicas da sociedade da época.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da relação entre o meio e o contexto social de enunciação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "do nascimento das línguas a partir de exigências sociais específicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "das demais línguas do mundo, por possuírem características em comum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da especificidade da linguagem radiofônica, em detrimento de outras linguagens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2014 - Reaplicação",
+    "index": 56,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um engenheiro decidiu instalar um aquecedor solar em sua casa, conforme mostra o esquema.\n\n![](https://enem.dev/2014-reaplicacao/questions/56/9a808cfc-d050-4755-b54e-21c8bcd5a6e8.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/56/9a808cfc-d050-4755-b54e-21c8bcd5a6e8.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com as instruções de montagem, para se ter um aproveitamento máximo da incidência solar, as placas\ndo coletor solar devem ser instaladas com um ângulo de inclinação determinado.\nO parâmetro que define o valor do ângulo de inclinação dessas placas coletoras é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "altitude.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "latitude.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "longitude.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nebulosidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "umidade relativa do ar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

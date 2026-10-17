@@ -1,0 +1,46 @@
+{
+    "title": "Questão 164 - ENEM 2013 - Reaplicação",
+    "index": 164,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma dona de casa vai ao supermercado fazer a\ncompra mensal. Ao concluir a compra, observa que\nainda lhe restaram R$ 88,00. Seus gastos foram\ndistribuídos conforme mostra o gráfico. As porcentagens\napresentadas no gráfico são referentes ao valor total, em\nreais, reservado para a compra mensal.\n\n![](https://enem.dev/2013-reaplicacao/questions/164/80c71269-d2ba-469c-a33d-811d08607853.png)\n\n% gasta em cada tipo de produto0\n\nCarnes e Produto de Frutas e Massas e\nembutidos limpeza verduras enlatados\nTipo de produto",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/164/80c71269-d2ba-469c-a33d-811d08607853.png",
+        "https://enem.dev/2013-reaplicacao/questions/164/265864b5-3a58-4245-8ea0-08eca3586d0e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual o valor total, em reais, reservado por essa dona de\ncasa para a compra mensal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "106,80",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "170,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "412,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "500,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/164/265864b5-3a58-4245-8ea0-08eca3586d0e.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2020 - Digital",
+    "index": 149,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa deseja construir um edifício residencial de 12 pavimentos, num lote\nretangular de lados medindo 22 e 26 m. Em 3 dos lados do lote serão construídos muros. A\nfrente do prédio será sobre o lado do lote de menor comprimento. Sabe-se que em cada\npavimento 32 m serão destinados à área comum (hall de entrada, elevadores e escada), e o\nrestante da área será destinado às unidades habitacionais. A legislação vigente exige que\nprédios sejam construídos mantendo distâncias mínimas dos limites dos lotes onde se\nencontram. Em obediência à legislação, o prédio ficará 5 m afastado da rua onde terá sua\nentrada, 3 m de distância do muro no fundo do lote e 4 m de distância dos muros nas laterais\ndo lote, como mostra a figura.\n\n![](https://enem.dev/2020-digital/questions/149/f4424409-1a09-493f-8ff9-0af2c19db2f2.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/149/f4424409-1a09-493f-8ff9-0af2c19db2f2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A área total, em metro quadrado, destinada às unidades habitacionais desse edifício será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 640.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3 024.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 840.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6 480.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 864.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

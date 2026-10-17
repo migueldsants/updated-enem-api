@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2020 - Digital",
+    "index": 38,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Leia a posteridade, ó pátrio Rio,\nEm meus versos teu nome celebrado,\nPor que vejas uma hora despertado\nO sono vil do esquecimento frio:\n\nNão vês nas tuas margens o sombrio,\nFresco assento de um álamo copado;\nNão vês ninfa cantar, pastar o gado\nNa tarde clara do calmoso estio.\n\nTurvo banhando as pálidas areias\nNas porções do riquíssimo tesouro\nO vasto campo da ambição recreias.\n\nQue de seus raios o planeta louro\nEnriquecendo o influxo em tuas veias,\nQuanto em chamas fecunda, brota em ouro.\n\nCOSTA, C. M. Obras poéticas de Glauceste Satúrnio.\nDisponível em: www.dominiopublico.gov.br. Acesso em: 8 out. 2015.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A concepção árcade de Cláudio Manuel da Costa registra sinais de seu contexto histórico,\nrefletidos no soneto por um eu lírico que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "busca o seu reconhecimento literário entre as gerações futuras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contempla com sentimento de cumplicidade a natureza e o pastoreio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "lamenta os efeitos produzidos pelos atos de cobiça e pela indiferença.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "encontra na simplicidade das imagens a expressão do equilíbrio e da razão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recorre a elementos mitológicos da cultura clássica como símbolos da terra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

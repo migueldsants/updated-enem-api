@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2020 - Digital",
+    "index": 69,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A redução do valor da aposentadoria se deve ao fator previdenciário, mecanismo utilizado\npelo INSS para tentar adiar a aposentadoria dos trabalhadores mais jovens, penalizando quem\nse aposenta mais cedo, já que esse segurado, teoricamente, vai receber o benefício por mais\ntempo.\n\nRESENDE, T. Disponível em: http://ieprev.com.br. Acesso em: 25 out. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Políticas previdenciárias como a apresentada no texto têm sido justificadas com base na\ndinâmica populacional de aumento da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fuga de cérebros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "taxa de natalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "expectativa de vida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "proporção de adultos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "imigração de refugiados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

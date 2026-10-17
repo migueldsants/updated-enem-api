@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2020 - Digital",
+    "index": 117,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os materiais são classificados pela sua natureza química e estrutural, e as diferentes\naplicações requerem características específicas, como a condutibilidade térmica, quando são\nutilizados, por exemplo, em utensílios de cozinha. Assim, os alimentos são acondicionados em\nrecipientes que podem manter a temperatura após o preparo. Considere a tabela, que\napresenta a condutibilidade térmica ( ) de diferentes materiais utilizados na confecção de\npanelas.\n\n![](https://enem.dev/2020-digital/questions/117/a268061e-7dae-42be-9d72-601e60b49848.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/117/a268061e-7dae-42be-9d72-601e60b49848.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual dos materiais é o recomendado para manter um alimento aquecido por um maior\nintervalo de tempo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

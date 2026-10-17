@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2020 - Digital",
+    "index": 70,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Mesmo com a instalação da quarta emissora no Rio de Janeiro, a Rádio Educadora, em\njaneiro de 1927, a música popular ainda não desfrutava desse meio de comunicação para se\ntornar mais conhecida. Renato Murce, um dos maiores radialistas de todos os tempos,\nregistrou, no seu livro Nos bastidores do rádio, que as emissoras veiculavam apenas “um certo\ntipo de cultura, com uma programação quase só da chamada música erudita, conferências\nmaçantes e palestras destituídas de interesse”. E acrescentou: “Nada de música popular. Em\nsamba, então, nem era bom falar”.\n\nCABRAL, S. A MPB na Era do Rádio. São Paulo: Moderna, 1996.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A situação descrita no texto alterou-se durante o regime do Estado Novo, porque o meio de\ncomunicação foi instrumentalizado para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exportar as manifestações folclóricas nacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ampliar o alcance da propaganda político-ideológica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "substituir as comemorações cívicas espontâneas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "atender às demandas das elites oligárquicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "favorecer o espaço de mobilização social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

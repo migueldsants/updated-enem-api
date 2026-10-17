@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2015 - Reaplicação",
+    "index": 118,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O peru de Natal\n\nO nosso primeiro Natal de família, depois da\nmorte de meu pai acontecida cinco meses antes, foi\n\n![](https://enem.dev/2015-reaplicacao/questions/118/7e206520-32f9-4845-b527-ff282e25957f.png)\n\nde consequências decisivas para a felicidade familiar.\nNós sempre fôramos familiarmente felizes, nesse\nsentido muito abstrato da felicidade: gente honesta, sem\ncrimes, lar sem brigas internas nem graves dificuldades\neconômicas. Mas, devido principalmente à natureza\ncinzenta de meu pai, ser desprovido de qualquer lirismo,\nduma exemplaridade incapaz, acolchoado no medíocre,\nsempre nos faltara aquele aproveitamento da vida,\naquele gosto pelas felicidades materiais, um vinho bom,\numa estação de águas, aquisição de geladeira, coisas\nassim. Meu pai fora de um bom errado, quase dramático,\no puro-sangue dos desmancha-prazeres.\n\nANDRADE, M. In: MORICONI, I. Os cem melhores contos brasileiros do século.\nSão Paulo: Objetiva, 2000 (fragmento).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/118/7e206520-32f9-4845-b527-ff282e25957f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No fragmento do conto de Mário de Andrade, o tom\nconfessional do narrador em primeira pessoa revela uma\nconcepção das relações humanas marcada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "distanciamento de estados de espírito acentuado pelo papel das gerações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "relevância dos festejos religiosos em família na sociedade moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "preocupação econômica em uma sociedade urbana em crise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "consumo de bens materiais por parte de jovens, adultos e idosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pesar e reação de luto diante da morte de um familiar querido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2014 - Terceira aplicação",
+    "index": 126,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "É possível ter cãibras no coração?\n\nÉ impossível ter cãibras no coração, apesar de ser comum pacientes se queixarem de dores semelhantes a\numa contratura no órgão. A musculatura cardíaca é diferente da musculatura esquelética das pernas e braços, onde\nsentimos as cãibras. Isso porque o coração possui um tipo especial de fibra muscular estriada, que tem movimento\ninvoluntário. O órgão contrai e relaxa automaticamente. Não há registro de casos em que ele permaneça contraído\nsem relaxamento imediato, que é como a cãibra se apresenta.\n\nDisponível em: http://super.abril.com.br. Acesso em: 30 jun. 2012 fragmento .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/126/565bffee-1ca0-4ecf-bf84-d71df18520d7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os conectivos são elementos fundamentais para a ligação de palavras e orações no texto. Contextualmente, o\nconectivo “apesar de” ℓ. 1 expressa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "explicação, porque apresenta os motivos que impossibilitam o aparecimento de cãibras no coração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "concessão, pois introduz uma ideia contrária à afirmação “é impossível ter cãibras no coração”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "causa, tendo em vista que introduz a razão da manifestação da doença no coração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conclusão, já que finaliza a afirmação “é impossível ter cãibras no coração”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/126/565bffee-1ca0-4ecf-bf84-d71df18520d7.png",
+            "isCorrect": false
+        }
+    ]
+}

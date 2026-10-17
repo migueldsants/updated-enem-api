@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2016 - Reaplicação",
+    "index": 76,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Combustíveis automotivos têm sido adulterados\npela adição de substâncias ou materiais de baixo valor\ncomercial. Esse tipo de contravenção pode danificar os\nmotores, aumentar o consumo de combustível e prejudicar\no meio ambiente. Vários testes laboratoriais podem ser\nutilizados para identificar se um combustível está ou\nnão adulterado. A legislação brasileira estabelece que\no diesel, obtido do petróleo, contenha certa quantidade\nde biodiesel. O quadro apresenta valores de quatro\npropriedades do diesel, do biodiesel e do óleo vegetal,\num material comumente utilizado como adulterante.\n\n![](https://enem.dev/2016-reaplicacao/questions/76/70ee92f0-43e3-43dd-b063-6386f2da8125.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/76/70ee92f0-43e3-43dd-b063-6386f2da8125.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nas informações apresentadas no quadro, quais\nsão as duas propriedades que podem ser empregadas\ntecnicamente para verificar se uma amostra de diesel\ncomercial está ou não adulterada com óleo vegetal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Densidade e viscosidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Teor de enxofre e densidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Viscosidade e teor de enxofre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Viscosidade e poder calorífico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Poder calorífico e teor de enxofre.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2016 - Segunda aplicação",
+    "index": 117,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/117/69713a6d-2136-4ea9-a9b7-049361418b0d.png)\n\nRIC. Disponível em: www.nanquim.com.br. Acesso em: 8 dez. 2012.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/117/69713a6d-2136-4ea9-a9b7-049361418b0d.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto faz referência aos sistemas de comunicação\ne informação. A crítica feita a uma das ferramentas\nmidiáticas se fundamenta na falta de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "opinião dos leitores nas redes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "recursos tecnológicos nas empresas jornalísticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "instantaneidade na divulgação da notícia impressa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "credibilidade das informações veiculadas nos blogs.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "adequação da linguagem jornalística ao público jovem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

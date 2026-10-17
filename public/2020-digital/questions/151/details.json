@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2020 - Digital",
+    "index": 151,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um agricultor sabe que a colheita da safra de soja será concluída em 120 dias caso\nutilize, durante 10 horas por dia, 20 máquinas de\nhora. Com o objetivo de diminuir o tempo de colheita, esse agricultor optou por utilizar\nmáquinas de um novo modelo, que operam 12 horas por dia e colhem 4 hectares por hora.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantas máquinas do novo modelo ele necessita adquirir para que consiga efetuar a colheita\nda safra em 100 dias?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "58",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

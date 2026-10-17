@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2012 - Reaplicação",
+    "index": 22,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O homem natural é tudo para si mesmo; é a unidade\nnumérica, o inteiro absoluto, que só se relaciona consigo\nmesmo ou com seu semelhante. O homem civil é apenas\numa unidade fracionária que se liga ao denominador, e\ncujo valor está em sua relação com o todo, que é o corpo\nsocial. As boas instituições sociais são as que melhor\nsabem desnaturar o homem, retirar-lhe sua existência\nabsoluta para dar-lhe uma relativa, e transferir o eu para\na unidade comum, de sorte que cada particular não se\njulgue mais como tal, e sim como uma parte da unidade,\ne só seja percebido no todo.\n\nROUSSEAU, J. J. Emílio ou da Educação. São Paulo: Martins Fontes, 1999.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A visão de Rousseau em relação à natureza humana,\nconforme expressa o texto, diz que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o homem civil é formado a partir do desvio de sua própria natureza.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "as instituições sociais formam o homem de acordo com a sua essência natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o homem civil é um todo no corpo social, pois as instituições sociais dependem dele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o homem é forçado a sair da natureza para se tornar absoluto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as instituições sociais expressam a natureza humana, pois o homem é um ser político.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

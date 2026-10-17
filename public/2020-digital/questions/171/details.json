@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2020 - Digital",
+    "index": 171,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na última eleição para a presidência de um clube, duas chapas se inscreveram (I e II). Há\ndois tipos de sócio: patrimoniais e contribuintes. Votos de sócios patrimoniais têm peso 0,6 e\nde sócios contribuintes têm peso 0,4. A chapa I recebeu 850 votos de sócios patrimoniais e 4\n300 de sócios contribuintes; a chapa II recebeu 1 300 votos de sócios patrimoniais e 2 120 de\nsócios contribuintes. Não houve abstenções, votos em branco ou nulos, e a chapa I foi\nvencedora. Haverá uma nova eleição para a presidência do clube, com o mesmo número e\ntipos de sócios, e as mesmas chapas da eleição anterior. Uma consulta feita pela chapa II\nmostrou que os sócios patrimoniais não mudarão seus votos, e que pode contar com os votos\ndos sócios contribuintes da última eleição. Assim, para que vença, será necessária uma\ncampanha junto aos sócios contribuintes com o objetivo de que mudem seus votos para a\nchapa II.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A menor quantidade de sócios contribuintes que precisam trocar seu voto da chapa I para a\nchapa II para que esta seja vencedora é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "449.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "753.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "866.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "941.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 091.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 125,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O tipo predominante de excreta que um grupo animal produz está relacionado com o ambiente onde ele vive. Nesse contexto,\nos animais podem ser classificados em amoniotélicos, ureotélicos e uricotélicos, de acordo com o principal resíduo nitrogenado\nque produzem.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é o fator ambiental que determina o tipo de resíduo a ser eliminado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fonte energética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quantidade de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abundância de alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Disponibilidade de água.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

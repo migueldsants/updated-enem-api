@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2022 - Digital",
+    "index": 112,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de alunos realizou um experimento para observar algumas propriedades\ndos ácidos, adicionando um pedaço de mármore (CaCO ) a uma solução aquosa de3\nácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\n![](https://enem.dev/2022-digital/questions/112/ffc31c4d-fbc1-4f49-b61c-6b1efcd6e355.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/112/ffc31c4d-fbc1-4f49-b61c-6b1efcd6e355.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O gás obtido no experimento é o:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CO2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "CO",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cl2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

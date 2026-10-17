@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2012 - Reaplicação",
+    "index": 83,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para afinar um violão, um músico necessita de\numa nota para referência, por exemplo, a nota Lá em\num piano. Dessa forma, ele ajusta as cordas do violão\naté que ambos os instrumentos toquem a mesma nota.\nMesmo ouvindo a mesma nota, é possível diferenciar o\nsom emitido pelo piano e pelo violão.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa diferenciação é possível, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ressonância do som emitido pelo piano é maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a potência do som emitido pelo piano é maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a intensidade do som emitido por cada instrumento é diferente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o timbre do som produzido por cada instrumento é diferente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a amplitude do som emitido por cada instrumento é diferente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

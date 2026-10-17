@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2013 - Reaplicação",
+    "index": 58,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Se dermos uma mordida em um pedaço de papel\nalumínio colocado em cima de uma obturação de\namálgama (combinação do mercúrio metálico com metais\ne/ou ligas metálicas), sentiremos uma dor causada por\numa corrente que pode chegar até 30 μA.\n\nSILVA, R. R. et al. Química Nova na Escola, São Paulo, n. 13, maio 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O contato dos materiais metálicos citados produz",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma pilha, cujo fluxo de elétrons é espontâneo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "uma eletrólise, cujo fluxo de elétrons não é espontâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "uma solução eletrolítica, cujo fluxo de elétrons é espontâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "um sistema galvânico, cujo fluxo de elétrons não é espontâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "um sistema eletrolítico, cujo fluxo de elétrons não é espontâneo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2022 - Digital",
+    "index": 82,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2022-digital/questions/82/14139e0d-ec57-44a0-b6eb-ec77b69cf9b5.png)\n\nGeoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/82/14139e0d-ec57-44a0-b6eb-ec77b69cf9b5.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O mapa espacializa um recurso natural com alto potencial para ocorrência de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Abalos sísmicos periódicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Jazidas de minerais metálicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Reservas de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aquíferos sedimentares profundos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estruturas geológicas metamórficas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

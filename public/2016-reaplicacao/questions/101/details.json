@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2016 - Reaplicação",
+    "index": 101,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A palavra e a imagem têm o poder de criar\ne destruir, de prometer e negar. A publicidade se\nvale deste recurso linguístico-imagético como seu\nprincipal instrumento. Vende a ficção como o real,\n5 o normal como algo fantástico; transforma um carro\n\nem um símbolo de prestígio social, uma cerveja em\numa loira bonita, e um cidadão comum num astro\nou estrela, bastando tão somente utilizar o produto\nou serviço divulgado. Assim, fazer o banal tornar-se\n10 o ideal é tarefa ordinária da linguagem publicitária.\n\nALMEIDA, W. M. A linguagem publicitária e o estrangeirismo.\nLíngua Portuguesa, n. 35, jan. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Alguns elementos linguísticos estabelecem relações entre\nas diferentes partes do texto. Nesse texto, o vocábulo\n“Assim” (ℓ. 9) tem a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contrariar os argumentos anteriores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sintetizar as informações anteriores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "acrescentar um novo argumento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "introduzir uma explicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresentar uma analogia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

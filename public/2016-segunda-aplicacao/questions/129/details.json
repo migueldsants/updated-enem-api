@@ -1,0 +1,45 @@
+{
+    "title": "Questão 129 - ENEM 2016 - Segunda aplicação",
+    "index": 129,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "eu acho um fato interessante... né... foi como meu pai e\nminha mãe vieram se conhecer... né... que... minha mãe\nmorava no Piauí com toda família... né... meu... meu\navô... materno no caso... era maquinista... ele sofreu um\nacidente... infelizmente morreu... minha mãe tinha cinco\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/129/68e365af-4fd0-444c-bed2-36c5d593b453.png)\n\nanos... né... e o irmão mais velho dela... meu padrinho...\ntinha dezessete e ele foi obrigado a trabalhar... foi trabalhar\nno banco... e... ele foi... o banco... no caso... estava...\ncom um número de funcionários cheio e ele teve que ir\npara outro local e pediu transferência prum local mais\nperto de Parnaíba que era a cidade onde eles moravam\ne por engano o... o... escrivão entendeu Paraíba... né...\ne meu... e minha família veio parar em Mossoró que\nera exatamente o local mais perto onde tinha vaga pra\nfuncionário do Banco do Brasil e:: ela foi parar na rua do\nmeu pai... né... e começaram a se conhecer... namoraram\nonze anos... né... pararam algum tempo... brigaram... é\nlógico... porque todo relacionamento tem uma briga... né...\ne eu achei esse fato muito interessante porque foi uma\ncoincidência incrível... né... como vieram a se conhecer...\nnamoraram e hoje... e até hoje estão juntos... dezessete\nanos de casados…\n\nCUNHA, M. A. F. (Org.). Corpus, discurso & gramática: a língua falada\ne escrita na cidade de Natal. Natal: EdUFRN, 1998.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/129/68e365af-4fd0-444c-bed2-36c5d593b453.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na produção dos textos, orais ou escritos, articulamos as\ninformações por meio de relações de sentido. No trecho\nde fala, a passagem “brigaram... é lógico... porque todo\nrelacionamento tem uma briga”, enuncia uma justificativa\nem que \"brigaram\" e \"todo relacionamento tem uma briga\"\nsão, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "causa e consequência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "premissa e conclusão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "meio e finalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "exceção e regra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fato e generalização.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

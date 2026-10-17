@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 37,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Uma vacina para tratar a dependência de drogas\nO Brasil e o mundo enfrentam dificuldades quando se\ntrata de encontrar saídas para o vício em drogas. “Esse é\num desafio complexo, multifatorial, que envolve questões\nbiológicas, psicológicas e vulnerabilidades sociais. Por isso,\nexige diferentes abordagens terapêuticas”, diz um psiquiatra\nda Universidade Federal de Minas Gerais (UFMG). Ele é o\nresponsável pelo desenvolvimento de uma estratégia\ninovadora contra a dependência que se vale das próprias\ndefesas do organismo do paciente para se blindar dos efeitos\nda droga. Juntamente com sua equipe, o médico criou\numa molécula inteiramente sintética, base de uma vacina\nterapêutica capaz de interromper o mecanismo que provoca\na compulsão. Assim nasceu a Calixcoca, que já é produzida\nem escala de pesquisa nos laboratórios da faculdade.\n\n“Não se trata de uma vacina mágica, uma panaceia.\nA vacina foi elaborada para complementar o tratamento\nusual”, pondera o especialista. Nos experimentos, o imunizante\ndemonstrou potencial para produzir anticorpos contra a\ndroga, prevenindo sua atuação no cérebro. “A Calixcoca\nmodifica a molécula de cocaína, cessando ou diminuindo sua\nação no chamado circuito de recompensa. Assim, é possível\ninterromper a série de recaídas comuns na dependência”,\nexplica o pesquisador. Agora os cientistas esperam continuar\na sequência de estudos clínicos para avaliar a eficácia e a\nsegurança do produto, assim como identificar quais perfis\nde pacientes poderão ser mais beneficiados com a vacina.\n\nTENÓRIO, G.; PEREIRA, R. C. Vitórias da ciência brasileira.\nVeja Saúde, n. 449, jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, a estratégia argumentativa utilizada para destacar\na inovação desenvolvida foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "identificação de perfis adequados para a utilização do imunizante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apresentação das consequências sociais da dependência química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ênfase nos procedimentos da pesquisa para a produção da vacina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "explicação do uso de variadas terapias para a solução do problema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "descrição da atuação da vacina no organismo do dependente químico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

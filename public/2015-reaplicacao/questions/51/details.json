@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2015 - Reaplicação",
+    "index": 51,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O cobre presente nos fios elétricos e instrumentos\nmusicais é obtido a partir da ustulação do minério\ncalcosita (Cu₂S). Durante esse processo, ocorre o\naquecimento desse sulfeto na presença de oxigênio, de\nforma que o cobre fique “livre” e o enxofre se combine\ncom o O₂ produzindo SO₂, conforme a equação química:\n\n![](https://enem.dev/2015-reaplicacao/questions/51/68b897af-c051-4f3e-a64b-ea23bec24ba5.png)\n\nAs massas molares dos elementos Cu e S são,\nrespectivamente, iguais a 63,5 g/mol e 32 g/mol.\n\nCANTO, E. L. Minerais, minérios, metais: de onde vêm?, para onde vão?\nSão Paulo: Moderna, 1996 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/51/68b897af-c051-4f3e-a64b-ea23bec24ba5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que se queira obter 16 mols do metal em\numa reação cujo rendimento é de 80%, a massa, em\ngramas, do minério necessária para obtenção do cobre\né igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "955.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 018.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 590.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 035.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 180.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

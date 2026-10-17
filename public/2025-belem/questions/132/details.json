@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 132,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O plantio do feijão requer solos que apresentem fertilidade de média a alta, pH entre 5,8 e 6,2, altos teores de cálcio,\nmagnésio, nitrogênio, fósforo e enxofre e baixa concentração de alumínio e manganês. Um agricultor necessita iniciar a plantação\nde feijão em sua lavoura, que se encontra com a superfície clara e esbranquiçada, característica de solos alcalinos. Para obter\num produto que possa ser aplicado diretamente ao solo, o agricultor procurou uma loja especializada, deparando-se com os\nseguintes produtos:\n\n![](https://enem.dev/2025-belem/questions/132/4344eb9d-fd2a-4891-a90f-2f666e2ec059.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/132/4344eb9d-fd2a-4891-a90f-2f666e2ec059.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o produto indicado para corrigir o pH do solo, possibilitando o plantio do feijão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

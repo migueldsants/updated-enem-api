@@ -1,0 +1,46 @@
+{
+    "title": "Questão 145 - ENEM 2013 - Reaplicação",
+    "index": 145,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Estudos revelam que, independentemente de etnia,\nidade e condição social, as pessoas têm padrões estéticos\ncomuns de beleza facial e que as faces consideradas\nbonitas apresentam-se em proporção áurea. A proporção\náurea é a constante Φ = 1,618...\n\nUma agência de modelos reconhece a informação\ncitada e utiliza-a como critério de beleza facial de suas\ncontratadas. Para entrevistar uma nova candidata a\nmodelo, a referida agência pede uma fotografia de rosto\nno ato da inscrição e, com ela, determina as medidas\nmostradas na figura.\n\nM1 M3\n= = Φ\n\n![](https://enem.dev/2013-reaplicacao/questions/145/fe8e3b8c-3bbe-47b6-ad88-d7fe10a11cd9.png)\n\nM3 M5\n\nAnalisando a fotografia de cinco candidatas, I, II,\nIII, IV e V, para a seleção de uma única garota, foram\nconstatadas estas medidas:\n\n• Candidata I: M1 = 11 cm; M2 = 5,5 cm e M3 = 7 cm.\n• Candidata II: M1 = 10,5 cm; M2 = 4,5 cm e M3 = 6,5 cm.\n• Candidata III: M1 = 11,5 cm; M2 = 3,5 cm e M3 = 6,5 cm.\n• Candidata IV: M1 = 10 cm; M2 = 4 cm e M3 = 6,5 cm.\n• Candidata V: M1 = 10,5 cm; M2 = 4 cm e M3 = 6,5 cm.\n\nCONTADOR, P. R. M. A matemática na arte e na vida.\nSão Paulo: Livraria da Física, 2007 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/145/fe8e3b8c-3bbe-47b6-ad88-d7fe10a11cd9.png",
+        "https://enem.dev/2013-reaplicacao/questions/145/d9ce7442-f795-47aa-b22a-77ce26e6d75c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A candidata selecionada pela agência de modelos,\nsegundo os critérios da proporção áurea, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/145/d9ce7442-f795-47aa-b22a-77ce26e6d75c.png",
+            "isCorrect": true
+        }
+    ]
+}

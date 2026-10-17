@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2013 - Reaplicação",
+    "index": 30,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Queixume das operárias da seda\n\nSempre tecemos panos de seda\nE nem por isso vestiremos melhor [...]\n\nNunca seremos capazes de ganhar tanto\nQue possamos ter melhor comida [...]\n\nPois a obra de nossas mãos\nNenhuma de nós terá para se manter [...]\n\nE estamos em grande miséria\nMas, com os nossos salários, enriquece aquele para\nquem trabalhamos\n\nGrande parte das noites ficamos acordadas\nE todo o dia para isso ganhar\n\nAmeaçam-nos de nos moer de pancada\nOs membros quando descansamos\n\nE assim, não nos atrevemos a repousar.\n\nCHRÉTIEN DE TROYES apud LE GOFF. J. Civilização do Ocidente Medieval.\nLisboa: Edições 70, 1992.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Tendo em vista as transformações socioeconômicas da\nEuropa Ocidental durante a Baixa Idade Média, o texto\napresenta a seguinte situação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uso da coerção no mundo do trabalho artesanal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Deslocamento das trabalhadoras do campo para as cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Desorganização do trabalho pela introdução do assalariamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Enfraquecimento dos laços que ligavam patrões e empregadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ganho das artífices pela introdução da remuneração pelo seu trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2012 - Reaplicação",
+    "index": 175,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Pensando em desenvolver atividade física e reduzir\ngasto com energia elétrica em sua residência, uma\npessoa resolveu instalar uma bomba d’água acoplada a\numa bicicleta ergométrica. Após alguns dias de atividade\nfísica, ela observou que, pedalando durante uma hora, o\nvolume médio de água bombeada para o seu reservatório\nera de 500 litros. Esta pessoa observou, ainda, que o\nconsumo diário em sua casa é de 550 litros de água.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual a atitude, em relação ao tempo de exercício diário,\nessa pessoa deve tomar para suprir exatamente o\nconsumo diário de água da sua casa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduzir o seu tempo diário de exercício na bicicleta em 6 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reduzir o seu tempo diário de exercício na bicicleta em 10 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumentar o seu tempo diário de exercício na bicicleta em 5 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumentar o seu tempo diário de exercício na bicicleta em 6 minutos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Aumentar o seu tempo diário de exercício na bicicleta em 10 minutos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

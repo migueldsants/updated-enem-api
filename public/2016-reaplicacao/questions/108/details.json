@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2016 - Reaplicação",
+    "index": 108,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Apuram o passo, por entre campinas ricas, onde\npastam ou ruminam outros mil e mais bois. Mas os\nvaqueiros não esmorecem nos eias e cantigas, porque\na boiada ainda tem passagens inquietantes: alarga-se e\nrecomprime-se, sem motivo, e mesmo dentro da multidão\nmovediça há giros estranhos, que não os deslocamentos\nnormais do gado em marcha ‒ quando sempre alguns\ndisputam a colocação na vanguarda, outros procuram\no centro, e muitos se deixam levar, empurrados,\nsobrenadando quase, com os mais fracos rolando para\nos lados e os mais pesados tardando para trás, no coice\nda procissão.\n\n— Eh, boi lá!... Eh-ê-ê-eh, boi!... Tou! Tou! Tou...\n\nAs ancas balançam, e as vagas de dorsos, das\nvacas e touros, batendo com as caudas, mugindo no\nmeio, na massa embolada, com atritos de couros,\nestralos e guampas, estrondos e baques, e o berro\nqueixoso do gado junqueira, de chifres imensos, com\nmuita tristeza, saudade dos campos, querência dos\npastos de lá do sertão...\n\n“Um boi preto, um boi pintado,\n\ncada um tem sua cor.\n\nCada coração um jeito\n\nde mostrar seu amor”.\nBoi bem bravo, bate baixo, bota baba, boi berrando...\nDança doido, dá de duro, dá de dentro, dá direito...\n\nVai, vem, volta, vem na vara, vai não volta, vai\nvarando...\n\nROSA, J. G. O burrinho pedrês. Sagarana. Rio de Janeiro: José Olympio, 1968.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Próximo do homem e do sertão mineiros, Guimarães\nRosa criou um estilo que ressignifica esses elementos.\nO fragmento expressa a peculiaridade desse estilo\nnarrativo, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "demonstra a preocupação do narrador com a verossimilhança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revela aspectos de confluência entre as vozes e os sons da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "recorre à personificação dos animais como principal recurso estilístico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produz um efeito de legitimidade atrelada à reprodução da linguagem regional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "expressa o fluir do rebanho e dos peões por meio de recursos sonoros e lexicais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

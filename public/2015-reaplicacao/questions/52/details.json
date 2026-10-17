@@ -1,0 +1,45 @@
+{
+    "title": "Questão 52 - ENEM 2015 - Reaplicação",
+    "index": 52,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sais de amônio são sólidos iônicos com alto ponto de fusão, muito mais solúveis em água que as aminas\noriginais e ligeiramente solúveis em solventes orgânicos apolares, sendo compostos convenientes para serem\nusados em xaropes e medicamentos injetáveis. Um exemplo é a efedrina, que funde a 79 °C, tem um odor\ndesagradável e oxida na presença do ar atmosférico formando produtos indesejáveis. O cloridrato de efedrina funde a\n217 °C, não se oxida e é inodoro, sendo o ideal para compor os medicamentos.\n\n`e_P `e_P\n\n![](https://enem.dev/2015-reaplicacao/questions/52/26750370-f93e-42d4-b40b-e0b28d17edf6.png)\n\nke`e_P⁺ke_O`e_P `ä⁻\n\nEfedrina Cloridrato de efedrina\n\nSOUTO, C. R. O.; DUARTE, H. C. Química da vida: aminas. Natal: EDUFRN, 2006.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/52/26750370-f93e-42d4-b40b-e0b28d17edf6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o texto, que propriedade química das aminas possibilita a formação de sais de amônio estáveis,\nfacilitando a manipulação de princípios ativos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Acidez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Basicidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Solubilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Volatilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aromaticidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

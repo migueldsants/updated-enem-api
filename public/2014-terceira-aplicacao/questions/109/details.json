@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2014 - Terceira aplicação",
+    "index": 109,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As origens da capoeira remontam ao Brasil\nescravocrata e ao tráfico negreiro africano. O confronto\ndessas ações e contextos tornou possível o florescimento\ndessa prática corporal. O negro na condição de escravo\nnunca se submeteu totalmente à violência do branco, quer\nseja física ou simbólica, criando suas próprias estratégias\nde resistência. Evidentemente, a capoeira enfrentou\numa série de preconceitos e rejeições até o seu recente\nreconhecimento como patrimônio histórico nacional pelo\nInstituto do Patrimônio Histórico e Artístico Nacional.\n\nPELEGRINI. T. A contribuição da capoeira para a formação do professor de Educação\nFísica: fundamentos teóricos e possibilidades de intervenção. Disponível em:\nwww.efdeportes.com. Acesso em: 2 mar. 2012 fragmento .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Até o seu recente reconhecimento como patrimônio\ncultural nacional, a trajetória social da Capoeira, como\nexpressão de resistência da população negra no Brasil,\nfoi marcada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pelo massivo apoio e incentivo do Estado e de suas instituições oficiais, através de diversas políticas públicas direcionadas para a diminuição das desigualdades sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pela predominância do espontaneísmo e do improviso sobre os elementos de ataque e defesa, reduzindo o seu impacto como luta de resistência da população negra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pela presença de instituições e organizações oficiais encarregadas de ensinar sua prática e que foram importantes para o reconhecimento social da população negra no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pela compreensão de sua prática associada à vadiagem e à desordem, que contribuíram para sua marginalização, especialmente, até a terceira década do século XX.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "pela existência de uma estrutura normativa que possibilitou o estabelecimento de regras e códigos próprios, ampliando seus significados libertários e contestatórios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

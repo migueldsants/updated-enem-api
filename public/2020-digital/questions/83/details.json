@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2020 - Digital",
+    "index": 83,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Maior que os espaços metropolitanos\nvizinhança e formando uma aglomeração em escala mais ampla, concentra o principal das\natividades produtivas significativas em diversos setores (cadeias da indústria, investimentos\nestrangeiros diretos, operações de negócios internacionais, trabalhadores migrantes, fluxos\nmonetários etc.). O conjunto da economia\nconstituindo os nós da malha econômica.\n\nIBGE.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A configuração geográfica descrita no texto é definida pelo conceito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "meio técnico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cidade-região.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "zona de transição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "polo de tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "paisagem urbana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

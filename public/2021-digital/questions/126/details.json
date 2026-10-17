@@ -1,0 +1,48 @@
+{
+    "title": "Questão 126 - ENEM 2021 - Digital",
+    "index": 126,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na montagem de uma cozinha para um restaurante, a escolha do material correto\npara as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar\nos alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do\ncalor depende da condutividade k do material, de sua área A, da diferença de temperatura\n\n![](https://enem.dev/2021-digital/questions/126/9be5143b-5f92-493b-82ef-3a2ae6702217.png)\n\nΔT e da espessura d do material, sendo dada pela relação . Em panelas\n\ncom dois materiais, a taxa de condução é dada por , em que d₁ e d₂ são\n\n![](https://enem.dev/2021-digital/questions/126/5ec7ea2e-10ca-47d9-adcc-eaa2ddf4e325.png)\n\nas espessuras dos dois materiais, e k₁ e k₂ são as condutividades de cada material. Os\nmateriais mais comuns no mercado para panelas são o alumínio (k = 20 W/m K), o ferro\n(k = 8 W/m K) e o aço (k = 5 W/m K) combinado com o cobre (k = 40 W/m K).\n\n![](https://enem.dev/2021-digital/questions/126/36b9d347-1238-429f-aa95-e05d5e4f593a.png)\n\nCompara-se uma panela de ferro, uma de alumínio e uma composta de da\n\n![](https://enem.dev/2021-digital/questions/126/4b5e1387-84df-47f0-860e-3e3e6cb492a9.png)\n\nespessura em cobre e da espessura em aço, todas com a mesma espessura total e\ncom a mesma área de fundo.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/126/9be5143b-5f92-493b-82ef-3a2ae6702217.png",
+        "https://enem.dev/2021-digital/questions/126/5ec7ea2e-10ca-47d9-adcc-eaa2ddf4e325.png",
+        "https://enem.dev/2021-digital/questions/126/36b9d347-1238-429f-aa95-e05d5e4f593a.png",
+        "https://enem.dev/2021-digital/questions/126/4b5e1387-84df-47f0-860e-3e3e6cb492a9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A ordem crescente da mais econômica para a menos econômica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cobre-aço, alumínio e ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alumínio, cobre-aço e ferro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "cobre-aço, ferro e alumínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alumínio, ferro e cobre-aço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ferro, alumínio e cobre-aço.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

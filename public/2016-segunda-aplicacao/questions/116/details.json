@@ -1,0 +1,45 @@
+{
+    "title": "Questão 116 - ENEM 2016 - Segunda aplicação",
+    "index": 116,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Esaú e Jacó\nOra, aí está justamente a epígrafe do livro, se eu lhe\nquisesse pôr alguma, e não me ocorresse outra. Não é\nsomente um meio de completar as pessoas da narração\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/116/5076fe7a-af9c-418d-9b88-9aac36966416.png)\n\ncom as ideias que deixarem, mas ainda um par de lunetas\npara que o leitor do livro penetre o que for menos claro ou\ntotalmente escuro.\n\nPor outro lado, há proveito em irem as pessoas da\nminha história colaborando nela, ajudando o autor, por\numa lei de solidariedade, espécie de troca de serviços,\nentre o enxadrista e os seus trebelhos.\n\nSe aceitas a comparação, distinguirás o rei e a dama,\no bispo e o cavalo, sem que o cavalo possa fazer de torre,\nnem a torre de peão. Há ainda a diferença da cor, branca\ne preta, mas esta não tira o poder da marcha de cada\npeça, e afinal umas e outras podem ganhar a partida, e\nassim vai o mundo.\n\nASSIS, M. Obra completa. Rio de Janeiro: Nova Aguilar, 1964 (fragmento).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/116/5076fe7a-af9c-418d-9b88-9aac36966416.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O fragmento do romance Esaú e Jacó mostra como o\nnarrador concebe a leitura de um texto literário. Com base\nnesse trecho, tal leitura deve levar em conta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o leitor como peça fundamental na construção dos sentidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a luneta como objeto que permite ler melhor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o autor como único criador de significados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o caráter de entretenimento da literatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a solidariedade de outros autores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

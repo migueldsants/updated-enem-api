@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2014 - Terceira aplicação",
+    "index": 179,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Ibope entrevistou 100 pessoas que assistiram à\nestreia da versão 2011 do Rock in Rio, no dia 23 de\nsetembro de 2011, sendo que os entrevistados atribuíram\numa nota de 0 zero a 10 dez para o dia da estreia do\nevento. A média das notas dos entrevistados foi 9,3 e\n64 pessoas deram nota 10 ao evento no dia de estreia.\n\nDisponível em: http://g1.globo.com. Acesso em: 12 nov. 2011 adaptado .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/179/2ce7d45f-519a-4623-909b-ef0ecb0f4fd4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Desta forma, a melhor aproximação para a média das\ndemais notas diferentes de 10 do dia de estreia foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8,05.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "8,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9,30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9,65.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/179/2ce7d45f-519a-4623-909b-ef0ecb0f4fd4.png",
+            "isCorrect": false
+        }
+    ]
+}

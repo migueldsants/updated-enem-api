@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2014 - Reaplicação",
+    "index": 173,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "André, Carlos e Fábio estudam em uma mesma\nescola e desejam saber quem mora mais perto da escola.\nAndré mora a cinco vinte avos de um quilômetro da\nescola. Carlos mora a seis quartos de um quilômetro da\nescola. Já Fábio mora a quatro sextos de um quilômetro\nda escola.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A ordenação dos estudantes de acordo com a ordem\ndecrescente das distâncias de suas respectivas casas à\nescola é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "André, Carlos e Fábio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "André, Fábio e Carlos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Carlos, André e Fábio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Carlos, Fábio e André.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fábio, Carlos e André.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2016 - Reaplicação",
+    "index": 167,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um produtor de café contratou uma empresa\nde consultoria para avaliar as produções de suas\ndiversas fazendas. No relatório entregue consta que a\nvariância das produtividades das fazendas foi igual a\n\n![](https://enem.dev/2016-reaplicacao/questions/167/3285aaf2-50ec-4ec2-8214-a7fd3bcdbc47.png)\n\n9 216 kg²/ha². Esse produtor precisa apresentar essa\ninformação, mas em outra unidade de produtividade:\nsacas/ha. Ele sabe que a saca de café tem 60 kg,\nmas tem dúvidas em determinar o valor da variância\nem sacas²/ha².",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/167/3285aaf2-50ec-4ec2-8214-a7fd3bcdbc47.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A variância das produtividades das fazendas de café\nexpressa em sacas²/ha² é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "153,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12,39.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6,55.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,56.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1,60.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

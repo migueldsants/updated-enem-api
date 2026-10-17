@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2020 - Digital",
+    "index": 76,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Há um tempo, belas e boas são todas as ações justas e virtuosas. Os que as conhecem\nnada podem preferir-lhes. Os que não as conhecem, não somente não podem praticá-las\ncomo, se o tentam, só cometem erros. Assim praticam os sábios atos belos e bons, enquanto\nos que não o são só podem descambar em faltas. E se nada se faz justo, belo e bom que não\npela virtude, claro é que na sabedoria se resumem a justiça e todas as mais virtudes.\n\nXENOFONTE. Ditos e feitos memoráveis de Sócrates.Apud CHALITA, G. Vivendo a filosofia.\nSão Paulo: Ática, 2005.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao fazer referência ao conteúdo moral da filosofia socrática narrada por Xenofonte, o texto\nindica que a vida virtuosa está associada à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aceitação do sofrimento como gênese da felicidade suprema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "moderação dos prazeres com vistas à serenidade da alma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contemplação da physis como fonte de conhecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "satisfação dos desejos com o objetivo de evitar a melancolia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "persecução da verdade como forma de agir corretamente.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

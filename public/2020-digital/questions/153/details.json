@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2020 - Digital",
+    "index": 153,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Por muitos anos, o Brasil tem figurado no cenário mundial entre os maiores produtores e\nexportadores de soja. Entre os anos de 2010 e 2014, houve uma forte tendência de aumento\nda produtividade, porém, um aspecto dificultou esse avanço: o alto custo do imposto ao\nprodutor associado ao baixo preço de venda do produto. Em média, um produtor gastava R$ 1\n200,00 por hectare plantado, e vendia por R$ 50,00 cada saca de 60 kg. Ciente desses\nvalores, um produtor pode, em certo ano, determinar uma relação do lucro L que obteve em\nfunção das sacas de 60 kg vendidas. Suponha que ele plantou 10 hectares de soja em sua\npropriedade, na qual colheu x sacas de 60 kg e todas as sacas foram vendidas.\n\nDisponível em: www.cnpso.embrapa.br. Acesso em: 27 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a expressão que determinou o lucro L em função de x obtido por esse produtor nesse\nano?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "L(x) = 50x – 1 200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "L(x) = 50x – 12 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "L(x) = 50x + 12 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "L(x) = 500x – 1 200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "L(x) = 1 200x – 500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

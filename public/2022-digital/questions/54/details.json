@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2022 - Digital",
+    "index": 54,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras\ncategorias de trabalhadores a se organizar em associações e a exigir a intervenção dos\npoderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros\nparticiparam da arena política e ganharam as ruas com vários outros, como os\nrepublicanos e os abolicionistas.\n\nPOPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos\nentre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A atuação dos trabalhadores mencionados no texto representou, na capital do Império,\num momento de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "manutenção das regras patronais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "desprendimento das ideias liberais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fortalecimento dos contratos laborais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "consolidação das estruturas sindicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "contestação dos princípios monárquicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

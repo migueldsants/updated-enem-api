@@ -1,0 +1,43 @@
+{
+    "title": "Questão 85 - ENEM 2013 - Reaplicação",
+    "index": 85,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Antes das lombadas eletrônicas, eram pintadas faixas nas ruas para controle da velocidade dos automóveis.\nA velocidade era estimada com o uso de binóculos e cronômetros. O policial utilizava a relação entre a distância\npercorrida e o tempo gasto, para determinar a velocidade de um veículo. Cronometrava-se o tempo que um veículo\nlevava para percorrer a distância entre duas faixas fixas, cuja distância era conhecida. A lombada eletrônica é um\nsistema muito preciso, porque a tecnologia elimina erros do operador. A distância entre os sensores é de 2 metros, e\no tempo é medido por um circuito eletrônico.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O tempo mínimo, em segundos, que o motorista deve gastar para passar pela lombada eletrônica, cujo limite é de\n40 km/h, sem receber uma multa, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,05.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "11,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,18.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "22,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,50.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

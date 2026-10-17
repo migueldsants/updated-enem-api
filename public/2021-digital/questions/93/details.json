@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2021 - Digital",
+    "index": 93,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em\nporcentagem de volume (v/v), de soluções de água e álcool na faixa de 0 °GL a 100 °GL,\ncom divisões de 0,1 °GL. A concepção do alcoolômetro se baseia no princípio de\nflutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala\ndo instrumento é aferida a 20 °C, sendo necessária a correção da medida, caso a\ntemperatura da solução não esteja na temperatura de aferição. É apresentada parte da\ntabela de correção de um alcoolômetro, com a temperatura.\n\n![](https://enem.dev/2021-digital/questions/93/6a9f233b-3301-4210-a8f0-0ffe7f836123.png)\n\nManual alcoolômetro Gay Lussac. Disponível em: www.incoterm.com.br.\nAcesso em: 4 dez. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/93/6a9f233b-3301-4210-a8f0-0ffe7f836123.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É necessária a correção da medida do instrumento, pois um aumento na temperatura\npromove o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento da dissociação da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumento da densidade da água e do álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mudança do volume dos materiais por dilatação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumento da concentração de álcool durante a medida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alteração das propriedades químicas da mistura álcool e água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

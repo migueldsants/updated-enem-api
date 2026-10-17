@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2020 - Digital",
+    "index": 77,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Diante da unidade e da militância dos negros, o governo nacionalista decidiu aplicar\nmedidas reacionárias e repressivas — interdição do direito à reunião, vigilância e perseguição\npoliciais, dissolução dos partidos políticos, tortura, prisão domiciliar e encarceramento de\nmilitantes.\n\nCHANAIWA, D. A África austral. In: MAZRUI, A.; WONDJI, C. (Org.). História geral da África:\nÁfrica desde 1935. Brasília: Unesco, 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A atuação do Estado sul-africano na década de 1950, como descrita, indica que seus\ndirigentes buscavam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "bloquear as manifestações violentas dos bôeres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atender às disposições jurídicas internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "suprimir as organizações dissidentes atuantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "fomentar as divisões étnicas da oposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aliciar as lideranças tribais nativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

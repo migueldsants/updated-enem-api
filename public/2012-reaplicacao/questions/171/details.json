@@ -1,0 +1,47 @@
+{
+    "title": "Questão 171 - ENEM 2012 - Reaplicação",
+    "index": 171,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma maneira muito útil de se criar belas figuras\ndecorativas utilizando a matemática é pelo processo\nde autossemelhança, uma forma de se criar fractais.\nInformalmente, dizemos que uma figura é autossemelhante\nse partes dessa figura são semelhantes à figura vista como\num todo. Um exemplo clássico é o Carpete de Sierpinski,\ncriado por um processo recursivo, descrito a seguir:\n\n• Passo 1: Considere um quadrado dividido em\nnove quadrados idênticos (Figura 1). Inicia-se o\nprocesso removendo o quadrado central, restando\n8 quadrados pretos (Figura 2).\n\n• Passo 2: Repete-se o processo com cada um dos\nquadrados restantes, ou seja, divide-se cada um\ndeles em 9 quadrados idênticos e remove-se o\nquadrado central de cada um, restando apenas os\nquadrados pretos (Figura 3).\n\n• Passo 3: Repete-se o passo 2.\n\n![](https://enem.dev/2012-reaplicacao/questions/171/aa268b4b-96cd-49b4-8e9d-6a2364505c5d.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/171/e718ca44-dbd6-4d1e-b2f7-c32ed3eb051f.png)\n\ncáÖìê~ N cáÖìê~ O\n\n![](https://enem.dev/2012-reaplicacao/questions/171/f42569ae-6db4-49e1-abee-86851e8eb4c9.png)\n\nAdmita que esse processo seja executado 3 vezes, ou\nseja, divide-se cada um dos quadrados pretos da Figura\n3 em 9 quadrados idênticos e remove-se o quadrado\ncentral de cada um deles.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/171/aa268b4b-96cd-49b4-8e9d-6a2364505c5d.png",
+        "https://enem.dev/2012-reaplicacao/questions/171/e718ca44-dbd6-4d1e-b2f7-c32ed3eb051f.png",
+        "https://enem.dev/2012-reaplicacao/questions/171/f42569ae-6db4-49e1-abee-86851e8eb4c9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número de quadrados pretos restantes nesse momento é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "64.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "512.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "568.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "576.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "648.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

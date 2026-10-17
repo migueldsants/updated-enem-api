@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2016 - Segunda aplicação",
+    "index": 114,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Poema tirado de uma notícia de jornal\nJoão Gostoso era carregador de feira livre e morava\nno morro da Babilônia num barracão sem número.\nUma noite ele chegou no bar Vinte de Novembro\nBebeu\nCantou\nDançou\nDepois se atirou na lagoa Rodrigo de Freitas e\nmorreu afogado.\n\nBANDEIRA, M. Estrela da vida inteira: poesias reunidas. Rio de Janeiro: José Olympio, 1980.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No poema de Manuel Bandeira, há uma ressignificação\nde elementos da função referencial da linguagem pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atribuição de título ao texto com base em uma notícia veiculada em jornal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "utilização de frases curtas, características de textos do gênero jornalístico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "indicação de nomes de lugares como garantia da veracidade da cena narrada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "enumeração de ações, com foco nos eventos acontecidos à personagem do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresentação de elementos próprios da notícia, tais como quem, onde, quando e o quê.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

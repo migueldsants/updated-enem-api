@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 35,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Certo sábado, o sinhô José Carlos recebeu visitas, sete\nou oito homens da capital. Eram pessoas importantes, pois\nnós, da cozinha, trabalhamos muito preparando quitutes sob\na supervisão da sinhá Ana Felipa, que acompanhava tudo de\ncaderno em punho e língua afiada. Depois de cada prato pronto,\nela experimentava e jogava fora o que não ficava bom, no lixo\nmesmo, não sem antes jogar água ou fazer qualquer outra coisa\npara que nós não pudéssemos aproveitar.\n\nFazia isso dizendo que preto não tinha paladar para apreciar\naquele tipo de comida e nem ela queria ser acusada de ter\nalimentado escravos com comida digna de reis, mesmo que\nestragada pela nossa incompetência, pelo nosso dom de fazer\nsomente a ração a que estávamos acostumados todos os dias.\nO Sebastião e a Antônia, que serviriam os pratos, ganharam\nfardas novas. Ficaram horas com a sinhá Ana Felipa, que mostrou\nde que lado de cada pessoa deveriam servir à mesa, a ordem\nem que os pratos sairiam da cozinha e depois seriam retirados,\ncomo encher os copos, e outras coisas.\n\nGONÇALVES, A. M. Um defeito de cor. Rio de Janeiro: Record, 2010.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse trecho do romance, as tensões do contexto narrativo\nrefletem-se na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "maneira como as pessoas escravizadas são tratadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "forma como as relações interpessoais são questionadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diferença de hábitos alimentares comuns ao período colonial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "exigência do respeito a tradições próprias da classe dominante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "organização do espaço conforme os costumes vigentes à época.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

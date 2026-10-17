@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2014 - Terceira aplicação",
+    "index": 53,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As propriedades físicas e químicas de uma certa substância estão relacionadas às interações entre as unidades\nque a constituem, isto é, as ligações químicas entre átomos ou íons e as forças intermoleculares que a compõem. No\nquadro, estão relacionadas algumas propriedades de cinco substâncias.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/53/ea7c66d5-e776-466d-9e12-7550b6955a1a.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/53/ea7c66d5-e776-466d-9e12-7550b6955a1a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2016 - Reaplicação",
+    "index": 97,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Escrever\nA estudante perguntou como era essa coisa de\nescrever. Eu fiz o gênero fofo. Moleza, disse.\n\nPrimeiro evite esses coloquialismos de “fofo” e\n“moleza”, passe longe das gírias ainda não dicionarizadas\ne de tudo mais que soe mais falado do que escrito. Isto\naqui não é rádio FM. De vez em quando, aplique uma\ngíria como se fosse um piparote de leve no cangote do\ntexto, mas, em geral, evite. Fuja dessas rimas bobinhas,\ndesses motes sonoros. O leitor pode se achar diante de\num rapper frustrado e dar cambalhotas. Mas, atenção, se\nsoar muito estranho, reescreva.\n\nQuando quiser aplicar um “mas”, tome fôlego,\nligue para o 0800 do Instituto Fernando Pessoa, peça\nautorização ao sábio de plantão, e, por favor, volte atrás.\nÉ um cacoete facilitador. Dele deve ter vindo a expressão\n“cheio de mas-mas”, ou seja, uma pessoa cheia de “não\né bem assim”, uma chata que usa o truque para afirmar e\ndepois, como se fosse estilo, obtemperar.\n\nSANTOS, J. F. O Globo, 10 jan. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A língua varia em função de diferentes fatores. Um deles\né a situação em que se dá a comunicação. Na crônica,\nao ser interrogado sobre a arte de escrever, o autor\nutiliza, em meio à linguagem escrita padrão, condizente\ncom o contexto,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "definições teóricas, para permitir que seus conselhos sejam úteis aos futuros jornalistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "gírias não dicionarizadas, para imitar a linguagem de jovens de baixa escolaridade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "palavras de uso coloquial, para estabelecer uma interação satisfatória com a interlocutora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "termos da linguagem jornalística, para causar boa impressão na jovem entrevistadora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vocabulário técnico, para ampliar o repertório linguístico dos jovens leitores do jornal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

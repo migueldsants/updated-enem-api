@@ -1,0 +1,46 @@
+{
+    "title": "Questão 73 - ENEM 2014 - Terceira aplicação",
+    "index": 73,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O aquecimento de água em residências com o uso de energia solar é uma alternativa ao uso de outras fontes\nde energia. A radiação solar, ao incidir nas placas, promove o aquecimento da água. O cobre é um dos materiais\nempregados na produção dos tubos que conduzem a água nos coletores solares. Outros materiais poderiam também\nser empregados.\n\nA tabela a seguir apresenta algumas propriedades de metais que poderiam substituir o cobre:\n\nPropriedades\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/73/12dd66d6-6d6c-4ea0-8463-57d51a3a83e3.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/73/859b2540-549c-4641-8862-2dd141d4897e.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/73/12dd66d6-6d6c-4ea0-8463-57d51a3a83e3.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/73/859b2540-549c-4641-8862-2dd141d4897e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alumínio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "chumbo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "níquel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "zinco.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

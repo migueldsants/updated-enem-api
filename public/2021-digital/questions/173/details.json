@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2021 - Digital",
+    "index": 173,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do\nque a que ele vem utilizando atualmente. A ração atual proporciona uma massa média de\n10 kg por coelho, com um desvio padrão de 1 kg, alimentado com essa ração durante um\nperíodo de três meses.\n\nO zootecnista selecionou uma amostra de coelhos e os alimentou com a nova ração\npelo mesmo período de tempo. Ao final, anotou a massa de cada coelho, obtendo um\ndesvio padrão de 1,5 kg para a distribuição das massas dos coelhos dessa amostra.\n\nPara avaliar a eficiência dessa ração, ele utilizará o coeficiente de variação (CV ) que\n\n![](https://enem.dev/2021-digital/questions/173/1742889e-e580-41f4-8de0-2759d7e071ed.png)\n\né uma medida de dispersão definida por , em que s representa o desvio padrão\ne , a média das massas dos coelhos que foram alimentados com uma determinada\nração.\n\nO zootecnista substituirá a ração que vinha utilizando pela nova, caso o coeficiente\nde variação da distribuição das massas dos coelhos que foram alimentados com a nova\nração for menor do que o coeficiente de variação da distribuição das massas dos coelhos\nque foram alimentados com a ração atual.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/173/1742889e-e580-41f4-8de0-2759d7e071ed.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da\namostra, em quilograma, for superior a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "15,0.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

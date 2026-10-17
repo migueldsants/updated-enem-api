@@ -1,0 +1,46 @@
+{
+    "title": "Questão 70 - ENEM 2012 - Reaplicação",
+    "index": 70,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os fornos domésticos de micro-ondas trabalham\ncom uma frequência de ondas eletromagnéticas que\natuam fazendo rotacionar as moléculas de água, gordura\ne açúcar e, consequentemente, fazendo com que os\nalimentos sejam aquecidos. Os telefones sem fio também\nusam ondas eletromagnéticas na transmissão do sinal. As\nespecificações técnicas desses aparelhos são informadas\nnos quadros 1 e 2, retirados de seus manuais.\n\n![](https://enem.dev/2012-reaplicacao/questions/70/c0767e63-d114-4183-9ddb-102917687403.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/70/e764d56d-dcb1-475f-bbb0-8f2f64e3117e.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/70/c0767e63-d114-4183-9ddb-102917687403.png",
+        "https://enem.dev/2012-reaplicacao/questions/70/e764d56d-dcb1-475f-bbb0-8f2f64e3117e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O motivo de a radiação do telefone não aquecer como a\ndo micro-ondas é que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o ambiente no qual o telefone funciona é aberto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a frequência de alimentação é 60 Hz para os dois aparelhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a potência do telefone sem fio é menor que a do forno.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o interior do forno reflete as micro-ondas e as concentra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a modulação das ondas no forno é maior do que no telefone.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

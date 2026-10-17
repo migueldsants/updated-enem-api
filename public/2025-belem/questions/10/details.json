@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 10,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse texto organiza-se pelo encadeamento de sequências textuais diversas. Entre elas, a sequência argumentativa, que está\napresentada em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Às vezes usa o epíteto num modo semi-irônico, como quem põe um cachimbo na boca pra uma foto”. (l. 2-3)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Meu velho pai tá de saco cheio ‘dessas coisas’”. (l. 7)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“e começou a reclamar da dificuldade de nos comunicarmos por tantos canais”. (l. 8-9)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“A hipótese é absurda, mas não mais que o furdunço global que estamos vivendo”. (l. 18-19)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "“Na faculdade eu penava pra entender o que o Marx queria dizer com aquele papo de ‘a infraestrutura produz a superestrutura’”. (l. 29-30)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

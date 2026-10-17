@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2014 - Terceira aplicação",
+    "index": 48,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Alguns materiais poliméricos não podem ser\nutilizados para a produção de certos tipos de artefatos,\nseja por limitações das propriedades mecânicas, seja\npela facilidade com que sofrem degradação, gerando\nsubprodutos indesejáveis para aquela aplicação. Torna-\nse importante, então, a fiscalização, para determinar a\nnatureza do polímero utilizado na fabricação do artefato.\nUm dos métodos possíveis baseia-se na decomposição\ndo polímero para a geração dos monômeros que lhe\nderam origem.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decomposição controlada de um artefato gerou a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "poliamida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "polietileno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "poliacrilato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "polipropileno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

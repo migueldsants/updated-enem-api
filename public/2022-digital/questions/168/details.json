@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2022 - Digital",
+    "index": 168,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de\nacesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de\ncandidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados\nno quadro.\n\n![](https://enem.dev/2022-digital/questions/168/c589ab5b-035c-469b-b793-24b47e213523.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/168/c589ab5b-035c-469b-b793-24b47e213523.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 235",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7 200",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

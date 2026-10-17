@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2020 - Digital",
+    "index": 112,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Metais são contaminantes encontrados em efluentes oriundos de diversas atividades\nantrópicas. Dentre esses, o mercúrio (Hg) é aquele que apresenta a maior toxicidade e o único\nmetal que reconhecidamente causou óbitos em humanos em razão de contaminação pela via\nambiental, particularmente pela ingestão de organismos aquáticos contaminados. Considere\nque, em um ecossistema aquático cujas águas foram contaminadas por mercúrio, esse metal\nserá incorporado pelos organismos integrantes de toda a cadeia alimentar nos diferentes\nníveis tróficos.\n\nLACERDA, L. D.; MALM, O. Contaminação por mercúrio em ecossistemas aquáticos: uma análise das áreas críticas.\nEstudos Avançados, n. 63, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na situação apresentada, as concentrações relativas de mercúrio encontradas nos organismos\nserão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mais altas nos produtores do que nos decompositores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "iguais para todos nos diferentes níveis tróficos da cadeia alimentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mais baixas nos consumidores secundários e terciários do que nos produtores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mais altas nos consumidores primários do que nos consumidores de maior ordem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mais baixas nos de níveis tróficos de menor ordem do que nos de níveis tróficos mais altos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2020 - Digital",
+    "index": 30,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O laço de fita\n\nNão sabes, criança? 'Stou louco de amores...\nPrendi meus afetos, formosa Pepita.\n\nMas onde? No templo, no espaço, nas névoas?!\nNão rias, prendi-me\nNum laço de fita.\nNa selva sombria de tuas madeixas,\nNos negros cabelos de moça bonita,\nFingindo a serpente qu'enlaça a folhagem,\n\nFormoso enroscava-se\nO laço de fita.\n\n[...]\n\nPois bem! Quando um dia na sombra do vale\nAbrirem-me a cova... formosa Pepita!\n\nAo menos arranca meus louros da fronte,\nE dá-me por c'roa...\nTeu laço de fita.\n\nALVES, C. Espumas flutuantes. Disponível em: www.dominiopublico.gov.br. Acesso em: 8 ago. 2015 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Exemplo da lírica de temática amorosa de Castro Alves, o poema constrói imagens caras ao\nRomantismo. Nesse fragmento, o lirismo romântico se expressa na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "representação infantilizada da figura feminina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "criatividade inspirada em elementos da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "opção pela morte como solução para as frustrações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ansiedade com as atitudes de indiferença da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fixação por signos de fusão simbólica com o ser amado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

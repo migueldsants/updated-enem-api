@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2012 - Reaplicação",
+    "index": 97,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Buscar melhorar as habilidades de movimento,\nencarar as dificuldades que se apresentam em um jogo,\npropor-se a correr o risco de ganhar ou de perder são\nrequisitos que tornam um jogador mais hábil a cada dia e\num ser humano mais competente. Saber lidar com o erro e\na derrota como processo de evolução para vencer e atingir\nmetas é outro fator positivo da competição esportiva.\nAo participar de um jogo acontece de se errar um\narremesso, um chute a gol, um passe ao colega, mas\npode-se dizer que é possível crescer através das falhas\ne da derrota, com as quais se aprende a superar as\ndecepções e tirar proveito do erro como aprendizado\npara novas tentativas.\n\nBREGOLATO, R. A. Cultura corporal do esporte. São Paulo: Ícone, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O esporte é um fenômeno social que pode ser praticado\nnos mais variados contextos. O texto o apresenta como\numa forma de manifestação da atividade física que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "direciona para os riscos resultantes das situações vivenciadas no jogo, tendo em vista a necessidade de vitória.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "visa à performance e ao rendimento, pois exige resultados cada vez melhores dos atletas nele envolvidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valoriza os princípios de educação, colaboração e autonomia, numa perspectiva de crescimento pessoal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "prioriza o espetáculo e o rendimento na competição esportiva, como processo de melhoria das habilidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retrata a importância de vencer em uma situação de competição, como forma de aprimorar o aprendizado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

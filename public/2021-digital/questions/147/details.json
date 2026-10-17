@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2021 - Digital",
+    "index": 147,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.\n\n![](https://enem.dev/2021-digital/questions/147/7d6cad41-1b87-4740-a580-34932f3b2127.png)\n\nSabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de\ndiâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além\ndisso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das\ncircunferências do topo e da base).\n\nUtilize 3 como aproximação para π.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/147/7d6cad41-1b87-4740-a580-34932f3b2127.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a capacidade volumétrica, em mililitro, dessa caneca?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "216",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "408",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "732",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 196",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 928",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

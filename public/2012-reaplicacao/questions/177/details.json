@@ -1,0 +1,47 @@
+{
+    "title": "Questão 177 - ENEM 2012 - Reaplicação",
+    "index": 177,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Índice de Massa Corporal, abreviadamente IMC,\né uma medida internacional adotada pela Organização\nMundial de Saúde (OMS) para indicar se uma pessoa\nestá com “peso” excessivo para sua altura. O cálculo\n\n![](https://enem.dev/2012-reaplicacao/questions/177/09638901-864c-4f19-a859-d49c4b99946c.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/177/fc0e7d52-b4b8-47e6-a555-e8d530961325.png)\n\nsimplicidade nos cálculos.\n\n![](https://enem.dev/2012-reaplicacao/questions/177/4d31bf4c-6952-44f8-84d6-70a6e89faea7.png)\n\nAssim, segundo a OMS, um indivíduo de 2,10 metros\nde altura que pesa 80 kg tem IMC inferior a 19, sendo\nclassificado como “abaixo do peso”.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/177/09638901-864c-4f19-a859-d49c4b99946c.png",
+        "https://enem.dev/2012-reaplicacao/questions/177/fc0e7d52-b4b8-47e6-a555-e8d530961325.png",
+        "https://enem.dev/2012-reaplicacao/questions/177/4d31bf4c-6952-44f8-84d6-70a6e89faea7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se um indivíduo de 144 kg e 2 metros de altura perder\n64 kg numa dieta, então este indivíduo migrará da classe",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "obesidade mórbida para a classe abaixo do peso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "obesidade mórbida para a classe peso normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "obesidade do tipo 1 para a classe abaixo do peso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "obesidade do tipo 1 para a classe peso normal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "sobrepeso para a classe peso normal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

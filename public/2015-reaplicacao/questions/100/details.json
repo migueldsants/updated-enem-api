@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2015 - Reaplicação",
+    "index": 100,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/100/a04edade-cf1a-4662-be87-7d714a559616.png)\n\n2015",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/100/a04edade-cf1a-4662-be87-7d714a559616.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A obra do artista plástico Leonilson (1953-1993) marca\npresença no panorama da arte brasileira e internacional.\nNessa obra, ele utilizou a habilidade técnica do bordado\nmanual para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "obtenção das linhas retas paralelas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorização do tracejado retilíneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "exploração de diferentes texturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "obtenção do equilíbrio assimétrico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "inscrição homogênea das formas e palavras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

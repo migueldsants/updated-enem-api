@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2012 - Reaplicação",
+    "index": 93,
+    "year": 2012,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Scared fit\nMy body was telling me things I did not want to hear. In February 2010, my doctor confirmed what my body was\ntelling me. My not feeling well was a result of years of neglecting my body and diet. At 62, I had developed high blood\npressure, type 2 diabetes, and my cholesterol was going through the roof. At 4’ 10” and weighing 227 pounds, the\nproblem was in the mirror looking back at me. My doctor said, “lose weight, start eating healthy, and start exercising if you\nwant to live to a ripe old age”. Needless to say, I was scared I wouldn’t see my grandkids and great-grandkids grow up.\n\nPAZ, A. Disponível em: www.healthandfitnessmag.com. Acesso em: 28 fev. 2012.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/93-ingles/d00fb9c6-e6cc-47eb-b397-b650ae1cae02.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No texto Scared fit, que relata a experiência de Amanda de la Paz relacionada aos cuidados com a saúde, a palavra\nscared faz referência ao seu medo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "emagrecer mais que o necessário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "encarar exercícios físicos pesados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "enfrentar sua aparência no espelho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sofrer as consequências de seu descuido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/93-ingles/d00fb9c6-e6cc-47eb-b397-b650ae1cae02.png",
+            "isCorrect": false
+        }
+    ]
+}

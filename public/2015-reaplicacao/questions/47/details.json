@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2015 - Reaplicação",
+    "index": 47,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante a aula, um professor apresentou uma\npesquisa nacional que mostrava que o consumo de sódio\npelos adolescentes brasileiros é superior ao determinado\npela Organização Mundial da Saúde. O professor, então,\ndestacou que esse hábito deve ser evitado.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A doença associada a esse hábito é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "obesidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "osteoporose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diabetes tipo II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hipertensão arterial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "hipercolesterolemia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

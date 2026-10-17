@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2013 - Reaplicação",
+    "index": 89,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Quando a luz branca incide em uma superfície\nmetálica, são removidos elétrons desse material. Esse\nefeito é utilizado no acendimento automático das luzes\nnos postes de iluminação, na abertura automática das\nportas, no fotômetro fotográfico e em sistemas de alarme.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse efeito pode ser usado para fazer a transformação\nde energia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nuclear para cinética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "elétrica para radiante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "térmica para química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "radiante para cinética.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "potencial para cinética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 12,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O caso Vinícius Júnior acendeu um alerta em praticamente\ntodo o mundo contra manifestações de preconceito nos campos de\nfutebol. No entanto, as ofensas não ocorrem apenas na Europa, mas\ntambémnoBrasil—etêmaumentadonosúltimosanos.Segundoum\nlevantamento do Observatório da Discriminação Racial do Futebol,\no Brasil viveu um aumento no número de ocorrências de racismo\nnos últimos anos. Em 2021, o Observatório registrou 64 situações\nde racismo. Já em 2022, foram comprovadas 90 situações — um\naumento de 40%. A alta se dá porque os atletas têm tomado\nconsciência da necessidade de fazer denúncias contra as ofensas.\n“O jogador de futebol compreendeu que aquilo que acontece em\ncampo, que ele dizia que deveria morrer em campo, ele já entende\nque isso é crime, que o racismo é crime, não pode morrer em campo\ne precisa ser denunciado”, diz o diretor-executivo do Observatório.\n\nDisponível em: http://g1.globo.com. Acesso em: 5 fev. 2025.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A medida apontada nesse texto para combater o racismo de\nforma efetiva no futebol é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "internacionalizar o debate sobre a questão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estimular a mudança de atitudes em jogo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "enrijecer legislações sobre o tema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expor as práticas discriminatórias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "envolver instituições esportivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

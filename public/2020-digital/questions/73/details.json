@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2020 - Digital",
+    "index": 73,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Somada à produção voltada para o mercado interno está a expansão das culturas de\nexportação, via de regra financiadas com incentivos fiscais oriundos das políticas territoriais do\nEstado. Combinando mercado interno e externo, o Estado atuou no sentido de incrementar a\nprodução, principalmente de grãos.\n\nOLIVEIRA, A. U. Agricultura brasileira: transformações recentes. In: ROSS, J. L. S.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A atuação do Estado brasileiro na atividade descrita ocasionou mudanças socioespaciais\nmarcadas pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contenção do fluxo migratório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alteração da estrutura fundiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "priorização do abastecimento local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reconfiguração da fronteira agrícola.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "concentração da produção sustentável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

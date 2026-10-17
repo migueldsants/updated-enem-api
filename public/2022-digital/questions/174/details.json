@@ -1,0 +1,47 @@
+{
+    "title": "Questão 174 - ENEM 2022 - Digital",
+    "index": 174,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde\nocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura.\nSeu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da\n\n![](https://enem.dev/2022-digital/questions/174/a370b46c-23cc-42d5-8515-b2c0911063c3.png)\n\n![](https://enem.dev/2022-digital/questions/174/cd9cbbbe-4ae1-4069-999b-973e848cf3d6.png)\n\n![](https://enem.dev/2022-digital/questions/174/5848b606-42be-45f1-b89b-ca411037f65c.png)\n\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco\npartidas, cada uma delas em um ginásio diferente. As alturas dos tetos desses ginásios,\nem relação aos pisos das quadras, são:\n\n• ginásio I: 17 m;\n\n• ginásio II: 18 m;\n\n• ginásio III: 19 m;\n\n• ginásio IV: 21 m;\n\n• ginásio V: 40 m.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/174/a370b46c-23cc-42d5-8515-b2c0911063c3.png",
+        "https://enem.dev/2022-digital/questions/174/cd9cbbbe-4ae1-4069-999b-973e848cf3d6.png",
+        "https://enem.dev/2022-digital/questions/174/5848b606-42be-45f1-b89b-ca411037f65c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O saque desse atleta foi invalidado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas no ginásio I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas nos ginásios I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas nos ginásios I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas nos ginásios I, II, III e IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "em todos os ginásios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

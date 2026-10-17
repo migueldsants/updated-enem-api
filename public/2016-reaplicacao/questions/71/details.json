@@ -1,0 +1,49 @@
+{
+    "title": "Questão 71 - ENEM 2016 - Reaplicação",
+    "index": 71,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A busca por substâncias capazes de minimizar a ação do inseto que ataca as plantações de tomate no Brasil levou\nà síntese e ao emprego de um feromônio sexual com a seguinte fórmula estrutural:\n\nl`l`e_P\n\nUma indústria agroquímica necessita sintetizar um derivado com maior eficácia. Para tanto, o potencial substituto\ndeverá preservar as seguintes propriedades estruturais do feromônio sexual: função orgânica, cadeia normal e a\nisomeria geométrica original.\n\nA fórmula estrutural do substituto adequado ao feromônio sexual obtido industrialmente é:",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/71/83453b25-5b46-45f0-b4fe-dda10802a4b9.png",
+        "https://enem.dev/2016-reaplicacao/questions/71/31c609a7-b4bb-4f61-9d8c-d3f540bed3a9.png",
+        "https://enem.dev/2016-reaplicacao/questions/71/180933ec-3248-4420-8ae7-76ef93e18a45.png",
+        "https://enem.dev/2016-reaplicacao/questions/71/31484b79-7f7e-434e-8111-cddc0e1a4db5.png",
+        "https://enem.dev/2016-reaplicacao/questions/71/ba038d67-5efe-4247-a9c0-71a765517c60.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "`l`e_P",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/71/83453b25-5b46-45f0-b4fe-dda10802a4b9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/71/31c609a7-b4bb-4f61-9d8c-d3f540bed3a9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/71/180933ec-3248-4420-8ae7-76ef93e18a45.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/71/31484b79-7f7e-434e-8111-cddc0e1a4db5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/71/ba038d67-5efe-4247-a9c0-71a765517c60.png",
+            "isCorrect": true
+        }
+    ]
+}

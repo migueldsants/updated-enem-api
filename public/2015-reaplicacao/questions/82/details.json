@@ -1,0 +1,46 @@
+{
+    "title": "Questão 82 - ENEM 2015 - Reaplicação",
+    "index": 82,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A cafeína é um alcaloide, identificado como\n1,3,7-trimetilxantina (massa molar igual a 194 g/mol),\ncuja estrutura química contém uma unidade de purina,\nconforme representado. Esse alcaloide é encontrado em\ngrande quantidade nas sementes de café e nas folhas de\nchá-verde. Uma xícara de café contém, em média, 80 mg\nde cafeína.\n\nCH\n\n![](https://enem.dev/2015-reaplicacao/questions/82/e59dcf06-2b01-4ac5-9553-f70e1c773283.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/82/05dc57ca-a3a4-4f6d-927c-3feae081bdfc.png)\n\nN\n\nMARIA, C. A. B.; MOREIRA, R. F. A. Cafeína: revisão sobre métodos de análise.\nQuímica Nova, n. 1, 2007 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/82/e59dcf06-2b01-4ac5-9553-f70e1c773283.png",
+        "https://enem.dev/2015-reaplicacao/questions/82/05dc57ca-a3a4-4f6d-927c-3feae081bdfc.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que a xícara descrita contém um volume\nde 200 mL de café, a concentração, em mol/L, de cafeína\nnessa xícara é mais próxima de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,0004.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,002.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

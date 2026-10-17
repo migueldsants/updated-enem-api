@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2016 - Reaplicação",
+    "index": 27,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A eugenia, tal como originalmente concebida, era\na aplicação de “boas práticas de melhoramento” ao\naprimoramento da espécie humana. Francis Galton foi o\nprimeiro a sugerir com destaque o valor da reprodução\nhumana controlada, considerando-a produtora do\naperfeiçoamento da espécie.\n\nROSE, M. O espectro de Darwin. Rio de Janeiro: Zahar, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um resultado da aplicação dessa teoria, disseminada a\npartir da segunda metade do século XIX, foi o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aprovação de medidas de inclusão social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "adoção de crianças com diferentes características físicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estabelecimento de legislação que combatia as divisões sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "prisão e esterilização de pessoas com características consideradas inferiores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "desenvolvimento de próteses que possibilitavam a reabilitação de pessoas deficientes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

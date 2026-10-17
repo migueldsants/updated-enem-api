@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 144,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura é um mosaico desenhado sobre uma malha\nquadriculada, obtido pela justaposição de um quadrilátero,\nquatro triângulos e quatro hexágonos. O quadrilátero de cor\namarela é um quadrado.\n\n![](https://enem.dev/2025-belem/questions/144/eb2efab1-3fa9-4db1-9bbe-5ce3f20cbf1b.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/144/eb2efab1-3fa9-4db1-9bbe-5ce3f20cbf1b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quantos polígonos regulares contornados por linhas contínuas\npodem ser identificados nesse desenho?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

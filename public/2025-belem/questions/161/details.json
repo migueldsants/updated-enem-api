@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 161,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma citação presente no livro dos recordes destaca que o maior pneu do mundo é produzido para um tipo de caminhão\nutilizado em mineração. A largura de cada pneu desse tipo de caminhão mede 148 cm e seu diâmetro externo mede 403 cm.\n\nDisponível em: https://dinamicarpneus.com.br. Acesso em: 2 dez. 2018 (adaptado).\n\nUma loja de pneus pretende distribuir aos seus clientes uma miniatura desse tipo de caminhão, confeccionada com dimensões\nproporcionais às medidas reais. Após receber as miniaturas confeccionadas, foi verificado que a largura de cada pneu dessa\nminiatura mede 7,4 cm.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O diâmetro externo de cada pneu dessa miniatura, em centímetro, mede",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,72.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,29.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12,75.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20,15.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "27,55.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

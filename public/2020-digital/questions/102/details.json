@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2020 - Digital",
+    "index": 102,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A combustão completa de combustíveis fósseis produz água e dióxido de carbono (CO2,\n\n−1\n\nmassa molar 44 g mol ). A União Europeia estabeleceu, desde 2012, limite de emissão\nveicular de 130 g de CO2 por quilômetro rodado (valor aplicável a uma média de veículos de\num mesmo fabricante), tendo como penalidade multa, caso o fabricante ultrapasse a meta. A\ngasolina é uma mistura de hidrocarbonetos com cerca de oito carbonos em sua composição,\nincluindo isômeros do octano (C8H18). Considere que em uma cidade o consumo médio diário\n\n−1\n\ndos carros de um fabricante seja de 10 km L de gasolina, formada apenas por\n\n−1 −1\n\noctano (massa molar 114 g mol ) e que sua densidade seja 0,70 kg L .",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A diferença de emissão de CO2 dos carros desse fabricante em relação ao limite estabelecido\nna União Europeia é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "80% menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60% menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "46% menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "108% maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "66% maior.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

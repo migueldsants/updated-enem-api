@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2014 - Terceira aplicação",
+    "index": 83,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O petróleo que vaza de um navio cargueiro em alto-mar\npode ser removido por meio de duas técnicas de dispersão\nmecânica, em que jatos de água ou de areia são usados\npara dissociar a mancha em pequenos pedaços e facilitar\nsua degradação.\n\nDisponível em: http://g1.globo.com. Acesso em: 24 nov. 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Apesar de eficientes, essas técnicas apresentam\nimportante potencial de contaminação do solo marítimo\nquando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o petróleo que chega à praia fica impregnado na areia que é arrastada para o fundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os jatos de água ou de areia empurram o petróleo da superfície para o fundo do mar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o petróleo fica diluído na água salgada e, por ser mais denso que a água do mar, irá afundar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os jatos de água ou de areia provocam um movimento de circulação da água, que leva o petróleo para o fundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o petróleo fica diluído na água e atinge o fundo pela convecção da água e pelo afundamento dos grãos de areia do jato.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

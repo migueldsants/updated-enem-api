@@ -1,0 +1,51 @@
+{
+    "title": "Questão 148 - ENEM 2013 - Reaplicação",
+    "index": 148,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadrado ABCD, de centro O e lado 2 cm, corresponde à trajetória de uma partícula P que partiu de\nmédio de AB, seguindo pelos lados do quadrado e passando por\n\nC\n\n![](https://enem.dev/2013-reaplicacao/questions/148/fd76d10c-c7ff-479c-ba8f-a131aeeb9bbb.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/148/4185803c-0714-445a-9aec-22329908445b.png)\n\nD\n\nSeja F(x) a função que representa a distância da partícula P ao centro\nsendo x (em cm) o comprimento do percurso percorrido por tal partícula. Qual o gráfico que representa",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/148/fd76d10c-c7ff-479c-ba8f-a131aeeb9bbb.png",
+        "https://enem.dev/2013-reaplicacao/questions/148/4185803c-0714-445a-9aec-22329908445b.png",
+        "https://enem.dev/2013-reaplicacao/questions/148/fcf33d0f-751b-47ab-8d30-c02c210f6a99.png",
+        "https://enem.dev/2013-reaplicacao/questions/148/3b7354e7-1ecc-403e-8503-5572c4cb3a67.png",
+        "https://enem.dev/2013-reaplicacao/questions/148/2f74cb12-9912-4c98-af03-518ff83d68b2.png",
+        "https://enem.dev/2013-reaplicacao/questions/148/cc990626-1954-4ca8-b2ee-f6fdab8f8544.png",
+        "https://enem.dev/2013-reaplicacao/questions/148/aa995d90-aa6e-4032-9b71-cb0d38317bd1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "y",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/148/fcf33d0f-751b-47ab-8d30-c02c210f6a99.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/148/3b7354e7-1ecc-403e-8503-5572c4cb3a67.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/148/2f74cb12-9912-4c98-af03-518ff83d68b2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/148/cc990626-1954-4ca8-b2ee-f6fdab8f8544.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/148/aa995d90-aa6e-4032-9b71-cb0d38317bd1.png",
+            "isCorrect": false
+        }
+    ]
+}

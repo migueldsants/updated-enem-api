@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2014 - Terceira aplicação",
+    "index": 164,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A fim de expandir seus investimentos, um banco está\navaliando os resultados financeiros de duas seguradoras\nde veículos de uma cidade.\n\nO seguro de um carro custa, em média, R$ 2 000,00\nna seguradora X e R$ 3 000,00 na seguradora Y; já o\nvalor pago pela seguradora a um cliente, vítima de roubo,\né de R$ 42 000,00 na seguradora X e de R$ 63 000,00 na\nseguradora Y.\n\nPesquisas revelam que, nesta cidade, a probabilidade\nde um veículo ser roubado é de 1%.\n\nSabe-se que essas duas seguradoras têm a mesma\nquantidade de clientes e que o banco optará pela\nseguradora que possuir o maior lucro médio por veículo.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A seguradora escolhida pelo banco e o lucro médio por\nveículo nessa escolha serão, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Y e R$ 2 970,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y e R$ 2 370,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Y e R$ 2 340,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "X e R$ 1 580,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "X e R$ 1 560,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

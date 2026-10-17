@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2016 - Segunda aplicação",
+    "index": 77,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um hospital, acidentalmente, uma funcionária\nficou exposta a alta quantidade de radiação liberada\npor um aparelho de raios X em funcionamento.\nPosteriormente, ela engravidou e seu filho nasceu com\ngrave anemia. Foi verificado que a criança apresentava\na doença devido à exposição anterior da mãe à radiação.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O que justifica, nesse caso, o aparecimento da anemia\nna criança?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A célula-ovo sofreu uma alteração genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As células somáticas da mãe sofreram uma mutação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A célula gamética materna que foi fecundada sofreu uma mutação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "As hemácias da mãe que foram transmitidas à criança não eram normais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As células hematopoiéticas sofreram alteração do número de cromossomos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

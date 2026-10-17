@@ -1,0 +1,46 @@
+{
+    "title": "Questão 177 - ENEM 2021 - Digital",
+    "index": 177,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O organizador de uma competição de lançamento de dardos pretende tornar o\ncampeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o\njogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador\n\n![](https://enem.dev/2021-digital/questions/177/c1df7b28-fcc7-4e4a-b78a-aa65e0c7f5d2.png)\n\nconsidera que, em média, os jogadores têm, em cada lançamento, de probabilidade de\nacertar um dardo no alvo.\n\nA fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a\n\n![](https://enem.dev/2021-digital/questions/177/f250d0d5-c566-47dc-a7bc-c3299fb308a0.png)\n\nprobabilidade de um jogador pontuar em uma rodada seja igual ou superior a . Para\nisso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/177/c1df7b28-fcc7-4e4a-b78a-aa65e0c7f5d2.png",
+        "https://enem.dev/2021-digital/questions/177/f250d0d5-c566-47dc-a7bc-c3299fb308a0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos valores considerados pelo organizador da competição, a quantidade\nmínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais\natrativo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

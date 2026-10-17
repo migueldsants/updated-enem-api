@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2014 - Terceira aplicação",
+    "index": 113,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Wiki: liberdade e colaboração\nLiberdade e colaboração, duas palavras cada vez\nmais importantes no mundo movido pela informação.\nMas nem sempre foi assim. A mudança para esta nova\nrealidade só foi possível graças à evolução dos meios\nde comunicação e dentre estes, em especial, temos a\ninternet. Você pode estar pensando, mas isto ainda está\nlonge do ideal. Tenho que concordar com esta afirmação,\nmas comparando com a situação de um passado não\nmuito distante já dá para ver que evoluímos muito.\n\nNa internet encontramos uma classe de ferramentas\nde software que permite não só o acesso às informações\nde forma livre, como também a colaboração entre\nindivíduos no desenvolvimento de um projeto (mesmo\nque distantes geograficamente . São os chamados wikis\n(pronuncia-se “uiquis”).\n\nEntre, leia e participe. Os wikis e o trabalho\ncolaborativo através da internet são a maior prova de que\na soma de dois mais dois pode ser cinco ou muito mais.\n\nSUDRÉ, G. Disponível em: http://imasters.com.br. Acesso em: 27 fev. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no texto de Gilberto Sudré, conclui-se que a\nferramenta wiki seria mais adequada para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "realização de trabalhos escolares individuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impressão de textos extraídos da internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "formatação de revistas para impressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produção coletiva de um dicionário on-line.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "publicação de livros de autores clássicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

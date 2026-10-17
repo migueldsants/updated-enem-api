@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2014 - Terceira aplicação",
+    "index": 61,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As máquinas térmicas foram aprimoradas durante a\nprimeira Revolução Industrial, iniciada na Inglaterra no\nséculo XVIII. O trabalho do engenheiro francês Nicolas\nLéonard Sadi Carnot, que notou a relação entre a eficiência\nda máquina a vapor e a diferença de temperatura entre o\nvapor e o ambiente externo, foi fundamental para esse\naprimoramento.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "solução desenvolvida por Carnot para aumentar a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumentar o volume do recipiente e reduzir a pressão proporcionalmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reduzir o volume do recipiente e a pressão proporcionalmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reduzir a pressão dentro do recipiente e manter seu volume.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumentar a pressão dentro do recipiente e manter seu volume.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

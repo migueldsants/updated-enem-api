@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2016 - Reaplicação",
+    "index": 82,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O choque elétrico é uma sensação provocada\npela passagem de corrente elétrica pelo corpo.\nAs consequências de um choque vão desde um simples\nsusto até a morte. A circulação das cargas elétricas\ndepende da resistência do material. Para o corpo humano,\nessa resistência varia de 1 000 Ω, quando a pele está\nmolhada, até 100 000 Ω, quando a pele está seca. Uma\npessoa descalça, lavando sua casa com água, molhou\nos pés e, acidentalmente, pisou em um fio desencapado,\nsofrendo uma descarga elétrica em uma tensão de 120 V.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a intensidade máxima de corrente elétrica que\npassou pelo corpo da pessoa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,2 mA",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "120 mA",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8,3 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "833 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "120 kA",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

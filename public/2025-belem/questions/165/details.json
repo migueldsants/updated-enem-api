@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 165,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma loja de informática, 5 dispositivos de armazenagem de dados contêm as seguintes capacidades, expressas em\ngigabytes (GB): 32, 64, 128, 256 e 512. Nessa loja, esses dispositivos têm os preços P₁, P₂, P₃, P₄ e P₅, respectivamente, os quais\nsão determinados considerando-se R$ 10,00 por GB.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o termo geral da sequência desses preços?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2ⁿ⁺⁴",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 ⋅ 2ⁿ⁺⁶",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10 ⋅ 2ⁿ⁺⁴",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "10 ⋅ (2ⁿ + 4)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10 ⋅ (2ⁿ⁻¹ + 32)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2014 - Reaplicação",
+    "index": 140,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja decide premiar seus clientes. Cada cliente\nreceberá um dos seis possíveis brindes disponíveis,\nconforme sua ordem de chegada na loja. Os brindes a\nserem distribuídos são: uma bola, um chaveiro, uma\ncaneta, um refrigerante, um sorvete e um CD, nessa\nordem. O primeiro cliente da loja recebe uma bola, o\nsegundo recebe um chaveiro, o terceiro recebe uma\ncaneta, o quarto recebe um refrigerante, o quinto\nrecebe um sorvete, o sexto recebe um CD, o sétimo\nrecebe uma bola, o oitavo recebe um chaveiro, e assim\nsucessivamente, segundo a ordem dos brindes.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O milésimo cliente receberá de brinde um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "bola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "caneta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "refrigerante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "sorvete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "CD.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

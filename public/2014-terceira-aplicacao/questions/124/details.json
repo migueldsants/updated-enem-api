@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2014 - Terceira aplicação",
+    "index": 124,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "ORLANDELI. Disponível em: www.danilohq.ad.art.br. Acesso em: 28 fev. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa tirinha tem como tema a nova ortografia da língua portuguesa e os diversos tipos de linguagem hoje existentes.\nA situação apresentada no último quadrinho indica que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o sobrinho não compreendeu a linguagem mais conservadora utilizada pelo seu tio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tio não está familiarizado com a linguagem de chats e de mensagens instantâneas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a informalidade presente na linguagem do sobrinho impede a comunicação com o tio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o tio deve evitar utilizar a norma padrão da língua no contexto da internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o sobrinho desconhece a norma padrão da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

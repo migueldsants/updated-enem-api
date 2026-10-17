@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2012 - Reaplicação",
+    "index": 1,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A necessidade de se especializar, de forma talvez\nindireta, aproximou significativamente o campo e a cidade,\nna medida em que vários aparatos tecnológicos advindos\ndo espaço urbano foram incorporados às práticas\nagrícolas. Maquinários altamente modernos, insumos\nindustrializados na lavoura são fatores que contribuíram\npara uma nova forma de produzir no campo, cada vez\ncom maior rapidez e especialização.\n\nOLIVEIRA, E. B. S. Nova relação campo-cidade: tendências do novo rural brasileiro.\nRevista Geografia. São Paulo: Escala Educacional, maio 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base na aproximação indicada no texto, uma\nconsequência da modernização técnica para os sistemas\nprodutivos dos espaços rurais encontra-se em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exigência de mão de obra com qualificação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Implementação da atividade do ecoturismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento do número de famílias assentadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Demarcação de terras para povos indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ampliação do crédito à agricultura familiar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

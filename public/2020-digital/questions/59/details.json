@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2020 - Digital",
+    "index": 59,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Entenda a crise na Ucrânia\n\nO presidente da Rússia, Vladimir Putin, e dois líderes da Crimeia assinaram, em março de\n2014, um acordo para tornar a República Autônoma parte da Rússia. O tratado foi assinado\ndois dias após o povo da Crimeia aprovar em um referendo a separação da Ucrânia e a\nreunificação com a Rússia. A votação foi condenada por Kiev e pela comunidade internacional,\nque a considera ilegítima.\n\nDisponível em: http://g1.globo.com. Acesso em: 28 out. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A justificativa para o acordo descrito fundamentava-se na ideia de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "espaço vital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "limite fronteiriço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estrutura bipolar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "identificação cultural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "autonomia econômica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

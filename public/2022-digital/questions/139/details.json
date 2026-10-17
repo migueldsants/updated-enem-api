@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2022 - Digital",
+    "index": 139,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um\nveículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo\nsentido. Considere uma competição automobilística entre cinco carros em uma pista com\n100 m de comprimento, onde todos largam no mesmo instante e da mesma linha.\nO gráfico mostra a variação da distância percorrida por cada veículo, em função do\ntempo, durante toda a competição.\n\n100\n\n![](https://enem.dev/2022-digital/questions/139/f4d515d3-0b0a-407c-b270-944bb4d696b1.png)\n\n0 15",
+    "files": [
+        "https://enem.dev/2022-digital/questions/139/f4d515d3-0b0a-407c-b270-944bb4d696b1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo\nque chegou em último lugar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

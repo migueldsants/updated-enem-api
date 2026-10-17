@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2016 - Segunda aplicação",
+    "index": 37,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/37/f2b30047-463a-4df3-8b28-7a6c6b150578.png)\n\nAROEIRA. Disponível em: http://appsodia.ig.com.br. Acesso em: 19 jun. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/37/f2b30047-463a-4df3-8b28-7a6c6b150578.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O processo ambiental ao qual a charge faz referência\ntende a se agravar em função do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expansão gradual das áreas de desertificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumento acelerado do nível médio dos oceanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controle eficaz da emissão antrópica de gases poluentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "crescimento paulatino do uso de fontes energéticas alternativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dissenso político entre países componentes de acordos climáticos internacionais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2021 - Digital",
+    "index": 160,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta\npor 400 g de frango, 600 g de batata-doce e uma hortaliça. Atualmente, os preços dos\nprodutos para essa refeição são:\n\nEm relação a esses preços, haverá um aumento de 50% no preço do quilograma de\nbatata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da\nrefeição, a quantidade de batata-doce e\nquantidade de frango.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual deve ser a redução percentual da quantidade de frango para que o atleta alcance\nseu objetivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "28,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "50,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

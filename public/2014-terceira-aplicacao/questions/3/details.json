@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2014 - Terceira aplicação",
+    "index": 3,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O mundo dos fatos geográficos inclui não somente\no clima, as propriedades agrícolas, os povoamentos e\nas nações-estados, mas também os sentimentos, os\nconceitos e as teorias geográficas.\n\nTUAN, Y. Geografia Humanística. In: CHRISTOFOLETTI, A. Perspectivas da Geografia.\nSão Paulo: DIFEL, 1985.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto apresenta uma perspectiva de análise das\nmudanças espaciais a partir de outros fatores que não\napenas os físicos e sociais, onde",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a análise do espaço geográfico compreende os aspectos físicos, sociais e simbólicos que incidem sobre a produção das paisagens humanas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "os aspectos físicos da paisagem, como o clima, revelam a dinâmica dos fatos geográficos compreendidos por uma pluralidade conceitual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a dimensão simbólica do espaço, apreendida pelos sentimentos, constitui uma nova percepção espacial no instante em que revelam as propriedades das paisagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "para se apreender o espaço geográfico em sua totalidade, é necessário identificar os aspectos físicos da paisagem expressos no clima, povoamento e uso do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o mundo dos fatos geográficos constitui-se de elementos simbólicos apreendidos pelas teorias e conceitos geográficos que revelam a complexidade da dimensão espacial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

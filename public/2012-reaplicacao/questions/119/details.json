@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2012 - Reaplicação",
+    "index": 119,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Uma tuiteratura?\n\nAs novidades sobre o Twitter já não cabem em\n140 toques. Informações vindas dos EUA dão conta de\nque a marca de 100 milhões de adeptos acaba de ser\nalcançada e que a biblioteca do Congresso, um dos\nprincipais templos da palavra impressa, vai guardar em\nseu arquivo todos os tweets, ou seja, as mensagens\ndo microblog. No Brasil o fenômeno não chega a tanto,\nmas já somos o segundo país com o maior número de\ntuiteiros. Também aqui o Twitter está sendo aceito em\nterritórios antes exclusivos do papel. A própria Academia\nBrasileira de Letras abriu um concurso de microcontos\npara textos com apenas 140 caracteres. Também se fala\ndas possibilidades literárias desse meio que se caracteriza\npela concisão. Já há até um neologismo, “tuiteratura”,\npara indicar os “enunciados telegráficos com criações\noriginais, citações ou resumos de obras impressas”. Por\nora, pergunto como se estivesse tuitando: querer fazer\nliteratura com palavras de menos não é pretensão demais?\n\nVENTURA, Z. O Globo, 17 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As novas tecnologias estão presentes na sociedade\nmoderna, transformando a comunicação por meio de\ninovadoras linguagens. O texto de Zuenir Ventura mostra\nque o Twitter tem sido acessado por um número cada vez\nmaior de internautas e já se insere até na literatura. Neste\ncontexto de inovações linguísticas, a linguagem do Twitter\napresenta como característica relevante",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a concisão relativa ao texto ao adotar como regra o uso de uma quantidade predefinida de toques.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a frequência de neologismos criados com a finalidade de tornar a mensagem mais popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o uso de expressões exclusivas da nova forma literária para substituir palavras usuais do português.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o emprego de palavras pouco usuais no dia a dia para reafirmar a originalidade e o espírito crítico dos usuários desse tipo de rede social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o uso de palavras e expressões próprias da mídia eletrônica para restringir a participação de usuários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

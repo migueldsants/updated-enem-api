@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2016 - Segunda aplicação",
+    "index": 42,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Simples, saborosa e, acima de tudo, exótica. Se a\nculinária brasileira tem o tempero do estranhamento,\nesta verdade decorre de dois elementos: a dimensão\ndo território e a infinidade de ingredientes. Percebe-se\nque o segredo da cozinha brasileira é a mistura com\ningredientes e técnicas indígenas. É esse o elemento\nque a torna autêntica.\n\nPOMBO, N. Cardápio Brasil. Nossa História, n. 29, mar. 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O processo de formação identitária descrito no texto está\nassociado à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "imposição de rituais sagrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "assimilação de tradições culturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "tipificação de hábitos comunitários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hierarquização de conhecimentos tribais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "superação de diferenças etnorraciais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2021 - Digital",
+    "index": 58,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A vida das pessoas se modifica com a mesma rapidez com que se reproduz a\ncidade. O lugar da festa, do encontro quase desaparecem; o número de brincadeiras\ninfantis nas ruas diminui — as crianças quase não são vistas; os pedaços da cidade são\nvendidos, no mercado, como mercadorias; árvores são destruídas, praças transformadas\nem concreto. Por outro lado, os habitantes parecem perder na cidade suas próprias\nreferências. A imagem de uma grande cidade hoje é tão mutante que se assemelha à de\num grande guindaste, aliás, a presença maciça destes, das britadeiras, das betoneiras\nnos dão o limite do processo de transformação diária ao qual está submetida a cidade.\n\nCARLOS, A. F. A. A cidade. São Paulo: Contexto, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No contexto das grandes cidades brasileiras, a situação apresentada no texto vem\nocorrendo como consequência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "manutenção dos modos de convívio social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "preservação da essência do espaço público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliação das normas de controle ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "flexibilização das regras de participação política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alteração da organização da paisagem geográfica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

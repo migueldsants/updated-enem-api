@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2012 - Reaplicação",
+    "index": 13,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Outro importante método de racionalização do\ntrabalho industrial foi concebido graças aos estudos\ndesenvolvidos pelo engenheiro norte-americano\nFrederick Winslow Taylor. Uma de suas preocupações\nfundamentais era conceber meios para que a capacidade\nprodutiva dos homens e das máquinas atingisse seu\npatamar máximo. Para tanto, ele acreditava que estudos\ncientíficos minuciosos deveriam combater os problemas\nque impediam o incremento da produção.\n\nTaylorismo e Fordismo. Disponível em: www.brasilescola.com. Acesso em: 28 fev. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O Taylorismo apresentou-se como um importante modelo\nprodutivo ainda no início do século XX, produzindo\ntransformações na organização da produção e, também,\nna organização da vida social. A inovação técnica trazida\npelo seu método foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utilização de estoques mínimos em plantas industriais de pequeno porte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cronometragem e controle rigoroso do trabalho para evitar desperdícios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "produção orientada pela demanda enxuta atendendo a específicos nichos de mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "flexibilização da hierarquia no interior da fábrica para estreitar a relação entre os empregados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "polivalência dos trabalhadores que passaram a realizar funções diversificadas numa mesma jornada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2014 - Reaplicação",
+    "index": 52,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No ano de 2009, registrou-se um surto global de gripe\ncausada por um variante do vírus Influenza A, designada\nH1N1. A Organização Mundial de Saúde OMS solicitou\nque os países intensificassem seus programas de\nprevenção para que não houvesse uma propagação da\ndoença. Uma das ações mais importantes recomendadas\npela OMS era a higienização adequada das mãos,\nespecialmente após tossir e espirrar.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A ação recomendada pela OMS tinha como objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reduzir a reprodução viral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impedir a penetração do vírus pela pele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reduzir o processo de autoinfecção viral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reduzir a transmissão do vírus no ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "impedir a seleção natural de vírus resistentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2016 - Segunda aplicação",
+    "index": 88,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma nova estratégia para o controle da dengue\nfoi apresentada durante o Congresso Internacional de\nMedicina Tropical, no Rio de Janeiro, em 2012. O projeto\ntraz uma abordagem nova e natural para o combate à\ndoença e já está em fase de testes. O objetivo do programa\né cessar a transmissão do vírus da dengue pelo Aedes\naegypti, a partir da introdução da bactéria Wolbachia\n— que é naturalmente encontrada em insetos — nas\npopulações locais de mosquitos. Quando essa bactéria\né introduzida no A. aegypti, atua como uma “vacina”,\nestimulando o sistema imunológico e bloqueando a\nmultiplicação do vírus dentro do inseto.\n\nDisponível em: http://portalsaude.saude.gov.br. Acesso em: 20 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual o conceito fundamental relacionado a essa\nestratégia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Clonagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mutualismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Parasitismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Transgênese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Controle biológico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2012 - Reaplicação",
+    "index": 16,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/16/a061f184-fc60-47ae-bdad-02f98d324b79.png)\n\nRIBEIRO, L. C. Q.; SANTOS JUNIOR, O. A. Desafios da questão urbana. Le Monde Diplomatique\n\nBrasil. Ano 4, n. 45, abr. 2010. Disponível em: http://diplomatique.uol.com.br.\nAcesso em: 22 ago. 2011.\n\nA imagem registra uma especificidade do contexto urbano\n\nem que a ausência ou ineficiência das políticas públicas",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/16/a061f184-fc60-47ae-bdad-02f98d324b79.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "resultou em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "garantia dos direitos humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "superação do déficit habitacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controle da especulação imobiliária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mediação dos conflitos entre classes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumento da segregação socioespacial.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

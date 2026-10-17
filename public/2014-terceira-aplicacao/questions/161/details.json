@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2014 - Terceira aplicação",
+    "index": 161,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O filme A corrente do bem conta a história de um\njovem que crê ser possível mudar o mundo a partir da\nação voluntária de cada um. A ideia é baseada em três\npremissas: fazer por alguém algo que este não pode\nfazer por si mesmo; fazer isso para três pessoas; cada\npessoa ajudada deve fazer isso por outras três pessoas.\nDa mesma forma que temos a “corrente do bem” para\n3 pessoas, podemos ter uma corrente do bem para um\nnúmero qualquer de pessoas.\n\nSuponha que uma corrente do bem seja iniciada numa\nsegunda-feira, com X pessoas sendo ajudadas, e que\ncada uma dessas X pessoas ajudasse outras X pessoas\nexatamente 24 horas após ter recebido a ação voluntária.\n\nDisponível em: www.webcine.com.br. Acesso em: 18 fev. 2012.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/161/6a311815-e747-4e47-a4d6-bf6171047e26.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para termos um total de 42 pessoas ajudadas ao término\nda terça-feira o número X deve ser igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/161/6a311815-e747-4e47-a4d6-bf6171047e26.png",
+            "isCorrect": false
+        }
+    ]
+}

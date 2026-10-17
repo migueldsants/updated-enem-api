@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2020 - Digital",
+    "index": 1,
+    "year": 2020,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Bienalsur: una invitación a cruzar las fronteras\n\nUn dedo nos señala, acusador. Lo vemos en la estación de tren, en el museo, en puertas,\nventanas y vidrieras. ¿Quién fue?, grita en silencio la obra de Graciela Sacco. Ése es el\nintimidante título elegido por la artista rosarina para este proyecto, con el que participará de la\nprimera edición de Bienalsur. No estará sola: unos 300 colegas y curadores se sumarán en\nmás de 30 ciudades de 16 países a esta ambiciosa iniciativa impulsada desde Buenos Aires.\n\n\"La bienal intenta ser una herramienta de integración regional\", dijo a LA NACION su\ndirector general, Aníbal Jozami. El rector de la Universidad Nacional de Tres de Febrero\n(Untref) se inspiró en las memorias de Jean Monnet, considerado uno de los \"padres\" de la\nUnión Europea. \"Él dijo que si la Unión Europea hubiera empezado por una integración cultural\nen lugar de económica, el resultado hubiera sido mucho mejor − agregó −. Uno de los\nobjetivos de Bienalsur es crear canales de comunicación que permitan a la gente sentirse\nparte de un mismo circuito.\"\n\nDisponível em: www.lanacion.com.ar. Acesso em: 24 ago. 2017.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Artistas em várias partes do mundo expõem suas obras em eventos que celebram a arte,\ncomo a Bienalsur. Em consonância com o texto, pode-se constatar que esse evento artístico\ninovador foi criado com o propósito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apontar as diversas obras artísticas expostas em Buenos Aires.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inspirar as transformações econômica e política de países europeus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acusar artistas que expõem suas obras em locais pouco tradicionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promover a socialização entre diferentes artistas e a população em geral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "realizar exposições artísticas sobre eventos esportivos como os Jogos Olímpicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

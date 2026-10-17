@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2014 - Terceira aplicação",
+    "index": 94,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Disponível em: www.google.com.br. Acesso em: 27 fev. 2012.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A tira, definida como um segmento de história em quadrinhos, pode transmitir uma mensagem com efeito de humor.\nNa tira, a presença desse efeito no diálogo entre Lucy e seu irmão Linus acontece porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Linus prefere interpretar o ciclo da natureza à sua própria maneira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Lucy dá uma lição de moral em Linus usando o ciclo da vida e da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Lucy se surpreende com a compreensão de Linus sobre o ciclo da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Lucy associa o ciclo da natureza, que ocorre a cada dois anos, ao ciclo da vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Linus satiriza a explicação que Lucy fornece sobre o ciclo da natureza e da vida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

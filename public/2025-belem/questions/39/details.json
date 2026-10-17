@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 39,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "“Adjudicar?”: filme de Claudinho e Buchecha\nrevela significado do termo em Nosso sonho\nO filme Nosso sonho, a cinebiografia de Claudinho e\nBuchecha, abordou uma dúvida carregada por muitos fãs da\ndupla. Afinal, o que significa a palavra “adjudicar”? O termo\nestá presente na letra da canção Nosso sonho — que dá nome\nao longa —, um dos maiores sucessos dos artistas.\n\nDe acordo com o dicionário Aurélio, “adjudicar” é\n“conceder a posse de (algo), por decisão ou sentença judicial\nou administrativa”. O termo também pode significar “considerar\ncomo autor, causa ou origem”.\n\nUma das interpretações da música pode sugerir que “o sonho\nnão vai acabar” se o “destino” conceder a posse do amor ao\ncasal em questão. No filme, o assunto é abordado de uma forma\nmuito bem-humorada. Ao levarem a letra de Nosso sonho para\na gravadora, os produtores veem com estranheza o termo e\nafirmam que ele é “inventado”. Na sequência, Claudinho saca\num dicionário gigantesco e lê o significado literal da palavra para\nprovar sua existência.\n\nDisponível em: https://cultura.uol.com.br.\nAcesso em: 8 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com esse texto, o estranhamento em torno do\nvocábulo “adjudicar” se deve ao fato de a letra de canção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promover o uso de palavras rebuscadas na valorização da obra musical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "empregar um regionalismo típico carioca no gênero musical funk.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inserir um termo formal do meio jurídico em uma canção popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "incorporar uma palavra em desuso no português brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "introduzir uma gíria comum ao público-alvo da canção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

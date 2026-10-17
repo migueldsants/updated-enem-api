@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2021 - Digital",
+    "index": 63,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As atividades mineradoras têm criado conflitos com extrativistas, quilombolas,\npequenos agricultores, ribeirinhos, pescadores artesanais e povos indígenas. Em geral,\nestes sujeitos têm encontrado grande dificuldade de reproduzir suas dinâmicas territoriais\ndepois da instalação da atividade mineradora, nem sempre com reconhecimento do\nimpacto ao seu território pelo Estado e pela empresa, ficando sem qualquer tipo de\ncompensação econômica. Em outros casos, nem a compensação econômica tem sido\ncapaz de evitar o esgarçamento das relações sociais destes grupos que sofrem com a\nreconstrução abrupta das suas identidades e de suas dinâmicas territoriais.\n\nPALHETA, J. M. et al. Conflitos pelo uso do território na Amazônia mineral. Mercator, n. 16, 2017.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto apresenta uma relação entre atividade econômica e organização social marcada\npelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "escassez de incentivo cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rompimento de vínculos locais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "carência de investimento financeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estabelecimento de práticas agroecológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "enriquecimento das comunidades autóctones.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

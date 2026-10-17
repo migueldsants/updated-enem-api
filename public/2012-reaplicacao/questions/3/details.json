@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2012 - Reaplicação",
+    "index": 3,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/3/9adb1960-9e50-4b78-92c3-78cbf44cb5ad.png)\n\nZIRALDO. 20 anos de prontidão, 1984.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/3/9adb1960-9e50-4b78-92c3-78cbf44cb5ad.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os aparelhos televisores se multiplicam nas residências\ndo Brasil a partir da década de 1960. A partir da charge,\nos programas televisivos eram controlados para atender\ninteresses dos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "artistas críticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "grupos terroristas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "governos autoritários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "partidos oposicionistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "intelectuais esquerdistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

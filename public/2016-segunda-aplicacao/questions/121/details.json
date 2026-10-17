@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2016 - Segunda aplicação",
+    "index": 121,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Como escrever na internet\nRegra 1 – Fale, não GRITE!\nCombine letras maiúsculas e minúsculas, da mesma forma que na escrita comum. Cartas em papel não são\nescritas somente com letras maiúsculas; na internet, escrever em maiúsculas é o mesmo que gritar! Para enfatizar\nfrases e palavras, use os recursos de _sublinhar_ (colocando palavras ou frases entre sublinhados) e *grifar* (palavras\nou frases entre asteriscos). Frases em maiúsculas são aceitáveis em títulos e ênfases ou avisos urgentes.\n\nRegra 2 – Sorria :-) pisque ;-) chore &-( ...\nOs emoticons (ou smileys) são ícones formados por parênteses, pontos, vírgulas e outros símbolos do teclado.\nEles representam carinhas desenhadas na horizontal e denotam emoções. É difícil descobrir quando uma pessoa\nestá falando alguma coisa em tom de brincadeira, se está realmente brava ou feliz, ou se está sendo irônica, em um\nambiente no qual só há texto; por isso, entram em cena os smileys. Comece a usá-los aos poucos e, com o passar do\ntempo, estarão integrados naturalmente às suas conversas on-line.\n\nDisponível em: www.icmc.usp.br. Acesso em: 29 jul. 2013.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto traz exemplos de regras que podem evitar mal-entendidos em comunicações eletrônicas, especialmente em\ne-mails e chats. Essas regras",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "revelam códigos internacionalmente aceitos que devem ser seguidos pelos usuários da internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "constituem um conjunto de normas ortográficas inclusas na escrita padrão da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "representam uma forma complexa de comunicação, pois os caracteres são de difícil compreensão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "foram desenvolvidas para que usuários de países de línguas diferentes possam se comunicar na web.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "refletem recomendações gerais sobre o uso dos recursos de comunicação facilitadores da convivência na internet.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

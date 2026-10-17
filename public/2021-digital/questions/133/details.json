@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2021 - Digital",
+    "index": 133,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No cultivo por hidroponia, são utilizadas soluções nutritivas contendo macronutrientes\ne micronutrientes essenciais. Além dos nutrientes, o pH é um parâmetro de extrema\nimportância, uma vez que ele afeta a preparação da solução nutritiva e a absorção dos\nnutrientes pelas plantas. Para o cultivo de alface, valores de pH entre 5,5 e 6,5 são ideais\npara o seu desenvolvimento. As correções de pH são feitas pela adição de compostos\nácidos ou básicos, mas não devem introduzir elementos nocivos às plantas. Na tabela,\nsão apresentados alguns dados da composição da solução nutritiva de referência para\nesse cultivo. Também é apresentada a composição de uma solução preparada por um\nprodutor de cultivo hidropônico.\n\n![](https://enem.dev/2021-digital/questions/133/61dadd33-70e5-43f7-bcc7-1f25042b5ea1.png)\n\nLENZI, E.; FAVERO, L. O. B.; LUCHESE, E. B. Introdução à química da água: ciência, vida e sobrevivência.\nRio de Janeiro: LTC, 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/133/61dadd33-70e5-43f7-bcc7-1f25042b5ea1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para correção do pH da solução nutritiva preparada, esse produtor pode empregar uma\nsolução de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ácido fosfórico, H PO .₃₄",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sulfato de cálcio, CaSO .₄",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "óxido de alumínio, Al O .₂₃",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cloreto de ferro(II), FeCl .₂",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hidróxido de potássio, KOH.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

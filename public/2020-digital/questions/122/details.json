@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2020 - Digital",
+    "index": 122,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um produtor de morangos notou, no início\nextremidades das folhas dos morangueiros\ninformação a respeito do fenômeno, o agricultor descobre que isso é também observado em\noutras plantas herbáceas de pequeno porte.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse fenômeno fisiológico ocorre em condições de elevada umidade do ar e",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "escassez de sais minerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "abundante suprimento hídrico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "abundante período de transpiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ausência de resistência estomática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ausência de substâncias impermeabilizantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

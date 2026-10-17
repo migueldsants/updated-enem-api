@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2016 - Reaplicação",
+    "index": 34,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As informações sugeridas por Antônio Manuel estão\nimersas em um jornal dividido entre o “real” e o que\npodemos chamar de “situacional”. O artista transforma todo\no clima de repressão na própria matéria de seu trabalho,\nutilizando os meios de comunicação como arma (irônica)\ncontra a estrutura de poder de um Estado autoritário.\n\nSCOVINO, F. Com as armas do inimigo. Revista de História da Biblioteca Nacional,\nn. 84, set. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No contexto histórico descrito, a estratégia adotada por\nalguns segmentos da imprensa para a construção de uma\ncrítica sociopolítica foi a de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "burlar a censura, contribuindo para a análise da vida social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "justificar o regime vigente, apresentando versões diversas da realidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estimular a livre interpretação dos fatos, atendendo aos interesses dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aprimorar o alcance das informações, apresentando as notícias em tempo real.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manipular a visão coletiva, promovendo interpretações distorcidas das notícias oficiais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

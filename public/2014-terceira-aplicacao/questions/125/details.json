@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2014 - Terceira aplicação",
+    "index": 125,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Art. 5º — Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e\naos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à\npropriedade.\n\nConstituição da República Federativa do Brasil. 1988. Disponível em:\nwww.planalto.gov.br. Acesso em: 23 ago. 2011 fragmento .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A objetividade inerente ao gênero lei manifesta-se no alto grau de formalidade da linguagem empregada. Essas\ncaracterísticas são expressas na estruturação do texto por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vocábulos derivados por sufixação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "frases ordenadas indiretamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "palavras de sentido literal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "períodos simples.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "substantivos compostos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 50 - ENEM 2016 - Segunda aplicação",
+    "index": 50,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nas rodovias, é comum motoristas terem a\nvisão ofuscada ao receberem a luz refletida na água\nempoçada no asfalto. Sabe-se que essa luz adquire\npolarização horizontal. Para solucionar esse problema,\nhá a possibilidade de o motorista utilizar óculos de lentes\nconstituídas por filtros polarizadores. As linhas nas lentes\ndos óculos representam o eixo de polarização dessas\nlentes.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/50/1a7ceeb2-9171-4b54-844a-c59c281258a1.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/50/9645b678-0b8a-4e72-8188-b342a779abfb.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/50/ed6fd928-1f6d-4ec8-8cb7-2663a12cbc69.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/50/9fbb3e0a-6737-4464-a59f-6653052530c4.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/50/7e61dae7-c2ca-4fbd-8a77-28b68932e5de.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quais são as lentes que solucionam o problema descrito?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/50/1a7ceeb2-9171-4b54-844a-c59c281258a1.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/50/9645b678-0b8a-4e72-8188-b342a779abfb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/50/ed6fd928-1f6d-4ec8-8cb7-2663a12cbc69.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/50/9fbb3e0a-6737-4464-a59f-6653052530c4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/50/7e61dae7-c2ca-4fbd-8a77-28b68932e5de.png",
+            "isCorrect": false
+        }
+    ]
+}

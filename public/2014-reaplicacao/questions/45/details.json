@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2014 - Reaplicação",
+    "index": 45,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-reaplicacao/questions/45/2360d868-1d8c-4fa9-8f3a-7712f3e1834a.png)\n\nGIRARDI, E. P. Atlas da questão agrária brasileira. Disponível em: www.fct.unesp.br. Acesso em: 7 ago. 2012 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/45/2360d868-1d8c-4fa9-8f3a-7712f3e1834a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A formação do território da soja no Brasil refletiu a seguinte característica espacial:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inclusão de regiões com elevadas concentrações populacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incorporação de espaços com baixa fertilidade natural dos solos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Integração com espaços de consolidação de reservas extrativistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade de proximidade física com os principais portos do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reutilização de áreas produtivas decadentes da tradicional cultura canavieira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

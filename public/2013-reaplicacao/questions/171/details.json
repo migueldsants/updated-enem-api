@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2013 - Reaplicação",
+    "index": 171,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Conselho Monetário Nacional (CMN) determinou\nnovas regras sobre o pagamento mínimo da fatura do\ncartão de crédito, a partir do mês de agosto de 2011.\nA partir de então, o pagamento mensal não poderá ser\ninferior a 15% do valor total da fatura. Em dezembro\ndaquele ano, outra alteração foi efetuada: daí em diante,\no valor mínimo a ser pago seria de 20% da fatura.\n\nDisponível em: http://g1.globo.com. Acesso em: 29 fev. 2012.\n\nUm determinado consumidor possuía no dia do\nvencimento, 01/03/2012, uma dívida de R$ 1 000,00 na\nfatura de seu cartão de crédito. Se não houver pagamento\ndo valor total da fatura, são cobrados juros de 10% sobre\no saldo devedor para a próxima fatura. Para quitar sua\ndívida, optou por pagar sempre o mínimo da fatura a cada\nmês e não efetuar mais nenhuma compra.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A dívida desse consumidor em 01/05/2012 será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 600,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 640,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 722,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 774,40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R$ 874,22.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

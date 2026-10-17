@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 166,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma loja, um computador é vendido por R$ 2 000,00 à vista ou, de forma financiada, mediante uma entrada e mais\n15 parcelas mensais iguais, envolvendo cobrança de juros. Inicialmente, um cliente propôs dar R$ 500,00 de entrada e, para esse\ncaso, o vendedor calculou em R$ 150,00 o valor das prestações mensais. Para facilitar a escolha do cliente, o vendedor informou\nque cada R$ 1,00 de redução no valor das prestações corresponde a um acréscimo de R$ 10,00 no valor da entrada. Com essas\ninformações, o cliente decidiu pela compra financiada, pagando prestações mensais de R$ 120,00.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quanto, em real, esse cliente deve acrescentar ao valor inicial de sua proposta de entrada para viabilizar as prestações no valor\nde R$ 120,00?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "200,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "300,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "600,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "800,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

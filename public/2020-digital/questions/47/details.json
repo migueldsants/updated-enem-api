@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2020 - Digital",
+    "index": 47,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Sem negar que Deus prevê todos os acontecimentos futuros, entretanto, nós queremos\nlivremente aquilo que queremos. Porque, se o objeto da presciência divina é a nossa vontade,\né essa mesma vontade assim prevista que se realizará. Haverá, pois, um ato de vontade livre,\njá que Deus vê esse ato livre com antecedência.\n\nSANTO AGOSTINHO. O livre-arbítrio. São Paulo: Paulus, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa discussão, proposta pelo filósofo Agostinho de Hipona (354-430), indica que a liberdade\nhumana apresenta uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "natureza condicionada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "competência absoluta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aplicação subsidiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilização facultativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "autonomia irrestrita.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

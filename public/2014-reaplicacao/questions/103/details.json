@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2014 - Reaplicação",
+    "index": 103,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O veneno do bem\n\nImagine que você cortou o rosto e, em vez de dar\npontos, o seu médico passa uma supercola feita de\nsangue de boi e veneno de cascavel. Isso pode mesmo\nacontecer. Mas não se assuste. A história moderna das\nserpentes não tem nada a ver com o medo ancestral\nque inspiram. Para a ciência, elas guardam produtos\nutilíssimos nas glândulas letais. O mais recente é uma\ncola de pele genuinamente brasileira, que, segundo os\ntestes já feitos, dá uma cicatrização perfeita.\n\nA descoberta pertence à equipe do professor\nBenedito Barraviera, da Universidade Estadual\nPaulista, em Botucatu. E não é a primeira feita no\nBrasil. Nos anos 1960, o médico Sérgio Ferreira, atual\npresidente da Sociedade Brasileira para o Progresso da\nCiência, descobriu na jararaca uma molécula que em\n1977 virou remédio contra a hipertensão.\n\nDisponível em: www.super.abril.com.br. Acesso em: 2 mar. 2012 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nos diferentes textos, pode-se inferir, entre outras\ninformações, quais são os objetivos de seu produtor e\nquem é seu público-alvo. No trecho, para aproximar-se\ndo interlocutor, o autor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "emprega uma linguagem técnica de domínio do leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "enfatiza informações importantes para a vida do leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "introduz o tema antecipando possíveis reações do leitor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "explora um tema sobre o qual o leitor tem reconhecido interesse.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresenta ao leitor, de forma minuciosa, a descoberta dos médicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

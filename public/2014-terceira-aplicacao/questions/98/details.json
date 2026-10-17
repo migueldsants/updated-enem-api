@@ -1,0 +1,45 @@
+{
+    "title": "Questão 98 - ENEM 2014 - Terceira aplicação",
+    "index": 98,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/98/7e6002d5-2db4-4dff-9ebe-40059a4c3903.png)\n\nERNEST, M. O gigante acéfalo. Disponível em: www.historiadaarte.com.br.\nAcesso em: 26 jan. 2012.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/98/7e6002d5-2db4-4dff-9ebe-40059a4c3903.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A perplexidade causada pela catástrofe da Primeira\nGuerra Mundial fez surgir um movimento de vanguarda\ndenominado Dadaísmo, que rejeitava os valores\ntradicionais e rompia com a estética clássica. A imagem\nda obra O gigante acéfalo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "explora elementos sensoriais para explicar a racionalidade do pós-guerra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "recria a realidade para combater os padrões estéticos da época.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "organiza as formas geométricas para inovar as artes visuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "representa as experiências individuais de exaltação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "utiliza a sensibilidade para retratar o drama humano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

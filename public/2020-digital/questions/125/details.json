@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2020 - Digital",
+    "index": 125,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A composição de um dos refrigerantes mais ácidos mundialmente consumido é mantida\nem segredo pelos seus produtores. Existe uma grande especulação em torno da \"fórmula\"\ndessa bebida, a qual envolve algumas das seguintes substâncias:\n\n![](https://enem.dev/2020-digital/questions/125/1f8b7e8e-5599-4e54-8065-1de4f556b1a2.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/125/1f8b7e8e-5599-4e54-8065-1de4f556b1a2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A substância presente nesse refrigerante, responsável pelo seu acentuado caráter ácido, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

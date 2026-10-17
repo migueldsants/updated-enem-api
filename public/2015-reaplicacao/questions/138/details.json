@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2015 - Reaplicação",
+    "index": 138,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Doenças relacionadas ao saneamento ambiental\ninadequado (DRSAI) podem estar associadas ao\nabastecimento deficiente de água, tratamento inadequado\nde esgoto sanitário, contaminação por resíduos sólidos\nou condições precárias de moradia. O gráfico apresenta o\nnúmero de casos de duas DRSAI de uma cidade:\n\nNº de casos\n\n1 200\n1 100\n1 000\n900\n800\n700\n\n![](https://enem.dev/2015-reaplicacao/questions/138/e7bb5a32-d2fc-46c0-90c6-c1fe42fd74f5.png)\n\n600\n500\n400\n300\n200\n100\n\njanfevmarabrmaijunjulagosetoutnov dez^mês\n\nDisponível em: http://dados.gov.br. Acesso em: 7 dez. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/138/e7bb5a32-d2fc-46c0-90c6-c1fe42fd74f5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O mês em que se tem a maior diferença entre o número\nde casos das doenças de tipo A e B é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "abril.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "julho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "setembro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "novembro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

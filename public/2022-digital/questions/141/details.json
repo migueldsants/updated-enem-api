@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2022 - Digital",
+    "index": 141,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados\nna figura, na qual as linhas verticais e horizontais simbolizam ruas.\n\n![](https://enem.dev/2022-digital/questions/141/aeeb5a06-c6e7-42bd-84ce-09f54ebf4c68.png)\n\nPor causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a\npossibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se\nespecificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à\ndireção de deslocamento do automóvel, que se movimentará continuamente. Para isso,\nempregam-se as letras E, F e D para indicar “vire à esquerda”, “siga em frente” e\n“vire à direita”, respectivamente.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/141/aeeb5a06-c6e7-42bd-84ce-09f54ebf4c68.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A sequência de letras que descreve o caminho poligonal destacado é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "DDEFDDEEFFD.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "DFEFDDDEFFD.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "DFEFDDEEFFD.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "EFDFEEDDFFE.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "EFDFEEEDFFE.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

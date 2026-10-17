@@ -1,0 +1,46 @@
+{
+    "title": "Questão 113 - ENEM 2022 - Digital",
+    "index": 113,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2002, foi publicado um artigo científico que relacionava alterações na produção\nde hormônios sexuais de sapos machos expostos à atrazina, um herbicida, com o\ndesenvolvimento anômalo de seus caracteres sexuais primários e secundários. Entre os\nanimais sujeitos à contaminação, observaram-se casos de hermafroditismo e\ndesmasculinização da laringe. O estudo em questão comparou a concentração de um\nhormônio específico no sangue de machos expostos ao agrotóxico com a de outros\nmachos e fêmeas que não o foram (controles). Os resultados podem ser vistos na figura.\n\n)\n\n-¹\n\n![](https://enem.dev/2022-digital/questions/113/4cf6c8de-a14f-4c27-93ab-59c13d2d1095.png)\n\n![](https://enem.dev/2022-digital/questions/113/e648eb21-d621-4fda-93dd-4b78f1a1e524.png)\n\nMachos Machos Fêmeas\ncontrole expostos controle\nà atrazina\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to the Herbicide Atrazine at Low\nEcologically Relevant Doses. Proceedings of the National Academy of Sciences, n. 8, 2002 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/113/4cf6c8de-a14f-4c27-93ab-59c13d2d1095.png",
+        "https://enem.dev/2022-digital/questions/113/e648eb21-d621-4fda-93dd-4b78f1a1e524.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nas informações do texto, qual é o hormônio cujas concentrações estão\nrepresentadas na figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estrogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Feromônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Testosterona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Somatotrofina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hormônio folículo estimulante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

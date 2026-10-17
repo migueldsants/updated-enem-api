@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2016 - Reaplicação",
+    "index": 15,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/15/60051dc5-d39c-491a-b0ad-c4d966dc16e8.png)\n\nQUINO. Mafalda. Disponível em: www.nova-acropole.pt. Acesso em: 28 fev. 2013.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/15/60051dc5-d39c-491a-b0ad-c4d966dc16e8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A figura do inquilino ao qual a personagem da tirinha se refere é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constrangimento por olhares de reprovação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "costume imposto aos filhos por coação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consciência da obrigação moral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pessoa habitante da mesma casa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "temor de possível castigo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

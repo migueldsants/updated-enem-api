@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2012 - Reaplicação",
+    "index": 94,
+    "year": 2012,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Our currency\n\nAustralia was the first country in the world to have a\ncomplete system of bank notes made from plastic (polymer).\nThese notes provide much greater security against\ncounterfeiting. They also last four times as long as\nconventional paper (fibrous) notes.\n\nThe innovative technology with which Australian bank\nnotes are produced — developed entirely in Australia —\noffers artists brilliant scope for the creation of images that\nreflect the history and natural environment of Australia. At the\nsame time, the polymer notes are cleaner than paper notes\nand easily recyclable. Australia’s currency comprises coins of\n5, 10, 20 and 50 cent and one and two dollar denominations;\nand notes of 5, 10, 20, 50 and 100 dollar denominations.\n\nAUSTRALIA GOVERNMENT. About Australia. Disponível em: www.newzealand.com.\nAcesso em: 7 dez. 2011.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/94-ingles/cab31f7a-5188-48c3-b483-48797d447aa6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O governo da Austrália, por meio de seu Departamento\nde Assuntos Estrangeiros, divulga inovações tecnológicas\ndesse país. Associando as informações apresentadas na\nbusca pelo tema, percebe-se que o texto se refere",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à educação ambiental na Austrália.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ao sistema monetário australiano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "aos expoentes da arte australiana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à situação econômica da Austrália.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/94-ingles/cab31f7a-5188-48c3-b483-48797d447aa6.png",
+            "isCorrect": false
+        }
+    ]
+}

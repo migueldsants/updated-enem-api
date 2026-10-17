@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2020 - Digital",
+    "index": 62,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O jovem que nasceu e cresceu sob a ditadura perdeu muitos contatos com a realidade e\ncom a história como processo vivo. Mas conheceu em sua carne o que é a opressão e como a\nrepressão institucional (às vezes inconsciente e definitiva, dentro da família, da escola etc.) é\nodiosa. Essa é uma riqueza ímpar. O potencial radical de um jovem — pobre, de pequena\nburguesia ou “rico” — que sofre prolongadamente uma experiência dessas, constitui um\nagente político valioso. Ele está “embalado” para rejeitar e combater a opressão sistemática e\na repressão dissimulada, o que o converte em um ser político inconformista promissor.\n\nFERNANDES, F. O dilema político dos jovens. In: Florestan Fernandes na constituinte:\nleituras para reforma política. São Paulo: Expressão Popular, 2014.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No contexto mencionado, Florestan Fernandes tematiza um efeito inesperado do exercício do\npoder político decorrente da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evolução histórica do conflito de gerações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fragilidade moral das instituições públicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "impossibilidade de realização do controle total.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "legitimação ideológica do nacionalismo estatal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "restrição da oferta de oportunidades de educação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

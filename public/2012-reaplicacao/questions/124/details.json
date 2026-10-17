@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2012 - Reaplicação",
+    "index": 124,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Pode chegar de mansinho, como é costume por ali, e\nobservar sem pressa cada detalhe da estação ferroviária\nde Mariana. Repare na arquitetura recém-revitalizada\ndo casarão, e como os detalhes em madeira branca, as\ndelicadas arandelas de luzes amarelas e os elementos\nbarrocos da torre já começam a dar o gostinho da viagem\naguardada. Vindo lá de longe, o apito estridente anuncia\nque logo, logo o cenário estará completo para a partida.\nE não tarda para o trem de fato surgir. Pequenino a\nprincípio, mas de repente, em toda aquela imensidão\nque desliza pelos trilhos. Arrancando sorrisos e deixando\nboquiaberto até o mais desconfiado dos mineiros.\n\nTIUSSU, B. Raízes mineiras. Disponível em: www.estadao.com.br.\nAcesso em: 15 nov. 2011 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A leitura do trecho mostra que textos jornalísticos\nproduzidos em determinados gêneros mobilizam recursos\nlinguísticos com o objetivo de conduzir seu público-alvo a\naceitar suas ideias. Para envolver o leitor no retrato que\nfaz da cidade, a autora",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inicia o texto com a informação mais importante a ser conhecida, a estação de trem de Mariana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "descreve de forma parcial e objetiva a estação de trem da cidade, seus detalhes e características.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apresenta com cuidado e precisão os recursos da cidade, sua infraestrutura e singularidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "faz uma crítica indireta à desconfiança dos mineiros, mostrando conhecimento do tema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dirige-se a ele por meio de verbos e expressões verbais, convidando-o a partilhar das belezas do local.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2016 - Reaplicação",
+    "index": 112,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "o::... o Brasil... no meu ponto de vista... entendeu? o país só cresce através da educação... entendeu? Eu penso assim...\nentão quer dizer... você dando uma prioridade pra... pra educação... a tendência é melhorar mais... entendeu? e as\npessoas... como eu posso explicar assim? as pessoas irem... tomando conhecimento mais das coisas... né? porque eu\nacho que a pior coisa que tem é a pessoa alienada... né? a pessoa que não tem noção de na::da... entendeu?\n\nTrecho da fala de J. L., sexo masculino, 26 anos. In: VOTRE, S.; OLIVEIRA, M. R. (Coord.).A língua falada e escrita na cidade do Rio de Janeiro.\nDisponível em: www.discursoegramatica.letras.ufrj.br. Acesso em: 4 dez. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A língua falada caracteriza-se por hesitações, pausas e outras peculiaridades. As ocorrências de “entendeu” e “né”, na\nfala de J. L., indicam que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a modalidade oral apresenta poucos recursos comunicativos, se comparada à modalidade escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a língua falada é marcada por palavras dispensáveis e irrelevantes para o estabelecimento da interação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o enunciador procura interpelar o seu interlocutor para manter o fluxo comunicativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o tema tratado no texto tem alto grau de complexidade e é desconhecido do entrevistador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o falante manifesta insegurança ao abordar o assunto devido ao gênero ser uma entrevista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2012 - Reaplicação",
+    "index": 169,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O governo de um país criou o Fundo da Soja e do\nMilho, que tem como expectativa inicial arrecadar, por\nano, R$ 36,14 milhões para investimento em pesquisas\nrelacionadas aos principais produtos da agricultura.\nCom isso, a cada operação de venda, seriam destinados\nao Fundo R$ 0,28 por tonelada de soja e R$ 0,22 por\ntonelada de milho comercializadas. Para este ano,\nespera-se que as quantidades de toneladas produzidas,\nde soja e de milho, juntas, seja 150,5 milhões.\n\nFoi pedido a cinco funcionários do Fundo, André, Bruno,\nCaio, Douglas e Eduardo, que apresentassem um sistema\nque modelasse os dados apresentados. Cada funcionário\napresentou um sistema diferente, considerando x e y como as\nquantidades de toneladas comercializadas, respectivamente,\nde soja e de milho. O resultado foi o seguinte:\n\nx+y = 150 500 000x+y = 150,5\nAndré Douglas\n\n{0,28x + 0,22y = 36 140 000 {0,28x + 0,22y = 36,14\n\n100 000 000x + 100 000 000y = 150,5x+y = 150 500 000\nBruno Eduardo\n\n{0,28x + 0,22y = 36 140 000 {0,28x + 0,22y = 36,14\n\nx+y = 150,5\nCaio\n\n{0,28x + 0,22y = 36 140 000",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/169/1d1b80cc-4567-4d7e-8a12-3d6e16c902f7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O funcionário que fez a modelagem correta foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "André.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Bruno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Douglas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/169/1d1b80cc-4567-4d7e-8a12-3d6e16c902f7.png",
+            "isCorrect": false
+        }
+    ]
+}

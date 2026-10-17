@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2020 - Digital",
+    "index": 42,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/42/f6851a13-b45a-4bd1-b176-54b69fef4325.png)\n\nDisponível em: www.hospitalalbertorassi.org.br. Acesso em: 13 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/42/f6851a13-b45a-4bd1-b176-54b69fef4325.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se os elementos constitutivos do texto, esse anúncio visa resolver um problema\nrelacionado ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "falta de cuidado com o meio ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "uso indiscriminado de fontes de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "escassez de água em diversos pontos do planeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "carência de medidas de controle de poluição ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ausência de ações de reciclagem de objetos descartáveis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2015 - Reaplicação",
+    "index": 171,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O prefeito de uma cidade deseja promover uma festa\npopular no parque municipal para comemorar o aniversário\nde fundação do município. Sabe-se que esse parque\npossui formato retangular, com 120 m de comprimento\npor 150 m de largura. Além disso, para segurança das\npessoas presentes no local, a polícia recomenda que\na densidade média, num evento dessa natureza, não\nsupere quatro pessoas por metro quadrado.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Seguindo as recomendações de segurança estabelecidas\npela polícia, qual é o número máximo de pessoas que\npoderão estar presentes na festa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "72 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "120 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

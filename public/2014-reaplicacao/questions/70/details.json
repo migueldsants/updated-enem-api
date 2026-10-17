@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2014 - Reaplicação",
+    "index": 70,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Água dura é aquela que contém concentrações\nrelativamente altas de íons Ca²⁺ e Mg²⁺ dissolvidos.\nApesar de esses íons não representarem risco para a\nsaúde, eles podem tornar a água imprópria para alguns\ntipos de consumo doméstico ou industrial. Objetivando\nreduzir a concentração de íons Ca²⁺ e Mg²⁺ de uma\namostra de água dura ao mínimo possível, um técnico em\nquímica testou os seguintes procedimentos no laboratório:\n\nI – Decantação da amostra de água.\nII – Filtração da amostra de água.\nIII – Aquecimento da amostra de água.\nIV – Adição do solvente orgânico CCl₄ à amostra de\nágua.\n\nV – Adição de CaO e Na₂CO₃ à amostra de água.\n\nBROWN, T. L. et al. Química, a ciência central. São Paulo: Pearson Prentice Hall, 2005 adaptado .",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O método considerado viável para tratar a água dura e\naumentar seu potencial de utilização é o a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decantação, pois permite que esses íons se depositem no fundo do recipiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "filtração, pois assim os íons Ca²⁺ e Mg²⁺ são retidos no filtro e separados da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aquecimento da amostra de água, para que esses íons sejam evaporados e separados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "adição do solvente orgânico CCl₄ à amostra, para solubilizar esses íons e separá-los da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reação química com CaO e Na₂CO₃, para precipitar esses íons na forma de compostos insolúveis.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

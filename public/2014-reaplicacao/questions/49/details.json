@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2014 - Reaplicação",
+    "index": 49,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A classificação dos seres vivos permite a compreensão das relações evolutivas entre eles. O esquema representa\na história evolutiva de um grupo.\n\npeixes sem peixes peixes\nmandíbulas cartilaginosos ósseos anfíbios répteisaves mamíferos\n\n100\n\n200\n\n300\n\n![](https://enem.dev/2014-reaplicacao/questions/49/6b3756f3-0bab-4b8b-8ea1-63d92b3ac5f7.png)\n\n400\n\nTempo (milhões de anos atrás)\n\n500\n\nDisponível em: www.sobiologia.com.br. Acesso em: 22 jan. 2012 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/49/6b3756f3-0bab-4b8b-8ea1-63d92b3ac5f7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os animais representados nesse esquema pertencem ao filo dos cordados, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "possuem ancestrais que já foram extintos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "surgiram há mais de 500 milhões de anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "evoluíram a partir de um ancestral comum.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "deram origem aos grupos de mamíferos atuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vivem no ambiente aquático em alguma fase da vida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

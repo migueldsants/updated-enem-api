@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2012 - Reaplicação",
+    "index": 28,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Seria até engraçado, se não fosse trágico, porque na\nhora que a pessoa tem uma doença, ela fica se achando\nresponsável por ter a doença. E se você pegar na história\nda medicina, sempre foi feito isso ― os que tinham lepra\neram considerados ímpios; tinham lepra porque não eram\ntementes a Deus, porque não eram homens e mulheres\nque tinham uma vida religiosa. Os tuberculosos, no\ninício do século, na epidemia de tuberculose na Europa\ninteira, aqui em São Paulo, no Brasil todo, eram pessoas\ndevassas, jovens devassos. Com a Aids nós vimos a\nmesma coisa. Quem tinha Aids, quem eram? Eram os\npromíscuos e os viciados em drogas, não é?\n\nEntrevista de Dráuzio Varella no programa Roda Viva em 30 ago. 2004. Disponível em:\nwww.rodaviva.fapesp.br. Acesso em: 30 jan. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dráuzio Varella discute a associação entre doença\ne costumes cotidianos. De acordo com o argumento\napresentado, essa associação indica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a culpabilização de hábitos considerados como desregrados, adequando comportamentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o desejo de estender a qualidade de vida, controlando as populações mais jovens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a classificação dos grupos de risco, buscando impedir o contágio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a diminuição da fé religiosa, na modernidade, rejeitando a vida celibatária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o desenvolvimento da medicina, propondo terapêuticas que melhorem a vida do doente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

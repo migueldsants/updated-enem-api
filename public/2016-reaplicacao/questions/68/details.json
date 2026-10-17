@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2016 - Reaplicação",
+    "index": 68,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em mídias ópticas como CDs, DVDs e blue-rays, a\ninformação é representada na forma de bits (zeros e uns)\ne é fisicamente gravada e lida por feixes de luz laser.\nPara gravar um valor “zero”, o laser brilha intensamente,\nde modo a “queimar” (tornar opaca) uma pequena área\ndo disco, de tamanho comparável a seu comprimento de\nonda. Ao longo dos anos, as empresas de tecnologia vêm\nconseguindo aumentar a capacidade de armazenamento\nde dados em cada disco; em outras palavras, a área\nusada para se representar um bit vem se tornando cada\nvez mais reduzida.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual alteração da onda eletromagnética que constitui o\nlaser permite o avanço tecnológico citado no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A diminuição de sua energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O aumento de sua frequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A diminuição de sua amplitude.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O aumento de sua intensidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A diminuição de sua velocidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

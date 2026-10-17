@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2021 - Digital",
+    "index": 45,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "No ano em que o maior clarinetista que o Brasil conheceu, Abel Ferreira, faria 100\nanos, o choro dá mostras de vivacidade. É quase um paradoxo que essa riquíssima\nmanifestação da genuína alma brasileira seja forte o suficiente para driblar a falta de\nincentivos oficiais, a insensibilidade dos meios de comunicação e a amnésia\ngeneralizada. “Ele trazia a alma brasileira derramada em sua sonoridade ímpar. Artur da\nTávola, seguramente seu maior admirador, foi quem melhor o definiu, ‘alma sertaneja,\ntoque mozarteano’”. O acervo do músico autodidata nascido na mineira Coromandel,\nautor de 50 músicas, entre as quais Chorando baixinho (1942), que o consagrou, amigo e\nparceiro de Pixinguinha, com quem gravou Ingênuo (1958), permanece com os herdeiros\nà espera de compilação adequada. O Museu da Imagem e do Som do Rio de Janeiro tem\na guarda do sax e do clarinete, doados em 1995.\n\nNa avaliação de Leonor Bianchi, editora da Revista do Choro, “a música instrumental\nfica apartada do que é popular porque não vai à sala de concerto. O público em geral tem\ninteresse em samba, pagode e axé”. Ela atribui essa situação à falta de conhecimento e à\npouca divulgação do gênero nas escolas.\n\nFERRAZ, A. Disponível em: www.cartacapital.com.br. Acesso em: 22 abr. 2015 (adaptado).\n\nConsiderando-se o contexto, o gênero e o público-alvo, os argumentos trazidos pela\nautora do texto buscam",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "atribuir o desconhecimento da obra de Abel Ferreira ao ensino de música nas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "escolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reivindicar mais investimentos estatais para a preservação do acervo musical nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "destacar a relevância histórica e a riqueza estética do choro no cenário musical brasileiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "apresentar ao leitor dados biográficos pouco conhecidos sobre a trajetória de Abel Ferreira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "constatar a impopularidade do choro diante da preferência do público por músicas populares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

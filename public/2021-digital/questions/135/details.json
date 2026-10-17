@@ -1,0 +1,45 @@
+{
+    "title": "Questão 135 - ENEM 2021 - Digital",
+    "index": 135,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O polvo mimético apresenta padrões cromáticos e comportamentos muito curiosos.\nFrequentemente, muda a orientação de seus tentáculos, assemelhando-se a alguns\nanimais. As imagens 1, 3 e 5 apresentam polvos mimetizando, respectivamente, um\npeixe-linguado (2), um peixe-leão (4) e uma serpente-marinha (6).\n\n![](https://enem.dev/2021-digital/questions/135/8ef61592-e2c7-4f46-ad4a-6864873d055c.png)\n\nNORMAN, M. D.; FINN, J.; TREGENZA, T. Dynamic mimicry in an Indo-Malayan octopus.\nIn: Proceedings of the Royal Society B: Biological Sciences, n. 268, out. 2001.\nDisponível em: www.researchgate.net. Acesso em: 15 mar. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/135/8ef61592-e2c7-4f46-ad4a-6864873d055c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Do ponto de vista evolutivo, a capacidade apresentada se estabeleceu porque os polvos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "originaram-se do mesmo ancestral que esses animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "passaram por mutações similares a esses organismos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "observaram esses animais em seus nichos ecológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "resultaram de convergência adaptativa com essas espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sobreviveram às pressões seletivas com esses comportamentos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

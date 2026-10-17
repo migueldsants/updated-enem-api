@@ -1,0 +1,46 @@
+{
+    "title": "Questão 71 - ENEM 2016 - Segunda aplicação",
+    "index": 71,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Utensílios de uso cotidiano e ferramentas que\ncontêm ferro em sua liga metálica tendem a sofrer\nprocesso corrosivo e enferrujar. A corrosão é um\nprocesso eletroquímico e, no caso do ferro, ocorre a\nprecipitação do óxido de ferro(III) hidratado, substância\nmarrom pouco solúvel, conhecida como ferrugem. Esse\nprocesso corrosivo é, de maneira geral, representado\npela equação química:\n\n.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/71/5bd4f013-2e53-4814-adc8-290b8b8e7066.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/71/211607ef-d28c-4c91-b554-2fb213527c02.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/71/5bd4f013-2e53-4814-adc8-290b8b8e7066.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/71/211607ef-d28c-4c91-b554-2fb213527c02.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma forma de impedir o processo corrosivo nesses\nutensílios é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "renovar sua superfície, polindo-a semanalmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "evitar o contato do utensílio com o calor, isolando-o termicamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "impermeabilizar a superfície, isolando-a de seu contato com o ar úmido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "esterilizar frequentemente os utensílios, impedindo a proliferação de bactérias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "guardar os utensílios em embalagens, isolando-os do contato com outros objetos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2021 - Digital",
+    "index": 73,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando Getúlio Vargas se suicidou, em agosto de 1954, o país parecia à beira do\ncaos. Acuado por uma grave crise política, o velho líder preferiu uma bala no peito à\nhumilhação de aceitar uma nova deposição, como a que sofrera em outubro de 1945.\nEntretanto, ao contrário do que imaginavam os inimigos, ao ruído do estampido não se\nseguiu o silêncio que cerca a derrota.\n\nREIS FILHO, D. A. O Estado à sombra de Vargas. Revista Nossa História, n. 7, maio 2004.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O evento analisado no texto teve como repercussão imediata na política nacional a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reação popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "intervenção militar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "abertura democrática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "campanha anticomunista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "radicalização oposicionista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 90,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2025-belem/questions/90/82d66daf-3b48-4b70-aa0b-adc436d3a16e.png)\n\nDisponível em: www.aquafluxus.com.br. Acesso em: 13 out. 2023.\n\nTEXTO II\n\nHá 80 anos, holandeses construíram uma barreira de\n32 quilômetros contra enchentes e inundações. A obra deu\norigem à rodovia e a novas regiões. Há séculos, eles enfrentam\num duelo. De um lado, um país abaixo do nível do mar. Do outro,\na força das águas que invadem a Holanda. E essa batalha começou\ncom a construção dos diques, uma questão de sobrevivência.\n\nDisponível em: https://g1.globo.com. Acesso em: 13 out. 2023 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/90/82d66daf-3b48-4b70-aa0b-adc436d3a16e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse exemplo de interação com o meio físico evidencia a\nhabilidade humana de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apropriar-se de recursos minerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "adaptar-se às limitações naturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "adequar-se à vegetação primária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ajustar-se à atividade portuária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "condicionar-se às vias fluviais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

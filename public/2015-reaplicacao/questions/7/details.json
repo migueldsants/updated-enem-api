@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2015 - Reaplicação",
+    "index": 7,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/7/df376735-7049-48be-ade7-9f1899e703a5.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/7/df376735-7049-48be-ade7-9f1899e703a5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na imagem, encontram-se referências a um momento de\nintensa agitação estudantil no país. Tal mobilização se\nexplica pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "divulgação de denúncias de corrupção envolvendo o presidente da República.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "criminalização dos movimentos sociais realizada pelo Governo Federal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "adoção do arrocho salarial implementada pelo Ministério da Fazenda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "compra de apoio político promovida pelo Poder Executivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "violência da repressão estatal atribuída às Forças Armadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

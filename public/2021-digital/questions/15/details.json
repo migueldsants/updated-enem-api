@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2021 - Digital",
+    "index": 15,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nCorreu à sala dos retratos, abriu o piano, sentou-se e espalmou as mãos no teclado.\nComeçou a tocar alguma coisa própria, uma inspiração real e pronta, uma polca, uma\npolca buliçosa, como dizem os anúncios. Nenhuma repulsa da parte do compositor; os\ndedos iam arrancando as notas, ligando-as, meneando-as; dir-se-ia que a musa\ncompunha e bailava a um tempo. […] Compunha só, teclando ou escrevendo, sem os\nvãos esforços da véspera, sem exasperação, sem nada pedir ao céu, sem interrogar os\nolhos de Mozart. Nenhum tédio. Vida, graça, novidade, escorriam-lhe da alma como de\numa fonte perene.\n\nASSIS, M. Um homem célebre. Disponível em: www.biblio.com.br. Acesso em: 2 jun. 2019.\n\nTEXTO II\n\nUm homem célebre expõe o suplício do músico popular que busca atingir a\nsublimidade da obra-prima clássica, e com ela a galeria dos imortais, mas que é traído\npor uma disposição interior incontrolável que o empurra implacavelmente na direção\noposta. Pestana, célebre nos saraus, salões, bailes e ruas do Rio de Janeiro por suas\ncomposições irresistivelmente dançantes, esconde-se dos rumores à sua volta num\nquarto povoado de ícones da grande música europeia, mergulha nas sonatas do\nclassicismo vienense, prepara-se para o supremo salto criativo e, quando dá por si, é o\nautor de mais uma inelutável e saltitante polca.\n\nWISNIK, J. M. Machado maxixe: o caso Pestana. Teresa: revista de literatura brasileira, 2004 (adaptado).\n\nO conto de Machado de Assis faz uma referência velada ao maxixe, gênero musical\ninicialmente associado à escravidão e à mestiçagem. No Texto II, o conflito do\npersonagem em compor obras do gênero é representativo da",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "pouca complexidade musical das composições ajustadas ao gosto do grande",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "prevalência de referências musicais africanas no imaginário da população brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incipiente atribuição de prestígio social a músicas instrumentais feitas para a dança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tensa relação entre o erudito e o popular na constituição da música brasileira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "importância atribuída à música clássica na sociedade brasileira do século XIX.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

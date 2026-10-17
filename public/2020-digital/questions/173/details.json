@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2020 - Digital",
+    "index": 173,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fatura mensal de água é composta por uma taxa fixa, independentemente do gasto,\nmais uma parte relativa ao consumo de água, em metro cúbico. O gráfico relaciona o valor da\nfatura com o volume de água gasto em uma residência no mês de novembro, representando\numa semirreta.\n\n![](https://enem.dev/2020-digital/questions/173/25a8f708-3124-4940-a262-464e05d15412.png)\n\nObserva-se que, nesse mês, houve um consumo de 7 m de água. Sabe-se que, em\ndezembro, o consumo de água nessa residência, em metro cúbico, dobrou em relação ao mês\nanterior.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/173/25a8f708-3124-4940-a262-464e05d15412.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O valor da fatura referente ao consumo no mês de dezembro nessa residência foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "superior a R$ 65,00 e inferior a R$ 70,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "superior a R$ 80,00 e inferior a R$ 85,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "superior a R$ 90,00 e inferior a R$ 95,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "superior a R$ 95,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "inferior a R$ 55,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

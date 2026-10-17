@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2020 - Digital",
+    "index": 75,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na maior parte da América Latina, os museus surgiram no século passado, fundados com\na intenção de \"civilizar\", ou seja, de trazer para o Novo Mundo os padrões científicos e\nculturais das nações colonizadoras. Os museus seriam, dessa forma, instituições\ntransplantadas, criadas dentro dos ideais positivistas de progresso. Não por acaso, ficaram,\nem sua maior parte, sujeitos aos moldes clássicos, a partir da valorização de aspectos da\ncultura erudita, fortemente associados à elite. Era necessário, pois, assumir uma função social\nde maior alcance e ocupar um espaço relevante, capaz de atrair grande quantidade de público.\n\nBARRETO, M. Turismo e legado cultural. Campinas: Papirus, 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A transformação de um número cada vez mais expressivo de museus latino-americanos em\nespaços destinados a atividades lúdicas e reflexivas está associada ao rompimento com o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ideal de educação tradicional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "utilização de novas tecnologias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "modelo de atrações segmentadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "participação do setor empresarial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "resgate de sentimentos nacionalistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

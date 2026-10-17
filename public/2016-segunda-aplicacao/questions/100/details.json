@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2016 - Segunda aplicação",
+    "index": 100,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O hip hop tem sua filosofia própria, com valores\nconstruídos pela condição das experiências vividas nas\nperiferias de muitas cidades. Colocando-se como um\ncontraponto à miséria, às drogas, ao crime e à violência, o\nhip hop busca interpretar a realidade social. Seu objetivo\né justamente encontrar saídas e fornecer uma alternativa\nà população excluída.\n\nSOUZA, J.; FIALHO, V. M.; ARALDI, J. Hip hop: da rua para a escola. Porto Alegre: Sulina, 2008.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As autoras abordam no texto um movimento cultural que\ntambém tem características reconhecidas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nos traços e formas que representam personagens de olhos desproporcionalmente maiores e expressivos, conhecidos como mangá.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nas formas de se vestir e de cortar os cabelos com objetivos contestadores à ordem social, próprios do movimento punk.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nas frases e dizeres de qualquer espécie, rabiscados sobre fachadas de edifícios, que marcam a pichação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nos movimentos leves e sincronizados com os pés que deslocam o dançarino, denominado moonwalk.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nas declamações rápidas e ritmadas de um texto, com alturas aproximadas, características do rap.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

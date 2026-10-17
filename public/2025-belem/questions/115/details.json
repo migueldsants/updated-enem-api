@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 115,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em experimento realizado com células de raízes de cebola\ncomum (Allium cepa), após tratamento com águas de esgoto,\nfoi encontrada uma frequência elevada de cromossomos\nmetafásicos característicos, não alinhados, no plano equatorial\ndas células. Pela análise dos dados, verificou-se que essas águas\npodem provocar alterações celulares, com implicações para a\nsobrevivência dos diversos organismos expostos a elas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em um ciclo celular normal, as alterações observadas demonstram\nque essas águas interferiram na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "replicação do DNA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ocorrência da citocinese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atividade do fuso mitótico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "condensação cromossômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fragmentação do envoltório nuclear.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

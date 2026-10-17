@@ -1,0 +1,50 @@
+{
+    "title": "Questão 102 - ENEM 2015 - Reaplicação",
+    "index": 102,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Conecte-se\n\n![](https://enem.dev/2015-reaplicacao/questions/102/4cbac2c8-53d9-4fb9-8274-e7067f50522b.png)\n\nEstabeleça relações com\nas pessoas a sua volta. Os\nrelacionamentos são a base\nda vida diária e investir tempo neles\n\n![](https://enem.dev/2015-reaplicacao/questions/102/7cf87147-3205-4d30-82c6-bfc7634a1ac4.png)\n\nenriquecerá seu dia e garantirá apoio\nquando precisar. As pesquisas mostram\nque quem tem menos de três pessoas\nem sua rede de contatos próxima — entre\nfamília e amigos — tem mais chance de\ndesenvolver uma doença mental.\n\nSeja ativo\n\n![](https://enem.dev/2015-reaplicacao/questions/102/f17d2c72-5a96-4433-b869-43c9e75edf85.png)\n\nCaminhe ou corra, ande de\nbicicleta, pratique um esporte,\ndance. Os exercícios fazem as\npessoas se sentirem bem — o importante é\ncada pessoa achar a atividade que lhe dá\nprazer e que é adequada a seus limites.\nEstudos de longo prazo sugerem que a\nprática de uma atividade física previne\no declínio das capacidades mentais e\nprotege contra a ansiedade e a depressão.\n\nPreste atenção\n\n![](https://enem.dev/2015-reaplicacao/questions/102/fa5f9878-d6de-46e2-a32c-06e222302535.png)\n\nSeja curioso, saboreie os\nmomentos da vida e tome\nconsciência de como se sente.\nRefletir sobre suas experiências ajuda\na descobrir o que realmente importa e\ngarantir que você viva o presente. Uma\npesquisa mostrou que pessoas treinadas\na prestar atenção em seus sentimentos\ndurante oito a 12 semanas apresentaram\nmelhora no bem-estar por anos.\n\nContinue aprendendo\n\nTente algo novo, matricule-\n\n![](https://enem.dev/2015-reaplicacao/questions/102/fcc808da-3875-4b6b-b66d-9730640e98af.png)\n\nse em um curso, faça uma\nnova tarefa no trabalho. Tente\nconsertar algo em casa. Aprenda a tocar\num instrumento ou a cozinhar. Escolha um\ndesafio que você vai gostar de perseguir.\nOs estudos sugerem que o bem-estar está\nligado a ter metas — desde que elas sejam\nestabelecidas pelos próprios indivíduos e\ntenham a ver com seus valores pessoais.\n\nDoe-se\n\n![](https://enem.dev/2015-reaplicacao/questions/102/9938b2a0-6e4e-49fe-8d5f-8445cf96511e.png)\n\nAgradeça a alguém, ajude um\namigo ou um estranho. Sorria,\nfaça trabalho voluntário, junte-\nse à associação do bairro. Olhe para fora,\nalém de olhar para dentro de si. Fazer parte\nde uma comunidade traz benefícios — entre\neles relações sociais mais significativas.\nAs pesquisas mostram que as pessoas\nque têm um interesse maior pelo outro\ntendem a se considerar mais felizes.\n\nDisponível em: www.revistaepoca.globo.com. Acesso em: 27 fev. 2012.\n\nAo interagirmos socialmente, é comum deixarmos\nclaro nosso posicionamento a respeito do assunto\ndiscutido. Para isso, muitas vezes, recorremos a\ndeterminadas estratégias argumentativas, dentre as\nquais se encontra o argumento de autoridade.\n\n2015",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/102/4cbac2c8-53d9-4fb9-8274-e7067f50522b.png",
+        "https://enem.dev/2015-reaplicacao/questions/102/7cf87147-3205-4d30-82c6-bfc7634a1ac4.png",
+        "https://enem.dev/2015-reaplicacao/questions/102/f17d2c72-5a96-4433-b869-43c9e75edf85.png",
+        "https://enem.dev/2015-reaplicacao/questions/102/fa5f9878-d6de-46e2-a32c-06e222302535.png",
+        "https://enem.dev/2015-reaplicacao/questions/102/fcc808da-3875-4b6b-b66d-9730640e98af.png",
+        "https://enem.dev/2015-reaplicacao/questions/102/9938b2a0-6e4e-49fe-8d5f-8445cf96511e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando o texto em suas cinco partes, constata-se\nque há o emprego de argumento de autoridade no trecho:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Seja curioso, saboreie os momentos da vida e tome consciência de como se sente. Refletir sobre suas experiências ajuda a descobrir o que realmente importa”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“As pesquisas mostram que quem tem menos de três pessoas em sua rede de contatos próxima [...] tem mais chances de desenvolver uma doença mental.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“Caminhe ou corra, ande de bicicleta, pratique um esporte, dance. Os exercícios fazem as pessoas se sentirem bem”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Tente algo novo, matricule-se em um curso [...] Escolha um desafio que você vai gostar de perseguir.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Fazer parte de uma comunidade traz benefícios — entre eles relações sociais mais significativas.”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

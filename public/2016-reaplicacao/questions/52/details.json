@@ -1,0 +1,45 @@
+{
+    "title": "Questão 52 - ENEM 2016 - Reaplicação",
+    "index": 52,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A crescente produção industrial lança ao ar diversas substâncias tóxicas que podem ser removidas pela\npassagem do ar contaminado em tanques para filtração por materiais porosos, ou para dissolução em água ou\nsolventes orgânicos de baixa polaridade, ou para neutralização em soluções ácidas ou básicas. Um dos poluentes\nmais tóxicos liberados na atmosfera pela atividade industrial é a 2,3,7,8-tetraclorodioxina.\n\nCI O CI\n\n![](https://enem.dev/2016-reaplicacao/questions/52/5bea9e6f-6634-4484-9c3b-d09f101fbef4.png)\n\nCI O CI",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/52/5bea9e6f-6634-4484-9c3b-d09f101fbef4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse poluente pode ser removido do ar pela passagem através de tanques contendo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hexano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "metanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "água destilada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ácido clorídrico aquoso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hidróxido de amônio aquoso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

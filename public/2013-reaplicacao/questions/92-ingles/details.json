@@ -1,0 +1,47 @@
+{
+    "title": "Questão 92 - ENEM 2013 - Reaplicação",
+    "index": 92,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "The art of happiness\n\n![](https://enem.dev/2013-reaplicacao/questions/92-ingles/3a25bc43-d8b2-4aa6-a685-cba979485dd3.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/92-ingles/162fc1d0-2720-4327-84a5-145fcef25680.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/92-ingles/7bd23f8e-8feb-45fa-9c91-6b489c04c0d7.png)\n\nLAMA, D.; CUTLER, H. The Art of Happiness: a handbook for living. Putnam Books, 1998.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/92-ingles/3a25bc43-d8b2-4aa6-a685-cba979485dd3.png",
+        "https://enem.dev/2013-reaplicacao/questions/92-ingles/162fc1d0-2720-4327-84a5-145fcef25680.png",
+        "https://enem.dev/2013-reaplicacao/questions/92-ingles/7bd23f8e-8feb-45fa-9c91-6b489c04c0d7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pelo título e pela sinopse do livro de Lama e Cutler,\nconstata-se que o tema da obra é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o sucesso dos autores no Tibet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a busca da felicidade no cotidiano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o Prêmio Nobel recebido por Lama.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a liderança de Dalai Lama no Tibet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a discussão de Lama e seu psiquiatra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

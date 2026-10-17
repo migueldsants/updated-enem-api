@@ -1,0 +1,50 @@
+{
+    "title": "Questão 127 - ENEM 2021 - Digital",
+    "index": 127,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de\nlaboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz\nfuncionar um cronômetro digital.\n\n![](https://enem.dev/2021-digital/questions/127/534ee7b5-c373-4cd1-be06-1566440f637a.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/127/534ee7b5-c373-4cd1-be06-1566440f637a.png",
+        "https://enem.dev/2021-digital/questions/127/e8920a91-f2a6-4a41-9893-77a50c7bacac.png",
+        "https://enem.dev/2021-digital/questions/127/64a42d59-b831-4600-aa0b-20ea7d27dc4b.png",
+        "https://enem.dev/2021-digital/questions/127/75b3692b-6d57-4eeb-91b4-4c4f7df5be0e.png",
+        "https://enem.dev/2021-digital/questions/127/2c085bf2-7d50-4061-9f3e-c6dc749f8c88.png",
+        "https://enem.dev/2021-digital/questions/127/26d4a79e-b303-431c-b7ed-666e2888939b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Utilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/127/e8920a91-f2a6-4a41-9893-77a50c7bacac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/127/64a42d59-b831-4600-aa0b-20ea7d27dc4b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/127/75b3692b-6d57-4eeb-91b4-4c4f7df5be0e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/127/2c085bf2-7d50-4061-9f3e-c6dc749f8c88.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/127/26d4a79e-b303-431c-b7ed-666e2888939b.png",
+            "isCorrect": false
+        }
+    ]
+}

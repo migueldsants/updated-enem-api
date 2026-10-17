@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2016 - Segunda aplicação",
+    "index": 133,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/133/1369b872-1102-4fd8-b959-fb7724a3099d.png)\n\nPICASSO, P. Les desmoiselles d’Avignon. Óleo sobre tela,\n243,9 x 233,7 cm. Museu de Arte Moderna, Nova Iorque, 1907.\n\nDisponível em: www.moma.org. Acesso em: 13 set. 2012.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/133/1369b872-1102-4fd8-b959-fb7724a3099d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A obra Les desmoiselles d’Avignon, do pintor espanhol\nPablo Picasso, é um dos marcos iniciais do movimento\ncubista. Essa obra filia-se também ao Primitivismo, uma\nvez que sua composição recorre à manifestação cultural\nde um determinado grupo étnico, que se caracteriza por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "produção de máscaras ritualísticas africanas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "rituais de fertilidade das comunidades celtas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "festas profanas dos povos mediterrâneos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "culto à nudez de populações aborígenes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "danças ciganas do sul da Espanha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2016 - Segunda aplicação",
+    "index": 154,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O sódio está presente na maioria dos alimentos\nindustrializados, podendo causar problemas cardíacos\nem pessoas que ingerem grandes quantidades desses\nalimentos. Os médicos recomendam que seus pacientes\ndiminuam o consumo de sódio.\n\nCom base nas informações nutricionais de cinco\nmarcas de biscoitos (A, B, C, D e E), construiu-se o\ngráfico, que relaciona quantidades de sódio com porções\nde diferentes biscoitos.\n\nC\n\nE\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/154/fe62817c-0b7d-447b-9e13-0f8c253f48c6.png)\n\nA\nD\nB\npor porção (mg)¹⁰⁰\nQuantidade de sódio₅₀",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/154/fe62817c-0b7d-447b-9e13-0f8c253f48c6.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual das marcas de biscoito apresentadas tem a menor\nquantidade de sódio por grama do produto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

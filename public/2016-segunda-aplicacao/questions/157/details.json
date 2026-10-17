@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2016 - Segunda aplicação",
+    "index": 157,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para evitar uma epidemia, a Secretaria de Saúde de\numa cidade dedetizou todos os bairros, de modo a evitar\na proliferação do mosquito da dengue. Sabe-se que o\nnúmero f de infectados é dado pela função f(t) = −2t² + 120t\n(em que t é expresso em dia e t = 0 é o dia anterior à\nprimeira infecção) e que tal expressão é válida para os\n60 primeiros dias da epidemia.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A Secretaria de Saúde decidiu que uma segunda\ndedetização deveria ser feita no dia em que o número de\ninfectados chegasse à marca de 1 600 pessoas, e uma\nsegunda dedetização precisou acontecer.\nA segunda dedetização começou no",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "19º dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20º dia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "29º dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30º dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60º dia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

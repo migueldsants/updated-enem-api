@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2021 - Digital",
+    "index": 169,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na\nescala Richter, ocorridos em nosso planeta nos anos de 2000 a 2011.\n\n![](https://enem.dev/2021-digital/questions/169/5fd3ca54-af07-4255-802e-9ecadcb2580e.png)\n\nDisponível em: https://earthquake.usgs.gov/earthquakes/browse/m7-world.php.\nAcesso em: 13 ago. 2012 (adaptado)\n\nUm pesquisador acredita que a mediana representa bem o número anual típico de\nterremotos em um período.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/169/5fd3ca54-af07-4255-802e-9ecadcb2580e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou\nigual a 7 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

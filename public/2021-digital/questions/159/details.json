@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2021 - Digital",
+    "index": 159,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um nutricionista verificou, na dieta diária do seu cliente, a falta de 800 mg do\nmineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a\ncompra de suplementos alimentares que forneçam os minerais faltantes e informou que\nnão haveria problema se consumisse mais desses minerais do que o recomendado.\n\nO cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e\nas quantidades dos minerais estão apresentados a seguir:\n\nSuplemento I: contém 50 mg do mineral A, 100 mg do mineral B e 200 mg do\nmineral C e custa R$ 2,00;\nSuplemento II: contém 800 mg do mineral A, 250 mg do mineral B e 200 mg do\nmineral C e custa R$ 3,00;\nSuplemento III: contém 250 mg do mineral A, 1 000 mg do mineral B e 300 mg do\nmineral C e custa R$ 5,00;\nSuplemento IV: contém 600 mg do mineral A, 500 mg do mineral B e 1 000 mg do\nmineral C e custa R$ 6,00;\nSuplemento V: contém 400 mg do mineral A, 800 mg do mineral B e 1 200 mg do\nmineral C e custa R$ 8,00.\n\nO cliente decidiu comprar sachês de um único suplemento no qual gastasse menos\ndinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que\nconsumisse alguns deles além de sua necessidade.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessas condições, o cliente deverá comprar sachês do suplemento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

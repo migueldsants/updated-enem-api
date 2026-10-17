@@ -1,0 +1,46 @@
+{
+    "title": "Questão 151 - ENEM 2022 - Digital",
+    "index": 151,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma máquina em operação tem sua temperatura T monitorada por meio de um\nregistro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V\nvaria com a temperatura T da máquina, de acordo com a expressão V = T² – 4. Após a\nmáquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o\nregistro gráfico, apresentado na figura, para avaliar a necessidade de eventuais ajustes,\nsabendo que a máquina apresenta falhas de funcionamento quando a velocidade do\npistão se anula.\n\nT (ºC)\n\n![](https://enem.dev/2022-digital/questions/151/de4d4ad3-ab7f-4ee0-bbc8-62f0ca6e63dd.png)\n\n![](https://enem.dev/2022-digital/questions/151/885dfa27-13b2-4ff8-9f82-5ac287e31faa.png)\n\n-2",
+    "files": [
+        "https://enem.dev/2022-digital/questions/151/de4d4ad3-ab7f-4ee0-bbc8-62f0ca6e63dd.png",
+        "https://enem.dev/2022-digital/questions/151/885dfa27-13b2-4ff8-9f82-5ac287e31faa.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 130,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A primeira calça jeans foi feita por Levi Strauss e Jacob\nDavis para mineradores da Califórnia em 1873. Um brim mais\nmaleável, stone-washed (lavado com pedra), foi introduzido\nem 1980, seguido por acid-washed (lavado com ácido).\nTécnicas de amaciamento envolvendo procedimentos de\nnatureza físico-química vêm sendo substituídas por métodos\nbiotecnológicos. Um exemplo é a utilização de celulases,\nproduzidas por fungos do gênero Trichoderma, para digestão\nenzimática de parte da celulose do algodão.\n\nTORTORA, G. J.; FUNKE, B. R.; CASE, C. L. Microbiologia.\nPorto Alegre: Artmed, 2016 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse método biotecnológico é considerado ambientalmente\nseguro porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utiliza catalisador inorgânico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "torna a celulose mais resistente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ocorre em diferentes temperaturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "é usado em diferentes valores de pH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "minimiza a produção de resíduos tóxicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

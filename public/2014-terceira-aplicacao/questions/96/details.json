@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2014 - Terceira aplicação",
+    "index": 96,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Nunca tinha ido ao teatro, e mais de uma vez, ouvindo\ndizer ao Meneses que ia ao teatro, pedi-lhe que me levasse\nconsigo. Nessas ocasiões, a sogra fazia uma careta, e as\nescravas riam à socapa; ele não respondia, vestia-se, saía e\nsó tornava na manhã seguinte. Mais tarde é que eu soube que\no teatro era um eufemismo em ação. Meneses trazia amores\ncom uma senhora, separada do marido, e dormia fora de\ncasa uma vez por semana. Conceição padecera, a princípio,\ncom a existência da comborça; mas, afinal, resignara-se,\nacostumara-se, e acabou achando que era muito direito.\n\nASSIS, M. et al. Missa do galo: variações sobre o mesmo tema. São Paulo: Summus, 1977 (fragmento).",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/96/47f13b75-f396-4f18-b04b-c0a46f3fd860.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No fragmento desse conto de Machado de Assis, “ir ao\nteatro” significa “ir encontrar-se com a amante”. O uso do\neufemismo como estratégia argumentativa significa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exagerar quanto ao desejo em “ir ao teatro”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "personificar a prontidão em “ir ao teatro”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "esclarecer o valor denotativo de “ir ao teatro”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reforçar compromisso com o casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/96/47f13b75-f396-4f18-b04b-c0a46f3fd860.png",
+            "isCorrect": true
+        }
+    ]
+}

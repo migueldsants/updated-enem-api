@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2014 - Terceira aplicação",
+    "index": 37,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A abordagem do patrimônio cultural, centrada nos\naspectos técnicos da conservação e da restauração,\ntende a ocultar a ideia de que a sua preservação é uma\nprática social que implica um processo de interpretação da\ncultura, não apenas material como simbólica, portadora\nde referência à identidade, à ação e à memória dos\ngrupos formadores da sociedade.\n\nFONSECA, M. C. L. Para além da pedra e cal. In: ABREU, R.; CHAGAS, M. Memória e\npatrimônio: ensaios contemporâneos. Rio de Janeiro: DP A, 2003 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A defesa do patrimônio histórico busca valorizar os bens\nque representam a nossa identidade. Nesse sentido,\nhá manifestações culturais cuja preservação demanda\nseu reconhecimento como patrimônio imaterial. Essa\nconcepção de patrimônio expressa-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "no conjunto de bens culturais classificados segundo a sua natureza: arqueológica, histórica e etnográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "no tombamento dos bens imóveis, como grupos urbanos, sítios arqueológicos e paisagísticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "na preservação e proteção de monumentos históricos e bens culturais de diversas regiões brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no conhecimento transmitido entre gerações e recriado pelas comunidades, gerando um sentimento de pertencimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "no arquivamento da produção intelectual como os livros e a conservação de pinturas e esculturas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

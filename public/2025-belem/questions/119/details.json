@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 119,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um empresário sul-africano definiu o Hyperloop como a única opção para a viagem ultrarrápida. O Hyperloop é uma espécie\nde trem que se locomove sem atrito, levitando magneticamente sobre trilhos, em túneis com pressão reduzida. Durante o\npercurso, o ar vai sendo extraído do túnel, e a diferença de pressão gerada entre a parte traseira e a frontal faz com que a cápsula\ncom passageiros seja colocada em movimento e siga deslocando-se praticamente sem atrito e sem resistência do ar. Em vez de\ntrilhos convencionais, ela é levitada e guiada por campos eletromagnéticos.\n\nDisponível em: https://veja.abril.com.br. Acesso em: 21 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O Hyperloop se desloca de acordo com o mesmo princípio físico que explica o movimento de um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "foguete subindo enquanto ejeta gases para baixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "líquido sendo sugado pelo canudo do copo até a boca.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "elétron abandonado entre as placas de um capacitor plano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "próton ganhando velocidade dentro de um acelerador de partículas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "submarino emergindo conforme a água é extraída de seus tubos de lastro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

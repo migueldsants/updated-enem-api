@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2014 - Terceira aplicação",
+    "index": 15,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Eu gostaria de entrar nua no rio, mas estou aqui\nentre homens, somos todos soldados. Os portugueses\nde uma canhoneira bombardearam Cachoeira, então um\nbando de Periquitos, e entre eles eu e mais cinco ou seis\nmulheres, entramos no rio, de culote, bota e perneira,\ncapa abotoada e baioneta calada. Pensei outra vez no\nsítio. Ali tudo era cálido, os panos convidavam ao sono.\nAqui, luta-se pela vida, pela Pátria. Minha baioneta rasga\no ventre de um português que não quer reconhecer a\nIndependência do Brasil gritada, lá no Sul, pelo Imperador\nD. Pedro.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "MARIA QUITÉRIA, s/d. Disponível em: www.vidaslusofonas.pt.\nAcesso em: 31 jan. 2012 adaptado .",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "análise do texto revela um processo de emancipação",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ficou limitada a disputas e acordos políticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fomentou movimentos separatistas do Sul do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "contou com a participação de diversos segmentos sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "consolidou uma ideia de pátria que excluía a herança portuguesa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

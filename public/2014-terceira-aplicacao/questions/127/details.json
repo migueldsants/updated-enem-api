@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2014 - Terceira aplicação",
+    "index": 127,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/127/439b8ca6-98f3-42f8-b119-c7298a1ace94.png)\n\nECOMBATENTES\n\nDisponível em: http://veja.abril.com.br. Acesso em: 1 mar. 2012.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/127/439b8ca6-98f3-42f8-b119-c7298a1ace94.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O mapa apresenta o conflito interno na Síria, com a apresentação de um quadro onde estão indicados os tipos de\nrelação entre os países da região e os acontecimentos que caracterizam a situação. Os índices presentes no quadro\nestão estrategicamente dispostos sobre determinadas regiões do mapa, orientando a compreensão de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a comunidade internacional se preocupa desnecessariamente com a relação entre Síria e Iraque.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o conflito se mostra ainda indefinido, porque há um equilíbrio entre os governos vizinhos que apoiam e os que não apoiam o governo sírio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "em todas as regiões do país — em especial nas áreas de conflito mais intenso — a população síria está impedida de sair do país para buscar ajuda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "embora as principais cidades do país estejam envolvidas, o maior número de mortos concentra-se às margens do rio Eufrates.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "assim como os governos da Turquia e da Jordânia, o governo israelense mudou seu posicionamento quando o conflito ficou mais intenso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

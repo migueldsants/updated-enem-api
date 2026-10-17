@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2015 - Reaplicação",
+    "index": 77,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No manual de uma torneira elétrica são fornecidas\ninstruções básicas de instalação para que o produto\nfuncione corretamente:\n\n• Se a torneira for conectada à caixa-d’água\ndomiciliar, a pressão da água na entrada da\ntorneira deve ser no mínimo 18 kPa e no máximo\n38 kPa.\n\n• Para pressões da água entre 38 kPa e 75 kPa\nou água proveniente diretamente da rede pública,\né necessário utilizar o redutor de pressão que\nacompanha o produto.\n\n• Essa torneira elétrica pode ser instalada em um\nprédio ou em uma casa.\nConsidere a massa específica da água 1 000 kg/m³ e a\naceleração da gravidade 10 m/s².\n\n![](https://enem.dev/2015-reaplicacao/questions/77/0e8bba21-0971-47c4-b5c3-8dcb7dcdcb3b.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/77/0e8bba21-0971-47c4-b5c3-8dcb7dcdcb3b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para que a torneira funcione corretamente, sem o uso\ndo redutor de pressão, quais deverão ser a mínima e a\nmáxima altura entre a torneira e a caixa-d’água?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,8 m e 3,8 m",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1,8 m e 7,5 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,8 m e 7,5 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18 m e 38 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "18 m e 75 m",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

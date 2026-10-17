@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2012 - Reaplicação",
+    "index": 65,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Observe atentamente a charge.\n\n![](https://enem.dev/2012-reaplicacao/questions/65/d88ec77b-0724-463f-9336-cbfc594b09c7.png)\n\nDisponível em: http://ocorporesponde.blogspot.com. Acesso em: 14 jun. 2011.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/65/d88ec77b-0724-463f-9336-cbfc594b09c7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Além do risco de acidentes, como o referenciado na\ncharge, o principal problema enfrentado pelos países\nque dominam a tecnologia associada às usinas\ntermonucleares é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a escassez de recursos minerais destinados à produção do combustível nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a produção dos equipamentos relacionados às diversas etapas do ciclo nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o destino final dos subprodutos das fissões ocorridas no núcleo do reator.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a formação de recursos humanos voltados para o trabalho nas usinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o rigoroso controle da Agência Internacional de Energia Atômica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

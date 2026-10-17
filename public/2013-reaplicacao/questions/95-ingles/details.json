@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2013 - Reaplicação",
+    "index": 95,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Movie: Hijras – The Third Gender\n\nDirector: Devika Urvashi Bhisé\nDuration: 29 minutes\nHijras are the outcastes of Indian society and live on its fringes. These eunuchs (originally only castrated males)\nwere once employed by sultans and maharajas to guard the women in their harems. Now shunned by society, they\nare treated with less respect than the Dalits, or untouchables. Considered neither men nor women, Hijras have no\nconstitutional rights. Currently, there is an ongoing debate in India regarding whether or not they should be granted the\nstatus of a third gender.\n\nMost hijras are genetically born as men, but believe they are women within. The rest are hermaphrodites with some\nabnormality in genitalia. For those born men, becoming a hijra is a painful process that involves removing the entire\ngenitalia in a secret ceremony that is often undergone without any anesthetic.\n\nCurrently, most hijras have only three ways in which they can make a living: prostitution, begging, and as performing\nshamans removing bad luck and/or spells from suspicious Indian households. Sex work is one of the only options for\nhijras because there are few employment opportunities available to them. Hijras are most commonly seen knocking on\ncar windows, begging for money at stoplights. Although hijras are feared for their dissimilarities, they are also revered\nfor their alleged mystical abilities. Most Indian families seek their blessings during any auspicious ceremony such as a\nbirth, a wedding, or the building of a new house.\n\nAs pariahs of society, they are subjected to prejudice that is often translated into verbal abuse, humiliation, extreme\ndiscrimination, and violence in public as well as private venues. I have documented a short film to create awareness of\nthe plight of this segment of society and allow their voices to be heard. I was privileged to share this community’s inner\nlife and have tried to capture its stark reality as a friend rather than a voyeur. The filming took place from June 2008 to\nSeptember 2008 in various cities and locations in India.\n\nDisponível em: www.engendered.org. Acesso em: 25 fev. 2012.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/95-ingles/51866204-c988-40a6-a164-9aee81df71e9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O filme Hijras – The Third Gender tem como objetivo chamar atenção para a situação vivida por um segmento da\nsociedade indiana, os hijras. De acordo com o que se captura dessas vozes no filme e do que se lê no texto, esse\nsegmento reivindica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os mesmos direitos dos dalits, ou intocáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o direito constitucional de sair da marginalidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "um processo mais humano de mudança de sexo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a regulamentação de suas atuais funções sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/95-ingles/51866204-c988-40a6-a164-9aee81df71e9.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2014 - Terceira aplicação",
+    "index": 153,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma cidade turística, três hotéis ofereceram\npromoções para o mês de abril de 2011 e compararam as\ntaxas de ocupação nesse mês com as de abril de 2010.\nOs descontos praticados estão descritos a seguir:\n\n• Hotel 1: Foi dado um desconto de 10% nas diárias,\nelevando a ocupação de 70% em 2010 para 80% em\n2011.\n\n• Hotel 2: Foi dado um desconto de 15% nas diárias,\nelevando a ocupação de 60% em 2010 para 100% em\n2011.\n\n• Hotel 3: Foi dado um desconto de 20% nas diárias,\nelevando a ocupação de 10% em 2010 para 60% em\n2011.\n\n• Hotel 4: Foi dado um desconto de 25% nas diárias,\nelevando a ocupação de 30% em 2010 para 90% em\n2011.\n\n• Hotel 5: Foi dado um desconto de 30% nas diárias,\nelevando a ocupação de 40% em 2010 para 60% em\n2011.\n\nApós o término de 2011, foi feita uma avaliação sobre\nos impactos desses descontos nos valores arrecadados\npelos hotéis.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O hotel que apresentou a maior diferença na taxa de\narrecadação de 2010 para 2011 foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hotel 1, pois apresenta a maior taxa de ocupação antes dos descontos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "hotel 2, pois apresenta a maior taxa de ocupação após os descontos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "hotel 3, pois apresenta aumento de 38% na taxa de arrecadação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "hotel 4, pois apresenta a maior diferença na taxa de arrecadação de 2010 para 2011.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hotel 5, pois apresenta o maior desconto no valor da diária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

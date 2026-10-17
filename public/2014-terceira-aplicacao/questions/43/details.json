@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2014 - Terceira aplicação",
+    "index": 43,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Todos que moram em grandes cidades convivem\ndiariamente com a poluição do ar e sofrem os efeitos\ndesse grande mal. Olhos irritados e lacrimejantes; o\nincômodo causado por odores desagradáveis e, às\nvezes, repugnantes; as tentativas de manter a casa\nlimpa daquele pó negro e oleoso, provocado pela fuligem\ndas chaminés das indústrias. Tudo isso são problemas\nconsiderados normais na vida dos habitantes dos grandes\ncentros urbanos.\n\nBRANCO, S. M.; MURGEL, E. Poluição do ar. São Paulo: Moderna, 1995.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/43/395c3b59-fcdf-4c1c-b2e3-a107071d5eed.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Destaca-se dentre os problemas ambientais que\ncaracterizam o aumento da temperatura nas áreas\nurbanas o a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ilha de calor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "inversão térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "rarefação da camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/43/395c3b59-fcdf-4c1c-b2e3-a107071d5eed.png",
+            "isCorrect": false
+        }
+    ]
+}

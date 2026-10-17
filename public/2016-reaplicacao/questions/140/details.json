@@ -1,0 +1,48 @@
+{
+    "title": "Questão 140 - ENEM 2016 - Reaplicação",
+    "index": 140,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um gesseiro que trabalhava na reforma de uma casa\nlidava com placas de gesso com formato de pentágono\nregular quando percebeu que uma peça estava quebrada,\nfaltando uma parte triangular, conforme mostra a figura.\n\n![](https://enem.dev/2016-reaplicacao/questions/140/19c583fa-90e8-45e1-a8f0-d8487799907c.png)\n\nA\n\n![](https://enem.dev/2016-reaplicacao/questions/140/7a566436-5d0b-4865-84cc-2da25d5162fc.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/140/9282b818-80ff-4a11-9dbf-ec5e4b02ebf9.png)\n\nD C\n\n![](https://enem.dev/2016-reaplicacao/questions/140/f102dff2-d368-409a-9a53-4b197df4cde7.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/140/19c583fa-90e8-45e1-a8f0-d8487799907c.png",
+        "https://enem.dev/2016-reaplicacao/questions/140/7a566436-5d0b-4865-84cc-2da25d5162fc.png",
+        "https://enem.dev/2016-reaplicacao/questions/140/9282b818-80ff-4a11-9dbf-ec5e4b02ebf9.png",
+        "https://enem.dev/2016-reaplicacao/questions/140/f102dff2-d368-409a-9a53-4b197df4cde7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As medidas x, y e z, em graus, desses ângulos são,\nrespectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18, 18 e 108.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24, 48 e 108.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "36, 36 e 108.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "54, 54 e 72.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60, 60 e 60.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

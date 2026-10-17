@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2013 - Reaplicação",
+    "index": 105,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/105/66eecf4a-8580-4655-bdd3-dc462553e57d.png)\n\nLucio, Beto e Oscar: a cadeira e as poltronas de Sérgio Rodrigues, de linhas inspiradas na\nsimplicidade brasiliense.\nFoto: Acervo Sérgio Rodrigues.\n\nA revolução estética brasiliense empurrou os\ndesigners de móveis dos anos 1950 e início dos 60 para\no novo. Induzidos a abandonar o gosto rebuscado pelo\ncolonial, a trocar Ouro Preto por Brasília, eles criaram\num mobiliário contemporâneo que ainda hoje vemos nas\nlojas e nas salas de espera de consultórios e escritórios.\nColada no uso de madeiras nobres, como o jacarandá e\na peroba, e em materiais de revestimento como o couro e\na palhinha, desenvolveu-se uma tendência feita de linhas\nretas e curvas suaves, nos moldes da capital no Cerrado.\n\nDisponível em: http://veja.abril.com.br. Acesso em: 29 jul. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/105/66eecf4a-8580-4655-bdd3-dc462553e57d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A reportagem e a fotografia apresentam os móveis\nelaborados pelo artista Sérgio Rodrigues, com um estilo\nque norteou o pensamento de uma geração, desafiando\na arte a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evidenciar um novo conceito estético por meio de formas e texturas inovadoras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "adaptar os móveis de Brasília aos modelos das escolas europeias do início do século XX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "elaborar a decoração dos palácios da nova capital do Brasil com conceitos de linha e perspectiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "projetar para os palácios e edifícios da nova capital do Brasil a beleza do mobiliário típico de Minas Gerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "criar o mobiliário para a capital do país com base no luxo e na riqueza dos edifícios públicos brasileiros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

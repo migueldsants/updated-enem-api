@@ -1,0 +1,45 @@
+{
+    "title": "Questão 89 - ENEM 2020 - Digital",
+    "index": 89,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Brasil: regiões com predisposição à erosão\n\n![](https://enem.dev/2020-digital/questions/89/33d4180f-bad5-4d56-ab4a-80f4916b62b1.png)\n\nEMBRAPA; SPI. Terra viva: atlas do meio ambiente do Brasil. Brasília: Embrapa, 1996 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/89/33d4180f-bad5-4d56-ab4a-80f4916b62b1.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no mapa, a área com maior suscetibilidade natural à ocorrência de erosão no Brasil\né o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "interior da Região Norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "depressão do Pantanal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "extremo oeste amazônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "faixa litorânea do Sudeste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "região da Mata dos Cocais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

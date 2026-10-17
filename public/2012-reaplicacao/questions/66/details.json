@@ -1,0 +1,45 @@
+{
+    "title": "Questão 66 - ENEM 2012 - Reaplicação",
+    "index": 66,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A vesícula biliar é um órgão muscular onde a bile é\narmazenada. Os cálculos biliares que algumas vezes se\nformam neste órgão devem ser removidos cirurgicamente,\ndependendo da avaliação da gravidade das complicações\ndecorrentes da presença desses cálculos no indivíduo.\nEntretanto, apesar de algum prejuízo causado pela\nremoção da vesícula biliar, o indivíduo pode ter uma vida\nrelativamente normal.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/66/a75f42bf-3a37-4048-b562-5b53735d7ab9.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A remoção cirúrgica desse órgão retardará a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "síntese de glicogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produção de bile.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "secreção de suco gástrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produção de enzimas digestivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/66/a75f42bf-3a37-4048-b562-5b53735d7ab9.png",
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 156,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O índice de massa corporal (IMC) é uma medida internacional\nusada para determinar se uma pessoa está com a massa corporal\nideal. No cálculo do IMC, são utilizadas a massa corporal da\npessoa, em quilograma, e a sua altura, em metro. O valor do\nIMC é dado pela razão entre a massa do indivíduo pelo quadrado\nde sua altura.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A unidade de medida do IMC é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "kg ⋅ m⁻²",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "kg ⋅ m⁻¹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "kg ⋅ m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "m ⋅ kg⁻¹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "m² ⋅ kg⁻¹",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

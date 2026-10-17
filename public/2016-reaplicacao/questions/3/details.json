@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2016 - Reaplicação",
+    "index": 3,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A cena, de tão cotidiana, já não causa mais\nestranheza a Isabel Swan. Ao botar o barco nas águas da\nBaía de Guanabara, a velejadora precisa se desvencilhar\nde sacos plásticos, tampinhas de refrigerantes, latas,\npalitos de sorvete. Um dos cartões-postais cariocas\nrecebe diariamente uma média de cem toneladas de\nlixo flutuante, carregado pelos rios que cortam a região\nmetropolitana do Rio de Janeiro.\n\nALENCAR, E. Toneladas de descaso. O Globo, 28 abr. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O problema ambiental descrito tem sua causa associada à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ineficiência de ecobarreiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "desorganização do turismo local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inadequação da coleta domiciliar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "movimentação das áreas portuárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "rarefação da ocupação populacional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

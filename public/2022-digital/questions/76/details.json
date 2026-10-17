@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2022 - Digital",
+    "index": 76,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Lá embaixo está o Açude Itans, com seu formigueiro a cavar a terra. É mesmo\nimpressionante o esforço daquele formigar de homens ao sol, lavados em suor, que não\nparam, em longas filas pacientes acompanhando centenas de burricos que sobem e\ndescem, numa ciranda comovente e silenciosa, cada burrico com duas caixas de terra no\nlombo. É o labor organizado para a salvação da terra e do homem. Depois do\nsemideserto que tanto nos acabrunhou o espírito por falta de chuvas, o esforço destes\nmilhares de sertanejos, todos vestidos de brim mescla e calçando alpercatas, no combate\nconsciente à esterilidade da natureza, com as famílias alojadas em pequeninas casas de\ntaipa e telha — embrião de futura cidade — impressionava-nos profundamente.\n\nVALLE, F. M. História do Açude Itans, município de Caicó (RN). Brasília, 1994 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na construção do empreendimento descrito, destaca-se a presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "engenheiros na execução de canais fluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "coronéis na ampliação de antigas fazendas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "operários na distribuição dos recursos hídricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "trabalhadores na formação de novos espaços.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "negociantes na organização de redes comerciais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

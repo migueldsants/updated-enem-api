@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2014 - Terceira aplicação",
+    "index": 151,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gelo marinho no Ártico está em sua segunda menor\nextensão já registrada: 5,56 milhões de km². Essa medida\nfoi feita com o auxílio de satélites no dia 14 de agosto\nde 2011 e é apenas 220 mil km² maior do que a baixa\nrecorde de 2007.\n\nANGELO, C. Volume de gelo no Ártico nunca foi tão baixo.\nDisponível em: www1.folha.uol.com.br.Acesso em: 08 nov. 2011.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com esses dados, a menor extensão territorial\ndo gelo marinho registrada no Ártico em 2007, em metros\nquadrados, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "214,44 x 10³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5,34 x 10⁶",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,34 x 10⁹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,34 x 10¹²",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "214,44 x 10¹²",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

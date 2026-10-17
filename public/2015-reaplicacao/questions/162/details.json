@@ -1,0 +1,49 @@
+{
+    "title": "Questão 162 - ENEM 2015 - Reaplicação",
+    "index": 162,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Durante um jogo de futebol foram anunciados os\ntotais do público presente e do público pagante. Diante\nda diferença entre os dois totais apresentados, um dos\ncomentaristas esportivos presentes afirmou que apenas\n75% das pessoas que assistiam àquele jogo no estádio\npagaram ingresso.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/162/3a8d1884-99a1-49d2-9272-1bedcd819f06.png",
+        "https://enem.dev/2015-reaplicacao/questions/162/64df9e0e-01de-4261-8bc8-bb0f142c2b81.png",
+        "https://enem.dev/2015-reaplicacao/questions/162/b4235ac9-b34c-4deb-8c1c-7dd9fd1bc768.png",
+        "https://enem.dev/2015-reaplicacao/questions/162/2b7df6a9-a79d-488b-9e71-39e3021e9f7a.png",
+        "https://enem.dev/2015-reaplicacao/questions/162/524110ee-1fa2-40d8-b71b-73a382df51bd.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que a afirmativa do comentarista está\ncorreta, a razão entre o público não pagante e o público\npagante naquele jogo foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/162/3a8d1884-99a1-49d2-9272-1bedcd819f06.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/162/64df9e0e-01de-4261-8bc8-bb0f142c2b81.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/162/b4235ac9-b34c-4deb-8c1c-7dd9fd1bc768.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/162/2b7df6a9-a79d-488b-9e71-39e3021e9f7a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/162/524110ee-1fa2-40d8-b71b-73a382df51bd.png",
+            "isCorrect": false
+        }
+    ]
+}

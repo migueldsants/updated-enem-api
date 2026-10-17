@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2014 - Terceira aplicação",
+    "index": 20,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando um carpinteiro apanha um martelo, o martelo\nse torna, do ponto de vista do seu cérebro, parte da sua\nmão. Quando um soldado leva um binóculo aos olhos, o\nseu cérebro vê através de um novo conjunto de lentes,\nadaptando-se instantaneamente a um campo de visão\nmuito diferente. A nossa capacidade de nos fundirmos\ncom todo tipo de ferramenta é uma das qualidades que\nmais nos distingue como espécie.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "CARR, N. O que a internet está fazendo com os nossos cérebros: a geração superficial.\nRio de Janeiro: Agir, 2011.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ciência produz aparatos tecnológicos que se tornam",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "projeto individual de difícil repercussão coletiva, pois atinge um número limitado de pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "discurso meramente teórico, porque está desvinculado de aspectos da realidade social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ação intelectual com efeitos sociais desencandeados através do reconhecimento na rede.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "fenômeno que visa alcançar pontualmente determinado público de modo planejado e específico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2012 - Reaplicação",
+    "index": 23,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Dos senhores dependem os lavradores que têm\npartidos arrendados em terras do mesmo engenho;\ne quanto os senhores são mais possantes e bem\naparelhados de todo o necessário, afáveis e verdadeiros,\ntanto mais são procurados, ainda dos que não têm a cana\ncativa, ou por antiga obrigação, ou por preço que para\nisso receberam.\n\nANTONIL, J. A. Cultura e opulência do Brasil [1711]. São Paulo:\nCompanhia Editora Nacional, 1967 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo o texto, a produção açucareira no Brasil colonial era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "baseada no arrendamento de terras para a obtenção da cana a ser moída nos engenhos centrais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "caracterizada pelo funcionamento da economia de livre mercado em relação à compra e venda de cana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dependente de insumos importados da Europa nas frotas que chegavam aos portos em busca do açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "marcada pela interdependência econômica entre os senhores de engenho e os lavradores de cana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "sustentada no trabalho escravo desempenhado pelos lavradores de cana em terras arrendadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

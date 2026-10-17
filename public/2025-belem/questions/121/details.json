@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 121,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para a produção de insulina recombinante, é necessária a transformação do microrganismo com a inserção do gene\nda insulina. No processo de síntese da insulina, várias moléculas com função predefinida se orquestram para a produção da\nproteína completa e ativa. Erros nesse processo podem ocorrer, por exemplo, um RNAt que deveria estar ligado ao aminoácido\nserina pode se ligar erroneamente ao aminoácido valina.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No caso do erro descrito, na produção da insulina ocorrerá a incorporação da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "serina, em resposta a qualquer códon do RNAm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valina, em resposta a qualquer códon do RNAm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valina, somente em resposta ao códon de serina do RNAm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "valina, em resposta aos códons de serina e valina do RNAm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "serina, em resposta aos códons de serina e valina do RNAm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

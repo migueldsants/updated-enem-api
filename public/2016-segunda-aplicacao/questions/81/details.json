@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2016 - Segunda aplicação",
+    "index": 81,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro apresenta o consumo médio urbano\nde veículos do mesmo porte que utilizam diferentes\ncombustíveis e seus respectivos preços. No caso do\ncarro elétrico, o consumo está especificado em termos da\ndistância percorrida em função da quantidade de energia\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/81/efdb81fa-1c9c-402e-996b-22412ed45c10.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/81/efdb81fa-1c9c-402e-996b-22412ed45c10.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando somente as informações contidas no\nquadro, o combustível que apresenta o maior custo por\nquilômetro rodado é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "etanol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "gasolina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "eletricidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "gás natural.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

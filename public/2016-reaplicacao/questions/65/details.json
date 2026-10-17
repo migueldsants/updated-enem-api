@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2016 - Reaplicação",
+    "index": 65,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/65/b129eef6-61a8-49c2-9ea5-a5869edb0162.png)\n\nAlmanaque do Biotônico, 1935. Disponível em: www.miniweb.com.br. Acesso em: 22 abr. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/65/b129eef6-61a8-49c2-9ea5-a5869edb0162.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O rótulo do produto descreve características de uma doença que pode ser prevenida com o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uso de calçados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "aplicação de inseticida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilização de mosquiteiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "eliminação de água parada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "substituição de casas de barro por de alvenaria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

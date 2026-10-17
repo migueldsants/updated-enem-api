@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2016 - Reaplicação",
+    "index": 5,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "De alcance nacional, o Movimento dos\nTrabalhadores Rurais Sem Terra (MST) representa\na incorporação à vida política de parcela importante\nda população, tradicionalmente excluída pela força\ndo latifúndio. Milhares de trabalhadores rurais se\norganizaram e pressionaram o governo em busca\nde terra para cultivar e de financiamento de safras.\nSeus métodos ― a invasão de terras públicas ou não\ncultivadas ― tangenciam a ilegalidade, mas, tendo\nem vista a opressão secular de que foram vítimas e a\nextrema lentidão dos governos em resolver o problema\nagrário, podem ser considerados legítimos.\n\nCARVALHO, J. M. Cidadania no Brasil: o longo caminho.\nRio de Janeiro: Civilização Brasileira, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Argumenta-se que as reivindicações apresentadas por\nmovimentos sociais, como o descrito no texto, têm como\nobjetivo contribuir para o processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inovação institucional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "organização partidária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "renovação parlamentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estatização da propriedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "democratização do sistema.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

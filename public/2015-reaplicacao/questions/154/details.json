@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2015 - Reaplicação",
+    "index": 154,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere que os quarteirões de um bairro tenham\nsido desenhados no sistema cartesiano, sendo a origem\no cruzamento das duas ruas mais movimentadas\ndesse bairro. Nesse desenho, as ruas têm suas\nlarguras desconsideradas e todos os quarteirões são\nquadrados de mesma área e a medida de seu lado é a\nunidade do sistema.\n\nA seguir há uma representação dessa situação, em\nque os pontos A, B, C e D representam estabelecimentos\ncomerciais desse bairro.\n\nA\n\nC\n\n![](https://enem.dev/2015-reaplicacao/questions/154/339c1c45-e1b6-4b89-871f-a1de705c8631.png)\n\nB\n\nD\n\nSuponha que uma rádio comunitária, de fraco sinal,\ngarante área de cobertura para todo estabelecimento que\nse encontre num ponto cujas coordenadas satisfaçam à\ninequação: x² + y² – 2x – 4y – 31 ≤ 0.\n\nA fim de avaliar a qualidade do sinal, e proporcionar\numa futura melhora, a assistência técnica da rádio realizou\numa inspeção para saber quais estabelecimentos estavam\ndentro da área de cobertura, pois estes conseguem ouvir\na rádio enquanto os outros não.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/154/339c1c45-e1b6-4b89-871f-a1de705c8631.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os estabelecimentos que conseguem ouvir a rádio são\napenas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "B e D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A, B e C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "B, C e D.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

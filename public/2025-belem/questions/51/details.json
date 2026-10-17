@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 51,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os clubes negros são espaços criados no século XIX,\nsobretudo a partir da década de 1870, por e para pessoas negras\n— com base em uma ideia de raça — autoidentificadas como\nnegras; pretas; morenas; mulatas; etiópicas; de cor; nos quais\ndesenvolvem atividades sociais — de caráter autodenominado\ncultural, social, político, dançante, beneficente, recreativo ou\ncarnavalesco — cuja nomeação era atribuída como clube,\ncentro e/ou sociedade, e cujo objetivo era manter um espaço\nde convívio social no qual essas atividades eram realizadas.\n\nSILVA, F. O. As lutas políticas nos clubes negros: culturas negras, racialização\ne cidadania na fronteira Brasil-Uruguai no pós-Abolição (1870-1960).\nPorto Alegre: UFRGS, 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As ações realizadas pelas organizações mencionadas no texto\ntinham por objetivo promover",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ideias xenofóbicas e comportamentos separatistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pesquisa científica e eurocentrismo intelectual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "celebrações religiosas e encontros espirituais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "projetos coletivos e práticas associativas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "formação técnica e inserção profissional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2012 - Reaplicação",
+    "index": 55,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A terapia fotodinâmica é um tratamento que utiliza luz\npara cura de câncer através da excitação de moléculas\nmedicamentosas, que promovem a desestruturação\ndas células tumorais. Para a eficácia do tratamento, é\nnecessária a iluminação na região do tecido a ser tratado.\nEm geral, as moléculas medicamentosas absorvem\nas frequências mais altas. Por isso, as intervenções\ncutâneas são limitadas pela penetração da luz visível,\nconforme a figura:\n\nEpiderme Derme papilar\n400 nm 500-550 nm 630-650 nm\n\n0,5\n1,0\n1,5\n2,0\n2,5\n3,0\n\nDerme reticular\nProfundidade de Penetração da Luz (mm)3,5\n\nLANE, N. Profundidade de penetração de feixes de luz de diferentes comprimentos de onda\n\nda luz incidente. Scientific American Brasil, fev. 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A profundidade de até 2 mm em que o tratamento cutâneo\né eficiente se justifica porque a luz de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "curto comprimento de onda é mais refletida pela pele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior energia é mais absorvida pelo tecido orgânico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "menor energia é absorvida nas regiões mais profundas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "todos os comprimentos de onda terão alta intensidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cada comprimento de onda percebe um índice de refração diferente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

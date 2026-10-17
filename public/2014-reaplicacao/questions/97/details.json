@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2014 - Reaplicação",
+    "index": 97,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Liberada, judoca árabe faz história nos Jogos\nOlímpicos de Londres\nAos 16 anos de idade, a judoca Wojdan Ali Seraj\nShaherkani, da categoria pesado (acima de 78 kg), fez\nhistória nos Jogos Olímpicos de Londres. Ela se tornou a\nprimeira mulher da Arábia Saudita a disputar uma Olimpíada.\nIsso depois de superar não só o preconceito em seu país\ncomo também o quase veto da Federação Internacional de\nJudô (FIJ), que não queria permitir que a atleta competisse\nvestindo o hijab, o tradicional véu islâmico.\n\n![](https://enem.dev/2014-reaplicacao/questions/97/e430cfc2-860a-48e8-8d6b-4bf6ab0af13c.png)\n\nDisponível em: www.lancenet.com.br. Acesso em: 8 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/97/e430cfc2-860a-48e8-8d6b-4bf6ab0af13c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No âmbito do esporte de alto rendimento, o uso do véu\npela lutadora saudita durante os Jogos Olímpicos de\nLondres 2012 representa o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descumprimento da regra oficial do judô.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "risco para a integridade física das atletas adversárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vantagem para a atleta saudita na competição de judô.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "influência de aspectos culturais e religiosos no esporte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "dificuldade da mulher islâmica para vencer preconceitos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

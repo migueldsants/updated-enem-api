@@ -1,0 +1,45 @@
+{
+    "title": "Questão 34 - ENEM 2021 - Digital",
+    "index": 34,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021-digital/questions/34/7ecb7def-10b8-4df3-b858-c27b01931353.png)\n\nDisponível em: https://g1.globo.com. Acesso em: 18 jun. 2019 (adaptado).\n\nNo texto, os recursos verbais e não verbais empregados têm por objetivo",
+    "files": [
+        "https://enem.dev/2021-digital/questions/34/7ecb7def-10b8-4df3-b858-c27b01931353.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "divulgar informações científicas sobre o uso indiscriminado de aparelhos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "celulares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

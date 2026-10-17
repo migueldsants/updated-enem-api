@@ -1,0 +1,50 @@
+{
+    "title": "Questão 178 - ENEM 2022 - Digital",
+    "index": 178,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um\ncubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de\narestas e centros de faces. Ele inicia seu deslocamento no ponto P, centro da face\nsuperior do cubo, segue para o centro da próxima face, converte à esquerda e segue para\no centro da face seguinte, converte à direita e continua sua movimentação, sempre\nalternando entre conversões à esquerda e à direita quando alcança o centro de uma face.\nO robô só termina sua movimentação quando retorna ao ponto P. A figura apresenta os\ndeslocamentos iniciais desse robô.\n\n![](https://enem.dev/2022-digital/questions/178/ffcde3af-1213-4bbb-b9e8-c62ab1944a8b.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/178/ffcde3af-1213-4bbb-b9e8-c62ab1944a8b.png",
+        "https://enem.dev/2022-digital/questions/178/937dbebb-98d3-43f4-9dc4-c4f383fd9f8c.png",
+        "https://enem.dev/2022-digital/questions/178/43a21ef3-b42d-48c9-9872-32077ec07778.png",
+        "https://enem.dev/2022-digital/questions/178/7db77097-92ce-43d4-a550-9beafd22f320.png",
+        "https://enem.dev/2022-digital/questions/178/14933b95-4e7a-4f43-b1f1-2efe7d04f861.png",
+        "https://enem.dev/2022-digital/questions/178/af2746bb-9ddd-47e7-9ab6-c7ad61cbec59.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A projeção ortogonal do trajeto descrito por esse robô sobre o plano da base, após\nterminada sua movimentação, visualizada da posição em que se está enxergando esse\ncubo, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/178/937dbebb-98d3-43f4-9dc4-c4f383fd9f8c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/178/43a21ef3-b42d-48c9-9872-32077ec07778.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/178/7db77097-92ce-43d4-a550-9beafd22f320.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/178/14933b95-4e7a-4f43-b1f1-2efe7d04f861.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/178/af2746bb-9ddd-47e7-9ab6-c7ad61cbec59.png",
+            "isCorrect": false
+        }
+    ]
+}

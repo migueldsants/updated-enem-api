@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2016 - Segunda aplicação",
+    "index": 86,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos anos 1990, verificou-se que o rio Potomac,\nsituado no estado norte-americano de Maryland, tinha,\nem parte de seu curso, águas extremamente ácidas por\nreceber um efluente de uma mina de carvão desativada, o\nqual continha ácido sulfúrico (H₂SO₄). Essa água, embora\nlímpida, era desprovida de vida. Alguns quilômetros\nadiante, instalou-se uma fábrica de papel e celulose\nque emprega hidróxido de sódio (NaOH) e carbonato de\nsódio (Na₂CO₃) em seus processos. Em pouco tempo,\nobservou-se que, a partir do ponto em que a fábrica lança\nseus rejeitos no rio, a vida aquática voltou a florescer.\n\nHARRIS, D. C. Análise química quantitativa. Rio de Janeiro:\nLivros Técnicos e Científicos, 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A explicação para o retorno da vida aquática nesse rio é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diluição das águas do rio pelo novo efluente lançado nele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "precipitação do íon sulfato na presença do efluente da nova fábrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "biodegradação do ácido sulfúrico em contato com o novo efluente descartado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminuição da acidez das águas do rio pelo efluente da fábrica de papel e celulose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "volatilização do ácido sulfúrico após contato com o novo efluente introduzido no rio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

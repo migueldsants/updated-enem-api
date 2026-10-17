@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2016 - Segunda aplicação",
+    "index": 99,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O bonde abre a viagem,\nNo banco ninguém,\nEstou só, stou sem.\nDepois sobe um homem,\nNo banco sentou,\nCompanheiro vou.\nO bonde está cheio,\nDe novo porém\nNão sou mais ninguém.\n\nANDRADE, M. Poesias completas. Belo Horizonte: Vila Rica, 1993.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O desenvolvimento das grandes cidades e a consequente\nconcentração populacional nos centros urbanos geraram\nmudanças importantes no comportamento dos indivíduos\nem sociedade. No poema de Mário de Andrade, publicado\nna década de 1940, a vida na metrópole aparece\nrepresentada pela contraposição entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a solidão e a multidão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a carência e a satisfação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a mobilidade e a lentidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a amizade e a indiferença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a mudança e a estagnação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

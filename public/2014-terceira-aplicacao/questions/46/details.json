@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2014 - Terceira aplicação",
+    "index": 46,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em média, a cada 28 dias ocorrem mudanças no corpo\nda mulher devido ao seu ciclo reprodutivo. Em cada ciclo,\nobservam-se modificações morfológicas nas glândulas\nmamárias, ovários e útero, em função da liberação de\ninúmeros hormônios. No início do ciclo observa-se que\no hormônio liberador de gonadotrofinas GnRH estimula\ntambém a liberação de um outro hormônio X , que\nproporciona o crescimento e diferenciação de um ovócito\nprimário, a proliferação das células foliculares, a formação\nda zona pelúcida e o desenvolvimento de uma cápsula de\ntecido conjuntivo denominada teca folicular .\nO hormônio X ao qual o texto se refere é o a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estrogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "progesterona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "luteinizante LH .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "folículo estimulante FSH .",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "gonadotrófico coriônico humano HCG .",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

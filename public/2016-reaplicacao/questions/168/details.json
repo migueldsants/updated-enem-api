@@ -1,0 +1,49 @@
+{
+    "title": "Questão 168 - ENEM 2016 - Reaplicação",
+    "index": 168,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na figura estão representadas, em um plano\ncartesiano, duas circunferências: C₁ (de raio 3 e centro O₁)\ne C₂ (de raio 1 e centro O₂), tangentes entre si, e uma reta t\ntangente às duas circunferências nos pontos P e Q.\n\ny\n\nC\n\n![](https://enem.dev/2016-reaplicacao/questions/168/6345485e-ca2d-4619-8fbe-bfbe5bca308a.png)\n\nx\nC₂",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/168/6345485e-ca2d-4619-8fbe-bfbe5bca308a.png",
+        "https://enem.dev/2016-reaplicacao/questions/168/b464d045-bc5d-4bb0-823e-1b324ff5089a.png",
+        "https://enem.dev/2016-reaplicacao/questions/168/514cea22-630f-4f83-b324-08ba1c1647c4.png",
+        "https://enem.dev/2016-reaplicacao/questions/168/64ef0ee6-dca8-4280-8e50-599953938c7d.png",
+        "https://enem.dev/2016-reaplicacao/questions/168/a8d36657-e090-40b8-b604-85ba9d22c0f8.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessas condições, a equação da reta t é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/168/b464d045-bc5d-4bb0-823e-1b324ff5089a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/168/514cea22-630f-4f83-b324-08ba1c1647c4.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "y = −x + 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/168/64ef0ee6-dca8-4280-8e50-599953938c7d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/168/a8d36657-e090-40b8-b604-85ba9d22c0f8.png",
+            "isCorrect": false
+        }
+    ]
+}

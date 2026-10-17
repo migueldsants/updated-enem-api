@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2012 - Reaplicação",
+    "index": 80,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pela manipulação genética, machos do Aedes\naegypti, mosquito vetor da dengue, criados em laboratório\nreceberam um gene modificado que produz uma proteína\nque mata a prole de seu cruzamento.\n\nSILVEIRA, E. Disponível em: www.pesquisa.fapesp.com.br. Acesso em:14 jun. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com o emprego dessa técnica, o número de casos de\ndengue na população humana deverá diminuir, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os machos modificados não conseguirão fecundar as fêmeas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os machos modificados não obterão sucesso reprodutivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "os machos modificados possuem genes que impedem a infecção dos mosquitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a inserção de novos mosquitos aumentará a quantidade de mosquitos imunes ao vírus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o número de machos modificados crescerá com as gerações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

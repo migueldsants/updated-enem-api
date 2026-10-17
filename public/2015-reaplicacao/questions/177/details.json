@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2015 - Reaplicação",
+    "index": 177,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um paciente precisa ser submetido a um\ntratamento, sob orientação médica, com determinado\nmedicamento. Há cinco possibilidades de medicação,\nvariando a dosagem e o intervalo de ingestão do\nmedicamento. As opções apresentadas são:\n\nA: um comprimido de 400 mg, de 3 em 3 horas,\ndurante 1 semana;\n\nB: um comprimido de 400 mg, de 4 em 4 horas,\ndurante 10 dias;\n\nC: um comprimido de 400 mg, de 6 em 6 horas,\ndurante 2 semanas;\n\nD: um comprimido de 500 mg, de 8 em 8 horas,\ndurante 10 dias;\n\nE: um comprimido de 500 mg, de 12 em 12 horas,\ndurante 2 semanas.\n\nPara evitar efeitos colaterais e intoxicação, a\nrecomendação é que a quantidade total de massa\nda medicação ingerida, em miligramas, seja a menor\npossível.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Seguindo a recomendação, deve ser escolhida a opção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2014 - Terceira aplicação",
+    "index": 121,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nConvivemos com o modelo de pirâmide social, no\nqual uma grande base de excluídos sustenta alguns\npoucos privilegiados situados no topo da pirâmide\nsocioeconômica, modelo esse que se repete, ipsis litteris,\nno caso do acesso ao chamado mundo da cibercultura. E,\nmesmo com todas as políticas públicas de implantação de\ntelecentros, infocentros, pontos de cultura e programas\nde introdução de computadores nas escolas, ainda\npercebemos que os conectados, no Brasil, são, em\ngrande maioria, os que estão nas camadas mais altas da\nsociedade.\n\nPRETTO, N. L.; SILVEIRA, S. A. Org. Além das redes de colaboração: internet,\ndiversidade cultural e tecnologias do poder. Salvador: Edufba, 2008 fragmento .\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/121/5fbc0ef3-2e01-4114-8f10-9ac768d7cf16.png)\n\nCARUSO, F.; SILVEIRA, C. Quadrinhos para a cidadania. História, Ciências, Saúde –\nManguinhos, Rio de Janeiro, v. 16, n. 1, jan.-mar. 2009.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/121/5fbc0ef3-2e01-4114-8f10-9ac768d7cf16.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os dois textos apresentam pontos de vista críticos sobre os\nusos sociais que são feitos dos sistemas de comunicação\ne informação. Em ambos, problematiza-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "distância existente entre o avanço das tecnologias da informação e comunicação e o efetivo acesso de todas as classes sociais a esse aporte tecnológico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "política de introdução de computadores nas escolas e a restrição de apoio financeiro a determinadas regiões do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "carência de laboratórios de informática e a falta de acesso à rede mundial de computadores nas escolas públicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "falta de formação dos alunos para o acesso ao mundo digital e o uso inapropriado dos equipamentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "quantidade insuficiente de professores para trabalhar com as tecnologias da informação e ensiná-las aos alunos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

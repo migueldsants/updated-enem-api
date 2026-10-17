@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2014 - Reaplicação",
+    "index": 34,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Enquanto as rebeliões agitavam o país, as tendências\npolíticas no centro dirigente iam se definindo. Apareciam\nem germe os dois grandes partidos imperiais — o\nConservador e o Liberal. Os conservadores reuniam\nmagistrados, burocratas, uma parte dos proprietários\nrurais, especialmente do Rio de Janeiro, Bahia e\nPernambuco, e os grandes comerciantes, entre os quais\nmuitos portugueses. Os liberais agrupavam a pequena\nclasse média urbana, alguns padres e proprietários rurais\nde áreas menos tradicionais, sobretudo de São Paulo,\nMinas e Rio Grande do Sul.\n\nFAUSTO, B. História do Brasil. São Paulo: Edusp, 1998.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No texto, o autor compara a composição das forças\npolíticas que atuaram no Segundo Reinado 1840-1889 .\nDois aspectos que caracterizam os partidos Conservador\ne Liberal estão indicados, respectivamente, em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Abolição da escravidão — Adoção do trabalho assalariado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Difusão da industrialização — Conservação do latifúndio monocultor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Promoção do protecionismo — Remoção das barreiras alfandegárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Preservação do unitarismo — Ampliação da descentralização provincial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Implementação do republicanismo — Continuação da monarquia constitucional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

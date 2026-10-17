@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 5,
+    "year": 2025,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "My Name\nIn English my name means hope. In Spanish it means too\nmany letters. It means sadness, it means waiting. It is like the\nnumber nine. A muddy color. It is the Mexican records my father\nplays on Sunday mornings when he is shaving, songs like sobbing.\nIt was my great-grandmother’s name and now it is mine. She was\na horse woman too, born like me in the Chinese year of the\nhorse, which is supposed to be bad luck if you’re born female.\nMy great-grandmother. I would’ve liked to have known her,\na wild, horse of a woman, so wild she wouldn’t marry.\n\nCISNEROS, S. The House on Mango Street. Londres: Bloomsbury, 2004.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, a reflexão apresentada pela narradora destaca o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valor do plurilinguismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cotidiano de sua família.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "complexidade do espanhol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "musicalidade do seu nome.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "constituição de sua identidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

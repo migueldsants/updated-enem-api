@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 151,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O controle de temperatura em sistemas mecânicos\né fundamental para prevenir acidentes e manter o bom\nfuncionamento das máquinas. Carros, aviões e computadores\nsão exemplos de máquinas que têm sistemas de controle de\ntemperatura.\n\nO gerente de uma fábrica orientou seus funcionários a\nmanterem a temperatura de uma máquina abaixo do limite de\nsegurança, definido como 80% da temperatura de referência,\nque é de 50 °C. Para isso, o monitoramento dessa máquina é feito\ndiariamente em dez instantes e, sempre que sua temperatura\natingir ou ultrapassar o limite de segurança, o funcionário deverá\nacionar o sistema de resfriamento.\n\nO gráfico apresenta as temperaturas registradas nos dez\n\n![](https://enem.dev/2025-belem/questions/151/7b5f0110-23cb-4f1c-bc43-79b8728d1c82.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/151/7b5f0110-23cb-4f1c-bc43-79b8728d1c82.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quantas vezes, ao longo desse dia, o sistema de resfriamento\nfoi acionado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

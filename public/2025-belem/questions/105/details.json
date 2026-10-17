@@ -1,0 +1,47 @@
+{
+    "title": "Questão 105 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 105,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O conteúdo de um cilindro de gás natural veicular explodiu,\nliberando um volume de 15 m³ de gás, que entrou em combustão.\nApesar do risco de explosão, o gás natural veicular (GNV) é\num combustível bastante eficiente em termos econômicos.\nApresenta densidade de 0,8 kg/m³ e seu componente principal\né o metano (CH₄), de massa molar igual a 16 g/mol, numa\nconcentração de 90%. É possível avaliar a energia liberada na\nexplosão a partir das energias de ligação dos átomos envolvidos,\ndescritas no quadro.\n\n![](https://enem.dev/2025-belem/questions/105/d27e9e6d-91a0-4414-8d92-e41794ea40b7.png)\n\n![](https://enem.dev/2025-belem/questions/105/2c263116-ba82-4b23-b965-878a03301642.png)\n\n![](https://enem.dev/2025-belem/questions/105/0a1f4df4-e8a4-4295-b32f-aada243b2680.png)\n\nCHANG, R. Chemistry. Nova York: McGraw-Hill, 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/105/d27e9e6d-91a0-4414-8d92-e41794ea40b7.png",
+        "https://enem.dev/2025-belem/questions/105/2c263116-ba82-4b23-b965-878a03301642.png",
+        "https://enem.dev/2025-belem/questions/105/0a1f4df4-e8a4-4295-b32f-aada243b2680.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A energia, em quilojoule, gerada no momento da explosão é\nmais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,5 × 10⁵ kJ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,7 × 10⁵ kJ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,1 × 10⁵ kJ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,3 × 10⁵ kJ.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5,9 × 10⁵ kJ.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

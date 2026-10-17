@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2016 - Segunda aplicação",
+    "index": 84,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O eletrocardiograma, exame utilizado para avaliar\no estado do coração de um paciente, trata-se do\nregistro da atividade elétrica do coração ao longo de\num certo intervalo de tempo. A figura representa o\neletrocardiograma de um paciente adulto, descansado,\nnão fumante, em um ambiente com temperatura\nagradável. Nessas condições, é considerado normal um\nritmo cardíaco entre 60 e 100 batimentos por minuto.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/84/60d5533e-ddf8-493d-b905-7e5881a158c1.png)\n\n0 1 2 3 4 5 6\nTempo (s)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/84/60d5533e-ddf8-493d-b905-7e5881a158c1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base no eletrocardiograma apresentado, identifica-se\nque a frequência cardíaca do paciente é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acima do valor ideal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "abaixo do valor ideal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "próxima do limite inferior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "próxima do limite superior.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

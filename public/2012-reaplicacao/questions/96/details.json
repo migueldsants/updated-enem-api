@@ -1,0 +1,46 @@
+{
+    "title": "Questão 96 - ENEM 2012 - Reaplicação",
+    "index": 96,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": ".\n\n![](https://enem.dev/2012-reaplicacao/questions/96/df622715-d9de-45de-b991-0eb1a589e3c7.png)\n\nDisponível em: www.itaucultural.org.br. Acesso em: 26 jul. 2010.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/96/df622715-d9de-45de-b991-0eb1a589e3c7.png",
+        "https://enem.dev/2012-reaplicacao/questions/96/542ba2c6-40dd-49a8-a547-50d78a0f2bab.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Sem formação acadêmica específica em artes visuais,\nHeitor dos Prazeres, que também é compositor e\ninstrumentista, é reconhecido artista popular do Rio de\nJaneiro. Suas pinturas de perspectivas imprecisas e\ncom traços bem demarcados são figurativas e sugerem\nmovimento. Essa obra retrata",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a confraternização de uma população socialmente marginalizada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o inconformismo da população de baixa renda da capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o cotidiano da burguesia contemporânea da capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a instabilidade de uma realidade rural do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/96/542ba2c6-40dd-49a8-a547-50d78a0f2bab.png",
+            "isCorrect": false
+        }
+    ]
+}

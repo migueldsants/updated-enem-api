@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2016 - Reaplicação",
+    "index": 42,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Guerra Fria foi, acima de tudo, um produto da\nheterogeneidade no sistema internacional ― para repetir,\nda heterogeneidade da organização interna e da prática\ninternacional ― e somente poderia ser encerrada pela\nobtenção de uma nova homogeneidade. O resultado disto\nfoi que, enquanto os dois sistemas distintos existiram, o\nconflito da Guerra Fria estava destinado a continuar: a\nGuerra Fria não poderia terminar com o compromisso ou\na convergência, mas somente com a prevalência de um\ndestes sistemas sobre o outro.\n\nHALLIDAY, F. Repensando as relações internacionais. Porto Alegre: EdUFRGS, 1999.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A caracterização da Guerra Fria apresentada pelo texto\nimplica interpretá-la como um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "esforço de homogeneização do sistema internacional negociado entre Estados Unidos e União Soviética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "guerra, visando o estabelecimento de um renovado sistema social, híbrido de socialismo e capitalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "conflito intersistêmico em que países capitalistas e socialistas competiriam até o fim pelo poder de influência em escala mundial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "compromisso capitalista de transformar as sociedades homogêneas dos países socialistas em democracias liberais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "enfrentamento bélico entre capitalismo e socialismo pela homogeneização social de suas respectivas áreas de influência política.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

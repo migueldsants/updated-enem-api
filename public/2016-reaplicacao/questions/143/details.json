@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2016 - Reaplicação",
+    "index": 143,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/143/08641b58-4888-4f24-ad1c-4b41fbb0a304.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/143/08641b58-4888-4f24-ad1c-4b41fbb0a304.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "10,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "22,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25,3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

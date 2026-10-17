@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2021 - Digital",
+    "index": 47,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando a taxa de remuneração do capital excede substancialmente a taxa de\ncrescimento da economia, pela lógica, a riqueza herdada aumenta mais rápido do que a\nrenda e a produção. Então, basta aos herdeiros poupar uma parte limitada da renda de\nseu capital para que ele cresça mais rápido do que a economia como um todo. Sob essas\ncondições, é quase inevitável que a riqueza herdada supere a riqueza constituída durante\numa vida de trabalho, e que a concentração do capital atinja níveis muito altos.\n\nPIKETTY, T. O capital no século XXI. Rio de Janeiro: Intrínseca, 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando os princípios que legitimam as democracias liberais, a lógica econômica\ndescrita no texto enfraquece o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ideologia do mérito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "direito de nascimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "eficácia da legislação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ganho das financeiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "eficiência dos mercados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

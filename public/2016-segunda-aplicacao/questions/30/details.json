@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2016 - Segunda aplicação",
+    "index": 30,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando a Corte chegou ao Rio de Janeiro, a\nColônia tinha acabado de passar por uma explosão\npopulacional. Em pouco mais de cem anos, o número\nde habitantes aumentara dez vezes.\n\nGOMES, L.1808: como uma rainha louca, um príncipe medroso e uma Corte corrupta\nenganaram Napoleão e mudaram a história de Portugal e do Brasil.\nSão Paulo: Planeta do Brasil, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A alteração demográfica destacada no período teve como\ncausa a atividade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cafeeira, com a atração da imigração europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "industrial, com a intensificação do êxodo rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mineradora, com a ampliação do tráfico africano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "canavieira, com o aumento do apresamento indígena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manufatureira, com a incorporação do trabalho assalariado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

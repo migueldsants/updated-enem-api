@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 92,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2006, o Prêmio Nobel de medicina ou fisiologia foi dado pela descrição do mecanismo de interferência de RNA, ou\nsimplesmente RNAi. O mecanismo RNAi é um processo biológico no qual pequenas moléculas de RNA interferem na expressão\ngênica, tipicamente pela destruição do RNA mensageiro de um gene específico no citoplasma.\n\nESTEVES, B. Interferência de RNA dá prêmio a norte-americanos. Disponível em: http://cienciahoje.uol.br. Acesso em: 13 jul. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse mecanismo, a regulação da expressão gênica ocorre pela inibição da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "síntese do RNA mensageiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "saída do RNA mensageiro do núcleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tradução do RNA mensageiro em proteína.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "síntese do ribossomo pelo RNA mensageiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "captura de aminoácidos pelo RNA mensageiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

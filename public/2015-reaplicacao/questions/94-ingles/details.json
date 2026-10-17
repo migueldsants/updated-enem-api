@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2015 - Reaplicação",
+    "index": 94,
+    "year": 2015,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Annual Greenhouse Gas Emissions by Sector\n\nPower stations\n21.3%\n\nTransportation fuels\n14.0% Waste disposal\n\n![](https://enem.dev/2015-reaplicacao/questions/94-ingles/e34274a6-672a-4b17-a702-27039921fbe1.png)\n\nand treatment\n3.4%\n\nAgricultural\n12.5% Land use and\nby-products 10.0%\nbiomass burning\n\nFossil fuel retrieval, 10.3% Residential, commercial,\n11.3% and other sources\nprocessing, and distribution\n\nDisponível em: www.globalwarming.org. Acesso em: 31 jul. 2012 (adaptado).\n\nA emissão de gases tóxicos na atmosfera traz diversas\n\nconsequências para nosso planeta. De acordo com o\n\ngráfico, retirado do texto Global warming is an international",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/94-ingles/e34274a6-672a-4b17-a702-27039921fbe1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "issue, observa-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as queimadas poluem um pouco mais do que os combustíveis usados nos meios de transporte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as residências e comércios são os menores emissores de gases de efeito estufa na atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o processo de tratamento de água contribui para a emissão de gases poluentes no planeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os combustíveis utilizados nos meios de transportes poluem mais do que as indústrias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os maiores emissores de gases de efeito estufa na atmosfera são as usinas elétricas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

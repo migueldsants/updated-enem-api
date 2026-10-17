@@ -1,0 +1,48 @@
+{
+    "title": "Questão 156 - ENEM 2016 - Segunda aplicação",
+    "index": 156,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma indústria de perfumes embala seus produtos,\n\natualmente, em frascos esféricos de raio R, com volume\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/156/c7badfbf-9f91-4d60-a856-6a38e78991cc.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/156/5ac907b8-1a8e-4bb1-8b40-890e9cd39055.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/156/17216ece-fd9a-4fe3-82f1-9cbca403c37f.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/156/706dc16f-6f45-4a1c-bbc0-abeddef269b8.png)\n\nPara que seja mantida a mesma capacidade do frasco\n\nesférico, a altura do frasco cilíndrico (em termos de R)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/156/c7badfbf-9f91-4d60-a856-6a38e78991cc.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/156/5ac907b8-1a8e-4bb1-8b40-890e9cd39055.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/156/17216ece-fd9a-4fe3-82f1-9cbca403c37f.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/156/706dc16f-6f45-4a1c-bbc0-abeddef269b8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "deverá ser igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12R.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 85 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 85,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Como estratégia para minimizar os efeitos dos longos\nperíodos cíclicos de escassez hídrica no estado do Ceará, diversos\nreservatórios foram construídos ao longo de décadas, além de\ncanais e sistemas de transposição que conduzem água ao principal\nsistema de abastecimento da região metropolitana de Fortaleza.\nContudo, em um cenário no qual novos desafios são postos, ações\ndistintas das tradicionalmente adotadas podem complementar as\nsoluções anteriores, dando uma segurança a mais ao sistema que\nantes não contemplava as incertezas climáticas que hoje temos.\nNessa perspectiva, a Companhia de Água e Esgoto do Estado do\nCeará tem sido demandada para criar alternativas de abastecimento\nque fortaleçam a matriz hídrica do estado, em especial da região\nmetropolitana de Fortaleza, responsável pela maior demanda\nde água para consumo humano e fortemente dependente da\nimportação de água de bacias distantes (do interior).\n\nDisponível em: www.cagece.com.br. Acesso em: 14 out. 2023 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma estratégia para viabilizar a manutenção do fornecimento de\nágua para a região metropolitana mencionada, sem comprometer\na disponibilidade desse recurso para o interior do estado, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ampliação das redes de distribuição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diversificação da produção de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criação de projetos de desvios fluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aplicação da técnica de dessalinização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "expansão do tratamento de resíduos sólidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

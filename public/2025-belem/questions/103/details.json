@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 103,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A leptospirose é uma zoonose causada por uma bactéria do\ngênero Leptospira. A transmissão ocorre através da penetração\nativa da bactéria na pele e mucosas, quando em contato com\nágua, alimentos ou solo contendo urina de animais infectados.\nOs roedores sinantrópicos comensais, como as ratazanas,\ndesempenham o papel de principais reservatórios da doença\nem áreas urbanas.\n\nDisponível em: www.bio.fiocruz.br. Acesso em: 22 jun. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quais medidas são recomendadas para prevenir essa doença\nem áreas urbanas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Utilizar máscara para proteger a boca e evitar acúmulo de objetos nos quintais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Lavar as mãos antes das refeições e manter os terrenos baldios limpos e capinados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Evitar o contato com água de esgotos ou de enchentes e dar destino adequado ao lixo doméstico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Consumir água tratada e manter os alimentos em recipientes fechados e em locais elevados do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aplicar repelentes corporais e retirar as sobras de alimento de animais domésticos antes do anoitecer.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2020 - Digital",
+    "index": 71,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Numa democracia representativa, como é o Brasil, o direito de votar para escolha dos\ngovernantes, que irão ocupar os cargos do Executivo e do Legislativo, é um dos direitos\nfundamentais da cidadania. Na impossibilidade de participação direta do povo nas decisões\nque deverão ser tomadas a respeito de questões da máxima relevância para o interesse\npúblico, a escolha de representantes para o desempenho dessas tarefas foi o caminho\nencontrado para que as opções reflitam a vontade do povo.\n\nDALLARI, D. Em busca da democracia representativa. Disponível em: www.jb.com.br.\nAcesso em: 2 fev. 2015.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na perspectiva apontada no texto, a consolidação da democracia no Brasil baseia-se na\nrepresentação popular por meio dos(as)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fóruns sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "partidos políticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "conselhos federais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "entidades de classe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "organizações não governamentais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

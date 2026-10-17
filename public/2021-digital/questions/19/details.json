@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2021 - Digital",
+    "index": 19,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Coincidindo com o Dia Internacional dos Direitos da Infância, foram apresentados\ndiversos trabalhos que mostram as mudanças que afetam a vida das crianças. Um\ndesses estudos compara o que sonham e brincam as crianças hoje em relação às dos\nanos 1990. E o que se descobriu é que as crianças têm agora menos lazer e estão mais\nsobrecarregadas por deveres e atividades extracurriculares do que as de 25 anos atrás.\nAs crianças de hoje não só dedicam menos tempo para brincar, como também, quando\nbrincam, a maioria não o faz com outras crianças no parque, na rua ou na praça, mas em\ncasa e muitas vezes sozinhas. E já não brincam tanto com brinquedos, mas com\naparelhos eletrônicos, entre os quais predomina o jogo individual com a máquina.\n\nOLIVA, M. P. O direito das crianças ao lazer… e a crescer sem carências.\nEl País, 20 nov. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto indica que as transformações nas experiências lúdicas na infância",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fomentaram as relações sociais entre as crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tornaram o lazer uma prática difundida entre as crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incentivaram a criação de novos espaços para se divertir.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promoveram uma vivência corporal menos ativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "contribuíram para o aumento do tempo dedicado para brincar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

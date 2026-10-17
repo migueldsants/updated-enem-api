@@ -1,0 +1,46 @@
+{
+    "title": "Questão 173 - ENEM 2016 - Segunda aplicação",
+    "index": 173,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A diretoria de uma empresa de alimentos resolve\napresentar para seus acionistas uma proposta de novo\nproduto. Nessa reunião, foram apresentadas as notas\nmédias dadas por um grupo de consumidores que\nexperimentaram o novo produto e dois produtos similares\nconcorrentes (A e B).\n\n9,0\n\n8,5\n\n8,0\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/173/a4170667-b8d1-4b90-be76-298efe83b5ff.png)\n\n7,5\n\n7,0\n\n6,5\n\n6,0\n\nForma Textura Cor Tamanho Sabor Odor\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/173/683d2d66-e054-48f3-95f6-2f76bbd942b5.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/173/a4170667-b8d1-4b90-be76-298efe83b5ff.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/173/683d2d66-e054-48f3-95f6-2f76bbd942b5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A característica que dá a maior vantagem relativa ao\nproduto proposto e que pode ser usada, pela diretoria,\npara incentivar a sua produção é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "textura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tamanho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sabor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "odor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

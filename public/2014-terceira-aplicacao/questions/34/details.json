@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2014 - Terceira aplicação",
+    "index": 34,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A enxada é um bom instrumento de jardim, de um\npomar ou de uma horta: porém pretender aplicá-la com\nproveito à grande cultura é o mesmo que querer tirar\numa peça de cantaria pedra de construção de tamanho\ngrande com um prego, ou falquejar tornar quadrado ,\num pão com uma faca. A enxada mal arranha a terra à\ncusta de fadiga do mísero trabalhador.\n\nBURLAMAQUE, F. L. C. Catechismo de Agricultura,1870. In: MOTTA, M.; GUIMARES, E.\nDireito às avessas: por uma história social da propriedade. Niterói: UFF, 2011.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No final do século XIX, o discurso que afirmava estar em\ncrise a agricultura brasileira apontava como razão para\nesse fato a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "manutenção de métodos arcaicos de produção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "subordinação econômica à atividade industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilização de imigrantes como trabalhadores rurais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "disseminação de pequenas propriedades agrícolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diversificação dos gêneros produzidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

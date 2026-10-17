@@ -1,0 +1,45 @@
+{
+    "title": "Questão 78 - ENEM 2013 - Reaplicação",
+    "index": 78,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/78/9e84d554-7f60-4484-9a80-d799b63f37b4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Visando reduzir a poluição sonora de uma cidade, a Câmara de Vereadores aprovou uma lei que impõe o limite\nmáximo de 40 dB (decibéis) para o nível sonoro permitido após as 22 horas.\nAo aprovar a referida lei, os vereadores estão limitando qual característica da onda?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A altura da onda sonora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A amplitude da onda sonora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A frequência da onda sonora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A velocidade da onda sonora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/78/9e84d554-7f60-4484-9a80-d799b63f37b4.png",
+            "isCorrect": false
+        }
+    ]
+}

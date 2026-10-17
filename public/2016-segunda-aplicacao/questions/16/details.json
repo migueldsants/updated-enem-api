@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2016 - Segunda aplicação",
+    "index": 16,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O número de votantes potenciais em 1872 era de\n1 097 698, o que correspondia a 10,8% da população\ntotal. Esse número poderia chegar a 13%, quando\nseparamos os escravos dos demais indivíduos.\nEm 1886, cinco anos depois de a Lei Saraiva ter sido\naprovada, o número de cidadãos que poderiam se\nqualificar eleitores era de 117 022, isto é, 0,8% da\npopulação.\n\nCASTELLUCCI, A. A. S. Trabalhadores, máquina política e eleições na Primeira\nRepública. Disponível em: www.ifch.unicamp.br. Acesso em: 28 jul. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A explicação para a alteração envolvendo o número de\neleitores no período é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criação da Justiça Eleitoral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "exigência da alfabetização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "redução da renda nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "exclusão do voto feminino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "coibição do voto de cabresto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

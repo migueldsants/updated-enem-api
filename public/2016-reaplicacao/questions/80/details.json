@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2016 - Reaplicação",
+    "index": 80,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os indivíduos de uma população de uma pequena\ncidade, fundada por uma família de europeus, são,\nfrequentemente, frutos de casamentos consanguíneos.\nGrande parte dos grupos familiares dessa localidade\napresenta membros acometidos por uma doença rara,\nidentificada por fraqueza muscular progressiva, com início\naos 30 anos de idade. Em famílias com presença dessa\ndoença, quando os pais são saudáveis, somente os filhos\ndo sexo masculino podem ser afetados. Mas em famílias\ncujo pai é acometido pela doença e a mãe é portadora\ndo gene, 50% da descendência, independentemente do\nsexo, é afetada.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando as características populacionais, o sexo\ne a proporção dos indivíduos afetados, qual é o tipo de\nherança da doença descrita no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recessiva, ligada ao cromossomo X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Dominante, ligada ao cromossomo X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Recessiva, ligada ao cromossomo Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Recessiva autossômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dominante autossômica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

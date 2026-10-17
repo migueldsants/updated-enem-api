@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 83,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Casa do Pomar do Cafezal, localizada na comunidade\nAglomerado da Serra, em Belo Horizonte, foi a grande\nvencedora de um prêmio internacional, na categoria casa.\nA construção simples e feita pelo coletivo Levante desbancou\nvários concorrentes internacionais em um dos concursos mais\nimportantes da arquitetura mundial. A construção, que tem\ncerca de 70 m², foi implantada em um terreno anguloso e\nrealizada com a ajuda de diferentes profissionais, fornecedores\ne residentes do local. Para o mundo, um vencedor; para o morador,\num “barraco”, como ele chama; e para os líderes do projeto, “um\n‘modelo’ construtivo que utiliza materiais próprios da periferia,\ncom uma implantação adequada e atenção à iluminação e\nventilação, resultando em um espaço com qualidade ambiental”.\n\n![](https://enem.dev/2025-belem/questions/83/ceb6a6bc-b85b-4c88-8ede-6b9dc464b218.png)\n\nDisponível em: www.tuacasa.com.br. Acesso em: 13 out. 2023 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/83/ceb6a6bc-b85b-4c88-8ede-6b9dc464b218.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em relação à ambiência urbana, uma razão para o reconhecimento\ndo modelo construtivo apresentado foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "favorecer a permeabilidade do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diversificar a cobertura arbórea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aperfeiçoar a drenagem pluvial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "manter o consumo de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "garantir o conforto térmico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

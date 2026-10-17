@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2020 - Digital",
+    "index": 15,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Indústria cultural da felicidade\n\nTornou-se perigoso o emprego da palavra felicidade desde seu mau uso pela propaganda.\nOs que se negam a usá-la acreditam liberar os demais dos desvios das falsas necessidades,\ndas bugigangas que se podem comprar em shoppings grã-finos ou em camelôs na beira da\ncalçada, que, juntos, sustentam a indústria cultural da felicidade à qual foi reduzido o que,\nantes, era o ideal ético de uma vida justa. Infelicidade poderia ser o nome próprio desse novo\nestado da alma humana que se perdeu de si ao perder-se do sentido do que está a fazer.\nDesespero é um termo ainda mais agudo quando se trata da perda do sentido das ações pela\nperda da capacidade de reflexão sobre o que se faz. A felicidade publicitária está ao alcance\ndos dedos e não promete um depois. Resulta disso a massa de “desesperados” trafegando\ncomo zumbis nos shoppings e nas farmácias do país em busca de alento.\n\nTIBURI, M. Disponível em: http://revistacult.uol.com.br. Acesso em: 12 nov. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao reprovar a ação da indústria da felicidade e um comportamento humano, o texto associa a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ansiedade recorrente ao lançamento de novidades no mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "visita frequente ao shopping à resolução de problemas cotidianos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atitude impensada ao atendimento de necessidades emergenciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "postura consumista à crença na promessa ilusória de anúncios publicitários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "vantagem econômica à venda de produtos falsificados no mercado ambulante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

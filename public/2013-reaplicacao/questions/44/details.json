@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2013 - Reaplicação",
+    "index": 44,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Mas, sendo minha intenção escrever algo de útil\npara quem por tal se interesse, pareceu-me mais\nconveniente ir em busca da verdade extraída dos fatos e\nnão à imaginação dos mesmos, pois muitos conceberam\nrepúblicas e principados jamais vistos ou conhecidos\ncomo tendo realmente existido.\n\nMAQUIAVEL, N. O príncipe. Disponível em: www.culturabrasil.pro.br.\nAcesso em: 4 abr. 2013.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A partir do texto, é possível perceber a crítica\nmaquiaveliana à filosofia política de Platão, pois há nesta a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "elaboração de um ordenamento político com fundamento na bondade infinita de Deus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "explicitação dos acontecimentos políticos do período clássico de forma imparcial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilização da oratória política como meio de convencer os oponentes na ágora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "investigação das constituições políticas de Atenas pelo método indutivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "idealização de um mundo político perfeito existente no mundo das ideias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

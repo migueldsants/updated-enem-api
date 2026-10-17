@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2016 - Reaplicação",
+    "index": 85,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para verificar a eficácia do teste de DNA na\ndeterminação de paternidade, cinco voluntários, dentre\neles o pai biológico de um garoto, cederam amostras\nbiológicas para a realização desse teste. A figura mostra\no resultado obtido após a identificação dos fragmentos de\nDNA de cada um deles.\n\nd~êçíç jšÉ NŸ OŸ PŸ QŸ RŸ\n\n![](https://enem.dev/2016-reaplicacao/questions/85/94aa3bfa-a068-4ce3-9c0d-5bf8b598676e.png)\n\nOLIVEIRA, F. B.; SILVEIRA, R. M. V. O teste de DNA na sala de aula: é possível ensinar\nbiologia a partir de temas atuais. Revista Genética na Escola, abr. 2010.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/85/94aa3bfa-a068-4ce3-9c0d-5bf8b598676e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após a análise das bandas de DNA, pode-se concluir que\no pai biológico do garoto é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1° voluntário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2° voluntário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3° voluntário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4° voluntário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5° voluntário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 178,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um relatório sobre a equipe inicial dos estudantes de uma\nescola, inscritos para uma competição esportiva, informava que a\nmédia das alturas desses estudantes era 1,66 m. Após a elaboração\ndesse relatório, houve a inclusão de dois novos estudantes na\nequipe, cujas alturas eram de 1,75 m e 1,85 m. Com isso, a média\ndas alturas dos estudantes da nova equipe passou a ser 1,67 m.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O número de estudantes que formam a nova equipe é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "26.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "28.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

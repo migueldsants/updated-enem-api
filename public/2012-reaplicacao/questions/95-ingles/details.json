@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2012 - Reaplicação",
+    "index": 95,
+    "year": 2012,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Ebonics\n\nThe word ebonics is made up of two words. Ebony,\nwhich means black and phonics, which refers to sound.\nIt is a systematic rule-governed natural speech that is\nconsistent as any other language in sentence structure.\nThis is referred to as syntax. What makes this speech\npattern uniquely different to “so called” American Standard\nEnglish is its verb tense or lack of it. An example of this\ncan be seen in the sentence, “He is sick today”. This same\nsentence translated in ebonics would read, “He sick today”.\nAs you can see the verb has been omitted. However, this\nspeech pattern is consistently used. Major controversy\nhas arisen whether or not ebonics is a separate language\nor simply a dialect. In doing my research, I have found that\nmost linguists take the position that ebonics is a dialect.\nWhat distinguishes dialect from language is that in dialect\ntwo speakers share most or some of the same vocabulary\nand is recognizable and understandable. In contrast,\nseparate languages are present only when the inability to\ncommunicate verbally occurs.\n\nDisponível em: www.writework.com. Acesso em: 17 ago. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A linguística é a ciência que se interessa pela linguagem\nhumana em seus mais diferentes aspectos, e assim nos\najuda a pensar sobre a diversidade cultural e linguística.\nNesse texto, a questão da diversidade linguística é\ndiscutida por meio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da polêmica em torno da legitimação do ebônico como uma língua.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "da dificuldade de aceitação do ebônico como uma mistura de línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do reconhecimento conquistado pelos afro- americanos falantes do ebônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do desprestígio do dialeto ebônico socialmente marcado pelos linguistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "do impedimento de compreensão entre falantes de dialetos distintos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

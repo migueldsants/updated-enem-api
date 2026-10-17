@@ -1,0 +1,46 @@
+{
+    "title": "Questão 151 - ENEM 2016 - Reaplicação",
+    "index": 151,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma professora de matemática organizou uma\natividade associando um ábaco a três dados de diferentes\nformatos: um cubo com faces numeradas de 1 a 6,\nassociadas à haste C, um octaedro com faces numeradas\nde 1 a 8, associadas à haste D, e um dodecaedro com\nfaces numeradas de 1 a 12, associadas à haste U.\nInicialmente, as hastes do ábaco encontram-se vazias.\nAs letras C, D e U estão associadas a centenas, dezenas\ne unidades, respectivamente. A haste UM representa\nunidades de milhar.\n\nRegras do jogo: são jogados os três dados juntos\ne, a cada jogada, colocam-se bolinhas nas hastes,\ncorrespondendo às quantidades apresentadas nas faces\nvoltadas para cima de cada dado, respeitando a condição\n“nunca dez”, ou seja, em cada haste podem ficar, no\nmáximo, nove bolinhas. Assim, toda vez que a quantidade\nde bolinhas em alguma haste for superior a nove, dez\ndelas são retiradas dessa haste e uma bolinha é colocada\nna haste imediatamente à esquerda. Bolinhas, em\nquantidades iguais aos números obtidos na face superior\ndos dados, na segunda jogada, são acrescentadas às\nhastes correspondentes, que contêm o resultado da\nprimeira jogada.\n\nIniciada a atividade, um aluno jogou os dados duas\nvezes. Na primeira vez, as quantidades das faces voltadas\npara cima foram colocadas nas hastes. Nesta jogada, no\ncubo, no octaedro e no dodecaedro, as faces voltadas\npara cima foram, respectivamente, 6, 8 e 11 (Figura 1).\n\nNa segunda vez, o aluno jogou os dados e adicionou\nas quantidades correspondentes, nas respectivas hastes.\nO resultado está representado no ábaco da Figura 2.\n\n![](https://enem.dev/2016-reaplicacao/questions/151/a1c655cf-5b8c-4032-9e12-9bb582196bac.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/151/83296e44-4092-4e6e-a848-4dc5a769f150.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/151/a1c655cf-5b8c-4032-9e12-9bb582196bac.png",
+        "https://enem.dev/2016-reaplicacao/questions/151/83296e44-4092-4e6e-a848-4dc5a769f150.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com a descrição, as faces voltadas para cima\nno cubo, no octaedro e no dodecaedro, na segunda\njogada, foram, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4, 2 e 9.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4, 3 e 9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4, 3 e 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5, 3 e 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5, 4 e 9.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

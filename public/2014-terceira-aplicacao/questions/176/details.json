@@ -1,0 +1,48 @@
+{
+    "title": "Questão 176 - ENEM 2014 - Terceira aplicação",
+    "index": 176,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os egípcios da Antiguidade criaram um sistema\nmuito interessante para escrever números baseado em\nagrupamento.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/176/81427307-765c-4843-9e8a-8a379c9085e2.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/176/8fba82fc-c3ff-4a20-a0d5-c0ca086e4f77.png)\n\nOs números de 1 a 9 999 999 na numeração egípcia\nderivam dos símbolos da tabela, respeitando as devidas\nquantidades e posições (símbolos que representam\nnúmeros maiores são colocados à esquerda e de maneira\ndecrescente, são colocados os demais símbolos à direita,\naté a soma deles chegar ao número desejado). Por\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/176/c61ba62a-53c9-41a1-b38c-93ec68f6274d.png)\n\n100+100+100+10+10+1 é igual a 321.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/176/bb31c0c0-902e-4ff7-9158-1daf870bda8d.png)\n\nO número egípcio",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/176/81427307-765c-4843-9e8a-8a379c9085e2.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/176/8fba82fc-c3ff-4a20-a0d5-c0ca086e4f77.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/176/c61ba62a-53c9-41a1-b38c-93ec68f6274d.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/176/bb31c0c0-902e-4ff7-9158-1daf870bda8d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "equivale ao número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 372.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 230 072.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 203 702.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 230 702.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 237 200.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

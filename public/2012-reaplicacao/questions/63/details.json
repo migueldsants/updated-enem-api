@@ -1,0 +1,46 @@
+{
+    "title": "Questão 63 - ENEM 2012 - Reaplicação",
+    "index": 63,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/63/95da415e-1e56-40e8-a0b0-f87be6e28c9b.png)\n\nO quadro oferece os coeficientes de dilatação linear de alguns metais e ligas metálicas:\n\n![](https://enem.dev/2012-reaplicacao/questions/63/3e39c6f5-9be0-49c8-abbd-60f83374a0ce.png)\n\nGREF. Física 2: calor e ondas. São Paulo: Edusp, 1993.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/63/95da415e-1e56-40e8-a0b0-f87be6e28c9b.png",
+        "https://enem.dev/2012-reaplicacao/questions/63/3e39c6f5-9be0-49c8-abbd-60f83374a0ce.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para permitir a ocorrência do fato observado na tirinha, a partir do menor aquecimento do conjunto, o parafuso e a\nporca devem ser feitos, respectivamente, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aço e níquel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alumínio e chumbo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "platina e chumbo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ouro e latão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cobre e bronze.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

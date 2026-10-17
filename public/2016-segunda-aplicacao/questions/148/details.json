@@ -1,0 +1,49 @@
+{
+    "title": "Questão 148 - ENEM 2016 - Segunda aplicação",
+    "index": 148,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Índice de Massa Corporal (IMC) pode ser\nconsiderado uma alternativa prática, fácil e barata para\na medição direta de gordura corporal. Seu valor pode\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/148/8b8f9d81-5da1-47a4-8dcc-0a02cb2512da.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/148/84698f27-9f28-4162-a36a-a8550902deb4.png)\n\nO gráfico mostra o IMC por idade para meninos.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/148/68c8df2a-48e1-4112-adc9-9ce94c2fbec1.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/148/1acb5c63-1310-4a68-80f6-6f6ec4d47332.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/148/75bdf59c-5a99-40c6-98e0-2b5dce5e5435.png)\n\n2 3 4 6 7 9 10 12 13 14 15 16 18 19 20\nIdade (ano)\n\nUma mãe resolveu calcular o IMC de seu filho, um\nmenino de dez anos de idade, com 1,20 m de altura e\n30,92 kg.\n\nDisponível em: http://saude.hsw.uol.com. Acesso em: 31 jul. 2012.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/148/8b8f9d81-5da1-47a4-8dcc-0a02cb2512da.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/148/84698f27-9f28-4162-a36a-a8550902deb4.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/148/68c8df2a-48e1-4112-adc9-9ce94c2fbec1.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/148/1acb5c63-1310-4a68-80f6-6f6ec4d47332.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/148/75bdf59c-5a99-40c6-98e0-2b5dce5e5435.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para estar na faixa considerada normal de IMC, os valores\nmínimo e máximo que esse menino precisa emagrecer,\nem quilograma, devem ser, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,12 e 5,12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,68 e 12,28.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,47 e 7,47.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,00 e 10,76.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7,77 e 11,77.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

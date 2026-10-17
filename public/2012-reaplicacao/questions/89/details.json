@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2012 - Reaplicação",
+    "index": 89,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A instalação de uma indústria de processamento de\npescados, próxima a uma aldeia de pescadores, situada à\nbeira-mar, criou um conflito de interesses. A administração\npública e os investidores defendem que haverá geração\nde renda, melhorando a qualidade de vida da população.\nOs moradores estão receptivos ao empreendimento, mas\nargumentam que, sem o devido controle, as atividades da\nindústria podem poluir a água do mar próxima à aldeia.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma maneira adequada, do ponto de vista social e\nambiental, de minimizar a poluição na água do mar\npróxima à aldeia, pela instalação da fábrica, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "destinação apropriada dos efluentes líquidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "instalação de filtros nas chaminés da indústria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tratamento da água consumida pela comunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "remoção da população para uma região afastada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "realização de análise na água do mar próxima à aldeia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

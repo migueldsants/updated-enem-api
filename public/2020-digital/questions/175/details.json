@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2020 - Digital",
+    "index": 175,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma associação desportiva contratou uma empresa especializada para construir um\ncampo de futebol, em formato retangular, com 250 metros de perímetro. Foi elaborada uma\nplanta para esse campo na escala 1 : 2 000.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na planta, a medida do perímetro do campo de futebol, em metro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,0005.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,125.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "250.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "500 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

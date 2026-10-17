@@ -1,0 +1,45 @@
+{
+    "title": "Questão 108 - ENEM 2014 - Reaplicação",
+    "index": 108,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O Jornal do Commércio deu um brado esta semana\ncontra as casas que vendem drogas para curar a gente,\nacusando-as de as vender para outros fins menos\nhumanos. Citou os envenenamentos que tem havido\nna cidade, mas esqueceu de dizer, ou não acentuou\nbem, que são produzidos por engano das pessoas que\nmanipulam os remédios. Um pouco mais de cuidado,\num pouco menos de distração ou de ignorância, evitarão\nmales futuros. Mas todo ofício tem uma aprendizagem, e\nnão há benefício humano que não custe mais ou menos\nduras agonias. Cães, coelhos e outros animais são\nvítimas de estudos que lhes não aproveitam, e sim aos\nhomens; por que não serão alguns destes, vítimas do\nque há de aproveitar aos contemporâneos e vindouros?\nHá um argumento que desfaz em parte todos esses\nataques às boticas; é que o homem é em si mesmo um\nlaboratório. Que fundamento jurídico haverá para impedir\nque eu manipule e venda duas drogas perigosas? Se elas\nmatarem, o prejudicado que exija de mim a indenização\nque entender; se não matarem, nem curarem, é um\nacidente e um bom acidente, porque a vida fica.\n\nASSIS, M. Obra completa. Rio de Janeiro: Nova Aguilar, 1967 (fragmento).\n\n![](https://enem.dev/2014-reaplicacao/questions/108/e1c251d6-b5f3-4fdd-acd4-960db16728fa.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/108/e1c251d6-b5f3-4fdd-acd4-960db16728fa.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No gênero crônica, Machado de Assis legou inestimável\ncontribuição para o conhecimento do contexto social\nde seu tempo e seus hábitos culturais. O fragmento\ndestacado comprova que o escritor avalia o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "manipulação inconsequente dos remédios pela população.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "uso de animais em testes com remédios desconhecidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fato de as drogas manipuladas não terem eficácia garantida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hábito coletivo de experimentar drogas com objetivos terapêuticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ausência de normas jurídicas para regulamentar a venda nas boticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

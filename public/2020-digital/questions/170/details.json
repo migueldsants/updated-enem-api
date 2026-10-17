@@ -1,0 +1,46 @@
+{
+    "title": "Questão 170 - ENEM 2020 - Digital",
+    "index": 170,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Índice de Desenvolvimento da Educação Básica (Ideb), criado para medir a qualidade\ndo aprendizado do ensino básico no Brasil, é calculado a cada dois anos. No seu cálculo são\ncombinados dois indicadores: o aprendizado e o fluxo escolar, obtidos a partir do Censo\nEscolar e das avaliações oficiais promovidas pelo Inep.\n\nO Ideb de uma escola numa dada série escolar pode ser calculado pela expressão\n\n![](https://enem.dev/2020-digital/questions/170/ca893d5c-ab5b-405f-b046-b4ce90f245b5.png)\n\nem que N é a média da proficiência em língua portuguesa e matemática, obtida a partir do\nSistema de Avaliação da Educação Básica (Saeb), e variando de 0 a 10. O indicador P, que\nvaria de 0 a 1, por sua vez, refere-se ao fluxo escolar, pois considera as taxas de aprovação e\nreprovação da instituição, sendo calculado por\n\n![](https://enem.dev/2020-digital/questions/170/05de5c01-6bd1-4f61-9850-12b1e7e690a1.png)\n\nem que T é o tempo médio de permanência dos alunos na série.\n\nDisponível em: www.inep.gov.br. Acesso em: 2 ago. 2012.\n\nUma escola apresentou no 9º ano do ensino fundamental, em 2017, um Ideb diferente\ndaquele que havia apresentado nessa mesma série em 2015, pois o tempo médio de\npermanência dos alunos no 9º ano diminuiu 2%, enquanto a média de proficiência em língua\nportuguesa e matemática, nessa série, aumentou em 2%.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/170/ca893d5c-ab5b-405f-b046-b4ce90f245b5.png",
+        "https://enem.dev/2020-digital/questions/170/05de5c01-6bd1-4f61-9850-12b1e7e690a1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Dessa forma, o Ideb do 9º ano do ensino fundamental dessa escola em 2017, em relação ao\ncalculado em 2015,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "permaneceu inalterado, pois o aumento e a diminuição de 2% nos dois parâmetros anulam-se.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumentou em 4%, pois o aumento de 2% na média da proficiência soma-se à diminuição de 2% no tempo médio de permanência dos alunos na série.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminuiu em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos alunos na série em 2% quanto o crescimento da média da proficiência em 2% implicam dois decréscimos consecutivos de 2% no valor do Ideb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumentou em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos alunos na série em 2% quanto o crescimento da média da proficiência em 2% implicam dois acréscimos consecutivos de 2% no valor do Ideb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumentou em 4,08%, pois houve um acréscimo de 2% num parâmetro que é diretamente proporcional e um decréscimo de 2% num parâmetro que é inversamente proporcional ao Ideb.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

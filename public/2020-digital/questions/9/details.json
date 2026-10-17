@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2020 - Digital",
+    "index": 9,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A Em Forma é uma revista destinada às mulheres, às expectativas de consumo que\npodem ser produzidas ou que se encontram no horizonte de uma feminilidade urbana\ncontemporânea impelida à disputa no mercado afetivo masculino (as mulheres da Em Forma\nsão jovens e heterossexuais). A Em Forma tem como conteúdo central de suas reportagens\ndietas e séries de exercícios, fármacos para a pele e o cabelo, com fins de embelezamento do\ncorpo e cuidados com a saúde, e reportagens com temas de autoajuda. Ela organiza-se em\nseções específicas: 1. Fitness; 2. Beleza; 3. Dieta e nutrição; 4. Bem-estar; e 5. Especial. Além\ndessas seções, apresenta sempre uma reportagem com a “Garota da capa” e outras\nminisseções que veiculam conteúdos similares aos das seções fixas.\n\nALBINO, B. S.; VAZ, A. F. O corpo e as técnicas para o embelezamento feminino.\nMovimento, n. 1, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando-se as expectativas sobre as feminilidades produzidas pela mídia, na revista\nmencionada a prática de exercícios tem corroborado para a construção de uma feminilidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "plural, que prioriza a saúde, o bem-estar e a beleza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "hegemônica, que normatiza a heterossexualidade e a jovialidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "heterogênea, prevendo a existência de corpos com diferentes formas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "padronizada, que privilegia a autonomia das mulheres sobre seu estilo de vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cristalizada, desconsiderando as expectativas de consumo na contemporaneidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 159 - ENEM 2013 - Reaplicação",
+    "index": 159,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/159/916a97a3-aedb-4c3a-a1e4-7e5fcc094d92.png",
+        "https://enem.dev/2013-reaplicacao/questions/159/7fd0c1cf-cd5c-4151-bfe2-78d2ad646789.png",
+        "https://enem.dev/2013-reaplicacao/questions/159/206811a9-880e-4444-9a49-05e93fe31131.png",
+        "https://enem.dev/2013-reaplicacao/questions/159/f50bdc36-acd7-45c2-b4d5-90824d8fd722.png",
+        "https://enem.dev/2013-reaplicacao/questions/159/19f62108-0764-47ba-96d2-fad6148891e0.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma fábrica possui duas máquinas que produzem\no mesmo tipo de peça. Diariamente a máquina M\nproduz 2 000 peças e a máquina N produz 3 000 peças.\nSegundo o controle de qualidade da fábrica, sabe-se\nque 60 peças, das 2 000 produzidas pela máquina M,\napresentam algum tipo de defeito, enquanto que 120\npeças, das 3 000 produzidas pela máquina N, também\napresentam defeitos. Um trabalhador da fábrica escolhe\nao acaso uma peça, e esta é defeituosa.\nNessas condições, qual a probabilidade de que a peça\ndefeituosa escolhida tenha sido produzida pela máquina M?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/159/916a97a3-aedb-4c3a-a1e4-7e5fcc094d92.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/159/7fd0c1cf-cd5c-4151-bfe2-78d2ad646789.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/159/206811a9-880e-4444-9a49-05e93fe31131.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/159/f50bdc36-acd7-45c2-b4d5-90824d8fd722.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/159/19f62108-0764-47ba-96d2-fad6148891e0.png",
+            "isCorrect": false
+        }
+    ]
+}

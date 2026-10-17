@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2022 - Digital",
+    "index": 77,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Para os Impérios Coloniais, o problema das doenças que atingiam os escravos era\nalgo com que cotidianamente deparavam os senhores. Em vista disso, uma série de\nobras dedicadas à administração de escravos foi publicada com vista a implementar uma\nmoderna gestão da mão de obra escravista em convergência com o Iluminismo. Nesse\ncontexto, o saber médico adquiria um papel extremamente relevante. Este era encarado\ncomo um instrumento fundamental ao desenvolvimento colonial, dada a percepção do\nimpacto que as doenças tropicais causavam na população branca e nos povos\nescravizados.\n\nABREU, J. L. N. A Colônia enferma e a saúde dos povos: a medicina das “luzes” e as\ninformações sobre as enfermidades da América portuguesa. História, Ciências,\nSaúde – Manguinhos, n. 3, jul.-set. 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "econômicos das elites.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "naturalistas dos viajantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "abolicionistas dos letrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tradicionalistas dos nativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emancipadores das metrópoles.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

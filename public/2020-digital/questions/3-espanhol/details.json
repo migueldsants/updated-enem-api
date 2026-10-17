@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2020 - Digital",
+    "index": 3,
+    "year": 2020,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/3-espanhol/9004039a-2fdf-4cbc-85ac-5e91722fa668.png)\n\nDisponível em: http://inversorsalud.com.ar. Acesso em: 18 ago. 2017.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/3-espanhol/9004039a-2fdf-4cbc-85ac-5e91722fa668.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa campanha contra o mosquito transmissor da zika, da dengue e da chikungunya, o\nenunciador se dirige ao leitor,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "condicionando-o a exercer atividades comunitárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ora incluindo-se nas ações, ora ordenando-o informalmente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ora instruindo-o em seus atos, ora reprimindo-o em suas falhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "adicionando vozes e posturas divergentes às ações dos moradores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "impondo-se como voz de autoridade de um órgão governamental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

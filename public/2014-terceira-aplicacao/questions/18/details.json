@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2014 - Terceira aplicação",
+    "index": 18,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Para a compreensão da realidade global, é\nindispensável o entendimento do que é a vida nas\ndiferentes regiões; de seus funcionamentos específicos,\nde suas espacializações, de suas relações, enfim,\nde seu arranjo particular. Um mesmo elemento – um\nbanco, um shopping center, uma casa de comércio de\ninsumos agrícolas, uma escola superior, a verticalização\nda habitação, financiamentos governamentais, uma\nautoestrada, um aeroporto etc. – terá impactos diferentes\nem áreas distintas de um país ou do planeta.\n\nSANTOS, M. Metamorfoses do Espaço Habitado: Fundamentos Teóricos e Metodológicos\n\nda Geografia. São Paulo: Editora da Universidade de São Paulo, 2008 fragmento .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao tratar das diferenciações espaciais, o autor provoca\numa reflexão sobre as relações entre espaços diversos,\nque são exemplificadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "no espaço rural atual, que apresenta uma desvinculação da produção agrícola e do consumo alimentar. Há, também, uma articulação mais aguçada entre o agrícola e o industrial, fenômeno que não estava claro até meados do século XX.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "na análise dos espaços urbanos, como historicamente relacionados à industrialização, o que não se pode afirmar dos espaços rurais, que vêm passando por processos de modernização tecnológica, mas conservando a desarticulação com as cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "na transição do modo de produção feudal para o modo de produção capitalista, em que a cidade surgiu como um espaço de reprodução das relações servis dos feudos. Somente após processos revolucionários, as cidades passaram a representar a liberdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na desarticulação entre os espaços rurais e urbanos que se deu, historicamente, pelo fato de o campo não ter se subordinado à cidade, no que se refere à questão das técnicas e tecnologias. Esse fato explica, hoje, o grande avanço tecnológico na agricultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no espaço urbano onde é possível perceber uma desarticulação entre os processos sociais, econômicos e territoriais. Essa desarticulação se manifesta nas diferentes e desiguais paisagens presentes nas cidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

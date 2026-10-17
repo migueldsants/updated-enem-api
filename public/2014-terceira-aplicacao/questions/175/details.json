@@ -1,0 +1,51 @@
+{
+    "title": "Questão 175 - ENEM 2014 - Terceira aplicação",
+    "index": 175,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No ano de 2011, o sul do país foi castigado por\numa forte estiagem. Para amenizar essa situação, a\nprefeitura de um município dessa região utilizou um\ncaminhão pipa, com capacidade de 32 mil litros de água,\npara abastecer as residências de uma localidade desse\nmunicípio. Nessa localidade, com o caminhão pipa\ncheio, foram realizados 3 abastecimentos de água. No\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/175/27ae0ce9-3167-4f04-a65f-a917fb9ece3e.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/175/68ea3601-815a-439d-bfc9-e71b13972494.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/175/27ae0ce9-3167-4f04-a65f-a917fb9ece3e.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/175/68ea3601-815a-439d-bfc9-e71b13972494.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/175/44a5bb6b-0ce4-4c26-a8cd-c631ed642553.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/175/8d1b48b5-315f-4c57-b0e1-13c98b681795.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/175/0b9c6229-d410-494e-915e-f5274e848285.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/175/5de87fb4-8652-471e-9126-c169970f2ff8.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/175/fd8003cf-ba6f-4bab-ad25-52a7fed24c13.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se que não houve desperdício de água\ndurante o abastecimento e que o restante tenha sido\nutilizado totalmente, a fração da capacidade de água do\ncaminhão pipa, distribuída no terceiro abastecimento, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/175/44a5bb6b-0ce4-4c26-a8cd-c631ed642553.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/175/8d1b48b5-315f-4c57-b0e1-13c98b681795.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/175/0b9c6229-d410-494e-915e-f5274e848285.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/175/5de87fb4-8652-471e-9126-c169970f2ff8.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/175/fd8003cf-ba6f-4bab-ad25-52a7fed24c13.png",
+            "isCorrect": false
+        }
+    ]
+}

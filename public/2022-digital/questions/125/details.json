@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2022 - Digital",
+    "index": 125,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os riscos apresentados pelos produtos dependem de suas propriedades e da\nreatividade quando em contato com outras substâncias. Para prevenir os riscos devido à\nnatureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e\nde uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados\nna estocagem, manipulação e descarte. O quadro elenca algumas dessas\nincompatibilidades, que podem levar à ocorrência de acidentes.\n\n![](https://enem.dev/2022-digital/questions/125/a9d6817f-953b-4f8b-a551-22f6bf4ea4bb.png)\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias:\n\n(1) ácido clorídrico concentrado com cianeto de potássio;\n(2) ácido nítrico concentrado com sacarose.\n\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/125/a9d6817f-953b-4f8b-a551-22f6bf4ea4bb.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "liberação de gás tóxico e reação oxidativa forte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "reação oxidativa forte e liberação de gás tóxico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "formação de sais tóxicos e reação oxidativa forte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "liberação de gás tóxico e liberação de gás oxidante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "formação de sais tóxicos e liberação de gás oxidante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

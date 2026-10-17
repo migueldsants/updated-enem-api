@@ -1,0 +1,47 @@
+{
+    "title": "Questão 180 - ENEM 2022 - Digital",
+    "index": 180,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado\nmês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez\nprimeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos\nsetores (infantil e adulto). Suponha que a variação no volume de vendas, para o período\nregistrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa\ntendência se mantenha a mesma para os próximos dez dias.\n\n![](https://enem.dev/2022-digital/questions/180/0627b223-b09c-4577-9aed-c328343058cc.png)\n\n![](https://enem.dev/2022-digital/questions/180/90a9d1d6-3d14-4f32-8d87-57fb62092810.png)\n\n![](https://enem.dev/2022-digital/questions/180/0346f858-f29c-45d7-b6e0-c6df9bafd47b.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/180/0627b223-b09c-4577-9aed-c328343058cc.png",
+        "https://enem.dev/2022-digital/questions/180/90a9d1d6-3d14-4f32-8d87-57fb62092810.png",
+        "https://enem.dev/2022-digital/questions/180/0346f858-f29c-45d7-b6e0-c6df9bafd47b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta\nfixada para o mês seja alcançada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "18 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "29 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

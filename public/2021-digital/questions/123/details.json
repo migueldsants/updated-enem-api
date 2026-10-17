@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2021 - Digital",
+    "index": 123,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os búfalos são animais considerados\ndeixados no campo sem controle reprodutivo.\nconsanguinidade é favorecida, proporcionando o aparecimento de enfermidades, como o\nalbinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada\nminimizaria a ocorrência desses problemas.\n\nDAMÉ, M. C. F.; RIET-CORREA, F.; SCHILD, A. L.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual procedimento biotecnológico prévio é recomendado nessa situação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Transgenia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Terapia gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Vacina de DNA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Clonagem terapêutica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mapeamento genético.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

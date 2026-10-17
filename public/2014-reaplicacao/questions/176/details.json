@@ -1,0 +1,46 @@
+{
+    "title": "Questão 176 - ENEM 2014 - Reaplicação",
+    "index": 176,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Barras de cobre cilíndricas são utilizadas para fazer\naterramentos elétricos.\n\nDurante a instalação de um chuveiro, uma pessoa\nutilizou uma barra de aterramento de densidade ρ,\nmassa m, diâmetro D = 2R e altura h.\n\nPara fazer um novo aterramento, essa pessoa\nutilizou uma barra com a mesma densidade, mas com\no dobro da massa e o dobro do diâmetro em relação à\nusada no chuveiro.\n\n![](https://enem.dev/2014-reaplicacao/questions/176/ff1e9643-690f-4345-bc31-e32280a8646e.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/176/af190309-fc03-45c2-b473-96826c0af9b2.png)\n\ncilíndrica é V = π · R · h.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/176/ff1e9643-690f-4345-bc31-e32280a8646e.png",
+        "https://enem.dev/2014-reaplicacao/questions/176/af190309-fc03-45c2-b473-96826c0af9b2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a relação da altura da barra utilizada no novo\naterramento comparada àquela utilizada no aterramento\ndo chuveiro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Quarta parte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Igual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Dobro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Quádruplo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

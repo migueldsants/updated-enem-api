@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2012 - Reaplicação",
+    "index": 148,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pesquisa foi realizada com a intenção de\nconhecer o que as pessoas sabem sobre o diabetes.\nNela, utilizou-se um questionário com 16 perguntas,\nrespondidas pelas pessoas na entrada de estações\ndo metrô de São Paulo. Os gráficos a seguir mostram,\nrespectivamente, os percentuais de respostas dadas\nàs seguintes perguntas do questionário: “Você conhece\nalguém com diabetes?” e “Caso conheça, indique onde.”\n\n![](https://enem.dev/2012-reaplicacao/questions/148/d40bf448-5a58-401a-b381-64081b2dc889.png)\n\nDisponível em: www.diabetes.org.br (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/148/d40bf448-5a58-401a-b381-64081b2dc889.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O percentual do número de entrevistados que conhecem\npessoas diabéticas na escola é mais aproximado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "15%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "37%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "41%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "52%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

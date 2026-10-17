@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 101,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A febre maculosa brasileira é uma doença infecciosa febril\naguda e com elevada taxa de letalidade. A transmissão se dá\npela picada do carrapato do gênero Amblyomma infectado pela\nbactéria Rickettsia rickettsii. As capivaras e os cavalos assumem\ngrande importância na cadeia epidemiológica da doença, pois\nsão os principais reservatórios dos carrapatos transmissores.\n\nDisponível em: http://portalsaude.saude.gov.br.\nAcesso em: 27 jun. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Que medida preventiva é importante para prevenir a transmissão\ndessa doença?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tratar os doentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utilizar telas em portas domiciliares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Retirar sobras de alimento dos quintais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fazer o controle biológico do vetor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Manter fechados os reservatórios de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

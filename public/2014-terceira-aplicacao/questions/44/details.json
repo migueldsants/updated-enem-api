@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2014 - Terceira aplicação",
+    "index": 44,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Feijoada é um prato que consiste num guisado de\nfeijão com carne. É um prato com origem no Norte de\nPortugal, e que hoje em dia constitui um dos pratos mais\ntípicos da cozinha brasileira. Em Portugal, cozinha-se\ncom feijão branco no noroeste Minho e Douro Litoral\nou feijão vermelho no nordeste Trás-os-montes , e\ngeralmente inclui também outros vegetais tomate,\ncenouras ou couve juntamente com a carne de porco\nou de vaca, às quais se podem juntar chouriço, morcela\nou farinheira. No Brasil, os negros faziam uma mistura\nde feijões pretos e de vários tipos de carne de porco e\nde boi. Atualmente, o prato chega à mesa acompanhado\nde farofa, arroz branco, couve refogada e laranja fatiada,\nentre outros ingredientes.\n\nCASCUDO, L. C. História da alimentação no Brasil. Rio de Janeiro: Itatiaia, 1983.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/44/1810c3a0-e061-4a65-893a-cc0c690e7cb4.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A criação da feijoada na culinária brasileira está\nrelacionada, no texto, à atividade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mercantil, exercida pelos homens que transportavam mercadoria e gado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "agropecuária, exercida pelos homens que trabalhavam no campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mineradora, exercida pelos homens que extraíam o ouro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "culinária, exercida na senzala com as sobras da cozinha dos senhores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/44/1810c3a0-e061-4a65-893a-cc0c690e7cb4.png",
+            "isCorrect": false
+        }
+    ]
+}

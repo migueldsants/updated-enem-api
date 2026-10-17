@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2014 - Terceira aplicação",
+    "index": 36,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O mundo rural, com a Revolução Verde e suas\nsementes híbridas, e seu mais recente desdobramento\ncom a biotecnologia dos transgênicos e do plantio direto,\nestá sofrendo mudanças ecológicas, sociais, culturais\ne, sobretudo, políticas. À medida que o componente\ntécnico-científico passa a se tornar mais importante no\nprocesso produtivo, maior é o poder das indústrias de\nalta tecnologia, que passam a comandar os processos\nde normatização candidamente chamados normas de\nqualidade .\n\nPORTO-GONÇALVES, C. W. A Globalização da natureza e a natureza\nda globalização. Rio de Janeiro: Civilização Brasileira, 2006.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com o argumento de aumentar a produção agrícola pela\nimplementação de tecnologias avançadas e manipulação\ngenética, a Revolução Verde implicou a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "construção de monopólios técnico-produtivos associados aos protocolos de patentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "proposta de transformação social combinada com mudanças no estatuto científico da produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estratégia de oferecer conhecimentos técnicos aos pequenos agricultores, pensando na segurança alimentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "intervenção ambiental, com o objetivo de atenuar os grandes impactos ambientais oriundos da monocultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ação educacional, com intento de capacitar os trabalhadores rurais para atuarem com tecnologias de ponta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 112 - ENEM 2015 - Reaplicação",
+    "index": 112,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/112/7f9e7ede-d351-44f9-942b-7d27852109c1.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/112/b32a1034-2b9c-47d8-969c-67e70833629c.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/112/7f9e7ede-d351-44f9-942b-7d27852109c1.png",
+        "https://enem.dev/2015-reaplicacao/questions/112/b32a1034-2b9c-47d8-969c-67e70833629c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, associam-se recursos verbais e não verbais\nna busca de mudar o comportamento das pessoas\nquanto a uma questão de saúde pública. No cartaz, essa\nassociação é ressaltada no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "destaque dado ao laço, símbolo do combate à aids, seguido da frase “Use camisinha”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "centralização da mensagem “Previna-se”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "foco dado ao objeto camisinha em imagem e em palavra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "laço como elemento de ligação entre duas recomendações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sobreposição da imagem da camisinha e da boia, relacionada à frase “Salve vidas”.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

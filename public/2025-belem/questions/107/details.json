@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 107,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A absorção de grandes quantidades de gás carbônico\nda atmosfera é conhecida como sequestro de carbono.\nAs florestas desempenham um papel importante, já que cada\nhectare de floresta em desenvolvimento absorve cerca de\n150 a 200 toneladas de carbono, auxiliando na diminuição\ndesse gás na atmosfera.\n\nTONON, R. Disponível em: http://super.abril.com.br.\nAcesso em: 14 jan. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A maior parte do carbono resultante desse processo encontra-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nas flores, como antocianinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nos frutos, como taninos e pectinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nas sementes, como substâncias de reserva na forma de lipídios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nas folhas, nas membranas plasmáticas das células parenquimáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no caule, nas paredes celulares dos elementos do xilema secundário.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 37 - ENEM 2012 - Reaplicação",
+    "index": 37,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Distribuição da derrubada no bioma Caatinga\n\n![](https://enem.dev/2012-reaplicacao/questions/37/5a716c95-7a83-4610-b1cb-4f007abcbf06.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/37/5a716c95-7a83-4610-b1cb-4f007abcbf06.png",
+        "https://enem.dev/2012-reaplicacao/questions/37/e3814a64-1add-4335-8983-d5cacb6bf5c9.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O mapa representa um problema ambiental que tem se\nagravado no bioma brasileiro da Caatinga. As causas\ndesse problema estão associadas ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uso da lenha para obtenção de energia pela indústria local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "extrativismo vegetal da madeira pelas indústrias moveleiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "uso da terra pelas fazendas monocultoras mecanizadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "extrativismo mineral praticado pelas empresas mineradoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/37/e3814a64-1add-4335-8983-d5cacb6bf5c9.png",
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2013 - Reaplicação",
+    "index": 45,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O servo pertence à terra e rende frutos ao dono da\nterra. O operário urbano livre, ao contrário, vende-se\na si mesmo e, além disso, por partes. Vende em leilão\n8,10,12,15 horas da sua vida, dia após dia, a quem\nmelhor pagar, ao proprietário das matérias-primas, dos\ninstrumentos de trabalho e dos meios de subsistência,\nisto é, ao capitalista.\n\nMARX, K. Trabalho assalariado e capital & salário, preço e lucro.\nSão Paulo: Expressão Popular, 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto indica que houve uma transformação dos espaços\nurbanos e rurais com a implementação do sistema capitalista,\ndevido às mudanças tecnossociais ligadas ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desenvolvimento agrário e ao regime de servidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumento da produção rural, que fixou a população nesse meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desenvolvimento das zonas urbanas e às novas relações de trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumento populacional das cidades associado ao regime de servidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desenvolvimento da produção urbana associada às relações servis de trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

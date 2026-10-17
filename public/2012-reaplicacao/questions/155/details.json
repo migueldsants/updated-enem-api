@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2012 - Reaplicação",
+    "index": 155,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Índice de Desenvolvimento Humano (IDH) mede a\nqualidade de vida dos países para além dos indicadores\neconômicos. O IDH do Brasil tem crescido ano a ano e\natingiu os seguintes patamares: 0,600 em 1990; 0,665 em\n2000; 0,715 em 2010. Quanto mais perto de 1,00, maior é\no desenvolvimento do país.\n\nO Globo. Caderno Economia, 3 nov. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/155/416be2f7-e7f5-42eb-baa8-9ae42c40e49a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Observando o comportamento do IDH nos períodos\ncitados, constata-se que, ao longo do período 1990-2010,\no IDH brasileiro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminuiu com variações decenais crescentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diminuiu em proporção direta com o tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aumentou com variações decenais decrescentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumentou em proporção direta com o tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/155/416be2f7-e7f5-42eb-baa8-9ae42c40e49a.png",
+            "isCorrect": false
+        }
+    ]
+}

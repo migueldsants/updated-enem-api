@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2014 - Terceira aplicação",
+    "index": 150,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O governo, num programa de moradia, tem por\nobjetivo construir 1 milhão de habitações, em parceria\ncom estados, municípios e iniciativa privada. Um dos\nmodelos de casa popular proposto por construtoras deve\napresentar 45 m² e deve ser colocado piso de cerâmica\nem toda sua a área interna.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Supondo que serão construídas 100 mil casas desse\ntipo, desprezando-se as larguras das paredes e portas, o\nnúmero de peças de cerâmica de dimensões 20 cm x 20 cm\nutilizadas será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11,25 mil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "180 mil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "225 mil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "22 500 mil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "112 500 mil.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

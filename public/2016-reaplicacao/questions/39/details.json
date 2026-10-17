@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2016 - Reaplicação",
+    "index": 39,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O aparecimento da pólis, situado entre os séculos\nVIII e VII a.C., constitui, na história do pensamento\ngrego, um acontecimento decisivo. Certamente, no plano\nintelectual como no domínio das instituições, a vida social\ne as relações entre os homens tomam uma forma nova,\ncuja originalidade foi plenamente sentida pelos gregos,\nmanifestando-se no surgimento da filosofia.\n\nVERNANT, J.-P. As origens do pensamento grego. Rio de Janeiro: Difel, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo Vernant, a filosofia na antiga Grécia foi\nresultado do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constituição do regime democrático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contato dos gregos com outros povos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desenvolvimento no campo das navegações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aparecimento de novas instituições religiosas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "surgimento da cidade como organização social.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

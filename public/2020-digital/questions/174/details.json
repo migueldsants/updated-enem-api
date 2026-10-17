@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2020 - Digital",
+    "index": 174,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Realizou-se um estudo sobre a violência no Brasil. As taxas obtidas para os homicídios de\nmulheres de 1980 a 2010 estão registradas no gráfico.\n\n![](https://enem.dev/2020-digital/questions/174/a689f892-1ccb-4f10-8b84-fba8f1289708.png)\n\nDisponível em: http://g1.globo.com. Acesso em: 15 ago. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/174/a689f892-1ccb-4f10-8b84-fba8f1289708.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com os dados apresentados, o aumento percentual relativo da taxa de 2007 para\n2010 foi mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "13%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "17%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "89%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

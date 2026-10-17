@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 148,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um engenheiro foi contratado para determinar o tipo de\nmaterial usado na construção das paredes de uma sala. Com base\nem um estudo do fluxo de calor através da parede, é possível\ndeduzir qual é o tipo de material. Sabe-se que o fluxo de calor\nq é igual ao produto das grandezas: constante k (condutividade\ntérmica), área da parede A (na qual o calor flui por condução),\nvariação de temperatura ∆T (variação entre temperatura externa\ne interna) e o inverso do comprimento ℓ (da espessura da parede).\n\nEsse engenheiro fez uma medição e obteve os seguintes\ndados:\n\n• fluxo de calor q = 400 kcal/h;\n• área da parede A = 10 m²;\n• espessura da parede ℓ = 0,2 m;\n• variação da temperatura ∆T = 10 °C.\nCom esses valores, determinou a condutividade térmica k\ndesse material, em kcal/(h⋅m⋅°C).\n\nO quadro apresenta cinco tipos de materiais existentes,\ncom suas respectivas condutividades.\n\n![](https://enem.dev/2025-belem/questions/148/9d73c7d8-e0b9-4dba-bb37-60c5f2f99355.png)",
+    "files": [
+        "https://enem.dev/2025-belem/questions/148/9d73c7d8-e0b9-4dba-bb37-60c5f2f99355.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O material determinado pelo engenheiro para ser utilizado nas\nparedes foi o do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

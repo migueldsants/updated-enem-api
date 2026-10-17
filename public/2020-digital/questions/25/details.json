@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2020 - Digital",
+    "index": 25,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O que dizer de um corpo flácido, gordo, considerado deselegante nos dias de hoje, mas\nque era, há não muito tempo, considerado sensual e inspirador por pintores clássicos? Como\nentender o conceito de saúde, associado antigamente a um corpo robusto, até mesmo gordo,\ne atualmente relacionado a um corpo magro? E o corpo já não tão jovem, sobre o qual é\nimposta uma série de “consertos” e “reparos” para parecer mais jovem? O que se pode dizer é\nque o corpo é uma síntese da cultura, pois, através do seu corpo, o ser humano vai\nassimilando e se apropriando dos valores, normas e costumes sociais, em um processo de\nincorporação.\n\nDAOLIO, J. Os significados do corpo na cultura e as implicações para a educação física.\nMovimento, n. 2, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As mudanças das representações sobre o corpo ao longo da história são provenientes da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "busca permanente pela saúde relacionada a um padrão corporal específico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "interferência da História da Arte sobre padrões corporais valorizados no cotidiano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pesquisa por novos procedimentos estéticos voltados aos cuidados com a aparência corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diferença aparente entre a capacidade motora de um corpo jovem e aquele marcado pelo tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "influência da sociedade na construção dos sentidos e significados sociais relacionados ao corpo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

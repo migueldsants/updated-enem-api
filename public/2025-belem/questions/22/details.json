@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 22,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Coração tição\nQuero me lambuzar nos mares negros\npara não me perder,\nconseguir chegar no meu destino.\nNão quero ser parda, mulata\nSou afro-brasileira-mineira.\nBisneta\nde uma princesa de Benguela.\nNão serei refém de valores\nque não me pertencem.\nQuero sentir meu coração\ncomo um tição.\nNão vou deixar que o mito\ndo fogo entre as pernas iluda e desvie\nhomens e mulheres\ndaqui por diante.\n\nCRUZ, A. E... Feito luz. Florianópolis: ND, 2006.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse poema, o jogo entre afirmações e negações reflete a\nexpressividade de um eu lírico que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "recusa imposições historicamente forjadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "desenha sua identidade por meio da memória.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "resgata heranças míticas do território africano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reivindica o reconhecimento de sua feminilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "rejeita a noção de emotividade associada a gênero.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 153 - ENEM 2012 - Reaplicação",
+    "index": 153,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jornaleiro irá receber 21 revistas. Cada uma\nterá um carrinho na escala de 1:43 do tamanho real\nacompanhando-a em caixinha à parte. Os carrinhos\nsão embalados com folga de 0,5 cm nas laterais, como\nindicado na figura. Assim, o jornaleiro reservou três\nprateleiras com 95 cm de comprimento por 7 cm de\nlargura, onde as caixas serão acomodadas de forma\na caberem inteiramente dentro de cada prateleira.\nAlém disso, sabe-se que os carrinhos são cópias dos\nmodelos reais que possuem 387 cm de comprimento\npor 172 cm de largura.\n\n![](https://enem.dev/2012-reaplicacao/questions/153/29dc9b41-fa3b-4038-af46-26e86365b389.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/153/29dc9b41-fa3b-4038-af46-26e86365b389.png",
+        "https://enem.dev/2012-reaplicacao/questions/153/51c66a7f-43af-458e-b79b-cb6b91202539.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quantos carrinhos, no máximo, cabem em cada uma\ndas prateleiras?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/153/51c66a7f-43af-458e-b79b-cb6b91202539.png",
+            "isCorrect": false
+        }
+    ]
+}

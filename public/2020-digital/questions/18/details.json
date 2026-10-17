@@ -1,0 +1,45 @@
+{
+    "title": "Questão 18 - ENEM 2020 - Digital",
+    "index": 18,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/18/d7d7445f-5683-47a2-8e11-31c7e94c31a9.png)\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/18/d7d7445f-5683-47a2-8e11-31c7e94c31a9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A apropriação das informações produzidas na imagem do GPS, nesse texto, tem o propósito\nde",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reafirmar a necessidade do uso de aparelhos eletrônicos na escolha de rotas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "demonstrar a eficiência da tecnologia na resolução de problemas humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estimular a reflexão sobre o poder de controlar os rumos da vida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "comprovar a aplicabilidade dos recursos digitais na reconfiguração de trajetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "destacar a incerteza das emoções vividas pelo coração humano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

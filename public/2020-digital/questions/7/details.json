@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2020 - Digital",
+    "index": 7,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Porta dos Fundos: contrato vitalício\n\nDiretor: Ian SBF;\n\nTempo: 1 h 46 min;\n\nBrasil, 2016.\n\nO primeiro filme do grupo humorístico Porta dos Fundos, conhecido por seus mais de 12\nmilhões de assinantes no YouTube, estreou para o público brasileiro que curte as esquetes na\ninternet. O desafio do grupo foi transformar os vídeos curtos em um longa para o cinema, que,\napesar de grande investimento do elenco e dos produtores, não empolga tanto. O enredo\nconta com a dupla Rodrigo (F. Porchat) e Miguel (G. Duvivier), que, vencedores em Cannes,\nno auge de suas carreiras, decidem assinar um contrato vitalício em que o ator Rodrigo deverá\nparticipar de todos os filmes do produtor Miguel. A produção do filme maluco conta com o\nótimo elenco do Porta dos Fundos: uma famosa blogueira, um jornalista de fofoca, um agente\nde celebridades, uma diretora de elenco radical, um detetive, um ajudante e atores. O ponto\nforte do filme é satirizar justamente o mundo das celebridades da internet e do cinema, ou\nseja, eles mesmos neste momento.\n\nDisponível em: www.criticasdefilmes.com.br. Acesso em: 12 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, um trecho que traz uma marca linguística da função avaliativa da resenha é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Porta dos Fundos: contrato vitalício; Diretor: Ian SBF; Tempo: 1 h 46 min; Brasil, 2016.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“O primeiro filme do grupo humorístico Porta dos Fundos [...] estreou para o público brasileiro que curte as esquetes na internet.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“O enredo conta com a dupla Rodrigo (F. Porchat) e Miguel (G. Duvivier) [...]”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“[...] o ator Rodrigo deverá participar de todos os filmes do produtor Miguel.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“A produção do filme maluco conta com o ótimo elenco do Porta dos Fundos [...]”.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

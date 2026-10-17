@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2013 - Reaplicação",
+    "index": 75,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Devido à sua resistência mecânica, baixa\ncondutividade térmica e transparência à luz, o vidro tem\nsido cada vez mais utilizado na construção civil, aplicado\nem portas, janelas e telhados. Sua transparência é\nimportante porque resulta em uma grande economia da\nenergia elétrica usada na iluminação interna do ambiente.\nMicroscopicamente, a transparência ocorre devido à\nforma com que a luz incidente interage com os elétrons\ndos átomos que compõem o material vítreo.\nA transparência pode ser explicada, considerando-se que\na luz",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é absorvida pelos elétrons e transformada em calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "é absorvida pelos elétrons e reemitida em todas as direções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "não é absorvida pelos elétrons e é espalhada em diversas direções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "não é absorvida pelos elétrons e continua seu caminho em trajetórias regulares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "é absorvida pelos elétrons e reemitida de volta pela mesma trajetória de onde veio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

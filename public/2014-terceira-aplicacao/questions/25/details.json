@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2014 - Terceira aplicação",
+    "index": 25,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nArt. 233 – O marido é o chefe da sociedade conjugal,\nfunção que exerce com a colaboração da mulher, no\ninteresse comum do casal e dos filhos.\n\nCódigo Civil, 1916. Disponível em:www.dji.com.br. Acesso em: 02 out. 2011.\n\nTEXTO II\n\nArt. 5º\nII – no âmbito da família, compreendida como a\ncomunidade formada por indivíduos que são ou se\nconsideram aparentados, unidos por laços naturais, por\nafinidade ou por vontade expressa; Parágrafo único. As\nrelações pessoais enunciadas neste artigo independem\nde orientação sexual.\n\nLei Maria da Penha. Lei n. 11.340 de 07 de agosto de 2006.\nDisponível em: www.planalto.gov.br. Acesso em: 2 out. 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As leis de um país expressam o processo de mudanças\nna sociedade. Nessa perspectiva, ao comparar o Código\nCivil de 1916 e a Lei Maria da Penha, as mudanças na\ndefinição jurídica do conceito de família no Brasil",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sinalizam a inclusão das uniões homoafetivas no conceito de família, criando um marco legal para os movimentos que lutam pela diversidade sexual.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "restringem os questionamentos aos direitos relacionados à situação feminina, mantendo o papel do homem como chefe da sociedade conjugal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "remetem às origens primárias da família, confirmando a relação entre homem, mulher e seus filhos como a base da instituição familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reforçam os papéis tradicionais atribuídos aos sexos, concebendo direitos e deveres em conformidade com o gênero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reconhecem a necessidade de homens e mulheres em formar pequenos grupos, concedendo à família a função de manter a estabilidade social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

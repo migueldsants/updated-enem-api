@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2013 - Reaplicação",
+    "index": 57,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/57/81261a45-6d52-49eb-9579-602cf4be0fe7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A banda larga brasileira é lenta. No Japão já existem\nredes de fibras ópticas, que permitem acessos à internet\ncom velocidade de 1 gigabit por segundo (Gbps), o\nsuficiente para baixar em um minuto, por exemplo,\n80 filmes. No Brasil a maioria das conexões ainda é de\n1 megabit por segundo (Mbps), ou seja, menos de um\nmilésimo dos acessos mais rápidos do Japão. A fibra\nóptica é composta basicamente de um material dielétrico\n(sílica ou plástico), segundo uma estrutura cilíndrica,\ntransparente e flexível. Ela é formada de uma região\ncentral envolta por uma camada, também de material\ndielétrico, com índice de refração diferente ao do núcleo.\nA transmissão em uma fibra óptica acontecerá de forma\ncorreta se o índice de refração do núcleo, em relação ao\nrevestimento, for",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "superior e ocorrer difração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "superior e ocorrer reflexão interna total.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "inferior e ocorrer reflexão interna parcial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "inferior e ocorrer interferência destrutiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/57/81261a45-6d52-49eb-9579-602cf4be0fe7.png",
+            "isCorrect": false
+        }
+    ]
+}

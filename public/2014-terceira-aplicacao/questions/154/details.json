@@ -1,0 +1,46 @@
+{
+    "title": "Questão 154 - ENEM 2014 - Terceira aplicação",
+    "index": 154,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jogo entre dois jogadores tem as seguintes regras:\n(a) o primeiro jogador pensa em uma forma geométrica,\ndesenha apenas uma parte da forma e fornece uma dica\npara que o segundo jogador termine o desenho; (b) se o\nsegundo jogador conseguir concluir o desenho, ganha um\nponto; caso contrário, quem ganha um ponto é o primeiro\njogador. Dois amigos, Alberto e Dora, estão jogando o\nreferido jogo. Alberto desenhou a figura a seguir e deu\na seguinte dica a Dora: “a forma em que pensei é a\nplanificação de um prisma reto”.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/154/4ff8305f-5c4b-4478-89ad-aa8a11de1d59.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/154/4ff8305f-5c4b-4478-89ad-aa8a11de1d59.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/154/792cdbc6-13da-4c79-87ba-5f1303fbb25e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dora completou o desenho com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um pentágono e um retângulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "um pentágono e quatro retângulos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "um pentágono e cinco retângulos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "dois pentágonos e quatro retângulos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/154/792cdbc6-13da-4c79-87ba-5f1303fbb25e.png",
+            "isCorrect": false
+        }
+    ]
+}

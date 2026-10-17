@@ -1,0 +1,45 @@
+{
+    "title": "Questão 23 - ENEM 2020 - Digital",
+    "index": 23,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/23/ebe6f91f-d704-45c4-90be-97c07c1193aa.png)\n\nDOEDERLEIN, J. O livro dos ressignificados. São Paulo: Parábola, 2017.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/23/ebe6f91f-d704-45c4-90be-97c07c1193aa.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa simulação de verbete de dicionário, não há a predominância da função metalinguística\nda linguagem, como seria de se esperar. Identificam-se elementos que subvertem o gênero\npor meio da incorporação marcante de características da função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conativa, como em “(valeu, galera)!”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "referencial, como em “é festejar o próprio ser.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "poética, como em “é a felicidade fazendo visita.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "emotiva, como em “é quando eu esqueço o que não importa.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fática, como em “é o dia que recebo o maior número de ligações no meu celular.”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

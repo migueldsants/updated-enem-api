@@ -1,0 +1,50 @@
+{
+    "title": "Questão 48 - ENEM 2012 - Reaplicação",
+    "index": 48,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O desenvolvimento sustentável rompe com a lógica\nda organização social vigente, convidando a novos modos\nde pensar e agir. Dessa forma, sustentabilidade implica o\nuso de recursos renováveis em quantidades compatíveis\ncom a capacidade de renovação do planeta.\n\nMCT. Prêmio Jovem Cientista: cidades sustentáveis. Caderno do professor, 2011 (adaptado).\n\nUm esquema de cidade que pretende atender a esse\nconceito é:\n\n![](https://enem.dev/2012-reaplicacao/questions/48/860fe167-8761-472f-82d9-04acca581dba.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/48/860fe167-8761-472f-82d9-04acca581dba.png",
+        "https://enem.dev/2012-reaplicacao/questions/48/204be595-60b4-4b15-9e23-0e345e783335.png",
+        "https://enem.dev/2012-reaplicacao/questions/48/fd11d86c-cb42-4521-9bc8-88d088fa714d.png",
+        "https://enem.dev/2012-reaplicacao/questions/48/62ccf799-eeab-4cda-a42e-b61408075288.png",
+        "https://enem.dev/2012-reaplicacao/questions/48/d9b3507b-ac47-41dd-a32b-8d9b64c41a5b.png",
+        "https://enem.dev/2012-reaplicacao/questions/48/5de9bdc8-14e0-4bbd-bbbc-e130a75df5b7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/48/204be595-60b4-4b15-9e23-0e345e783335.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/48/fd11d86c-cb42-4521-9bc8-88d088fa714d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/48/62ccf799-eeab-4cda-a42e-b61408075288.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/48/d9b3507b-ac47-41dd-a32b-8d9b64c41a5b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/48/5de9bdc8-14e0-4bbd-bbbc-e130a75df5b7.png",
+            "isCorrect": false
+        }
+    ]
+}

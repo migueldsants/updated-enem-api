@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2021 - Digital",
+    "index": 4,
+    "year": 2021,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021-digital/questions/4-ingles/9b87d021-1ec7-4f11-b66e-61d50f237968.png)\n\nSIPRESS. Disponível em: www.newyorker.com. Acesso em: 12 jun. 2018.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/4-ingles/9b87d021-1ec7-4f11-b66e-61d50f237968.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A presença de “at odds with” na fala da personagem do cartum revela o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "necessidade de acessar informações confiáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dificuldade de conciliar diferentes anseios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "desejo de dominar novas tecnologias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desafio de permanecer imparcial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vontade de ler notícias positivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

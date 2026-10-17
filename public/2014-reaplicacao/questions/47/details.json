@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2014 - Reaplicação",
+    "index": 47,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As miragens existem e podem induzir à percepção de\nque há água onde não existe. Elas são a manifestação de\num fenômeno óptico que ocorre na atmosfera.\n\nDisponível em: www.invivo.fiocruz.br. Acesso em: 29 fev. 2012.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse fenômeno óptico é consequência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "refração da luz nas camadas de ar próximas do chão quente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "reflexão da luz ao incidir no solo quente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reflexão difusa da luz na superfície rugosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dispersão da luz nas camadas de ar próximas do chão quente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "difração da luz nas camadas de ar próximas do chão quente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

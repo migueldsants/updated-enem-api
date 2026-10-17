@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2013 - Reaplicação",
+    "index": 127,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/127/c9054504-1fcf-4579-af8c-7a34eff257b5.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/127/c9054504-1fcf-4579-af8c-7a34eff257b5.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os textos relativos ao mundo do trabalho, geralmente,\nsão elaborados no padrão normativo da língua. No\nanúncio, apesar de o enunciador ter usado uma variedade\nlinguística não padrão, ele atinge seus propósitos\ncomunicativos porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os fazendeiros podem contar com a comodidade de serem atendidos em suas fazendas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a parede de uma casa é um suporte eficiente para a divulgação escrita de um anúncio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a letra de forma torna a mensagem mais clara, de modo a facilitar a compreensão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os mecânicos especializados em máquinas pesadas são raros na zona rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o contexto e a seleção lexical permitem que se alcance o sentido pretendido.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

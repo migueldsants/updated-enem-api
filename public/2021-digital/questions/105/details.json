@@ -1,0 +1,50 @@
+{
+    "title": "Questão 105 - ENEM 2021 - Digital",
+    "index": 105,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes,\numa de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores,\ncomo ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB,\nabre BC e vice-versa.\n\n![](https://enem.dev/2021-digital/questions/105/2f4f00cb-b281-47c7-97cd-a9cd6bac2fe0.png)\n\nO garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um\nsatisfaz a sua necessidade.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/105/2f4f00cb-b281-47c7-97cd-a9cd6bac2fe0.png",
+        "https://enem.dev/2021-digital/questions/105/d8b63008-a029-4c25-8235-c08967596138.png",
+        "https://enem.dev/2021-digital/questions/105/872530b1-ba6a-4dd3-b486-0cede48bf136.png",
+        "https://enem.dev/2021-digital/questions/105/d0063850-0975-4487-9a29-eb2d06879b95.png",
+        "https://enem.dev/2021-digital/questions/105/704cce8d-9325-4b99-8173-2785028e11f1.png",
+        "https://enem.dev/2021-digital/questions/105/d442d448-214e-4395-80c5-cd23de168921.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse circuito é representado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/105/d8b63008-a029-4c25-8235-c08967596138.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/105/872530b1-ba6a-4dd3-b486-0cede48bf136.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/105/d0063850-0975-4487-9a29-eb2d06879b95.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/105/704cce8d-9325-4b99-8173-2785028e11f1.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/105/d442d448-214e-4395-80c5-cd23de168921.png",
+            "isCorrect": false
+        }
+    ]
+}

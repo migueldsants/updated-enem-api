@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 80,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nos anos 1990, o liberalismo, que já havia adentrado na maior\nparte da América Latina, implanta-se no Brasil, com toda força,\na partir do governo Collor. O discurso liberal radical, combinado\ncom a abertura da economia, inaugura o que poderíamos chamar\nda “Era Liberal” no Brasil, sob a bandeira de que uma política\nmenos intervencionista é a chave para o desenvolvimento\neconômico e social do país. Até então, apesar da existência de\nalgumas iniciativas nesse sentido, durante o governo Sarney,\ne de uma massificação e propaganda dessa doutrina nos meios\nde comunicação, ela encontrava uma forte resistência, calcada,\nprincipalmente, na ascensão política, durante toda a década de\n1980, dos movimentos sociais e do movimento sindical.\n\nDisponível em: www.flexibilizacao.ufba.br. Acesso em: 13 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma estratégia defendida pelo modelo político-econômico\napresentado é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expansão dos serviços públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ampliação dos direitos trabalhistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estatização das empresas privadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oneração dos encargos empresariais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desregulamentação do sistema financeiro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

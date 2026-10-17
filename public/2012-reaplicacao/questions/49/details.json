@@ -1,0 +1,49 @@
+{
+    "title": "Questão 49 - ENEM 2012 - Reaplicação",
+    "index": 49,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um eletricista precisa medir a resistência elétrica de\numa lâmpada. Ele dispõe de uma pilha, de uma lâmpada\n(L), de alguns fios e de dois aparelhos: um voltímetro (V),\npara medir a diferença de potencial entre dois pontos, e\num amperímetro (A), para medir a corrente elétrica.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/49/374a9fe1-3c08-4d4f-9fdd-e6f02ac3df42.png",
+        "https://enem.dev/2012-reaplicacao/questions/49/46bb34ee-9db8-4656-bc8c-b66a7f3f7d58.png",
+        "https://enem.dev/2012-reaplicacao/questions/49/9c59cec8-852b-48cc-a3e0-4ec870e8b544.png",
+        "https://enem.dev/2012-reaplicacao/questions/49/03578de6-1d18-451e-86c0-3e34a31c3b68.png",
+        "https://enem.dev/2012-reaplicacao/questions/49/755f4c13-1373-4ba0-9010-452a6ce21f01.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O circuito elétrico montado pelo eletricista para medir\nessa resistência é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/49/374a9fe1-3c08-4d4f-9fdd-e6f02ac3df42.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/49/46bb34ee-9db8-4656-bc8c-b66a7f3f7d58.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/49/9c59cec8-852b-48cc-a3e0-4ec870e8b544.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/49/03578de6-1d18-451e-86c0-3e34a31c3b68.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/49/755f4c13-1373-4ba0-9010-452a6ce21f01.png",
+            "isCorrect": false
+        }
+    ]
+}

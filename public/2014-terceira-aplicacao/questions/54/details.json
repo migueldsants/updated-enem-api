@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2014 - Terceira aplicação",
+    "index": 54,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ciclo da água envolve processos de evaporação, condensação e precipitação da água no ambiente. Na etapa\nde evaporação, pode-se dizer que a água resultante encontra-se pura, entretanto, quando em contato com poluentes\natmosféricos, como os óxidos sulfuroso e nitroso, é contaminada. Dessa forma, quando a água precipita, traz consigo\nsubstâncias que interferem diretamente no ambiente.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A qual problema ambiental o texto faz referência?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Chuva ácida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Poluição do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aquecimento global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Destruição da camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Eutrofização dos corpos hídricos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

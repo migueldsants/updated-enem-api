@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2016 - Segunda aplicação",
+    "index": 106,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O acervo do Museu da Língua Portuguesa é o nosso\nidioma, um “patrimônio imaterial” que não pode ser, por\nisso, guardado e exposto em uma redoma de vidro.\nAssim, o museu, dedicado à valorização e difusão da\nlíngua portuguesa, reconhecidamente importante para a\npreservação de nossa identidade cultural, apresenta uma\nforma expositiva diferenciada das demais instituições\nmuseológicas do país e do mundo, usando tecnologia\nde ponta e recursos interativos para a apresentação de\nseus conteúdos.\n\nDisponível em: www.museulinguaportuguesa.org.br. Acesso em: 16 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o texto, embora a língua portuguesa\nseja um “patrimônio imaterial”, pode ser exposta em um\nmuseu. A relevância desse tipo de iniciativa está pautada\nno pressuposto de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a língua é um importante instrumento de constituição social de seus usuários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o modo de falar o português padrão deve ser divulgado ao grande público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a escola precisa de parceiros na tarefa de valorização da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o contato do público com a norma-padrão solicita o uso de tecnologia de última geração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as atividades lúdicas dos falantes com sua própria língua melhoram com o uso de recursos tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

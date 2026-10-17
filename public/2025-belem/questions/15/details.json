@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 15,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025-belem/questions/15/b2179fb7-76fd-4886-ac22-f6970e20c164.png)\n\nLAERTE. Disponível em: https://x.com/LaerteCoutinho. Acesso em: 16 set. 2024.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/15/b2179fb7-76fd-4886-ac22-f6970e20c164.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa tirinha, a crítica ao uso da Inteligência Artificial na elaboração do gênero discurso se dá em razão da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminuição do trabalho criativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ausência de fontes de consultas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "imposição do registro em suporte digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mudança das características formais desse gênero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "simplificação do texto gerado pelas novas tecnologias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

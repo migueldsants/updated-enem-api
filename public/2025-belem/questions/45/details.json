@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 45,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A Língua Brasileira de Sinais (Libras) passou a ser “reconhecida\ncomo meio legal de comunicação e expressão” há 21 anos e,\nsegundo dados da World Federation of the Deaf (WFD), o Brasil\né um entre os 76 países que têm sua língua de sinais nacional.\n\nAinda que a Libras seja considerada a língua oficial\nda comunidade surda no Brasil, outras línguas de sinais se\ndesenvolveram em pequenas comunidades espalhadas pelo\npaís. “A gente chama de línguas minoritárias, línguas familiares,\nlínguas de microcomunidades surdas. Um exemplo são as línguas\nde sinais indígenas. Nas comunidades indígenas que têm muitos\nsurdos, a gente tem documentado línguas de sinais, como os\nKa’apor no Maranhão”, explica uma pesquisadora da Unesp.\nEla destaca, no entanto, que essas línguas correm o risco de\ndesaparecer à medida que a comunidade que as utiliza deixa\nde crescer ou passa a utilizar a Libras. “Toda língua que se\nextingue é uma riqueza da nossa diversidade que se perde,\nporque, quando uma língua morre, morre com ela algum tipo\nde conhecimento, uma tecnologia”.\n\nA pesquisadora lembra, ainda, a importância de se\ndesenvolverem pesquisas para a identificação e a compreensão\ntanto das línguas de sinais de microcomunidades surdas como\ndas variações da Libras.\n\nDisponível em: https://jornal.unesp.br. Acesso em: 21 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com esse texto, pesquisas sobre as línguas de sinais\nsão importantes porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promovem a universalização da Libras em território nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorizam a diversidade linguística das comunidades surdas no Brasil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "fomentam o ensino dessas línguas em comunidades indígenas no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "garantem a efetivação de políticas públicas nacionais de inclusão social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "colaboram para o aumento do uso de tecnologias no aprendizado da Libras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

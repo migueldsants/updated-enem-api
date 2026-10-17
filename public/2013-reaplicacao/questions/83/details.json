@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2013 - Reaplicação",
+    "index": 83,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/83/59278fc3-a7ff-492d-a4d5-20c2c55d3c1d.png)\n\nQUINO. Toda Mafalda. São Paulo: Martins Fontes, 2003.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/83/59278fc3-a7ff-492d-a4d5-20c2c55d3c1d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A posição ocupada pela vaca, na interação apresentada na tirinha, a caracteriza como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "produtora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "consumidora primária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "consumidora secundária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "consumidora terciária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "decompositora.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2020 - Digital",
+    "index": 121,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As pilhas recarregáveis, bastante utilizadas atualmente, são formadas por sistemas que\natuam como uma célula galvânica, enquanto estão sendo descarregadas, e como célula\neletrolítica, quando estão sendo recarregadas.\n\nUma pilha é formada pelos elementos níquel e cádmio e seu carregador deve fornecer\numa diferença de potencial mínima para promover a recarga. Quanto maior a diferença de\npotencial gerada pelo carregador, maior será o seu custo. Considere os valores de potencial\npadrão de redução dessas espécies:\n\n2+ −\n\nNi (aq) + 2 e Ni (s) E° = −0,230 V\n\n2+ −\n\nCd (aq) + 2 e Cd (s) E° = −0,402 V",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Teoricamente, para que um carregador seja ao mesmo tempo eficiente e tenha o menor preço,\na diferença de potencial mínima, em volt, que ele deve superar é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,086.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,172.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,316.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,632.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,264.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

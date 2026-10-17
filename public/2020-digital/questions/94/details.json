@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2020 - Digital",
+    "index": 94,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Analise o esquema de uma metodologia utilizada na produção de vacinas contra a\nhepatite B.\n\n![](https://enem.dev/2020-digital/questions/94/5026f3bd-7ca7-4491-ad09-e1aa38477f18.png)\n\nDisponível em: www.ied.edu.hk. Acesso em: 15 out. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/94/5026f3bd-7ca7-4491-ad09-e1aa38477f18.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa vacina, a resposta imune será induzida por um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vírus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "bactéria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "proteína.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "levedura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ácido nucleico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

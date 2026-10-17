@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2013 - Reaplicação",
+    "index": 91,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/91-ingles/7337ea99-d17d-4f1a-80b9-a5fc13ba1aec.png)\n\nDisponível em: www.seton.com. Acesso em: 28 fev. 2012.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/91-ingles/7337ea99-d17d-4f1a-80b9-a5fc13ba1aec.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Placas como a da gravura são usadas para orientar\nos usuários de um espaço urbano. Essa placa,\nespecificamente, tem a função de avisar que somente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as despesas feitas com estacionamento são deduzidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os donos de carro entram no estacionamento do parque.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o proprietário autoriza a validação do estacionamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os rebocadores precisam de permissão para entrar no local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os veículos autorizados podem estacionar naquela área.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

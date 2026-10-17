@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 64,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A indústria têxtil em Toritama (PE) é composta por milhares\nde pequenos empreendimentos, muitos de base familiar, isto é,\nprodutores individuais e pequenas empresas que quase sempre\nfuncionam em espaços domiciliares destinados à produção.\nUm grande contingente dos habitantes de Toritama é empregado na\nindústria de vestuário produzido à base de jeans. Quem não trabalha\ndireto nas confecções presta serviço para elas por meio de empresas\nfamiliares. Por isso, o município pernambucano é conhecido como\na cidade do jeans. Com a construção do Parque das Feiras, em\n2001, o polo começou a se projetar com mais força, atraindo\nconsumidores de diversas regiões do Brasil, consolidando-se como\num dos principais centros de produção e comercialização de jeans.\n\nEstudo socioeconômico das indústrias de confecções de Toritama (PE).\nRecife: Sebrae, 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O processo de reterritorialização descrito no texto, envolvendo\nelementos econômicos de uma cidade do interior do Brasil, está\nmarcado pelo seguinte componente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Divulgação da moda e suas simbologias regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Geração de riqueza e suas interferências espaciais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Modificação dos tecidos e suas influências artesanais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Automatização da fabricação e suas implicações sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interrupção da informalidade e suas consequências laborais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

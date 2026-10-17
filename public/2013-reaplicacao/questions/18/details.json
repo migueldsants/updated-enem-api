@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2013 - Reaplicação",
+    "index": 18,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Imagine uma festa. São centenas de pessoas\naparentemente viajadas, inteligentes, abertas a novas\namizades. Você seleciona uma delas e começa um\ndiálogo. Apesar do assunto envolvente, você olha para\no lado, perde o foco e dá início a um novo bate-papo.\nTrinta segundos depois, outra pessoa desperta a sua\natenção. Você repete a mesma ação. Lá pelas tantas\nvocê se dá conta de que não lembra o nome de nenhuma\ndas pessoas com quem conversou. A internet é mais\nou menos assim, repleta de coisas legais, informações\nrelevantes. São janelas e mais janelas abertas.\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 19 fev. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Refletindo sobre a correlação entre meios de comunicação\ne vida social, o texto associa a internet a um padrão de\nsociabilidade que se caracteriza pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "isolamento das pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "intelectualização dos internautas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "superficialidade das interações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mercantilização das relações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "massificação dos gostos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

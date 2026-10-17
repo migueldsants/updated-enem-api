@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2014 - Terceira aplicação",
+    "index": 27,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma vez que a razão me persuade de que devo\nimpedir-me de dar crédito às coisas que não são\ninteiramente certas e indubitáveis tanto quanto àquelas\nque nos parecem manifestamente ser falsas, o menor\nmotivo de dúvida que eu nelas encontrar bastará para me\nlevar a rejeitar todas.\n\nDESCARTES, R. Meditações de Filosofia Primeira.\nSão Paulo: Abril Cultural, 1973 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao introduzir a dúvida como método, Descartes busca\nalcançar uma certeza capaz de re-fundar, sobre princípios\nsólidos, a ciência e a filosofia. Seu procedimento teórico\nindica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a capacidade de o entendimento humano duvidar das certezas claras e distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a ideia de que o ceticismo é base suficiente para edificar a filosofia moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o rompimento com o dogmatismo da filosofia aristotélico-tomista que prevalecera na Idade Média.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a primazia dos sentidos como caminho seguro de condução do homem à verdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o estabelecimento de uma regra capaz de consolidar a tradição escolástica de pensamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2016 - Reaplicação",
+    "index": 64,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A água consumida na maioria das cidades brasileiras é obtida pelo tratamento da água de mananciais.\nA parte inicial do tratamento consiste no peneiramento e sedimentação de partículas maiores. Na etapa seguinte,\ndissolvem-se na água carbonato de sódio e, em seguida, sulfato de alumínio. O resultado é a precipitação de hidróxido\nde alumínio, que é pouco solúvel em água, o qual leva consigo as partículas poluentes menores. Posteriormente, a\nágua passa por um processo de desinfecção e, finalmente, é disponibilizada para o consumo.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No processo descrito, a precipitação de hidróxido de alumínio é viabilizada porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a dissolução do alumínio resfria a solução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o excesso de sódio impossibilita sua solubilização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a oxidação provocada pelo sulfato produz hidroxilas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as partículas contaminantes menores atraem essa substância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o equilíbrio químico do carbonato em água torna o meio alcalino.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

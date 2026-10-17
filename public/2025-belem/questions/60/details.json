@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 60,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um dos jornais pioneiros na utilização de correspondentes\npara a cobertura de assuntos nacionais manteve seus leitores\ninformados sobre o dia a dia das operações da quarta e última\ncampanha militar contra Canudos ao publicar, entre os meses de\nagosto e outubro de 1897, os telegramas enviados diretamente\ndo “sertão baiano” por seu correspondente Euclides da Cunha.\n\nMARTINS JR., C. O espetáculo da técnica “desencantando” os “sertões”:\nengenheiros e engenharias de racionalização e controle territorial das\nfronteiras ocidentais do Brasil (1870-1915). Revista Territórios\ne Fronteiras, n. 2, jul.-dez. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A novidade tecnológica apresentada no texto favoreceu a\ncobertura da guerra porque permitiu o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "erudição das narrativas de repórteres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dispensa do depoimento de testemunhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controle dos conflitos regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fechamento dos periódicos monarquistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "celeridade da circulação de notícias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

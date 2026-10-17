@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2015 - Reaplicação",
+    "index": 176,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cinco amigos marcaram uma viagem à praia em\ndezembro. Para economizar, combinaram de ir num\núnico carro. Cada amigo anotou quantos quilômetros seu\ncarro fez, em média, por litro de gasolina, nos meses de\nsetembro, outubro e novembro. Ao final desse trimestre,\ncalcularam a média dos três valores obtidos para\nescolherem o carro mais econômico, ou seja, o que teve\na maior média. Os dados estão representados na tabela:\n\n![](https://enem.dev/2015-reaplicacao/questions/176/88086a9f-fcbf-4877-9ec4-10b64a61b3a2.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/176/88086a9f-fcbf-4877-9ec4-10b64a61b3a2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual carro os amigos deverão escolher para a viagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

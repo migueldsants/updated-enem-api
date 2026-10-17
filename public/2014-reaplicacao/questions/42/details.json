@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2014 - Reaplicação",
+    "index": 42,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os desequilíbrios que se registram nas encostas\nocorrem, na maioria das vezes, em função da participação\ndo clima e de alguns aspectos das características das\nencostas que incluem a topografia, geologia, grau de\nintemperismo, solo e tipo de ocupação.\n\nCUNHA, S. B.; GUERRA, A. J. T. Degradação ambiental. In: GUERRA, A. J. T.; CUNHA, S.\nB. (Org.). Geomorfologia e meio ambiente. Rio de Janeiro: Bertrand Brasil, 1996.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os desequilíbrios resultantes da atuação humana\njunto às vertentes íngremes do relevo são fortemente\nligados ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento da atividade industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "crescimento populacional urbano desordenado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "desconcentração das atividades comerciais e dos serviços.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "instalação de equipamentos urbanos na periferia da cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "construção de projetos habitacionais voltados à população de baixa renda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

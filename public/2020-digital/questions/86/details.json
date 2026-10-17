@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2020 - Digital",
+    "index": 86,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nDe modo geral, para a Região Norte, o fato contundente é a expansão dos padrões\nmotivados pela pecuária. Hoje, as pastagens se estendem como uma frente pecuarista para o\ninterior do Pará, com São Félix do Xingu contabilizando um dos maiores rebanhos do país.\n\nIBGE. Censo agropecuário. Rio de Janeiro: IBGE, 2006.\n\nTEXTO II\n\nAs várzeas dos rios são os principais espaços de aproveitamento para o cultivo de uma\nlavoura rudimentar dedicada ao consumo local, com produção de pouca extração e baixo nível\ntecnológico, induzindo a aquisição monetária à complementaridade através da pesca e da\nextração vegetal.\n\nIBGE. Censo agropecuário. Rio de Janeiro: IBGE, 2006.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com os textos, observa-se na Região Norte a coexistência de dois modelos agrários\nbaseados, respectivamente, no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mercado de exportação e na subsistência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "agricultura familiar e na agroecologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "sistema de arrendamento e no agronegócio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produção orgânica e na sustentabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "abastecimento interno e na transumância.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

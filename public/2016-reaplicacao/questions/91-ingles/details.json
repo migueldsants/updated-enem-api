@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2016 - Reaplicação",
+    "index": 91,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Are Twitter and Facebook Affecting How We Think?\n\nIs constant use of electronic gadgets reshaping our\nbrains and making our thinking shallower?\n\nBy Neil Tweedie\n\nHow many times do you click on your email icon in\na day? Or look at Facebook, or Twitter? And how many\ntimes when reading on the internet do you click on a link\nnavigating away from the text that was the original object\nof your enquiry? The web, it seems, is like an electronic\nsweet shop, forever tempting us in different directions. But\ndoes this mental promiscuity, this tendency to flit around\nonline, make us, well, thicker?\n\nNicholas Carr, the American science writer, has mined\nthis theme for his new book, “The Shallows”, in which he\nargues that new media are not just changing our habits\nbut our brains. It turns out that the mature human brain\nis not an immutable seat of personality and intellect but a\nchangeable thing, subject to “neuroplasticity”. When our\nactivities alter, so does the architecture of our brain. “I’m\nnot thinking the way I used to think,” writes Carr. “I feel it\nmost strongly when I’m reading.”\n\nDisponível em: www.telegraph.co.uk. Acesso em: 27 fev. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Neil Tweedie levanta vários questionamentos sobre a\nutilização de diferentes recursos tecnológicos disponíveis\nhoje em dia. A partir desses questionamentos e dos\nargumentos do escritor norte-americano Nicholas Carr, o\ntexto sugere que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o ato de clicar em ícones e manusear aparelhos prejudica o comportamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o mundo virtual pode ser nocivo aos jovens, por ser muito promíscuo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a internet contribui para o amadurecimento intelectual dos usuários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o uso intenso de recursos tecnológicos pode afetar nosso cérebro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as redes sociais virtuais ajudam a melhorar nossa forma de pensar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

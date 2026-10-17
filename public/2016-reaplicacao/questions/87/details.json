@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2016 - Reaplicação",
+    "index": 87,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Algumas crianças, ao brincarem de esconde-\nesconde, tapam os olhos com as mãos, acreditando que,\nao adotarem tal procedimento, não poderão ser vistas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa percepção da criança contraria o conhecimento\ncientífico porque, para serem vistos, os objetos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "refletem partículas de luz (fótons), que atingem os olhos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "geram partículas de luz (fótons), convertidas pela fonte externa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "são atingidos por partículas de luz (fótons), emitidas pelos olhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "refletem partículas de luz (fótons), que se chocam com os fótons emitidos pelos olhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "são atingidos pelas partículas de luz (fótons), emitidas pela fonte externa e pelos olhos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

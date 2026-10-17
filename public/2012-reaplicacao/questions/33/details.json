@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2012 - Reaplicação",
+    "index": 33,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "De acordo com a Organização das Nações\nUnidas para Agricultura e Alimentação (FAO), daqui a\naproximadamente 20 anos, 2/3 da população do mundo\npodem enfrentar falta d’água. Ainda de acordo com a\nFAO, o consumo mundial de água cresceu no século XX\nduas vezes mais do que a população. Com isso, para\ncada 6 pessoas no planeta, 1 não tem acesso à água\nlimpa suficiente para suprir suas necessidades básicas\ndiárias e 3 não têm saneamento básico adequado.\n\nMARAFON, G. J. O desencanto da terra. Rio de Janeiro: Garamond, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma causa para a mudança verificada no consumo de\nágua no século XX e uma medida que possa contribuir\npara evitar o problema descrito estão indicadas,\nrespectivamente, em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Avanço da produção agrícola – reutilização dos recursos pluviais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Elevação da temperatura média – estímulo ao consumo consciente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Descontrole da taxa de natalidade – privatização das nascentes fluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumento da concentração de renda – irrigação racional das empresas rurais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Intensificação da produtividade industrial – sustentabilidade da exploração marítima.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

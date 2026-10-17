@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2022 - Digital",
+    "index": 74,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "PEREIRA, E. B. et al. Atlas brasileiro de energia solar",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma característica regional que justifica\naproveitamento da energia solar é a reduzida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "declividade do relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "extensão longitudinal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nebulosidade atmosférica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "irregularidade pluviométrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "influência da continentalidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

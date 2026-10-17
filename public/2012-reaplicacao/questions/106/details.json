@@ -1,0 +1,46 @@
+{
+    "title": "Questão 106 - ENEM 2012 - Reaplicação",
+    "index": 106,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Só é meu\nO país que trago dentro da alma.\nEntro nele sem passaporte\nComo em minha casa.\n[...]\nAs ruas me pertencem.\nMas não há casas nas ruas.\nAs casas foram destruídas desde a minha infância.\nOs seus habitantes vagueiam no espaço\nÀ procura de um lar.\n[...]\nSó é meu\nO mundo que trago dentro da alma.\n\nBANDEIRA, M. Um poema de Chagall. In: Estrela da vida inteira: poemas traduzidos.\nRio de Janeiro: Nova Fronteira, 1993 (fragmento).\n\n![](https://enem.dev/2012-reaplicacao/questions/106/1704ec17-e074-46de-91fd-8651a41f8e8a.png)\n\nCHAGALL, M. Eu e a aldeia. Nova York, 1911. Disponível em: pintoresonline.com.br.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/106/1704ec17-e074-46de-91fd-8651a41f8e8a.png",
+        "https://enem.dev/2012-reaplicacao/questions/106/478b97f9-b776-40e2-863e-4912771b21f6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A arte, em suas diversas manifestações, desperta\nsentimentos que atravessam fronteiras culturais.\nRelacionando a temática do texto com a imagem,\npercebe-se a ligação entre a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alegria e a satisfação na produção das obras modernistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "memória e a lembrança passadas no íntimo do enunciador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "saudade e o refúgio encontrados pelo homem na natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "lembrança e o rancor relacionados ao seu ofício original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/106/478b97f9-b776-40e2-863e-4912771b21f6.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2022 - Digital",
+    "index": 28,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As línguas silenciadas do Brasil\n\nPara aprender a língua de seu povo, o professor Txaywa Pataxó, de 29 anos,\nprecisou estudar os fatores que, por diversas vezes, quase provocaram a extinção da\nlíngua patxôhã. Mergulhou na história do Brasil e descobriu fatos violentos que\ndispersaram os pataxós, forçados a abandonar a própria língua para escapar da\nperseguição. “Os pataxós se espalharam, principalmente, depois do Fogo de 1951.\nQueimaram tudo e expulsaram a gente das nossas terras. Isso constrange o nosso povo\naté hoje”, conta Txaywa, estudante da Universidade Federal de Minas Gerais e professor\nna aldeia Barra Velha, região de Porto Seguro (BA). Mais de quatro décadas depois,\nmembros da etnia retornaram ao antigo local e iniciaram um movimento de recuperação\nda língua patxôhã. Os filhos de Sameary Pataxó já são fluentes — e ela, que se mudou\nquando já era adulta para a aldeia, tenta aprender um pouco com eles. “É a nossa\nidentidade. Você diz quem você é por meio da sua língua”, afirma a professora de ensino\nfundamental sobre a importância de restaurar a língua dos pataxós. O patxôhã está entre\nas línguas indígenas faladas no Brasil: o IBGE estimou 274 línguas no último censo.\nA publicação Povos indígenas no Brasil 2011/2016, do Instituto Socioambiental, calcula\n160. Antes da chegada dos portugueses, elas totalizavam mais de mil.\n\nDisponível em: https://brasil.elpais.com. Acesso em: 11 jun. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O movimento de recuperação da língua patxôhã assume um caráter identitário peculiar na\nmedida em que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "denuncia o processo de perseguição histórica sofrida pelos povos indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "conjuga o ato de resistência étnica à preservação da memória cultural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "associa a preservação linguística ao campo da pesquisa acadêmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estimula o retorno de povos indígenas a suas terras de origem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumenta o número de línguas indígenas faladas no Brasil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

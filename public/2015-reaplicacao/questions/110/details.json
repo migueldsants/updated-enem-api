@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2015 - Reaplicação",
+    "index": 110,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Em primeiro lugar gostaria de manifestar os meus\nagradecimentos pela honra de vir outra vez à Galiza e\nconversar não só com os antigos colegas, alguns dos\nquais fazem parte da mesa, mas também com novos\ncolegas, que pertencem à nova geração, em cujas mãos,\ncom toda certeza, está também o destino do Galego na\nGaliza, e principalmente o destino do Galego incorporado\nà grande família lusófona.\n\nE, portanto, é com muito prazer que teço algumas\nconsiderações sobre o tema apresentado. Escolhi como\ntema como os fundadores da Academia Brasileira de\nLetras viam a língua portuguesa no seu tempo. Como\nsabem, a nossa Academia, fundada em 1897, está agora\ncompletando 110 anos, foi organizada por uma reunião de\njornalistas, literatos, poetas que se reuniam na secretaria\nda Revista Brasileira, dirigida por um crítico literário e por\num literato chamado José Veríssimo, natural do Pará, e\ndesse entusiasmo saiu a ideia de se criar a Academia\nBrasileira, depois anexada ao seu título: Academia\nBrasileira de Letras.\n\n2015\n\nNesse sentido, Machado de Assis, que foi o primeiro\npresidente desde a sua inauguração até a data de sua\nmorte, em 1908, imaginava que a nossa Academia deveria\nser uma academia de Letras, portanto, de literatos.\n\nBECHARA, E. Disponível em: www.academiagalega.org. Acesso em: 31 jul. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No trecho da palestra proferida por Evanildo Bechara, na\nAcademia Galega da Língua Portuguesa, verifica-se o\nuso de estruturas gramaticais típicas da norma padrão da\nlíngua. Esse uso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "torna a fala inacessível aos não especialistas no assunto abordado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contribui para a clareza e a organização da fala no nível de formalidade esperado para a situação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "atribui à palestra características linguísticas restritas à modalidade escrita da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dificulta a compreensão do auditório para preservar o caráter rebuscado da fala.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evidencia distanciamento entre o palestrante e o auditório para atender os objetivos do gênero palestra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

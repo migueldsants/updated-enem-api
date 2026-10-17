@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2016 - Reaplicação",
+    "index": 58,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A utilização de placas de aquecimento solar como\nalternativa ao uso de energia elétrica representa um\nimportante mecanismo de economia de recursos naturais.\nUm sistema de aquecimento solar com capacidade de\ngeração de energia de 1,0 MJ/dia por metro quadrado de\nplaca foi instalado para aquecer a água de um chuveiro\nelétrico de potência de 2 kW, utilizado durante meia hora\npor dia.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/58/e8c8be2e-1dde-4288-82af-469826a6bb6c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A área mínima da placa solar deve ser de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 m².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,8 m².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-reaplicacao/questions/58/e8c8be2e-1dde-4288-82af-469826a6bb6c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,6 m².",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "6,0 m².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

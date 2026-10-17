@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2015 - Reaplicação",
+    "index": 93,
+    "year": 2015,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Desde luego que para quienes continuamos\nescribiendo en quechua, en aymara o en las lenguas\namazónicas, o recreamos en castellano el subyugante\nuniverso andino, el mayor obstáculo es, sin duda, el\nlenguaje: cómo hacer verosímil — mediante la palabra —\nlo que de por sí es increíble en ese arcano territorio donde las\nfronteras entre vida/muerte, mundo natural/sobrenatural,\nno existen y es común, más bien, toparse en un cruce\nde caminos con un ángel andariego o recibir, tal vez, en\nuna siembra de papas, la visita inesperada de un familiar\nmuerto que viene — del más allá — a prevenirnos sobre\nel clima o porque simplemente tiene sed y desea un poco\nde chicha de maíz. No obstante a ello, la poesía quechua\ncontemporánea, la escrita por Alencastre por ejemplo,\ntiene autor y códigos propios y ya no más ese carácter\ncolectivo, anónimo y oral de los inicios, cuando estaba\nconformada por oraciones e himnos que, de acuerdo a su\nnaturaleza, eran wawakis (invocaciones para enterrar a\nun infante muerto), hayllis (poesía épica), harawis (poesía\namorosa), qhaswas (cantos de regocijo), wankas, entre\notros. Ni siquiera la luminosa personalidad de José María\nArguedas confinó al limbo al poeta Alencastre, de quien\ndijo era el más grande poeta quechua del siglo XX.\n\nGONZÁLEZ, O. Disponível em: www.lenguandina.org. Acesso em: 30 jul. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo Odi González, embora seja difícil dar\nverossimilhança ao universo cultural andino ao escrever\nem línguas indígenas ou em castelhano, nos dias de hoje,\na poesia quíchua",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "baseia-se na tradição oral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "constitui-se de poemas cerimoniais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "costuma ter um caráter anônimo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "possui marcas autorais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "busca uma temática própria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

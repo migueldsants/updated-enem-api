@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 31,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O lazer é um fenômeno mundial, fruto da modernidade e\ndas relações que se estabelecem entre o tempo do trabalho e\no tempo do não trabalho. Os efeitos da industrialização e da\nglobalização foram percebidos pela velocidade das mensagens\nveiculadas pela mídia, pela explosão das novas tecnologias de\ninformação e comunicação, pela exacerbação do individualismo\ne da competitividade, além de terem provocado mudanças no\ncontexto social e também uma crise nas relações de trabalho.\nDesse modo, o lazer apresenta-se como um conjunto de\nelementos culturais que podem ser vivenciados no tempo livre,\nseja de forma prática ou contemplativa.\n\nProposta curricular do estado de Minas Gerais, 6º ao 9º ano. Disponível em:\nhttp://crv.educacao.mg.gov.br. Acesso em: 10 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto aborda questões referentes às mudanças na sociedade\natual e seus impactos na organização do tempo do trabalho e\ndo não trabalho, reconhecendo o lazer como uma atividade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vivenciada no tempo livre, que favorece o individualismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contemplativa, pois busca maior produtividade no tempo livre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "realizadanotempolivre,comvistasaaumentaracompetitividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "esportiva ou intelectual, escolhida pelos indivíduos no seu tempo livre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "fruída no tempo livre, na tensão entre a sociedade industrial e a da informação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

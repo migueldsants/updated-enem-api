@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2016 - Reaplicação",
+    "index": 110,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ao acompanharmos a história do telefone, verificamos\nque esse meio está se mostrando capaz de reunir em\nseu conteúdo uma quantidade cada vez maior de outros\nmeios ‒ envio de e-mails, recebimento de notícias, música\natravés de rádio e mensagens de texto. Esta última função\nvem servindo como suporte para uma nova forma de\nsociabilidade, o fenômeno do flash mob ‒ mobilizações\nrelâmpago, que têm como característica principal realizar\numa encenação em algum ponto da cidade.\n\nPAMPANELLI, G. A. A evolução do telefone e uma nova forma de sociabilidade: o flash mob.\n\nDisponível em: www.razonypalabra.org.mx. Acesso em: 1 jun. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, a evolução das tecnologias de\ncomunicação repercute na vida social, revelando que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o acúmulo de informações promove a sociabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as mudanças sociais demandam avanços tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o crescimento tecnológico acarreta mobilizações das grandes massas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a articulação entre meios tecnológicos pressupõe desenvolvimento social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a apropriação das tecnologias pela sociedade possibilita ações inovadoras.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2014 - Terceira aplicação",
+    "index": 38,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A sustentabilidade é o maior desafio global. Por isso\no desenvolvimento de um país, por mais exemplar que\nvenha a ser, só poderá ser realmente sustentável quando\na pegada ecológica mundial deixar de ultrapassar a\ncapacidade de regeneração da biosfera. Não é diferente\nem termos setoriais. O setor agropecuário só será\nsustentável se também o forem o industrial, o terciário e\na mineração.\n\nVEIGA, J. E. O futuro da comida. Globo Rural, n. 312, out. 2011.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto, a busca da sustentabilidade\nambiental envolve mudança de hábitos, para que o\ndesenvolvimento seja pautado no a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "busca de alternativas tecnológicas visando reduzir a jornada de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "trabalho cooperativo, com remuneração justa e distribuição igualitária de renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "satisfação das necessidades da geração atual, assim como as das gerações futuras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "incentivo à alta produtividade e ao consumo, para evitar crises econômicas mundiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "redução dos lucros atuais, a fim de garantir capital e preservação de recursos para as futuras gerações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

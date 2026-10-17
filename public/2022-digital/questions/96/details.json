@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2022 - Digital",
+    "index": 96,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para\neconomizar o consumo de energia elétrica e iluminar a própria casa num dia de sol.\nPara isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as\nfiguras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual\nao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua\nideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas\nutilizando a “luz engarrafada”.\n\n![](https://enem.dev/2022-digital/questions/96/b986bc4b-c6dc-4803-aead-bfd3d0cd88e6.png)\n\nZOBEL, G. Brasileiro inventor de “luz engarrafada” tem ideia espalhada pelo mundo.\nDisponível em: www.bbc.com. Acesso em: 23 jun. 2022 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/96/b986bc4b-c6dc-4803-aead-bfd3d0cd88e6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Que fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Absorção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Polarização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Refração.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

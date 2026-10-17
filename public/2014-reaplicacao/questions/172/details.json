@@ -1,0 +1,43 @@
+{
+    "title": "Questão 172 - ENEM 2014 - Reaplicação",
+    "index": 172,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um procedimento padrão para aumentar a\ncapacidade do número de senhas de banco é\nacrescentar mais caracteres a essa senha. Essa prática,\nalém de aumentar as possibilidades de senha, gera um\naumento na segurança. Deseja-se colocar dois novos\ncaracteres na senha de um banco, um no início e outro no\nfinal. Decidiu-se que esses novos caracteres devem ser\nvogais e o sistema conseguirá diferenciar maiúsculas\nde minúsculas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com essa prática, o número de senhas possíveis ficará\nmultiplicado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

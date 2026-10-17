@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 99,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nova vacina contra HIV utiliza DNA e proteínas recombinantes\nUma equipe de pesquisadores desenvolveu uma nova vacina que consiste em DNA e proteínas recombinantes. Associando a\nbiologia molecular e a bioinformática, rastrearam o genoma viral e obtiveram uma proteína que, quando ligada a anticorpos,\nresulta na destruição do vírus e das células infectadas por ele. Nos testes, a vacina se mostrou capaz de induzir anticorpos contra\no HIV. Essa técnica de produção de vacinas é chamada de “vacinologia reversa”.\n\nDisponível em: https://sciam.com.br. Acesso em: 22 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa tecnologia pode ser vantajosa em relação aos métodos tradicionais de preparo de vacinas porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "necessita do agente causador da doença vivo e incapaz de fazer o ciclo infeccioso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "elimina a necessidade de os agentes infecciosos serem cultivados e modificados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "utiliza microrganismos modificados que são incapazes de causar a doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "extingue o uso de partes de proteínas e açúcares dos agentes infecciosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aproveita uma toxina inativada do agente infeccioso em sua fabricação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 176 - ENEM 2020 - Digital",
+    "index": 176,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um investidor pretende aplicar R$ 100 000,00 no mercado financeiro. Para isso pesquisou\ncinco investimentos distintos, aferindo os rendimentos mensais, em real, de cada um deles.\nPara decidir em qual aplicar seu dinheiro, considerou também a incidência mensal de Imposto\nde Renda (IR) sobre o respectivo rendimento. Avaliou que o maior retorno financeiro virá da\naplicação em um único investimento: aquele em que a diferença entre o rendimento mensal e\no imposto que incidir sobre ele seja a maior possível. Os dados levantados pelo investidor\nsobre rendimento e imposto referentes à aplicação encontram-se a seguir.\n\n![](https://enem.dev/2020-digital/questions/176/26e73d1c-02b7-4728-963a-774b667d3d5b.png)\n\n![](https://enem.dev/2020-digital/questions/176/67df0c29-7d1e-4902-9599-4f327e69ad62.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/176/26e73d1c-02b7-4728-963a-774b667d3d5b.png",
+        "https://enem.dev/2020-digital/questions/176/67df0c29-7d1e-4902-9599-4f327e69ad62.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O investidor decidiu fazer a aplicação no investimento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

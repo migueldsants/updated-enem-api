@@ -1,0 +1,49 @@
+{
+    "title": "Questão 95 - ENEM 2022 - Digital",
+    "index": 95,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O sinal sonoro oriundo da queda de um grande bloco de gelo de uma geleira é\ndetectado por dois dispositivos situados em um barco, sendo que o detector A está\nimerso em água e o B, na proa da embarcação. Sabe-se que a velocidade do som na\n\n![](https://enem.dev/2022-digital/questions/95/da9445a4-da7f-4d47-a47c-51ef57bbee39.png)\n\n![](https://enem.dev/2022-digital/questions/95/a5553ec7-0c19-4b0d-8899-bd2b476bd576.png)\n\n![](https://enem.dev/2022-digital/questions/95/32213fe1-67ca-483c-8aa5-250547b9d535.png)\n\nOs gráficos indicam, em tempo real, o sinal sonoro detectado pelos dois dispositivos,\nos quais foram ligados simultaneamente em um instante anterior à queda do bloco de\ngelo. Ao comparar pontos correspondentes desse sinal em cada dispositivo, é possível\nobter informações sobre a onda sonora.\n\nA B\n\n![](https://enem.dev/2022-digital/questions/95/277c2e20-26d6-4692-a6c6-a4d0496cc0e0.png)\n\n![](https://enem.dev/2022-digital/questions/95/920289b8-9951-4016-80c2-82fda1a90884.png)\n\nSinal Sinal\n\n208 220 232 244 208 220 232 244\nTempo (s) Tempo (s)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/95/da9445a4-da7f-4d47-a47c-51ef57bbee39.png",
+        "https://enem.dev/2022-digital/questions/95/a5553ec7-0c19-4b0d-8899-bd2b476bd576.png",
+        "https://enem.dev/2022-digital/questions/95/32213fe1-67ca-483c-8aa5-250547b9d535.png",
+        "https://enem.dev/2022-digital/questions/95/277c2e20-26d6-4692-a6c6-a4d0496cc0e0.png",
+        "https://enem.dev/2022-digital/questions/95/920289b8-9951-4016-80c2-82fda1a90884.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A distância L, em metro, entre o barco e a geleira é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "339 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "78 900.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14 400.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 240.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

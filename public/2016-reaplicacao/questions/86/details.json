@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2016 - Reaplicação",
+    "index": 86,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para o consumidor, é praticamente impossível\nidentificar a diferença entre a sacola biodegradável e a\ncomum, feita de polietileno – derivado do petróleo. Alguns\ngovernos municipais já exigem que os supermercados\nofereçam sacolas biodegradáveis em substituição às\nsacolas comuns.\n\nDisponível em: http://epocanegocios.globo.com. Acesso em: 1 ago. 2012.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A atitude tomada pelos governos municipais deve-se ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "maior resistência que os materiais biodegradáveis apresentam em relação aos comuns.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "escassez das matérias-primas derivadas do petróleo para produção das sacolas comuns.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "custo consideravelmente menor das sacolas biodegradáveis em relação ao das sacolas comuns.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "maior capacidade de produção das sacolas biodegradáveis, já que as fontes podem ser renováveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "rápida decomposição das sacolas biodegradáveis pela ação de bactérias, em comparação às sacolas comuns.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

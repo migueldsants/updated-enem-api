@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2022 - Digital",
+    "index": 123,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são\nconsideradas doenças tropicais infecciosas e constituem uma preocupação para a saúde\npública por ser alto o índice de mortalidade a elas associado.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma medida profilática comum a essas duas doenças é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "incineração do lixo orgânico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "construção de rede de esgoto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "uso de vermífugo pela população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "controle das populações dos vetores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "consumo de carnes vermelhas bem cozidas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

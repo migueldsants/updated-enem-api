@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 158,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O proprietário de um terreno plano, em formato de\nquadrado e com área medindo 360 000 m², solicitou a um\ntopógrafo que representasse esse terreno em um mapa cuja\nescala é 1 : 2 500. Porém, nesse mapa, alguns detalhes do\nterreno ficaram imperceptíveis. Com isso, foi desenhado um\nnovo mapa, com escala de 1 : 1 600.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/158/c1c62a85-3924-4d28-b895-8367407d1bfa.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a medida, em metro, arredondada para duas casas\ndecimais, do aumento do segmento que representa o lado do\nterreno, quando se compara o mapa novo com o mapa original?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,02",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,05",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,07",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,14",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/158/c1c62a85-3924-4d28-b895-8367407d1bfa.png",
+            "isCorrect": false
+        }
+    ]
+}

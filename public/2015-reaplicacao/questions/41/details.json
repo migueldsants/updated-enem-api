@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2015 - Reaplicação",
+    "index": 41,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Confidência do itabirano\nDe Itabira trouxe prendas diversas que ora te ofereço:\nesta pedra de ferro, futuro aço do Brasil;\neste São Benedito do velho santeiro Alfredo Durval;\neste couro de anta, estendido no sofá de visitas;\neste orgulho, esta cabeça baixa.\n\nTive ouro, tive gado, tive fazendas.\nHoje sou funcionário público.\nItabira é apenas uma fotografia na parede.\nMas como dói.\n\nANDRADE, C. D. Sentimento do mundo. São Paulo: Cia. das Letras, 2012 (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O poeta pensa a região como lugar, pleno de afetos.\nA longa história da ocupação de Minas Gerais, iniciada\ncom a mineração, deixou marcas que se atualizam em\nItabira, pequena cidade onde nasceu o poeta. Nesse\nsentido, a evocação poética indica o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pujança da natureza resistindo à ação humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sentido de continuidade do progresso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cidade como imagem positiva da identidade mineira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "percepção da cidade como paisagem da memória.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "valorização do processo de ocupação da região.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

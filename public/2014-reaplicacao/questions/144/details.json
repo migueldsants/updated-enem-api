@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2014 - Reaplicação",
+    "index": 144,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma concessionária de automóveis revende\natualmente três marcas de veículos, A, B e C, que são\nresponsáveis por 50%, 30% e 20%, respectivamente,\nde sua arrecadação. Atualmente, o faturamento médio\nmensal dessa empresa é de R$ 150 000,00. A direção\ndessa empresa estima que, após uma campanha\npublicitária a ser realizada, ocorrerá uma elevação de\n20%, 30% e 10% na arrecadação com as marcas A, B e C,\nrespectivamente.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se os resultados estimados na arrecadação forem\nalcançados, o faturamento médio mensal da empresa\npassará a ser de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 180 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 181 500,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 187 500,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 240 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 257 400,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

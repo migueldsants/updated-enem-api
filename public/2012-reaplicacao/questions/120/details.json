@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2012 - Reaplicação",
+    "index": 120,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Era uma vez\n\nUm rei leão que não era rei.\nUm pato que não fazia quá-quá.\nUm cão que não latia.\nUm peixe que não nadava.\nUm pássaro que não voava.\nUm tigre que não comia.\nUm gato que não miava.\nUm homem que não pensava...\nE, enfim, era uma natureza sem nada.\nAcabada. Depredada.\nPelo homem que não pensava.\n\nLaura Araújo Cunha\n\nCUNHA, L. A. In: KOCH, I. V.; ELIAS, V. M. Ler e escrever: estratégias de produção textual.\n\nSão Paulo: Contexto, 2011.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "São as relações entre os elementos e as partes do\ntexto que promovem o desenvolvimento das ideias. No\npoema, a estratégia linguística que contribui para esse\ndesenvolvimento, estabelecendo a continuidade do texto, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "escolha de palavras de diferentes campos semânticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "negação contundente das ações praticadas pelo homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "intertextualidade com o gênero textual fábula infantil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "repetição de estrutura sintática com novas informações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "utilização de ponto final entre termos de uma mesma oração.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

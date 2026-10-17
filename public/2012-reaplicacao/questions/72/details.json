@@ -1,0 +1,46 @@
+{
+    "title": "Questão 72 - ENEM 2012 - Reaplicação",
+    "index": 72,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um aquecedor solar consiste essencialmente em\numa serpentina de metal, a ser exposta ao sol, por meio da\nqual flui água a ser aquecida. A parte inferior da serpentina\né soldada a uma chapa metálica, que é o coletor solar.\nA forma da serpentina tem a finalidade de aumentar a\nárea de contato com o coletor e com a própria radiação\nsolar sem aumentar muito o tamanho do aquecedor.\nO metal, sendo bom condutor, transmite a energia da\nradiação solar absorvida para as paredes internas e,\ndaí, por condução, para a água. A superfície deve ser\nrecoberta com um material, denominado material seletivo\nquente, para que absorva o máximo de radiação solar e\nemita o mínimo de radiação infravermelha. Os quadros\nrelacionam propriedades de alguns metais/ligas metálicas\nutilizados na confecção de aquecedores solares:\n\n![](https://enem.dev/2012-reaplicacao/questions/72/21f6a669-7c02-463f-964a-f4d01fb3f954.png)\n\nA. Óxido e sulfeto\n\n![](https://enem.dev/2012-reaplicacao/questions/72/2af033e9-edec-464c-b9e5-ffcfab1fc237.png)\n\nB. Óxido e sulfeto de\n\nC. Óxido de cobre em",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/72/21f6a669-7c02-463f-964a-f4d01fb3f954.png",
+        "https://enem.dev/2012-reaplicacao/questions/72/2af033e9-edec-464c-b9e5-ffcfab1fc237.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os aquecedores solares mais eficientes e, portanto,\nmais atrativos do ponto de vista econômico, devem ser\nconstruídos utilizando como material metálico e material\nseletivo quente, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aço e material seletivo quente A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aço e material seletivo quente B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cobre e material seletivo quente C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "zinco e material seletivo quente B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cobre e material seletivo quente A.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

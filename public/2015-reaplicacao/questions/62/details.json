@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2015 - Reaplicação",
+    "index": 62,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma enzima foi retirada de um dos órgãos do sistema\ndigestório de um cachorro e, após ser purificada, foi\ndiluída em solução fisiológica e distribuída em três tubos\nde ensaio com os seguintes conteúdos:\n\n• Tubo 1: carne\n\n• Tubo 2: macarrão\n\n• Tubo 3: banha\n\nEm todos os tubos foi adicionado ácido clorídrico (HCl),\ne o pH da solução baixou para um valor próximo a 2. Além\ndisso, os tubos foram mantidos por duas horas a uma\ntemperatura de 37 °C. A digestão do alimento ocorreu\nsomente no tubo 1.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De qual órgão do cachorro a enzima foi retirada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fígado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pâncreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estômago.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Vesícula biliar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Intestino delgado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

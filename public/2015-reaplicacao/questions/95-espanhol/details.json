@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2015 - Reaplicação",
+    "index": 95,
+    "year": 2015,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Tapar bien los recipientes donde guardarmos el agua para nuestro consumo (1).\n\nLavar periódicamente las pilas y en caso de almacenar el agua\nutilizar bolsa matalarva (2).\nEliminar de nuestro hogar cualquier objeto inservible: botellas, latas o\nllantas donde se acumula agua (3).\nCambiar el agua del bebedero de los animales diariamente (4).\nLimpiar canaletas y evitar cualquier agua estancada (5).\nCambiar el agua de los floreros cada tres días (6).\n\nDisponível em: www.mspas.gob.sv. Acesso em: 14 dez. 2009.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os programas de prevenção à dengue não estão restritos\na cidades brasileiras. No material elaborado sobre esse\ntema pelo Ministério da Saúde de El Salvador, país da\nAmérica Central, objetiva-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentar a sequência de ações necessárias à",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "prevenção da doença. instruir o leitor sobre como impedir a formação de",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "criadouros do mosquito. descrever como se dá a proliferação do Aedes aegypti",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "em El Salvador. convencer o leitor sobre a necessidade do tratamento",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da doença. relatar experiências sobre como lidar com a multiplicação do Aedes aegypti.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

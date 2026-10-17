@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2014 - Reaplicação",
+    "index": 124,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A escrita é uma tecnologia intelectual que vem\nauxiliar o trabalho biológico. É como uma nova memória,\nsituada fora do sujeito, e ilimitada. Com ela não é mais\nnecessário reter todos os relatos – este auxiliar cognitivo\nvem, portanto, relativizar a memória para que a mente\nhumana possa desviar sua atenção consciente para\noutros recursos e faculdades.\n\nSe é arriscado associar diretamente o surgimento\nda ciência ao da escrita, podemos, de qualquer forma,\nafirmar que a escrita deu impulso e desempenhou um\npapel fundamental na construção do discurso científico.\nO distanciamento possibilitado pela grafia no papel traz o\nregistro das experiências e das hipóteses, o conhecimento\nespeculativo, o documentário de comprovações, a\ncompilação de teorias e de paradigmas em torno dos\nquais as comunidades científicas vão se agrupar.\n\nRAMAL, A. C. Educação na cibercultura: hipertextualidade, leitura, escrita e aprendizagem.\n\nPorto Alegre: Artmed, 2002.\n\n![](https://enem.dev/2014-reaplicacao/questions/124/8885d923-9444-46a5-8ee8-94da6a0842c8.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/124/8885d923-9444-46a5-8ee8-94da6a0842c8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O advento da escrita como tecnologia intelectual está\ndiretamente ligado a uma série de mudanças na forma\nde pensar e de construir o conhecimento nas sociedades.\nA partir do texto, constata-se que, na elaboração do\ndiscurso científico, a escrita",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "determinou de que modo a sociedade científica deveria se organizar para avançar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "possibilitou que os pesquisadores se distanciassem de informações presentes na memória.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "permitiu que fossem documentados conceitos e saberes advindos de experiências realizadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "facilitou que as informações ficassem armazenadas igualmente na memória e no papel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "consentiu que a atenção dos homens se desviasse para os saberes antigamente inalcançáveis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

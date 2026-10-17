@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2012 - Reaplicação",
+    "index": 42,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma gigante empresa taiwanesa do setor de\ntecnologia vai substituir parte de seus funcionários por um\nmilhão de robôs em até três anos, segundo a agência de\nnotícias chinesa. O objetivo é cortar despesas. Os robôs\nserão usados para fazer trabalhos simples e de rotina,\ncomo limpeza, soldagem e montagem, atividades que\natualmente são feitas por funcionários. A empresa já tem\n10 mil robôs e o número deve chegar a 300 mil em 2012\ne a um milhão em três anos.\n\nFabricante do Ipad vai trocar trabalhadores por um milhão de robôs em três anos.\nDisponível em: http://noticias.r7.com. Acesso em: 21 ago. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em relação aos efeitos da decisão da empresa, uma\ndivergência entre o empresário e os funcionários, no\nexemplo citado, encontra-se nos respectivos argumentos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento da eficiência − Perda dos postos de trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Reforço da produtividade −Ampliação das negociações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição dos custos − Redução da competitividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Inovação dos investimentos − Flexibilização da produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Racionalização do trabalho − Modernização das atividades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

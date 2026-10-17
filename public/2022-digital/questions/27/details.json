@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2022 - Digital",
+    "index": 27,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022-digital/questions/27/174205fb-4a6c-4a9f-99c3-78f981bd415e.png)\n\nDisponível em: https://viva-porto.pt. Acesso em: 24 nov. 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/27/174205fb-4a6c-4a9f-99c3-78f981bd415e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A articulação entre os elementos verbais e os não verbais do texto tem como propósito\ndesencadear a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "identificação de distinções entre mulheres e homens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revisão de representações estereotipadas de gênero.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "adoção de medidas preventivas de combate ao sexismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ratificação de comportamentos femininos e masculinos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retomada de opiniões a respeito da diversidade dos papéis sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

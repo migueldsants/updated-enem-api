@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 55,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O homo economicus contemporâneo é dotado de intenso\nprincípio de racionalidade formal que o leva:\n\n1. a buscar sem qualquer hesitação a própria felicidade;\n2. a dar a preferência aos objetos visíveis que lhe trarão\no máximo de satisfação.\n\nBAUDRILLARD, J. A sociedade de consumo. Lisboa: Edições 70, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o tipo de racionalidade descrita no texto, os projetos\nde autorrealização dominantes na contemporaneidade estão\ncentrados no",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aprimoramento moral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alinhamento político.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "capital simbólico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "vínculo religioso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valor cultural.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

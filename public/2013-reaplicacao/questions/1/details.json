@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2013 - Reaplicação",
+    "index": 1,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ao longo das três últimas décadas, houve uma\nexplosão de movimentos sociais pelo mundo. Essa\ndiversidade de movimentos — que vão desde os\nmovimentos por direitos civis e os movimentos\nfeministas dos anos de 1960 e 1970, até os movimentos\nantinucleares e ecológicos dos anos de 1980 e a\ncampanha pelos direitos homossexuais da década de\n1990 — é normalmente denominado pelos comentadores\ndo tema como novos movimentos sociais.\n\nGIDDENS, A. Sociologia. Porto Alegre: Artmed, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma explicação para a expansão dos chamados novos\nmovimentos sociais nas últimas três décadas é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fragilidade das redes globais comunicacionais, como internet e telefonia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "garantia dos direitos sociais constitucionais, como educação e previdência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "crise das organizações representativas tradicionais, como partidos e sindicatos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "instabilidade das instituições políticas democráticas, como eleições e parlamentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "consolidação das corporações transnacionais monopolistas, como petrolíferas e mineradoras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

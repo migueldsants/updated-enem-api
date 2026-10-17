@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2014 - Reaplicação",
+    "index": 168,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa comprou um aquário em forma de\num paralelepípedo retângulo reto, com 40 cm de\ncomprimento, 15 cm de largura e 20 cm de altura.\nChegando em casa, colocou no aquário uma quantidade\nde água igual à metade de sua capacidade. A seguir, para\nenfeitá-lo, irá colocar pedrinhas coloridas, de volume\nigual a 50 cm³ cada, que ficarão totalmente submersas\nno aquário.\n\nApós a colocação das pedrinhas, o nível da água\ndeverá ficar a 6 cm do topo do aquário.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número de pedrinhas a serem colocadas deve ser igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "48.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "72.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "84.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "168.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

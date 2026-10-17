@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 46,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Eu me lembro de ser mandada para o canto da sala de aula por\n“responder” à professora quando tudo o que eu estava tentando\nfazer era mostrar a ela como pronunciar meu nome. Assim, se\nvocê quer mesmo me ferir, fale mal da minha língua. A identidade\nétnica e a identidade linguística são unha e carne — eu sou minha\nlíngua. Eu não posso ter orgulho de mim mesma até que possa ter\norgulho da minha língua. Até que eu possa aceitar como legítimos\no espanhol chicano texano, o Tex-Mex, e todas as outras línguas\nque falo, eu não posso aceitar a minha própria legitimidade.\n\nANZALDÚA, G. Como domar uma língua selvagem.\nCadernos de Letras da UFF, n. 39, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O argumento da intelectual mexicana ressalta as dificuldades\nimpostas pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "construção súbita de barreiras físicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "precarização estrutural do ensino de idiomas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dissolução governamental da segurança jurídica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "configuração política da experiência comunicativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "relativização pós-moderna da estratificação social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

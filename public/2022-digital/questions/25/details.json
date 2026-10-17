@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2022 - Digital",
+    "index": 25,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A conquista da medalha de prata por Rayssa Leal, no skate street nos Jogos\nOlímpicos, é exemplo da representatividade feminina no esporte, avalia a âncora do jornal\nda rede de televisão da CNN. A apresentadora, que também anda de skate, celebrou a\nvitória da brasileira, que entrou para a história como a atleta mais nova a subir num pódio\ndefendendo o Brasil. “Essa representatividade do esporte nos Jogos faz pensarmos que\nnão temos que ficar nos encaixando em nenhum lugar. Posso gostar de passar notícia e,\nmesmo assim, gostar de skate, subir montanha, mergulhar, andar de bike, fazer yoga.\nTemos que parar de ficar enquadrando as pessoas dentro de regras. A gente vive num\npadrão no qual a menina ganha boneca, mas por que também não fazer um esporte de\naventura? Por que o homem pode se machucar, cair de joelhos, e a menina tem que estar\nsempre lindinha dentro de um padrão? Acabamos limitando os talentos das pessoas”,\nafirmou a jornalista, sobre a prática do skate por mulheres.\n\nDisponível em: www.cnnbrasil.com.br. Acesso em: 31 out. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O discurso da jornalista traz questionamentos sobre a relação da conquista da skatista\ncom a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conciliação do jornalismo com a prática do skate.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inserção das mulheres na modalidade skate street.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desconstrução da noção do skate como modalidade masculina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "vanguarda de ser a atleta mais jovem a subir no pódio olímpico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "conquista de medalha nos Jogos Olímpicos de Tóquio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

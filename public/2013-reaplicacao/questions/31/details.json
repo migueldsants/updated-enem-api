@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2013 - Reaplicação",
+    "index": 31,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nÉ notório que o universo do futebol caracteriza-se\npor ser, desde sua origem, um espaço eminentemente\nmasculino; como esse espaço não é apenas esportivo,\nmas sociocultural, os valores nele embutidos e dele\nderivados estabelecem limites que, embora nem sempre\ntão claros, devem ser observados para a perfeita\nmanutenção da “ordem”, ou da “lógica’” que se atribui ao\njogo e que nele se espera ver confirmada. A entrada das\nmulheres em campo subverteria tal ordem, e as reações\ndaí decorrentes expressam muito bem as relações\npresentes em cada sociedade: quanto mais machista, ou\nsexista, ela for, mais exacerbadas as suas réplicas.\n\nFRANZINI, F. Futebol é “coisa pra macho”? Pequeno esboço para uma história das mulheres\n\nno país do futebol. Revista Brasileira de História, v. 25, n. 50, jul.-dez. 2005 (adaptado).\n\nTEXTO II\n\nCom o Estado Novo, a circularidade de uma prática\ncultural nascida na elite e transformada por sua aceitação\npopular completou o ciclo ao ser apropriada pelo Estado\ncomo parte do discurso oficial sobre a nacionalidade.\nA partir daí, o Estado profissionalizou o futebol e passou\na ser o grande promotor do esporte, descrito como uma\nexpressão da nacionalidade. O futebol brasileiro refletiria\nas qualidades e os defeitos da nação.\n\nSANTOS, L. C. V. G. O dia em que adiaram o carnaval: política externa e a construção do\nBrasil. São Paulo: EdUNESP, 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os dois aspectos ressaltados pelos textos sobre a história\ndo futebol na sociedade brasileira são respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Simbolismo político — poder manipulador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Caráter coletivo — ligação com as demandas populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Potencial de divertimento — contribuição para a alienação popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manifestação de relações de gênero — papel identitário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Dimensão folclórica — exercício da dominação de classes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

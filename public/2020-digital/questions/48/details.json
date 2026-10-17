@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2020 - Digital",
+    "index": 48,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2020-digital/questions/48/c7a45518-bb2e-45e4-9c0f-6a4b4e4d6cdb.png)\n\nDAVID, J-L. A coroação de Napoleão (detalhe). Óleo sobre tela, 621 x 979 cm. Louvre, França, 1807.\nDisponível em: http://theweddingtiara.com. Acesso em: 8 abr. 2015.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/48/c7a45518-bb2e-45e4-9c0f-6a4b4e4d6cdb.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gesto representado no quadro simboliza uma diferença entre o império napoleônico e a\nmonarquia absolutista, por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reduzir a autoridade do clero.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "instaurar a censura da imprensa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controlar a organização judiciária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "suspender as pensões da nobreza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desrespeitar a propriedade privada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2014 - Terceira aplicação",
+    "index": 5,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/5/5dc25d2f-6ae7-46d5-ad98-d9cd0d82b370.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/5/5dc25d2f-6ae7-46d5-ad98-d9cd0d82b370.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Disponível em: http://noticias.uol.com.br. Acesso em: 28 fev. 2012.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "charge ironiza um problema recorrente nas áreas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ampliação do efeito estufa provocado pela onda de calor, aumentando a evaporação nas metrópoles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "construção de canais concretados e submersos em função da ocupação das margens dos rios urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "formação de ilhas de calor nos centros urbanos e maior precipitação devido ao aumento da temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "impermeabilização do solo e no acúmulo de lixo nas áreas de grande circulação das cidades.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

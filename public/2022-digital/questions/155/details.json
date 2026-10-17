@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2022 - Digital",
+    "index": 155,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor\ntreina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do\ncircuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida,\ndando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta\nem torno do menor, percorrendo mais 1 100 m.\n\nNo segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um\nnúmero inteiro de voltas em torno deles e de modo que o número de voltas seja o maior\npossível.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "13.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "16.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

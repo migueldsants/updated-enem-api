@@ -1,0 +1,47 @@
+{
+    "title": "Questão 156 - ENEM 2014 - Reaplicação",
+    "index": 156,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma cidade, os impostos que incidem sobre o\nconsumo de energia elétrica residencial são de 30%\nsobre o custo do consumo mensal. O valor total da conta\na ser paga no mês é o valor cobrado pelo consumo\nacrescido dos impostos.\n\nConsiderando x o valor total da conta mensal de uma\ndeterminada residência e y o valor dos impostos, qual é a\nexpressão algébrica que relaciona x e y?",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/156/1ca3e29c-d2f9-4dff-998b-857ca51af19b.png",
+        "https://enem.dev/2014-reaplicacao/questions/156/77d0d71d-efe2-468e-b527-36742ebcb51b.png",
+        "https://enem.dev/2014-reaplicacao/questions/156/b973faf2-8cf1-45c6-adb8-19c52617a2ca.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "0,3 x",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/156/1ca3e29c-d2f9-4dff-998b-857ca51af19b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "y = 0,3 x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/156/77d0d71d-efe2-468e-b527-36742ebcb51b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/156/b973faf2-8cf1-45c6-adb8-19c52617a2ca.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "y = 0,7 x",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

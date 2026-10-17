@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2020 - Digital",
+    "index": 55,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As pessoas do Rio de Janeiro se fazem transportar em cadeirinhas bem douradas\nsustentadas por negros. Esta cadeira é seguida por um ou dois negros domésticos, trajados de\nlibrés mas com os pés nus. Se é uma mulher que se transporta, ela tem frequentemente\nquatro ou cinco negras indumentadas com asseio; elas vão enfeitadas com muitos colares e\nbrincos de ouro. Outras são levadas em uma rede. Os que querem andar a pé são\nacompanhados por um negro, que leva uma sombrinha ou guarda-chuva, como se queira\nchamar.\n\nLARA, S. H. Fragmentos setecentistas. São Paulo: Cia. das Letras, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essas práticas, relatadas pelo capelão de um navio que ancorou na cidade do Rio de Janeiro\nem dezembro de 1748, simbolizavam o seguinte aspecto da sociedade colonial:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A devoção de criados aos proprietários, como expressão da harmonia do elo patriarcal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A utilização de escravos bem-vestidos em atividades degradantes, como marca da hierarquia social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A mobilização de séquitos nos passeios, como evidência do medo da violência nos centros urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A inserção de cativos na prestação de serviços pessoais, como fase de transição para o trabalho livre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A concessão de vestes opulentas aos agregados, como forma de amparo concedido pela elite senhorial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

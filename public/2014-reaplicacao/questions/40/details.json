@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2014 - Reaplicação",
+    "index": 40,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma cidade que reduz emissões, eletrifica com\nenergia solar seus estádios, mas deixa bairros sem\nsaneamento básico, sem assistência médica e sem\nescola de qualidade nunca será sustentável. A mudança\ndo regime de chuvas, que já ocorre por causa da mudança\nclimática, faz com que inundações em áreas com esgoto\ne lixões a céu aberto propaguem doenças das quais o\nsistema de saúde não cuidará apropriadamente.\n\nABRANCHES, S. A sustentabilidade é humana e ecológica. Disponível em: www.ecopolitica.\n\ncom.br. Acesso em: 30 jul. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Problematizando a noção de sustentabilidade, o\nargumento apresentado no texto sugere que o a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tecnologia verde é necessária ao planejamento urbano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mudança climática é provocada pelo crescimento das cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consumo consciente é característico de cidades sustentáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desenvolvimento urbano é incompatível com a preservação ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desenvolvimento social é condição para o desenvolvimento sustentável.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2014 - Terceira aplicação",
+    "index": 156,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A velocidade Mach M de um avião é definida como a\nrazão entre a velocidade do avião e a velocidade do som.\nOs aviões são classificados em categorias, de acordo\ncom a velocidade que conseguem atingir. As categorias\nsão: subsônica M < 1,0 , transônica 1,0 ≤ M < 1,2 ,\nsupersônica 1,2 ≤ M < 5,0 e hipersônica 1,2 ≤ M < 5,0 .\nConsidere a velocidade do som igual a 1 200 km/h.\n\nJoão e Bia fizeram uma viagem de avião, que\npercorreu 3 600 km em 4 horas.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Bia disse que esse avião era muito rápido e, portanto,\nsupersônico. João convenceu Bia de que ela estava\nerrada, argumentando que, para o avião ser supersônico,\no tempo de sua viagem deveria ser reduzido em, no\nmínimo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 h.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5 h.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,6 h.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,4 h.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,5 h.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2014 - Reaplicação",
+    "index": 93,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Tennesse Mountain Properties\n\nDescription\n\nOwn a renovated house for less than $290 per\nmonth!!!!!!!! New windows, siding, flooring (laminate\nthroughout and tile in entry way and bathroom), kitchen\ncabinets, counter top, back door, fresh paint and laundry\non main floor. Heat billsare very low due to a good solid\nhouse and an energy efficient furnace.\n\nDisponívelem: www.freerealestaeads.net. Acessoem:30nov. 2011(adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em jornais, há diversos anúncios que servem aos\nleitores. O conteúdo do anúncio veiculado por este texto\ninteressará a alguém que esteja procurando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "emprego no setor imobiliário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "imóvel residencial para compra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "serviço de reparos em domicílio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pessoa para trabalho doméstico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "curso de decorador de interiores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

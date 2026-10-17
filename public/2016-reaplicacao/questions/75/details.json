@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2016 - Reaplicação",
+    "index": 75,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos ambientes tropicais, os modelos convencionais\nde produção agrícola têm gerado degradação dos\nrecursos naturais e um manejo cada vez mais caro\ne trabalhoso. Pela legislação brasileira, os sistemas\nagroflorestais (SAFs) são sistemas de uso e ocupação do\nsolo em que plantas lenhosas perenes são manejadas em\nassociação com plantas herbáceas, arbustivas, arbóreas,\nculturas agrícolas e forrageiras em uma mesma unidade\nde manejo, de acordo com arranjo espacial e temporal,\ncom alta diversidade de espécies e interações entre\nesses componentes.\n\nDisponível em: www.ambienteduran.eng.br. Acesso em: 4 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os SAFs são atualmente muito adotados como\nestratégia de manejo ambiental no Brasil porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "garantem a produção de plantas exóticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "possibilitam a manutenção de monocultura típica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aumentam a produção com culturas transgênicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "permitem a utilização do solo com culturas diversas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "favorecem a adaptação de plantas lenhosas madeireiras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

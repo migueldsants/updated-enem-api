@@ -1,0 +1,46 @@
+{
+    "title": "Questão 161 - ENEM 2016 - Reaplicação",
+    "index": 161,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Tradicionalmente uma pizza média de formato\ncircular tem diâmetro de 30 cm e é dividida em 8 fatias\niguais (mesma área). Uma família, ao se reunir para o\njantar, fará uma pizza de formato circular e pretende\ndividi-la em 10 fatias também iguais. Entretanto, eles\ndesejam que cada fatia dessa pizza tenha o mesmo\ntamanho (mesma área) de cada fatia da pizza média\nquando dividida em 8 fatias iguais.\n\n![](https://enem.dev/2016-reaplicacao/questions/161/2b60f1ce-1595-4ea6-8fd4-e63607087186.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/161/5feaa4e0-00a1-4be3-a1dc-55e957850634.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/161/2b60f1ce-1595-4ea6-8fd4-e63607087186.png",
+        "https://enem.dev/2016-reaplicacao/questions/161/5feaa4e0-00a1-4be3-a1dc-55e957850634.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16,50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "18,75",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "37,50",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

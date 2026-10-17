@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2014 - Reaplicação",
+    "index": 6,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ao falar do caráter de um homem não dizemos que\nele é sábio ou que possui entendimento, mas que é calmo\nou temperante. No entanto, louvamos também o sábio,\nreferindo-se ao hábito; e aos hábitos dignos de louvor\nchamamos virtude.\n\nARISTÓTELES. Ética a Nicômaco. São Paulo: Nova Cultural, 1973.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em Aristóteles, o conceito de virtude ética expressa a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "excelência de atividades praticadas em consonância com o bem comum.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "concretização utilitária de ações que revelam a manifestação de propósitos privados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "concordância das ações humanas aos preceitos emanados da divindade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "realização de ações que permitem a configuração da paz interior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manifestação de ações estéticas, coroadas de adorno e beleza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

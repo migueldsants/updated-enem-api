@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2020 - Digital",
+    "index": 104,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Acredita-se que os olhos evoluíram de órgãos sensores de luz para versões que formam\nimagens. O olho humano atua como uma câmera, coletando, focando e convertendo a luz em\nsinal elétrico, que é traduzido em imagens pelo cérebro. Mas em vez de um filme fotográfico, é\numa retina que detecta e processa os sinais, utilizando células especializadas. Moluscos\ncefalópodes (como as lulas) possuem olhos semelhantes aos dos humanos, apesar da\ndistância filogenética.\n\nLAMB, T. D. A fascinante evolução do olho: cientistas já têm uma visão clara de como surgiram nossos olhos tão\ncomplexos. Scientific American Brasil, ed. 111, ago. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A comparação dos olhos mencionada representa que tipo de evolução?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aleatória",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Homóloga",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divergente",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Progressiva",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Convergente",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2013 - Reaplicação",
+    "index": 176,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/176/5524eccc-2f7d-4a44-88f8-9d89a0dda9d4.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em um experimento, uma cultura de bactérias tem\nsua população reduzida pela metade a cada hora, devido\nà ação de um agente bactericida.\nNeste experimento, o número de bactérias em função do\ntempo pode ser modelado por uma função do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "afim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "seno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cosseno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "logarítmica crescente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/176/5524eccc-2f7d-4a44-88f8-9d89a0dda9d4.png",
+            "isCorrect": true
+        }
+    ]
+}

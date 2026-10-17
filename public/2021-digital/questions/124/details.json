@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2021 - Digital",
+    "index": 124,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como\nreagente de partida. Após uma sequência de reações (I, II, III, IV e V), o cobre retorna ao\nseu estado inicial ao final do ciclo.\n\n![](https://enem.dev/2021-digital/questions/124/ba87926f-47d6-4841-b858-df30e15bec4c.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/124/ba87926f-47d6-4841-b858-df30e15bec4c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A reação de redução do cobre ocorre na etapa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

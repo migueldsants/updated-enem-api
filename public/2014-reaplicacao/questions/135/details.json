@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2014 - Reaplicação",
+    "index": 135,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "E-mail no ambiente de trabalho\n\nT. C., consultor e palestrante de assuntos ligados\nao mercado de trabalho, alerta que a objetividade, a\norganização da mensagem, sua coerência e ortografia\nsão pontos de atenção fundamentais para uma\ncomunicação virtual eficaz.\n\nE, para evitar que erros e falta de atenção resultem\nem saias justas e situações constrangedoras, confira cinco\ndicas para usar o e-mail com bom senso e organização:\n1. Responda às mensagens imediatamente após\n\nrecebê-las.\n2. Programe sua assinatura automática em todas as\n\nrespostas e encaminhamentos.\n3. Ao final do dia, exclua as mensagens sem importância\n\ne arquive as demais em pastas previamente definidas.\n4. Utilize o recurso de “confirmação de leitura” somente\n\nquando necessário.\n5. Evite mensagens do tipo “corrente”.\n\nDisponívelem: http://noticias.uol.com.br. Acessoem:30jul.2012 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto apresenta algumas sugestões para o leitor.\nEsse caráter instrucional é atribuído, principalmente,\npelo emprego",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do modo verbal imperativo, como em “responda” e “programe”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "das marcas de qualificação do especialista, como “consultor” e “palestrante”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de termos específicos do discurso no mundo virtual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "de argumentos favoráveis à comunicação eficaz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da palavra “dica” no desenvolvimento do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

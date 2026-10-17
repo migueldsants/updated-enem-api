@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2012 - Reaplicação",
+    "index": 25,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nJá existe, em nosso país, uma consciência nacional\nque vai introduzindo o elemento da dignidade humana\nem nossa legislação, e para qual a escravidão é uma\nverdadeira mancha. Essa consciência resulta da mistura\nde duas correntes diversas: o arrependimento dos\ndescendentes de senhores e a afinidade de sofrimento\ndos herdeiros de escravos.\n\nNABUCO, J. O abolicionismo. Disponível em: www.dominiopublico.gov.br.\nAcesso em: 12 out. 2011 (adaptado).\n\nTEXTO II\n\nJoaquim Nabuco era bom de marketing. Como\nverdadeiro estrategista, soube trabalhar nos bastidores\npara impulsionar a campanha abolicionista, utilizando com\nmaestria a imprensa de sua época. Criou repercussão\ninternacional para a causa abolicionista, publicando\nem jornais estrangeiros lidos e respeitados pelas elites\nbrasileiras. Com isso, a campanha ganhou vulto e a\nescravidão se tornou um constrangimento, uma vergonha\nnacional, caminhando assim para o seu fim.\n\nCOSTA e SILVA, P. Um abolicionista bom de marketing. Disponível em:\nwww.revistadehistoria.com.br. Acesso em: 27 jan. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Segundo Joaquim Nabuco, a solução do problema\nescravista no Brasil ocorreria como resultado da:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evolução moral da sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Vontade política do Imperador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Atuação isenta da Igreja Católica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ineficácia econômica do trabalho escravo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Implantação nacional do movimento republicano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

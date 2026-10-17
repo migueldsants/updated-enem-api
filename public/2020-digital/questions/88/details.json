@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2020 - Digital",
+    "index": 88,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No aluir das paredes, no ruir das pedras, no esfacelar do barro, havia um longo gemido.\nEra o gemido soturno e lamentoso do Passado, do Atraso, do Opróbrio. A cidade colonial,\nimunda, retrógrada, emperrada nas velhas tradições, estava soluçando no soluçar daqueles\napodrecidos materiais que desabavam. Mas o hino claro das picaretas abafava esse projeto\nimpotente. Com que alegria cantavam elas — as picaretas regeneradoras! E como as almas\ndos que ali estavam compreendiam o que elas diziam, no clamor incessante e rítmico,\ncelebrando a vitória da higiene, do bom gosto e da arte.\n\nBILAC, O. Crônica (1904).Apud SEVCENKO, N. Literatura como missão: tensões sociais e criação cultural na Primeira\nRepública. São Paulo: Brasiliense, 1995.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, a “picareta regeneradora” do alvorecer do século XX significava a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "erradicação dos símbolos monárquicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "restauração das edificações seculares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "interrupção da especulação imobiliária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reconstrução das moradias populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reestruturação do espaço urbano.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

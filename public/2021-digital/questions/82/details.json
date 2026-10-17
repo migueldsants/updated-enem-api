@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2021 - Digital",
+    "index": 82,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Sócrates: “Quem não sabe o que uma coisa é, como poderia saber de que tipo de\ncoisa ela é? Ou te parece ser possível alguém que não conhece absolutamente quem é\nMênon, esse alguém saber se ele é belo, se é rico e ainda se é nobre? Parece-te ser isso\npossível? Assim, Mênon, que coisa afirmas ser a virtude?”.\n\nPLATÃO. Mênon. Rio de Janeiro: PUC-Rio; São Paulo: Loyola, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A atitude apresentada na interlocução do filósofo com Mênon é um exemplo da utilização\ndo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "escrita epistolar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "método dialético.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "linguagem trágica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "explicação fisicalista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "suspensão judicativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

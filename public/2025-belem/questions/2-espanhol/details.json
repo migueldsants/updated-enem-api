@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 2,
+    "year": 2025,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Días atrás, conversar con un especialista sobre el acoso\nescolar, me dio luces sobre qué hacer si en la familia hallamos\nalguien que ejerce esa agresión sobre un compañero. El experto,\nsin temor a dudas, afirma que detrás de las conductas del\nniño hostigador se hallan hogares expuestos a un contexto de\nviolencia, problemas sobre permisividad, donde los padres no\nnorman límites en el actuar y la conducta de sus hijos.\n\nEl acoso escolar, en muchos de los casos, conduce — a\nquienes lo sufren — a la depresión e incluso algo peor. Entonces,\ncomo padres, hermanos, amigos y personas que repudiamos este\naccionar, debemos trabajar para disminuir el mal, demostrar con\nejemplo cómo es una convivencia sana con el entorno; dejar de\nnormalizar la violencia; enseñar a que antes de grabar un hecho\nde este tipo — sólo para tener “likes”— debemos intervenir\ny hacer entender que la violencia es reflejo de debilidad de\nquien la ejerce.\n\nDisponível em: www.lostiempos.com. Acesso em: 1 dez. 2018.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse texto, que trata sobre o problema do bullying nas escolas,\nao usar a expressão “me dio luces”, o autor refere-se ao momento\nem que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "compreendeu a importância de se olhar o contexto familiar do agressor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "entendeu a relevância de se oferecer às vítimas tratamento para depressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "constatou a urgência de se repudiar o comportamento abusivo entre crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reconheceu o valor de se consultar a opinião de especialistas sobre o assunto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "identificou a necessidade de se coibir a divulgação de vídeos de agressão na internet.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

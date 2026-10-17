@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2021 - Digital",
+    "index": 171,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando\nsuas idades, e organizou esses dados no gráfico.\n\n![](https://enem.dev/2021-digital/questions/171/685a203a-8c88-468c-a0fd-ff876963a0e6.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/171/685a203a-8c88-468c-a0fd-ff876963a0e6.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a média das idades, em ano, desses alunos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "19",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

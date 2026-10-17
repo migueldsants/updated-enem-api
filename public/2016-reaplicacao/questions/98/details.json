@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2016 - Reaplicação",
+    "index": 98,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O passado na tela do computador\n\nUm dos desafios do novo Museu da Imigração\né se contrapor à imagem deixada pela exibição\ndo acervo permanente na época do Memorial do\nImigrante, muito criticada por dar ênfase demasiada\naos imigrantes estrangeiros e pouca atenção aos\nbrasileiros. Era uma representação desproporcional em\nrelação aos números: dos 3,5 milhões de pessoas que\npassaram pela hospedaria de imigrantes de São Paulo,\naproximadamente 1,9 milhão eram estrangeiras (de 75\nnacionalidades e etnias) e 1,6 milhão eram brasileiras,\noriundas, principalmente, dos estados nordestinos.\n\nHEBMÜLLER, P. Problemas brasileiros, n. 414, nov.-dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O autor do texto sobre a digitalização do acervo do novo\nMuseu da Imigração apresenta a ênfase no imigrante\nestrangeiro como um problema de representação\nequivocada da imigração em São Paulo. Para tanto,\nfundamenta seu ponto de vista no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "panorama apresentado como a atual realidade do imigrante em São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uso da tecnologia para aprimorar a imagem do imigrante em São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diferença entre o Memorial do Imigrante e os demais museus existentes em São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diversidade de nacionalidades e etnias como parâmetro da imigração em São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desequilíbrio nas representações usuais dos imigrantes em São Paulo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

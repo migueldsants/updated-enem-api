@@ -1,0 +1,46 @@
+{
+    "title": "Questão 45 - ENEM 2014 - Terceira aplicação",
+    "index": 45,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Precipitação total e temperatura média mensal 1961-1990\n\n(ºC)\n\n350,0 28,0\n\n26,0\n300,0\n24,0\n250,0\n22,0\n200,0 20,0\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/45/05f5255f-35a4-42bb-b8c7-e6831054dcf5.png)\n\n150,0 18,0\n\n16,0\n100,0\n14,0\nPrecipitação (mm)50,0\n12,0\n\n0,0 10,0\n\n1 2 3 4 5 6 7 8 9 10 11 12\n\nMeses\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/45/032b1399-fed0-4077-b101-8e1f3a4c12fb.png)\n\nINMET. Normais climatológicas do Brasil 1961-1990 . Disponível em: www.lce.esalq.usp.br. Acesso em: 20 out. 2011 adaptado .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/45/05f5255f-35a4-42bb-b8c7-e6831054dcf5.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/45/032b1399-fed0-4077-b101-8e1f3a4c12fb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A relação entre precipitação e temperatura apresentada indica tratar-se de um clima",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tropical, com duas estações bem definidas, uma seca e outra chuvosa, temperaturas médias mensais elevadas, amplitudes térmicas anuais acentuadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "temperado, com chuvas bem distribuídas durante o ano, temperaturas quentes no verão e frias no inverno e amplitudes térmicas anuais acentuadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "equatorial, com ocorrência de chuvas em todos os meses do ano, com temperaturas mensais elevadas e amplitudes térmicas anuais baixas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "subtropical, com chuvas bem distribuídas ao longo do ano, temperaturas com médias baixas no inverno e elevadas no verão e amplitudes térmicas anuais acentuadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tropical de altitude, com chuvas concentradas no verão, temperaturas médias anuais baixas e amplitudes térmicas medianas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

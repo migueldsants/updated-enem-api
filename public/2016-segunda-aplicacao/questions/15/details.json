@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2016 - Segunda aplicação",
+    "index": 15,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ações de educação patrimonial são realizadas\nem diferentes contextos e localidades e têm mostrado\nresultados surpreendentes ao trazer à tona a autoestima\ndas comunidades. Em alguns casos, promovem o\ndesenvolvimento local e indicam soluções inovadoras\nde reconhecimento e salvaguarda do patrimônio cultural\npara muitas populações.\n\nPELEGRINI, S. C. A.; PINHEIRO, A. P. (Orgs.). Tempo, memória e\npatrimônio cultural. Piauí: Edupi, 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A valorização dos bens mencionados encontra-se\ncorrelacionada a ações educativas que promovem a(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evolução de atividades artesanais herdadas do passado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "representações sociais formadoras de identidades coletivas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "mobilizações políticas criadoras de tradições culturais urbanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hierarquização de festas folclóricas praticadas por grupos locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "formação escolar dos jovens para o trabalho realizado nas comunidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2013 - Reaplicação",
+    "index": 125,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Uma língua é um sistema social reconhecível em\ndiferentes variedades e nos muitos usos que as pessoas\nfazem dela em múltiplas situações de comunicação. O\ntexto que se apresenta na variedade padrão formal da\n\n![](https://enem.dev/2013-reaplicacao/questions/125/6105461a-94d8-4c1c-816f-387e2595a2bf.png)\n\nlíngua é",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/125/6105461a-94d8-4c1c-816f-387e2595a2bf.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quando você quis eu não quis\nQdo eu quis você ñ quis",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pensando mal quase q fui Feliz (Cacaso)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "— Tá louco, bicho, vou cair fora! — Mas, qual é, rapaz?! Uma simples operação de apendicite! (Ziraldo)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "e, azul, tive uma ideia clara. Só existe um segredo. Tudo está na cara. (Paulo Leminski)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "comigo eu calo comigo eu canto eu bato um papo eu bato um ponto eu tomo um drink eu fico tonto. (Chacal)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "por entre os dedos. Escapa o fio, perdeu-se o tempo. (Henriqueta Lisboa)",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2016 - Segunda aplicação",
+    "index": 82,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O petróleo é um tipo de combustível fóssil, de\norigem animal e vegetal, constituído principalmente por\nhidrocarbonetos. Em desastres de derramamento de\npetróleo, vários métodos são usados para a limpeza\ndas áreas afetadas. Um deles é a biodegradação por\npopulações naturais de microrganismos que utilizam\no petróleo como fonte de nutrientes. O quadro mostra\na composição química média das células desses\nmicrorganismos.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/82/e29dec5c-3344-46b8-933b-9d0fa5ad9802.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/82/e29dec5c-3344-46b8-933b-9d0fa5ad9802.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para uma efetiva biodegradação, a região afetada deve\nser suplementada com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nitrogênio e fósforo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "hidrogênio e fósforo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "carbono e nitrogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "carbono e hidrogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nitrogênio e hidrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

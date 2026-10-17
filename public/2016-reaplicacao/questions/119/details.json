@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2016 - Reaplicação",
+    "index": 119,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Pedra sobre pedra\n\nAlgumas fazendas gaúchas ainda preservam as\ntaipas, muros de pedra para cercar o gado. Um tipo de\ncerca primitiva. Não há nada que prenda uma pedra na\noutra, cuidadosamente empilhadas com altura de até um\nmetro. Engenharia simples que já dura 300 anos. A mesma\ntécnica usada no mangueirão, uma espécie de curral\nonde os animais ficavam confinados à noite. As taipas são\natribuídas aos jesuítas. O objetivo era domar o gado xucro\nsolto nos campos pelos colonizadores espanhóis.\n\nFERRI, M. Revista Terra da Gente, n. 96, abr. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um texto pode combinar diferentes funções de linguagem.\nExemplo disso é Pedra sobre pedra, que se vale da\nfunção referencial e da metalinguística. A metalinguagem\né estabelecida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "por tempos verbais articulados no presente e no pretérito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pelas frases simples e referência ao ditado “não ficará pedra sobre pedra”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pela linguagem impessoal e objetiva, marcada pela terceira pessoa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pela definição de termos como “taipa” e “mangueirão”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "por adjetivos como “primitivas” e “simples”, indicando o ponto de vista do autor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

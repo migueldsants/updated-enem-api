@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2014 - Terceira aplicação",
+    "index": 67,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um tipo de radar utilizado para medir a velocidade\nde um carro baseia-se no efeito Doppler. Nesse caso,\nas ondas eletromagnéticas são enviadas pelo radar e\nrefletem no veículo em movimento e, posteriormente, são\ndetectadas de volta pelo radar.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um carro movendo-se em direção ao radar reflete ondas com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "altura menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "amplitude menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "frequência maior.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "intensidade maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "velocidade maior.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

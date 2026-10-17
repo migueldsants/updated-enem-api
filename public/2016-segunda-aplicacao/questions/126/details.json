@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2016 - Segunda aplicação",
+    "index": 126,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/126/f5e47860-338b-4acb-97c4-b8eebec0428a.png)\n\nDisponível em: www.ideiasustentavel.com.br. Acesso em: 30 maio 2016 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/126/f5e47860-338b-4acb-97c4-b8eebec0428a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A importância da preservação do meio ambiente para a\nsaúde é ressaltada pelos recursos verbais e não verbais\nutilizados nessa propaganda da SOS Mata Atlântica.\nNo texto, a relação entre esses recursos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "condiciona o entendimento das ações da SOS Mata Atlântica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estabelece contraste de informações na propaganda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "é fundamental para a compreensão do significado da mensagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "oferece diferentes opções de desenvolvimento temático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "propõe a eliminação do desmatamento como suficiente para a preservação ambiental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

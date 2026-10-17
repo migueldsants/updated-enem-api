@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2014 - Terceira aplicação",
+    "index": 14,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 2010, de acordo com o IBGE, a expectativa de\nvida do brasileiro era de 73,5 anos e mantinha-se uma\ngrande disparidade entre a expectativa de vida masculina\ne feminina. As mulheres viviam, em média, 77,3 anos e os\nhomens, 69,7 anos.\n\nDisponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 fragmento .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A disparidade mencionada no texto associa-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à maior mortalidade violenta de jovens do sexo masculino.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ao trabalho mais intenso dos homens em relação às mulheres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à falta de um sistema de saúde universal que atenda ambos os sexos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ao menor tempo de trabalho exigido para a aposentadoria das mulheres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a melhores condições físicas de saúde das mulheres em relação aos homens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

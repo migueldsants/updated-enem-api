@@ -1,0 +1,43 @@
+{
+    "title": "Questão 72 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 72,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É que o espírito de comércio traz consigo o espírito de\nfrugalidade, de economia, de moderação, de trabalho,\nde sabedoria, de tranquilidade, de ordem e de regra. Assim,\nenquanto subsiste este espírito, as riquezas que ele produz não\ntêm nenhum mau efeito.\n\nMONTESQUIEU. O Espírito das Leis. São Paulo: Martins Fontes, 1996.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A doutrina econômica que se articula com as proposições\ndefendidas no texto denomina-se:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Socialismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Liberalismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Fisiocratismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Keynesianismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Regulacionismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

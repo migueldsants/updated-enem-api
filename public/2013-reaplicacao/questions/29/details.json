@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2013 - Reaplicação",
+    "index": 29,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Há cinco anos as plantações de algodão de Burkina\nFaso, as maiores da África Ocidental, vêm sendo\ncontaminadas por organismos geneticamente modificados\n(OGMs). E ao que tudo indica, o país é apenas o ponto\nde partida para a expansão dessa tecnologia, que traz\nenormes benefícios às empresas.\n\nGÉRARD, F. O pesado jogo dos transgênicos [2009]. Disponível em: www.diplomatique.org.br.\n\nAcesso em: 19 mar. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com relação ao lucro obtido pelas empresas produtoras\ndos organismos geneticamente modificados, este tende a\nser maximizado por meio do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "propriedade intelectual, que rende royalties sobre as patentes de sementes e insumos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "produção das sementes e insumos nos países consumidores, acarretando economia em logística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "elaboração de produtos adaptados às culturas específicas, abandonando as vendas de produtos uniformizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "manutenção, nos países menos desenvolvidos, de grandes fazendas voltadas para o abastecimento interno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cultivo de plantas com maiores índices de produtividade, o que lhes renderia maior publicidade no combate à fome.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2016 - Segunda aplicação",
+    "index": 3,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "[...] O SERVIDOR — Diziam ser filho do rei...\n\nÉDIPO — Foi ela quem te entregou a criança?\n\nO SERVIDOR — Foi ela, Senhor.\n\nÉDIPO — Com que intenção?\n\nO SERVIDOR — Para que eu a matasse.\n\nÉDIPO — Uma mãe! Mulher desgraçada!\n\nO SERVIDOR — Ela tinha medo de um oráculo dos\ndeuses.\n\nÉDIPO — O que ele anunciava?\n\nO SERVIDOR — Que essa criança um dia mataria\nseu pai.\n\nÉDIPO — Mas por que tu a entregaste a este homem?\n\nO SERVIDOR — Tive piedade dela, mestre. Acreditei\nque ele a levaria ao país de onde vinha. Ele te salvou a\nvida, mas para os piores males! Se és realmente aquele\nde quem ele fala, saibas que nasceste marcado pela\ninfelicidade.\n\nÉDIPO — Oh! Ai de mim! Então no final tudo seria\nverdade! Ah! Luz do dia, que eu te veja aqui pela última\nvez, já que hoje me revelo o filho de quem não devia\nnascer, o esposo de quem não devia ser, o assassino de\nquem não deveria matar!\n\nSÓFOCLES. Édipo Rei. Porto Alegre: L&PM, 2011.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O trecho da obra de Sófocles, que expressa o núcleo da\ntragédia grega, revela o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "condenação eterna dos homens pela prática injustificada do incesto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "legalismo estatal ao punir com a prisão perpétua o crime de parricídio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "busca pela explicação racional sobre os fatos até então desconhecidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "caráter antropomórfico dos deuses na medida em que imitavam os homens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "impossibilidade de o homem fugir do destino predeterminado pelos deuses.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2016 - Segunda aplicação",
+    "index": 131,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/131/08ed9b5a-de7c-4b13-8927-2ff32959a1ec.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/131/08ed9b5a-de7c-4b13-8927-2ff32959a1ec.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Entre as funções de um cartaz, está a divulgação de\ncampanhas. Para cumprir essa função, as palavras e as\nimagens desse cartaz estão combinadas de maneira a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evidenciar as formas de contágio da tuberculose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mostrar as formas de tratamento da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "discutir os tipos da doença com a população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alertar a população em relação à tuberculose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "combater os sintomas da tuberculose.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

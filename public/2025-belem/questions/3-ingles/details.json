@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 3,
+    "year": 2025,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025-belem/questions/3-ingles/4cff66f2-9baf-4ef8-baa3-745bfb68f088.png)\n\nAcesso em: 2 out. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/3-ingles/4cff66f2-9baf-4ef8-baa3-745bfb68f088.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse cartum, que ilustra uma situação escolar, busca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "revelar a imaturidade emocional dos estudantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "criticar o imediatismo da sociedade contemporânea.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "apontar a hierarquização das relações educacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "denunciar o sucateamento dos recursos tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evidenciar a desatualização dos métodos pedagógicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

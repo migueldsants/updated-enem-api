@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 133,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um circuito é utilizado para determinar a tensão da bateria, representada na figura pela letra V. Os dispositivos numerados\nde 1 a 4 apresentam resistência desprezível à passagem de corrente e, quando percorridos por uma corrente igual ou superior\nao valor limiar, passam a emitir luz. O projeto representado no diagrama pode ser usado para avaliar a tensão, verificando-se\nquantos dispositivos acendem. Nele, todos os dispositivos são idênticos, e a corrente limiar é de 25 mA.\n\n![](https://enem.dev/2025-belem/questions/133/37af6138-e254-4c90-bece-41663b29ce29.png)\n\nUm estudante utilizou inicialmente uma bateria de 9 V no circuito (situação A) e depois a substituiu por uma bateria\nde 12 V (situação B).\n\nManual de operação e instalação. Disponível em: www.renesola.com.br. Acesso em: 30 nov. 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/133/37af6138-e254-4c90-bece-41663b29ce29.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em cada situação, quais dispositivos acenderam?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 2 nas duas situações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3 e 4 nas duas situações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1, 2, 3 e 4 nas duas situações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 e 2 na situação A; e 1, 2 e 3 na situação B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1, 2 e 3 na situação A; e 1 e 2 na situação B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

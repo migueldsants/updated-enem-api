@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2013 - Reaplicação",
+    "index": 13,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Fronteira. Condição antidemocrática de existência\ndas democracias, distinguindo os cidadãos dos\nestrangeiros, afirma que não pode haver democracia sem\nterritório. Em princípio, portanto, nada de democracia sem\nfronteiras. E, no entanto, as fronteiras perdem o sentido\nno que diz respeito às mercadorias, aos capitais, aos\nhomens e às informações que as atravessam. As nações\nnão podem mais ser definidas por fronteiras rígidas. Será\nnecessário aprender a construir nações sem fronteiras,\nautorizando a filiação a várias comunidades, o direito de\nvoto múltiplo, a multilealdade.\n\nATTALI, J. Dicionário do século XXI. Rio de Janeiro: Record, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, a análise da relação entre democracia, cidadania\ne fronteira apresenta sob uma perspectiva crítica a\nnecessidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reestruturação efetiva do Estado-nação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "liberalização controlada dos mercados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contestação popular do voto censitário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "garantia jurídica da lealdade nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "afirmação constitucional dos territórios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

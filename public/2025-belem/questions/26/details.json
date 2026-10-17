@@ -1,0 +1,45 @@
+{
+    "title": "Questão 26 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 26,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os movimentos feministas no mundo e no esporte, incluindo\na participação cada vez mais significativa de mulheres no\nMovimento Olímpico, fizeram com que o número das atletas\nnas competições aumentasse gradualmente até chegar à tão\nesperada proporção de 50/50 em 2024. A tabela apresenta os\nnúmeros ao longo dos últimos cem anos.\n\nPercentual de atletas por sexo nos Jogos Olímpicos\n\n![](https://enem.dev/2025-belem/questions/26/919240bf-3342-4536-b361-f0757eecb36b.png)\n\nPara tornar possíveis todos os avanços, as mudanças\nprecisaram acontecer também fora das arenas. A representação\ndas mulheres no Conselho Executivo do Comitê Olímpico\nInternacional aumentou em 6,7% com a Agenda Olímpica de\nTóquio 2020, e, desde 2022, 50% dos cargos de membros das\ncomissões do Comitê são ocupados por mulheres.\n\nDisponível em: https://ge.globo.com. Acesso em: 6 set. 2024 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/26/919240bf-3342-4536-b361-f0757eecb36b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O aumento da participação das mulheres nos Jogos Olímpicos\nestá relacionado ao legado dos movimentos feministas.\nEssa mudança tem sido possível em razão do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "busca pela igualdade de gênero em diferentes instâncias do esporte olímpico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "aumento acelerado da participação de mulheres nas edições dos Jogos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "relevância dos megaeventos esportivos no fomento à diversidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "movimento de comitês olímpicos nacionais de diferentes países.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alternância dos países-sede na condução do megaevento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

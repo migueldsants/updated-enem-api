@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2016 - Reaplicação",
+    "index": 54,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Climatério é o nome de um estágio no processo de\namadurecimento de determinados frutos, caracterizado\npelo aumento do nível da respiração celular e do gás\netileno (C₂H₄). Como consequência, há o escurecimento\ndo fruto, o que representa a perda de muitas toneladas de\nalimentos a cada ano.\n\nÉ possível prolongar a vida de um fruto climatérico\npela eliminação do etileno produzido. Na indústria,\nutiliza-se o permanganato de potássio (KMnO₄) para\noxidar o etileno a etilenoglicol (HOCH₂CH₂OH), sendo o\nprocesso representado de forma simplificada na equação:\n2KMnO₄+3C₂H₄ + 4 H₂O→2MnO₂+3HOCH₂CH₂OH+2KOH\n\nO processo de amadurecimento começa quando a\nconcentração de etileno no ar está em cerca de 1,0 mg\nde C₂H₄ por kg de ar.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As massas molares dos elementos H, C, O, K e Mn\nsão, respectivamente, iguais a 1 g/mol, 12 g/mol, 16 g/mol,\n39 g/mol e 55 g/mol.\nA fim de diminuir essas perdas, sem desperdício de\nreagentes, a massa mínima de KMnO₄ por kg de ar é mais\npróxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,7 mg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,0 mg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,8 mg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5,6 mg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8,5 mg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

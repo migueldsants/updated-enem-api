@@ -1,0 +1,46 @@
+{
+    "title": "Questão 64 - ENEM 2014 - Terceira aplicação",
+    "index": 64,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro a seguir refere-se aos grupos sanguíneos humanos e seus respectivos genótipos, e o esquema seguinte\nrepresenta as possibilidades de doação entre esses diferentes grupos.\n\nA\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/64/07d18298-4d11-4dbd-acd7-8428aba348b3.png)\n\nB\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/64/9ab98254-c780-4365-a360-148e9e13b361.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/64/07d18298-4d11-4dbd-acd7-8428aba348b3.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/64/9ab98254-c780-4365-a360-148e9e13b361.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um casal tem três filhos, sendo um do grupo A, outro do grupo B e o terceiro do grupo O. Considerando-se somente o\nsistema ABO para fins de tranfusão sanguínea, a probabilidade de o casal dar à luz uma menina que no futuro possa\ndoar sangue para todos seus irmãos é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "75,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "37,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12,5%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

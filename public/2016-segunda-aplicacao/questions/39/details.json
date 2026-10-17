@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2016 - Segunda aplicação",
+    "index": 39,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nAté aqui expus a natureza do homem (cujo orgulho e\noutras paixões o obrigaram a submeter-se ao governo),\njuntamente com o grande poder do seu governante,\no qual comparei com o Leviatã, tirando essa comparação\ndos dois últimos versículos do capítulo 41 de Jó, onde\nDeus, após ter estabelecido o grande poder do Leviatã,\nlhe chamou Rei dos Soberbos. Não há nada na Terra,\ndisse ele, que se lhe possa comparar.\n\nHOBBES, T. O Leviatã. São Paulo: Martins Fontes, 2003.\n\nTEXTO II\n\nEu asseguro, tranquilamente, que o governo civil é a\nsolução adequada para as inconveniências do estado de\nnatureza, que devem certamente ser grandes quando os\nhomens podem ser juízes em causa própria, pois é fácil\nimaginar que um homem tão injusto a ponto de lesar o\nirmão dificilmente será justo para condenar a si mesmo\npela mesma ofensa.\n\nLOCKE, J. Segundo tratado sobre o governo civil. Petrópolis: Vozes, 1994.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Thomas Hobbes e John Locke, importantes teóricos\ncontratualistas, discutiram aspectos ligados à natureza\nhumana e ao Estado. Thomas Hobbes, diferentemente de\nJohn Locke, entende o estado de natureza como um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "condição de guerra de todos contra todos, miséria universal, insegurança e medo da morte violenta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "organização pré-social e pré-política em que o homem nasce com os direitos naturais: vida, liberdade, igualdade e propriedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "capricho típico da menoridade, que deve ser eliminado pela exigência moral, para que o homem possa constituir o Estado civil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "situação em que os homens nascem como detentores de livre-arbítrio, mas são feridos em sua livre decisão pelo pecado original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estado de felicidade, saúde e liberdade que é destruído pela civilização, que perturba as relações sociais e violenta a humanidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

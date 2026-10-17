@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2012 - Reaplicação",
+    "index": 117,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Devemos dar apoio emocional específico, trabalhando\no sentimento de culpa que as mães têm de infectar o filho.\nO principal problema que vivenciamos é quanto ao\naleitamento materno. Além do sentimento muito forte\nmanifestado pelas gestantes de amamentar seus filhos,\nexistem as cobranças da família, que exige explicações\npela recusa em amamentar, sem falar nas companheiras\nna maternidade que estão amamentando. Esses conflitos\nconstituem nosso maior desafio. Assim, criamos a técnica\nde mamadeirar. O que é isso? É substituir o seio materno\npor amor, oferecendo a mamadeira, e não o peito!\n\nPADOIN, S. M. M. et al. (Org.) Experiências interdisciplinares em Aids:\ninterfaces de uma epidemia. Santa Maria: UFSM, 2006 (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/117/d289432a-6937-41b1-9e36-a193460431f1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto é o relato de uma enfermeira no cuidado de\ngestantes e mães soropositivas. Nesse relato, em meio ao\ndrama de mães que não devem amamentar seus recém-\nnascidos, observa-se um recurso da língua portuguesa,\npresente no uso da palavra “mamadeirar”, que consiste",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na manifestação do preconceito linguístico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "na recorrência a um neologismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "no registro coloquial da linguagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na expressividade da ambiguidade lexical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/117/d289432a-6937-41b1-9e36-a193460431f1.png",
+            "isCorrect": false
+        }
+    ]
+}

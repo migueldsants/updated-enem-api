@@ -1,0 +1,46 @@
+{
+    "title": "Questão 146 - ENEM 2014 - Terceira aplicação",
+    "index": 146,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um pequeno comerciante pretende aplicar R$ 60 000,00\nem ações na Bolsa de Valores. O quadro seguinte traz\nalgumas das opções de investimento.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/146/e8fdc632-9d54-48ec-b1e7-524ebf8c4caf.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/146/e8fdc632-9d54-48ec-b1e7-524ebf8c4caf.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/146/6398f2de-c4b4-434a-bd15-830962258ce8.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dentre as opções apresentadas no quadro, a melhor\naplicação para esse montante de dinheiro é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "BBBT",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "BGT Capital",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "IKPQ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "JGPF",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/146/6398f2de-c4b4-434a-bd15-830962258ce8.png",
+            "isCorrect": false
+        }
+    ]
+}

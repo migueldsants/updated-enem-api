@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2014 - Terceira aplicação",
+    "index": 130,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Em todas as datas cívicas a máquina é agora uma\nparte importante das festividades. Você se lembra que\nantigamente os feriados eram comemorados no coreto\nou no campo de futebol, mas hoje tudo se passa ao pé\nda máquina. Em tempo de eleição todos os candidatos\nquerem fazer seus comícios à sombra dela, e como\nisso não é possível, alguém tem de sobrar, nem todos\nse conformam e sempre surgem conflitos. Felizmente a\nmáquina ainda não foi danificada nesses esparramos, e\nespero que não seja.\n\nA única pessoa que ainda não rendeu homenagem\nà máquina é o vigário, mas você sabe como ele é\nranzinza, e hoje mais ainda, com a idade. Em todo caso,\nainda não tentou nada contra ela, e ai dele. Enquanto\nficar nas censuras veladas, vamos tolerando; é um\ndireito que ele tem.\n\nVEIGA, J. J. A máquina extraviada. In: MORICONI, I. Os cem melhores contos brasileiros\n\ndo século. Rio de Janeiro: Objetiva, 2000 fragmento .\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/130/67322b89-2bef-4d83-9311-174837fcf10b.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/130/67322b89-2bef-4d83-9311-174837fcf10b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A presença do inusitado ou do fantástico na vida cotidiana\né frequente na obra de José J. Veiga. No fragmento,\na situação de singularidade experimentada pelas\npersonagens constrói-se a partir do",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "afastamento da religião tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "medo crescente diante da tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desrespeito político em âmbito municipal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "impacto sociocultural das inovações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "conflito entre diferentes classes sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

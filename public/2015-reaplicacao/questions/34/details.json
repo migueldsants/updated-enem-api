@@ -1,0 +1,45 @@
+{
+    "title": "Questão 34 - ENEM 2015 - Reaplicação",
+    "index": 34,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/34/8c8fb933-70a8-4d5f-a064-a6eb19e9b37d.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/34/8c8fb933-70a8-4d5f-a064-a6eb19e9b37d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A distribuição do consumo de energia elétrica per capita, verificada no cartograma, é resultado da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "extensão territorial dos Estados-nação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diversificação da matriz energética local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "capacidade de integração política regional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "proximidade com áreas de produção de petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "instalação de infraestrutura para atender à demanda.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

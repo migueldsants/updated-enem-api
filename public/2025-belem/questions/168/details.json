@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 168,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico apresenta as quantidades mensais vendidas de\num item produzido por uma indústria no primeiro semestre\ndeste ano, em milhar de unidades.\n\n![](https://enem.dev/2025-belem/questions/168/84a7e05a-1be7-49f9-8ee2-3abb00c18758.png)\n\nA partir do mês de março, observa-se o crescimento das\nvendas até o mês de maio e uma queda no mês de junho, que se\nexplica pela falta de matéria-prima que ocorreu na primeira\nsemana daquele mês. Caso essa falta de matéria-prima não\ntivesse ocorrido, a estimativa feita pela gerência é de que as\nvendas mensais desse item continuariam a crescer linearmente,\nmantendo o padrão de crescimento observado no período de\nmarço a maio nos demais meses do ano.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/168/84a7e05a-1be7-49f9-8ee2-3abb00c18758.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A estimativa feita para as vendas desse item no mês de julho,\nem milhar de unidades, antes da queda registrada no mês de\njunho, foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "500.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "600.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "700.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "900.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

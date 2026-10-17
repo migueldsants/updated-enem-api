@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2014 - Reaplicação",
+    "index": 131,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Contam, numa anedota, que certo dia Rui Barbosa\nsaiu às ruas da cidade e se assustou com a quantidade\nde erros existentes nas placas das casas comerciais\ne que, diante disso, resolveu instituir um prêmio em\ndinheiro para o comerciante que tivesse o nome de seu\nestabelecimento grafado corretamente. Dias depois,\nRui Barbosa saiu à procura do vencedor. Satisfeito,\nencontrou a placa vencedora: “Alfaiataria Águia de Ouro”.\nNo momento da entrega do prêmio, ao dizer o nome da\nalfaiataria, Rui Barbosa foi interrompido pelo alfaiate\npremiado, que disse:\n\n— Sr. Rui, não é “águia de ouro”; é “aguia de ouro”!\n\nO caráter político do ensino de língua portuguesa no Brasil. Disponível em:\nhttp://rosabe.sites.uol.com.br. Acesso em: 2 ago. 2012.\n\n![](https://enem.dev/2014-reaplicacao/questions/131/f6e120f7-ed48-440e-a202-cbe8495b26fc.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/131/f6e120f7-ed48-440e-a202-cbe8495b26fc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A variação linguística afeta o processo de produção dos\nsentidos no texto. No relato envolvendo Rui Barbosa, o\nemprego das marcas de variação objetiva",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evidenciar a importância de marcas linguísticas valorizadoras da linguagem coloquial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "demonstrar incômodo com a variedade característica de pessoas pouco escolarizadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estabelecer um jogo de palavras a fim de produzir efeito de humor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "criticar a linguagem de pessoas originárias de fora dos centros urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estabelecer uma política de incentivo à escrita correta das palavras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2020 - Digital",
+    "index": 141,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Segundo indicação de um veterinário, um cão de pequeno porte, nos dois primeiros\nmeses de vida, deverá ser alimentado diariamente com 50 g de suplemento e tomar banho\nquatro vezes por mês. O dono de um cão de pequeno porte, seguindo orientações desse\nveterinário, utilizou no primeiro mês os produtos/serviços de um determinado pet shop, em que\nos preços estão apresentados no quadro.\n\n![](https://enem.dev/2020-digital/questions/141/0ea41379-a83c-4576-bd6e-e7d116835785.png)\n\nNo mês subsequente, o fabricante reajustou o preço do suplemento, que, nesse pet shop,\npassou a custar R$ 9,00 cada pacote de 500 g. Visando manter o mesmo gasto mensal para o\ndono do cão, o gerente do pet shop decidiu reduzir o preço unitário do banho. Para efeito de\ncálculos, considere o mês comercial de 30 dias.\n\nDisponível em: http://carodinheiro.blogfolha.uol.com.br. Acesso em: 20 jan. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/141/0ea41379-a83c-4576-bd6e-e7d116835785.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, o valor unitário do banho, em real, passou a ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "27,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "29,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "29,25.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "29,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "29,75.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2013 - Reaplicação",
+    "index": 112,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Mar português\n\nÓ mar salgado, quanto do teu sal\nSão lágrimas de Portugal!\nPor te cruzarmos, quantas mães choraram,\nQuantos filhos em vão rezaram!\nQuantas noivas ficaram por casar\nPara que fosses nosso, ó mar!\n\nValeu a pena? Tudo vale a pena\nSe a alma não é pequena.\nQuem quer passar além do Bojador\nTem que passar além da dor.\nDeus ao mar o perigo e o abismo deu,\nMas nele é que espelhou o céu.\n\nPESSOA, F. Mensagens. São Paulo: Difel, 1986.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nos versos 1 e 2, a hipérbole e a metonímia foram\nutilizadas para subverter a realidade. Qual o objetivo\ndessa subversão para a constituição temática do poema?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Potencializar a importância dos feitos lusitanos durante as grandes navegações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Criar um fato ficcional ao comparar o choro das mães ao choro da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reconhecer as dificuldades técnicas vividas pelos navegadores portugueses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Atribuir as derrotas portuguesas nas batalhas às fortes correntes marítimas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Relacionar os sons do mar ao lamento dos derrotados nas batalhas do Atlântico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

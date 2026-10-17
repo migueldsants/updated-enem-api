@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2016 - Reaplicação",
+    "index": 23,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nossas vidas são dominadas não só pelas inutilidades\nde nossos contemporâneos, como também pelas de\nhomens que já morreram há várias gerações. Além\ndisso, cada inutilidade ganha credibilidade e reverência\ncom cada década passada desde sua promulgação. Isso\nsignifica que cada situação social em que nos encontramos\nnão só é definida por nossos contemporâneos, como\nainda predefinida por nossos predecessores. Esse fato é\nexpresso no aforismo segundo o qual os mortos são mais\npoderosos que os vivos.\n\nBERGER, P. Perspectivas sociológicas: uma visão humanística.\nPetrópolis: Vozes, 1986 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo a perspectiva apresentada no texto, os\nindivíduos de diferentes gerações convivem, numa\nmesma sociedade, com tradições que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "permanecem como determinações da organização social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "promovem o esquecimento dos costumes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "configuram a superação de valores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sobrevivem como heranças sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "atuam como aptidões instintivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

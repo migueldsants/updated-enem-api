@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2015 - Reaplicação",
+    "index": 93,
+    "year": 2015,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "36 hours in Buenos Aires\nContemporary Argentine history is a roller coaster of\nfinancial booms and cracks, set to gripping political soap\noperas. But through all the highs and lows, one thing has\nremained constant: Buenos Aires’s graceful elegance\nand cosmopolitan cool. This attractive city continues to\ndraw food lovers, design buffs and party people with its\nriotous night life, fashion-forward styling and a favorable\nexchange rate. Even with the uncertain economy, the\ncreative energy and enterprising spirit of Porteños, as\nresidents are called, prevail — just look to the growing\nranks of art spaces, boutiques, restaurants and hotels.\n\nSINGER, P. Disponível em: www.nytimes.com. Acesso em: 30 jul. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse artigo de jornal, Buenos Aires é apresentada como\na capital argentina, que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "foi objeto de novelas televisivas baseadas em sua vida noturna e artística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "manteve sua elegância e espírito cosmopolita, apesar das crises econômicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "teve sua energia e aspecto empreendedor ofuscados pela incerteza da economia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "foi marcada historicamente por uma vida financeira estável, com repercussão na arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "parou de atrair apreciadores da gastronomia, devido ao alto valor de sua moeda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

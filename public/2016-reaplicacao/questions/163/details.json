@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2016 - Reaplicação",
+    "index": 163,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O padrão internacional ISO 216 define os tamanhos\nde papel utilizados em quase todos os países, com\nexceção dos EUA e Canadá. O formato-base é uma folha\nretangular de papel, chamada de A0, cujas dimensões\nsão 84,1 cm × 118,9 cm. A partir de então, dobra-se a\nfolha ao meio, sempre no lado maior, obtendo os demais\nformatos, conforme o número de dobraduras. Observe a\nfigura: A1 tem o formato da folha A0 dobrada ao meio uma\nvez, A2 tem o formato da folha A0 dobrada ao meio duas\n\n![](https://enem.dev/2016-reaplicacao/questions/163/13cc7858-dc9a-47f2-9020-7559d13f166a.png)\n\nAcesso em: 4 abr. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/163/13cc7858-dc9a-47f2-9020-7559d13f166a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quantas folhas de tamanho A8 são obtidas a partir de\numa folha A0?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "64",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "128",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "256",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

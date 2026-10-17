@@ -1,0 +1,46 @@
+{
+    "title": "Questão 155 - ENEM 2016 - Segunda aplicação",
+    "index": 155,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um agricultor vive da plantação de morangos que\nsão vendidos para uma cooperativa. A cooperativa faz um\ncontrato de compra e venda no qual o produtor informa a\nárea plantada.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/155/65fa2f7b-8591-4dc2-b1c8-60f65a0b0aa8.png)\n\nPara permitir o crescimento adequado das plantas, as\nmudas de morango são plantadas no centro de uma área\nretangular, de 10 cm por 20 cm, como mostra a figura.\n\n20 cm 20 cm\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/155/38f4142c-b6ad-42b3-8e34-51671242f8ec.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/155/65fa2f7b-8591-4dc2-b1c8-60f65a0b0aa8.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/155/38f4142c-b6ad-42b3-8e34-51671242f8ec.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Atualmente, sua plantação de morangos ocupa\numa área de 10 000 m², mas a cooperativa quer que ele\naumente sua produção. Para isso, o agricultor deverá\naumentar a área plantada em 20%, mantendo o mesmo\npadrão de plantio.\nO aumento (em unidade) no número de mudas de\nmorango em sua plantação deve ser de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "100 000.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "500 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "600 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

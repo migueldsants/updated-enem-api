@@ -1,0 +1,49 @@
+{
+    "title": "Questão 180 - ENEM 2014 - Reaplicação",
+    "index": 180,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O modelo matemático desenvolvido por Kirschner\ne Webb descreve a dinâmica da interação das células\nnão infectadas do sistema imunológico humano com os\nvírus HIV. Os gráficos mostram a evolução no tempo\nda quantidade de células não infectadas no sistema\nimunológico de cinco diferentes pacientes infectados\npelo vírus HIV. Quando a população das células não\ninfectadas de um sistema imunológico é extinta, o\npaciente infectado fica mais suscetível à morte, caso\ncontraia alguma outra doença.\n\nGráfico A Gráfico B\n\n3000\n3000\n2000\n2000\n\n![](https://enem.dev/2014-reaplicacao/questions/180/db45334c-1e09-4b87-9a12-042d8a719cd2.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/180/b50a2dc9-2d0e-44ee-abba-e2fde08433d3.png)\n\nCélulas/mL ₁₀₀₀ Células/mL ₁₀₀₀\n\nTempo (dias)²⁰⁰⁰³⁰⁰⁰⁴⁰⁰⁰⁰¹⁰⁰⁰Tempo (dias)²⁰⁰⁰³⁰⁰⁰⁴⁰⁰⁰\n\nGráfico C Gráfico D\n\n3000\n3000\n2000\n2000\n\n![](https://enem.dev/2014-reaplicacao/questions/180/0d2538fb-0a1d-44a8-8108-49840cee44b0.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/180/24546d6c-ffe6-475b-a302-246b2d1aefc2.png)\n\nCélulas/mL ₁₀₀₀ Células/mL ₁₀₀₀\n\nTempo (dias)²⁰⁰⁰³⁰⁰⁰⁴⁰⁰⁰⁰¹⁰⁰⁰Tempo (dias)²⁰⁰⁰³⁰⁰⁰⁴⁰⁰⁰\n\n3000\n2000\n\n![](https://enem.dev/2014-reaplicacao/questions/180/e114dcd7-37ac-4f27-80eb-40e4edb35041.png)\n\nCélulas/mL₁₀₀₀\n\nKIRSCHNER,D.E.; WEBB,G.F. Resistance, Remission,and Qualitative DifferencesinHIV\n\nChemotherapy. Emerging Infectious Diseases,v.3,n.3, 1997.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/180/db45334c-1e09-4b87-9a12-042d8a719cd2.png",
+        "https://enem.dev/2014-reaplicacao/questions/180/b50a2dc9-2d0e-44ee-abba-e2fde08433d3.png",
+        "https://enem.dev/2014-reaplicacao/questions/180/0d2538fb-0a1d-44a8-8108-49840cee44b0.png",
+        "https://enem.dev/2014-reaplicacao/questions/180/24546d6c-ffe6-475b-a302-246b2d1aefc2.png",
+        "https://enem.dev/2014-reaplicacao/questions/180/e114dcd7-37ac-4f27-80eb-40e4edb35041.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir desses dados, o sistema imunológico do\npaciente infectado que ficou mais rapidamente\nsuscetível à morte está representado pelo gráfico",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

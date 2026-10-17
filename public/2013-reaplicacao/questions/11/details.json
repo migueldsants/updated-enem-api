@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2013 - Reaplicação",
+    "index": 11,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O papel da Organização do Tratado do Atlântico Norte\n(Otan) alterou-se desde sua origem em 1949. A Otan é\numa aliança militar que se funda sobre um tratado de\nsegurança coletiva, o qual, por sua vez, indica a criação de\numa organização internacional com o objetivo de manter\na democracia, a paz e a segurança dos seus integrantes.\n\nNo começo dos anos de 1990, em função dos\nconflitos nos Bálcãs, a Otan declarou que a instabilidade\nna Europa Central afetava diretamente a segurança dos\nseus membros. Foi então iniciada a primeira operação\nmilitar fora do território dos países-membros. Desde então\nela expandiu sua área de interesse para África, Oriente\nMédio e Ásia.\n\nBERTAZZO, J. Atuação da Otan no Pós-Guerra Fria: implicações para a segurança nacional\n\ne para a ONU. Contexto Internacional, Rio de Janeiro, jan.-jun. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os objetivos dessa organização, nos diferentes períodos\ndescritos, são, respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Financiar a indústria bélica – garantir atuação global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conter a expansão socialista – realizar ataques preventivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Combater a ameaça soviética – promover auxílio humanitário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Minimizar a influência estadunidense – apoiar organismos multilaterais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reconstruir o continente devastado – assegurar estabilidade geopolítica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

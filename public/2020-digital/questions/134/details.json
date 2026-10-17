@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2020 - Digital",
+    "index": 134,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um pesquisador colocou a mesma quantidade de solução aquosa da enzima digestiva\npepsina em cinco tubos de ensaio. Em seguida, adicionou massas iguais dos alimentos\ndescritos no quadro. Os alimentos foram deixados em contato com a solução digestiva durante\no mesmo intervalo de tempo.\n\n![](https://enem.dev/2020-digital/questions/134/b9487891-a35c-4735-a8b1-ee944c4d6b9c.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/134/b9487891-a35c-4735-a8b1-ee944c4d6b9c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A maior quantidade de produtos metabolizados ao final do teste foi obtida no tubo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

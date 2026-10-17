@@ -1,0 +1,51 @@
+{
+    "title": "Questão 32 - ENEM 2022 - Digital",
+    "index": 32,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022-digital/questions/32/5bf58cec-1386-4360-93bb-7c737f186330.png)\n\n![](https://enem.dev/2022-digital/questions/32/c5e7d0fa-a4e4-4158-8160-f36300cc1f29.png)\n\n![](https://enem.dev/2022-digital/questions/32/2eda9f4a-c78b-479b-8840-0864c8a56ae5.png)\n\n![](https://enem.dev/2022-digital/questions/32/29ad39d4-7d62-47c7-84f8-110bb1eb2a7d.png)\n\n![](https://enem.dev/2022-digital/questions/32/330267e7-136d-41d3-805c-8fc5215b41d5.png)\n\n![](https://enem.dev/2022-digital/questions/32/4e3c729f-a7f8-42c1-8e77-3a2ecd5ac5f1.png)\n\n![](https://enem.dev/2022-digital/questions/32/7ad112e9-71a3-4fac-bc0e-24acfd0b5649.png)\n\nDisponível em: https://tab.uol.com.br. Acesso em: 25 ago. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/32/5bf58cec-1386-4360-93bb-7c737f186330.png",
+        "https://enem.dev/2022-digital/questions/32/c5e7d0fa-a4e4-4158-8160-f36300cc1f29.png",
+        "https://enem.dev/2022-digital/questions/32/2eda9f4a-c78b-479b-8840-0864c8a56ae5.png",
+        "https://enem.dev/2022-digital/questions/32/29ad39d4-7d62-47c7-84f8-110bb1eb2a7d.png",
+        "https://enem.dev/2022-digital/questions/32/330267e7-136d-41d3-805c-8fc5215b41d5.png",
+        "https://enem.dev/2022-digital/questions/32/4e3c729f-a7f8-42c1-8e77-3a2ecd5ac5f1.png",
+        "https://enem.dev/2022-digital/questions/32/7ad112e9-71a3-4fac-bc0e-24acfd0b5649.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto sobre os chamados nativos digitais traz informações com a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "propor ações específicas para cada etapa da infância.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "estabelecer regras que devem ser seguidas à risca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "explicar os efeitos do acesso precoce à internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "determinar a incorporação de rituais à educação dos filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "educar com base em um conjunto de estratégias formativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

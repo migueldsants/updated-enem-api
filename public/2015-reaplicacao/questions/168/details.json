@@ -1,0 +1,46 @@
+{
+    "title": "Questão 168 - ENEM 2015 - Reaplicação",
+    "index": 168,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O modelo predador-presa foi proposto de forma\nindependente por Alfred J. Lotka, em 1925, e Vito\nVolterra, em 1926. Esse modelo descreve a interação\nentre duas espécies, sendo que uma delas dispõe de\nalimentos para sobreviver (presa) e a outra se alimenta\nda primeira (predador). Considere que o gráfico\nrepresenta uma interação predador-presa, relacionando\na população do predador com a população da sua presa\nao longo dos anos.\n\n![](https://enem.dev/2015-reaplicacao/questions/168/58d11adc-50ca-4d66-b989-68b44bd4c168.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/168/b745bd52-490d-45a7-8681-5073353aafb8.png)\n\nPopulação\n\n0 10 20 30 40 50 60 70 80\nTempo (ano)\n\nDisponível em: www.eventosufrpe.com.br. Acesso em: 22 mar. 2012 (adaptado)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/168/58d11adc-50ca-4d66-b989-68b44bd4c168.png",
+        "https://enem.dev/2015-reaplicacao/questions/168/b745bd52-490d-45a7-8681-5073353aafb8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o gráfico, nos primeiros quarenta anos,\nquantas vezes a população do predador se igualou à\nda presa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

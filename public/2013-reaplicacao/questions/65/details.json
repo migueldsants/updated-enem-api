@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2013 - Reaplicação",
+    "index": 65,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A transferência de genes que poderiam melhorar o\ndesempenho esportivo de atletas saudáveis foi denominada\ndoping genético. Uma vez inserido no genoma do atleta, o\ngene se expressaria gerando um produto endógeno capaz\nde melhorar o desempenho atlético.\n\nARTOLI, G. G.; HIRATA, R. D. C.; LANCHA JR., A. H. Revista Brasileira de Medicina\nEsportiva, v. 13, n. 5, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um risco associado ao uso dessa biotecnologia é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "obtenção de baixo condicionamento físico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estímulo ao uso de anabolizantes pelos atletas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "falta de controle sobre a expressão fenotípica do atleta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aparecimento de lesões decorrentes da prática esportiva habitual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "limitação das adaptações fisiológicas decorrentes do treinamento físico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

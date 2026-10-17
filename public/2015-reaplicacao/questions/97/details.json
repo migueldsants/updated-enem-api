@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2015 - Reaplicação",
+    "index": 97,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nVoluntário\n\nRosa tecia redes, e os produtos de sua pequena\nindústria gozavam de boa fama nos arredores. A reputação\nda tapuia crescera com a feitura de uma maqueira de\ntucum ornamentada com a coroa brasileira, obra de\ningênuo gosto, que lhe valera a admiração de toda a\ncomarca e provocara a inveja da célebre Ana Raimunda,\nde Óbidos, a qual chegara a formar uma fortunazinha com\naquela especialidade, quando a indústria norte-americana\nreduzira à inatividade os teares rotineiros do Amazonas.\n\nSOUSA, I. Contos amazônicos. São Paulo: Martins Fontes, 2004.\n\nTEXTO II\n\nRelato de um certo oriente\n\nEmilie, ao contrário de meu pai, de Dorner e dos\nnossos vizinhos, não tinha vivido no interior do Amazonas.\nEla, como eu, jamais atravessara o rio. Manaus era o seu\nmundo visível. O outro latejava na sua memória. Imantada\npor uma voz melodiosa, quase encantada, Emilie\nmaravilha-se com a descrição da trepadeira que espanta\n\n2015\n\na inveja, das folhas malhadas de um tajá que reproduz a\nfortuna de um homem, das receitas de curandeiros que\nveem em certas ervas da floresta o enigma das doenças\nmais temíveis, com as infusões de coloração sanguínea\naconselhadas para aliviar trinta e seis dores do corpo\nhumano. “E existem ervas que não curam nada”, revelava\na lavadeira, “mas assanham a mente da gente. Basta\ntomar um gole do líquido fervendo para que o cristão\nsonhe uma única noite muitas vidas diferentes”. Esse\nrelato poderia ser de duvidosa veracidade para outras\npessoas, mas não para Emilie.\n\nHATOUM, M. São Paulo: Cia. das Letras, 2008.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As representações da Amazônia na literatura brasileira\nmantêm relação com o papel atribuído à região na\nconstrução do imaginário nacional. Pertencentes a\ncontextos históricos distintos, os fragmentos diferenciam-se\nao propor uma representação da realidade amazônica em\nque se evidenciam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aspectos da produção econômica e da cura na tradição popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "manifestações culturais autênticas e da resignação familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valores sociais autóctones e influência dos estrangeiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "formas de resistência locais e do cultivo das superstições.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "costumes domésticos e levantamento das tradições indígenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

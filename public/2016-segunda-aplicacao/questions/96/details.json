@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2016 - Segunda aplicação",
+    "index": 96,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/96/fba4b2d6-8647-47f6-aa56-d825325c54ad.png)\n\nSEVERINI, G. A hieroglífica dinâmica do Bal Tabarin. Óleo sobre\ntela, 161,6 x 156,2 cm. Museu de Arte Moderna, Nova Iorque, 1912.\n\nDisponível em: www.moma.org. Acesso em: 18 maio 2013.\n\nTEXTO II\n\nA existência dos homens criadores modernos é\nmuito mais condensada e mais complicada do que a das\npessoas dos séculos precedentes. A coisa representada,\npor imagem, fica menos fixa, o objeto em si mesmo se\nexpõe menos do que antes. Uma paisagem rasgada\npor um automóvel, ou por um trem, perde em valor\ndescritivo, mas ganha em valor sintético. O homem\nmoderno registra cem vezes mais impressões do que o\nartista do século XVIII.\n\nLEGÉR, F. Funções da pintura. São Paulo: Nobel, 1989.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/96/fba4b2d6-8647-47f6-aa56-d825325c54ad.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A vanguarda europeia, evidenciada pela obra e pelo texto,\nexpressa os ideais e a estética do",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cubismo, que questionava o uso da perspectiva por meio da fragmentação geométrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expressionismo alemão, que criticava a arte acadêmica, usando a deformação das figuras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dadaísmo, que rejeitava a instituição artística, propondo a antiarte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Futurismo, que propunha uma nova estética, baseada nos valores da vida moderna.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Neoplasticismo, que buscava o equilíbrio plástico, com utilização da direção horizontal e vertical.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

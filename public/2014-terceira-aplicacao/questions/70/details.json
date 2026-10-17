@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2014 - Terceira aplicação",
+    "index": 70,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Manguezais são biomas litorâneos que ocorrem ao\nlongo da costa brasileira com vegetação característica\nque se desenvolve em solo lodoso, alagado e salgado.\nUma planta presente nesse bioma é Aviccenia tomentosa,\nconhecida popularmente como siriúba. Dentre as\ncaracterísticas adaptativas dessa planta, destacam-se\nsuas raízes, que afloram perpendicularmente ao solo,\nconhecidas como pneumatóforos.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/70/da597c0e-bb21-43e2-9be3-43c7362a8112.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa adaptação está relacionada a uma maior",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eliminação de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "captação de O₂ do ar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "captação de CO₂do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "absorção de nutrientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/70/da597c0e-bb21-43e2-9be3-43c7362a8112.png",
+            "isCorrect": false
+        }
+    ]
+}

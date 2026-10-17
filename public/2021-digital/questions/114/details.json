@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2021 - Digital",
+    "index": 114,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de identificar a melhor espécie produtora de madeira para construção\n(com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas\nde cinco espécies, conforme o quadro.\n\n![](https://enem.dev/2021-digital/questions/114/7bb87874-c55f-4d4d-a106-6631f6e62db1.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/114/7bb87874-c55f-4d4d-a106-6631f6e62db1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual espécie corresponde ao objetivo proposto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

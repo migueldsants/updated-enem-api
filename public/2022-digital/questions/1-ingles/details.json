@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2022 - Digital",
+    "index": 1,
+    "year": 2022,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "As my official bio reads, I was made in Cuba, assembled in Spain, and imported to the\nUnited States — meaning my mother, seven months pregnant, and the rest of my family\narrived as exiles from Cuba to Madrid, where I was born. Less than two months later, we\nemigrated once more and settled in New York City, then eventually in Miami, where I was\nraised and educated. Although technically we lived in the United States, the Cuban\ncommunity was culturally insular in Miami during the 1970s, bonded together by the\ntrauma of exile. What's more, it seemed that practically everyone was Cuban: my\nteachers, my classmates, the mechanic, the bus driver. I didn't grow up feeling different or\ntreated as a minority. The few kids who got picked on in my grade school were the ones\nwith freckles and funny last names like Dawson and O'Neil.\n\nBLANCO, R. Disponível em: http://edition.cnn.com. Acesso em: 9 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao relatar suas vivências, o autor destaca o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "qualidade da educação formal em Miami.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "prestígio da cultura cubana nos Estados Unidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "oportunidade de qualificação profissional em Miami.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cenário da integração de cubanos nos Estados Unidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "fortalecimento do elo familiar em comunidades estadunidenses.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

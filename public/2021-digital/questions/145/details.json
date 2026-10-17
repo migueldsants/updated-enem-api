@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2021 - Digital",
+    "index": 145,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Num octaedro regular, duas faces são consideradas opostas quando não têm nem\narestas, nem vértices em comum. Na figura, observa-se um octaedro regular e uma de\nsuas planificações, na qual há uma face colorida na cor cinza escuro e outras quatro\nfaces numeradas.\n\n![](https://enem.dev/2021-digital/questions/145/6470df05-9b12-4563-bda4-7d725eb0cf8f.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/145/6470df05-9b12-4563-bda4-7d725eb0cf8f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza escuro, quando o octaedro for\nreconstruído a partir da planificação dada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1, 2, 3 e 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 e 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

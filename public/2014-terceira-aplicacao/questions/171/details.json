@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2014 - Terceira aplicação",
+    "index": 171,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em Economia, costuma-se representar o consumo\nmensal C de uma família por uma função linear C = c₀ + c₁Y, em\nque c₀ é o consumo independente da renda, c₁ é a chamada\npropensão ao consumo e Y é a renda mensal da família.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma determinada família possui a seguinte função\nconsumo: C 500 + 0,8Y. Nesse caso, ela possui um\ngasto de R$ 500,00, independente da renda, e propensão\nao consumo de 0,8. Nessa família, a renda mensal\nprovém somente dos salários do pai e da mãe, que são,\nrespectivamente, R$ 3 000,00 e R$ 4 000,00.\nQual o consumo mensal dessa família?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 2 900,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 3 300,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 3 700,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 6 100,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R$ 6 600,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

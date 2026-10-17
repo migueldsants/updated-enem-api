@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2020 - Digital",
+    "index": 3,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Women in Theatre: Why Do So Few Make It to the Top?\n\nAn all-female Julius Caesar (A Shakespeare play) has just hit the stage, but it's a rarity in\ntheatre. In a special report, Charlotte Higgins asks leading figures why women are still\nunderrepresented at every level of the business — and what needs to change.\n\nHIGGINS, C. Disponível em: www.guardian.co.uk. Acesso em: 12 dez. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O vocábulo “rarity” tem um papel central na abordagem do assunto desse texto, que destaca a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "falta de público feminino na plateia dos teatros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ausência de roteiros de autoria feminina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "resistência dos diretores a personagens femininas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "escassez de representação feminina no meio teatral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "desvalorização da performance feminina no palco.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

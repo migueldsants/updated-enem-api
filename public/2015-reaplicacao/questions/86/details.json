@@ -1,0 +1,50 @@
+{
+    "title": "Questão 86 - ENEM 2015 - Reaplicação",
+    "index": 86,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A fotografia feita sob luz polarizada é usada por\ndermatologistas para diagnósticos. Isso permite ver\ndetalhes da superfície da pele que não são visíveis com o\nreflexo da luz branca comum. Para se obter luz polarizada,\npode-se utilizar a luz transmitida por um polaroide ou a\nluz refletida por uma superfície na condição de Brewster,\ncomo mostra a figura. Nessa situação, o feixe da luz\nrefratada forma um ângulo de 90° com o feixe da luz\nrefletida, fenômeno conhecido como Lei de Brewster.\nNesse caso, o ângulo de incidência θ_p , também chamado\nde ângulo de polarização, e o ângulo de refração θ_r estão\nem conformidade com a Lei de Snell.\n\n![](https://enem.dev/2015-reaplicacao/questions/86/21309a26-432a-4800-a9a5-29c77b3c333d.png)\n\n(parcialmente polarizado)\nDado:\n\n![](https://enem.dev/2015-reaplicacao/questions/86/921ddd3f-7f2b-475c-b32e-2efa4f6fe8e0.png)\n\nConsidere um feixe de luz não polarizada proveniente\nde um meio com índice de refração igual a 1, que incide\nsobre uma lâmina e faz um ângulo de refração θ_r de 30°.",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/86/21309a26-432a-4800-a9a5-29c77b3c333d.png",
+        "https://enem.dev/2015-reaplicacao/questions/86/921ddd3f-7f2b-475c-b32e-2efa4f6fe8e0.png",
+        "https://enem.dev/2015-reaplicacao/questions/86/5ec31d29-8ed8-47fa-a748-31b86e379ff9.png",
+        "https://enem.dev/2015-reaplicacao/questions/86/5212b26d-de0a-433b-b942-fceaf479b551.png",
+        "https://enem.dev/2015-reaplicacao/questions/86/94f76c42-ba1d-4990-ac8e-95e47ba2a993.png",
+        "https://enem.dev/2015-reaplicacao/questions/86/07a97b0f-95e4-45af-815c-4b83c6591b05.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa situação, qual deve ser o índice de refração da\nlâmina para que o feixe refletido seja polarizado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/86/5ec31d29-8ed8-47fa-a748-31b86e379ff9.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/86/5212b26d-de0a-433b-b942-fceaf479b551.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/86/94f76c42-ba1d-4990-ac8e-95e47ba2a993.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/86/07a97b0f-95e4-45af-815c-4b83c6591b05.png",
+            "isCorrect": false
+        }
+    ]
+}

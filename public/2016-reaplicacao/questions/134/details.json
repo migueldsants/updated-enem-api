@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2016 - Reaplicação",
+    "index": 134,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A técnica de jogos teatrais propõe uma aprendizagem\nnão verbal, em que o aluno reúne os seus próprios\ndados, a partir de uma experimentação direta. Por meio\ndo processo de solução de problemas, ele conquista o\nconhecimento da matéria.\n\nKOUDELA, I. D. Jogos teatrais. São Paulo: Perspectiva, 1984 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sob orientação do professor, os jogos teatrais são\nrealizados na escola de forma que o estudante",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "seja um bom repetidor de movimentos e ações, pois a cópia e a memória colaboram com seu processo de desenvolvimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "obedeça a regras sem se posicionar criticamente e sem desenvolver material criativo, fortalecendo a disciplina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tenha um momento de recreação por meio da convivência com os colegas, melhorando seu rendimento escolar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desenvolva qualidades de ordem cognitiva e sensorial, favorecendo sua autonomia e seu autoconhecimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "reconheça o professor como principal responsável pelas escolhas a serem feitas em aula durante atividades de teatro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

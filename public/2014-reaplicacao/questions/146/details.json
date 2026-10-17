@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2014 - Reaplicação",
+    "index": 146,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um homem, determinado a melhorar sua saúde,\nresolveu andar diariamente numa praça circular que há\nem frente à sua casa. Todos os dias ele dá exatamente\n15 voltas em torno da praça, que tem 50 m de raio.\n\nUse 3 como aproximação para π.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é a distância percorrida por esse homem em sua\ncaminhada diária?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,30 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,75 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,50 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,25 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,50 km",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

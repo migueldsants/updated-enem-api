@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2014 - Reaplicação",
+    "index": 123,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Sermão da Sexagésima\n\nNunca na Igreja de Deus houve tantas pregações,\nnem tantos pregadores como hoje. Pois se tanto se\nsemeia a palavra de Deus, como é tão pouco o fruto?\nNão há um homem que em um sermão entre em si e se\nresolva, não há um moço que se arrependa, não há um\nvelho que se desengane. Que é isto? Assim como Deus\nnão é hoje menos onipotente, assim a sua palavra não\né hoje menos poderosa do que dantes era. Pois se a\npalavra de Deus é tão poderosa; se a palavra de Deus\ntem hoje tantos pregadores, por que não vemos hoje\nnenhum fruto da palavra de Deus? Esta, tão grande e\ntão importante dúvida, será a matéria do sermão. Quero\ncomeçar pregando-me a mim. A mim será, e também\na vós; a mim, para aprender a pregar; a vós, que\naprendais a ouvir.\n\nVIEIRA, A. Sermões Escolhidos, v. 2. São Paulo: Edameris, 1965.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No Sermão da sexagésima, padre Antônio Vieira\nquestiona a eficácia das pregações. Para tanto, apresenta\ncomo estratégia discursiva sucessivas interrogações, as\nquais têm por objetivo principal",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "provocar a necessidade e o interesse dos fiéis sobre o conteúdo que será abordado no sermão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "conduzir o interlocutor à sua própria reflexão sobre os temas abordados nas pregações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apresentar questionamentos para os quais a Igreja não possui respostas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "inserir argumentos à tese defendida pelo pregador sobre a eficácia das pregações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "questionar a importância das pregações feitas pela Igreja durante os sermões.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

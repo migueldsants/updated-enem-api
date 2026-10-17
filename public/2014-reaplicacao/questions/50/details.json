@@ -1,0 +1,47 @@
+{
+    "title": "Questão 50 - ENEM 2014 - Reaplicação",
+    "index": 50,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em museus de ciências, é comum encontrarem-se máquinas que eletrizam materiais e geram intensas\ndescargas elétricas. O gerador de Van de Graaff Figura 1 é um exemplo, como atestam as faíscas Figura 2\nque ele produz. O experimento fica mais interessante quando se aproxima do gerador em funcionamento, com a\nmão, uma lâmpada fluorescente Figura 3 . Quando a descarga atinge a lâmpada, mesmo desconectada da rede\nelétrica, ela brilha por breves instantes. Muitas pessoas pensam que é o fato de a descarga atingir a lâmpada que\na faz brilhar. Contudo, se a lâmpada for aproximada dos corpos da situação Figura 2 , no momento em que a\ndescarga ocorrer entre eles, a lâmpada também brilhará, apesar de não receber nenhuma descarga elétrica.\n\nFigura 1 Figura 2 Figura 3\n\n![](https://enem.dev/2014-reaplicacao/questions/50/e58835ea-9ae7-4ddf-b947-245b7b20ade9.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/50/6309132a-6990-426c-9f38-701b34531097.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/50/b29c91b0-7081-4122-b38a-6774f386a914.png)\n\nGerador de Van de Graaff Descarga elétrica no gerador Lâmpada fluorescente",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/50/e58835ea-9ae7-4ddf-b947-245b7b20ade9.png",
+        "https://enem.dev/2014-reaplicacao/questions/50/6309132a-6990-426c-9f38-701b34531097.png",
+        "https://enem.dev/2014-reaplicacao/questions/50/b29c91b0-7081-4122-b38a-6774f386a914.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Disponível em: http://naveastro.com. Acesso em: 15 ago. 2012.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "grandeza física associada ao brilho instantâneo da lâmpada fluorescente, por estar próxima a uma descarga",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "campo elétrico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "corrente elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "capacitância elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "condutividade elétrica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

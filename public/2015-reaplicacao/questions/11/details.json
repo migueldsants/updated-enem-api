@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2015 - Reaplicação",
+    "index": 11,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Estimativa do número de escravos africanos\ndesembarcados no Brasil entre os\n\n![](https://enem.dev/2015-reaplicacao/questions/11/2ba0607c-bd2d-44c6-a789-ea750329ca9e.png)\n\nDisponível em: www.slavevoyages.org. Acesso em: 24 fev. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/11/2ba0607c-bd2d-44c6-a789-ea750329ca9e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A mudança apresentada na tabela é reflexo da Lei\nEusébio de Queiróz que, em 1850,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aboliu a escravidão no território brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "definiu o tráfico de escravos como pirataria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "elevou as taxas para importação de escravos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "libertou os escravos com mais de 60 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "garantiu o direito de alforria aos escravos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

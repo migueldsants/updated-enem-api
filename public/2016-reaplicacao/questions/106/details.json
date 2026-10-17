@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2016 - Reaplicação",
+    "index": 106,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A mulher entra no quarto do filho decidida a ter uma\nconversa séria. De novo, as respostas dele à interpretação\ndo texto na prova sugerem uma grande dificuldade de\nler. Dispersão pode ser uma resposta para parte do\nproblema. A extensão do texto pode ser outra, mas nesta\nela não vai tocar porque também é professora e não vai\nlhe dar desculpas para ir mal na escola. Preguiça de ler\nparece outra forma de lidar com a extensão do texto.\nEle está, de novo, no computador, jogando. Levanta os\nolhos com aquele ar de quem pode jogar e conversar ao\nmesmo tempo. A mãe lhe pede que interrompa o jogo e\nele pede à mãe “só um instante para salvar”. Curiosa, ela\nolha para a tela e espanta-se com o jogo em japonês.\nPergunta-lhe como consegue entender o texto para jogar.\nEle lhe fala de alguma coisa parecida com uma “lógica\nde jogo” e sobre algumas tentativas com os ícones. Diz\nainda que conhece a base da história e que, assim,\nmesmo em japonês, tudo faz sentido. Aquela conversa\nacabou sendo adiada. A mãe-professora, capturada por\noutros sentidos de leitura, não se sentia pronta naquele\nmomento. Consciente, suspende a ação.\n\nBARRETO, R. G. Formação de professores, tecnologias e linguagens: mapeando velhos\n\ne novos (des)encontros. São Paulo: Loyola, 2002 (adaptado).\n\n2016",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A reação da mãe-professora frente às habilidades da\n“geração digital” contemporânea reflete o desafio que se\ntem enfrentado de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aplicar as mesmas formas de ler textos impressos a textos digitais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "interpretar as várias informações na leitura de textos em multimídia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "lidar com as novas práticas de leitura que emergem com a tecnologia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "superar as dificuldades de leitura geradas pelos jogos de computadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "trabalhar a dificuldade de leitura usando as tecnologias como ferramentas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

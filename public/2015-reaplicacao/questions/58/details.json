@@ -1,0 +1,49 @@
+{
+    "title": "Questão 58 - ENEM 2015 - Reaplicação",
+    "index": 58,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O avanço tecnológico da medicina propicia o\ndesenvolvimento de tratamento para diversas doenças,\ncomo as relacionadas à visão. As correções que utilizam\nlaser para o tratamento da miopia são consideradas\nseguras até 12 dioptrias, dependendo da espessura e\ncurvatura da córnea. Para valores de dioptria superiores a\nesse, o implante de lentes intraoculares é mais indicado.\nEssas lentes, conhecidas como lentes fácicas (LF), são\nimplantadas junto à córnea, antecedendo o cristalino (C),\nsem que esse precise ser removido, formando a imagem\ncorreta sobre a retina (R).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/58/e8b88ceb-99d6-478a-b68f-88451d80e2cf.png",
+        "https://enem.dev/2015-reaplicacao/questions/58/608e8ea0-34a7-4baf-ba74-794ef04637b9.png",
+        "https://enem.dev/2015-reaplicacao/questions/58/fbd823e3-3d11-4d13-80ca-62e47eee228c.png",
+        "https://enem.dev/2015-reaplicacao/questions/58/4f7ff997-2edc-4537-bacf-0e5b83a91c5a.png",
+        "https://enem.dev/2015-reaplicacao/questions/58/a41abc2f-6af7-43ea-8868-a9140dd276c4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O comportamento de um feixe de luz incidindo no olho\nque possui um implante de lentes fácicas para correção\ndo problema de visão apresentado é esquematizado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/58/e8b88ceb-99d6-478a-b68f-88451d80e2cf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/58/608e8ea0-34a7-4baf-ba74-794ef04637b9.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/58/fbd823e3-3d11-4d13-80ca-62e47eee228c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/58/4f7ff997-2edc-4537-bacf-0e5b83a91c5a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/58/a41abc2f-6af7-43ea-8868-a9140dd276c4.png",
+            "isCorrect": false
+        }
+    ]
+}

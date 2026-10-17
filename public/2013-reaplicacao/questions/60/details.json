@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2013 - Reaplicação",
+    "index": 60,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para a produção de etanol combustível, as usinas\nretiram água do leito de rios próximos, reutilizando-a\nnas suas instalações. A vinhaça, resíduo líquido gerado\nnesse processo, é diluída para ser adicionada ao solo,\nutilizando uma técnica chamada de fertirrigação. Por meio\ndesse procedimento, o fósforo e o potássio, essenciais\nà produção de cana-de-açúcar, são devolvidos ao solo,\nreduzindo o uso de fertilizantes sintéticos.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa intervenção humana no destino da vinhaça tem como\nresultado a diminuição do impacto ambiental referente à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "erosão do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "produção de chuva ácida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "elevação da temperatura global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "eutrofização de lagos e represas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "contaminação de rios por pesticidas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2014 - Reaplicação",
+    "index": 105,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014-reaplicacao/questions/105/369c25b7-ea7b-4d92-946a-b9b1a2242155.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/105/369c25b7-ea7b-4d92-946a-b9b1a2242155.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "elementos verbais e não verbais. Nessa peça publicitária,\na imagem, que simula um manual, e o texto verbal,\nque faz uso de uma variedade de língua específica,\ncombinados, pretendem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fazer a gradação de comportamentos e de atitudes em termos da gravidade de efeitos da bebida alcoólica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aconselhar o leitor da peça publicitária a não “pegar” a namorada do amigo para o “bicho não pegar”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "promover a mudança de comportamento dos jovens em relação ao consumo do álcool e à direção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "demonstrar que a viagem de ônibus ou de táxi é mais segura, independentemente do consumo de álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incentivar a prática da carona em carros de motoristas do sexo feminino.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2016 - Segunda aplicação",
+    "index": 11,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A favela é vista como um lugar sem ordem, capaz\nde ameaçar os que nela não se incluem. Atribuir-lhe a\nideia de perigo é o mesmo que reafirmar os valores e\nestruturas da sociedade que busca viver diferentemente\ndo que se considera viver na favela. Alguns oficiantes\ndo direito, ao defenderem ou acusarem réus moradores\nde favelas, usam em seus discursos representações\npreviamente formuladas pela sociedade e incorporadas\nnesse campo profissional. Suas falas se fundamentam\nnas representações inventadas a respeito da favela e\nque acabam por marcar a identidade dos indivíduos que\nnela residem.\n\nRINALDI, A. Marginais, delinquentes e vítimas: um estudo sobre a representação da categoria\nfavelado no tribunal do júri da cidade do Rio de Janeiro. In: ZALUAR, A.; ALVITO, M. (Orgs.).\nUm século de favela. Rio de Janeiro: Editora FGV, 1998.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O estigma apontado no texto tem como consequência o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento da impunidade criminal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "enfraquecimento dos direitos civis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "distorção na representação política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "crescimento dos índices de criminalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ineficiência das medidas socioeducativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

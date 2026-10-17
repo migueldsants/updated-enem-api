@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2020 - Digital",
+    "index": 116,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A resolução de um instrumento de medição é definida como a menor variação de uma\ngrandeza que pode ser medida. O paquímetro é um instrumento de medição de grandezas de\ncomprimento linear. Um fabricante de componentes para portões eletrônicos produz eixos com\ndiâmetros diferentes e possui paquímetros com resoluções de 0,02 mm (paquímetro A) e 0,05\nmm (paquímetro B). Um funcionário dessa empresa mediu um eixo com diâmetro nominal de\n11,0 mm com uso do paquímetro A, e outro eixo com diâmetro nominal de 12,5 mm com o\npaquímetro B.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quais são as possíveis leituras obtidas com o uso dos paquímetros A e B, em milímetro,\nrespectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11,01 e 12,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "11,02 e 12,51",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11,04 e 12,55",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "11,05 e 12,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11,06 e 12,54",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

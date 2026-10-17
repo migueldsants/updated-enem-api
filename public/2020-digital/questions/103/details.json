@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2020 - Digital",
+    "index": 103,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Fenômenos epigenéticos levam a modificações do DNA e das histonas, que influenciam o\nremodelamento da cromatina e, consequentemente, a disponibilização ou não de genes para a\ntranscrição.\n\nARRUDA, I. T. S. Epigenética. Genética na Escola, n. 1, 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esses fenômenos atuam na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "regulação da expressão gênica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "alteração nas sequências de bases.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "correção de mutações em determinados genes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "associação dos ribossomos ao RNA mensageiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alteração nas sequências dos aminoácidos das histonas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2021 - Digital",
+    "index": 42,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021-digital/questions/42/f526a490-3eab-4f9b-b46a-bf3a236e4f05.png)\n\nLICHTENSTEIN, R. Garota com bola. Óleo sobre tela, 153 cm x 91,9 cm.\nMuseu de Arte Moderna de Nova York, 1961.\n\nDisponível em: www.moma.org. Acesso em: 4 dez. 2018.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/42/f526a490-3eab-4f9b-b46a-bf3a236e4f05.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A obra, da década de 1960, pertencente ao movimento artístico Pop Art, explora a beleza\ne a sensualidade do corpo feminino em uma situação de divertimento. Historicamente, a\nsociedade inventou e continua reinventando o corpo como objeto de intervenções sociais,\nbuscando atender aos valores e costumes de cada época. Na reprodução desses\npreceitos, a erotização do corpo feminino tem sido constituída pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "realização de exercícios físicos sistemáticos e excessivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "utilização de medicamentos e produtos estéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "educação do gesto, da vontade e do comportamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "construção de espaços para vivência de práticas corporais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "promoção de novas experiências de movimento humano no lazer.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

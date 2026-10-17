@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 54,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As expedições científicas se caracterizaram, no século XIX,\npor um intenso vaivém de produtos naturais; um modo de\ncirculação internacional de conhecimentos e saberes. Todo esse\nmovimento representou passo significativo para a mundialização\ndas ciências. Os objetos dissecados eram levados para os museus,\ndo que resultou uma interação científica e político-financeira e,\nao mesmo tempo, gerou um corte epistemológico nas ciências\nnaturais. Neste caso, não somente as ideias, mas também os\nobjetos circulavam com os conhecimentos. Da mesma forma,\nas expedições representaram um meio de realizar a transferência\ndos conhecimentos do campo ao laboratório, onde os produtos\nseriam analisados e avalizados para depois tornarem-se\ncomerciais — prática que ocorreu em larga escala no século XIX.\n\nDOMINGUES, H. M. B. Expedições científicas no Brasil. ln: LOSADA, J. Z. (Org.).\nUm álbum para o imperador. Rio de Janeiro: Mast;\nUberlândia: Edufu, 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O tipo de viagem mencionado no texto constituiu uma prática\ncientífica com o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "favorecer a demarcação fronteiriça da região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "determinar a expulsão da população do local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "beneficiar o expansionismo da indústria do café.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cooperar para a tolerância religiosa e filantrópica entre cristãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "contribuir para o intercâmbio institucional e econômico entre países.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

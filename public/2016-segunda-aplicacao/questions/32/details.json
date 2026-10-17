@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2016 - Segunda aplicação",
+    "index": 32,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Lado ocupado pelo motorista em um automóvel\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/32/8e2b417b-fd6a-4a46-ad52-ef361cdefb5f.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/32/8e2b417b-fd6a-4a46-ad52-ef361cdefb5f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A interpretação da imagem demonstra que a distribuição\nde países onde se dirige do lado direito coincide, em\ngrande parte, com a zona de influência ou dominação\nexercida pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Índia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Austrália.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Inglaterra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Indonésia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "África do Sul.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

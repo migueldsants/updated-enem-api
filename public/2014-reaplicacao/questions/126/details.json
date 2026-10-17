@@ -1,0 +1,46 @@
+{
+    "title": "Questão 126 - ENEM 2014 - Reaplicação",
+    "index": 126,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A internet amplia o que queremos e desejamos.\nPessoas alienadas se alienam mais na internet. Pessoas\ninteressantes tornam a comunicação com a internet mais\ninteressante. Pessoas abertas utilizam a internet para\npromover mais interação e compartilhamento. Pessoas\n\n![](https://enem.dev/2014-reaplicacao/questions/126/db9843e1-ff63-4328-84f0-304cd34b586f.png)\n\nindividualistas se fecham mais ainda nos ambientes\ndigitais. Pessoas que têm dificuldades de relacionamento\nna vida real muitas vezes procuram mil formas de fuga\npara o virtual. Aproveitaremos melhor as possibilidades\nda internet, se equilibrarmos a qualidade das interações\npresenciais — na vida pessoal, profissional, emocional —\ncom as interações digitais correspondentes.\n\nMORAN,J.M. Disponívelem: www.eca.usp.br. Acessoem:31jul.2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/126/db9843e1-ff63-4328-84f0-304cd34b586f.png",
+        "https://enem.dev/2014-reaplicacao/questions/126/699646d8-8903-4b49-89ac-368e55949d86.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto expressa um posicionamento a respeito do\nuso da internet e suas repercussões na vida cotidiana.\nNa opinião do autor, esse sistema de informação e\ncomunicação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumenta o número de pessoas alienadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "resolve problemas de relacionamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "soluciona a questão do individualismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "equilibra as interações presenciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/126/699646d8-8903-4b49-89ac-368e55949d86.png",
+            "isCorrect": true
+        }
+    ]
+}

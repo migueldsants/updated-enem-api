@@ -1,0 +1,48 @@
+{
+    "title": "Questão 75 - ENEM 2012 - Reaplicação",
+    "index": 75,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos métodos de produção de biodiesel envolve a transesterificação do óleo de soja utilizando metanol em\nmeio básico (NaOH ou KOH), que precisa ser realizada na ausência de água. A figura mostra o esquema reacional\nda produção de biodiesel, em que R representa as diferentes cadeias hidrocarbônicas dos ésteres de ácidos graxos.\n\nO O\n\nR₁ O O R₃ base\n\n![](https://enem.dev/2012-reaplicacao/questions/75/05ab6dbe-06ad-4baa-bb65-7a726b222910.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/75/96328828-3654-464a-b1df-1db64c03db58.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/75/200ee191-57b3-409b-87d1-3d57b47b42d0.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/75/31f33da2-4450-48c5-bf8d-d1f28ba31ea5.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/75/05ab6dbe-06ad-4baa-bb65-7a726b222910.png",
+        "https://enem.dev/2012-reaplicacao/questions/75/96328828-3654-464a-b1df-1db64c03db58.png",
+        "https://enem.dev/2012-reaplicacao/questions/75/200ee191-57b3-409b-87d1-3d57b47b42d0.png",
+        "https://enem.dev/2012-reaplicacao/questions/75/31f33da2-4450-48c5-bf8d-d1f28ba31ea5.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A ausência de água no meio reacional se faz necessária para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "manter o meio reacional no estado sólido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "manter a elevada concentração do meio reacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "manter constante o volume de óleo no meio reacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "evitar a diminuição da temperatura da mistura reacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evitar a hidrólise dos ésteres no meio reacional e a formação de sabão.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

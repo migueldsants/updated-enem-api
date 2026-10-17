@@ -1,0 +1,50 @@
+{
+    "title": "Questão 178 - ENEM 2015 - Reaplicação",
+    "index": 178,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa que embala seus produtos em caixas\nde papelão, na forma de hexaedro regular, deseja que\nseu logotipo seja impresso nas faces opostas pintadas de\ncinza, conforme a figura:\n\n![](https://enem.dev/2015-reaplicacao/questions/178/fc3e2cbd-5c40-41d5-872a-8ea24fa6b7a7.png)\n\nA gráfica que fará as impressões dos logotipos\napresentou as seguintes sugestões planificadas:\n\n![](https://enem.dev/2015-reaplicacao/questions/178/81d7c871-d3d2-48ac-aa39-ac58ea36905a.png)\n\nI\n\n![](https://enem.dev/2015-reaplicacao/questions/178/b8fd4093-50d0-4f1b-b145-078b8a2bd5ec.png)\n\nII\n\n![](https://enem.dev/2015-reaplicacao/questions/178/c794763b-0965-472a-ae0c-dabc4fabf236.png)\n\nIII\n\n![](https://enem.dev/2015-reaplicacao/questions/178/deff87cb-12a0-4f66-a657-56ff41486494.png)\n\nIV\n\n![](https://enem.dev/2015-reaplicacao/questions/178/e7a97652-0c3c-462c-bb33-ed72bea0db58.png)\n\nV",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/178/fc3e2cbd-5c40-41d5-872a-8ea24fa6b7a7.png",
+        "https://enem.dev/2015-reaplicacao/questions/178/81d7c871-d3d2-48ac-aa39-ac58ea36905a.png",
+        "https://enem.dev/2015-reaplicacao/questions/178/b8fd4093-50d0-4f1b-b145-078b8a2bd5ec.png",
+        "https://enem.dev/2015-reaplicacao/questions/178/c794763b-0965-472a-ae0c-dabc4fabf236.png",
+        "https://enem.dev/2015-reaplicacao/questions/178/deff87cb-12a0-4f66-a657-56ff41486494.png",
+        "https://enem.dev/2015-reaplicacao/questions/178/e7a97652-0c3c-462c-bb33-ed72bea0db58.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que opção sugerida pela gráfica atende ao desejo da\nempresa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

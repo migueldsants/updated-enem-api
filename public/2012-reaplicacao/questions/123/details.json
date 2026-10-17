@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2012 - Reaplicação",
+    "index": 123,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O que a internet esconde de você\n\nPara cada site que você pode visitar, existem\npelo menos 400 outros que não consegue acessar.\nEles existem, estão lá, mas são invisíveis. Estão presos\nnum buraco negro digital maior do que a própria internet.\nA cada vez que você interage com um amigo nas redes\nsociais, vários outros são ignorados e têm as mensagens\nenterradas num enorme cemitério on-line. E, quando você\nfaz uma pesquisa no Google, não recebe os resultados\nde fato — e sim uma versão maquiada, previamente\nmodificada de acordo com critérios secretos. Sim, tudo\nisso é verdade — e não é nenhuma grande conspiração.\nAcontece todos os dias sem que você perceba. Pegue seu\nchapéu de Indiana Jones e vamos explorar a web perdida.\n\nGRAVATÁ, A. Superinteressante, nov. 2011 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os gêneros do discurso jornalístico, geralmente a\nmanchete, a notícia e a reportagem, exigem um repórter\nque não diz “eu”, nem mesmo que se refira ao leitor\ndo texto explicitamente. No trecho lido, ao contrário, é\nrecorrente o emprego de “você”, o qual",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "remete a um sujeito “eu” que se prende ao próprio dizer, fortalecendo a subjetividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "explicita uma construção metalinguística que se volta para o próprio dizer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "deixa claro o leitor esperado para o texto, aquele que visita redes sociais e sites de busca no dia a dia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "estabelece conexão entre o fatual e o opinativo, o que descaracteriza o texto como reportagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "revela a intenção de tornar a leitura mais fácil, a partir de um texto em que se emprega vocabulário simples.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 73,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O sujeito, previamente vivido como tendo uma identidade\nunificada e estável, está se tornando fragmentado, composto\nnão de uma única, mas de várias identidades, algumas vezes\ncontraditórias ou não resolvidas. Há uma fragmentação de códigos\nculturais, aquela multiplicidade de estilos, aquela ênfase no\nefêmero, no flutuante, no impermanente e no pluralismo cultural.\n\nHALL, S. A identidade cultural na pós-modernidade.\nRio de Janeiro: DP&A, 2006.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre os efeitos sociopolíticos significativos do fenômeno descrito\nno texto, encontra-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reivindicação de direitos civis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "imposição de ideais teológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consolidação de pactos regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "unificação de territórios nacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manutenção de valores tradicionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

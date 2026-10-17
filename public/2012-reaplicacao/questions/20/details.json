@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2012 - Reaplicação",
+    "index": 20,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Apesar de todo o esforço em prol de um língua\ninternacional artificial, até o momento a sensação é de\nrelativo fracasso. Praticamente nenhum país adotou o\nensino obrigatório de uma língua artificial, a comunidade\ncientífica continua a se comunicar em inglês, e as línguas\nmais difundidas internacionalmente continuam a ser as\nde países política ou economicamente dominantes, como\ninglês, francês, espanhol, russo e chinês. Nem mesmo\norganismos supranacionais como a ONU e a União\nEuropeia, onde reina uma babel de línguas, se mostraram\naté agora inclinados a adotar uma língua artificial.\n\nBIZZOCCH, A. Línguas de laboratório. Disponível em: http://revistalingua.uol.com.br.\nAcesso em: 19 ago. 2011(adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O esperanto, inventado no século XIX, é a língua artificial\nmais difundida atualmente. Entretanto, como o texto\nsugere, o desequilíbrio atual de poder entre os países\nimpõe a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "busca de nova língua global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "recuperação das línguas mortas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "adoção de uma língua unificada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "valorização das línguas nacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "supremacia de algumas línguas naturais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

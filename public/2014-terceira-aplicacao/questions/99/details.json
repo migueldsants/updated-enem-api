@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2014 - Terceira aplicação",
+    "index": 99,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A literatura de cordel é ainda considerada, por\nmuitos, uma literatura menor. A alma do homem não é\nmensurável e — desde que o cordel possa exprimir a\nhistória, a ideologia e os sentimentos de qualquer homem\n— vai ser sempre o gênero literário preferido de quem\nprocura apreender o espírito nordestino. Os costumes, a\nlíngua, os sonhos, os medos e as alegrias do povo estão\nno cordel. Na nossa época, apesar dos jornais e da TV\n— que poderiam ter feito diminuir o interesse neste tipo\nde literatura — e da falta de apoio econômico, o cordel\ncontinua vivo no interior e em cenáculos acadêmicos.\n\nA literatura de cordel, as xilogravuras e o repente\nnão foram apenas um divertimento do povo. Cordéis e\ncantorias foram o professor que ensinava as primeiras\nletras e o médico que falava para inculcar comportamentos\nsanitários. O cordel e o repente fazem, muitas vezes,\nde um candidato o ganhador da banca de deputado.\nE assim, lendo e ouvindo, foi-se formando a memória\ncoletiva desse povo alegre e trabalhador, que embora\ncalmo, enfrenta o mar e o sertão com a mesma valentia.\n\nBRICKMANN, L. B. E de repente foi o cordel. Disponível em: http://pt.scribd.com.\nAcesso em: 29 fev. 2012 fragmento .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O gênero textual cordel, também conhecido como folheto,\ntem origem em relatos orais e constitui uma forma literária\npopular no Brasil. A leitura do texto sobre a literatura de\ncordel permite",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descrever esse gênero textual exclusivamente como instrumento político.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorizar o povo nordestino, que tem no cordel sua única forma de expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ressaltar sua importância e preservar a memória cultural de nosso povo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "avaliar o baixo custo econômico dos folhetos expostos em barbantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "informar aos leitores o baixo valor literário desse tipo de produção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

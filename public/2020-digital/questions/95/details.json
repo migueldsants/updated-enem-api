@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2020 - Digital",
+    "index": 95,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O elemento ferro é essencial em nossa alimentação, pois ajuda a prevenir doenças como\na anemia. Normalmente, na alimentação é ingerido na forma de Fe\nde agentes auxiliares de absorção, como o ácido\nrepresentada pelo esquema reacional a seguir.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A ação do ácido ascórbico ocorre por meio de uma reação de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eliminação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "substituição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "oxirredução.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "neutralização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hidrogenação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

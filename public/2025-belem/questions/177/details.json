@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 177,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gerente de um restaurante, para melhorar o atendimento\nem seu estabelecimento, registrou nesta semana o número de\nmesas ocupadas de segunda a sexta-feira, em cinco intervalos\n\n![](https://enem.dev/2025-belem/questions/177/efd23ed7-9248-45b8-8888-7cba57c42d62.png)\n\nAtualmente o restaurante conta com 3 garçons, e cada um\natende, no máximo, 24 mesas por hora. O gerente pretende\ncontratar, para a próxima semana, garçons adicionais para\naqueles dias em que os 3 garçons foram insuficientes para\natender à demanda de mesas em algum dos intervalos\nconsiderados. Para isso, utilizou os dados registrados na tabela.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/177/efd23ed7-9248-45b8-8888-7cba57c42d62.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A quantidade mínima de novos garçons a serem contratados será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 garçons na segunda-feira, 4 na terça-feira, 1 na quarta-feira, 2 na quinta-feira e 4 na sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 garçons na segunda-feira, 2 na terça-feira, 1 na quinta-feira e 2 na sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 garçom na segunda-feira, 1 na terça-feira e 1 na sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 garçons na segunda-feira, 2 na terça-feira e 2 na sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 garçons na segunda-feira, 2 na terça-feira e 2 na sexta-feira.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

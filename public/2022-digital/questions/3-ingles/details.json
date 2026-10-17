@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2022 - Digital",
+    "index": 3,
+    "year": 2022,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "GAULD, T. Disponível em: www.tomgauld.com. Acesso em: 25 out. 2021.\n\n![](https://enem.dev/2022-digital/questions/3-ingles/3c4df112-d0fb-4002-a1a4-0bceaf55ed59.png)\n\n/",
+    "files": [
+        "https://enem.dev/2022-digital/questions/3-ingles/3c4df112-d0fb-4002-a1a4-0bceaf55ed59.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa tirinha, o comportamento da mulher expressa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "revolta com a falta de sorte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "gosto pela prática da leitura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "receio pelo futuro do casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "entusiasmo com os livros de terror.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "rejeição ao novo tipo de residência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

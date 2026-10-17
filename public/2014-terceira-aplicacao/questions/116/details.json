@@ -1,0 +1,45 @@
+{
+    "title": "Questão 116 - ENEM 2014 - Terceira aplicação",
+    "index": 116,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Retrato do artista quando coisa\nA menina apareceu grávida de um gavião.\nVeio falou para a mãe: o gavião me desmoçou.\nA mãe disse: Você vai parir uma árvore para\na gente comer goiaba nela.\nE comeram goiaba.\nNaquele tempo de dantes não havia limites\npara ser.\nSe a gente encostava em ser ave ganhava o\npoder de alçar.\nSe a gente falasse a partir de um córrego\na gente pegava murmúrios.\nNão havia comportamento de estar.\nUrubus conversavam sobre auroras.\nPessoas viravam árvore.\nPedras viravam rouxinóis.\nDepois veio a ordem das coisas e as pedras\ntêm que rolar seu destino de pedra para o resto\ndos tempos.\nSó as palavras não foram castigadas com\na ordem natural das coisas.\nAs palavras continuam com seus deslimites.\n\nBARROS, M. Retrato do Artista Quando Coisa. Rio de Janeiro: Record, 1998.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/116/61eeb452-3ade-4718-a505-97cc7995b764.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/116/61eeb452-3ade-4718-a505-97cc7995b764.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No poema, observam-se os itens lexicais desmoçou\ne deslimites. O mecanismo linguístico que os originou\ncorresponde ao processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estrangeirismo, que significa a inserção de palavras de outras comunidades idiomáticas no português.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "neologismo, que consiste na inovação lexical, usada para o refinamento estilístico do texto poético .",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "arcaísmo, que expressa o emprego de termos produtivos em outros períodos históricos do português.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "brasileirismo, que significa a inserção de palavras específicas da realidade linguística do português.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "jargão, que evidencia o uso profissional de palavras específicas de uma área do léxico do português.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

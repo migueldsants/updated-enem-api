@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2014 - Terceira aplicação",
+    "index": 135,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Revistas terão de informar uso de editor de imagens\n\nTodos os anúncios veiculados em jornais e revistas\nterão de informar ao leitor se houve uso de software para\nmanipular imagens de pessoas. É isso o que diz uma\nlei recém-aprovada em Israel. O objetivo é evitar que a\npublicidade divulgue imagens de modelos magras demais,\nque supostamente estimulam transtornos alimentares em\njovens. O parlamento francês está discutindo uma medida\nsimilar, porém mais dura — até embalagens de produtos\ne imagens de campanhas políticas teriam de revelar o uso\nde um software de edição de imagens.\n\nDisponível em: http://super.abril.com.br. Acesso em: 10 jul. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A expressão “medida similar” auxilia a progressão das\nideias no texto, pois foi empregada com a finalidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentar uma observação crítica em relação ao conteúdo da lei que está sendo aprovada no parlamento francês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impor erudição ao texto, objetivando atender às especificidades do público leitor a que se destina a notícia veiculada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incluir no texto a informação de que a lei aprovada pelo parlamento francês, por ser mais rigorosa, retifica a lei israelense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estabelecer relação entre uma lei que está sendo discutida no parlamento francês e outra aprovada recentemente em Israel.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "antecipar a informação de que embalagens de produtos e imagens de campanhas políticas deveriam informar o uso de editor de imagens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

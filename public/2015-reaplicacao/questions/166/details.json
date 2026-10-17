@@ -1,0 +1,51 @@
+{
+    "title": "Questão 166 - ENEM 2015 - Reaplicação",
+    "index": 166,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa necessita colorir parte de suas\nembalagens, com formato de caixas cúbicas, para que\npossa colocar produtos diferentes em caixas distintas\npela cor, utilizando para isso um recipiente com tinta,\n\n![](https://enem.dev/2015-reaplicacao/questions/166/28715006-4c7b-468a-a6d3-0116c54cb626.png)\n\nconforme Figura 1. Nesse recipiente, mergulhou-se um\ncubo branco, tal como se ilustra na Figura 2. Desta forma,\na parte do cubo que ficou submersa adquiriu a cor da tinta.\n\n![](https://enem.dev/2015-reaplicacao/questions/166/d49ecfb5-0bb4-45e1-85b2-f5e6742f37dc.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/166/28715006-4c7b-468a-a6d3-0116c54cb626.png",
+        "https://enem.dev/2015-reaplicacao/questions/166/d49ecfb5-0bb4-45e1-85b2-f5e6742f37dc.png",
+        "https://enem.dev/2015-reaplicacao/questions/166/c3ce6334-7740-4c8a-9c5e-4ade70b43cf6.png",
+        "https://enem.dev/2015-reaplicacao/questions/166/8ca0012d-fdff-495a-a744-b579ccd988e0.png",
+        "https://enem.dev/2015-reaplicacao/questions/166/bb26415d-0a3b-47fa-b893-73a79b4d1f7f.png",
+        "https://enem.dev/2015-reaplicacao/questions/166/47c93dd6-4418-4b9b-ad6d-eb3af7241555.png",
+        "https://enem.dev/2015-reaplicacao/questions/166/41f01f9d-46e8-4a6a-9a0a-79ce3138ccf6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "cáÖìê~ N cáÖìê~ O\nQual é a planificação desse cubo após submerso?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/166/c3ce6334-7740-4c8a-9c5e-4ade70b43cf6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/166/8ca0012d-fdff-495a-a744-b579ccd988e0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/166/bb26415d-0a3b-47fa-b893-73a79b4d1f7f.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/166/47c93dd6-4418-4b9b-ad6d-eb3af7241555.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/166/41f01f9d-46e8-4a6a-9a0a-79ce3138ccf6.png",
+            "isCorrect": false
+        }
+    ]
+}

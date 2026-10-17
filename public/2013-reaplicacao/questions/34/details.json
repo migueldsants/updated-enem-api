@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2013 - Reaplicação",
+    "index": 34,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Há cerca de um ano, 248 famílias de baixa renda\nque moravam em área de deslizamento do Morro do\nPreventório, em Niterói (RJ), ganharam apartamentos\nem um condomínio. Com uma renda média mensal de\ndois salários mínimos e um apartamento com padrão de\nclasse média, as famílias foram às compras de móveis\ne eletrodomésticos. Mas acabaram surpreendidas com\nas primeiras contas que não pagavam na favela: a maior\nparte está endividada.\n\nSPITZ, C. Entre o céu e o purgatório da inclusão social. O Globo, 10 jun. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma política pública relacionada com a contradição\ndescrita e uma ação que reduziria seus efeitos estão\nidentificadas, respectivamente, em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Financeira – expansão das linhas de crédito para as classes médias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Habitacional – apoio a geração de emprego e renda entre os mais pobres.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Demográfica – restrição à migração e incentivo ao retorno das famílias de migrantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ambiental – preservação de encostas e parques ecológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Educacional – combate ao analfabetismo e a evasão escolar em comunidades pobres.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

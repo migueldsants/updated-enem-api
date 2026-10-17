@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2020 - Digital",
+    "index": 106,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A rotação de culturas, juntamente com a cobertura permanente e o mínimo revolvimento\ndo solo, compõem os princípios básicos do sistema de plantio direto. O aumento da\ndiversidade biológica do solo contribui para a estabilidade da produção agrícola por causa de\ndiversos fatores, entre eles o processo de fixação biológica de nitrogênio, realizado por\nbactérias.\n\nFRANCHINI, J. C. et al. Importância da rotação de culturas para a produção agrícola sustentável no Paraná.\nLondrina: Embrapa Soja, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse processo biológico, ocorre a transformação de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "N2 em NH3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "− NO3 em N2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "+ NH3 em NH4 .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "− − NO2 em NO3 .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "+ − NH4 em NO2 .",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

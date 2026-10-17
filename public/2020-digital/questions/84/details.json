@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2020 - Digital",
+    "index": 84,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Sempre que se evoca o tema do Renascimento, a imagem que imediatamente nos vem à\nmente é a dos grandes artistas plásticos e de suas obras mais famosas, amplamente\nreproduzidas e difundidas até os nossos dias, como a Monalisa e a Última ceia, de Leonardo\nda Vinci, o Juízo final, a Pietá e o Moisés, de Michelangelo, assim como as inúmeras e suaves\nMadonas, de Rafael, que permanecem ainda como modelo mais frequente de representação\nda mãe de Cristo. Como veremos, de fato, as artes plásticas acabaram se convertendo num\ncentro de convergência de todas as principais tendências da cultura renascentista.\n\nSEVCENKO, N.O Renascimento. Campinas: Atual, 1988 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse movimento cultural, inserido no processo de transição da modernidade europeia,\ncaracterizou-se pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "validação da teoria geocêntrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorização da integração religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "afirmação dos princípios humanistas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "legitimação das tradições aristocráticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incorporação das representações góticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

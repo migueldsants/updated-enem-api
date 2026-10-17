@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 110,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os aldeídos fazem parte de importantes famílias olfativas\nencontradas em muitos alimentos. O 3-metil-butanal, por\nexemplo, está presente na mistura de compostos voláteis\nliberados na etapa de torrefação do café.\n\nMOREIRA, R. F. A.; TRUGO, L. C.; DE MARIA, C. A. B. Componentes voláteis do\n\ncafé torrado. Química Nova, n. 2, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma das formas de se obter essa substância em laboratório é\noxidar a molécula de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ácido 3-metil-butanoico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3-metil-but-2-en-2-ol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3-metil-butan-1-ol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3-metil-butan-2-ol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3-metil-butanona.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

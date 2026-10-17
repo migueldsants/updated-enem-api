@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2021 - Digital",
+    "index": 31,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O skate apareceu como forma de vivência no lazer em períodos de baixa nas ondas\ne ficou conhecido como “surfinho”. No início foram utilizados eixos e rodinhas de patins\npregados numa madeira qualquer, para sua composição, sendo as rodas de borracha ou\nferro. O grande marco na história do skate ocorreu em 1974, quando o engenheiro\nquímico chamado Frank Nasworthy descobriu o uretano, material mais flexível, que\noferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo\nmaterial igualmente alavancou o surgimento de novas manobras e possibilitou a um maior\nnúmero de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a\ncriação de campeonatos, marcas, fábricas e lojas especializadas.\n\nARMBRUST, I.; LAURO, F. A. A. O skate e suas possibilidades educacionais.\nMotriz, jul.-set. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o texto, diversos fatores ao longo do tempo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contribuíram para a democratização do skate.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "evidenciaram as demandas comerciais dos skatistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "definiram a carreira de skatista profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "permitiram que a prática social do skate substituísse o surfe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "indicaram a autonomia dos praticantes de skate.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

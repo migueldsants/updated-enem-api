@@ -1,0 +1,47 @@
+{
+    "title": "Questão 179 - ENEM 2013 - Reaplicação",
+    "index": 179,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um trabalhador possui um cartão de crédito que, em\ndeterminado mês, apresenta o saldo devedor a pagar no\nvencimento do cartão, mas não contém parcelamentos\na acrescentar em futuras faturas. Nesse mesmo\nmês, o trabalhador é demitido. Durante o período de\ndesemprego, o trabalhador deixa de utilizar o cartão de\ncrédito e também não tem como pagar as faturas, nem\na atual nem as próximas, mesmo sabendo que, a cada\nmês, incidirão taxas de juros e encargos por conta do não\npagamento da dívida. Ao conseguir um novo emprego,\njá completados 6 meses de não pagamento das faturas,\no trabalhador procura renegociar sua dívida. O gráfico\nmostra a evolução do saldo devedor.\n\n![](https://enem.dev/2013-reaplicacao/questions/179/a5293353-b29e-4280-9ee6-ae782e2a8902.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/179/12dad18a-53bc-4f1a-bc42-a668a24e87fb.png)\n\n750\n700\n650\n600\n550\n500\n\nTempo (meses)\n\n![](https://enem.dev/2013-reaplicacao/questions/179/e5600048-d968-4109-89ee-dec71de09bac.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/179/a5293353-b29e-4280-9ee6-ae782e2a8902.png",
+        "https://enem.dev/2013-reaplicacao/questions/179/12dad18a-53bc-4f1a-bc42-a668a24e87fb.png",
+        "https://enem.dev/2013-reaplicacao/questions/179/e5600048-d968-4109-89ee-dec71de09bac.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base no gráfico, podemos constatar que o saldo\ndevedor inicial, a parcela mensal de juros e a taxa de\njuros são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 500,00; constante e inferior a 10% ao mês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 560,00; variável e inferior a 10% ao mês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 500,00; variável e superior a 10% ao mês.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R$ 560,00; constante e superior a 10% ao mês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 500,00; variável e inferior a 10% ao mês.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

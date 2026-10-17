@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2021 - Digital",
+    "index": 22,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os linguistas têm notado a expansão do tratamento informal. “Tenho 78 anos e devia\nser tratado por senhor, mas meus alunos mais jovens me tratam por você”, diz o\nprofessor Ataliba Castilho, aparentemente sem se incomodar com a informalidade,\ninconcebível em seus tempos de estudante. O você, porém, não reinará sozinho. O tu\npredomina em Porto Alegre e convive com o você no Rio de Janeiro e em Recife,\nenquanto você é o tratamento predominante em São Paulo, Curitiba, Belo Horizonte e\nSalvador. O tu já era mais próximo e menos formal que você nas quase 500 cartas do\nacervo on-line de uma instituição universitária, quase todas de poetas, políticos e outras\npersonalidades do final do século XIX e início do XX.\n\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 21 abr. 2015 (adaptado).\n\nNo texto, constata-se que os usos de pronomes variaram ao longo do tempo e que\natualmente têm empregos diversos pelas regiões do Brasil. Esse processo revela que",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "a escolha de “você” ou de “tu” está condicionada à idade da pessoa que usa o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pronome.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a possibilidade de se usar tanto “tu” quanto “você” caracteriza a diversidade da língua.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o pronome “tu” tem sido empregado em situações informais por todo o país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a ocorrência simultânea de “tu” e de “você” evidencia a inexistência da distinção entre níveis de formalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o emprego de “você” em documentos escritos demonstra que a língua tende a se manter inalterada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

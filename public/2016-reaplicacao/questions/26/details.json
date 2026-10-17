@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2016 - Reaplicação",
+    "index": 26,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A atividade atualmente chamada de ciência tem\nse mostrado fator importante no desenvolvimento\nda civilização liberal: serviu para eliminar crenças e\npráticas supersticiosas, para afastar temores brotados\nda ignorância e para fornecer base intelectual de\navaliação de costumes herdados e de normas\ntradicionais de conduta.\n\nNAGEL, E. et al. Ciência: natureza e objetivo. São Paulo: Cultrix, 1975 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quais características permitem conceber a ciência com\nos aspectos críticos mencionados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresentar explicações em uma linguagem determinada e isenta de erros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Possuir proposições que são reconhecidas como inquestionáveis e necessárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ser fundamentada em um corpo de conhecimento autoevidente e verdadeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estabelecer rigorosa correspondência entre princípios explicativos e fatos observados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Constituir-se como saber organizado ao permitir classificações deduzidas da realidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

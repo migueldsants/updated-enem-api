@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2013 - Reaplicação",
+    "index": 102,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/102/119c9798-3660-408c-a532-b0e4631a19de.png)\n\nDisponível em: http://euvoudebike.com.br. Acesso em: 23 ago. 2011.\n\nDois ciclistas profissionais chocaram-se em um parque\npúblico e culparam a ineficiência da sinalização local,\numa vez que ambos leram e respeitaram a placa dirigida\na esse tipo de esportista.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/102/119c9798-3660-408c-a532-b0e4631a19de.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os fatos relatados e a leitura da referida placa revelam que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a obediência às regras de segurança é fundamental na prática de esportes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a prática de esporte dificulta a concentração do ciclista em outras informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a interpretação dos textos pode ser prejudicada por equívocos em sua elaboração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a capacidade de leitura do ciclista é fundamental para o alcance de um bom rendimento físico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a responsabilidade pelas informações produzidas pelas placas de trânsito é de quem vai usar a via pública.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

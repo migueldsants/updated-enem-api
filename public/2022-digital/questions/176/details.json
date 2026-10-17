@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2022 - Digital",
+    "index": 176,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo\nque avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O\nmodelo é dado por p(t) = −t² + 10t + 24, sendo t um número natural, variando de 1 a 12,\nque representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do\nano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal\nde Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia.\nForam apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de\nintensificação das propagandas:\n\n• I: 1 ≤ t ≤ 2;\n\n• II: 3 ≤ t ≤ 4;\n\n• III: 5 ≤ t ≤ 6;\n\n• IV: 7 ≤ t ≤ 9;\n\n• V: 10 ≤ t ≤ 12.\n\nA sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação\nda propaganda englobe o mês em que, segundo o modelo, há a maior quantidade de\ninfectados. A sugestão foi aceita.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A proposta escolhida foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2014 - Reaplicação",
+    "index": 85,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A formação de estalactites depende da reversibilidade de uma reação química. O carbonato de cálcio CaCO₃)\né encontrado em depósitos subterrâneos na forma de pedra calcária. Quando um volume de água rica em CO₂\ndissolvido infiltra-se no calcário, o minério dissolve-se formando íons Ca²⁺ e HCO₃⁻. Numa segunda etapa, a solução\naquosa desses íons chega a uma caverna e ocorre a reação inversa, promovendo a liberação de CO₂ e a deposição\nde CaCO₃, de acordo com a equação apresentada.\n\n![](https://enem.dev/2014-reaplicacao/questions/85/caef46e3-8dce-466c-a8cb-97cebdc96826.png)\n\nKOTZ, J. C.; TREICHEL, P. L.; WEAVER, G. C. Química geral e reações químicas. São Paulo: Cengage Learning, 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/85/caef46e3-8dce-466c-a8cb-97cebdc96826.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando o equilíbrio que ocorre na segunda etapa, a formação de carbonato será favorecida pelo a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminuição da concentração de íons OH⁻ no meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumento da pressão do ar no interior da caverna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminuição da concentração de HCO₃⁻ no meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento da temperatura no interior da caverna.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "aumento da concentração de CO₂ dissolvido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

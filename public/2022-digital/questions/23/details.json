@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2022 - Digital",
+    "index": 23,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Mas seu olhar verde, inconfundível, impressionante, iluminava com sua luz misteriosa\nas sombrias arcadas superciliares, que pareciam queimadas por ela, dizia logo a sua\norigem cruzada e decantada através das misérias e dos orgulhos de homens de aventura,\ncontadores de histórias fantásticas, e de mulheres caladas e sofredoras, que\nacompanhavam os maridos e amantes através das matas intermináveis, expostas às\nfebres, às feras, às cobras do sertão indecifrável, ameaçador e sem fim, que elas\npercorriam com a ambição única de um “pouso” onde pudessem viver, por alguns dias, a\nvida ilusória de família e de lar, sempre no encalço dos homens, enfebrados pela procura\ndo ouro e do diamante.\n\nPENNA, C. Fronteira. Rio de Janeiro: Tecnoprint, s/d.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao descrever os olhos de Maria Santa, o narrador estabelece correlações que refletem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "caracterização da personagem como mestiça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "construção do enredo de conquistas da família.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "relação conflituosa das mulheres e seus maridos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nostalgia do desejo de viver como os antepassados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "marca de antigos sofrimentos no fluxo de consciência.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

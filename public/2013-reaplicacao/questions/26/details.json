@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2013 - Reaplicação",
+    "index": 26,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Sou um partidário da Comuna de Paris, que, por ter\nsido massacrada, sufocada no sangue pelos carrascos da\nreação monárquica e clerical, tornou-se ainda mais viva,\nmais poderosa na imaginação e no coração do proletariado\nda Europa; sou seu partidário sobretudo porque ela foi\numa negação audaciosa, bem pronunciada, do Estado.\n\nBAKUNIN, M. apud SAMIS, A. Negras tormentas: o federalismo e o internacionalismo na\nComuna de Paris. São Paulo: Hedra, 2011.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A Comuna de Paris despertou a reação dos setores\nsociais mencionados no texto, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "instituiu a participação política direta do povo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "consagrou o princípio do sufrágio universal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "encerrou o período de estabilidade política europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "simbolizou a vitória do ideário marxista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "representou a retomada dos valores do liberalismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

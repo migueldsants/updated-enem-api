@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2022 - Digital",
+    "index": 30,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A senhora manifestava-se por atos, por gestos, e sobretudo por um certo silêncio,\nque amargava, que esfolava. Porém desmoralizar escancaradamente o marido, não era\ncom ela. [...]\n\nAs negras receberam ordem para meter no serviço a gente do tal compadre Silveira:\nas cunhadas, ao fuso; os cunhados, ao campo, tratar do gado com os vaqueiros; a mulher\ne as irmãs, que se ocupassem da ninhada. Margarida não tivera filhos, e como os\ndesejasse com a força de suas vontades, tratava sempre bem aos pequenitos e às mães\nque os estavam criando. Não era isso uma sentimentalidade cristã, uma ternura, era o\negoísta e cru instinto da maternidade, obrando por mera simpatia carnal. Quanto ao pai\ndo lote (referia-se ao Antônio), esse que fosse ajudar ao vaqueiro das bestas.\n\nOrdens dadas, o Quinquim referendava. Cada um moralizava o outro, para\nmoralizar-se.\n\nPAIVA, M. O. Dona Guidinha do Poço.Rio de Janeiro: Tecnoprint, s/d.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No trecho do romance naturalista, a forma como o narrador julga comportamentos e\nemoções das personagens femininas revela influência do pensamento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "capitalista, marcado pela distribuição funcional do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "liberal, buscando a igualdade entre pessoas escravizadas e livres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "científico, considerando o ser humano como um fenômeno biológico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "religioso, fundamentado na fé e na aceitação dos dogmas do cristianismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "afetivo, manifesto na determinação de acolher familiares e no respeito mútuo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

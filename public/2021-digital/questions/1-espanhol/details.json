@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2021 - Digital",
+    "index": 1,
+    "year": 2021,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Se reunieron en un volumen todas las entrevistas dadas por el poeta y dramaturgo\nFederico García Lorca. Lorca concedió 133 entrevistas; leyéndolas se sabrá qué estaba\npor detrás de la poética del escritor andaluz. Sobre su obra declaró en una de ellas: “No\nhe sido nunca poeta de minoría. He tratado de poner en mis poemas lo de todos los\ntiempos, lo permanente, lo humano. A mí me ataca lo humano, es el elemento\nfundamental en toda obra de arte”. Y en otra dijo: “Hoy no interesa más que una\nproblemática: lo social. La obra que no siga esa dirección está condenada al fracaso,\naunque sea muy buena”. En su última entrevista, de junio de 1936, Lorca se muestra\nprofético: “Ni el poeta ni nadie tiene la clave y el secreto del mundo. Quiero ser bueno. Sé\nque la poesía eleva y creo firmemente que si hay un más allá tendré la agradable\nsorpresa de encontrarme con él. Pero el dolor del hombre y la injusticia constante que\nmana del mundo, y mi propio cuerpo y mi propio pensamiento, me evitan trasladar mi\ncasa a las estrellas”.\n\nAYÉN, X. Retrato del poeta como “muchachón gitanazo”. Disponível em: www.clarin.com.\nAcesso em: 8 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse trecho da resenha de um livro de entrevistas concedidas por Federico García Lorca\ntem por finalidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ressaltar a atração do entrevistado por questões místicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "divulgar a comoção das elites com as obras do entrevistado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "salientar o compromisso do entrevistado com as questões sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mostrar a atualidade das obras poéticas e teatrais do entrevistado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "criticar o interesse do entrevistado por particularidades da vida humana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

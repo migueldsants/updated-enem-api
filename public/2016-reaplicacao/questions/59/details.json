@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2016 - Reaplicação",
+    "index": 59,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O cladograma representa relações filogenéticas entre\nos vertebrados.\n\n![](https://enem.dev/2016-reaplicacao/questions/59/edfa39a4-78e4-4a69-aed8-19024fb309f2.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/59/edfa39a4-78e4-4a69-aed8-19024fb309f2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A correspondência correta entre as indicações numéricas\nno cladograma e a característica evolutiva é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I – endotermia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II – coluna vertebral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III – ovo amniótico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV – respiração pulmonar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V – membros locomotores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

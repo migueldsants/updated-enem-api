@@ -1,0 +1,46 @@
+{
+    "title": "Questão 92 - ENEM 2020 - Digital",
+    "index": 92,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O adaptador de tomada tipo T (Figura 1) é um acessório utilizado em domicílios para ligar\nvários aparelhos eletrodomésticos em uma única tomada. Conectar três aparelhos de alta\npotência em um mesmo adaptador pode superaquecê-lo e, consequentemente, provocar um\nincêndio. O circuito da Figura 2A representa um aparelho de resistência elétrica R ligado ao\nadaptador de resistência elétrica r. Na Figura 2B está representado um circuito com três\naparelhos de resistência elétrica R ligados ao mesmo adaptador. Em ambos os circuitos, os\npontos C e D são os terminais de uma mesma tomada elétrica. Considere todos os resistores\nôhmicos.\n\n![](https://enem.dev/2020-digital/questions/92/ff287619-3d01-4cbd-9d72-c6f89e6113d8.png)\n\nFigura 1\n\n![](https://enem.dev/2020-digital/questions/92/8220b1dc-5a9f-4ce3-8aa6-54553dff252e.png)\n\nFigura 2",
+    "files": [
+        "https://enem.dev/2020-digital/questions/92/ff287619-3d01-4cbd-9d72-c6f89e6113d8.png",
+        "https://enem.dev/2020-digital/questions/92/8220b1dc-5a9f-4ce3-8aa6-54553dff252e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Comparando-se a Figura 2B com a Figura 2A, verifica-se que o possível superaquecimento do\nadaptador de tomada acontece em decorrência do aumento da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tensão em R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "corrente em R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tensão entre C e D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "corrente entre C e D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "resistência equivalente entre C e D.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

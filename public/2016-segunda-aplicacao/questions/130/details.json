@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2016 - Segunda aplicação",
+    "index": 130,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Do amor à pátria\nSão doces os caminhos que levam de volta à pátria.\nNão à pátria amada de verdes mares bravios, a mirar em\nberço esplêndido o esplendor do Cruzeiro do Sul; mas a\numa outra mais íntima, pacífica e habitual — uma cuja\nterra se comeu em criança, uma onde se foi menino\nansioso por crescer, uma onde se cresceu em sofrimentos\ne esperanças plantando canções, amores e filhos ao\nsabor das estações.\n\nMORAES, V. Poesia completa e prosa. Rio de Janeiro: Nova Aguilar, 1987.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O nacionalismo constitui tema recorrente na literatura\nromântica e na modernista. No trecho, a representação\nda pátria ganha contornos peculiares porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o amor àquilo que a pátria oferece é grandioso e eloquente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os elementos valorizados são intimistas e de dimensão subjetiva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o olhar sobre a pátria é ingênuo e comprometido pela inércia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o patriotismo literário tradicional é subvertido e motivo de ironia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a natureza é determinante na percepção do valor da pátria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

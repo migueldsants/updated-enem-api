@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2020 - Digital",
+    "index": 96,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para se deslocar e obter alimentos, alguns mamíferos, como morcegos e golfinhos,\ncontam com a sofisticada capacidade biológica de detectar a posição de objetos e animais\npela emissão e recepção de ondas ultrassônicas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O fenômeno ondulatório que permite o uso dessa capacidade biológica é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflexão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "difração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dispersão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "polarização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

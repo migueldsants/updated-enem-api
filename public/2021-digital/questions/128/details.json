@@ -1,0 +1,48 @@
+{
+    "title": "Questão 128 - ENEM 2021 - Digital",
+    "index": 128,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura foi extraída de um antigo jogo para computadores, chamado Bang! Bang!\n\n![](https://enem.dev/2021-digital/questions/128/b05a7d84-f1ef-4d61-be4a-326c7330735a.png)\n\nNo jogo, dois competidores controlam os canhões A e B, disparando balas\nalternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem\n\n![](https://enem.dev/2021-digital/questions/128/2a011f08-0338-47b0-b0db-121e6c7d33ec.png)\n\nvalores estimados para o módulo da velocidade inicial de disparo ( ) e para o ângulo\nde disparo (θ).\n\nEm determinado momento de uma partida, o competidor B deve disparar; ele sabe\nque a bala disparada anteriormente, θ = 53°, passou tangenciando o ponto P.\n\n![](https://enem.dev/2021-digital/questions/128/21218a57-2fb6-4b4c-b840-359e4541aa17.png)\n\nNo jogo, é igual a 10 m/s . Considere sen 53° = 0,8, cos 53° = 0,6 e desprezível²\na ação de forças dissipativas.\n\nDisponível em: http://mebdownloads.butzke.net.br. Acesso em: 18 abr. 2015 (adaptado).\n\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser,\n\n![](https://enem.dev/2021-digital/questions/128/ef38d144-1549-48ea-aae3-b183b9fe7db9.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/128/b05a7d84-f1ef-4d61-be4a-326c7330735a.png",
+        "https://enem.dev/2021-digital/questions/128/2a011f08-0338-47b0-b0db-121e6c7d33ec.png",
+        "https://enem.dev/2021-digital/questions/128/21218a57-2fb6-4b4c-b840-359e4541aa17.png",
+        "https://enem.dev/2021-digital/questions/128/ef38d144-1549-48ea-aae3-b183b9fe7db9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "aproximadamente, o menor valor de que permitiria ao disparo efetuado pelo canhão\nB atingir o canhão A?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30 m/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "35 m/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "40 m/s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "45 m/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 m/s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

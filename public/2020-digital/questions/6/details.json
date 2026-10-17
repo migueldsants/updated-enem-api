@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2020 - Digital",
+    "index": 6,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O livro It – A Coisa, de Stephen King\n\nDurante as férias escolares de 1958, em Derry, pacata cidadezinha do Maine, Bill, Richie,\nStan, Mike, Eddie, Ben e Beverly aprenderam o real sentido da amizade, do amor, da\nconfiança e... do medo. O mais profundo e tenebroso medo. Naquele verão, eles enfrentaram\npela primeira vez a Coisa, um ser sobrenatural e maligno, que deixou terríveis marcas de\nsangue em Derry. Quase trinta anos depois, os amigos voltam a se encontrar. Uma nova onda\nde terror tomou a pequena cidade. Mike Hanlon, o único que permanece em Derry, dá o sinal.\nPrecisam unir forças novamente. A Coisa volta a atacar e eles devem cumprir a promessa\nselada com sangue que fizeram quando crianças. Só eles têm a chave do enigma. Só eles\nsabem o que se esconde nas entranhas de Derry. O tempo é curto, mas somente eles podem\nvencer a Coisa. Em It – A Coisa, clássico de Stephen King em nova edição, os amigos irão até\no fim, mesmo que isso signifique ultrapassar os próprios limites.\n\nDisponível em: www.livrariacultura.com.br. Acesso em: 1 dez. 2017.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Relacionando-se os elementos que compõem esse texto, depreende-se que sua função social\nconsiste em levar o leitor a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "compreender a história vivenciada por amigos na cidade de Derry.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "interpretar a obra com base em uma descrição detalhada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "avaliar a publicação com base em uma síntese crítica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "adquirir a obra apresentada no site da livraria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "argumentar em favor da obra resumida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

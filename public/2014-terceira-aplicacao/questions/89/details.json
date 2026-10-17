@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2014 - Terceira aplicação",
+    "index": 89,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A indústria têxtil é responsável por um consumo\nelevado de água e de outros produtos, gerando grande\nquantidade de efluentes com concentração alta e\ncomposição complexa, principalmente nos processos de\ntingimento e acabamento.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Visando minimizar os efeitos ambientais nocivos\nocasionados pela grande quantidade de efluente\ncontaminado, a catálise — quebra de moléculas —\nrecebeu atenção especial, visto que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "permite a estocagem correta do efluente, evitando a contaminação de rios e lagos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os catalisadores são substâncias que têm como objetivo principal a neutralização do pH do meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pode recuperar todos os produtos químicos presentes na água, permitindo a reutilização desses compostos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "associada a processos oxidativos, pode provocar a completa mineralização dos contaminantes, formando gás carbônico e água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "permite o retorno do efluente contaminado para o processo, uma vez que provoca a floculação dos produtos, facilitando a separação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

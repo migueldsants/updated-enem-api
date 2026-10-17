@@ -1,0 +1,43 @@
+{
+    "title": "Questão 152 - ENEM 2012 - Reaplicação",
+    "index": 152,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O apresentador de um programa de auditório propôs\naos participantes de uma competição a seguinte tarefa:\ncada participante teria 10 minutos para recolher moedas\ndouradas colocadas aleatoriamente em um terreno\ndestinado à realização da competição. A pontuação dos\ncompetidores seria calculada ao final do tempo destinado\na cada um dos participantes, no qual as moedas coletadas\npor eles seriam contadas e a pontuação de cada um\nseria calculada, subtraindo do número de moedas\ncoletadas uma porcentagem de valor igual ao número\nde moedas coletadas. Dessa forma, um participante que\ncoletasse 60 moedas teria sua pontuação calculada da\nseguinte forma: pontuação = 60 – 36 (60% de 60) = 24.\nO vencedor da prova seria o participante que alcançasse\na maior pontuação.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual será o limite máximo de pontos que um competidor\npode alcançar nessa prova?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "75",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

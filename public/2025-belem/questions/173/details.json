@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 173,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um engenheiro é responsável por acompanhar o processo\nde controle de produção de uma fábrica de parafusos.\nEsse processo é considerado sob controle se o comprimento C\ndos parafusos satisfizer M - 3d ≤ C ≤ M + 3d sendo M a média\ndos comprimentos e d o desvio padrão dos comprimentos dos\nparafusos. Na última coleta de dados em que o processo foi\nconsiderado sob controle, foram obtidos M = 5,0 cm e d = 1,2 cm.\n\nCom a chegada de uma nova máquina, a variabilidade\ndos comprimentos dos parafusos foi reduzida, e o processo\nfoi considerado sob controle. A média dos comprimentos\ndos parafusos produzidos por essa nova máquina foi 5,6 cm,\ne nenhum desses parafusos teve comprimento menor que a\nmedida mínima, nem maior que a medida máxima dos parafusos\nproduzidos pela máquina anterior.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O desvio padrão, em centímetro, para o novo intervalo deverá\nser, no máximo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

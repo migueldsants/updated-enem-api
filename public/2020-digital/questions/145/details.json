@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2020 - Digital",
+    "index": 145,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra as receitas e as despesas de uma empresa nos meses de julho a\nnovembro de um ano. O resultado financeiro, obtido pela diferença entre receita e despesa,\npode ser positivo (lucro) ou negativo (prejuízo).\n\n![](https://enem.dev/2020-digital/questions/145/7eb4d625-65bc-4e5e-bcb8-f108825da5ae.png)\n\nSabendo que o mês de dezembro é, em geral, de melhores vendas, o dono da empresa\nfaz uma previsão de que a receita naquele mês terá um aumento, em relação ao mês anterior,\ncom a mesma taxa de crescimento ocorrida de setembro para outubro, e que a despesa irá se\nmanter a mesma de novembro.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/145/7eb4d625-65bc-4e5e-bcb8-f108825da5ae.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se confirmadas as previsões do dono da empresa, o resultado financeiro a ser obtido no\nsemestre de julho a dezembro será um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "prejuízo de R$ 2 650,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "prejuízo de R$ 850,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "lucro de R$ 7 150,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "lucro de R$ 5 950,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "lucro de R$ 350,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

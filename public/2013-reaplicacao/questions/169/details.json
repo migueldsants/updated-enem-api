@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2013 - Reaplicação",
+    "index": 169,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa aérea lança uma promoção de final de\nsemana para um voo comercial. Por esse motivo, o cliente\nnão pode fazer reservas e as poltronas serão sorteadas\naleatoriamente. A figura mostra a posição dos assentos\nno avião:\n\n![](https://enem.dev/2013-reaplicacao/questions/169/2b33d6ce-71e7-4424-8c0f-27043ad0c8ac.png)\n\nPor ter pavor de sentar entre duas pessoas, um\npassageiro decide que só viajará se a chance de pegar\numa dessas poltronas for inferior a 30%.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/169/2b33d6ce-71e7-4424-8c0f-27043ad0c8ac.png",
+        "https://enem.dev/2013-reaplicacao/questions/169/2d667d7e-3a88-4740-9f8f-35c6b4440bc2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Avaliando a figura, o passageiro desiste da viagem,\nporque a chance de ele ser sorteado com uma poltrona\nentre duas pessoas é mais aproximada de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "31%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "33%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "35%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "68%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/169/2d667d7e-3a88-4740-9f8f-35c6b4440bc2.png",
+            "isCorrect": false
+        }
+    ]
+}

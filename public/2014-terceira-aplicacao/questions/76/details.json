@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2014 - Terceira aplicação",
+    "index": 76,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Adubação verde, uma das maneiras de cultivar e\ntratar bem o solo, é uma técnica agrícola que consiste\nno cultivo de espécies de plantas com elevado potencial\nde produção de massa vegetal, semeadas em rotação,\nsucessão e até em consórcio com culturas de interesse\neconômico. No cultivo em rotação, o adubo verde pode\nser incorporado ao solo após a roçada para posterior\nplantio da cultura de interesse econômico, ou mantido\nem cobertura sobre a superfície do terreno, fazendo-se o\nplantio direto da cultura na palhada.\n\nSILVA, A.C.F. Adubação verde e o manejo de cobertura do solo. Jornal Vanguarda, 15 abr. 2010.\n\nAcesso em:www.jvanguarda.com.br adaptado .",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A técnica de adubação verde é vantajosa por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "permitir correção química refinada do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "liberar gradualmente sais minerais diversos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "viabilizar uma adubação rápida em regiões frias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "permitir o arraste da massa vegetal, evitando excesso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "limitar a respiração do solo, diminuindo nematoides indesejados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

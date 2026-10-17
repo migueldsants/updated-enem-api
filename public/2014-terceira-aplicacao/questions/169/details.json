@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2014 - Terceira aplicação",
+    "index": 169,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro a seguir indica a quantidade de medalhas\nobtidas por atletas brasileiros nos Jogos Olímpicos de\n1976 a 2008.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/169/29d26757-e450-45a8-9249-fb13e05b7e04.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/169/29d26757-e450-45a8-9249-fb13e05b7e04.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/169/940a8a54-2283-404a-b47a-13cd4f58bd66.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A mediana e a média do número de medalhas obtidas\npelos atletas brasileiros nos Jogos Olímpicos de 1976 a\n2008 são, respectivamente, iguais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7 e 7,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7 e 8,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8 e 7,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8 e 8,3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/169/940a8a54-2283-404a-b47a-13cd4f58bd66.png",
+            "isCorrect": false
+        }
+    ]
+}

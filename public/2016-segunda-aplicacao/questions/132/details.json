@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2016 - Segunda aplicação",
+    "index": 132,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A educação física ensinada a jovens do ensino\nmédio deve garantir o acúmulo cultural no que tange\nà oportunização de vivência das práticas corporais; a\ncompreensão do papel do corpo no mundo da produção, no\nque tange ao controle sobre o próprio esforço, e do direito\nao repouso e ao lazer; a iniciativa pessoal nas articulações\ncoletivas relativas às práticas corporais comunitárias; a\niniciativa pessoal para criar, planejar ou buscar orientação\npara suas próprias práticas corporais; a intervenção política\nsobre as iniciativas públicas de esporte e de lazer.\n\nDisponível em: www.portal.mec.gov.br. Acesso em: 19 ago. 2012.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Segundo o texto, a educação física visa propiciar ao\nindivíduo oportunidades de aprender a conhecer e a\nperceber, de forma permanente e contínua, o seu próprio\ncorpo, concebendo as práticas corporais como meios para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ampliar a interação social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "atingir padrões de beleza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "obter resultados de alta performance.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reproduzir movimentos predeterminados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alcançar maior produtividade no trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

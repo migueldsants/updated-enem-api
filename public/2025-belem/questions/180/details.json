@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 180,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma piscina com capacidade total de 100 m³ precisava\nser enchida. Inicialmente, prevendo um determinado tempo\nde enchimento, um registro de vazão constante foi aberto\ne começou-se a enchê-la a partir de 0 hora. O volume V de\nágua dentro da piscina, em metro cúbico, t horas após 0 hora,\nera dado pela função V(t) = 20 + 5t. Às 10 horas, um novo registro,\ntambém de vazão constante, foi aberto e passou a funcionar\nconjuntamente com o anterior, de maneira a diminuir em 4 horas\no tempo de enchimento inicialmente previsto.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A vazão do novo registro, em metro cúbico por hora, foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "35.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

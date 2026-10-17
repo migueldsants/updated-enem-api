@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2021 - Digital",
+    "index": 158,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para\nefetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas\nem cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham\nà mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos\ncompletos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto\npor um grupo para trocar um pneu é inversamente proporcional ao número de pessoas\ntrabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde\nparticipar da troca e nem foi substituído, de forma que um dos quatro grupos de troca\nficou reduzido.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em\nsegundo, para trocar os quatro pneus?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5,7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2015 - Reaplicação",
+    "index": 43,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As autoridades de Kiribati, arquipélago do Oceano\nPacífico formado por 33 atóis e uma ilha de coral, estão\nconscientizando sua população para que aceitem que,\nnas próximas décadas, terão de fugir do país. A estimativa\né que, em um período de 50 anos, as ilhas podem\ndesaparecer. O governo convocou os líderes de todas\nas ilhas para convencê-los da importância de mudar a\nmentalidade das pessoas, com pleno conhecimento que\né uma questão muito sensível porque ameaça a própria\nidentidade de um país. Kiribati já antecipou convênios\ncom Austrália e Nova Zelândia para enviar seus cidadãos\naos países vizinhos, algo que muitos dos moradores do\narquipélago não aceitam.\n\nDisponível em: http://noticias.terra.com.br. Acesso em: 28 jul. 2012.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, faz-se referência a um problema que se tornou\num tema recorrente na agenda global. Nesse sentido,\na preocupação apresentada pela população de Kiribati\nfundamenta-se na previsão de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "submersão de terras habitadas, decorrente da elevação do nível do mar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ocorrência de tsunamis, derivada de mudanças no eixo de rotação do planeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "erupções vulcânicas frequentes, visto que estão assentados sobre o Círculo do Fogo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "terremotos com magnitude extrema, devido à proximidade de bordas de placas tectônicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "furacões de grande intensidade, em função de redução da temperatura média do Oceano Pacífico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

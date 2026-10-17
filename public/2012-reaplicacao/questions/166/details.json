@@ -1,0 +1,48 @@
+{
+    "title": "Questão 166 - ENEM 2012 - Reaplicação",
+    "index": 166,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um pequeno caminhão dispõe de dois reservatórios\nvazios, cada um com capacidade de 2 000 kg, os quais serão\nutilizados para transportar a produção de milho e soja até\num centro consumidor. No centro de abastecimento abre-se\no registro de um primeiro silo às 12 horas para alimentar o\nreservatório 1 com milho, numa taxa de 120 kg por minuto.\nPassados cinco minutos, abre-se o registro de um segundo\nsilo para alimentar o reservatório 2 com soja, numa taxa de\n80 kg por minuto. Considere que a encomenda de milho no\ncentro consumidor seja de 1 800 kg e que, pela lei rodoviária\nlocal, a carga máxima a ser transportada por caminhão seja\nde 3 400 kg.\n\npáäç N páäç O\n\n![](https://enem.dev/2012-reaplicacao/questions/166/a250f0d6-2b92-4e58-a82f-41b4c1f9848c.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/166/4f757107-8569-4870-83cd-f8030338420f.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/166/63a0b8f0-3cfb-47a2-ae91-703f365698de.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/166/a250f0d6-2b92-4e58-a82f-41b4c1f9848c.png",
+        "https://enem.dev/2012-reaplicacao/questions/166/4f757107-8569-4870-83cd-f8030338420f.png",
+        "https://enem.dev/2012-reaplicacao/questions/166/63a0b8f0-3cfb-47a2-ae91-703f365698de.png",
+        "https://enem.dev/2012-reaplicacao/questions/166/847a1cfa-cf6a-4987-a59e-6ab8234a256b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nestas condições, em que instantes devem ser fechados\nos registros dos silos 1 e 2, respectivamente, para que a\nquantidade de soja transportada seja a máxima possível?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12h15min e 12h20min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12h15min e 12h25min",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "12h15min e 12h27min30seg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12h15min e 12h30min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/166/847a1cfa-cf6a-4987-a59e-6ab8234a256b.png",
+            "isCorrect": false
+        }
+    ]
+}

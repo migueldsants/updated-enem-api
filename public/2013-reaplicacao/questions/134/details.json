@@ -1,0 +1,46 @@
+{
+    "title": "Questão 134 - ENEM 2013 - Reaplicação",
+    "index": 134,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A DOSE DO PERIGO\n\nOs principais resultados da pesquisa\nrealizada pelo Ibope em maio passado,\ncom 1 008 adolescentes, 321 pais de\nadolescentes e 1 204 adultos de todo\no estado de São Paulo\n\n13 anos\n\n![](https://enem.dev/2013-reaplicacao/questions/134/b4ed431f-dd86-43d9-ba0f-c63223874e3a.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/134/ea6bf248-2ba8-40fa-acb5-e9393a1cec6f.png)\n\nVeja, São Paulo, 10 ago. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/134/b4ed431f-dd86-43d9-ba0f-c63223874e3a.png",
+        "https://enem.dev/2013-reaplicacao/questions/134/ea6bf248-2ba8-40fa-acb5-e9393a1cec6f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os resultados da pesquisa realizada a respeito do consumo\nde álcool por adolescentes chamam a atenção para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os efeitos maléficos do álcool nos adolescentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o consumo exagerado de álcool entre adolescentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o risco do consumo de álcool cada vez mais precoce.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a problemática do consumo de álcool na década de 1990.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a diferença de comportamento entre adolescentes e adultos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

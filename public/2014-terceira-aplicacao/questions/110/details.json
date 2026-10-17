@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2014 - Terceira aplicação",
+    "index": 110,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014-terceira-aplicacao/questions/110/96de7b16-6e9f-4959-a2fd-3a26977c9656.png)\n\nAdorei a pergunta, darling!\nTem muita gente que não sabe\nse comportar no elevador do pré-\ndio onde mora nem no da empresa em que\ntrabalha. Anote as minhas dicas para o bom convívio de todos:\nentre a saia rapidamente (nada de segurar a porta para terminar\no bate-papo com a sua amiga); ao embarcar, cumprimente os\nque já estão presentes; encerre a conversa com o seu colega ao\nlado ou no celular antes de entrar; não entre se o elevador esti-\nver cheio (o ambiente fica insuportável para todos); espere para\nembarcar, pois a preferência é sempre de quem está desembar-\ncando; se você sair com o seu pet ou carregar objetos grandes,\nespere até que ele esteja vazio ou use as escadas.\n\nAna Maria, 20 jan. 2012.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/110/96de7b16-6e9f-4959-a2fd-3a26977c9656.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas regras de etiqueta, a linguagem coloquial promove\nmaior proximidade do leitor com o texto. Um recurso para\na produção desse efeito constitui um desvio à variedade\npadrão da língua portuguesa. Trata-se do uso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "de palavras estrangeiras, como “darling” e “pet”, pois afrontam a identidade nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "do verbo “ter”, que foi utilizado em lugar de “haver” com o sentido de “existir”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "da forma verbal “adorei”, uma expressão exagerada de emoção e sentimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do modo imperativo, típico das conversas informais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "do substantivo “bate-papo”, que é uma gíria inadequada para regras de etiqueta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

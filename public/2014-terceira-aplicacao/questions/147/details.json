@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2014 - Terceira aplicação",
+    "index": 147,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa precisa comprar creme dental. Ao entrar\nem um supermercado, encontra uma marca em promoção,\nconforme o quadro seguinte:\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/147/33ce88e2-1288-485a-80e1-b600a71b724d.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/147/33ce88e2-1288-485a-80e1-b600a71b724d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pensando em economizar seu dinheiro, o consumidor\nresolve levar a embalagem de número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

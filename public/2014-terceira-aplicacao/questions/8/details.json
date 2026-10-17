@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2014 - Terceira aplicação",
+    "index": 8,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A diplomacia de Rio Branco, paradigmática para\no período, buscou atender a três principais objetivos:\na definição das fronteiras, o aumento do prestígio\ninternacional do país e a afirmação da liderança brasileira\nna América do Sul. Para a consecução desses fins, de\nmodo bastante realista, Rio Branco optou pela política de\n“aliança não escrita” com os Estados Unidos.\n\nSANTOS, L. C. V. G. O dia em que adiaram o carnaval: política externa e a construção do\nBrasil. São Paulo: EdUNESP, 2010 adaptado .",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto em questão, a política externa brasileira esteve\ndirecionada para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "obter um status de hegemonia no continente americano, descartando a atuação britânica na região pela aliança com os Estados Unidos e, futuramente, suplantar esse aliado ocasional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "distanciar as ligações com a Inglaterra e aproximar- se da órbita de influência estadunidense, porém estrategicamente mantendo a autonomia na atuação e objetivos traçados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ampliar as tensões regionais, num movimento belicista que apontava para a resolução dos conflitos pela via militar, contando com o apoio político e material dos Estados Unidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cumprir a agenda norte-americana identificada com a Doutrina Monroe e a política do Big Stick, numa atuação de submissão calculada, procurando minimizar os efeitos negativos de tais investidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estabilizar as tensões no continente americano e, concomitantemente, buscar alcançar objetivos estratégicos geograficamente localizados fora do espaço continental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

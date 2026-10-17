@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2015 - Reaplicação",
+    "index": 175,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fornecedor vendia caixas de leite a um\nsupermercado por R$ 1,50 a unidade. O supermercado\ncostumava comprar 3 000 caixas de leite por mês desse\nfornecedor. Uma forte seca, ocorrida na região onde o\nleite é produzido, forçou o fornecedor a encarecer o preço\nde venda em 40%. O supermercado decidiu então cortar\nem 20% a compra mensal dessas caixas de leite. Após\nessas mudanças, o fornecedor verificou que sua receita\nnas vendas ao supermercado tinha aumentado.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O aumento da receita nas vendas do fornecedor, em\nreais, foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "540.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "600.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "900.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 260.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 500.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

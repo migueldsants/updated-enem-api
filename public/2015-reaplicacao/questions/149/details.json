@@ -1,0 +1,46 @@
+{
+    "title": "Questão 149 - ENEM 2015 - Reaplicação",
+    "index": 149,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os maias desenvolveram um sistema de numeração vigesimal que podia representar qualquer número inteiro,\nnão negativo, com apenas três símbolos. Uma concha representava o zero, um ponto representava o número 1 e uma\nbarrinha horizontal, o número 5. Até o número 19, os maias representavam os números como mostra a Figura 1:\n\n0 1 2 3 4\n\n5 6 7 8 9\n\n10 11 12 13 14\n\nTerceira\n8 x 20²\nposição\n\nSegunda\n6 x 20¹\n\n![](https://enem.dev/2015-reaplicacao/questions/149/181ce39e-623f-43bf-b672-7ceb45902141.png)\n\nposição\n\n15 16 17 18 19\n\nPrimeira\n12 x 1\nposição\n\nFigura 1 Figura 2\n\nNúmeros superiores a 19 são escritos na vertical, seguindo potências de 20 em notação posicional, como mostra\na Figura 2.\n\nOu seja, o número que se encontra na primeira posição é multiplicado por 20⁰ = 1, o número que se encontra na\nsegunda posição é multiplicado por 20¹ = 20 e assim por diante. Os resultados obtidos em cada posição são somados\npara obter o número no sistema decimal.\n\nUm arqueólogo achou o hieroglifo da Figura 3 em um sítio arqueológico:\n\nTerceira\nposição\n\nSegunda\nposição\n\n![](https://enem.dev/2015-reaplicacao/questions/149/286250c1-5daf-48a2-b009-3a68d7f1e553.png)\n\nPrimeira\nposição\n\nFigura 3\n\nDisponível em: http://mdmat.mat.ufrgs.br. Acesso em: 13 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/149/181ce39e-623f-43bf-b672-7ceb45902141.png",
+        "https://enem.dev/2015-reaplicacao/questions/149/286250c1-5daf-48a2-b009-3a68d7f1e553.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O número, no sistema decimal, que o hieroglifo da Figura 3 representa é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "279.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "539.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 619.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 219.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7 613.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

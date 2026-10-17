@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2014 - Reaplicação",
+    "index": 73,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Recentemente foram obtidos os fios de cobre\nmais finos possíveis, contendo apenas um átomo de\nespessura, que podem, futuramente, ser utilizados em\nmicroprocessadores. O chamado nanofio, representado\nna figura, pode ser aproximado por um pequeno cilindro\nde comprimento 0,5 nm 1 nm 10^ï⁹ m). A seção reta\nde um átomo de cobre é 0,05 nm² e a resistividade\ndo cobre é 17 Ωnm. Um engenheiro precisa estimar\nse seria possível introduzir esses nanofios nos\n\n![](https://enem.dev/2014-reaplicacao/questions/73/e7217fe4-f95e-47ab-ac67-20f4ed82dd2e.png)\n\nAMORIM, E. P. M.; SILVA, E. Z. Ab initio study of linear atomic chains in copper nanowires.\nPhysical Review B, v. 81, 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/73/e7217fe4-f95e-47ab-ac67-20f4ed82dd2e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um nanofio utilizando as aproximações propostas possui\nresistência elétrica de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "170 nΩ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,17 Ω.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,7 Ω.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "17 Ω.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "170 Ω.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

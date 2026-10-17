@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2016 - Reaplicação",
+    "index": 176,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os sólidos de Platão são poliedros convexos cujas faces são todas congruentes a um único polígono regular, todos\nos vértices têm o mesmo número de arestas incidentes e cada aresta é compartilhada por apenas duas faces. Eles são\nimportantes, por exemplo, na classificação das formas dos cristais minerais e no desenvolvimento de diversos objetos.\nComo todo poliedro convexo, os sólidos de Platão respeitam a relação de Euler V − A + F = 2, em que V, A e F são os\nnúmeros de vértices, arestas e faces do poliedro, respectivamente.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em um cristal, cuja forma é a de um poliedro de Platão de faces triangulares, qual é a relação entre o número de\nvértices e o número de faces?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2V − 4F = 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2V − 2F = 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2V − F = 4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2V + F = 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2V + 5F = 4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

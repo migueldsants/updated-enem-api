@@ -1,0 +1,45 @@
+{
+    "title": "Questão 104 - ENEM 2012 - Reaplicação",
+    "index": 104,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "IDADE\n\n![](https://enem.dev/2012-reaplicacao/questions/104/cc38e3a3-ce17-49e2-97b4-d7bf5ab7c021.png)\n\nBUSCATO, M.; SEGADILHA, B.; PEROSA, T. Disponível em: www.revistaepoca.globo.com.\n\nAcesso em: 28 fev. 2012.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/104/cc38e3a3-ce17-49e2-97b4-d7bf5ab7c021.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em variados momentos de nossa vida, precisamos\ninterpretar as diferentes linguagens dos sistemas de\ncomunicação. O gráfico é um desses sistemas, que, no\ncaso apresentado, indica que as habilidades associadas\nà inteligência humana variam de acordo com a idade.\nConsiderando essa informação, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as habilidades verbal e de resolução de problemas destacam-se entre 40 e 60 anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a habilidade numérica diminui consideravelmente entre 20 e 40 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a habilidade de resolução de problemas piora consideravelmente a partir dos 30 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as habilidades humanas, em geral, declinam consideravelmente a partir dos 40 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a habilidade numérica melhora muito na faixa etária entre 60 e 80 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

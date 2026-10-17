@@ -1,0 +1,46 @@
+{
+    "title": "Questão 160 - ENEM 2016 - Reaplicação",
+    "index": 160,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O percentual da população brasileira conectada à\ninternet aumentou nos anos de 2007 a 2011. Conforme\ndados do Grupo Ipsos, essa tendência de crescimento é\nmostrada no gráfico.\n\n![](https://enem.dev/2016-reaplicacao/questions/160/0dbae7e5-6136-4fed-aad3-95ad4cf5ffd8.png)\n\nBrasileiros conectados à internet\n\n![](https://enem.dev/2016-reaplicacao/questions/160/866c9217-2af6-4c6d-88d5-0d3913a2b063.png)\n\nPopulação (%)\n\n2007 2011 Ano\n\nSuponha que foi mantida, para os anos seguintes, a\nmesma taxa de crescimento registrada no período 2007-2011.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/160/0dbae7e5-6136-4fed-aad3-95ad4cf5ffd8.png",
+        "https://enem.dev/2016-reaplicacao/questions/160/866c9217-2af6-4c6d-88d5-0d3913a2b063.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A estimativa para o percentual de brasileiros conectados\nà internet em 2013 era igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "56,40%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "58,50%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "60,60%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "63,75%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "72,00%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

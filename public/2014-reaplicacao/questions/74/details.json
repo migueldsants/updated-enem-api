@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2014 - Reaplicação",
+    "index": 74,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os manuais dos fornos micro-ondas desaconselham,\nsob pena de perda da garantia, que eles sejam ligados em\nparalelo juntamente a outros aparelhos eletrodomésticos\npor meio de tomadas múltiplas, popularmente conhecidas\ncomo “benjamins” ou “tês”, devido ao alto risco de incêndio\ne derretimento dessas tomadas, bem como daquelas dos\npróprios aparelhos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os riscos citados são decorrentes da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "resistividade da conexão, que diminui devido à variação de temperatura do circuito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "corrente elétrica superior ao máximo que a tomada múltipla pode suportar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "resistência elétrica elevada na conexão simultânea de aparelhos eletrodomésticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tensão insuficiente para manter todos os aparelhos eletrodomésticos em funcionamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "intensidade do campo elétrico elevada, que causa o rompimento da rigidez dielétrica da tomada múltipla.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

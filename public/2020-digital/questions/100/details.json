@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2020 - Digital",
+    "index": 100,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os ventos solares são fenômenos caracterizados por feixes de partículas carregadas,\nlançadas pelo Sol, no espaço, em alta velocidade. Somente uma pequena fração dessas\npartículas atinge a atmosfera nos polos, provocando as auroras. A chegada dessas partículas\nà superfície pode gerar efeitos indesejáveis, interferindo nas telecomunicações, no tráfego\naéreo e nas linhas de transmissão de energia elétrica.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esses efeitos são minimizados na Terra pela ação de seu(sua)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ionosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "campo geomagnético.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "campo gravitacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "atmosfera.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

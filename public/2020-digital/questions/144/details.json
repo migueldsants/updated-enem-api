@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2020 - Digital",
+    "index": 144,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na central nuclear de Angra dos Reis, os resíduos produzidos em duas décadas de\noperações somam quase 446 toneladas de combustível usado, que permanecerá radioativo\ndurante milhares de anos. O Ibama condicionou o início da operação de Angra 3, previsto para\n2014, à aprovação de um projeto de depósito definitivo. A Comissão Nacional de Energia\nNuclear (CNEN) se comprometeu a apresentar, até 2010, um modelo de depósito para\narmazenar o lixo radioativo por 500 anos, em vez de milhares de anos.\n\nÉpoca, 8 set. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Supondo que a taxa de produção de combustível permaneça constante e que seja necessário\ncerto volume V para o armazenamento das 446 toneladas já produzidas, qual é o volume\nmínimo aproximado que um depósito deve ter para armazenar o lixo radioativo produzido em\n500 anos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25 V",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "149 V",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 340 V",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11 150 V",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "14 887 V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

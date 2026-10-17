@@ -1,0 +1,46 @@
+{
+    "title": "Questão 148 - ENEM 2014 - Reaplicação",
+    "index": 148,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014-reaplicacao/questions/148/5c440db8-4ada-4ada-9624-a108bc1735c9.png)\n\ncm\n\n![](https://enem.dev/2014-reaplicacao/questions/148/fb5e34c3-c24b-4251-a174-77e1191e564a.png)\n\n1 9 cm",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/148/5c440db8-4ada-4ada-9624-a108bc1735c9.png",
+        "https://enem.dev/2014-reaplicacao/questions/148/fb5e34c3-c24b-4251-a174-77e1191e564a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com essas informações, o perímetro do\nterreno, em metros, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "110.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "120.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "124.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "130.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "144.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

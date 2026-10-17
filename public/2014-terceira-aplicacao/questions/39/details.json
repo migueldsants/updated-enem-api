@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2014 - Terceira aplicação",
+    "index": 39,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Numa época de revisão geral, em que valores são\ncontestados, reavaliados, substituídos e muitas vezes\nrecriados, a crítica tem papel preponderante. Essa, de\nfato, é uma das principais características das Luzes,\nque, recusando as verdades ditadas por autoridades,\nsubmetem tudo ao crivo da crítica.\n\nKANT, I. O julgamento da razão. In: ABRO, B. S. Org. História da Filosofia. São Paulo:\nNova Cultural, 1999.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O Iluminismo tece críticas aos valores estabelecidos sob\na rubrica da autoridade e, nesse sentido, propõe",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a defesa do pensamento dos enciclopedistas que, com seus escritos, mantinham o ideário religioso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o estímulo da visão reducionista do humanismo, permeada pela defesa de isenção em questões políticas e sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a consolidação de uma visão moral e filosófica pautada em valores condizentes com a centralização política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a manutenção dos princípios da metafísica, dando vastas esperanças de emancipação para a humanidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o incentivo do saber, eliminando superstições e avançando na dimensão da cidadania e da ciência.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 153 - ENEM 2022 - Digital",
+    "index": 153,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em\nmilhão de reais, no decorrer dos meses de um determinado ano. A empresa obtém lucro\nquando a diferença entre receita e despesa é positiva e tem prejuízo quando essa\ndiferença é negativa.\n\n![](https://enem.dev/2022-digital/questions/153/30114090-3dfe-43aa-973a-7d29c585a05f.png)\n\nJan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez.\n\n![](https://enem.dev/2022-digital/questions/153/aee33a8e-32a6-45d5-9869-8a0e8bf3a4f0.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/153/30114090-3dfe-43aa-973a-7d29c585a05f.png",
+        "https://enem.dev/2022-digital/questions/153/aee33a8e-32a6-45d5-9869-8a0e8bf3a4f0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa\nnesse ano?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5,5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2016 - Segunda aplicação",
+    "index": 109,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O último longa de Carlão acompanha a operária\nSilmara, que vive com o pai, um ex-presidiário, numa casa\nda periferia paulistana. Ciente de sua beleza, o que lhe\ndá certa soberba, a jovem acredita que terá um destino\ndiferente do de suas colegas. Cruza o caminho de dois\ncantores por quem é apaixonada. E constata, na prática,\nque o romantismo dos contos de fada tem perna curta.\n\nVOMERO, M. F. Romantismo de araque. Vida Simples, n. 121, ago. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Reconhece-se, nesse trecho, uma posição crítica aos\nideais de amor e felicidade encontrados nos contos de\nfada. Essa crítica é traduzida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela descrição da dura realidade da vida das operárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pelas decepções semelhantes às encontradas nos contos de fada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pela ilusão de que a beleza garantiria melhor sorte na vida e no amor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pelas fantasias existentes apenas na imaginação de pessoas apaixonadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pelos sentimentos intensos dos apaixonados enquanto vivem o romantismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

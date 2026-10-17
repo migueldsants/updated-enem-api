@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2020 - Digital",
+    "index": 98,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No Autódromo de Interlagos, um carro de Fórmula 1 realiza a curva S do Senna numa\ntrajetória curvilínea. Enquanto percorre esse trecho, o velocímetro do carro indica velocidade\nconstante.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quais são a direção e o sentido da aceleração do carro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Radial, apontada para fora da curva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Radial, apontada para dentro da curva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Aceleração nula, portanto, sem direção nem sentido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tangencial, apontada no sentido da velocidade do carro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Tangencial, apontada no sentido contrário à velocidade do carro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

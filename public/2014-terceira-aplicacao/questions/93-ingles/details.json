@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2014 - Terceira aplicação",
+    "index": 93,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Japan — Earthquake, Tsunami and Nuclear Crisis (2011)\n\nIn many ways, Japan is still reeling from the devastating\nearthquake and tsunami of March 2011and the nuclear\ncrisis and huge leaks of radiation it set off.\n\nThe earthquake and tsunami led to soul searching in a\nnation already worn down by two lost decades of economic\ngrowth, a rapidly aging and now shrinking population,\npolitical paralysis and the rapid rise of its longtime rival,\nChina.\n\nThe government will now focus on removing the\nfuel stored at the site, opening up the ravaged reactors\nthemselves and eventually dismantling the plant, a\nprocess that is expected to take at least four decades, Mr.\nNoda said.\n\nBut for many of the people of Fukushima, the crisis is\nfar from over. More than 160,000 people remain displaced,\nand even as the government lifts evacuation orders for\nsome communities, many are refusing to return home.\n\nDisponível em: http://topics.nytimes.com. Acesso em: 24 fev. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O excerto do artigo publicado no site do jornal The New\nYork Times, acerca da situação em que o Japão se\nencontrava em 2011, expõe o tema:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mudanças governamentais devido ao vazamento radioativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Devastação total do país após o terremoto e o tsunami.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Crise nacional decorrente da oscilação sísmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Eventual evacuação de comunidades após crise nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desativação de usina nuclear rumo ao fim da crise.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

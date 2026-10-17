@@ -1,0 +1,46 @@
+{
+    "title": "Questão 143 - ENEM 2022 - Digital",
+    "index": 143,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou\nalta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses\nvalores, para um mesmo imóvel, no mercado imobiliário dessa cidade.\n\n![](https://enem.dev/2022-digital/questions/143/958e1ee9-59cf-400c-ae73-95b89c36d0b7.png)\n\n![](https://enem.dev/2022-digital/questions/143/2905e6cd-8e70-4670-bc8a-8795658b12c0.png)\n\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal\nde aluguel e o valor de mercado desse imóvel.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/143/958e1ee9-59cf-400c-ae73-95b89c36d0b7.png",
+        "https://enem.dev/2022-digital/questions/143/2905e6cd-8e70-4670-bc8a-8795658b12c0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2005",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2007",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2009",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2011",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2013",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

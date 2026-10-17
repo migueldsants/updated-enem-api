@@ -1,0 +1,46 @@
+{
+    "title": "Questão 175 - ENEM 2021 - Digital",
+    "index": 175,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma grande rede de supermercados adota um sistema de avaliação dos\nfaturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A\nmatriz da rede paga uma comissão para os representantes dos supermercados que\natingirem uma média de faturamento mensal (M), conforme apresentado no quadro.\n\n![](https://enem.dev/2021-digital/questions/175/57009690-6387-4142-9ad9-c3b1b11a343d.png)\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme\napresentado no quadro.\n\n![](https://enem.dev/2021-digital/questions/175/9b2a6a80-7e50-47b2-9fed-f8053206dc73.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/175/57009690-6387-4142-9ad9-c3b1b11a343d.png",
+        "https://enem.dev/2021-digital/questions/175/9b2a6a80-7e50-47b2-9fed-f8053206dc73.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas condições apresentadas, os representantes desse supermercado avaliam que\nreceberão, no ano seguinte, a comissão de tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

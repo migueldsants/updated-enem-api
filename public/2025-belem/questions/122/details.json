@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 122,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos procedimentos mais rotineiros em análises químicas é a extração por solvente de materiais sólidos ou líquidos.\nNo entanto, em pesquisas prospectivas, nas quais se pretende investigar a natureza química de determinado material, procede-se\nà extração por solventes em sequência, em ordem crescente de polaridade, conhecida como ordem eluotrópica. Em um processo\nde extração, foram utilizados os seguintes solventes:",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A sequência eluotrópica dos solventes utilizados é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água, etanol, metanol, n-hexano e clorofórmio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "etanol, metanol, água, clorofórmio e n-hexano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "clorofórmio, n-hexano, metanol, etanol e água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "n-hexano, clorofórmio, etanol, metanol e água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "n-hexano, metanol, etanol, água e clorofórmio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

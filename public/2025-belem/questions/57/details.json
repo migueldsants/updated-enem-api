@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 57,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É preciso considerar as divisões na sociedade. As pessoas\nveem a história de maneira diferente porque têm vidas\ndiferentes. Se seus antepassados chegaram num navio negreiro,\nvocê verá a história de um modo diverso do que aqueles cujos\nparentes vieram em caravelas.\n\nSEREZA, H. C. Para Maxwell, comemoração revela autoconfiança brasileira.\nFolha de S. Paulo, 6 mar. 2000.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/57/56b3a3d2-d27f-4caf-b5b9-626a87059f97.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o texto, a compreensão dos acontecimentos do\npassado apoia-se na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tradição iluminista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pesquisa científica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "filosofia escolástica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "perspectiva do sujeito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/57/56b3a3d2-d27f-4caf-b5b9-626a87059f97.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2013 - Reaplicação",
+    "index": 73,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um enfeite para berço é constituído de um aro\nmetálico com um ursinho pendurado, que gira com\nvelocidade angular constante. O aro permanece orientado\nna horizontal, de forma que o movimento do ursinho seja\nprojetado na parede pela sua sombra.\nEnquanto o ursinho gira, sua sombra descreve um\nmovimento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "circular uniforme.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "retilíneo uniforme.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "retilíneo harmônico simples.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "circular uniformemente variado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retilíneo uniformemente variado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

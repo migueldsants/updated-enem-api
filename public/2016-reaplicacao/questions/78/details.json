@@ -1,0 +1,45 @@
+{
+    "title": "Questão 78 - ENEM 2016 - Reaplicação",
+    "index": 78,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/78/ed8dd229-86a3-41fe-93f9-b2dcfb24c768.png)\n\nSILVEIRA, F. L.; VARRIALE, M. C. Propagação das ondas marítimas e dos tsunami.\nCaderno Brasileiro de Ensino de Física, n. 2, 2005 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/78/ed8dd229-86a3-41fe-93f9-b2dcfb24c768.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Sabendo-se que o tsunami consiste em uma série de\nondas sucessivas, qual é o valor mais próximo do intervalo\nde tempo entre duas ondas consecutivas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,6 min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17 min",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "60 min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "216 min",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 61,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em2021,liderançasnegrasdoRecifesereuniramereivindicaram\na criação de uma pasta dedicada especificamente à cultura negra.\nO termo cultura negra passou a fazer parte dos discursos do núcleo\nafro e popularizou-se nas plenárias e fóruns da cidade, nos espaços\ninternos dos terreiros, nas sedes das agremiações, nas ONGs, nas\nescolas públicas municipais e em outros lugares onde os ativistas\nnegros se encontravam para discutir sobre a sua história, sobre as\nsuas religiosidades, sobre o despertar de uma consciência crítica\ne, principalmente, para fazer política pública.\n\nSANTOS, M. R. A militância negra no Recife e o combate ao racismo religioso\nna primeira década do século XXI. In: MOURA, C. A. S.; UZUN, J. R. C. (Org.).\nHistória, religiões e educação: espaços do político.\nRecife: Edupe, 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As reivindicações dos ativistas mencionados no texto objetivavam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "emancipar os sujeitos históricos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "neutralizar o pensamento colonizador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "engajar o segmento sindical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "padronizar as tradições ancestrais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "divulgar a produção científica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

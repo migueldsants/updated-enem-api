@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2014 - Terceira aplicação",
+    "index": 29,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A implantação de novas técnicas e tecnologias e o\nuso de insumos químicos aumentaram a produção e a\nprodutividade. O desenvolvimento de novas variedades\nde cultivo facilitou a mecanização, dispensando em\ngrande parte o trabalho manual.\n\nSADER, E.; JINKINGS, I. Orgs. Enciclopédia Contemporânea da América Latina\ne do Caribe. São Paulo: Boitempo, 2006 adaptado .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O impacto das inovações descritas no texto, em relação à\npequena produção agrícola, ocorreu porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "acentuou o aumento da riqueza e da concentração da terra, intensificando a pobreza e a miséria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "privilegiou o trato sustentável da terra como fundamento do modelo conhecido como agronegócio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "efetivou a redistribuição de terras e riqueza, por meio da oferta de linhas de crédito ao agricultor tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "incentivou a permanência dos agricultores familiares em suas terras, devido à expansão das fronteiras agrícolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "integrou as formas tradicionais de trabalho ao agronegócio, ao possibilitar o arrendamento de terras para a agricultura orgânica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

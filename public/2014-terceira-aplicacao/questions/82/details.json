@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2014 - Terceira aplicação",
+    "index": 82,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os impactos da construção de represas são\nrelativamente bem documentados para muitas bacias\nhidrográficas. Estes impactos estão relacionados ao\ntamanho, volume, tempo de retenção de água do\nreservatório, localização geográfica e posição no trajeto\ndo rio.\nAs alterações na região produzem efeitos e impactos,\ntais como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "elevação da taxa de reprodução dos peixes da região",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diminuição da quantidade de CO₂ na atmosfera pela",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "maior incidência de doenças endêmicas transmitidas",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "alteração dos níveis de precipitação pela ampliação",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumento na quantidade de água no ciclo hidrográfico",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

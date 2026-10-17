@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2013 - Reaplicação",
+    "index": 37,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O trabalho de recomposição que nos espera não admite\nmedidas contemporizadoras. Implica o reajustamento\nsocial e econômico de todos os rumos até aqui seguidos.\nComecemos por desmontar a máquina do favoritismo\nparasitário, com toda sua descendência espúria.\n\nDiscurso de posse de Getúlio Vargas como chefe do\ngoverno provisório, pronunciado em 03 de novembro de 1930.\n\nFILHO, I. A. Brasil, 500 anos em documento. Rio de Janeiro: Mauad, 1999 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/37/2056c01c-5000-4d1a-84d9-00a803f1adee.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em seu discurso de posse, como forma de legitimar\no regime político implantado em 1930, Getúlio Vargas\nestabelece uma crítica ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "funcionamento regular dos partidos políticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "controle político exercido pelas oligarquias estaduais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "centralismo presente na Constituição então em vigor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mecanismo jurídico que impedia as fraudes eleitorais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/37/2056c01c-5000-4d1a-84d9-00a803f1adee.png",
+            "isCorrect": false
+        }
+    ]
+}

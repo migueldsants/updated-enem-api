@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2020 - Digital",
+    "index": 74,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Menino de engenho\n\nA minha mãe sempre me falava do engenho como de um recanto do céu. E uma negra\nque ela trouxera para criada contava histórias de lá, das moagens, dos banhos de rio, das\nfrutas e dos brinquedos, que me acostumei a imaginar o engenho como qualquer coisa de um\nconto de fadas, de um reino fabuloso.\n\nREGO, J. L. Menino de engenho. In: Ficção completa. Rio de Janeiro: Nova Aguilar, 1986.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O conceito geográfico que define a relação descrita no texto entre indivíduo e espaço é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Rede, pois permite o fluxo de informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Escala, pois dimensiona a área de utilização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Lugar, pois oferece uma noção de afetividade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Território, pois caracteriza um exercício de poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Região, pois delimita conjuntos por homogeneidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 174 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 174,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma vacina foi testada em um grupo formado por\n15 mulheres e 15 homens. Em testes clínicos realizados ao\nlongo de vários anos, a vacina mostrou-se capaz de imunizar\n80% das mulheres e 60% dos homens contra uma doença.\n\nUm repórter, pretendendo fazer uma entrevista com uma das\npessoas desse grupo, obteve uma listagem com os 30 números\nde telefone dessas pessoas, porém sem os respectivos nomes.\nEle escolheu aleatoriamente um desses números e ligou para\nagendar a entrevista.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/174/8c0fc076-78fb-4036-b40a-5f5f6fc97809.png",
+        "https://enem.dev/2025-belem/questions/174/5e456326-3ad1-4b08-bab4-30ac26218ff1.png",
+        "https://enem.dev/2025-belem/questions/174/e961431a-a46d-46d6-a322-cb22d35054ac.png",
+        "https://enem.dev/2025-belem/questions/174/729dfec0-cf35-4da6-ad60-8f0c4f8734df.png",
+        "https://enem.dev/2025-belem/questions/174/037c33c0-60f2-44f2-966a-2cb245ca33f9.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A probabilidade de que a pessoa para a qual o repórter telefonou\nseja um homem ou uma pessoa que tenha adquirido imunidade\na essa doença com o uso da vacina é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/174/8c0fc076-78fb-4036-b40a-5f5f6fc97809.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/174/5e456326-3ad1-4b08-bab4-30ac26218ff1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/174/e961431a-a46d-46d6-a322-cb22d35054ac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/174/729dfec0-cf35-4da6-ad60-8f0c4f8734df.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025-belem/questions/174/037c33c0-60f2-44f2-966a-2cb245ca33f9.png",
+            "isCorrect": true
+        }
+    ]
+}

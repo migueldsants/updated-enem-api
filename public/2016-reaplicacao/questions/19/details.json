@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2016 - Reaplicação",
+    "index": 19,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A renaturalização de rios e córregos é, há muito\ntempo, uma realidade na Europa, no Japão, na Coreia do\nSul, nos Estados Unidos e em outros países. No Brasil\nainda são muito tímidas as iniciativas, mas algumas\npoucas cidades estão adotando essa importante prática.\n\nDisponível em: http://sosriosdobrasil.blogspot.com.br. Acesso em: 10 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A legislação brasileira avançou ao estabelecer como\nunidade territorial para a gestão desse recurso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os biomas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as reservas ecológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as unidades do relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as bacias hidrográficas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as áreas de preservação ambiental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

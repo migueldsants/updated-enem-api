@@ -1,0 +1,52 @@
+{
+    "title": "Questão 165 - ENEM 2022 - Digital",
+    "index": 165,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2022-digital/questions/165/44feb06e-941e-4c59-be0c-dfa0b7d8eeb6.png)\n\nMeridiano 2\n\nMeridiano 1\n\n![](https://enem.dev/2022-digital/questions/165/634a6862-7c13-4c31-9778-6e753c103e40.png)\n\n![](https://enem.dev/2022-digital/questions/165/e248ac91-a3b9-4012-b11e-74617652c8be.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/165/44feb06e-941e-4c59-be0c-dfa0b7d8eeb6.png",
+        "https://enem.dev/2022-digital/questions/165/634a6862-7c13-4c31-9778-6e753c103e40.png",
+        "https://enem.dev/2022-digital/questions/165/e248ac91-a3b9-4012-b11e-74617652c8be.png",
+        "https://enem.dev/2022-digital/questions/165/4861dc24-f902-47b8-a6b6-a83b0be97423.png",
+        "https://enem.dev/2022-digital/questions/165/cf96f82c-40f2-42cf-a15d-6f385a45e769.png",
+        "https://enem.dev/2022-digital/questions/165/91b2fc6c-8a0a-431e-bcf6-2501df0f37c2.png",
+        "https://enem.dev/2022-digital/questions/165/e068c28c-2fd9-42b7-a6b1-71b61a3ce401.png",
+        "https://enem.dev/2022-digital/questions/165/b305c0f4-0bc2-460a-947a-3a49d1148f9b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A vista superior da projeção ortogonal sobre o plano",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/165/4861dc24-f902-47b8-a6b6-a83b0be97423.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/165/cf96f82c-40f2-42cf-a15d-6f385a45e769.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/165/91b2fc6c-8a0a-431e-bcf6-2501df0f37c2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/165/e068c28c-2fd9-42b7-a6b1-71b61a3ce401.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/165/b305c0f4-0bc2-460a-947a-3a49d1148f9b.png",
+            "isCorrect": true
+        }
+    ]
+}

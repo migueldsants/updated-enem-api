@@ -1,0 +1,49 @@
+{
+    "title": "Questão 176 - ENEM 2021 - Digital",
+    "index": 176,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e\nno mundo por oferecer opções diferenciadas em termos de localização e valores de\nhospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é\ncalculado considerando um preço por diária d, acrescido de uma taxa fixa de limpeza L e\nde uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o\nvalor pago pelo total das diárias.",
+    "files": [
+        "https://enem.dev/2021-digital/questions/176/a32b826d-a21c-4154-89f1-0b4ca9433294.png",
+        "https://enem.dev/2021-digital/questions/176/1b1548ce-0946-40f2-8d7c-e9bc7f11d47f.png",
+        "https://enem.dev/2021-digital/questions/176/1fed7fc1-e04f-4673-a2b6-76c75f20be1d.png",
+        "https://enem.dev/2021-digital/questions/176/ada5e8f5-4e12-400a-b6a0-2e8762c11e5a.png",
+        "https://enem.dev/2021-digital/questions/176/fb52d48c-db6c-43f0-804e-166c259a75c3.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode\nser obtido pela expressão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/176/a32b826d-a21c-4154-89f1-0b4ca9433294.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/176/1b1548ce-0946-40f2-8d7c-e9bc7f11d47f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/176/1fed7fc1-e04f-4673-a2b6-76c75f20be1d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/176/ada5e8f5-4e12-400a-b6a0-2e8762c11e5a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/176/fb52d48c-db6c-43f0-804e-166c259a75c3.png",
+            "isCorrect": false
+        }
+    ]
+}

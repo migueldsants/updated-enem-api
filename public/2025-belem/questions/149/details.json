@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 149,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma empresa trabalham 50 funcionários, dos quais,\ninicialmente, 40 tomam café diariamente. Essa empresa tem\numa máquina que produz, diariamente, 12 000 mililitros de café.\nA máquina está programada para liberar uma quantidade de\nmililitros de café a cada acionamento. Os 12 000 mL de café são\nsuficientes, sem sobra, para que cada um desses 40 funcionários\npossa utilizar essa máquina 5 vezes por dia. Pretende-se\nreprogramar a máquina para que essa quantidade de café\nproduzida seja suficiente para que cada um dos 50 funcionários\npossa utilizar essa máquina 3 vezes por dia.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na reprogramação, a quantidade de café, em mililitro, que deverá\nser liberada a cada uso é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "48.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "80.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "150.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "240.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

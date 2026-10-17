@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2014 - Reaplicação",
+    "index": 16,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Participação das regiões no PIB do país, em %\n\n![](https://enem.dev/2014-reaplicacao/questions/16/bc2b83fa-35aa-4f0d-bfd1-0c5c0b25e186.png)\n\nFonte: IBGE.\nDisponível em: www.acervo.folha.com.br. Acesso em: 7 dez. 2012 fragmento .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/16/bc2b83fa-35aa-4f0d-bfd1-0c5c0b25e186.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As trajetórias de participação das regiões Sudeste e\nNordeste, apresentadas no mapa, estão, respectivamente,\nassociadas ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução da renda média e à flexibilização das leis ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "encarecimento da mão de obra e à política de incentivos fiscais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "expansão da malha rodoviária e à instalação de grandes projetos hidrelétricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminuição da participação do setor de serviços e à ampliação do agronegócio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumento do fluxo migratório inter-regional e à descoberta de novas jazidas de carvão mineral.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

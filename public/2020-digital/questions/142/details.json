@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2020 - Digital",
+    "index": 142,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "“1, 2, 3, GOL, 5, 6, 7, GOL, 9, 10, 11, GOL, 13, GOL, 15, GOL, 17, 18, 19, GOL, 21, 22, 23,\nGOL, 25, ...”\n\nPara a Copa do Mundo de Futebol de 2014, um bar onde se reuniam amigos para assistir\naos jogos criou uma brincadeira. Um dos presentes era escolhido e tinha que dizer, numa\nsequência em ordem crescente, os números naturais não nulos, trocando os múltiplos de 4 e\nos números terminados em 4 pela palavra GOL. A brincadeira acabava quando o participante\nerrava um termo da sequência.\n\nUm dos participantes conseguiu falar até o número 103, respeitando as regras da\nbrincadeira.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O total de vezes em que esse participante disse a palavra GOL foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "28.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "35.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

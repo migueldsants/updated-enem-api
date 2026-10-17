@@ -1,0 +1,46 @@
+{
+    "title": "Questão 126 - ENEM 2013 - Reaplicação",
+    "index": 126,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/126/3c11c5f6-b793-4017-a196-af04c8d5c871.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/126/3c11c5f6-b793-4017-a196-af04c8d5c871.png",
+        "https://enem.dev/2013-reaplicacao/questions/126/7d48b491-178d-4a34-ae7d-6b346f1a723e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A foto mostra integrantes de um grupo de choro tocando\ninstrumentos de diferentes classificações. Nessa\nformação, o instrumento que representa a família",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "das madeiras é a flauta transversal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "das cordas friccionadas é o bandolim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dos metais é o pandeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "das percussões com membrana é o afoxé.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/126/7d48b491-178d-4a34-ae7d-6b346f1a723e.png",
+            "isCorrect": false
+        }
+    ]
+}

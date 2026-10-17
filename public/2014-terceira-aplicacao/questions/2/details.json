@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2014 - Terceira aplicação",
+    "index": 2,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Ministério da Verdade — ou Miniver, em Novilíngua —\nera completamente diferente de qualquer outro objeto\nvisível. Era uma enorme pirâmide de alvíssimo cimento\nbranco, erguendo-se terraço sobre terraço, trezentos\nmetros sobre o solo. De onde Winston conseguia ler, em\nletras elegantes colocadas na fachada, os três lemas do\nPartido: GUERRA É PAZ; LIBERDADE É ESCRAVIDO;\nIGNORÂNCIA É FORÇA.\n\nORWELL, G. 1984. São Paulo: Nacional, 1984.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/2/ec0805b2-68da-4db2-b2c8-37b35b8106b9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na referida obra ficcional, o autor critica regimes existentes\nao longo do século XX. O mecanismo de dominação social\nutilizado pela instituição descrita no texto promoveria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o enaltecimento do sentimento nacionalista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o investimento maciço nas forças militares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a exaltação de uma liderança carismática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a prática de reelaboração da memória.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/2/ec0805b2-68da-4db2-b2c8-37b35b8106b9.png",
+            "isCorrect": false
+        }
+    ]
+}

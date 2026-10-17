@@ -1,0 +1,49 @@
+{
+    "title": "Questão 63 - ENEM 2015 - Reaplicação",
+    "index": 63,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Observações astronômicas indicam que no centro\nde nossa galáxia, a Via Láctea, provavelmente exista um\nburaco negro cuja massa é igual a milhares de vezes a\nmassa do Sol. Uma técnica simples para estimar a massa\ndesse buraco negro consiste em observar algum objeto\nque orbite ao seu redor e medir o período de uma rotação\ncompleta, T, bem como o raio médio, R, da órbita do objeto,\nque supostamente se desloca, com boa aproximação, em\nmovimento circular uniforme. Nessa situação, considere\nque a força resultante, devido ao movimento circular, é\nigual, em magnitude, à força gravitacional que o buraco\nnegro exerce sobre o objeto.\n\nA partir do conhecimento do período de rotação, da\ndistância média e da constante gravitacional, G, a massa\ndo buraco negro é",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/63/d61199c1-669f-4c09-b4d6-e77d99b5f3ac.png",
+        "https://enem.dev/2015-reaplicacao/questions/63/13849a36-4b1d-4cc4-8538-a7573832aa4e.png",
+        "https://enem.dev/2015-reaplicacao/questions/63/91317db7-6d9e-404c-b0ef-6400c4fad305.png",
+        "https://enem.dev/2015-reaplicacao/questions/63/5e44433e-ab28-44f6-9ad5-f93a2b0c917b.png",
+        "https://enem.dev/2015-reaplicacao/questions/63/714e9208-c5a8-482e-9a12-99f055bece33.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "4p²R²\n.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/63/d61199c1-669f-4c09-b4d6-e77d99b5f3ac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/63/13849a36-4b1d-4cc4-8538-a7573832aa4e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/63/91317db7-6d9e-404c-b0ef-6400c4fad305.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/63/5e44433e-ab28-44f6-9ad5-f93a2b0c917b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/63/714e9208-c5a8-482e-9a12-99f055bece33.png",
+            "isCorrect": false
+        }
+    ]
+}

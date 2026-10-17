@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2012 - Reaplicação",
+    "index": 14,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O fechamento de seis unidades de uma empresa\ncalçadista na Bahia deve resultar na demissão de 1 800\nfuncionários. Enquanto demite no Brasil, a empresa abre\numa fábrica na Índia. Nas seis unidades fechadas na\nBahia eram produzidos cabedais de calçados esportivos\nque serão fabricados também na Índia.\n\nO Globo, 17 dez. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/14/258f8238-891a-46cf-98cd-9f58a43c2560.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A estratégia produtiva adotada pela empresa, que explica\no processo econômico descrito, está indicada na:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução dos custos logísticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Expansão dos benefícios sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Planificação da produção industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Modificação da estrutura societária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/14/258f8238-891a-46cf-98cd-9f58a43c2560.png",
+            "isCorrect": false
+        }
+    ]
+}

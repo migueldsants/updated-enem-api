@@ -1,0 +1,46 @@
+{
+    "title": "Questão 152 - ENEM 2014 - Terceira aplicação",
+    "index": 152,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Todos os anos são registrados milhares de acidentes\nnas rodovias. Um número significativo desses acidentes\nocorre no período de carnaval. De acordo com a Polícia\nRodoviária Federal (PRF), o número de acidentes\nregistrados no carnaval teve uma redução de 4 312,\nregistrados em 2011, para 3 345 em 2012. O quadro\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/152/0536bd98-6d80-4d41-978b-0ac229728232.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/152/0536bd98-6d80-4d41-978b-0ac229728232.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/152/e2c34671-1032-4e71-bf23-4855226ee932.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o quadro apresentado, o estado que\napresentou maior queda percentual no número de\nacidentes foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Santa Catarina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Rio de Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pernambuco.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Pará.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/152/e2c34671-1032-4e71-bf23-4855226ee932.png",
+            "isCorrect": false
+        }
+    ]
+}

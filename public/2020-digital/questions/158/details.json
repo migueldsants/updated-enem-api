@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2020 - Digital",
+    "index": 158,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico apresenta a evolução do crescimento de uma determinada árvore, plantada a\npartir de uma muda com 1 metro de altura. Nessa evolução, a altura da árvore, em metro, é\ndescrita em função do tempo, medido em ano.\n\n![](https://enem.dev/2020-digital/questions/158/331e2456-4406-4e22-9ed1-7cb188735a94.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/158/331e2456-4406-4e22-9ed1-7cb188735a94.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No período de 1 ano, contado a partir do instante em que a árvore tinha dois anos e meio de\nplantio, a variação da altura dessa árvore, em metro, teve valor compreendido entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,55 e 0,65.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,65 e 0,75.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,05 e 1,15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,25 e 1,35.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,45 e 1,55.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

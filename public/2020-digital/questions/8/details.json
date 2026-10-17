@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 2020 - Digital",
+    "index": 8,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/8/1f375b22-ce24-4d3e-8613-d9dcacf89dcd.png)\n\nDisponível em: www.pmf.sc.gov.br. Acesso em: 11 dez. 2017.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/8/1f375b22-ce24-4d3e-8613-d9dcacf89dcd.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse texto, o entrelaçamento de vários gêneros textuais é um mecanismo discursivo para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "destacar a fidelidade dos cães.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "realçar as vantagens de se adotar um cão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "mostrar a dependência decorrente do amor aos cães.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "enfatizar o interesse das pessoas pela adoção de cães.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sensibilizar a comunidade sobre a carência dos cães.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

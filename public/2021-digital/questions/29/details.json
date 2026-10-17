@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2021 - Digital",
+    "index": 29,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Reaprender a ler notícias\n\nNão dá mais para ler um jornal, revista ou assistir a um telejornal da mesma forma que\nfazíamos até o surgimento da rede mundial de computadores. O Observatório da\nImprensa antecipou isso lá nos idos de 1996 quando cunhou o slogan “Você nunca mais\nvai ler jornal do mesmo jeito”. De fato, hoje já não basta mais ler o que está escrito ou\nfalado para estar bem informado. É preciso conhecer as entrelinhas e saber que não há\nobjetividade e nem isenção absolutas, porque cada ser humano vê o mundo de uma\nforma diferente. Ter um pé atrás passou a ser a regra básica número um de quem passa\nos olhos por uma primeira página, capa de revista ou chamadas de um noticiário na TV.\n\nHá uma diferença importante entre desconfiar de tudo e procurar ver o maior número\npossível de lados de um mesmo fato, dado ou evento. Apenas desconfiar não resolve\nporque se trata de uma atitude passiva. É claro, tudo começa com a dúvida, mas a partir\ndela é necessário ser proativo, ou seja, investigar, estudar, procurar os elementos ocultos\nque sempre existem numa notícia. No começo é um esforço solitário que pode se tornar\ncoletivo à medida que mais pessoas descobrem sua vulnerabilidade informativa.\n\nDisponível em: www.observatoriodaimprensa.com.br. Acesso em: 30 set. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, os argumentos apresentados permitem inferir que o objetivo do autor é\nconvencer os leitores a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "buscarem fontes de informação comprometidas com a verdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "privilegiarem notícias veiculadas em jornais de grande circulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "adotarem uma postura crítica em relação às informações recebidas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "questionarem a prática jornalística anterior ao surgimento da internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valorizarem reportagens redigidas com imparcialidade diante dos fatos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

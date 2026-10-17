@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2014 - Reaplicação",
+    "index": 161,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma revista publicará os dados, apresentados\nno gráfico, sobre como os tipos sanguíneos estão\ndistribuídos entre a população brasileira. Contudo,\no editor dessa revista solicitou que esse gráfico seja\npublicado na forma de setores, em que cada grupo\nesteja representado por um setor circular.\n\nTipos sanguíneos\n\nRh positivo\nRh negativo\n\n% da População brasileira⁶\n\n5 3₂\n\nGrupo A Grupo AB Grupo B Grupo O",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O ângulo do maior desses setores medirá, em graus,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "108,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "122,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "129,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "151,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "154,8.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 41 - ENEM 2020 - Digital",
+    "index": 41,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/41/1e197fa5-a7e5-46c9-9caf-da76ad32d103.png)\n\nDisponível em: www.comunicaquemuda.com.br. Acesso em: 9 dez. 2017.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/41/1e197fa5-a7e5-46c9-9caf-da76ad32d103.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A fim de contribuir para a diminuição do número de acidentes de trânsito, essa campanha",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proíbe o uso de remédios para evitar o sono na direção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dá dicas aos motoristas sobre diminuição do cansaço físico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apresenta a capotagem como consequência da direção perigosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "atribui ao motorista a responsabilidade pela segurança no trânsito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "conscientiza o motorista sobre a necessidade de controle da velocidade nas estradas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

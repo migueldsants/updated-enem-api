@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2020 - Digital",
+    "index": 46,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Lei n. 3 353, de 13 de maio de 1888\n\nA Princesa Imperial Regente, em nome de Sua Majestade o Imperador, o Senhor D.\nPedro II, faz saber a todos os súditos do Império que a Assembleia-Geral decretou e ela\nsancionou a lei seguinte:\n\nArt. 1º: É declarada extinta desde a data desta lei a escravidão no Brasil.\n\nArt. 2º: Revogam-se as disposições em contrário.\n\nManda, portanto, a todas as autoridades, a quem o conhecimento e execução da referida\nlei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente como nela se\ncontém.\n\nDada no Palácio do Rio de Janeiro, em 13 de maio de 1888, 67º ano da Independência e\ndo Império.\n\nPrincesa Imperial Regente.\n\nDisponível em: www.planalto.gov.br. Acesso em: 6 fev. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um dos fatores que levou à promulgação da lei apresentada foi o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "abandono de propostas de imigração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fracasso do trabalho compulsório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "manifestação do altruísmo britânico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "afirmação da benevolência da Corte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "persistência da campanha abolicionista.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2014 - Reaplicação",
+    "index": 38,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O uso intenso das águas subterrâneas sem planejamento tem causado sérios prejuízos à sociedade, ao usuário\ne ao meio ambiente. Em várias partes do mundo, percebe-se que a exploração de forma incorreta tem levado a\nperdas do próprio aquífero.\n\nTEIXEIRA, W. et al. Decifrando a Terra. São Paulo: Cia. Editora Nacional, 2009 adaptado .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, apontam-se dificuldades associadas ao uso de um importante recurso natural. Um problema derivado de\nsua utilização e uma respectiva causa para sua ocorrência são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Contaminação do aquífero — Contenção imprópria do ingresso direto de água superficial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Intrusão salina — Extração reduzida da água doce do subsolo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Superexploração de poços — Construção ineficaz de captações subsuperficiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Rebaixamento do nível da água — Bombeamento do poço equivalente à reposição natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Encarecimento da exploração sustentável — Conservação da cobertura vegetal local.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

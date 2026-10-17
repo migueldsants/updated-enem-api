@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2021 - Digital",
+    "index": 77,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Por que o Brasil continuou um só enquanto a América espanhola se dividiu em\nvários países?\n\nPara o historiador brasileiro José Murilo de Carvalho, no Brasil, parte da sociedade\nera muito mais coesa ideologicamente do que a espanhola. Carvalho argumenta que isso\nse deveu à tradição burocrática portuguesa. “Portugal nunca permitiu a criação de\nuniversidades em sua colônia”. Por outro lado, na América espanhola, entre 1772 e 1872,\n150 mil estudantes se formaram em universidades locais. Para o historiador mexicano\nAlfredo Ávila Rueda, as universidades na América espanhola eram, em sua maioria,\nreacionárias. Nesse sentido, o historiador mexicano diz acreditar que a livre circulação de\nimpressos (jornais, livros e panfletos) na América espanhola, que não era permitida na\nAmérica portuguesa (a proibição só foi revertida em 1808), teve função muito mais\nimportante na construção de regionalismos do que propriamente as universidades.\n\nBARRUCHO, L. Disponível em: www.bbc.com. Acesso em: 8 set. 2019 (adaptado).\n\nOs pontos de vista dos historiadores referidos no texto são divergentes em relação ao",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "papel desempenhado pelas instituições de ensino na criação das múltiplas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "identidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "controle exercido pelos grupos de imprensa na centralização das esferas administrativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "abandono sofrido pelas comunidades de docentes na concepção de coletividades políticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "lugar ocupado pelas associações de acadêmicos no fortalecimento das agremiações estudantis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "protagonismo assumido pelos meios de comunicação no desenvolvimento das nações alfabetizadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

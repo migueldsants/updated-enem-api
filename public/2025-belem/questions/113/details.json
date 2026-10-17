@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 113,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um reservatório industrial contendo 5 000 L de água,\nfoi constatada a presença de íons cromo(III) dissolvidos.\nPara remover esses íons da água, inicialmente foi realizada\na quantificação em uma alíquota de 1,0 L, por meio de\nalcalinização, para provocar a total precipitação do cromo(III)\nna forma de hidróxido insolúvel, que foi separado por filtração,\nseco e aquecido até a formação de 3,8 g de Cr₂O₃.\n\nDados: massas molares (g ⋅ mol⁻¹): Cr₂O₃ = 152; Cr = 52.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A quantidade, em quilograma, de íons cromo(III) contida nesse\nreservatório é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6,5 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9,0 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13,0 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "19,0 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "38,0 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

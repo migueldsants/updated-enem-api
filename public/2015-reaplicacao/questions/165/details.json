@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2015 - Reaplicação",
+    "index": 165,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No jogo mostrado na figura, uma bolinha desloca-se\nsomente de duas formas: ao longo de linhas retas ou por\narcos de circunferências centradas no ponto O e raios\nvariando de 1 a 8. Durante o jogo, a bolinha que estiver\nno ponto P deverá realizar a seguinte sequência de\nmovimentos: 2 unidades no mesmo sentido utilizado para\nir do ponto O até o ponto A e, no sentido anti-horário, um\narco de circunferência cujo ângulo central é 120°.\n\nE\n\nD\nA\nB\n\n![](https://enem.dev/2015-reaplicacao/questions/165/f683f8d9-aadc-4dbf-a519-a4bcd8a9fea7.png)\n\nC",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/165/f683f8d9-aadc-4dbf-a519-a4bcd8a9fea7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após a sequência de movimentos descrita, a bolinha\nestará no ponto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "F.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "G.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

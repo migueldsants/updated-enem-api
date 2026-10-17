@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2014 - Reaplicação",
+    "index": 121,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Hipertextualidade\n\nO papel do hipertexto é exatamente o de reunir, não\napenas os textos, mas também as redes de associações,\nanotações e comentários às quais eles são vinculados\npelas pessoas. Ao mesmo tempo, a construção do senso\ncomum encontra-se exposta e como que materializada:\na elaboração coletiva de um hipertexto.\n\nTrabalhar, viver, conversar fraternalmente com outros\nseres, cruzar um pouco por sua história, isto significa,\nentre outras coisas, construir uma bagagem de referências\ne associações comuns, uma rede hipertextual unificada,\num texto compartilhado, capaz de diminuir os riscos de\nincompreensão.\n\nLEVY, P. As tecnologias da inteligência: o futuro do pensamento na era da informática.\nSão Paulo: Editora34,1992 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto evidencia uma relação entre o hipertexto e a\nsociedade em que essa tecnologia se insere. Constata-se\nque, nessa relação, há uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estratégia para manutenção do senso comum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "prioridade em sanar a incompreensão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "necessidade de publicidade das informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "forma de construção colaborativa de conhecimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "urgência em se estabelecer o diálogo entre pessoas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

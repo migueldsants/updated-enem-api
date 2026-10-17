@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2014 - Terceira aplicação",
+    "index": 120,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nA invasão dos marcianos\nO cineasta Orson Welles, em outubro de 1938, propôs\nà rádio Columbia Broadcasting System uma transmissão\ndiferente: uma adaptação de A guerra dos mundos. A obra\né um dos livros de ficção científica mais famosos do escritor\nH.G. Wells. Na época de sua publicação, foi considerado\nperigoso, pois poderia causar fobias nos leitores.\n\nDepois de passar 15 dias convencendo a direção da\nrádio a não colocar a locução na programação do dia, a\ntransmissão foi ao ar às 20 horas do dia 30 de outubro\ndaquele ano.\n\nDepois das previsões meteorológicas, a rádio\ncomeçou a tocar música. Houve uma interrupção brusca\ne o locutor disse: “A C.B.S. interrompe seu programa\npara anunciar aos ouvintes que um meteoro de grandes\ndimensões caiu em Grovers Hill, no Estado de Nova\nJersey, a algumas milhas de Nova York”. A música voltou\ne novamente foi interrompida para a entrevista com um\nprofessor de meteorologia sobre a origem dos meteoros.\nEm seguida, entrou no ar um repórter falando sobre o\nmeteoro e os muitos curiosos ao redor. Então, o enviado\nespecial começou a descrever o meteoro se abrindo e dele\nsaindo seres gigantescos com tentáculos. De repente, ele\nfoi morto por raio disparado pelos seres extraterrestres.\n\nLogo chegaram à CBS as primeiras notícias de que\na população estava histérica. No entanto, o diretor da\nestação resolveu não anunciar que tudo não passava\nde uma transmissão fictícia e decidiu continuar. “Vocês\nacabaram de ouvir a primeira parte de uma irradiação de\nOrson Welles, que radiofonizou a obra A guerra de dois\nmundos, do famoso escritor inglês H. G. Wells”.\n\nDisponível em: www.pucrs.br. Acesso em: 10 out. 2011.\n\nTEXTO II\n\nEscrava Isaura\nAs novelas brasileiras fazem muito sucesso no\nexterior. A adaptação do romance a escrava Isaura é\num exemplo de sucesso mundial. Segundo o Guia dos\nCuriosos, “seu sucesso no exterior foi tamanho que\ninfluenciou acontecimentos importantes da História”.\nO site registra também que “em Cuba, o governo chegou\na cancelar o racionamento de energia elétrica durante o\nhorário da novela”.\n\nDisponível em: www.guiadoscuriosos.com.br. Acesso em: 10 out. 2011.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os textos I e II tratam da adaptação de obras ficcionais\npara o rádio e a televisão, tecnologias de comunicação\ne informação predominantes em determinadas épocas.\nSão efeitos sociais dessas respectivas transmissões",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a negação dos avanços tecnológicos e a resistência a ideais políticos totalitários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a diminuição no número de leitores e o veto político a autores de pouca confiabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a confirmação das limitações tecnológicas do rádio e a independência política da televisão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a alteração no modo de apreensão da realidade e a interferência em decisões oficiais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a desvalorização de obras literárias e a alteração na hegemonia do regime político de Cuba.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

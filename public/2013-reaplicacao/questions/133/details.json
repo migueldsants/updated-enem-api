@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2013 - Reaplicação",
+    "index": 133,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/133/f824c93f-be52-454c-b8b4-cff7749b86a2.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/133/f824c93f-be52-454c-b8b4-cff7749b86a2.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os anúncios publicitários, em geral, utilizam as linguagens\nverbal e não verbal com a intenção de influenciar\ncomportamentos. Os recursos linguísticos e imagéticos\npresentes na propaganda da ABP convergem para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reforçar o caráter informativo do anúncio sobre a realização do evento de publicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mostrar que ideias ruins ou mal elaboradas também podem causar algum tipo de poluição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "definir os critérios para a participação no Festival Brasileiro de Publicidade de 2011.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "comparar a poluição ocasionada por ideias ruins e a originada pela ação humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estimular os publicitários a se inscreverem no Festival Brasileiro de Publicidade de 2011.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

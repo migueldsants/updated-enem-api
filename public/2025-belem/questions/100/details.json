@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 100,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No mundo animal, quando comparamos machos e fêmeas\nde uma mesma espécie, muitas vezes observamos diferenças\nmarcantes entre eles. Em algumas espécies de aves, os machos,\nem relação às fêmeas, apresentam estrutura corpórea mais\navantajada, plumagem com cores mais chamativas, até mesmo\ndiferentes acessórios distribuídos pelo corpo.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto caracteriza qual conceito biológico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Camuflagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metamorfose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dimorfismo sexual.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Divergência evolutiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Isolamento reprodutivo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

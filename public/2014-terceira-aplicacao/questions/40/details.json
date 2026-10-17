@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2014 - Terceira aplicação",
+    "index": 40,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nA anistia pode ser considerada muito mais uma\nconcessão do que uma conquista ou, mais precisamente,\numa manobra política com duas finalidades: reduzir a\npressão advinda de setores organizados contra o regime;\ne produzir defesas substantivas às possíveis revisões do\npassado com o término previsto do autoritarismo.\n\nSOARES, S. A.; PRADO, L. B. B. O processo político da anistia e os\nespaços de autonomia militar. In: SANTOS, C. M.; TELES, E.; TELES, J. A.\nDesarquivando a ditadura: memória e justiça no Brasil. São Paulo:\nHucitec, 2009 adaptado .\n\nTEXTO II\n\nA anistia foi uma conquista. Não foi dádiva, foi luta.\nNão tem que rever.\n\nEntrevista com Therezinha de Godoy Zerbini. Disponível em:\nwww1.folha.uol.com.br. Acesso em: 1 ago. 2012 fragmento .",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A Lei de Anistia, aprovada pelo Congresso Nacional em\n28 de agosto de 1979, tem sido debatida pela sociedade\nbrasileira. Nos textos, as posições assumidas revelam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "retomada da ditadura militar em nome da unidade nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorização dos movimentos ligados à luta armada a partir da abertura dos arquivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "relativização dos direitos humanos com base na experiência ditatorial brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reescrita da história do terrorismo esquerdista para compreender o passado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reflexão crítica sobre o passado em função de mudanças no cenário político.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

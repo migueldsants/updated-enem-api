@@ -1,0 +1,48 @@
+{
+    "title": "Questão 170 - ENEM 2014 - Terceira aplicação",
+    "index": 170,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A legislação brasileira estabelece vários impostos\npara que o Estado levante os recursos necessários para\ncustear os investimentos e despesas de responsabilidade\ndo setor público. A arrecadação do Brasil, nas três esferas\nda administração pública (municípios, estados e União),\nvem aumentando consideravelmente nos últimos anos.\nNo ano de 2005, foram arrecadados cerca de 700 bilhões\nde reais. A evolução do crescimento da arrecadação até\n2010, em porcentagem, está expressa na tabela a seguir.\n\nEVOLUÇÃO DA CARGA TRIBUTÁRIA (porcentagem)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/170/ff8cb413-3b50-4e99-88ba-bba0aa3c8f3c.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/170/21950ca8-257b-4506-9dc6-19fbfa363f76.png)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/170/253604d5-34b4-4af7-9295-5883462418ac.png)\n\nDisponível em: www.ibpt.com.br. Acesso em: 10 nov. 2011 adaptado .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/170/ff8cb413-3b50-4e99-88ba-bba0aa3c8f3c.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/170/21950ca8-257b-4506-9dc6-19fbfa363f76.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/170/253604d5-34b4-4af7-9295-5883462418ac.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/170/d57e2e2d-de55-4a9b-940a-8816e73ec98a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com os dados apresentados, infere-se que o\nvalor mais aproximado da arrecadação brasileira do setor\npúblico do ano de 2007 foi, em bilhões de reais, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "724.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "738.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "784.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "868.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/170/d57e2e2d-de55-4a9b-940a-8816e73ec98a.png",
+            "isCorrect": true
+        }
+    ]
+}

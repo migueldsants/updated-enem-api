@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2020 - Digital",
+    "index": 131,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nas últimas décadas vários países, inclusive o Brasil, têm testemunhado uma grande\nproliferação de bactérias patogênicas, envolvidas em uma variedade de doenças e que\napresentam resistência a múltiplos antibióticos. Atualmente têm se destacado as superbac-\ntérias que acumularam vários genes determinantes de resistência, a ponto de se tornarem\nresistentes a praticamente todos os antimicrobianos.\n\nFERREIRA, F. A.; CRUZ, R. S.; FIGUEIREDO, A. M. S. O problema da resistência a antibióticos.\nCiência Hoje, v.48, n.287, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa resistência tem ocorrido porque os(as)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "bactérias patogênicas se multiplicam de maneira acelerada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "antibióticos são utilizados pela população de maneira indiscriminada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "bactérias possuem plasmídeos que contêm genes relacionados à virulência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "bactérias podem ser transmitidas para um indivíduo utilizando várias estratégias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "serviços de saúde precários constituem importantes focos de bactérias patogênicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

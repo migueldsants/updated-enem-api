@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2016 - Reaplicação",
+    "index": 115,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Chegou de Montes Claros uma irmã da nora de tia\nClarinha e foi visitar tia Agostinha no Jogo da Bola. Ela\né bonita, simpática e veste-se muito bem. [...] Ficaram\ntodas as tias admiradas da beleza da moça e de seus\nmodos políticos de conversar. Falava explicado e tudo\nmuito correto. Dizia “você” em vez de “ocê”. Palavra que\neu nunca tinha visto ninguém falar tão bem; tudo como\nse escreve sem engolir um s nem um r. Tia Agostinha\nmandou vir uma bandeja de uvas e lhe perguntou se ela\ngostava de uvas. Ela respondeu: “Aprecio sobremaneira\num cacho de uvas, Dona Agostinha.” Estas palavras nos\nfizeram ficar de queixo caído. Depois ela foi passear com\noutras e Iaiá aproveitou para lhe fazer elogios e comparar\nconosco. Ela dizia: “Vocês não tiveram inveja de ver\numa moça [...] falar tão bonito como ela? Vocês devem\naproveitar a companhia dela para aprenderem”. [...] Na\nhora do jantar eu e as primas começamos a dizer, para\nenfezar Iaiá: “Aprecio sobremaneira as batatas fritas”,\n“Aprecio sobremaneira uma coxa de galinha”.\n\nMORLEY, H. Minha vida de menina: cadernos de uma menina provinciana nosfins do\nséculo XIX. Rio de Janeiro: José Olympio, 1997.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse texto, no que diz respeito ao vocabulário\nempregado pela moça de Montes Claros, a narradora\nexpõe uma visão indicativa de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descaso, uma vez que desaprova o uso formal da língua empregado pela moça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ironia, uma vez que incorpora o vocabulário formal da moça na situação familiar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "admiração, pelo fato de deleitar-se com o vocabulário empregado pela moça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "antipatia, pelo fato de cobiçar os elogios de Iaiá sobre a moça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "indignação, uma vez que contesta as atitudes da moça.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

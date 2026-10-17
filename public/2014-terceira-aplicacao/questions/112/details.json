@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2014 - Terceira aplicação",
+    "index": 112,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "“Um programa de inclusão digital com foco na redução\nde preços favorece mais a indústria do que os usuários.\nDizer que preços baixos podem ajudar na resolução\ndo problema é como afirmar que um indivíduo estará\nalfabetizado quando ganhar uma caneta. Será que uma\nquestão tão abrangente pode ser resolvida com micros\nmais baratos?” No Brasil há cinco meses, onde trabalha\ncomo professor visitante da UFBA (Universidade Federal\nda Bahia), Roberto Aparici defende a inclusão com foco na\nalfabetização digital — só assim, as pessoas saberão como\ntirar o melhor proveito da tecnologia. “A informática, por si\nsó, não transforma vidas. É necessário que as pessoas\nvejam a internet como uma ferramenta que melhore seu\ntrabalho, sua vida pessoal. Para isso, elas precisam ser\nensinadas com uma metodologia que inclua processos\nmais complexos do que o uso do teclado e do mouse”, diz.\n\nCARPANEZ, J. Disponível em: www1.folha.uol.com.br. Acesso em: 2 dez. 2012 fragmento .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A leitura do texto evidencia que, para convencer o leitor a\nrespeito das ideias apresentadas sobre a inclusão digital,\no autor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aborda uma temática que constitui interesse da população economicamente favorecida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "orienta sobre a utilização dos recursos oferecidos nos programas de computadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "informa sobre a recente redução de preços de computadores no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apoia-se no posicionamento de um pesquisador renomado na área.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "defende que as pessoas devem saber usar o teclado e o mouse.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

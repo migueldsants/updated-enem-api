@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2015 - Reaplicação",
+    "index": 121,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/121/2036ebb9-efca-4e86-81b0-5910943c8240.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/121/2036ebb9-efca-4e86-81b0-5910943c8240.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A charge retrata um comportamento recorrente nos\ndias atuais: a insatisfação das pessoas com o peso.\nNo entanto, do ponto de vista orgânico, o peso corporal\nse torna um problema à saúde quando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estimula a adesão à dieta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumenta conforme a idade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "expressa a inatividade da pessoa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "provoca modificações na aparência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "acomete o funcionamento metabólico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

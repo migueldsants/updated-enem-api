@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2016 - Reaplicação",
+    "index": 105,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Lisboa: aventuras\ntomei um expresso\n\ncheguei de foguete\ns u b i n u m b o n d e\n\n![](https://enem.dev/2016-reaplicacao/questions/105/a9698eec-6e1c-4cf6-850b-01a7e227fe44.png)\n\ndesci de um elétrico\npedi um cafezinho\n\nserviram-me uma bica\nquis comprar meias\n\nsó vendiam peúgas\nfui dar a descarga\n\ndisparei um autoclisma\ng r i t e i “ ó c a r a ! ”\n\nresponderam-me «ó pá»\npositivamente\nas aves que aqui gorjeiam não gorjeiam\n\n[como lá.\n\nPAES, J. P. A poesia está morta mas juro que não fui eu. São Paulo: Duas Cidades, 1988.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/105/a9698eec-6e1c-4cf6-850b-01a7e227fe44.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, a diversidade linguística é apresentada pela\nótica de um observador que entra em contato com\numa comunidade linguística diferente da sua. Esse\nobservador é um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "falante do português brasileiro relatando o seu contato na Europa com o português lusitano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "imigrante em Lisboa com domínio dos registros formal e informal do português europeu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "turista europeu com domínio de duas variedades do português em visita a Lisboa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "português com domínio da variedade coloquial da língua falada no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "poeta brasileiro defensor do uso padrão da língua falada em Portugal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

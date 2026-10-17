@@ -1,0 +1,47 @@
+{
+    "title": "Questão 175 - ENEM 2016 - Segunda aplicação",
+    "index": 175,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/175/2dca5983-51b5-4940-9cef-f1abb968c7eb.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/175/e1991189-3030-4a0a-b60d-ec2fee1354ef.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/175/71e381ef-3245-40e6-bd5b-10ac4e17620a.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/175/2dca5983-51b5-4940-9cef-f1abb968c7eb.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/175/e1991189-3030-4a0a-b60d-ec2fee1354ef.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/175/71e381ef-3245-40e6-bd5b-10ac4e17620a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para analisar o exame, deve-se comparar os resultados obtidos em diferentes datas com o valor padrão de cada\ncaracterística avaliada.\nO paciente obteve um resultado dentro dos padrões no exame realizado no dia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30/11/2009.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "23/03/2010.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "09/08/2011.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "23/08/2011.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "06/03/2012.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2015 - Reaplicação",
+    "index": 66,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A fenilcetonúria é uma doença hereditária\nautossômica recessiva, associada à mutação do\ngene PAH, que limita a metabolização do aminoácido\nfenilalanina. Por isso, é obrigatório, por lei, que\nas embalagens de alimentos, como refrigerantes\ndietéticos, informem a presença de fenilalanina em sua\ncomposição. Uma mulher portadora de mutação para\no gene PAH tem três filhos normais, com um homem\nnormal, cujo pai sofria de fenilcetonúria, devido à\nmesma mutação no gene PAH encontrada em um dos\nalelos da mulher.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a probabilidade de a quarta criança gerada por\nesses pais apresentar fenilcetonúria?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12,5%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "50%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "75%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

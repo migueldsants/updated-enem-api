@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2020 - Digital",
+    "index": 157,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A gerência de uma loja de eletrônicos organizou em um quadro os dados de venda\n(quantidade e preço unitário) de celulares, impressoras e notebooks de um ano.\n\nPara o ano seguinte, deseja arrecadar 10% a mais do que foi arrecadado naquele ano\nanterior, vendendo as mesmas quantidades\nreajustando apenas o preço do notebook.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O preço de venda a ser estabelecido para um notebook\nser igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "975,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "990,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 040,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 065,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 540,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2014 - Terceira aplicação",
+    "index": 62,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O cianeto de sódio, NaCN, é um poderoso agente\ncomplexante, usado em laboratórios químicos e em\nindústrias de extração de ouro. Quando uma indústria\nlança NaCN sólido nas águas de um rio, ocorre o seguinte\nequilíbrio químico:\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/62/441b3f6f-51f0-43bb-b6f1-3ce07a187431.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/62/441b3f6f-51f0-43bb-b6f1-3ce07a187431.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse equilíbrio químico é decorrente de uma reação de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "síntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "hidrólise.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "oxirredução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "precipitação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "decomposição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2020 - Digital",
+    "index": 115,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma das etapas do processo de produção de iogurte, esquematizado na figura, ocorre\na mudança da consistência característica do leite, de líquido para gel.\n\n![](https://enem.dev/2020-digital/questions/115/5eb15df9-1700-47ae-80bb-40285800b01d.png)\n\nROBERT, N. R. Disponível em: www.respostatecnica.org.br. Acesso em: 26 fev. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-digital/questions/115/5eb15df9-1700-47ae-80bb-40285800b01d.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em qual etapa ocorre essa mudança de consistência?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

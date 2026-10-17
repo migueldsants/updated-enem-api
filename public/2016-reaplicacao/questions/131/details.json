@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2016 - Reaplicação",
+    "index": 131,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Brasil: o país dos 100 milhões de raios\n\nDos 3,15 bilhões de raios que golpeiam a Terra e\nseus habitantes durante um ano, 100 milhões deles vêm\ndesabar em terras brasileiras. O número, divulgado no\nano passado por uma equipe de cientistas do Instituto\nNacional de Pesquisas Espaciais (Inpe), em São José dos\nCampos, São Paulo, não é superado por nenhum outro\npaís. E ficou bem acima das estimativas que davam conta\nde 30 milhões ao ano. Agora, sabemos com segurança:\nem quantidade de relâmpagos, ninguém segura este país.\n\nFON, A. C.; ZANCHETTA, M. I. Disponível em: http://super.abril.com.br. Acesso em: 27 jan. 2015.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Diversos expedientes argumentativos são empregados\nnos textos para sustentar as ideias apresentadas. Nesse\ntexto, a citação de um instituto especializado é uma\nestratégia para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atestar a necessidade de ações de prevenção de danos causados por raios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apresentar as estimativas de incidência de raios em terras brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "promover discussão sobre as consequências das descargas de raios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conferir credibilidade aos resultados de uma investigação sobre raios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "comparar o número de raios incidentes no Brasil e no mundo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

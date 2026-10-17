@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2016 - Reaplicação",
+    "index": 148,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um mapa cartográfico, cuja escala é 1 : 30 000,\nas cidades A e B distam entre si, em linha reta, 5 cm.\nUm novo mapa, dessa mesma região, será construído na\nescala 1 : 20 000.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse novo mapa cartográfico, a distância em linha reta\nentre as cidades A e B, em centímetro, será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,33.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7,50.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

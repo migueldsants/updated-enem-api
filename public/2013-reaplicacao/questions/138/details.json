@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2013 - Reaplicação",
+    "index": 138,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma escola da periferia de São Paulo está com\num projeto em parceria com as universidades públicas.\nNesse projeto piloto, cada turma encaminhará um aluno\nque esteja apresentando dificuldades de aprendizagem\npara um acompanhamento especializado. Para isso, em\ncada turma, foram aplicadas 7 avaliações diagnósticas.\nOs resultados obtidos em determinada turma foram os\n\n![](https://enem.dev/2013-reaplicacao/questions/138/68aec9e8-aa96-4214-9d1d-0464306605cf.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/138/68aec9e8-aa96-4214-9d1d-0464306605cf.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Sabendo que o projeto visa atender o aluno que apresentar\na menor média nas avaliações, deverá ser encaminhado\no aluno",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

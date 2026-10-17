@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2016 - Reaplicação",
+    "index": 144,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Segundo o Compromisso Empresarial para Reciclagem\n(Cempre), o volume de lixo urbano reciclado passou de\n5 milhões de toneladas, em 2003, para 7,1 milhões de\ntoneladas, em 2008. Nesse mesmo período, o número de\nmunicípios com coleta seletiva passou de 653 para 1 004.\nEsperava-se, durante este período, um aumento de pelo\nmenos 40% no volume de lixo urbano reciclado e de 60%\nno número de municípios com coleta seletiva.\n\nDisponível em: http://revistaepoca.globo.com. Acesso em: 31 jul. 2012.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando os valores apresentados para o período\nde 2003 a 2008, os aumentos esperados no volume de\nlixo urbano reciclado e no número de municípios com\ncoleta seletiva",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não foram atingidos, pois o aumento no volume de lixo urbano reciclado foi de 30%, e no número de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "municípios com coleta seletiva foi de 30%. não foram atingidos, pois o aumento no volume de lixo urbano reciclado foi de 30%, e no número de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "municípios com coleta seletiva foi de 35%. foram atingidos apenas parcialmente, pois os aumentos no volume de lixo urbano reciclado e no número de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "municípios com coleta seletiva foram de 42%. foram atingidos apenas parcialmente, pois o aumento no volume de lixo urbano reciclado foi de 42%, e no",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "número de municípios com coleta seletiva foi de 35%. foram atingidos apenas parcialmente, pois o aumento no volume de lixo urbano reciclado foi de 42%, e no número de municípios com coleta seletiva foi de 54%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

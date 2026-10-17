@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2014 - Terceira aplicação",
+    "index": 60,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O governo brasileiro, após análise das características\nfísicas do local, incluindo sismologia, meteorologia, geologia\ne hidrologia, decidiu construir a usina termonuclear em\nAngra dos Reis, no Rio de Janeiro. A escolha desse local\nfoi questionada por parte da sociedade civil, sob a alegação\nde que essa cidade é um paraíso turístico, próxima de\náreas densamente habitadas. Temendo a probabilidade de\nocorrer um grave acidente, os defensores propuseram que\nessa usina fosse instalada em regiões desabitadas, como\no Sertão nordestino.\n\nDisponível em: www.cnen.gov.br. Acesso em: 4 ago. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A característica que impede que essa usina seja instalada\nno local proposto pela sociedade civil é o a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pequena estabilidade do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "baixo índice pluviométrico anual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ausência de grandes volumes de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "baixa movimentação das massas de ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "elevação da temperatura ao longo do ano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

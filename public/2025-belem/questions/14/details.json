@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 14,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Disponível em: https://paralisiainfantil.com.br. Acesso em: 15 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Essa peça de campanha apresenta características de um gênero do universo infantil no intuito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "destacar a importância de imagens em propagandas institucionais voltadas às crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "informar os usuários do sistema de saúde sobre as causas históricas de uma doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alertar para a necessidade de vacinação contra a poliomielite na faixa etária de risco.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "impulsionar o aumento de propagandas governamentais voltadas à saúde infantil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "criticar a falta de engajamento nas campanhas de vacinação infantil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 141 - ENEM 2014 - Reaplicação",
+    "index": 141,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O ferro é um mineral fundamental para que as células mantenham seu bom funcionamento. Ele é essencial ao\ntransporte de oxigênio, síntese de DNA e metabolismo energético. É recomendado para meninos de 9 a 13 anos\ningerirem, pelo menos, 8 mg de ferro por dia.\n\nPesquisadores elaboraram a tabela com alguns alimentos e as suas respectivas quantidades de ferro:\n\n![](https://enem.dev/2014-reaplicacao/questions/141/7d9356ad-8d40-4217-94f9-e42079b2d560.png)\n\nA diretora de uma escola sabe que deve escolher para o almoço de seus alunos o máximo de cardápios possíveis\nentre três cardápios existentes, no(s) qual(is) cada porção equivale a 100 g e cada copo a 50 g.\n\n![](https://enem.dev/2014-reaplicacao/questions/141/cc8a2166-3dba-46ac-832d-be40884fcd44.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/141/b24bba19-098a-440e-85f7-260118b9fafd.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/141/e9a2db45-557c-4572-9b39-b54ff4a556fa.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/141/1c4483b4-37b9-48b7-8914-f78dd16fb3ac.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/141/440989cf-ba37-496a-96f5-76fc724ff509.png)\n\nDisponível em: www.rgnutri.com.br. Acesso em: 2 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/141/7d9356ad-8d40-4217-94f9-e42079b2d560.png",
+        "https://enem.dev/2014-reaplicacao/questions/141/cc8a2166-3dba-46ac-832d-be40884fcd44.png",
+        "https://enem.dev/2014-reaplicacao/questions/141/b24bba19-098a-440e-85f7-260118b9fafd.png",
+        "https://enem.dev/2014-reaplicacao/questions/141/e9a2db45-557c-4572-9b39-b54ff4a556fa.png",
+        "https://enem.dev/2014-reaplicacao/questions/141/1c4483b4-37b9-48b7-8914-f78dd16fb3ac.png",
+        "https://enem.dev/2014-reaplicacao/questions/141/440989cf-ba37-496a-96f5-76fc724ff509.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para ter certeza de que seus alunos estão ingerindo a quantidade mínima de ferro recomendada, a diretora deve\nescolher o(s) cardápio(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 ou 2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 ou 3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

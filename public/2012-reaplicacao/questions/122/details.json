@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2012 - Reaplicação",
+    "index": 122,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Notícias do além\n\nAquele que morrer primeiro e for para o céu deverá\nvoltar à Terra para contar ao outro como é a vida lá\nno paraíso. Assim ficou combinado entre Francisco e\nSebastião, amigos inseparáveis e apaixonados pelo\nfutebol. Francisco teve morte súbita e, passado algum\ntempo, no meio da noite, sua alma apareceu ao colega:\n\n— Nossa Senhora, Chico! Você veio mesmo!\n\n— Estou aqui, Tião, para cumprir a minha promessa,\ntrazendo-lhe duas notícias.\n\n— Então me fala.\n\n— O céu é uma maravilha, um colosso, uma beleza.\nTem futebol todo dia.\n\n— E a outra?\n\n— A outra é que você está escalado para jogar no\nmeu time amanhã cedo.\n\nDIAS, M. V. R. Humor na Marolândia. In: ILARI, R. Introdução à semântica: brincando com\n\na gramática. São Paulo: Contexto, 2001.\n\nEsse texto pode ser analisado sob dois pontos de vista que\nincluem situações diferentes de interlocução: a primeira,\nconsiderando seu produtor e seus potenciais leitores; e\na segunda, considerando os interlocutores Francisco e\nSebastião. Para cada uma dessas situações o produtor\ndo texto tem um objetivo específico que se determina, não\nsó pela situação, mas também pelo gênero textual.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/122/ebce1cdf-61ff-4ea3-bd12-78ad48f6aef6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os verbos que sintetizam os objetivos do produtor nas\nduas situações propostas são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "entreter e seduzir.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "divertir e informar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "distrair e comover.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "recrear e assustar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/122/ebce1cdf-61ff-4ea3-bd12-78ad48f6aef6.png",
+            "isCorrect": false
+        }
+    ]
+}

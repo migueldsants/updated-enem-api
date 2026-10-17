@@ -1,0 +1,52 @@
+{
+    "title": "Questão 121 - ENEM 2021 - Digital",
+    "index": 121,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão\nligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob\n\n![](https://enem.dev/2021-digital/questions/121/af5537d4-4649-4030-9834-a3fa872f4776.png)\n\nação da gravidade numa região que tem um campo magnético horizontal uniforme ,\nda esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo,\n\n![](https://enem.dev/2021-digital/questions/121/2e77d38d-da30-423c-bf9a-fd832cf30c84.png)\n\nno mesmo sentido da aceleração da gravidade que atua na região.\n\n![](https://enem.dev/2021-digital/questions/121/889d36a2-2529-418a-988b-29b36a64457c.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/121/af5537d4-4649-4030-9834-a3fa872f4776.png",
+        "https://enem.dev/2021-digital/questions/121/2e77d38d-da30-423c-bf9a-fd832cf30c84.png",
+        "https://enem.dev/2021-digital/questions/121/889d36a2-2529-418a-988b-29b36a64457c.png",
+        "https://enem.dev/2021-digital/questions/121/8bf8dbf9-bcc6-4905-b0fa-763a0f96d25a.png",
+        "https://enem.dev/2021-digital/questions/121/b5d452d2-0961-48aa-95aa-b9de7f51735f.png",
+        "https://enem.dev/2021-digital/questions/121/55c48ba0-f5ae-49ff-bf85-a8772abb1549.png",
+        "https://enem.dev/2021-digital/questions/121/23050cc1-6ad1-4d54-b1cb-984d8f45da96.png",
+        "https://enem.dev/2021-digital/questions/121/e04615c7-a27d-4f6c-98b6-6eadf1c5e3b6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Visto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no\nmomento inicial em que as cargas penetram na região de campo magnético, está\nrepresentado em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/121/8bf8dbf9-bcc6-4905-b0fa-763a0f96d25a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/121/b5d452d2-0961-48aa-95aa-b9de7f51735f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/121/55c48ba0-f5ae-49ff-bf85-a8772abb1549.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/121/23050cc1-6ad1-4d54-b1cb-984d8f45da96.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021-digital/questions/121/e04615c7-a27d-4f6c-98b6-6eadf1c5e3b6.png",
+            "isCorrect": false
+        }
+    ]
+}

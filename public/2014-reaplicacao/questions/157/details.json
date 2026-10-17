@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2014 - Reaplicação",
+    "index": 157,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um cliente fez um orçamento com uma cozinheira\npara comprar 10 centos de quibe e 15 centos de coxinha\ne o valor total foi de R$ 680,00. Ao finalizar a encomenda,\ndecidiu aumentar as quantidades de salgados e acabou\ncomprando 20 centos de quibe e 30 centos de coxinha.\nCom isso, ele conseguiu um desconto de 10% no preço\ndo cento do quibe e de 15% no preço do cento de coxinha,\ne o valor total da compra ficou em R$ 1 182,00.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com esses dados, qual foi o valor que o cliente\npagou pelo cento da coxinha?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 23,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 23,80",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 24,90",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 25,30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 37,80",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

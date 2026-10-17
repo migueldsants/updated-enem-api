@@ -1,0 +1,46 @@
+{
+    "title": "Questão 148 - ENEM 2021 - Digital",
+    "index": 148,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O dono de uma loja pretende usar cartões imantados para a divulgação de sua loja.\nA empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de\nR$ 0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis\npara impressão:\n\num triângulo equilátero de lado 12 cm;\num quadrado de lado 8 cm;\num retângulo de lados 11 cm e 8 cm;\num hexágono regular de lado 6 cm;\num círculo de diâmetro 10 cm.\n\nO dono da loja está disposto a pagar, no máximo, R$ 0,80 por cartão. Ele escolherá,\ndentro desse limite de preço, o modelo que tiver maior área de impressão.\n\n![](https://enem.dev/2021-digital/questions/148/251b74ff-7362-401d-9155-7d270c1108cf.png)\n\n![](https://enem.dev/2021-digital/questions/148/853bbe29-85bd-43d4-834b-8276d8f5f298.png)\n\nUse 3 como aproximação para e use 1,7 como aproximação para .",
+    "files": [
+        "https://enem.dev/2021-digital/questions/148/251b74ff-7362-401d-9155-7d270c1108cf.png",
+        "https://enem.dev/2021-digital/questions/148/853bbe29-85bd-43d4-834b-8276d8f5f298.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessas condições, o modelo que deverá ser escolhido tem como face útil para impressão\num",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "triângulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "quadrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "retângulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hexágono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "círculo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

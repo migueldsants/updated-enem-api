@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2014 - Terceira aplicação",
+    "index": 115,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "De um lado, as doenças relacionadas ao sedentarismo\n(hipertensão, diabetes, obesidade etc.), e de outro lado,\no insistente chamamento para determinados padrões\nde beleza corporal, associados a produtos e práticas\nalimentares e de exercício físico, colocam os jovens na\n“linha de frente” dos cuidados com o corpo e a saúde.\n\nFINI, M. I. (Org.) Proposta Curricular do Estado de São Paulo:\nEducação Física. São Paulo: SEE, 2008 adaptado .",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse contexto, considera-se que, atualmente,\nos assuntos relacionados à saúde, beleza, hábitos\nalimentares saudáveis têm sido objeto de discussões que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promovem uma diminuição na venda de produtos como suplementos alimentares e seus derivados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estimulam ações que tenham por propósito a aquisição e manutenção de um corpo saudável.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "proporcionam um aumento da prática de esportes coletivos em todo o país, como o futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "possibilitam a diminuição do número de pessoas ao redor do mundo que são acometidas pela diabetes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "questionam a busca de padrões de beleza pelos jovens por meio de suplementos e atividade física.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

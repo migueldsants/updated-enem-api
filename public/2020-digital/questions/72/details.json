@@ -1,0 +1,43 @@
+{
+    "title": "Questão 72 - ENEM 2020 - Digital",
+    "index": 72,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Certos músicos agradavam tanto ao público da Corte por seu talento especial como\nvirtuose ou como compositor, que sua fama se espraiava para além da Corte local onde\nestavam empregados, chegando aos mais altos níveis. Eram chamados para tocar nas Cortes\ndos poderosos, como aconteceu com Mozart; imperadores e reis exprimiam abertamente\nprazer com sua arte e admiração por suas realizações. Tinham permissão para jantar à\nmesma mesa — normalmente em troca de uma execução ao piano; muitas vezes se\nhospedavam em seus palácios quando viajavam e assim conheciam intimamente seu estilo de\nvida e seu gosto.\n\nELIAS, N. Mozart, sociologia de um gênio. Rio de Janeiro: Jorge Zahar, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base no caso descrito, qual elemento histórico do Antigo Regime contrasta com o trânsito\nde intelectuais e artistas pelas Cortes?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Rigidez das estruturas sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fragmentação do poder estatal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Autonomia de profissionais liberais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Harmonia das relações interindividuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Racionalização da administração pública.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

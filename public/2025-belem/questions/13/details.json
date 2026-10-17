@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 13,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A importância da leitura de alto nível\nA leitura de alto nível é a nossa ferramenta mais poderosa para\no pensamento analítico e crítico. Os signatários deste manifesto\npedem o reconhecimento da relevância permanente da leitura de\nalto nível na era digital.\n\nEm um ambiente de informação cada vez mais complexo, os\ncidadãos informados precisam ser capazes de distinguir fontes\nválidas de não válidas e ajustar de maneira flexível o comportamento\nde leitura a contextos variados. O ato de leitura de alto nível é um\nexercício de atenção e paciência cognitiva, expandindo vocabulários\ne capacidades conceituais, desafiando ativamente as preconcepções\ndos leitores. São especialmente os textos de formato longo, como\nlivros, que aprimoram nossas habilidades de leitura.\n\nPortanto, pedimos educação e promoção de leitura, juntamente\ncom avaliação e pesquisa, para reconhecer a importância da leitura\nde alto nível como uma capacidade de moldar a vida e a sociedade.\nA educação e a promoção da leitura precisam ir além do ensino\nde habilidades funcionais e informativas básicas para crianças em\nidade escolar e focar o processo de desenvolvimento pessoal ao\nlongo da vida, aprimorado pela leitura. O futuro da leitura afeta\no futuro das nossas sociedades. Os formuladores de políticas em\ntodas as áreas precisam estar cientes disso.\n\nDisponível em: www.publishnews.com.br.\nAcesso em: 10 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse manifesto, lançado na Feira do Livro de Frankfurt de 2023,\napresenta como marca desse gênero textual um caráter",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "persuasivo, ao combater a leitura digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "subjetivo, ao traçar um perfil ideal de leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "emotivo, ao defender a relevância do livro impresso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "normativo, ao definir medidas educativas necessárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reivindicatório, ao alertar a sociedade sobre o papel da leitura.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

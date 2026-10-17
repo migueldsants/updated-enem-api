@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2016 - Reaplicação",
+    "index": 57,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Atualmente, soldados em campo, seja em treinamento\nou em combate, podem aquecer suas refeições, prontas\ne embaladas em bolsas plásticas, utilizando aquecedores\nquímicos, sem precisar fazer fogo. Dentro dessas bolsas\nexiste magnésio metálico em pó e, quando o soldado\nquer aquecer a comida, ele coloca água dentro da bolsa,\npromovendo a reação descrita pela equação química:\n\nMg (s) + 2 H₂O (l) → Mg(OH)₂ (s) + H₂ (g) + 350 kJ",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O aquecimento dentro da bolsa ocorre por causa da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução sofrida pelo oxigênio, que é uma reação exotérmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "oxidação sofrida pelo magnésio, que é uma reação exotérmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "redução sofrida pelo magnésio, que é uma reação endotérmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oxidação sofrida pelo hidrogênio, que é uma reação exotérmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "redução sofrida pelo hidrogênio, que é uma reação endotérmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

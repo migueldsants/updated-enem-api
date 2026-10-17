@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 21,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O voleibol se apresenta como um jogo dinâmico, pois as ações\nrealizadas durante a partida não podem ser individualizadas,\no que impossibilita que os jogadores executem sucessivos toques\nna bola. Em virtude de sua habilidade motora básica ser o\nato de rebater, torna-se inviável a seus jogadores reter a bola\npara si e monopolizá-la. Em diferentes situações, justamente\npor sua dinamicidade e pelas interações de cooperação e/ou\noposição estabelecidas entre os momentos do jogo e entre\nseus participantes, é de suma importância que estes, a todo\nmomento, estejam atentos às ações e ao comportamento de\nseus companheiros e adversários, para poderem se antecipar\ne, assim, atingir os objetivos do jogo. Para que o êxito nessas\nsituações seja alcançado, torna-se imprescindível que os\nparticipantes realizem, constantemente, a leitura de diferentes\nelementos, como as ações de companheiros e adversários,\nseu posicionamento e sua movimentação, para, posteriormente,\ntomarem as melhores decisões com base nessas percepções.\n\nOLIVEIRA, R. V.; RIBAS, J. F. M. A lógica interna do voleibol sob as lentes da\npraxiologia motriz. J. Phys. Educ., n. 30, 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse texto descreve o voleibol como uma modalidade esportiva que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "relativiza a importância da destreza esportiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valoriza a posse da bola entre os companheiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "exige reflexos rápidos como reação à sua dinâmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fortalece a lógica coletiva no desenvolvimento do jogo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "dispensa a ação individual na obtenção da pontuação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

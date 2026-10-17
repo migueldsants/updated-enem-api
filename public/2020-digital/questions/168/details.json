@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2020 - Digital",
+    "index": 168,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Eduardo deseja criar um e-mail utilizando um anagrama exclusivamente com as sete\nletras que compõem o seu nome, antes do símbolo @ .\n\nO e-mail terá a forma *******@site.com.br e será de tal modo que as três letras “edu”\napareçam sempre juntas e exatamente nessa ordem.\n\nEle sabe que o e-mail eduardo@site.com.br já foi criado por outro usuário e que qualquer\noutro agrupamento das letras do seu nome forma um e-mail que ainda não foi cadastrado.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De quantas maneiras Eduardo pode criar um e-mail desejado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "59",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "118",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "119",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "120",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

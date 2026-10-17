@@ -1,0 +1,45 @@
+{
+    "title": "Questão 99 - ENEM 2012 - Reaplicação",
+    "index": 99,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/99/9b7cf931-1b02-48b3-aa6e-8c06a91202ff.png)\n\nLAERTE. Disponível em: http://claudiagiron.blog.terra.com.br. Acesso em: 8 set. 2011.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/99/9b7cf931-1b02-48b3-aa6e-8c06a91202ff.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na tira, o recurso utilizado para produzir humor é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "transformação da inércia em movimento por meio do balanço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "universalização do enunciador por meio do uso da primeira pessoa do plural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "polissemia da palavra balanço, ou seja, seus múltiplos sentidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pressuposição de que o ócio é melhor que o trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "metaforização da vida como caminho a ser seguido continuamente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

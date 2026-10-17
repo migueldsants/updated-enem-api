@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2014 - Terceira aplicação",
+    "index": 90,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Brasil é o segundo maior produtor de etanol\ncombustível do mundo, tendo fabricado 26,2 bilhões\nde litros em 2010. Em uma etapa de seu processo de\nprodução, o etanol forma uma mistura líquida homogênea\ncom a água e outras substâncias. Até uma determinada\nconcentração, o etanol é mais volátil que os outros\ncomponentes dessa mistura.\n\nIndustry Statistics: World Fuel Ethanol Production. Disponível em: ethanolrfa.org.\nAcesso em: 1 mar. 2012 adaptado .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/90/3648b1f5-4fd0-4290-ae8c-dc6acb2e2bf0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesta faixa de concentração, a técnica física mais\nindicada para separar o etanol da mistura é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "destilação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "sublimação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "decantação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/90/3648b1f5-4fd0-4290-ae8c-dc6acb2e2bf0.png",
+            "isCorrect": false
+        }
+    ]
+}

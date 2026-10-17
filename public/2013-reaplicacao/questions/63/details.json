@@ -1,0 +1,47 @@
+{
+    "title": "Questão 63 - ENEM 2013 - Reaplicação",
+    "index": 63,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013-reaplicacao/questions/63/583977d4-c395-4ab8-8718-64a5c02cdf52.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/63/4521d84d-5239-4bd8-94cc-302ad63942b1.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/63/b59b8fab-77e6-41e0-a6f3-f2e8505a01ac.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/63/583977d4-c395-4ab8-8718-64a5c02cdf52.png",
+        "https://enem.dev/2013-reaplicacao/questions/63/4521d84d-5239-4bd8-94cc-302ad63942b1.png",
+        "https://enem.dev/2013-reaplicacao/questions/63/b59b8fab-77e6-41e0-a6f3-f2e8505a01ac.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As diferenças observadas entre as várias regiões do\ncorpo refletem que a densidade dos receptores",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não é a mesma em todos os pontos, existindo regiões com maior capacidade de discriminação e sensibilidade, como o indicador e o polegar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "apresenta pequena diferenciação entre os diversos pontos, existindo regiões com menor capacidade de discriminação e sensibilidade, como o indicador e a panturrilha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apresenta pequena diferenciação entre os diversos pontos, diferenciando-se em regiões com maior capacidade de discriminação e sensibilidade, como as costas e o antebraço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "não é a mesma em todos os pontos, existindo regiões com maior capacidade de discriminação e sensibilidade, como o panturrilha e as costas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "se equivale, existindo pontos que manifestam uma maior sensibilidade e discriminação, como as costas e o antebraço.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

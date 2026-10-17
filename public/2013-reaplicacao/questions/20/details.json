@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2013 - Reaplicação",
+    "index": 20,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Devem ser bons serviçais e habilidosos, pois noto\nque repetem logo o que a gente diz e creio que depressa\nse fariam cristãos; me pareceu que não tinham nenhuma\nreligião. Eu, comprazendo a Nosso Senhor, levarei daqui,\npor ocasião de minha partida, seis deles para Vossas\nMajestades, para que aprendam a falar.\n\nCOLOMBO, C. Diários da descoberta da América: as quatro viagens e o testamento.\nPorto Alegre: L&PM, 1984.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O documento destaca um aspecto cultural relevante\nem torno da conquista da América, que se encontra\nexpresso em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Deslumbramento do homem branco diante do comportamento exótico das tribos autóctones.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Violência militarizada do europeu diante da necessidade de imposição de regras aos ameríndios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cruzada civilizacional frente à tarefa de educar os povos nativos pelos parâmetros ocidentais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Comportamento caridoso dos governos europeus diante da receptividade das comunidades indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Compromisso dos agentes religiosos diante da necessidade de respeitar a diversidade social dos índios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

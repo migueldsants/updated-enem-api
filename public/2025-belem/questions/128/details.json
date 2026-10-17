@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 128,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Carros elétricos põem fim ao longo reinado da rádio AM\nAs montadoras de automóveis estão em uma corrida\nrumo a um futuro eletrificado, e rádios AM estão ficando pelo\ncaminho. O problema, dizem os especialistas, é que os motores\ndos veículos elétricos geram frequências eletromagnéticas do\nmesmo comprimento de onda que os sinais das rádios AM.\n“Você tem dois sinais que colidem um com o outro e se\ncancelam”, disse o diretor de inovação de motores e tecnologia\nde uma fabricante de autopeças.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 20 nov. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O problema mencionado refere-se a qual fenômeno ondulatório?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ressonância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interferência.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

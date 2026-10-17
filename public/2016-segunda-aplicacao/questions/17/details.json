@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2016 - Segunda aplicação",
+    "index": 17,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A justiça e a conformidade ao contrato consistem\nem algo com que a maioria dos homens parece\nconcordar. Constitui um princípio julgado estender-se\naté os esconderijos dos ladrões e às confederações dos\nmaiores vilões; até os que se afastaram a tal ponto da\nprópria humanidade conservam entre si a fé e as regras\nda justiça.\n\nLOCKE, J. Ensaio acerca do entendimento humano. São Paulo: Nova Cultural, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com Locke, até a mais precária coletividade\ndepende de uma noção de justiça, pois tal noção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "identifica indivíduos despreparados para a vida em comum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contribui com a manutenção da ordem e do equilíbrio social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "estabelece um conjunto de regras para a formação da sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "determina o que é certo ou errado num contexto de interesses conflitantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "representa os interesses da coletividade, expressos pela vontade da maioria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

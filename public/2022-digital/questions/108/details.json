@@ -1,0 +1,52 @@
+{
+    "title": "Questão 108 - ENEM 2022 - Digital",
+    "index": 108,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2022-digital/questions/108/1c691e6e-8e38-4ab5-b571-dbb667c35aef.png)\n\n![](https://enem.dev/2022-digital/questions/108/a1ee8290-499c-4857-a9b0-ed1378e682d7.png)\n\n![](https://enem.dev/2022-digital/questions/108/2b95e747-247c-4e22-acd7-dcf46d395838.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/108/1c691e6e-8e38-4ab5-b571-dbb667c35aef.png",
+        "https://enem.dev/2022-digital/questions/108/a1ee8290-499c-4857-a9b0-ed1378e682d7.png",
+        "https://enem.dev/2022-digital/questions/108/2b95e747-247c-4e22-acd7-dcf46d395838.png",
+        "https://enem.dev/2022-digital/questions/108/f938a5d1-44b0-49c6-ab5b-c6545a55ece9.png",
+        "https://enem.dev/2022-digital/questions/108/76c2b3de-a038-4dcd-84f3-1de8c32729b5.png",
+        "https://enem.dev/2022-digital/questions/108/a5a05ea3-0d1d-444e-919f-25133128f8d5.png",
+        "https://enem.dev/2022-digital/questions/108/457732c6-1a81-4902-aa12-68bfc59b1490.png",
+        "https://enem.dev/2022-digital/questions/108/4bb49fc8-6b00-4799-ae09-e3fe9df16e4e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O esquema que representa corretamente todas as forças que atuam sobre a muleta\nquando ela atinge o ângulo crítico é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/108/f938a5d1-44b0-49c6-ab5b-c6545a55ece9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/108/76c2b3de-a038-4dcd-84f3-1de8c32729b5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/108/a5a05ea3-0d1d-444e-919f-25133128f8d5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/108/457732c6-1a81-4902-aa12-68bfc59b1490.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/108/4bb49fc8-6b00-4799-ae09-e3fe9df16e4e.png",
+            "isCorrect": true
+        }
+    ]
+}

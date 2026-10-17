@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2016 - Reaplicação",
+    "index": 25,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/25/1ab1ca4f-b85e-489b-9015-8e4fe1c403ab.png)\n\nHENFIL. Diretas Já!, 1984. In: LEMOS, R. (Org.). Uma história do Brasil através da\ncaricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/25/1ab1ca4f-b85e-489b-9015-8e4fe1c403ab.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A imagem faz referência a uma intensa mobilização\npopular e pode ser traduzida como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a campanha popular que confrontava a legitimidade das eleições indiretas no país.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a manifestação de milhares de pessoas em prol da realização de eleições para o Senado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as passeatas realizadas em prol do fim da Ditadura Militar no Brasil e na Argentina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os comícios e manifestações populares pela abertura política de forma lenta e segura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o movimento que exigia o direito à igualdade de voto para homens e mulheres.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

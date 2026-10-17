@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2022 - Digital",
+    "index": 63,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos,\nsuas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade\nMédia, o auxílio aos famintos se inscreve no domínio da gestão pública, mesmo quando a\nação de seus agentes é apresentada sob o ângulo da piedade e da caridade individuais,\ncomo é o caso da Gália merovíngia. Assim, o fato de que as respostas à fome são\nmostradas, na Gália, como o fruto de iniciativas pessoais fundadas no imperativo da\ncaridade deriva da natureza das fontes do século VI.\n\nSILVA, M. C. Os agentes públicos e a fome nos primeiros séculos da Idade Média.\nVaria Historia, n. 60, set.-dez. 2016 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na conjuntura histórica destacada no texto, o dever de agir em face da situação de crise\napresentada pertencia à jurisdição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da nobreza, proveniente da obrigação de proteção ao campesinato livre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dos bispados, consequente da participação dos clérigos nos assuntos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "das corporações, procedente do padrão assistencialista previsto nas normas",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2016 - Reaplicação",
+    "index": 33,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/33/ecb02530-13eb-4e84-800e-7fcf8b19744c.png)\n\nUNIDADE DE TELECOMUNICAÇÕES\n\nDisponível em: www.geografiaparatodos.com.br. Acesso em: 1 ago. 2012.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/33/ecb02530-13eb-4e84-800e-7fcf8b19744c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A análise da imagem remete a uma estratégia que pressupõe o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "preocupação governamental com a entrada de imigrantes no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "determinação do governo em impedir a expansão de países vizinhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilização de tecnologias no processo de territorialização do espaço brasileiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "decisão do governo em proteger as áreas de construção de hidrelétricas no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "direcionamento dos investimentos militares para a proteção de recursos biogenéticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

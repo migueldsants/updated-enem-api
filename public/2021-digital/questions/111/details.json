@@ -1,0 +1,45 @@
+{
+    "title": "Questão 111 - ENEM 2021 - Digital",
+    "index": 111,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na cidade de São Paulo, as ilhas de calor são responsáveis pela alteração da\ndireção do fluxo da brisa marítima que deveria atingir a região de mananciais. Mas, ao\ncruzar a ilha de calor, a brisa marítima agora encontra um fluxo de ar vertical, que\ntransfere para ela energia térmica absorvida das superfícies quentes da cidade,\ndeslocando-a para altas altitudes. Dessa maneira, há condensação e chuvas fortes no\ncentro da cidade, em vez de na região de mananciais. A imagem apresenta os três\nsubsistemas que trocam energia nesse fenômeno.\n\n![](https://enem.dev/2021-digital/questions/111/3ca50512-97a7-4c59-9bcf-3e64afe4f1c9.png)\n\nNo processo de fortes chuvas no centro da cidade de São Paulo, há dois\nmecanismos dominantes de transferência de calor: entre o Sol e a ilha de calor, e entre a\nilha de calor e a brisa marítima.\n\nVIVEIROS, M. Ilhas de calor afastam chuvas de represas. Disponível em: www2.feis.unesp.br.\nAcesso em: 3 dez. 2019 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/111/3ca50512-97a7-4c59-9bcf-3e64afe4f1c9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esses mecanismos são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "irradiação e convecção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "irradiação e irradiação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "condução e irradiação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "convecção e irradiação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convecção e convecção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

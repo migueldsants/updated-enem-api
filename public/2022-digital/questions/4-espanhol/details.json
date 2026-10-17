@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2022 - Digital",
+    "index": 4,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Los niños de nuestro olvido\n\nEscribo sobre un destino\nque apenas puedo tocar\nen tanto un niño se inventa\ncon pegamento un hogar\n\nMientras busco las palabras\npara hacer esta canción\nun niño esquiva las balas\nque buscan su corazón\n\nAcurrucado en mi calle\nduerme un niño y la piedad\narma lejos un pesebre\ny juega a la navidad\n\nArma lejos un pesebre\ny juega a la navidad\ny juega a la navidad\ny juega, y juega, y juega...\n\nLa niñez de nuestro olvido\npide limosna en un bar\ny lava tu parabrisas\npor un peso, por un pan\n\nSi las flores del futuro\ncrecen con tanto dolor\nseguramente mañana\nserá un mañana sin sol\n\nSOSA, M. In: Corazón libre. Argentina: E.D.G.E., 2004 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, a expressão “un mañana sin sol ” é usada para concluir uma crítica ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descaso diante da problemática de crianças em situação de rua.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "violência característica do cotidiano das grandes metrópoles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estímulo à mendicância nos centros urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tendência de informalização do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "falta de serviços de saúde adequados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

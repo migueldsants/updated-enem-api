@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2016 - Reaplicação",
+    "index": 45,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/45/876d09e8-ba39-4735-82c3-c023325a4f69.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/45/876d09e8-ba39-4735-82c3-c023325a4f69.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A tirinha compara dois veículos de comunicação,\natribuindo destaque à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "resistência do campo virtual à adulteração de dados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "interatividade dos programas de entretenimento abertos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "confiança do telespectador nas notícias veiculadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "credibilidade das fontes na esfera computacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "autonomia do internauta na busca de informações.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 129,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Por suas belezas naturais, a região de Bonito, no Mato\nGrosso do Sul, é um dos destinos ecoturísticos mais procurados\ndo Brasil. Muitas das atrações ecoturísticas que movimentam\na economia local estão situadas dentro de fazendas.\nPor isso, diversos donos dessas propriedades decidiram criar\nReservas Particulares do Patrimônio Natural (RPPNs).\nNesses locais, estão recompondo aos poucos as matas ciliares\ne adotando outras medidas pontuais, como a instalação de\nninhos artificiais para as araras nativas.\n\nGUIMARÃES, J. R. D. Bonito ou Lindo? Disponível em: http://cienciahoje.org.br.\n\nAcesso em: 28 nov. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse contexto, as RPPNs foram criadas porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evitam a entrada de turistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reduzem as espécies endêmicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "favorecem o desenvolvimento sustentável.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "possibilitam a introdução de espécies exóticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumentam as áreas para extração de madeira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

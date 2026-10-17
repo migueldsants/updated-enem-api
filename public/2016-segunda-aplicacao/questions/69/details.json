@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2016 - Segunda aplicação",
+    "index": 69,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para a instalação de um aparelho de ar-condicionado,\né sugerido que ele seja colocado na parte superior da\nparede do cômodo, pois a maioria dos fluidos (líquidos\ne gases), quando aquecidos, sofrem expansão, tendo\nsua densidade diminuída e sofrendo um deslocamento\nascendente. Por sua vez, quando são resfriados,\ntornam-se mais densos e sofrem um deslocamento\ndescendente.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A sugestão apresentada no texto minimiza o consumo de\nenergia, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminui a umidade do ar dentro do cômodo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumenta a taxa de condução térmica para fora do cômodo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "torna mais fácil o escoamento da água para fora do cômodo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "facilita a circulação das correntes de ar frio e quente dentro do cômodo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "diminui a taxa de emissão de calor por parte do aparelho para dentro do cômodo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 154 - ENEM 2014 - Reaplicação",
+    "index": 154,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um artista deseja pintar em um quadro uma figura na\nforma de triângulo equilátero ABC de lado 1 metro. Com o\nobjetivo de dar um efeito diferente em sua obra, o artista\ntraça segmentos que unem os pontos médios D, E e F\ndos lados BC, AC e AB, respectivamente, colorindo um\ndos quatro triângulos menores, como mostra a figura.\n\nC\n\nE D\n\n![](https://enem.dev/2014-reaplicacao/questions/154/e1414afa-95fd-4099-8c52-0dc549009529.png)\n\nA B",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/154/e1414afa-95fd-4099-8c52-0dc549009529.png",
+        "https://enem.dev/2014-reaplicacao/questions/154/cc0bf592-0857-460e-acec-290fd9657d50.png",
+        "https://enem.dev/2014-reaplicacao/questions/154/aaecc3a6-ea0e-46bf-8aac-9bc300a10fb6.png",
+        "https://enem.dev/2014-reaplicacao/questions/154/6d24d2b5-7a68-4b31-803d-2fee95a2bd2a.png",
+        "https://enem.dev/2014-reaplicacao/questions/154/fca74712-1294-46bf-b786-10435eb9ce38.png",
+        "https://enem.dev/2014-reaplicacao/questions/154/45d153a0-e36b-445f-94ef-e28c1c58a52b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a medida da área pintada, em metros quadrados,\ndo triângulo DEF?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/154/cc0bf592-0857-460e-acec-290fd9657d50.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/154/aaecc3a6-ea0e-46bf-8aac-9bc300a10fb6.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/154/6d24d2b5-7a68-4b31-803d-2fee95a2bd2a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/154/fca74712-1294-46bf-b786-10435eb9ce38.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/154/45d153a0-e36b-445f-94ef-e28c1c58a52b.png",
+            "isCorrect": false
+        }
+    ]
+}

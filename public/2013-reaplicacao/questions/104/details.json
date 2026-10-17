@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2013 - Reaplicação",
+    "index": 104,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Logo todos na cidade souberam: Halim se embeiçara\npor Zana. As cristãs maronitas de Manaus, velhas e\nmoças, não aceitavam a ideia de ver Zana casar-se com\num muçulmano. Ficavam de vigília na calçada do Biblos,\nencomendavam novenas para que ela não se casasse\ncom Halim. Diziam a Deus e ao mundo fuxicos assim: que\nele era um mascate, um teque-teque qualquer, um rude,\num maometano das montanhas do sul do Líbano que se\nvestia como um pé rapado e matraqueava nas ruas e\npraças de Manaus. Galib reagiu, enxotou as beatas: que\ndeixassem sua filha em paz, aquela ladainha prejudicava\no movimento do Biblos. Zana se recolheu ao quarto. Os\nclientes queriam vê-la, e o assunto do almoço era só este:\na reclusão da moça, o amor louco do “maometano”.\n\nHATOUM, M. Dois irmãos. São Paulo: Cia. das Letras, 2006 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dois irmãos narra a história da família que Halim e\nZana formaram na segunda metade do século XX.\nConsiderando o perfil sociocultural das personagens e os\nvalores sociais da época, a oposição ao casamento dos\ndois evidencia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as fortes barreiras erguidas pelas diferenças de nível financeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o impacto dos preceitos religiosos no campo das escolhas afetivas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a divisão das famílias em castas formadas pela origem geográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a intolerância com atos litúrgicos, aqui representados pelas novenas e ladainhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a importância atribuída à ocupação exercida por um futuro chefe de família.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

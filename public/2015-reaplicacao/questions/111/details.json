@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2015 - Reaplicação",
+    "index": 111,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Mudança linguística\n\nAtaliba de Castilho, professor de língua portuguesa\nda USP, explica que o internetês é parte da metamorfose\nnatural da língua.\n\n— Com a internet, a linguagem segue o caminho\ndos fenômenos da mudança, como o que ocorreu com\n“você”, que se tornou o pronome átono “cê”. Agora,\no interneteiro pode ajudar a reduzir os excessos da\nortografia, e bem sabemos que são muitos. Por que o\nacento gráfico é tão importante assim para a escrita?\nJá tivemos no Brasil momentos até mais exacerbados por\nacentos e dispensamos muitos deles. Como toda palavra\né contextualizada pelo falante, podemos dispensar ainda\nmuitos outros. O interneteiro mostra um caminho, pois faz\num casamento curioso entre oralidade e escrituralidade.\nO internetês pode, no futuro, até tornar a comunicação\nmais eficiente. Ou evoluir para um jargão complexo, que,\nem vez de aproximar as pessoas em menor tempo, estimule\no isolamento dos iniciados e a exclusão dos leigos.\n\nPara Castilho, no entanto, não será uma reforma\nortográfica que fará a mudança de que precisamos na\nlíngua. Será a internet. O jeito eh tc e esperar pra ver?\n\nDisponível em: http://revistalingua.com.br. Acesso em: 3 jun. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na entrevista, o fragmento “O jeito eh tc e esperar pra\nver?” tem por objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ilustrar a linguagem de usuários da internet que poderá promover alterações de grafias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "mostrar os perigos da linguagem da internet como potencializadora de dificuldades de escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "evidenciar uma forma de exclusão social para as pessoas com baixa proficiência escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "explicar que se trata de um erro linguístico por destoar do padrão formal apresentado ao longo do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "exemplificar dificuldades de escrita dos interneteiros que desconhecem as estruturas da norma padrão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

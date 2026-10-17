@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2016 - Reaplicação",
+    "index": 74,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As águas dos oceanos apresentam uma alta concentração de íons e pH entre 8,0 e 8,3. Dentre esses íons estão\nem equilíbrio as espécies carbonato (CO₃²⁻) e bicarbonato (HCO₃⁻), representado pela equação química:\n\n![](https://enem.dev/2016-reaplicacao/questions/74/9ae45927-e42a-4ebb-a7dd-cacdee9ff256.png)\n\nAs águas dos rios, ao contrário, apresentam concentrações muito baixas de íons e substâncias básicas, com\num pH em torno de 6. A alteração significativa do pH das águas dos rios e oceanos pode mudar suas composições\nquímicas, por precipitação de espécies dissolvidas ou redissolução de espécies presentes nos sólidos suspensos ou\nnos sedimentos.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/74/9ae45927-e42a-4ebb-a7dd-cacdee9ff256.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A composição dos oceanos é menos afetada pelo lançamento de efluentes ácidos, pois os oceanos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contêm grande quantidade de cloreto de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contêm um volume de água pura menor que o dos rios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "possuem pH ácido, não sendo afetados pela adição de outros ácidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "têm a formação dos íons carbonato favorecida pela adição de ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresentam um equilíbrio entre os íons carbonato e bicarbonato, que atuam como sistema-tampão.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2015 - Reaplicação",
+    "index": 76,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura representa uma embalagem cartonada e\nsua constituição em multicamadas. De acordo com as\norientações do fabricante, essas embalagens não devem\nser utilizadas em fornos micro-ondas.\n\npolietileno.....\nalumínio......\npolietileno...\n\n![](https://enem.dev/2015-reaplicacao/questions/76/e0d932e7-37d0-4548-9372-3adeb5f2b73e.png)\n\npapel...........\npolietileno....\n\nNASCIMENTO, R. M. M. et al. Embalagem cartonada longa vida: lixo ou luxo?\nQuímica Nova na Escola, n. 25, maio 2007 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/76/e0d932e7-37d0-4548-9372-3adeb5f2b73e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A restrição citada deve-se ao fato de a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "embalagem aberta se expandir pela pressão do vapor formado em seu interior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "camada de polietileno se danificar, colocando o alumínio em contato com o alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fina camada de alumínio blindar a radiação, não permitindo que o alimento se aqueça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "absorção de radiação pelo papel, que se aquece e pode levar à queima da camada de polietileno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "geração de centelhas na camada de alumínio, que pode levar à queima da camada de papel e de polietileno.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

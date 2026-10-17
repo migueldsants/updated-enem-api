@@ -1,0 +1,47 @@
+{
+    "title": "Questão 164 - ENEM 2016 - Reaplicação",
+    "index": 164,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/164/0120110c-5a47-472d-9bf2-abfaa8a6092f.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/164/c491ac33-1e56-45f4-97d4-88bb2441dfc2.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/164/56472997-ae1b-4f02-884f-bd6af0c06197.png)\n\nB A\n\n600\n\nD\n\n500\n\n400\n\n300\n\nMassa (g)200 C\n\n100 E\n\n01020304050\nVolume\n(cm³)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/164/0120110c-5a47-472d-9bf2-abfaa8a6092f.png",
+        "https://enem.dev/2016-reaplicacao/questions/164/c491ac33-1e56-45f4-97d4-88bb2441dfc2.png",
+        "https://enem.dev/2016-reaplicacao/questions/164/56472997-ae1b-4f02-884f-bd6af0c06197.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A substância com maior densidade é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

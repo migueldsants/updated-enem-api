@@ -1,0 +1,45 @@
+{
+    "title": "Questão 40 - ENEM 2013 - Reaplicação",
+    "index": 40,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O governo de Cingapura, que vem enfrentando\nreclamações de residentes que precisam competir com\nestrangeiros por emprego, endureceu as regras para que\nempresas contratem funcionários de outros países para\nposições de nível médio. A partir de janeiro de 2012, um\nestrangeiro precisa ganhar 3 000 dólares cingapurianos\n(2 493 dólares americanos) ou mais por mês antes de\nse qualificar para um visto de trabalho que lhe permitirá\ntrabalhar em Cingapura.\n\nCingapura endurece regras para contratação de estrangeiros. Disponível em:\nwww.estadao.com.br. Acesso em: 17 ago. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/40/da540cea-7795-49ce-816d-58d5f55ac2a8.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As medidas adotadas pelo governo de Cingapura\nobjetivam favorecer a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inserção da mão de obra local no mercado de trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "participação de população imigrante no setor terciário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ação das empresas estatais na economia nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expansão dos trabalhadores estrangeiros no setor primário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/40/da540cea-7795-49ce-816d-58d5f55ac2a8.png",
+            "isCorrect": false
+        }
+    ]
+}

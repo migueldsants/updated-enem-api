@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2013 - Reaplicação",
+    "index": 48,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O trem de passageiros da Estrada de Ferro Vitória-\nMinas (EFVM), que circula diariamente entre a cidade\nde Cariacica, na Grande Vitória, e a capital mineira\nBelo Horizonte, está utilizando uma nova tecnologia\nde frenagem eletrônica. Com a tecnologia anterior,\nera preciso iniciar a frenagem cerca de 400 metros\nantes da estação. Atualmente, essa distância caiu\npara 250 metros, o que proporciona redução no tempo\nde viagem.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando uma velocidade de 72 km/h, qual o módulo\nda diferença entre as acelerações de frenagem depois e\nantes da adoção dessa tecnologia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,08 m/s²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,30 m/s²",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,10 m/s²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,60 m/s²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,90 m/s²",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

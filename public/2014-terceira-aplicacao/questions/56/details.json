@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2014 - Terceira aplicação",
+    "index": 56,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos tempos atuais, grandes esforços são realizados\npara minimizar a dependência dos combustíveis derivados\nde fontes fósseis, buscando alternativas como compostos\nprovenientes de fontes renováveis, biodegradáveis e\nque causem menos impacto na atmosfera terrestre.\nUm combustível renovável X de grande importância\neconômica é obtido a partir da equação genérica:\n\nSacarose → C₆H₁₂O₆ → X + CO₂",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/56/2f66dc64-2de1-45a7-aef7-20d2ef1bfcb7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base na equação, o referido combustível renovável\né o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "etanol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "butano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "propano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "biodiesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/56/2f66dc64-2de1-45a7-aef7-20d2ef1bfcb7.png",
+            "isCorrect": false
+        }
+    ]
+}

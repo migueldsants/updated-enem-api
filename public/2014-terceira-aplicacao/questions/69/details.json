@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2014 - Terceira aplicação",
+    "index": 69,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A celulose, presente nos vegetais, é um alimento\nimportante para muitas espécies de animais herbívoros,\ncomo os ruminantes. Eles próprios não têm capacidade\nde digerir a celulose e, para que ela seja aproveitada, é\nnecessária uma associação com microrganismos, que\nficam na parte aglandular do estômago dos ruminantes.\nEsses microrganismos são capazes de produzir a\ncelulase, uma enzima que digere a celulose, possibilitando\no aproveitamento da matéria orgânica vegetal, tanto pelos\nruminantes como pelos microrganismos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A relação descrita é um exemplo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "predatismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "competição",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mutualismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "inquilinismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comensalismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2015 - Reaplicação",
+    "index": 59,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O papel tem na celulose sua matéria-prima, e uma das etapas de sua produção é o branqueamento, que visa\nremover a lignina da celulose. Diferentes processos de branqueamento usam, por exemplo, cloro (Cl₂), hipoclorito\nde sódio (NaClO), oxigênio (O₂), ozônio (O₃) ou peróxido de hidrogênio (H₂O₂). Alguns processos de branqueamento\nlevam à formação de compostos organoclorados. São apresentadas as estruturas de um fragmento da lignina e do\ntetracloroguaiacol, um dos organoclorados formados no processo de branqueamento.\n\n`e le_O\n`e\n`ele\n\n`e le_O `e le_O\n`e `e l`e_P `e_O\n`ele `e l `e\nl `e\n\n`e l_P l`e_P l`e_P `e le_O\nl l `e `e l_P l`e_P\n`e l\n\n`e l_P l`e_P\nl\n\nFragmento da Lignina\n\n`f l`e_P\n\n![](https://enem.dev/2015-reaplicacao/questions/59/55bf211a-4e5a-49a3-baed-c00d3440708f.png)\n\nTetracloroguaiacol\n\nSANTOS, C. P. et al. Papel: como se fabrica? Química Nova na Escola, n. 14, 2001 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/59/55bf211a-4e5a-49a3-baed-c00d3440708f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os reagentes capazes de levar à formação de organoclorados no processo citado são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O₂ e O₃.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cl₂ e O₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "H₂O₂ e Cl₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "NaClO e O₃.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "NaClO e Cl₂.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

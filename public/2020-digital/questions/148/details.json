@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2020 - Digital",
+    "index": 148,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra o resultado do balanço financeiro mensal de uma empresa ao longo de\num ano.\n\n![](https://enem.dev/2020-digital/questions/148/a8a52e24-508a-4a3b-a48e-de2b10f73da7.png)",
+    "files": [
+        "https://enem.dev/2020-digital/questions/148/a8a52e24-508a-4a3b-a48e-de2b10f73da7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em quantos meses o resultado do balanço financeiro da empresa ficou abaixo da média\nmensal nesse ano?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

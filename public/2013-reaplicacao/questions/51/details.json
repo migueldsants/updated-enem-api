@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2013 - Reaplicação",
+    "index": 51,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de amigos foi passar o fim de semana em\num acampamento rural, onde não há eletricidade. Uma\npessoa levou um gerador a diesel e outra levou duas\nlâmpadas, diferentes fios e bocais. Perto do anoitecer,\niniciaram a instalação e verificaram que as lâmpadas\neram de 60 W – 110 V e o gerador produzia uma tensão\nde 220 V.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/51/8ccbb3c5-f906-41c7-a848-40fb51b60b3c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para que as duas lâmpadas possam funcionar de acordo\ncom suas especificações e o circuito tenha menor perda\npossível, a estrutura do circuito elétrico deverá ser de dois\nbocais ligados em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "série e usar fios de maior espessura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "série e usar fios de máximo comprimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "paralelo e usar fios de menor espessura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "paralelo e usar fios de maior espessura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/51/8ccbb3c5-f906-41c7-a848-40fb51b60b3c.png",
+            "isCorrect": false
+        }
+    ]
+}

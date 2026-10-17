@@ -1,0 +1,45 @@
+{
+    "title": "Questão 128 - ENEM 2013 - Reaplicação",
+    "index": 128,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O cordelista por ele mesmo\n\nAos doze anos eu era\nforte, esperto e nutrido.\nVinha do Sítio de Piroca\nmuito alegre e divertido\nvender cestos e balaios\nque eu mesmo havia tecido.\n\nPassava o dia na feira\ne à tarde regressava\nlevando umas panelas\nque minha mãe comprava\ne bebendo água salgada\nnas cacimbas onde passava.\n\nBORGES, J. F. Dicionário dos sonhos e outras histórias de cordel.\nPorto Alegre: LP&M, 2003 (fragmento).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/128/ac5dc75c-347c-41a5-986a-eeea18fea7c5.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Literatura de cordel é uma criação popular em verso,\ncuja linguagem privilegia, tematicamente, histórias de\ncunho regional, lendas, fatos ocorridos para firmar certas\ncrenças e ações destacadas nas sociedades locais.\nA respeito do uso das formas variantes da linguagem no\nBrasil, o verso do fragmento que permite reconhecer uma\nregião brasileira é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“muito alegre e divertido”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Passava o dia na feira”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“levando umas panelas”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“que minha mãe comprava”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/128/ac5dc75c-347c-41a5-986a-eeea18fea7c5.png",
+            "isCorrect": true
+        }
+    ]
+}

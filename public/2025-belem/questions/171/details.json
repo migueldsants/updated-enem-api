@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 171,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma empresa, existem duas equipes de vendedores:\numa denominada Profissional, formada pelos vendedores\nmais experientes, e outra denominada Iniciante, formada\npelos vendedores que ainda se encontram em fase de\naperfeiçoamento. Durante uma semana, as quantidades de\nunidades vendidas por equipe foram registradas no gráfico.\n\n![](https://enem.dev/2025-belem/questions/171/2edc8093-13ed-41e6-b139-e1ee09944b15.png)\n\nO gerente da empresa pesquisou os dias dessa semana em\nque a equipe Profissional vendeu pelo menos o dobro do que\nvendeu a equipe Iniciante.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/171/2edc8093-13ed-41e6-b139-e1ee09944b15.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quantas unidades a equipe Profissional vendeu a mais do que\na equipe Iniciante no total dos dias pesquisados pelo gerente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "45",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "90",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

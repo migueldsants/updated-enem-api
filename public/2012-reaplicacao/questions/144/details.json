@@ -1,0 +1,46 @@
+{
+    "title": "Questão 144 - ENEM 2012 - Reaplicação",
+    "index": 144,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma aula de matemática, a professora propôs que\nos alunos construíssem um cubo a partir da planificação\nem uma folha de papel, representada na figura a seguir.\n\nE\n\n![](https://enem.dev/2012-reaplicacao/questions/144/b9f89d58-eeda-4b1c-a5e8-d70fad11e4e7.png)\n\nApós a construção do cubo, apoiou-se sobre a mesa\na face com a letra M.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/144/b9f89d58-eeda-4b1c-a5e8-d70fad11e4e7.png",
+        "https://enem.dev/2012-reaplicacao/questions/144/2e4e9e9c-741a-42d6-b884-8d0f87c289b8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As faces paralelas deste cubo são representadas pelos\npares de letras",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "E-N, E-M e B-R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B-N, E-E e M-R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "E-M, B-N e E-R.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "B-E, E-R e M-N.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/144/2e4e9e9c-741a-42d6-b884-8d0f87c289b8.png",
+            "isCorrect": false
+        }
+    ]
+}

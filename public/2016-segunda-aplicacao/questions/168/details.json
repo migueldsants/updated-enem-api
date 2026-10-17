@@ -1,0 +1,49 @@
+{
+    "title": "Questão 168 - ENEM 2016 - Segunda aplicação",
+    "index": 168,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/168/7abe5e0d-0ead-4a89-ab5b-e85f590bed4f.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/168/039ecde8-a4c0-4ced-b3be-580742868279.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/168/dd1a4e6f-2e11-407e-923a-56e3ce23273f.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/168/652f3805-1ab7-406f-b7c0-48be199b0be9.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/168/c0c50bb8-9515-4b1e-913d-47d964743208.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma caixa contém uma cédula de R$ 5,00, uma de R$ 20,00 e duas de R$ 50,00 de modelos diferentes. Retira-se\naleatoriamente uma cédula dessa caixa, anota-se o seu valor e devolve-se a cédula à caixa. Em seguida, repete-se o\nprocedimento anterior.\nA probabilidade de que a soma dos valores anotados seja pelo menos igual a R$ 55,00 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/168/7abe5e0d-0ead-4a89-ab5b-e85f590bed4f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/168/039ecde8-a4c0-4ced-b3be-580742868279.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/168/dd1a4e6f-2e11-407e-923a-56e3ce23273f.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/168/652f3805-1ab7-406f-b7c0-48be199b0be9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/168/c0c50bb8-9515-4b1e-913d-47d964743208.png",
+            "isCorrect": false
+        }
+    ]
+}

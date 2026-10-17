@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 3,
+    "year": 2025,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025-belem/questions/3-espanhol/c7c48e0f-44ff-4572-933b-72dd193fbb55.png)\n\nAcesso em: 14 jan. 2025 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-belem/questions/3-espanhol/c7c48e0f-44ff-4572-933b-72dd193fbb55.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a diversidade linguístico-cultural característica\ndo México, a função social desse cartaz é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "indicar obras clássicas para o público infantojuvenil mexicano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "divulgar a literatura indígena representativa da cultura do país aos estudantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "enumerar a variedade de línguas indígenas utilizadas nas traduções dos clássicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "demonstrar o alinhamento do mercado editorial a políticas públicas de incentivo à leitura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "favorecer a democratização de clássicos por meio da tradução para línguas originárias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2014 - Terceira aplicação",
+    "index": 107,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Essa forma de dança social (folclórica) desenvolveu-\nse como parte dos costumes e tradições de um povo\nque expressa sua manifestação cultural. Transmitida de\ngeração a geração, é uma das formas de dança mais\nantigas, datando desde a época das culturas tribais\nevoluídas que estabeleceram ligação com as grandes\ncivilizações da história da humanidade. A principal\ncaracterística dessa dança é a integração, socialização,\nprazer, divertimento, respeito aos costumes e tradições.\n\nHASS, A. N; GARCIA, A. Ritmo e Dança. Canoas: Ulbra, 2003 fragmento .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As danças folclóricas, sendo uma expressão das\ndiferentes manifestações da dança",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "distinguem-se das demais pelo refinamento técnico dos seus gestos e movimentos e pela complexidade dos seus elementos coreográficos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "compreendem expressões culturais brasileiras diversificadas como o maracatu, o funk, a catira, o boi-bumbá, o hip hop e o baião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "são contextuais, pois seus gestos e coreografias fazem referência a situações da vida cotidiana e/ou expressam visões de mundo de uma comunidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "possuem qualidades rítmicas e expressivas secundárias em relação aos significados sociais, culturais e representacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reforçam tendências de massificação social e de dispersão de sentidos da vida comunitária, favorecendo a universalização de valores culturais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

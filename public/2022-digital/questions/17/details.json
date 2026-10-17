@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2022 - Digital",
+    "index": 17,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "PALAVRA – As gramáticas classificam as palavras em substantivo, adjetivo, verbo,\nadvérbio, conjunção, pronome, numeral, artigo e preposição. Os poetas classificam as\npalavras pela alma porque gostam de brincar com elas, e para brincar com elas é preciso\nter intimidade primeiro. É a alma da palavra que define, explica, ofende ou elogia, se\ncoloca entre o significante e o significado para dizer o que quer, dar sentimento às coisas,\nfazer sentido. A palavra nuvem chove. A palavra triste chora. A palavra sono dorme.\nA palavra tempo passa. A palavra fogo queima. A palavra faca corta. A palavra carro\ncorre. A palavra “palavra” diz. O que quer. E nunca desdiz depois. As palavras têm corpo\ne alma, mas são diferentes das pessoas em vários pontos. As palavras dizem o que\nquerem, está dito, e pronto.\n\nFALCÃO, A. Pequeno dicionário de palavras ao vento. São Paulo: Salamandra, 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse texto, que simula um verbete para a palavra “palavra’’, constitui-se como um poema\nporque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tematiza o fazer poético, como em “Os poetas classificam as palavras pela alma”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "valoriza a gramática da língua, como em “substantivo, adjetivo, verbo, advérbio,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estabelece comparações, como em “As palavras têm corpo e alma, mas são",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresenta informações pertinentes acerca do conceito de “palavra”, como em “As",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

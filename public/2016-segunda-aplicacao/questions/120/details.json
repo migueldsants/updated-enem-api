@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2016 - Segunda aplicação",
+    "index": 120,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os que fiam e tecem unem e ordenam materiais dispersos que,\nde outro modo, seriam vãos ou quase. Pertencem à mesma linhagem\nFIANDEIRA CARNEIRO FUSO LÃ dos geômetras, estabelecem leis e\npontos de união para o desuno. Antes do fuso, da roca, do tear, das\ninvenções destinadas a estender LÃ LINHO CASULO ALGODÃO LÃ\nos fios e cruzá-los, o algodão, a seda, era como se ainda estivessem\nTECEDEIRA URDIDURA TEAR LÃ imersos no limbo, nas trevas do\ninforme. É o apelo à ordem que os traz à claridade, transforma-os\nem obras, portanto em objetos humanos, iluminados pelo espírito do\nhomem. Não é por ser-nos úteis LÃ TRAMA CROCHÊ DESENHO LÃ\nque o burel ou o linho representam uma vitória do nosso engenho;\nTAPECEIRA BASTIDOR ROCA LÃ sim por serem tecidos, por cantar\nneles uma ordem, o sereno, o firme e rigoroso enlace da urdidura, das\nlinhas enredadas. Assim é que LÃ COSER AGULHA CAPUCHO LÃ\nque suas expressões mais nobres são aquelas em que, com ainda\nmaior disciplina, floresce o ornamento: no crochê, no tapete,\nFIANDEIRA CARNEIRO FUSO LÃ no brocado. Então, é como se por uma\nespécie de alquimia, de álgebra, de mágica, algodoais e carneiros, casulos,\nLÃ TRAMA CASULO CAPUCHO LÃ campos de linho, novamente\nsurgissem, com uma vida menos rebelde, porém mais perdurável.\n\nLINS, O. Nove, novena: narrativas. São Paulo: Cia. das Letras, 1998.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No trecho, retirado do conto Retábulo de Santa Joana Carolina, de Osman Lins, a fim de expressar uma ideia relativa\nà literatura, o autor emprega um procedimento singular de escrita, que consiste em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "entremear o texto com termos destacados que se referem ao universo do tecer e remetem visualmente à estrutura de uma trama, tecida com fios que retornam periodicamente, para aludir ao trabalho do escritor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "entrecortar a progressão do texto com termos destacados, sem relação com o contexto, que tornam evidente a desordem como princípio maior da sua proposta literária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "insinuar, pela disposição de termos destacados, dos quais um forma uma coluna central no corpo do texto, que a atividade de escrever remete à arte ornamental do escultor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dissertar à maneira de um cientista sobre os fenômenos da natureza, recriminando-a por estar perpetuamente em desordem e não criar concatenação entre eles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "confrontar, por meio dos termos destacados, o ato de escrever à atividade dos cientistas modernos e dos alquimistas antigos, mostrando que esta é muito superior à do escritor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2014 - Terceira aplicação",
+    "index": 134,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Tragédia anunciada\n\nEntraves burocráticos, incompetência administrativa,\nconveniências políticas e contingenciamento\nindiscriminado de gastos estão na raiz de um dos graves\nmales da administração pública brasileira, que é a\ndificuldade do Estado de transformar recursos previstos\nno Orçamento em investimentos reais.\n\nExemplo dessa inépcia político-administrativa é\na baixa execução de verbas destinadas a obras de\nprevenção de desastres naturais — como controle de\ncheias, contenção de encostas e combate à erosão.\n\nAs dificuldades para planejar e realizar as obras de\nprevenção terminam por onerar o governo. Acaba saindo\nmais caro para os cofres públicos remediar ocorrências\nque poderiam ter sido evitadas.\n\nA nota positiva é que o Centro Nacional de\nGerenciamento de Riscos e Desastres (Cenad) foi\ninaugurado em agosto pela presidente Dilma Rousseff.\n\nO órgão já emitiu alertas a mais de 400 municípios\ne prepara-se para aperfeiçoar seu sistema de\nmonitoramento. De pouco valerão esses esforços se\no descaso e a omissão continuarem a contribuir para a\nsinistra contabilidade de vítimas que se repete a cada ano.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 5 dez. 2012 adaptado .\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/134/e2af1135-e24c-49a8-9c99-b8e888eabb63.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/134/e2af1135-e24c-49a8-9c99-b8e888eabb63.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O editorial é um gênero que apresenta o ponto de vista de\num jornal ou de uma revista sobre determinado assunto. É\ncaracterística do gênero, exemplificada por esse editorial,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ser assinado por um jornalista do veículo em que é publicado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ocupar um espaço específico e opinar a respeito de assuntos atuais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "apresentar estudos científicos acerca de temas complexos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "narrar fatos polêmicos em uma linguagem acessível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "descrever acontecimentos de modo imparcial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

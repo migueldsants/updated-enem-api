@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2014 - Terceira aplicação",
+    "index": 129,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A história do futebol é uma triste viagem do prazer\nao dever. Ao mesmo tempo em que o esporte se tornou\nindústria, foi desterrando a beleza que nasce da alegria\nde jogar só pelo prazer de jogar. Neste mundo do fim\ndo século, o futebol profissional condena o que é inútil,\no que não é rentável, ninguém ganha nada com esta\nloucura que faz com que o homem seja menino por um\nmomento, jogando como menino que brinca com o balão\nde gás e como o gato que brinca com o novelo de lã:\nbailarino que dança com uma bola leve como o balão\nque sobe ao ar e o novelo que roda, jogando sem saber\nque joga, sem motivo, sem relógio e sem juiz. O jogo se\ntransformou em espetáculo, com poucos protagonistas e\nmuitos espectadores, futebol para olhar, e o espetáculo se\ntransformou num dos negócios mais lucrativos do mundo,\nque não é organizado para ser jogado, mas para impedir\nque se jogue. A tecnocracia do esporte profissional foi\nimpondo um futebol de pura velocidade e muita força, que\nrenuncia à alegria, atrofia a fantasia e proíbe a ousadia.\n\nGALEANO, E. Futebol ao sol e à sombra. Porto Alegre: L&PM, 1995.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As transformações que marcam a trajetória histórica do\nfutebol, especialmente aquelas identificadas no texto, se\ncaracterizam pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução dos níveis de competitividade, o que tornou o futebol um esporte mais organizado e mundialmente conhecido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "processo de mercadorização e espetacularização que tem possibilitado o crescimento do número dos praticantes e dos espaços usados para sua prática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "redução às formas mais padronizadas, seguida de uma crescente tendência ao aparecimento de regionalismos na forma de vivenciar a prática do futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tendência de desaparecimento de sentidos sociais e estéticos, característicos nos jogos e nas brincadeiras populares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "processo de espetacularização e elevação dos indicadores estéticos do futebol, resultado da aplicação dos avanços científicos e tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

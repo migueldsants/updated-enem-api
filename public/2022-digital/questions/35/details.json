@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2022 - Digital",
+    "index": 35,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ser cronista\n\nSei que não sou, mas tenho meditado ligeiramente no assunto.\n\nCrônica é um relato? É uma conversa? É um resumo de um estado de espírito? Não\nsei, pois antes de começar a escrever para o Jornal do Brasil, eu só tinha escrito\nromances e contos.\n\nE também sem perceber, à medida que escrevia para aqui, ia me tornando pessoal\ndemais, correndo o risco de em breve publicar minha vida passada e presente, o que não\npretendo. Outra coisa notei: basta eu saber que estou escrevendo para o jornal, isto é,\npara algo aberto facilmente por todo o mundo, e não para um livro, que só é aberto por\nquem realmente quer, para que, sem mesmo sentir, o modo de escrever se transforme.\nNão é que me desagrade mudar, pelo contrário. Mas queria que fossem mudanças mais\nprofundas e interiores que não viessem a se refletir no escrever. Mas mudar só porque\nisso é uma coluna ou uma crônica? Ser mais leve só porque o leitor assim o quer?\nDivertir? Fazer passar uns minutos de leitura? E outra coisa: nos meus livros quero\nprofundamente a comunicação profunda comigo e com o leitor. Aqui no jornal apenas falo\ncom o leitor e agrada-me que ele fique agradado. Vou dizer a verdade: não estou\ncontente.\n\nLISPECTOR, C. In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, ao refletir sobre a atividade de cronista, a autora questiona características do\ngênero crônica, como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "relação distanciada entre os interlocutores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "articulação de vários núcleos narrativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "brevidade no tratamento da temática.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "descrição minuciosa dos personagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "público leitor exclusivo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2022 - Digital",
+    "index": 42,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "10 de maio\n\nFui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele\nera tão amavel, eu teria ido na delegacia na primeira intimação. [...] O tenente interessou-\nse pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que\nas pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país.\nPensei: se ele sabe disto, porque não faz um relatorio e envia para os politicos? O senhor\nJanio Quadros, o Kubstchek e o Dr. Adhemar de Barros? Agora falar para mim, que sou\numa pobre lixeira. Não posso resolver nem as minhas dificuldades.\n\n... O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem\né professora.\n\nQuem passa fome aprende a pensar no próximo, e nas crianças.\n\nJESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que\ntransparece a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "lição de vida comunicada pelo tenente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "predisposição materna para se emocionar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atividade política marcante da comunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "resposta irônica ante o discurso da autoridade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "necessidade de revelar seus anseios mais íntimos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2012 - Reaplicação",
+    "index": 31,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/31/533a5ec2-0951-41c0-87e7-06bf8374778c.png)\n\nDisponível em: www.vitruvius.es. Acesso em: 7 dez. 2011.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/31/533a5ec2-0951-41c0-87e7-06bf8374778c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O arrojado projeto arquitetônico e urbanista da nova\ncapital federal fez com que Brasília fosse, no ano de\n1987, considerada Patrimônio da Humanidade pela\nUnesco, porque o Plano Piloto de Brasília concretizava\nos princípios do",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "urbanismo modernista internacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "modelo da arquitetura sacra europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pensamento organicista das metrópoles brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "plano de interiorização da capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "projeto nacional desenvolvimentista do governo JK.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

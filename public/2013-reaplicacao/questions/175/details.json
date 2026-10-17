@@ -1,0 +1,46 @@
+{
+    "title": "Questão 175 - ENEM 2013 - Reaplicação",
+    "index": 175,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A tabela apresenta os registros de ocorrência de\nacidentes de trabalho por categorias econômicas no\nBrasil, no mês de julho de 2001:\n\n![](https://enem.dev/2013-reaplicacao/questions/175/9ea61a7d-4a46-4407-8128-c5faa4ae4ded.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/175/694bc1b1-9467-444b-af81-240fad109cc1.png)\n\nAgropecuária e extrativismo 1 414 000 8 000\nIndústria leve 2 031 000 24 000\nIndústria pesada 2 455 000 33 000\nConstrução civil 1 105 000 14 000\nComércio 4 097 000 24 000\nServiços 6 241 000 34 000\nTransportes 1 278 000 13 000\nCrédito 524 000 6 000\nAdministração pública 1 138 000 2 000\nNão classificado 33 000\nTotal 20 316 000 158 030\n\nFonte: MINISTÉRIO DA EDUCAÇÃO. Caderno de teoria e prática 2 – TP2:\nmatemática na alimentação e nos impostos. Brasília, 2008 (adaptado).",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/175/9ea61a7d-4a46-4407-8128-c5faa4ae4ded.png",
+        "https://enem.dev/2013-reaplicacao/questions/175/694bc1b1-9467-444b-af81-240fad109cc1.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando os dados dispostos na tabela, uma pessoa\nque pretende ingressar no mercado de trabalho decide\npela ocupação de menor grau de risco de acidente de\ntrabalho. Sabendo que o grau de risco é a probabilidade\nde ocorrência de acidentes de trabalho em categorias\nde atividade econômica, sua opção é se empregar na\natividade econômica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "crédito, pois representa risco aproximado de acidente de trabalho igual a 1,15%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "crédito, pois representa risco aproximado de acidente de trabalho igual a 2,58%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "crédito, pois apresenta o menor registro de quantidade de empregados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "administração pública, pois representa risco aproximado de acidente de trabalho igual a 0,18%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "administração pública, pois apresenta o menor registro de afastamento por acidente de trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

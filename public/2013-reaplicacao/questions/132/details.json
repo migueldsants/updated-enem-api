@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2013 - Reaplicação",
+    "index": 132,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Pesquisa da Faculdade de Educação da USP mostrou\nque quase metade dos alunos que ingressam nos cursos\nde licenciatura em Física e Matemática da universidade\nnão estão dispostos a tornar-se professores. O detalhe\n\n![](https://enem.dev/2013-reaplicacao/questions/132/a7f48551-1c31-4a12-a618-140b5275e50e.png)\n\ninquietante é que licenciaturas foram criadas exatamente\npara formar docentes.\n\nA dificuldade é que, se os estudantes não querem\nvirar professores, fica difícil conseguir bons profissionais.\n\nResolver essa encrenca é o desafio. Salários são\npor certo uma parte importante do problema, mas outros\nelementos, como estabilidade na carreira e prestígio\nsocial, também influem.\n\nSCHWARTSMAN, H. Folha de S. Paulo, 13 out. 2012.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/132/a7f48551-1c31-4a12-a618-140b5275e50e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Identificar o gênero do texto é um passo importante na\ncaminhada interpretativa do leitor. Para isso, é preciso\nobservar elementos ligados à sua produção e recepção.\nReconhece-se que esse texto pertence ao gênero artigo\nde opinião devido ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "suporte do texto: um jornal de grande circulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "lugar atribuído ao leitor: interessados no magistério.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tema tratado: o problema da escassez de professores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "função do gênero: refletir sobre a falta de professores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "linguagem empregada pelo autor: formal e denotativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

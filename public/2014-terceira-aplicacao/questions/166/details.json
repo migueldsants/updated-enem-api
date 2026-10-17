@@ -1,0 +1,50 @@
+{
+    "title": "Questão 166 - ENEM 2014 - Terceira aplicação",
+    "index": 166,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um paciente inicia um tratamento em que deve\ningerir uma dose de um determinado remédio a cada\nduas horas. Ao ingerir essa dose, a quantidade Q de uma\nsubstância no seu organismo aumenta instantaneamente\nem 2 unidades. Nas próximas duas horas, essa\nquantidade decresce de maneira linear até atingir\na quantidade existente no momento imediatamente\nanterior à ingestão do remédio. Por descuido, esse\npaciente tomou a segunda dose do remédio uma hora\ndepois da primeira. A partir daí, não cometeu mais esse\ntipo de engano, tomando o remédio a cada duas horas.\nAntes da primeira dose, a quantidade da substância na\ncorrente sanguínea do paciente era de 1 unidade.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/166/d2a1e4d2-6245-4354-983a-537c5cca3fca.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/166/d2a1e4d2-6245-4354-983a-537c5cca3fca.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/166/908ed7d3-8233-450e-abc9-c821d5491868.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/166/f6bfc506-d745-4acd-bafa-1b870f3ced00.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/166/55351512-47cd-4d81-84d0-b4e32412b6de.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/166/ed939bd4-f9ca-4d94-bb2b-22bb6568aafb.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/166/57f24411-4200-4d6e-ae2f-480c0ce25c2c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que melhor representa a quantidade da\nsubstância no organismo do paciente nas sete primeiras\nhoras do tratamento é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/166/908ed7d3-8233-450e-abc9-c821d5491868.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/166/f6bfc506-d745-4acd-bafa-1b870f3ced00.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/166/55351512-47cd-4d81-84d0-b4e32412b6de.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/166/ed939bd4-f9ca-4d94-bb2b-22bb6568aafb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/166/57f24411-4200-4d6e-ae2f-480c0ce25c2c.png",
+            "isCorrect": false
+        }
+    ]
+}

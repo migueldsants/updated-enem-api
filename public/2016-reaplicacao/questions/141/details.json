@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2016 - Reaplicação",
+    "index": 141,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A volemia (V) de um indivíduo é a quantidade total\nde sangue em seu sistema circulatório (coração, artérias,\nveias e capilares). Ela é útil quando se pretende estimar\no número total (N) de hemácias de uma pessoa, a qual é\nobtida multiplicando-se a volemia (V) pela concentração (C)\nde hemácias no sangue, isto é, N = V × C. Num adulto\nnormal essa concentração é de 5 200 000 hemácias\npor mL de sangue, conduzindo a grandes valores de N.\nUma maneira adequada de informar essas grandes\nquantidades é utilizar a notação científica, que consiste\nem expressar N na forma N = Q × 10ⁿ, sendo 1 ≤ Q < 10 e\nn um número inteiro.\n\nConsidere um adulto normal, com volemia de 5 000 mL.\n\nhttp://perfline.com. Acesso em: 23 fev. 2013 (adaptado)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual a quantidade total de hemácias desse adulto, em\nnotação científica?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,6 × 10⁻¹⁰",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,6 × 10⁻⁹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,6 × 10⁹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,6 × 10¹⁰",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2,6 × 10¹¹",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2016 - Reaplicação",
+    "index": 94,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Hunger Games Review: Family Film Guide\nParent Concerns: There is definitely violence in this\nfilm. The central Hunger Games may not be as bloody and\nbrutal as author Suzanne Collins describes in the novel, but\nthere’s a visceral reaction to seeing the kid-on-kid violence\nrather than conjuring it in your own imagination. The tributes\nkill each other in a host of ways, from spear, knife and arrow\nwounds to hand-to-hand battles that leave teens with their\nheads smashed in or necks snapped. The editing is quick\nand the shots never linger on anything overly graphic, but\nthere is blood and twenty-two adolescents, aged 12-18, die\nin the annual blood sport pageant. Immature teens, even if\nthey’ve read the books, may not be ready to handle to the\nfilm just yet. A good rule of thumb: if they’re not old enough\nto be reaped into the Hunger Games, they’re probably not\nmature enough to see it.\n\nANGULO-CHEN, S. Disponível em: http://news.moviefone.com. Acesso em: 28 jun. 2012.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Produções literárias e cinematográficas estão, muitas\nvezes, articuladas. No caso do filme Hunger Games, a\nautora da resenha chama a atenção para a questão da\nviolência, que é mais",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "detalhada do que a autora do livro gostaria que fosse.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "brutal do que os pais permitiriam para seus filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "amena do que os adolescentes imaginavam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "superficial do que o público poderia esperar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "impactante do que a representada no livro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

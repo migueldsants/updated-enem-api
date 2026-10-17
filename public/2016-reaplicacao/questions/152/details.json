@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2016 - Reaplicação",
+    "index": 152,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma partida de voleibol entre Brasil e Itália foi\ndecidida em cinco sets. As pontuações do jogo estão\n\n![](https://enem.dev/2016-reaplicacao/questions/152/77360664-8250-4275-a1fe-12172fcb2078.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/152/77360664-8250-4275-a1fe-12172fcb2078.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa partida, a mediana dos pontos obtidos por set pelo\ntime da Itália foi igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "21.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "23.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "26.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

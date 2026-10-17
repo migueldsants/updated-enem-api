@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2016 - Segunda aplicação",
+    "index": 83,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O principal componente do sal de cozinha é o cloreto\nde sódio, mas o produto pode ter aluminossilicato de sódio\nem pequenas concentrações. Esse sal, que é insolúvel\nem água, age como antiumectante, evitando que o sal de\ncozinha tenha um aspecto empedrado.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O procedimento de laboratório adequado para verificar a\npresença do antiumectante em uma amostra de sal de\ncozinha é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "realização do teste de chama.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "medida do pH de uma solução aquosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "medida da turbidez de uma solução aquosa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ensaio da presença de substâncias orgânicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "verificação da presença de cátions monovalentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

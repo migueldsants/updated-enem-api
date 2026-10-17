@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2014 - Terceira aplicação",
+    "index": 119,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Resumo\nGerou os filhos, os netos,\nDeu à casa o ar de sua graça\ne vai morrer de câncer.\nO modo como pousa a cabeça para um retrato\né o da que, afinal, aceitou ser dispensável.\nEspera, sem uivos, a campa, a tampa, a inscrição:\n1906-1970.\nSAUDADE DOS SEUS, LEONORA.\n\nPRADO, A. Bagagem. Rio de Janeiro: Record, 2007.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/119/4b7506ee-1285-4c11-9e48-d374a8edf457.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto de Adélia Prado apresenta uma mulher cuja vida\nse “resume”. Sua expressão poética revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contradições do universo feminino infeliz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "frustração relativa às obrigações cotidianas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "busca de identidade no universo familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "subterfúgios de uma existência complexa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/119/4b7506ee-1285-4c11-9e48-d374a8edf457.png",
+            "isCorrect": true
+        }
+    ]
+}

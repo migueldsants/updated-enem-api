@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2016 - Segunda aplicação",
+    "index": 163,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um produtor de maracujá usa uma caixa-d’água,\ncom volume V, para alimentar o sistema de irrigação\nde seu pomar. O sistema capta água através de um\nfuro no fundo da caixa a uma vazão constante. Com\na caixa-d’água cheia, o sistema foi acionado às 7 h\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/163/71f6d5ab-4bfa-4575-9ead-315199396850.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/163/71f6d5ab-4bfa-4575-9ead-315199396850.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "da manhã de segunda-feira. Às 13 h do mesmo dia,\nverificou-se que já haviam sido usados 15% do volume\nda água existente na caixa. Um dispositivo eletrônico\ninterrompe o funcionamento do sistema quando o\nvolume restante na caixa é de 5% do volume total,\npara reabastecimento.\nSupondo que o sistema funcione sem falhas, a que horas\no dispositivo eletrônico interromperá o funcionamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Às 15 h de segunda-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Às 11 h de terça-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Às 14 h de terça-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Às 4 h de quarta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Às 21 h de terça-feira.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

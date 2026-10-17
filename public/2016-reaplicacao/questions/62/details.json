@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2016 - Reaplicação",
+    "index": 62,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para comparar a eficiência de diferentes combustíveis,\ncostuma-se determinar a quantidade de calor liberada na\ncombustão por mol ou grama de combustível. O quadro\nmostra o valor de energia liberada na combustão completa\n\n![](https://enem.dev/2016-reaplicacao/questions/62/260a2f74-3be0-4d38-a23a-fd66d2abc0d0.png)\n\nAs massas molares dos elementos H, C e O são\niguais a 1 g/mol, 12 g/mol e 16 g/mol, respectivamente.\n\nATKINS, P. Princípios de química. Porto Alegre: Bookman, 2007 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/62/260a2f74-3be0-4d38-a23a-fd66d2abc0d0.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual combustível apresenta maior liberação de energia\npor grama?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Hidrogênio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Etanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Metanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Octano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

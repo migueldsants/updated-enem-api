@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2012 - Reaplicação",
+    "index": 137,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cinco times de futebol (A, B, C, D e E) ocuparam as\nprimeiras colocações em um campeonato realizado em\nseu país. A classificação final desses clubes apresentou\nas seguintes características:\n\n• O time A superou o time C na classificação;\n\n• O time C ficou imediatamente à frente do time E;\n\n• O time B não ficou entre os 3 últimos colocados;\n\n• O time D ficou em uma classificação melhor que a\ndo time A.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Assim, os dois times mais bem classificados foram",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A e B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "B e D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "B e E.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C e D.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

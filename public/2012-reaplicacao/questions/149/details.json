@@ -1,0 +1,46 @@
+{
+    "title": "Questão 149 - ENEM 2012 - Reaplicação",
+    "index": 149,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma coleta de dados em mais de 5 mil sites da internet\napresentou os conteúdos de interesse de cada faixa\netária. Na tabela a seguir estão os dados obtidos para a\n\n![](https://enem.dev/2012-reaplicacao/questions/149/a7978b9c-11be-4b40-be7f-3745629eb33a.png)\n\n* Serviços web: aplicativos on-line, emoticons, mensagens\npara redes socias, entre outros.\n\n** Sites sobre vestibular, ENEM, páginas com material de\npesquisa escolar.\n\nConsidere que esses dados refletem os interesses dos\nbrasileiros desta faixa etária.\n\nDisponível em: www.navegg.com. Acesso em: 12 nov. 2011(adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/149/a7978b9c-11be-4b40-be7f-3745629eb33a.png",
+        "https://enem.dev/2012-reaplicacao/questions/149/5b1c2792-d643-4a7e-8030-f46a215d2c4a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Selecionando, ao acaso, uma pessoa desta faixa\netária, a probabilidade de que ela não tenha\npreferência por horóscopo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,09.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,79.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/149/5b1c2792-d643-4a7e-8030-f46a215d2c4a.png",
+            "isCorrect": true
+        }
+    ]
+}

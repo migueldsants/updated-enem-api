@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2016 - Segunda aplicação",
+    "index": 38,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Arrependimentos terminais\n\nEm Antes de partir, uma cuidadora especializada em\ndoentes terminais fala do que eles mais se arrependem\nna hora de morrer. “Não deveria ter trabalhado tanto”, diz\num dos pacientes. “Desejaria ter ficado em contato com\nmeus amigos”, lembra outro. “Desejaria ter coragem de\nexpressar meus sentimentos.” “Não deveria ter levado a\nvida baseando-me no que esperavam de mim”, diz um\nterceiro. Há cem anos ou cinquenta, quem sabe, sem\ndúvida seriam outros os arrependimentos terminais.\n“Gostaria de ter sido mais útil à minha pátria.” “Deveria\nter sido mais obediente a Deus.” “Gostaria de ter deixado\nmais patrimônio aos meus descendentes.”\n\nCOELHO, M. Folha de São Paulo, 2 jan. 2013.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto compara hipoteticamente dois padrões morais\nque divergem por se basearem respectivamente em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "satisfação pessoal e valores tradicionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "relativismo cultural e postura ecumênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tranquilidade espiritual e costumes liberais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "realização profissional e culto à personalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "engajamento político e princípios nacionalistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2021 - Digital",
+    "index": 87,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Minha fórmula para o que há de grande no indivíduo é amor fati: nada desejar além\ndaquilo que é, nem diante de si, nem atrás de si, nem nos séculos dos séculos. Não se\ncontentar em suportar o inelutável, e ainda menos dissimulá-lo, mas amá-lo.\n\nNIETZSCHE apud FERRY, L. Aprender a viver: filosofia para os novos tempos.\nRio de Janeiro: Objetiva, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa fórmula indicada por Nietzsche consiste em uma crítica à tradição cristã que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "combate as práticas sociais de cunho afetivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impede o avanço científico no contexto moderno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "associa os cultos pagãos à sacralização da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "condena os modelos filosóficos da Antiguidade Clássica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "consagra a realização humana ao campo transcendental.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

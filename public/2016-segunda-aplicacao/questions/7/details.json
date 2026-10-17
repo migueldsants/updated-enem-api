@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2016 - Segunda aplicação",
+    "index": 7,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Lei das Doze Tábuas, de meados do século V a.C.,\nfixou por escrito um velho direito costumeiro. No relativo\nàs dívidas não pagas, o código permitia, em última\nanálise, matar o devedor; ou vendê-lo como escravo “do\noutro lado do Tibre” — isto é, fora do território de Roma.\n\nCARDOSO, C. F. S. O trabalho compulsório na Antiguidade. Rio de Janeiro: Graal, 1984.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A referida lei foi um marco na luta por direitos na Roma\nAntiga, pois possibilitou que os plebeus",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "modificassem a estrutura agrária assentada no latifúndio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "exercessem a prática da escravidão sobre seus devedores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "conquistassem a possibilidade de casamento com os patrícios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ampliassem a participação política nos cargos políticos públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reinvindicassem as mudanças sociais com base no conhecimento das leis.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

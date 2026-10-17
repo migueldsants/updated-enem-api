@@ -1,0 +1,46 @@
+{
+    "title": "Questão 150 - ENEM 2012 - Reaplicação",
+    "index": 150,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/150/114e2238-4aed-43d0-a816-1c52be4c62b8.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/150/4cbcab9a-322a-4d71-a6b7-d61ab4dc6c63.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/150/114e2238-4aed-43d0-a816-1c52be4c62b8.png",
+        "https://enem.dev/2012-reaplicacao/questions/150/4cbcab9a-322a-4d71-a6b7-d61ab4dc6c63.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 205 000 e 43 000.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1 205 000 e 63 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 205 000 e 493 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 250 000 e 43 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 250 000 e 63 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

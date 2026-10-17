@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2021 - Digital",
+    "index": 3,
+    "year": 2021,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Becoming\n\nBack in the ancestral homeland of Michelle Obama, black women were rarely granted\nthe honorific Miss or Mrs., but were addressed by their first name, or simply as “gal” or\n“auntie” or worse. This so openly demeaned them that many black women, long after they\nhad left the South, refused to answer if called by their first name. A mother and father in\n1970s Texas named their newborn “Miss” so that white people would have no choice but\nto address their daughter by that title. Black women were meant for the field or the kitchen,\nor for use as they saw fit. They were, by definition, not ladies. The very idea of a black\nwoman as first lady of the land, well, that would have been unthinkable.\n\nDisponível em: www.nytimes.com. Acesso em: 28 dez. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A crítica do livro de memórias de Michelle Obama, ex-primeira-dama dos EUA, aborda a\nhistória das relações humanas na cidade natal da autora. Nesse contexto, o uso do\nvocábulo “unthinkable” ressalta que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ascensão social era improvável.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a mudança de nome era impensável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a origem do indivíduo era irrelevante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o trabalho feminino era inimaginável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o comportamento parental era irresponsável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

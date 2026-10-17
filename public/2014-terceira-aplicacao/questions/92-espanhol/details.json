@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2014 - Terceira aplicação",
+    "index": 92,
+    "year": 2014,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "El idioma español en África subsahariana:\naproximación y propuesta\n\nLa inexistencia de un imperio colonial español\ncontemporáneo en África subsahariana durante los siglos\nXIX y XX es la causa de la ausencia actual de la lengua\nespañola en ese espacio como seña lingüística, con la\nexcepción del Estado ecuatoguineano. En consecuencia,\nla lengua española es, en ese subcontinente, un idioma\nmuy poco conocido y promovido. Por otro lado, la\nimportante presencia colonial portuguesa en África tuvo\ncomo consecuencia el nacimiento de cinco Estados\noficialmente lusófonos. Convendrá, en esos países del\nÁfrica subsahariana, la promoción del español a partir de\nla afinidad con el portugués, lengua consolidada ya en\nese espacio.\n\nPRADOS, F. A. D. Disponível em: www.realinstitutoelcano.org. Acesso em: 20 jan. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No artigo, após um esboço sobre a presença do espanhol\nna África subsaariana, propõe-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "projetar o espanhol no território africano lusófono.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "reforçar o ensino do espanhol na Guiné Equatorial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "substituir o português pelo espanhol em cinco estados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "amparar a promoção da fusão entre línguas próximas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desenvolver o conhecimento sobre o português da África.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 105 - ENEM 2016 - Segunda aplicação",
+    "index": 105,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nMama África\n\nMama África (a minha mãe)\né mãe solteira\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/105/8c9545c7-2b76-4238-9c60-32049007d4c4.png)\n\ne tem que fazer\nmamadeira todo dia\nalém de trabalhar\ncomo empacotadeira\nnas Casas Bahia\nMama África tem tanto o que fazer\nalém de cuidar neném\nalém de fazer denguim\nfilhinho tem que entender\nMama África vai e vem\nmas não se afasta de você\nquando Mama sai de casa\nseus filhos se olodunzam\nrola o maior jazz\nMama tem calos nos pés\nMama precisa de paz\nMama não quer brincar mais\nfilhinho dá um tempo\né tanto contratempo\nno ritmo de vida de Mama\n\nCHICO CÉSAR. Mama África. São Paulo: MZA Music, 1995.\n\nTEXTO II\n\nFAMÍLIAS\n\nos filhos são só de um dos\nparceiros ou de ambos, de\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/105/78867551-c89b-46ca-9aff-ff01016eedf2.png)\n\nrelacionamentos anteriores,\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/105/003e8d72-8a5d-4998-9362-8446e479dd1b.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/105/bbcbdc0b-af4f-4dbe-bad2-a1b66d1de6ba.png)\n\num indicativo de aumento\ndas famílias no Brasil são\ndesses grupos, das uniões reconstituídas.\nformadas por casais com filhos.\n\nMulheres são das famílias, dos lares o rendimento delas\n\n37,3% mas em 62,7%\n\nresponsáveis por ajuda no sustento da casa.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/105/04374be6-56e9-4482-b3f2-8d104c8d7765.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/105/757fc909-2768-40fb-b160-9723f99095ae.png)\n\nFonte: IBGE\nA nova família brasileira. Disponível em: http://veja.abril.com.br. Acesso em: 17 dez. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/105/8c9545c7-2b76-4238-9c60-32049007d4c4.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/105/78867551-c89b-46ca-9aff-ff01016eedf2.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/105/003e8d72-8a5d-4998-9362-8446e479dd1b.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/105/bbcbdc0b-af4f-4dbe-bad2-a1b66d1de6ba.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/105/04374be6-56e9-4482-b3f2-8d104c8d7765.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/105/757fc909-2768-40fb-b160-9723f99095ae.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A pesquisa, realizada pelo IBGE, evidencia características das famílias brasileiras, também tematizadas pela canção\nMama África. Ambos os textos destacam o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "preocupação das mulheres com o mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "responsabilidade das mulheres no sustento das famílias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "comprometimento das mulheres na reconstituição do casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dedicação das mulheres no cuidado com os filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "importância das mulheres nas tarefas diárias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

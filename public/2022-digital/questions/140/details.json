@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2022 - Digital",
+    "index": 140,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para\npagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior.\nPara pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o\npreço normal.\n\nUma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão\nde crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional\nacrescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção,\npercebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 2,00 menor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "R$ 100,00 menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 200,00 menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 42,00 maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 80,00 maior.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

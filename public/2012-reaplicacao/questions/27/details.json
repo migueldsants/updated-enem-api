@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2012 - Reaplicação",
+    "index": 27,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012-reaplicacao/questions/27/99f054cc-ed3d-4bd7-be39-899bdac91edd.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/27/99f054cc-ed3d-4bd7-be39-899bdac91edd.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O desenho retrata a fazenda de São Joaquim da\nGrama com a casa-grande, a senzala e outros edifícios\nrepresentativos de uma estrutura arquitetônica\ncaracterística do período escravocrata no Brasil. Esta\norganização do espaço representa uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estratégia econômica e espacial para manter os escravos próximos do plantio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tática preventiva para evitar roubos e agressões por escravos fugidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "forma de organização social que fomentou o patriarcalismo e a miscigenação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "maneira de evitar o contato direto entre os escravos e seus senhores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "particularidade das fazendas de café das regiões Sul e Sudeste do país.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

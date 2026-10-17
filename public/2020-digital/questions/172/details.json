@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2020 - Digital",
+    "index": 172,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Prever a dinâmica populacional de um país é de extrema importância, pois com esse\nconhecimento as políticas públicas em saúde, educação, habitação e infraestrutura poderão\nser executadas sem atraso e de forma eficiente. A linha cheia no gráfico mostra a evolução da\npopulação brasileira desde 1950 até 2010, e a extrapolação (previsão) até o ano 2050,\nrepresentada pela linha tracejada, foi feita com base nos censos demográficos realizados até\n2010.\n\n![](https://enem.dev/2020-digital/questions/172/f81a92c6-9331-4a95-9f69-ada4eaf67c1d.png)\n\nFonte: IBGE. Projeção da população do Brasil, 2010.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/172/f81a92c6-9331-4a95-9f69-ada4eaf67c1d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pelo gráfico apresentado, o intervalo em que se observa aumento da população é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1950 a 2010.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1950 a 2040.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1950 a 2050.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2010 a 2040.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2040 a 2050.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

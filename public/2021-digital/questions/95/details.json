@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2021 - Digital",
+    "index": 95,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos\ne sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro.\nA flora, embora não tenha desaparecido, tornou-se menos abundante que no passado,\nalém de ocupar áreas mais restritas.\n\nBICUDO, F. Jardineiros da pesada. Ecologia. Pesquisa Fapesp, ed. 231, maio 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O evento descrito com a flora ocorreu em razão da redução",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da produção de flores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "do tamanho das plantas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de fatores de disseminação das sementes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "da quantidade de sementes por fruto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dos hábitats disponíveis para as plantas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

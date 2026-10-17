@@ -1,0 +1,46 @@
+{
+    "title": "Questão 93 - ENEM 2016 - Segunda aplicação",
+    "index": 93,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Canción con todos\nSalgo a caminar\nPor la cintura cósmica del sur\nPiso en la región\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/93-espanhol/3b4bfc3e-8ef5-4126-a86a-809fe3d1a32e.png)\n\nMás vegetal del tiempo y de la luz\nSiento al caminar\nToda la piel de América en mi piel\nY anda en mi sangre un río\nQue libera en mi voz\nSu caudal.\n\nSol de alto Perú\nRostro Bolivia, estaño y soledad\nUn verde Brasil besa a mi Chile\nCobre y mineral\nSubo desde el sur\nHacia la entraña América y total\nPura raíz de un grito\nDestinado a crecer\nY a estallar.\n\nTodas las voces, todas\nTodas las manos, todas\nToda la sangre puede\nSer canción en el viento.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/93-espanhol/cf311127-3083-452c-bf00-4b7a06eca543.png)\n\nGÓMEZ, A. T. Mercedes Sosa: 30 años. Buenos Aires: Polygram, 1994.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/93-espanhol/3b4bfc3e-8ef5-4126-a86a-809fe3d1a32e.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/93-espanhol/cf311127-3083-452c-bf00-4b7a06eca543.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Canción con todos é uma canção latino-americana muito\ndifundida e consagrada pela voz da cantora argentina\nMercedes Sosa. Com relação à América Latina, seus\nversos expressam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desejo de integração entre os povos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "entusiasmo por caminhar pela região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valorização dos recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "esforço para libertar os oprimidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vontade de cantar os tipos humanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

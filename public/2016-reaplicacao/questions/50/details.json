@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2016 - Reaplicação",
+    "index": 50,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma floresta existiam duas populações herbívoras\nque habitavam o mesmo ambiente. A população da\nespécie X mostrava um grande número de indivíduos,\nenquanto a população Z era pequena. Ambas tinham\nhábitos ecológicos semelhantes. Com a intervenção\nhumana, ocorreu fragmentação da floresta em duas\nporções, o que separou as populações X e Z. Após algum\ntempo, observou-se que a população X manteve sua\ntaxa populacional, enquanto a população Z aumentou a\nsua até que ambas passaram a ter, aproximadamente, a\nmesma quantidade de indivíduos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A relação ecológica entre as espécies X e Z, quando no\nmesmo ambiente, é de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Predação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Parasitismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Competição.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Comensalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Protocooperação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

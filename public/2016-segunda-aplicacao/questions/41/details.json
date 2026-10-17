@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2016 - Segunda aplicação",
+    "index": 41,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Relacionando as informações do mapa com o processo de ocupação brasileiro, as áreas de maior precariedade\nestão associadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ao fenômeno da marcha para o oeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à divergência de poderes políticos locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao processo de ocupação imigratória tardia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à presença de espaços de baixo potencial produtivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a baixos investimentos públicos em equipamentos urbanos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

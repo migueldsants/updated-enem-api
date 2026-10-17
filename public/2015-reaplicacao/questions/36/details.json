@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2015 - Reaplicação",
+    "index": 36,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É simplesmente espantoso que esses núcleos tão\ndesiguais e tão diferentes se tenham mantido aglutinados\nnuma só nação. Durante o período colonial, cada um\ndeles teve relação direta com a metrópole. Ocorreu o\nextraordinário, fizemos um povo-nação, englobando\ntodas aquelas províncias ecológicas numa só entidade\ncívica e política.\n\nRIBEIRO, D. O povo brasileiro: formação e sentido do Brasil. São Paulo: Cia. das Letras, 1988.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Após a conquista da autonomia, a questão primordial\ndo Brasil residia em como garantir sua unidade\npolítico-territorial diante das características e práticas\nherdadas da colonização. Relacionando o projeto\nde independência à construção do Estado nacional\nbrasileiro, a sua particularidade decorreu da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ordenação de um pacto que reconheceu os direitos políticos aos homens, independentemente de cor, sexo ou religião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estruturação de uma sociedade que adotou os privilégios de nascimento como critério de hierarquização social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "realização de acordos entre as elites regionais, que evitou confrontos armados contrários ao projeto luso-brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "concessão da autonomia política regional, que atendeu aos interesses socioeconômicos dos grandes proprietários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "afirmação de um regime constitucional monárquico, que garantiu a ordem associada à permanência da escravidão.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

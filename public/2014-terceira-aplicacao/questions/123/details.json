@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2014 - Terceira aplicação",
+    "index": 123,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A despropósito\nOlhou para o teto, a telha parecia um quadrado de doce.\nAh! — falou sem se dar conta de que descobria,\ndurando desde\na infância, aquela hora do dia, mais um galo cantando,\num corte de trator, as três camadas de terra,\na ocre, a marrom, a roxeada. Um pasto,\nnão tinha certeza se uma vaca\ne o sarilho da cisterna desembestado, a lata\nbatendo no fundo com estrondo.\nQuando insistiram, vem jantar, que esfria,\nele foi e disse antes de comer:\n“Qualidade de telha é essas de antigamente”.\n\nPRADO, A. Bagagem. Rio de janeiro: Civilização Brasileira, 2006.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A poesia brasileira sofreu importantes transformações\napós a Semana de 1922, sendo a aproximação com a\nprosa uma das mais significativas. O poema da poeta\nmineira Adélia Prado rompe com a lírica tradicional e se\naproxima da prosa por apresentar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "travessão, estrutura do verso com pontuação comum a orações e aproximação com a oralidade, elementos próprios da narrativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "uma estrutura narrativa que não segue a sequência de estrofes nem utiliza de linguagem metafórica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "personagem situado no tempo e espaço, descrevendo suas memórias da infância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "discurso direto e indireto alternados na voz do eu lírico e localização espacial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "narrador em primeira pessoa, linguagem discursiva e elementos descritivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

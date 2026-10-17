@@ -1,0 +1,46 @@
+{
+    "title": "Questão 173 - ENEM 2015 - Reaplicação",
+    "index": 173,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra a variação percentual do valor do\n\n![](https://enem.dev/2015-reaplicacao/questions/173/645e30ea-e612-4b66-947b-b34e2e08fb26.png)\n\n![](https://enem.dev/2015-reaplicacao/questions/173/ba24d026-70f2-4771-ad8d-7ef7a9bf3bb0.png)",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/173/645e30ea-e612-4b66-947b-b34e2e08fb26.png",
+        "https://enem.dev/2015-reaplicacao/questions/173/ba24d026-70f2-4771-ad8d-7ef7a9bf3bb0.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o gráfico, no período considerado, o\ntrimestre em que o Brasil teve o maior valor do PIB foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "segundo trimestre de 2009.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "quarto trimestre de 2009.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "terceiro trimestre de 2010.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "quarto trimestre de 2010.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "primeiro trimestre de 2011.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

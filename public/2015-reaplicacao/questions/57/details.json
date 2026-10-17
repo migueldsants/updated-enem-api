@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2015 - Reaplicação",
+    "index": 57,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Dentre outras características, uma determinada\nvegetação apresenta folhas durante três a quatro meses\nao ano, com limbo reduzido, mecanismo rápido de\nabertura e fechamento dos estômatos e caule suculento.\nEssas são algumas características adaptativas das\nplantas ao bioma onde se encontram.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Que fator ambiental é o responsável pela ocorrência\ndessas características adaptativas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Escassez de nutrientes no solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estratificação da vegetação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Elevada insolação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Baixo pH do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Escassez de água.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

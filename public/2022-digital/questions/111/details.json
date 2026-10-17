@@ -1,0 +1,47 @@
+{
+    "title": "Questão 111 - ENEM 2022 - Digital",
+    "index": 111,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento\n(morno, quente e superquente) apresentam as seguintes variações de temperatura da\nágua em função de sua vazão:\n\n![](https://enem.dev/2022-digital/questions/111/603720c0-bd23-4ada-806a-c4268c536bde.png)\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas\nelétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela\ncorrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do\ncircuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é\ndissipada através da resistência do chuveiro e convertida em energia térmica transferida\n\n![](https://enem.dev/2022-digital/questions/111/416a344d-e935-4cf7-b78d-9605028967be.png)\n\n![](https://enem.dev/2022-digital/questions/111/a20ba583-e0aa-4a6d-b493-99c55288ddea.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/111/603720c0-bd23-4ada-806a-c4268c536bde.png",
+        "https://enem.dev/2022-digital/questions/111/416a344d-e935-4cf7-b78d-9605028967be.png",
+        "https://enem.dev/2022-digital/questions/111/a20ba583-e0aa-4a6d-b493-99c55288ddea.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O disjuntor adequado para a proteção dessa ducha é especificado por:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "60 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30 A",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "20 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 A",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

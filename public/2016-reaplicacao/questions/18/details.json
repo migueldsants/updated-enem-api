@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2016 - Reaplicação",
+    "index": 18,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando refletimos sobre a questão da justiça, algumas\nassociações são feitas quase intuitivamente, tais como\na de equilíbrio entre as partes, princípio de igualdade,\ndistribuição equitativa, mas logo as dificuldades se\nmostram. Isso porque a nossa sociedade, sendo bastante\ndiversificada, apresenta uma heterogeneidade tanto em\ntermos das diversas culturas que coexistem em um mundo\ninterligado como em relação aos modos de vida e aos\nvalores que surgem no interior de uma mesma sociedade.\n\nCHEDIAK, K. A pluralidade como ideia reguladora: a noção de justiça a partir dafilosofia de\nLyotard. Trans/Form/Ação, n. 1, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A relação entre justiça e pluralidade, apresentada pela\nautora, está indicada em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A complexidade da sociedade limita o exercício da justiça e a impede de atuar a favor da diversidade cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A diversidade cultural e de valores torna a justiça mais complexa e distante de um parâmetro geral orientador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O papel da justiça refere-se à manutenção de princípios fixos e incondicionais em função da diversidade cultural e de valores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O pressuposto da justiça é fomentar o critério de igualdade a fim de que esse valor torne-se absoluto em todas as sociedades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O aspecto fundamental da justiça é o exercício de dominação e controle, evitando a desintegração de uma sociedade diversificada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

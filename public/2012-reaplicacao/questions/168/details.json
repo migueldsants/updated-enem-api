@@ -1,0 +1,46 @@
+{
+    "title": "Questão 168 - ENEM 2012 - Reaplicação",
+    "index": 168,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O cristalino, que é uma lente do olho humano, tem a\nfunção de fazer ajuste fino na focalização, ao que se chama\nacomodação. À perda da capacidade de acomodação\ncom a idade chamamos presbiopia. A acomodação pode\nser determinada por meio da convergência do cristalino.\nSabe-se que a convergência de uma lente, para pequena\ndistância focal em metros, tem como unidade de medida\na diopria (di).\n\nA presbiopia, representada por meio da relação entre a\nconvergência máxima C_max (em di) e a idade T (em anos), é\nmostrada na figura seguinte.\n\n![](https://enem.dev/2012-reaplicacao/questions/168/3ad18bec-391d-400a-9ed0-7498bd49ea89.png)\n\nACOMODAÇÃO MAXIMA (di)\n\nIDADE (anos)\n\nCOSTA, E. V.; FARIA LEITE, C. A. F. Revista Brasileira de Ensino de Física, v. 20, n. 3, set. 1998.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/168/3ad18bec-391d-400a-9ed0-7498bd49ea89.png",
+        "https://enem.dev/2012-reaplicacao/questions/168/d422c6aa-05e9-40ad-b9cf-949ee223107b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando esse gráfico, as grandezas convergência\nmáxima C_max e idade T estão relacionadas algebricamente\npela expressão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C_max = 2⁻^T",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "C_max = T² – 70T + 600",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C_max = log₂ (T² –70T + 600)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C_max = 0,16T + 9,6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/168/d422c6aa-05e9-40ad-b9cf-949ee223107b.png",
+            "isCorrect": false
+        }
+    ]
+}

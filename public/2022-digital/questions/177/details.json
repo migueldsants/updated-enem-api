@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2022 - Digital",
+    "index": 177,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu\ntreinamento consiste em cinco tipos diferentes de treinos: treino T , treino T , treino T ,₁₂₃\ntreino T₄ e treino T . A sequência dos treinamentos deve seguir esta ordem:₅\n\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta\ncomeça novamente a sequência a partir do treino T₁ e segue a ordem descrita. Após\n24 semanas completas de treinamento, se dará o início das competições.\n\n![](https://enem.dev/2022-digital/questions/177/f21f9431-6f8f-43a9-9eb4-5585c2ea3d5e.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/177/f21f9431-6f8f-43a9-9eb4-5585c2ea3d5e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "T₃ R T₄ R R T₅ R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R T₃ R T₄ R R T .₅",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R T₄ R R T₅ R T .₁",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R R T₅ R T₁ R R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R T₅ R T₁ R R T .₂",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

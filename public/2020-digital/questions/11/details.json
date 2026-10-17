@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2020 - Digital",
+    "index": 11,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020-digital/questions/11/1c4a1439-8ebc-4921-b9b8-7f5345251292.png)\n\nDisponível em: www.inbatatais.com.br. Acesso em: 8 maio 2012.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/11/1c4a1439-8ebc-4921-b9b8-7f5345251292.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No anúncio sobre a proibição da venda de bebidas alcoólicas para menores, a linguagem\nformal interage com a linguagem informal quando o autor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desrespeita a regência padrão para ampliar o alcance da publicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "elabora um jogo de significados ao utilizar a palavra “legal”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "apoia-se no emprego de gírias para se fazer entender.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utiliza-se de metalinguagem ao jogar com as palavras “legal” e “lei”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "esclarece que se trata de uma lei ao compará-la a uma proibição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

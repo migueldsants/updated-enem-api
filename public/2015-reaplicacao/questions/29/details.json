@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2015 - Reaplicação",
+    "index": 29,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Não acho que seja possível identificar a globalização\napenas com a criação de uma economia global, embora\neste seja seu ponto focal e sua característica mais óbvia.\nPrecisamos olhar além da economia. Antes de tudo,\na globalização depende da eliminação de obstáculos\ntécnicos, não de obstáculos econômicos. Isso tornou\npossível organizar a produção, e não apenas o comércio,\nem escala internacional.\n\nHOBSBAWM, E. O novo século: entrevista a Antonio Polito.\nSão Paulo: Cia. das Letras, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um fator essencial para a organização da produção, na\nconjuntura destacada no texto, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criação de uniões aduaneiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "difusão de padrões culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "melhoria na infraestrutura de transportes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "supressão das barreiras para comercialização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "organização de regras nas relações internacionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

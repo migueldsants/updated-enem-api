@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2014 - Terceira aplicação",
+    "index": 173,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na figura, estão indicadas as medidas reais da largura\ne do comprimento de uma casa.\n\n1 500 cm\n\n900 cm\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/173/6f988854-527b-46b8-97d5-76993b8a6ae0.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/173/6f988854-527b-46b8-97d5-76993b8a6ae0.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um arquiteto fez a planta dessa casa numa folha de\npapel retangular utilizando a escala 1 : 30, deixando 6 cm\nem cada uma das margens da folha (direita, esquerda,\ninferior e superior).\nQuais são, respectivamente, o comprimento e a largura,\nem centímetros, da folha de papel utilizada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50 e 30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50 e 42",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "56 e 36",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "62 e 30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "62 e 42",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

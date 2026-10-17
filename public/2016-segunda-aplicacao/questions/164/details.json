@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2016 - Segunda aplicação",
+    "index": 164,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma região de uma fábrica deve ser isolada, pois nela\nos empregados ficam expostos a riscos de acidentes.\nEssa região está representada pela porção de cor cinza\n(quadrilátero de área S) na figura.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/164/c8ab004f-6f24-41c7-af8f-157ddd11d203.png)",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/164/c8ab004f-6f24-41c7-af8f-157ddd11d203.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para que os funcionários sejam orientados sobre a\nlocalização da área isolada, cartazes informativos serão\nafixados por toda a fábrica. Para confeccioná-los, um\nprogramador utilizará um software que permite desenhar\nessa região a partir de um conjunto de desigualdades\nalgébricas.\nAs desigualdades que devem ser utilizadas no referido\nsoftware, para o desenho da região de isolamento, são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3y − x ≤ 0; 2y − x ≥ 0; y ≤ 8; x ≤ 9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3y − x ≤ 0; 2y − x ≥ 0; y ≤ 9; x ≤ 8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3y − x ≥ 0; 2y − x ≤ 0; y ≤ 9; x ≤ 8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4y − 9x ≤ 0; 8y − 3x ≥ 0; y ≤ 8; x ≤ 9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4y − 9x ≤ 0; 8y − 3x ≥ 0; y ≤ 9; x ≤ 8",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

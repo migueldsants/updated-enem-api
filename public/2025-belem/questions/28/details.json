@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 28,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Alimentamos tantas expectativas de libertação para\nfalarmos o que bem quisermos e para criarmos tecnologias\ne mundos novos que nos descuidamos de prestar atenção\nna ascensão dos monopólios das empresas de tecnologia,\nna construção de bolhas de informação que confirmam pontos\nde vista e na cada vez mais real possibilidade de a internet\nvirar uma TV a cabo, com o já proclamado fim da neutralidade\nda rede. Tomamos um porre de otimismo. E agora estamos\nna fase de ressaca, reféns dos monopólios da internet,\nda comercialização de qualquer dado deixado na rede,\ndas fake news chegando de todos os lados. Distopia pura.\n\nO cerceamento da internet por empresas privadas é um\ndos elementos principais na construção desse espírito. O que\nresta da internet hoje senão as plataformas, os softwares e\nos dispositivos dessas empresas? Para a maioria da população\nbrasileira e mundial, pouco. De acordo com um dos criadores da\nideia de realidade virtual, “a cultura digital nascente acreditava\nque tudo na internet deveria ser público, gratuito. Ao mesmo\ntempo, amávamos nossos empreendedores de tecnologia”.\nComo celebrar empreendedorismo se tudo é gratuito? Com um\nmodelo baseado em publicidade. Os sites de busca e as redes\nsociais nasceram gratuitos. Mas os algoritmos se tornaram\nmais eficientes. E o que começou como propaganda não\npode mais ser chamado de propaganda. Hoje é modificação\nde comportamento.\n\nDisponível em: https://outraspalavras.net.\nAcesso em: 24 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao propor uma reflexão sobre a liberdade na internet, esse\ntexto destaca o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evolução eficiente dos algoritmos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "declínio do interesse pela televisão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "impossibilidade de lidar com fake news.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "importância de garantir a gratuidade da rede.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "controle exercido pelas grandes corporações.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

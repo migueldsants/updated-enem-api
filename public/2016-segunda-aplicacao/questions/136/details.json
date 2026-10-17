@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2016 - Segunda aplicação",
+    "index": 136,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra a média de produção diária de\npetróleo no Brasil, em milhão de barris, no período de\n2004 a 2010.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/136/b607900f-604a-4ce5-92f8-6a6ce4c4f3c6.png)\n\nBarris (milhão)\n\n2004200520062007200820092010Ano\n\nEstimativas feitas naquela época indicavam que\na média de produção diária de petróleo no Brasil, em\n2012, seria 10% superior à média dos três últimos anos\napresentados no gráfico.\n\nDisponível em: http://blogs.estadao.com.br. Acesso em: 2 ago. 2012.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/136/b607900f-604a-4ce5-92f8-6a6ce4c4f3c6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se essas estimativas tivessem sido confirmadas, a média\nde produção diária de petróleo no Brasil, em milhão de\nbarris, em 2012, teria sido igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,940.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,134.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2,167.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,420.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6,402.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

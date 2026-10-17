@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 74,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O que define a polis é que, contrariamente à tribo ou às\ngrandes monarquias, contrariamente à comunidade familiar,\nali ninguém possui apriori o poder. Não se trata do objeto de um\n“ter” reservado, mas o lugar de uma luta pelo reconhecimento\npúblico, principalmente quando a polis é democrática, como\nfoi o caso de Atenas.\n\nWOLFF, F. Aristóteles e a política. São Paulo: Discurso Editorial,\n1999 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A organização política apresentada no texto alcança o\nmodelo de deliberação pública das sociedades democráticas\ncontemporâneas nas quais",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "patriarcas regionais preenchem os espaços de poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "parlamentares atuam conforme interesses setorizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "representantes eleitos estão legitimados pela vontade popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aristocratas ocupam a classe média na estratificação social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "governos hereditários dispensam a necessidade de eleições.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

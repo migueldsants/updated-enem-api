@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2016 - Segunda aplicação",
+    "index": 101,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O que é Web Semântica?\nWeb Semântica é um projeto para aplicar conceitos\ninteligentes na internet atual. Nela, cada informação\nvem com um significado bem definido e não se\nencontra mais solta no mar de conteúdo, permitindo\numa melhor interação com o usuário. Novos motores\nde busca, interfaces inovadoras, criação de dicionários\nde sinônimos e a organização inteligente de conteúdos\nsão alguns exemplos de aprimoramento. Dessa forma,\nvocê não vai mais precisar minerar a internet em busca\ndaquilo que você procura, ela vai passar a se comportar\ncomo um todo, e não mais como um monte de informação\nempilhada. A implementação deste paradigma começou\nrecentemente, e ainda vai levar mais alguns anos até que\nentre completamente em vigor e dê um jeito em toda a\nenorme bagunça que a internet se tornou.\n\nDisponível em: www.tecmundo.com.br. Acesso em: 6 ago. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao analisar o texto sobre a Web Semântica, deduz-se que\nesse novo paradigma auxiliará os usuários a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "armazenar grandes volumes de dados de modo mais disperso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "localizar informações na internet com mais precisão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "captar os dados na internet com mais velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "publicar dados com significados não definidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "navegar apenas sobre dados já organizados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

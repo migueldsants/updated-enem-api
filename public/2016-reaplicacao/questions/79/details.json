@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2016 - Reaplicação",
+    "index": 79,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante a formação de uma tempestade, são\nobservadas várias descargas elétricas, os raios, que\npodem ocorrer: das nuvens para o solo (descarga\ndescendente), do solo para as nuvens (descarga\nascendente) ou entre uma nuvem e outra. As descargas\nascendentes e descendentes podem ocorrer por causa\ndo acúmulo de cargas elétricas positivas ou negativas,\nque induz uma polarização oposta no solo.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essas descargas elétricas ocorrem devido ao aumento da\nintensidade do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "campo magnético da Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "corrente elétrica gerada dentro das nuvens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "resistividade elétrica do ar entre as nuvens e o solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "campo elétrico entre as nuvens e a superfície da Terra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "força eletromotriz induzida nas cargas acumuladas no solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

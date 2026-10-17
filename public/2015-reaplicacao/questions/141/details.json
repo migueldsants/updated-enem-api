@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2015 - Reaplicação",
+    "index": 141,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Alguns brasileiros têm o hábito de trocar de carro a\ncada um ou dois anos, mas essa prática nem sempre é\num bom negócio, pois o veículo desvaloriza com o uso.\nEsse fator é chamado de depreciação, sendo maior nos\nprimeiros anos de uso.\n\nUma pessoa realizou uma pesquisa sobre o valor de\nmercado dos dois veículos (X e Y) que possui. Colocou\nos resultados obtidos em um mesmo gráfico, pois os\nveículos foram comprados juntos.\n\nValor (R$)\n\n55 000\n50 000\n45 000\n40 000\n35 000\n30 000\n25 000\n20 000\n\nX\n\n15 000\n10 000 Y\n5 000\n\n0 2 4 6 8 10 12 14\nTempo de uso (ano)\n\nApós a pesquisa, ela decidiu vender os veículos no\nmomento em que completarem quatro anos de uso.\n\nDisponível em: www.carrosnaweb.com.br. Acesso em: 3 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando somente os valores de compra e de venda\ndos veículos por essa pessoa, qual a perda, em reais, que\nela terá?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25 000,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "35 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "45 000,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

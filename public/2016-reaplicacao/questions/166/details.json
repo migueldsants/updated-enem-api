@@ -1,0 +1,46 @@
+{
+    "title": "Questão 166 - ENEM 2016 - Reaplicação",
+    "index": 166,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um casal e seus dois filhos saíram, com um corretor\nde imóveis, com a intenção de comprar um lote onde\nfuturamente construiriam sua residência. No projeto da\ncasa, que esta família tem em mente, irão necessitar\nde uma área de pelo menos 400 m². Após algumas\navaliações, ficaram de decidir entre os lotes 1 e 2 da\nfigura, em forma de paralelogramos, cujos preços são\nR$ 100 000,00 e R$ 150 000,00, respectivamente.\n\n![](https://enem.dev/2016-reaplicacao/questions/166/32eac492-9971-4ca1-be0b-d146fd7697bc.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/166/960e24b7-15d1-472d-9c8f-23718436a6cb.png)\n\nPara colaborarem na decisão, os envolvidos fizeram\nas seguintes argumentações:\n\nPai: Devemos comprar o Lote 1, pois como uma de\nsuas diagonais é maior do que as diagonais do Lote 2,\no Lote 1 também terá maior área;\n\nMãe: Se desconsiderarmos os preços, poderemos\ncomprar qualquer lote para executar nosso projeto, pois tendo\nambos o mesmo perímetro, terão também a mesma área;\n\nFilho 1: Devemos comprar o Lote 2, pois é o único\nque tem área suficiente para a execução do projeto;\n\nFilho 2: Devemos comprar o Lote 1, pois como os dois\nlotes possuem lados de mesma medida, terão também a\nmesma área, porém o Lote 1 é mais barato;\n\nCorretor: Vocês devem comprar o Lote 2, pois é o\nque tem menor custo por metro quadrado.",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/166/32eac492-9971-4ca1-be0b-d146fd7697bc.png",
+        "https://enem.dev/2016-reaplicacao/questions/166/960e24b7-15d1-472d-9c8f-23718436a6cb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A pessoa que argumentou corretamente para a compra\ndo terreno foi o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pai.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mãe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "filho 1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "filho 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "corretor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

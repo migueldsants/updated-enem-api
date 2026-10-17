@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2013 - Reaplicação",
+    "index": 167,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O tipo mais comum de bebida encontrado nos\nsupermercados não é o suco, mas o néctar de frutas.\nOs fabricantes de bebida só podem chamar de suco os\nprodutos que tiverem pelo menos 50% de polpa, a parte\ncomestível da fruta. Já o néctar de frutas é mais doce e\ntem entre 20% e 30% de polpa de frutas.\n\nSuperinteressante, São Paulo, ago. 2011.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/167/cce89b92-c68f-47d1-9825-b57cc1336ab6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma pessoa vai ao supermercado e compra uma caixa de\n1 litro de bebida. Em casa ela percebe que na embalagem\nestá escrito “néctar de frutas com 30% de polpa”. Se\nessa caixa fosse realmente de suco, necessitaria de um\naumento percentual de polpa de, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "67%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "80%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "167%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/167/cce89b92-c68f-47d1-9825-b57cc1336ab6.png",
+            "isCorrect": false
+        }
+    ]
+}

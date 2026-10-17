@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2021 - Digital",
+    "index": 17,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A história do futebol brasileiro contém, ao longo de um século, registros de episódios\nracistas. Eis o paradoxo: se, de um lado, a atividade futebolística era depreciada aos\nolhos da “boa sociedade” como profissão destinada aos pobres, negros e marginais, de\noutro, achava-se investida do poder de representar e projetar a nação em escala mundial.\nA Copa do Mundo no Brasil, em 1950, viria a se constituir, nesse sentido, em uma rara\noportunidade. Contudo, na decisão contra o Uruguai sobreveio o inesperado revés. As\ncrônicas esportivas elegiam o goleiro Barbosa e o defensor Bigode como bodes\nexpiatórios, “descarregando nas costas” dos jogadores os “prejuízos” da derrota. Uma\nchibata moral, eis a sentença proferida no tribunal dos brancos. Nos anos 1970, por não\natender às expectativas normativas suscitadas pelo estereótipo do “bom negro”, Paulo\nCésar Lima foi classificado como “jogador-problema”. Ele esboçava a revolta da chibata\nno futebol brasileiro. Enquanto Barbosa e Bigode, sem alternativa, suportaram o\nlinchamento moral na derrota de 1950, Paulo César contra-atacava os que pretendiam\ncondená-lo pelo insucesso de 1974. O jogador assumia as cores e as causas defendidas\npela esquadra dos pretos em todas as esferas da vida social. “Sinto na pele esse racismo\nsubjacente”, revelou à imprensa francesa: “Isto é, ninguém ousa pronunciar a palavra\n‘racismo’. Mas posso garantir que ele existe, mesmo na Seleção Brasileira”. Sua ousadia\nconsistiu em pronunciar a palavra interdita no espaço simbólico do discurso oficial para\nreafirmar o mito da democracia racial.\n\nDisponível em: https://observatorioracialfutebol.com.br. Acesso em: 22 jun. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto atribui o enfraquecimento do mito da democracia racial no futebol à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "responsabilização de jogadores negros pela derrota na final da Copa de 1950.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "projeção mundial da nação por um esporte antes destinado aos pobres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "depreciação de um esporte associado à marginalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "interdição da palavra “racismo” no contexto esportivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "atitude contestadora de um “jogador-problema”.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

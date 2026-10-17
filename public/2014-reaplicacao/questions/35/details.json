@@ -1,0 +1,45 @@
+{
+    "title": "Questão 35 - ENEM 2014 - Reaplicação",
+    "index": 35,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014-reaplicacao/questions/35/8cc873b4-e107-4e55-b0fa-1e8f189a2d1e.png)\n\nDisponível em: <www.indiana.edu>. Acesso em: 3 ago. 2013 adaptado .",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/35/8cc873b4-e107-4e55-b0fa-1e8f189a2d1e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As redes sociais tornaram-se espaços importantes de\nrelacionamento e comunicação. A charge apresenta o\nimpacto da internet na vida dos indivíduos quando faz\nreferência à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ampliação do poder dos clérigos no controle dos fiéis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "adequação dos ritos sacramentais ao cotidiano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "perda de privacidade em ambiente virtual.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "reinterpretação da noção de pecado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "modernização das instituições religiosas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

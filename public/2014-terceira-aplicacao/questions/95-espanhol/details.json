@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2014 - Terceira aplicação",
+    "index": 95,
+    "year": 2014,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Convergencia tecnológica y participación popular\n\nSe están cumpliendo 20 años del “boom” de las\nradios comunitarias en Argentina, que entre 1985 y 1990\nsorprendió al país con la creación de casi 3 mil radios de\nbaja potencia. Estas emisoras lograron, en poco tiempo,\nabrir los micrófonos a miles de radialistas populares, a la\nparticipación del vecindario y de la gente común e influir\nsustancialmente en la programación radial comercial,\ncon la creación de nuevos formatos en los que tenía\nun papel central la opinión ciudadana, sin jerarquías\nni condicionamientos. Siendo la radio en Argentina el\nmedio más popular y con un alto grado de credibilidad\npor parte del público, las emisoras comunitarias jugaron\nun rol fundamental para el fortalecimiento del debate\ndemocrático en el país.\n\nPLOU, D. S. América Latina en Movimiento, n. 421, jun. 2007. Disponível em:\nhttp://alainet.org. Acesso em: 23 fev. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto destaca a importância das emissoras de rádio\ncomunitárias na Argentina. Considerando especificamente\na época do denominado boom, as emissoras populares",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criaram milhares de fontes de emprego para radialistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "surpreenderam o país com a oferta de rádios de baixo custo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "convocaram a comunidade para a participação em comerciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "incutiram um novo paradigma centralizado na opinião pública.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "tiveram um papel preponderante no condicionamento dos ouvintes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2013 - Reaplicação",
+    "index": 172,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um folheto de propaganda foi desenhada uma\nplanta de um apartamento medindo 6 m × 8 m, na escala\n1 : 50. Porém, como sobrou muito espaço na folha, foi\ndecidido aumentar o desenho da planta, passando para\na escala 1 : 40.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/172/b38fab98-9d20-48fe-86fa-9ca1d7fb3ea9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Após essa modificação, quanto aumentou, em cm², a\nárea do desenho da planta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,0108",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "108",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "191,88",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "300",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/172/b38fab98-9d20-48fe-86fa-9ca1d7fb3ea9.png",
+            "isCorrect": false
+        }
+    ]
+}

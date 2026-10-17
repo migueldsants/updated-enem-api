@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2016 - Segunda aplicação",
+    "index": 92,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Desde Nápoles hasta Johannesburgo, desde Buenos\nAires hasta Barcelona, los actos de xenofobia y racismo\nindican que nos encontramos ante un fenómeno global.\nDefinida por la Real Academia de la Lengua como el\n“odio, repugnancia y hostilidad a los extranjeros”, la\nxenofobia va de la mano con los flujos migratorios por\nrazones económicas o ambientales, y el desplazamiento\nforzado provocado por los conflictos armados internos y\nlas guerras. El otro, el que viste, habla y tiene otra cultura y\nuna religión diferente es visto con sospecha, desconfianza\ny temor en los países del llamado primer mundo. Los\npolíticos de derecha y los grandes medios “ensalzan lo\npropio y denigren lo ajeno” contribuyendo a crear un clima\nde miedo y odio hacia el extraño y desconocido.\n\nTAMAYO, G. E. Disponível em: www.alainet.org. Acesso em: 23 fev. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, a relação entre o fenômeno discriminatório e\na postura de políticos de direita e de grandes meios de\ncomunicação tem a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "denunciar as práticas que encobrem as diferenças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tornar públicas as razões econômicas da xenofobia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criticar aqueles que favorecem a aparição do medo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "reclamar das atitudes tomadas pelos países desenvolvidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apontar as causas que determinam os fluxos migratórios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

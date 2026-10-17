@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2020 - Digital",
+    "index": 10,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Muito do que gastamos (e nos desgastamos) nesse consumismo feroz podia ser\nnegociado com a gente mesmo: uma hora de alegria em troca daquele sapato. Uma tarde de\namor em troca da prestação do carro do ano; um fim de semana em família em lugar daquele\ntrabalho extra que está me matando e ainda por cima detesto.\n\nNão sei se sou otimista demais, ou fora da realidade. Mas, à medida que fui gostando\nmais do meu jeans, camiseta e mocassins, me agitando menos, querendo ter menos, fui\nficando mais tranquila e mais divertida. Sapato e roupa simbolizam bem mais do que isso que\nsão: representam uma escolha de vida, uma postura interior.\n\nNunca fui modelo de nada, graças a Deus. Mas amadurecer me obrigou a fazer muita\nfaxina nos armários da alma e na bolsa também. Resistir a certas tentações é burrice; mas\nfugir de outras pode ser crescimento, e muito mais alegria.\n\nLUFT, L. Pensar é transgredir. Rio de Janeiro: Record, 2011.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse texto, há duas ocorrências de dois-pontos. Na primeira, eles anunciam uma\nenumeração das negociações que podemos fazer conosco. Na segunda, eles introduzem uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "opinião sobre o uso de jeans, camiseta e mocassins.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "explicação sobre a simbologia de sapatos e roupas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "conclusão acerca da oposição entre otimismo e realidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "comparação entre ostentação e conforto em termos de vestuário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retomada da ideia de negociação discutida no primeiro parágrafo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

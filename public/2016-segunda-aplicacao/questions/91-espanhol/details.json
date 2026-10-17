@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2016 - Segunda aplicação",
+    "index": 91,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-segunda-aplicacao/questions/91-espanhol/edfb471c-646c-4d0c-b294-39ac6a716300.png)\n\nDisponível em: www.sasia.org.ar. Acesso em: 30 maio 2016.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/91-espanhol/edfb471c-646c-4d0c-b294-39ac6a716300.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa propaganda foi criada para uma campanha de\nconscientização sobre a violência contra a mulher.\nAs palavras que compõem a imagem indicam que a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "violência contra a mulher está aumentando.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "agressão à mulher acontece de forma física e verbal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "violência contra a mulher é praticada por homens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "agressão à mulher é um fenômeno mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "violência contra a mulher ocorre no ambiente doméstico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

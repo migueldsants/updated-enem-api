@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2022 - Digital",
+    "index": 127,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A nanotecnologia é responsável pelo aprimoramento de diversos materiais, incluindo\nos que são impactados com a presença de poluentes e da umidade na atmosfera,\ncausadores de corrosão. O processo de corrosão é espontâneo e provoca a deterioração\nde metais como o ferro, que, em presença de oxigênio e água, sofre oxidação, conforme\nilustra a equação química:\n\n![](https://enem.dev/2022-digital/questions/127/a1944c47-d877-4ce4-ab41-0a74137dd11d.png)\n\nUma forma de garantir a durabilidade da estrutura metálica e a sua resistência à\numidade consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO ) e2\nalumina (Al O ) sobre a superfície do objeto que se deseja proteger.2 3\n\nCLEMENTE, G. A. B. F. et al. O uso de materiais híbridos ou nanocompósitos como\nrevestimentos anticorrosivos do aço. Química Nova, n. 9, 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/127/a1944c47-d877-4ce4-ab41-0a74137dd11d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa nanotecnologia aplicada na proteção contra a corrosão se baseia no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proteção catódica, que utiliza um metal fortemente redutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uso de metais de sacrifício, que se oxidam no lugar do ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "passivação do ferro, que fica revestido pelo seu próprio óxido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "efeito de barreira, que impede o contato com o agente oxidante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "galvanização, que usa outros metais de menor potencial de redução.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

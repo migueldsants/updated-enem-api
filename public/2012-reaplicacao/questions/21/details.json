@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2012 - Reaplicação",
+    "index": 21,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ao longo dos anos 1990, a luta pelas condições\nde circulação por parte das pessoas com necessidades\nespeciais foi uma constante na sociedade. Tal\nmobilização ocasionou ações como o rebaixamento das\ncalçadas, construção de rampas para acesso a pisos\nsuperiores, para possibilitar o acesso ao transporte\ncoletivo, entre outras.\n\nSOUZA, M. A. Movimentos sociais no Brasil contemporâneo: participação e possibilidades\n\ndas práticas democráticas. Disponível em: http://ces.uc.pt. Acesso em: 30 abr. 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As lutas pelo direito à acessibilidade, movidas,\nprincipalmente, a partir dos anos de 1990, visavam\ngarantir a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "igualdade jurídica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "inclusão social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "participação política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "distribuição de renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "liberdade de expressão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

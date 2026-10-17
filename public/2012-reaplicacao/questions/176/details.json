@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2012 - Reaplicação",
+    "index": 176,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Parece que foi ontem. Há 4,57 bilhões de anos,\numa gigantesca nuvem de partículas entrou em colapso\ne formou o nosso Sistema Solar. Demoraram míseros\n28 milhões de anos — um piscar de olhos em termos\ngeológicos — para que a Terra surgisse. Isso aconteceu\nhá 4,54 bilhões de anos. No começo, a superfície do\nplaneta era mole e muito quente, da ordem de 1 200 °C.\nNão demorou tanto assim para a crosta ficar mais fria e\nsurgirem os mares e a terra; isso aconteceu há 4,2 bilhões\nde anos.\n\nHistória da Terra. Superinteressante, nov. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O nosso Sistema Solar se formou, em anos, há",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 570.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 570 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4 570 000 000.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4 570 000 000 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 570 000 000 000 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

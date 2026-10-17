@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 86,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "De 1967 a 1973, a economia brasileira alcançou taxas\nmédias de crescimento muito elevadas e sem precedentes,\nque decorreram, em parte, da política econômica então\nimplementada, principalmente sob a direção do ministro da\nFazenda Antônio Delfim Neto, mas também de uma conjuntura\neconômica externa muito favorável, que somou forças para\num crescimento acelerado, acompanhado de uma inflação\ndeclinante e relativamente baixa para os padrões brasileiros,\nalém de superávits no balanço de pagamentos. Esse período\n(e por vezes de forma mais restrita os anos 1968-1973) passou\na ser conhecido como o do “milagre econômico brasileiro”,\numa terminologia anteriormente aplicada a fases de rápido\ncrescimento econômico, como ocorreu no Japão.\n\nLAGO, L. A. C. Milagre econômico brasileiro. Disponível em: www.fgv.br.\nAcesso em: 10 nov. 2021 (adaptado).\n\nQual foi o fator determinante para o crescimento econômico\n\n.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "apresentado no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ampliação da entrada de capital estrangeiro no país.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Melhoria na distribuição da riqueza gerada na nação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Transferência de tecnologias de ponta para a indústria local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumento das taxas de juros para os empréstimos internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Redução das barreiras protecionistas das potências desenvolvidas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

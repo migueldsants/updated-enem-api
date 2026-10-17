@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2014 - Reaplicação",
+    "index": 44,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma maior disponibilidade de combustível fóssil, como acontece com as crescentes possibilidades brasileiras,\né fonte de importantes perspectivas econômicas para o país. Ao mesmo tempo, porém, numa época de pressão\nmundial por alimentos e biocombustíveis, as reservas nacionais de água doce, o clima favorável e o domínio de\ntecnologias de ponta no setor conferem à matriz energética brasileira um papel-chave na mudança do paradigma\nenergético-produtivo.\n\nSODRÉ, M. Reinventando a educação: diversidade, descolonização e redes. Petrópolis: Vozes, 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No texto, é ressaltada a importância da matriz energética brasileira enquanto referência de caráter mais sustentável.\nEssa importância é derivada da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conquista da autossuficiência petrolífera pela descoberta de novas jazidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "expansão da fronteira agrícola intensiva para produção de biocombustíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "superação do uso de energia não renovável no setor de transporte de cargas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apropriação das condições naturais do território para diversificação das fontes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "redução do impacto social advindo da substituição de termelétricas por hidrelétricas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

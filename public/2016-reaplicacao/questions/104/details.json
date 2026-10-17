@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2016 - Reaplicação",
+    "index": 104,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Um cachorro cor de carvão dorme no azul etéreo de uma rede de pesca enrolada sobre a grama da Praça Vinte\ne Um de Abril. O sol bate na frente nos degraus cinzentos da escadaria que sobe a encosta do morro até a Igreja da\nMatriz. A ladeira de paralelepípedos curta e íngreme ao lado da igreja passa por um galpão de barcos e por uma casa\nde madeira pré-moldada. Acena para a velhinha marrom que toma sol na varanda sentada numa cadeira de praia\ncolorida. O vento nordeste salgado tumultua as árvores e as ondas. Nuvens esparramadas avançam em formação\ndo mar para o continente como um exército em transe. A ladeira faz uma curva à esquerda passando em frente a um\npredinho do século dezoito com paredes brancas descascadas e janelas recém-pintadas de azul-cobalto.\n\nGALERA, D. Barba ensopada de sangue. São Paulo: Cia. das Letras, 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A descrição, subjetiva ou objetiva, permite ao leitor visualizar o cenário onde uma ação se desenvolve e os personagens\nque dela participam. O fragmento do romance caracteriza-se como uma descrição subjetiva porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constrói sequências temporais pelo emprego de expressões adverbiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apresenta frases curtas, de ordem direta, com elementos enumerativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "recorre a substantivos concretos para representar um ambiente estático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cria uma ambiência própria por meio de nomes e verbos metaforizados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "prioriza construções oracionais de valor semântico de oposição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2020 - Digital",
+    "index": 54,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Constantinopla, aquela cidade vasta e esplêndida, com toda a sua riqueza, sua ativa\npopulação de mercadores e artesãos, seus cortesãos em seus mantos civis e as grandes\ndamas ricamente vestidas e adornadas, com seus séquitos de eunucos e escravos,\ndespertaram nos cruzados um grande desdém, mesclado a um desconfortável sentimento de\ninferioridade.\n\nRUNCIMAN, S. A Primeira Cruzada e a fundação do Reino de Jerusalém.\nRio de Janeiro: Imago, 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A reação dos europeus quando defrontados com essa cidade ocorreu em função das\ndiferenças entre Oriente e Ocidente quanto aos(às)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "modos de organização e participação política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "níveis de disciplina e poderio bélico do exército.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "representações e práticas de devoção politeístas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dinâmicas econômicas e culturais da vida urbana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "formas de individualização e desenvolvimento pessoal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

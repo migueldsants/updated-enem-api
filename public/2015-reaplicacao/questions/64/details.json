@@ -1,0 +1,49 @@
+{
+    "title": "Questão 64 - ENEM 2015 - Reaplicação",
+    "index": 64,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As superbactérias respondem por um número crescente de infecções e mortes em todo o mundo. O termo\nsuperbactérias é atribuído às bactérias que apresentam resistência a praticamente todos os antibióticos. Dessa forma,\nno organismo de um paciente, a população de uma espécie bacteriana patogênica pode ser constituída principalmente\npor bactérias sensíveis a antibióticos usuais e por um número reduzido de superbactérias que, por mutação ou\nintercâmbio de material genético, tornaram-se resistentes aos antibióticos existentes.\n\nFERREIRA, F. A.; CRUZ, R. S.; FIGUEIREDO, A. M. S. Superbactérias: o problema mundial da resistência a antibióticos. Ciência Hoje, n. 287, nov. 2011 (adaptado).\n\nQual figura representa o comportamento populacional das bactérias ao longo de uma semana de tratamento\ncom um antibiótico comum?\n\nII I - Bactérias sensíveis ao antibiótico",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/64/19b48a42-c9a1-4924-b97b-578b8209cbe0.png",
+        "https://enem.dev/2015-reaplicacao/questions/64/5e27877c-7114-4164-915b-64779a987be9.png",
+        "https://enem.dev/2015-reaplicacao/questions/64/86d1344e-e13b-4260-9f0d-d8e35844d00c.png",
+        "https://enem.dev/2015-reaplicacao/questions/64/b4b29ab4-bb06-4e98-9393-f8cb7596cf7a.png",
+        "https://enem.dev/2015-reaplicacao/questions/64/ba9b8463-9847-48ef-9341-027509ab34c7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "II - Bactérias resistentes ao antibiótico",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/64/19b48a42-c9a1-4924-b97b-578b8209cbe0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/64/5e27877c-7114-4164-915b-64779a987be9.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/64/86d1344e-e13b-4260-9f0d-d8e35844d00c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/64/b4b29ab4-bb06-4e98-9393-f8cb7596cf7a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/64/ba9b8463-9847-48ef-9341-027509ab34c7.png",
+            "isCorrect": false
+        }
+    ]
+}

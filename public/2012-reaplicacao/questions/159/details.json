@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2012 - Reaplicação",
+    "index": 159,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma prefeitura possui modelos de lixeira de forma\ncilíndrica, sem tampa, com raio medindo 10 cm e altura\nde 50 cm. Para fazer uma compra adicional, solicita à\nempresa fabricante um orçamento de novas lixeiras,\ncom a mesma forma e outras dimensões. A prefeitura\nsó irá adquirir as novas lixeiras se a capacidade de\ncada uma for no mínimo dez vezes maior que o modelo\natual e seu custo unitário não ultrapassar R$ 20,00.\nO custo de cada lixeira é proporcional à sua área total\ne o preço do material utilizado na sua fabricação é\nde R$ 0,20 para cada 100 cm². A empresa apresenta\num orçamento discriminando o custo unitário e as\ndimensões, com o raio sendo o triplo do anterior e a\naltura aumentada em 10 cm. (Aproxime π para 3.)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/159/71eb9d3c-d4ad-4a3c-9fab-0dd3215c7d28.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O orçamento dessa empresa é rejeitado pela prefeitura, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o custo de cada lixeira ficou em R$ 21,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o custo de cada lixeira ficou em R$ 27,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o custo de cada lixeira ficou em R$ 32,40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a capacidade de cada lixeira ficou 3 vezes maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/159/71eb9d3c-d4ad-4a3c-9fab-0dd3215c7d28.png",
+            "isCorrect": false
+        }
+    ]
+}

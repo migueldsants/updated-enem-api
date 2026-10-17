@@ -1,0 +1,46 @@
+{
+    "title": "Questão 100 - ENEM 2016 - Reaplicação",
+    "index": 100,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/100/d9494e2b-3cc1-4ce8-aea5-e3f8a939fea8.png)\n\n![](https://enem.dev/2016-reaplicacao/questions/100/beec1e55-9193-4a2f-b1df-6f191b017cdd.png)\n\nANDRADE, R. Disponível em: www.jornalcidade.com.br. Acesso em: 7 out. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/100/d9494e2b-3cc1-4ce8-aea5-e3f8a939fea8.png",
+        "https://enem.dev/2016-reaplicacao/questions/100/beec1e55-9193-4a2f-b1df-6f191b017cdd.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A charge aborda uma situação do cotidiano de\nalgumas famílias. Nesse sentido, ela tem o objetivo\ncomunicativo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "denunciar os prejuízos da falta de diálogo entre pais e filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mostrar as diferenças entre as preferências de entretenimento entre pais e filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "evidenciar os excessos de utilização das redes sociais em momentos de convivência familiar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "demonstrar que as mudanças culturais ocorridas na sociedade impõem novos comportamentos às famílias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "enfatizar que a socialização de informações sobre os filhos é uma forma de demonstrar orgulho de familiares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

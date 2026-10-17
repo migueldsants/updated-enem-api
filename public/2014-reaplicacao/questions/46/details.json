@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2014 - Reaplicação",
+    "index": 46,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Se por um lado a Revolução Industrial instituiu\num novo patamar de tecnologia e, com isso, uma\nmelhoria na qualidade de vida da população, por outro\nlado os resíduos decorrentes desse processo podem\nse acumular no ar, no solo e na água, causando\ndesequilíbrios no ambiente.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O acúmulo dos resíduos provenientes dos processos\nindustriais que utilizam combustíveis fósseis traz como\nconsequência o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eutrofização dos corpos-d’água, aumentando a produtividade dos sistemas aquáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "precipitação de chuvas ácidas, danificando florestas, ecossistemas aquáticos e construções.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "mudança na salinidade dos mares, provocando a mortalidade de peixes e demais seres aquáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acúmulo de detritos, causando entupimento de bueiros e alagamento das ruas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "presença de mosquitos, levando à disseminação de doenças bacterianas e virais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

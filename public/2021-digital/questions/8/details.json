@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2021 - Digital",
+    "index": 8,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O documentário O menino que fez um museu, direção de Sérgio Utsch, produção\nindependente de brasileiros e britânicos, gravado no Nordeste em 2016, mais\nprecisamente no distrito Dom Quintino, zona rural do Crato, foi premiado em Londres,\npela Foreign Press Association (FPA), a associação de correspondentes estrangeiros\nmais antiga do mundo, fundada em 1888.\n\nDe acordo com o diretor, O menino que fez um museu foi o único trabalho produzido\npor equipes fora do eixo Estados Unidos-Europa entre os finalistas. O documentário conta\na história de um Brasil profundo, desconhecido até mesmo por muitos brasileiros. É\napresentado com o carisma de Pedro Lucas Feitosa, 11 anos.\n\nQuando tinha 10 anos, Pedro Lucas criou o Museu de Luiz Gonzaga, que fica no\ndistrito de Dom Quintino. A ideia surgiu após uma visita que o garoto fez, em 2013,\nquando tinha 8 anos, ao Museu do Gonzagão, em Exu, Pernambuco. Pedro decidiu criar\no próprio lugar de exposição para homenagear o rei e o local escolhido foi a casa da sua\nbisavó já falecida, que fica ao lado da casa dele, na rua Alto de Antena.\n\nDisponível em: www.opovo.com.br. Acesso em: 18 abr. 2018.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No segundo parágrafo, uma citação afirma que o documentário “foi o único trabalho\nproduzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas”. No texto,\nesse recurso expressa uma estratégia argumentativa que reforça a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "originalidade da iniciativa de homenagem à vida e à obra de Luiz Gonzaga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "falta de concorrentes ao prêmio de uma das associações mais antigas do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "proeza da premiação de uma história ambientada no interior do Nordeste brasileiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "escassez de investimentos para a produção cinematográfica independente no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "importância da parceria entre brasileiros e britânicos para a realização das filmagens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

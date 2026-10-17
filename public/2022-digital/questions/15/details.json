@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2022 - Digital",
+    "index": 15,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022-digital/questions/15/94c662b2-5418-4d4d-9404-8c0516ae2171.png)\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+    "files": [
+        "https://enem.dev/2022-digital/questions/15/94c662b2-5418-4d4d-9404-8c0516ae2171.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de\noutro gênero com o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promover o uso adequado de campanhas publicitárias do governo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "divulgar o projeto sobre transparência da administração pública.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "responsabilizar o cidadão pelo controle dos gastos públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "delegar a gestão de projetos de lei ao contribuinte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "assegurar a fiscalização dos gastos públicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

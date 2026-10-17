@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 1,
+    "year": 2025,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025-belem/questions/1-espanhol/0a6c7641-47dd-48e4-8520-8178cd36931a.png)\n\nAcesso em: 24 jul. 2010.",
+    "files": [
+        "https://enem.dev/2025-belem/questions/1-espanhol/0a6c7641-47dd-48e4-8520-8178cd36931a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa tirinha evidencia uma crítica ao fato de a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "família ter deixado de participar dos eventos festivos na escola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "vida escolar ter deixado de ser prioridade para os responsáveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "tecnologia ter passado a impactar as decisões sobre a educação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "relação entre a escola e os responsáveis ter se tornado conflituosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "resolução de problemas escolares ter passado a se dar de forma virtual.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

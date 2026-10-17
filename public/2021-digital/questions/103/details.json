@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2021 - Digital",
+    "index": 103,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A icterícia, popularmente conhecida por amarelão, é uma patologia frequente em\nrecém-nascidos. Um bebê com icterícia não consegue metabolizar e excretar de forma\neficiente a bilirrubina. Com isso, o acúmulo dessa substância deixa-o com a pele\namarelada. A fototerapia é um tratamento da icterícia neonatal, que consiste na irradiação\nde luz no bebê. Na presença de luz, a bilirrubina é convertida no seu isômero lumirrubina\nque, por ser mais solúvel em água, é excretada pela bile ou pela urina. A imagem ilustra o\nque ocorre nesse tratamento.\n\nMOREIRA, M. et al. O recém-nascido de alto risco: teoria e prática do cuidar [on-line].\nRio de Janeiro: Fiocruz, 2004 (adaptado).\n\n![](https://enem.dev/2021-digital/questions/103/b291d42d-21de-4a34-a8f3-8666d2cfa899.png)\n\nWANG,J.et.al.Challenges of phototherapy for neonatal hyperbilirubinemia (Review).\nExperimental and Therapeutic Medicine, n. 21, 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2021-digital/questions/103/b291d42d-21de-4a34-a8f3-8666d2cfa899.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na fototerapia, a luz provoca a conversão da bilirrubina no seu isômero",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ótico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "funcional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de cadeia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "de posição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "geométrico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

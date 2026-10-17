@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 157,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em 2011, um tsunami atingiu os reatores da usina nuclear\nde Fukushima, no Japão, liberando radiação para o meio\nambiente e provocando um dos maiores acidentes radioativos\nda história. Inicialmente, foi delimitada uma área de isolamento\ncorrespondente a um círculo com raio de 30 km, centrado no\nlocal do acidente radioativo.\n\nDisponível em: https://noticias.uol.com.br.\nAcesso em: 24 abr. 2024 (adaptado).\n\nConsidere que, para aumentar a margem de segurança,\no raio do círculo da área de isolamento foi ampliado para 40 km,\nmantendo-se o mesmo centro.\n\nUse 3 como valor aproximado para π.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O aumento da medida da área de isolamento, em quilômetro\nquadrado, foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 100.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4 800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7 500.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "14 700.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

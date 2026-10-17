@@ -1,0 +1,46 @@
+{
+    "title": "Questão 161 - ENEM 2013 - Reaplicação",
+    "index": 161,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Existem hoje, no Brasil, cerca de 2 milhões de pessoas\n\nque sofrem de epilepsia. Há diversos meios de tratamento\n\npara a doença, como indicado no gráfico:\n\n![](https://enem.dev/2013-reaplicacao/questions/161/cd69c66c-f643-4186-8da5-40b6122df646.png)\n\nA doença em números\n\n2 milhões de brasileiros sofrem de epilepsia\n\nSó encontram Não conseguem se\nremissão com a livrar das crises —\nimplantação de os tratamentos\neletrodos no disponíveis apenas\ncérebro, de modo a minimizam os\nnormalizar os sintomas da\nimpulsos elétricos doença\n\n![](https://enem.dev/2013-reaplicacao/questions/161/0126a3f1-2cc9-45ba-abbe-bb65cf15c6b6.png)\n\nentre os neurônios 9%\n\n6%\n\nConseguem se\nCuram-se graças á recuperar com o\ncirurgia para a uso de\nretirada da porção medicamentos\ndoente do cérebro\n\n70%\n15%\n\nVeja, São Paulo, 18 abr. 2010 (adaptado).\n\nConsidere um estado do Brasil, onde 400 000 pessoas\n\nsofrem de epilepsia. Nesse caso, o número de pessoas\n\nque conseguem se recuperar com o uso de medicamentos,\n\nou se curar a partir da cirurgia para retirada da porção",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/161/cd69c66c-f643-4186-8da5-40b6122df646.png",
+        "https://enem.dev/2013-reaplicacao/questions/161/0126a3f1-2cc9-45ba-abbe-bb65cf15c6b6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "doente do cérebro, é aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "42 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "220 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "280 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "340 000.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

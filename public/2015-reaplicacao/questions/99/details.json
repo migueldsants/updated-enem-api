@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2015 - Reaplicação",
+    "index": 99,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Da timidez\n\nSer um tímido notório é uma contradição. O tímido tem\nhorror a ser notado, quanto mais a ser notório. Se ficou\nnotório por ser tímido, então tem que se explicar. Afinal,\nque retumbante timidez é essa, que atrai tanta atenção?\nSe ficou notório apesar de ser tímido, talvez estivesse se\nenganando junto com os outros e sua timidez seja apenas\num estratagema para ser notado. Tão secreto que nem\nele sabe. É como no paradoxo psicanalítico, só alguém\nque se acha muito superior procura o analista para tratar\num complexo de inferioridade, porque só ele acha que se\nsentir inferior é doença.\n\n[...]\nO tímido tenta se convencer de que só tem problemas\ncom multidões, mas isto não é vantagem. Para o tímido,\nduas pessoas são uma multidão. Quando não consegue\nescapar e se vê diante de uma plateia, o tímido não pensa\nnos membros da plateia como indivíduos. Multiplica-os\npor quatro, pois cada indivíduo tem dois olhos e dois\nouvidos. Quatro vias, portanto, para receber suas gafes.\nNão adianta pedir para a plateia fechar os olhos, ou tapar\num olho e um ouvido para cortar o desconforto do tímido\npela metade. Nada adianta. O tímido, em suma, é uma\npessoa convencida de que é o centro do Universo, e que\nseu vexame ainda será lembrado quando as estrelas\nvirarem pó.\n\nVERISSIMO, L. F. Comédias para se ler na escola. Rio de Janeiro: Objetiva, 2001.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Entre as estratégias de progressão textual presentes\nnesse trecho, identifica-se o emprego de elementos\nconectores. Os elementos que evidenciam noções\nsemelhantes estão destacados em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Se ficou notório por ser tímido” e “[...] então tem que se explicar”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“[...] então tem que se explicar” e “[...] quando as estrelas virarem pó”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“[...] ficou notório apesar de ser tímido [...]” e “[...] mas isto não é vantagem [...]”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "“[...] um estratagema para ser notado [...]” e “Tão secreto que nem ele sabe”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“[...] como no paradoxo psicanalítico [...]” e “[...] porque só ele acha [...]”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

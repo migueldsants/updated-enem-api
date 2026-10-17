@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2022 - Digital",
+    "index": 53,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O número cada vez maior de mulheres letradas e interessadas pela literatura e pelas\nnovelas, muitas divulgadas em capítulos, seções, classificadas comumente como\nfolhetim, alçou a um gênero de ficção corrente já em 1840, fazendo parte do florescimento\nda literatura nacional brasileira, instigando a formação e a ampliação de um público leitor\nfeminino, ávido por novidades, pelo apelo dos folhetins e “narrativas modernas” que\nencenavam “os dramas e os conflitos de uma mulher em processo de transformação\npatriarcal e provinciana que, progressivamente, começava a se abrir para modernizar\nseus costumes”. No Segundo Reinado, as mulheres foram se tornando público\ndeterminante na construção da literatura e da imprensa nacional. E não apenas público,\nporquanto crescerá o número de escritoras que colaboram para isso e emergirá uma\nimprensa feminina, editada, escrita e dirigida por e para mulheres.\n\nABRANTES, A. Do álbum de família à vitrine impressa: trajetos de retratos (PB, 1920),\nRevista Temas em Educação, n. 24, 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O registro das atividades descritas associa a inserção da figura feminina nos espaços de\nleitura e escrita do Segundo Reinado ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "surgimento de novas práticas culturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "contestação de antigos hábitos masculinos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valorização de recentes publicações juvenis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "circulação de variados manuais pedagógicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aparecimento de diversas editoras comerciais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

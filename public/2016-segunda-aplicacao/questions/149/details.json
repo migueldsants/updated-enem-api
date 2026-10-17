@@ -1,0 +1,46 @@
+{
+    "title": "Questão 149 - ENEM 2016 - Segunda aplicação",
+    "index": 149,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O proprietário de um restaurante deseja comprar um\ntampo de vidro retangular para a base de uma mesa,\ncomo ilustra a figura.\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/149/275cc317-493d-4d92-947e-3e05cee55d58.png)\n\n![](https://enem.dev/2016-segunda-aplicacao/questions/149/fd8637c1-dc0b-41a3-8cb7-7f49e102ee6a.png)\n\nSabe-se que a base da mesa, considerando a borda\nexterna, tem a forma de um retângulo, cujos lados medem\nAC = 105 cm e AB = 120 cm.\n\nNa loja onde será feita a compra do tampo, existem\ncinco tipos de opções de tampos, de diferentes dimensões,\ne todos com a mesma espessura, sendo:",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/149/275cc317-493d-4d92-947e-3e05cee55d58.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/149/fd8637c1-dc0b-41a3-8cb7-7f49e102ee6a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Tipo 1: 110 cm × 125 cm\nTipo 2: 115 cm × 125 cm\nTipo 3: 115 cm × 130 cm\nTipo 4: 120 cm × 130 cm\nTipo 5: 120 cm × 135 cm\nO proprietário avalia, para comodidade dos usuários,\nque se deve escolher o tampo de menor área possível\nque satisfaça a condição: ao colocar o tampo sobre a\nbase, de cada lado da borda externa da base da mesa,\ndeve sobrar uma região, correspondendo a uma moldura\nem vidro, limitada por um mínimo de 4 cm e máximo de\n8 cm fora da base da mesa, de cada lado.\nSegundo as condições anteriores, qual é o tipo de tampo\nde vidro que o proprietário avaliou que deve ser escolhido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

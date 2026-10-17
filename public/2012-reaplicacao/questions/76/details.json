@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2012 - Reaplicação",
+    "index": 76,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere a seguinte cadeia alimentar em um\nambiente marinho:\n\n![](https://enem.dev/2012-reaplicacao/questions/76/689e076e-3bb9-4051-a792-ea5d18a72e2c.png)\n\nImagine que nessa cadeia sejam introduzidas\náguas-vivas, que se alimentam dos copépodos\n(crustáceos planctônicos). Nessa área as águas-\nvivas não são alimentos para outros organismos. No\nmesmo período ocorre sobrepesca das populações\nde sardinhas.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/76/689e076e-3bb9-4051-a792-ea5d18a72e2c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Como consequência das interferências descritas na\ncadeia alimentar será observada diminuição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da população de copépodos em decorrência da diminuição do estoque de sardinhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da população de atuns em consequência da diminuição da população de sardinhas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "da quantidade de fitoplâncton devido à redução no estoque de copépodos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do estoque de copépodos em função do aumento da população de atuns.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da população de atuns pelo aumento da população de copépodos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

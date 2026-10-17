@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2012 - Reaplicação",
+    "index": 174,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja resolveu fazer uma promoção de um\ndeterminado produto que custava R$ 100,00 em fevereiro,\nda seguinte maneira: em março, ela deu um desconto de\n10% sobre o preço do produto em fevereiro; em abril, deu\nmais 10% de desconto sobre o preço do produto em março.\nTendo obtido uma venda substancial, a loja resolveu\naumentar o preço do produto da seguinte maneira: em\nmaio, a loja aumentou em 10% o preço de abril e, em\njunho, a loja aumentou em mais 10% o preço de maio.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/174/fc90ac91-4a2d-456a-bc81-eba77eff9192.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Desta forma, o preço deste produto, no final de junho, era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 100,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 99,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 98,01.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R$ 97,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/174/fc90ac91-4a2d-456a-bc81-eba77eff9192.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2014 - Terceira aplicação",
+    "index": 21,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Para o sociólogo Don Slater, as pessoas compram a\nversão mais cara de um produto não porque tem maior\nvalor de uso do que a versão mais barata, mas porque\nsignifica status e exclusividade; e, claro, esse status\nprovavelmente será indicado pela etiqueta de um designer\nou de uma loja de departamentos.\n\nBITTENCOURT, R. Sedução para o consumo. Revista Filosofia, n. 66, ano VI, dez. 2011.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os meios de comunicação, utilizados pelas empresas\ncomo forma de vender seus produtos, fazem parte do\ncotidiano social e têm por um de seus objetivos induzir as\npessoas a um a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vida livre de ideologias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pensamento reflexivo e crítico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consumo desprovido de modismos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "atitude consumista massificadora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "postura despreocupada com estilos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

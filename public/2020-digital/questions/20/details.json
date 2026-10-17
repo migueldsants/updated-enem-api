@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2020 - Digital",
+    "index": 20,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Qual a influência da comunicação nos fluxos migratórios?\n\nDenise Cogo, doutora em comunicação, discute a relação entre as tecnologias digitais e as migrações no\nmundo.\n\nPara a especialista, grande parte das representações e das experiências que conhecemos\ndos imigrantes chega pela mídia. “A mídia é mediadora das relações”, explica.\n\nO imigrante não é só um sujeito econômico, mas, explica Cogo, um sujeito sociocultural.\nPortanto, a comunicação integra a trajetória das migrações dentro de um processo histórico.\n“Desde o planejamento e o estudo das políticas migratórias para o país de destino até o\ncontato com amigos e familiares, o encontro dos fluxos migratórios com as tecnologias digitais\ntraz novas perspectivas para os sujeitos. Também se abre a possibilidade para que, com um\ncelular na mão, os próprios imigrantes possam narrar suas histórias, construindo novos\ncaminhos”, analisa.\n\nDisponível em: http://operamundi.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao trazer as novas perspectivas acionadas pelos sujeitos na escrita de suas histórias, o texto\napresenta uma visão positiva sobre a presença da(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "economia na formação cultural dos sujeitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "manifestações isoladas nos processos de migração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "narrações oficiais sobre os novos fluxos migratórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "abordagens midiáticas no tratamento das informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tecnologias digitais nas formas de construção da realidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

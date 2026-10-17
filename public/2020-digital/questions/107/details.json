@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2020 - Digital",
+    "index": 107,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma nova e revolucionária técnica foi\nmecanismo consiste em um sistema de reconhecimento do sítio onde haverá a mudança do\ngene combinado com um mecanismo de\nreconhecimento do local onde será realizada a edição, uma nuclease corta as duas fitas de\nDNA. Uma vez cortadas, mecanismos de reparação do genoma tendem a juntar as fitas\nnovamente, e nesse processo um pedaço de DNA pode ser removido, adicionado ou até\nmesmo trocado por outro pedaço de DNA.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse contexto, uma aplicação biotecnológica dessa técnica envolveria o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diagnóstico de doenças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "identificação de proteínas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "rearranjo de cromossomos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "modificação do código genético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "correção de distúrbios genéticos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

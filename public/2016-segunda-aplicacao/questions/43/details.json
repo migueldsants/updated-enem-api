@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2016 - Segunda aplicação",
+    "index": 43,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Durante as três últimas décadas, algumas regiões\ndo Centro-Sul do Brasil mudaram do ponto de vista da\norganização humana, dos espaços herdados da natureza,\nincorporando padrões que abafaram, por substituição\nparcial, anteriores estruturas sociais e econômicas.\nEssas mudanças ocorreram, principalmente, devido à\nimplantação de infraestruturas viárias e energéticas,\nalém da descoberta de impensadas vocações dos solos\nregionais para atividades agrárias rentáveis.\n\nAB’SABER, A. N. Os domínios de natureza no Brasil: potencialidades paisagísticas.\nSão Paulo: Ateliê Editorial, 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A transformação regional descrita está relacionada ao\nseguinte processo característico desse espaço rural:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão do mercado interno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Valorização do manejo familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exploração de espécies nativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Modernização de métodos produtivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Incorporação de mão de obra abundante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

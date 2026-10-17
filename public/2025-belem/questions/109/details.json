@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 109,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de cientistas desenvolveu um conjunto de\npartículas sólidas utilizadas para ativar o sistema de defesa\ndo nosso organismo. Durante a execução dos experimentos,\nobservou-se que essas partículas eram englobadas para o interior\ndas células através de projeções da membrana plasmática.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual processo de transporte está envolvido nesses experimentos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Clasmocitose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fagocitose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Pinocitose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Exocitose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apoptose.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

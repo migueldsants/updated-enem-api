@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2012 - Reaplicação",
+    "index": 151,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Alguns países têm regulamentos que obrigam a\nmisturar 5%, 10% ou 20% de etanol com a gasolina regular.\nEsta mistura recebe o nome de gasool. E20, por exemplo,\né o gasool que contém a mistura de 20% de etanol com\n80% de gasolina. Em agosto de 2011, o governo decidiu\nreduzir a mistura de etanol na gasolina de 25% para 20%,\nisto é, nossos postos de gasolina, a partir daquele mês,\nnão puderam mais vender o combustível do tipo E25.\n\nDisponível em: http://g1.globo.com (adaptado).",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/151/062ce194-567c-4f50-a001-c58b95bbbae6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma distribuidora possuía 40 mil litros de combustível\ndo tipo E25, disponíveis em um dos tanques de seu\nestoque antigo. Quantos litros de gasolina precisam ser\nadicionados de modo a obter uma mistura E20?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "32 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "8 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/151/062ce194-567c-4f50-a001-c58b95bbbae6.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2022 - Digital",
+    "index": 134,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima\ncatalase, foram realizados seis ensaios\nvariando-se apenas a temperatura. A\nhidrogênio (H O ),₂₂ produzindo água e oxigênio.\napresentados no quadro.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os diferentes resultados dos ensaios justificam-se pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "variação do pH do meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumento da energia de ativação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consumo da enzima durante o ensaio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminuição da concentração do substrato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "modificação da estrutura tridimensional da enzima.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

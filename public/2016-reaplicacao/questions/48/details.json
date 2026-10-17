@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2016 - Reaplicação",
+    "index": 48,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um navio petroleiro é capaz de transportar milhares\nde toneladas de carga. Neste caso, uma grande\nquantidade de massa consegue flutuar.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesta situação, o empuxo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "maior que a força peso do petroleiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "igual à força peso do petroleiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "maior que a força peso da água deslocada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "igual à força peso do volume submerso do navio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "igual à massa da água deslocada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

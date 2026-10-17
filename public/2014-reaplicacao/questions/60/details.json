@@ -1,0 +1,46 @@
+{
+    "title": "Questão 60 - ENEM 2014 - Reaplicação",
+    "index": 60,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Folhas de papel, como as utilizadas para a\nimpressão de documentos, são opacas e permeáveis\naos líquidos. Esse material é constituído de microfibras\nentrelaçadas de celulose, que são transparentes à\nluz. Quando sobre elas se derrama glicerina, elas se\ntornam translúcidas. Uma imagem da superfície de uma\nfolha de papel, ampliada por um microscópio eletrônico\nde varredura, pode ser vista na figura. No quadro é\napresentada a razão n entre a velocidade da luz no\nvácuo e no respectivo material (celulose, glicerina ou ar).\n\n![](https://enem.dev/2014-reaplicacao/questions/60/e3c75dd1-38d9-4a7d-b5ac-274061815823.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/60/6c5a9d22-a544-4f97-9814-7b21958367fa.png)\n\nglicerina 1,47\nar 1,00",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/60/e3c75dd1-38d9-4a7d-b5ac-274061815823.png",
+        "https://enem.dev/2014-reaplicacao/questions/60/6c5a9d22-a544-4f97-9814-7b21958367fa.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa situação, o papel se tornou translúcido porque a\nluz é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mais refletida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mais absorvida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mais espalhada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "menos refratada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "menos transmitida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2020 - Digital",
+    "index": 61,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O processo de modernização da agricultura brasileira resultou em profundas modificações\nnas relações sociais, no mundo do trabalho e da produção. Mas a modernização teve também\ncomo consequência, num modelo social perverso como o nosso, a permanência da\nconcentração da terra, o êxodo rural, aumentou o processo de assalariamento para o homem\nrural, concentrou capitais e gerou um processo de industrialização da agricultura, direcionada\npara atender às demandas do capital nacional e internacional.\n\nMENEZES NETO, A. J. Educação, sindicalismo e novas tecnologias nos processos sociais agrários. Disponível em:\n\nwww.senac.br. Acesso em: 10 fev. 2014.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse contexto, o processo apresentado revela contradições no espaço agrário brasileiro\ndecorrentes da expansão da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "produção familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reforma fundiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "lavoura comercial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pastagem extensiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "segurança alimentar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

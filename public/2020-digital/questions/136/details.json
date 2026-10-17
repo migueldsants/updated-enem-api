@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2020 - Digital",
+    "index": 136,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É comum as cooperativas venderem seus produtos a diversos estabelecimentos. Uma\ncooperativa láctea destinou 4 m de leite, do total produzido, para análise em um laboratório\nda região, separados igualmente em 4 000 embalagens de mesma capacidade.\nQual o volume de leite, em mililitro, contido em cada embalagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "100,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 000,0",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2015 - Reaplicação",
+    "index": 5,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A crescente conscientização sobre os efeitos do\nmodelo intensivo de produção, adotado de forma geral na\nagricultura, tem gerado também uma série de reações.\nDe fato, a agricultura está cada vez mais pressionada\npelo conjunto de relações que mantém com a sociedade\nem geral, sendo emergente o que comumente se\ndenomina “questão ambiental”. Essas relações, às\nvezes de dependência, às vezes de conflito, são as\nque determinam uma chamada ampla para mudanças\norientadas à sustentabilidade, não só da atividade\nagrícola em si, senão que afete de maneira geral a todo o\nentorno no qual a agricultura está inserida.\n\nGOMES, J. C. C. Desenvolvimento rural, transição de formatos tecnológicos, elaboração\nsocial da qualidade, interdisciplinaridade e participação. In: PORTO, V. H.; WIZNIEWSKY,\nC. R. F. ; SIMICH, T. (Org.). Agricultor familiar: sujeito de um novo método\nde pesquisa, o participativo. Pelotas: Embrapa, 2004.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No texto, faz-se referência a um tipo de pressão\nda sociedade contemporânea sobre a agricultura.\nEssa pressão objetiva a seguinte transformação na\natividade agrícola:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ampliação de políticas de financiamento voltadas para a produção de transgênicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Modernização do modo de produção focado na alta produtividade da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Expansão do agronegócio relacionado ao mercado consumidor externo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promoção de práticas destinadas à conservação de recursos naturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Inserção de modelos orientados ao uso intensivo de agroquímicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 9,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O trecho dessa crônica que reproduz uma marca linguística recorrente na oralidade de muitos brasileiros é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Eu o chamo de ‘velho pai’”. (l. 1)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“e te escrevi pra não esquecer”. (l. 11)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“a razão de ele e tantos outros estarmos desmemoriados”. (l. 13)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“uma proposta bem razoável para minorá-lo”. (l. 20-21)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“assistir a todas as séries, ler todos os livros”. (l. 23-24)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

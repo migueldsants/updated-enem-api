@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2016 - Reaplicação",
+    "index": 102,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Um menino aprende a ler\n\nMinha mãe sentava-se a coser e retinha-me de livro\nna mão, ao lado dela, ao pé da máquina de costura.\nO livro tinha numa página a figura de um bicho carcunda\nao lado da qual, em letras graúdas, destacava-se esta\npalavra: ESTÔMAGO. Depois de soletrar “es-to-ma-go”,\npronunciei “estomágo”. Eu havia pronunciado bem as\nduas primeiras palavras que li, camelo e dromedário.\nMas estômago, pronunciei estomágo. Minha mãe, bonita\ncomo só pode ser mãe jovem para filho pequeno, o rosto\nalvíssimo, os cabelos enrolados no pescoço, parou a\ncostura e me fitou de fazer medo: “Gilberto!”. Estremeci.\n“Estomágo? Leia de novo, soletre”. Soletrei, repeti:\n“Estomágo”. Foi o diabo.\n\nJamais tinha ouvido, ao que me lembrasse então, a\npalavra estômago. A cozinheira, o estribeiro, os criados,\nBernarda, diziam “estambo”. “Estou com uma dor na boca\ndo estambo...”, “Meu estambo está tinindo...”. Meus pais\nteriam pronunciado direito na minha presença, mas eu\nnão me lembrava. E criança, como o povo, sempre que\npode repele proparoxítono.\n\nAMADO, G. História da minha infância. Rio de Janeiro: José Olympio, 1958.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No trecho, em que o narrador relembra um episódio\nde sua infância, revela-se a possibilidade de a língua\nse realizar de formas diferentes. Com base no texto, a\npassagem em que se constata uma marca de variedade\nlinguística pouco prestigiada é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“O livro tinha numa página a figura de um bicho carcunda ao lado da qual, em letras graúdas, destacava-se esta palavra: ESTÔMAGO”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“‘Gilberto!’. Estremeci. ‘Estomágo? Leia de novo, soletre’. Soletrei, repeti: ‘Estomágo’”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Eu havia pronunciado bem as duas primeiras palavras que li, camelo e dromedário”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Jamais tinha ouvido, ao que me lembrasse então, a palavra estômago”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“A cozinheira, o estribeiro, os criados, Bernarda, diziam ‘estambo’”.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

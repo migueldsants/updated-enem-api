@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2021 - Digital",
+    "index": 37,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Comportamento geral\n\nVocê deve estampar sempre um ar de alegria\nE dizer: tudo tem melhorado\nVocê deve rezar pelo bem do patrão\nE esquecer que está desempregado\n\nVocê merece\nVocê merece\nTudo vai bem, tudo legal\nCerveja, samba, e amanhã, seu Zé\nSe acabarem com teu carnaval\n\nVocê deve aprender a baixar a cabeça\nE dizer sempre: muito obrigado\nSão palavras que ainda te deixam dizer\nPor ser homem bem disciplinado\n\nDeve pois só fazer pelo bem da nação\nTudo aquilo que for ordenado\nPra ganhar um fuscão no juízo final\nE diploma de bem-comportado\n\nGONZAGUINHA. Luiz Gonzaga Jr. Rio de Janeiro: Odeon, 1973 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pela análise do tema e dos procedimentos argumentativos utilizados na letra da canção\ncomposta por Gonzaguinha na década de 1970, infere-se o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ironizar a incorporação de ideias e atitudes conformistas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "convencer o público sobre a importância dos deveres cívicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "relacionar o discurso religioso à resolução de problemas sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "questionar o valor atribuído pela população às festas populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "defender uma postura coletiva indiferente aos valores dominantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

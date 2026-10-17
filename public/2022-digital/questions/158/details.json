@@ -1,0 +1,51 @@
+{
+    "title": "Questão 158 - ENEM 2022 - Digital",
+    "index": 158,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se\nencontra apresentada na Figura 1.\n\n![](https://enem.dev/2022-digital/questions/158/b1bff339-b40a-4cf1-8b3d-af8d4c090a09.png)\n\nFigura 1\n\nEm um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura,\nque ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum,\nconforme ilustrado na Figura 2.\n\n![](https://enem.dev/2022-digital/questions/158/1cf251fa-eb95-4adc-b011-577ad734f95f.png)",
+    "files": [
+        "https://enem.dev/2022-digital/questions/158/b1bff339-b40a-4cf1-8b3d-af8d4c090a09.png",
+        "https://enem.dev/2022-digital/questions/158/1cf251fa-eb95-4adc-b011-577ad734f95f.png",
+        "https://enem.dev/2022-digital/questions/158/b8f6899c-4cb0-4768-bcea-966c9941a05c.png",
+        "https://enem.dev/2022-digital/questions/158/54c99ea5-94a6-48f5-95d4-5b6f5591b6ea.png",
+        "https://enem.dev/2022-digital/questions/158/57e25853-6fc7-4741-83c3-a4f6ccece82f.png",
+        "https://enem.dev/2022-digital/questions/158/414766ad-5ad9-4de8-8e13-c77a858dc23c.png",
+        "https://enem.dev/2022-digital/questions/158/15518762-75e8-40e8-8a7f-21df83e63ebf.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na\nFigura 1, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/158/b8f6899c-4cb0-4768-bcea-966c9941a05c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/158/54c99ea5-94a6-48f5-95d4-5b6f5591b6ea.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/158/57e25853-6fc7-4741-83c3-a4f6ccece82f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/158/414766ad-5ad9-4de8-8e13-c77a858dc23c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/158/15518762-75e8-40e8-8a7f-21df83e63ebf.png",
+            "isCorrect": false
+        }
+    ]
+}

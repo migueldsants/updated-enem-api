@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2015 - Reaplicação",
+    "index": 15,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015-reaplicacao/questions/15/b7f8385a-2e76-4774-9d32-39a05cf8ac16.png)\n\nQUEIROZ FILHO, A. P.; BIASI, M. Técnicas de cartografia. In: VENTURI, L. A. B. (Org.). Geografia: práticas de campo, laboratório e sala de aula. São Paulo: Sarandi, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/15/b7f8385a-2e76-4774-9d32-39a05cf8ac16.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As figuras representam a distância real (D) entre duas residências e a distância proporcional (d) em uma representanção\ncartográfica, as quais permitem estabelecer relações espaciais entre o mapa e o terreno. Para a ilustração apresentada,\na escala numérica correta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/5 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/50 000.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1/80 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1/80 000 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

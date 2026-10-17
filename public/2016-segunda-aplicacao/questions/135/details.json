@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2016 - Segunda aplicação",
+    "index": 135,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "“Ela é muito diva!”, gritou a moça aos amigos, com uma\ncâmera na mão. Era a quinta edição da Campus Party, a\nfeira de internet que acontece anualmente em São Paulo,\nna última terça-feira, 7. A diva em questão era a cantora\nde tecnobrega Gaby Amarantos, a “Beyoncé do Pará”.\nSimpática, Gaby sorriu e posou pacientemente para todos\nos cliques. Pouco depois, o rapper Emicida, palestrante\nao lado da paraense e do também rapper MV Bill, viveria a\nmesma tietagem. Se cenas como essa hoje em dia fazem\nparte do cotidiano de Gaby e Emicida, ambos garantem\nque isso se deve à dimensão que suas carreiras tomaram\natravés da internet — o sucesso na rede era justamente\no assunto da palestra. Ambos vieram da periferia e são\nmarcados pela disponibilização gratuita ou a preços muito\nbaixos de seus discos, fenômeno que ampliou a audiência\npara além dos subúrbios paraenses e paulistanos. A dupla\naté já realizou uma apresentação em conjunto, no Beco\n203, casa de shows localizada no Baixo Augusta, em São\nPaulo, frequentada por um público de classe média alta.\n\nDisponível em: www.cartacapital.com.br. Acesso em: 28 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As ideias apresentadas no texto estruturam-se em torno\nde elementos que promovem o encadeamento das ideias\ne a progressão do tema abordado. A esse respeito,\nidentifica-se no texto em questão que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a expressão “pouco depois”, em “Pouco depois, o rapper Emicida”, indica permanência de estado de coisas no mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o vocábulo “também”, em “e também rapper MV Bill”, retoma coesivamente a expressão “o rapper Emicida”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o conectivo “se”, em “Se cenas como essa”, orienta o leitor para conclusões contrárias a uma ideia anteriormente apresentada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o pronome indefinido “isso”, em “isso se deve”, marca uma remissão a ideias do texto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as expressões “a cantora de tecnobrega Gaby Amarantos, a ‘Beyoncé do Pará'\", “ambos” e “a dupla” formam uma cadeia coesiva por retomarem as mesmas personalidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

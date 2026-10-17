@@ -1,0 +1,46 @@
+{
+    "title": "Questão 74 - ENEM 2014 - Terceira aplicação",
+    "index": 74,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O gráfico apresenta a precipitação mensal acumulada no município de São Carlos, SP, ao longo do ano de 2008,\ncontrastando com as médias mensais para o período de 1961 a 1990.\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/74/0569ee00-4ea8-4336-94fb-0c7ade9d46c9.png)\n\nPrecipitação (mm)\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/74/27350a9f-d6a6-4b30-a8cf-70c5f9b93c05.png)\n\nCHIBA, W.A.C. e col. Estudo sazonal da contaminação por metais na água e sedimentos em uma sub-bacia na região sudeste do Brasil. Brazilian Journal of Biology, nov. 2011.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/74/0569ee00-4ea8-4336-94fb-0c7ade9d46c9.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/74/27350a9f-d6a6-4b30-a8cf-70c5f9b93c05.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando-se que a produção de agentes poluentes tem se mantido constante desde 1961 e que o escoamento\npluvial seja a principal fonte de poluição dos rios da região, seria de se esperar que o volume de poluentes nos rios\ndurante a primavera setembro a dezembro de 2008 fosse",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "progressivamente menor a cada mês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "semelhante à média histórica no verão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acima da média de verão para o mesmo ano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "abaixo da média de inverno para o mesmo ano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "menor que a média histórica no mesmo período.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2012 - Reaplicação",
+    "index": 147,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um reservatório de uma cidade estava com 30 m³ de\nágua no momento em que iniciou um vazamento estimado\nem 30 litros por minuto. Depois de 20 minutos, a partir do\ninício do vazamento, uma equipe técnica chegou ao local\ne gastou exatamente 2 horas para consertar o sistema e\nparar o vazamento. O reservatório não foi reabastecido\ndurante todo o período que esteve com o vazamento.",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/147/c45f373e-a040-4b58-91fa-8ad854ae56bd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual foi o volume de água que sobrou no reservatório,\nem m³, no momento em que parou o vazamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25,8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "26,4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012-reaplicacao/questions/147/c45f373e-a040-4b58-91fa-8ad854ae56bd.png",
+            "isCorrect": false
+        }
+    ]
+}

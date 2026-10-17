@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2020 - Digital",
+    "index": 51,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os sofistas inventam a educação em ambiente artificial, o que se tornará uma das\ncaracterísticas de nossa civilização. Eles são os profissionais do ensino, antes de tudo\npedagogos, ainda que seja necessário reconhecer a notável originalidade de um Protágoras,\nde um Górgias ou de um Antifonte, por exemplo. Por um salário, eles ensinavam a seus alunos\nreceitas que lhes permitiam persuadir os ouvintes, defender, com a mesma habilidade, o pró e\no contra, conforme o entendimento de cada um.\n\nHADOT, P. O que é a filosofia antiga? São Paulo: Loyola, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto apresenta uma característica dos sofistas, mestres da oratória que defendiam a(o)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ideia do bem, demonstrado na mente com base na teoria da reminiscência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "relativismo, evidenciado na convencionalidade das instituições políticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ética, aprimorada pela educação de cada indivíduo com base na virtude.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ciência, comprovada empiricamente por meio de conceitos universais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "religião, revelada pelos mandamentos das leis divinas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

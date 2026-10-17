@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2020 - Digital",
+    "index": 178,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para sua festa de 17 anos, o aniversariante convidará 132 pessoas. Ele convidará 26\nmulheres a mais do que o número de homens. A empresa contratada para realizar a festa\ncobrará R$ 50,00 por convidado do sexo masculino e R$ 45,00 por convidado do sexo\nfeminino.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quanto esse aniversariante terá que pagar, em real, à empresa contratada, pela quantidade de\nhomens convidados para sua festa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 385,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 650,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3 300,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 950,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 300,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

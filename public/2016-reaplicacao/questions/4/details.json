@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2016 - Reaplicação",
+    "index": 4,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016-reaplicacao/questions/4/98f5e83f-a277-4d1a-88ff-558582131d3a.png)",
+    "files": [
+        "https://enem.dev/2016-reaplicacao/questions/4/98f5e83f-a277-4d1a-88ff-558582131d3a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A imagem retrata uma prática cultural brasileira cuja raiz\nhistórica está associada à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "liberdade religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "migração forçada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "devoção ecumênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "atividade missionária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mobilização política.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

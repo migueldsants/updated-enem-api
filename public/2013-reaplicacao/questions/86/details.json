@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2013 - Reaplicação",
+    "index": 86,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Mitocôndrias são organelas citoplasmáticas em\nque ocorrem etapas do processo de respiração celular.\nNesse processo, moléculas orgânicas são transformadas\ne, juntamente com o O₂, são produzidos CO₂ e H₂O,\nliberando energia, que é armazenada na célula na forma\nde ATP.\nNa espécie humana, o gameta masculino\n(espermatozoide) apresenta, em sua peça intermediária,\num conjunto de mitocôndrias, cuja função é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "facilitar a ruptura da membrana do ovócito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acelerar sua maturação durante a espermatogênese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "localizar a tuba uterina para fecundação do gameta feminino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumentar a produção de hormônios sexuais masculinos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fornecer energia para sua locomoção.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

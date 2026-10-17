@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2016 - Segunda aplicação",
+    "index": 63,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em Bangladesh, mais da metade dos poços artesianos\ncuja água serve à população local está contaminada com\narsênio proveniente de minerais naturais e de pesticidas.\nO arsênio apresenta efeitos tóxicos cumulativos. A ONU\ndesenvolveu um kit para tratamento dessa água a fim\nde torná-la segura para o consumo humano. O princípio\ndesse kit é a remoção do arsênio por meio de uma reação\nde precipitação com sais de ferro(III) que origina um\nsólido volumoso de textura gelatinosa.\n\nDisponível em: http://tc.iaea.org. Acesso em: 11 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com o uso desse kit, a população local pode remover o\nelemento tóxico por meio de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fervura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "filtração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "destilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "calcinação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evaporação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 114,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O estudo da relação entre a estrutura e a atividade biológica de substâncias é de fundamental importância no desenvolvimento\nde drogas para o combate a doenças. Pesquisadores avaliaram o potencial antiviral de algumas moléculas frente ao vírus\nSARS-CoV-2, considerando a capacidade de inibição das enzimas responsáveis pela síntese de proteínas no vírus. A interação\nentre o composto e o sítio ativo da enzima depende de fatores eletrônicos e estéricos, permitindo estabelecer uma relação\nentre a estrutura e a atividade antiviral. A maior atividade foi correlacionada a substituintes pouco volumosos e moderadamente\neletronegativos presentes no anel aromático da molécula do antiviral. Nesse estudo, foram modelados os cinco compostos\nhipotéticos apresentados a seguir.\n\nKNELLER, D. W. et al. Structural, Electronic and Electrostatic Determinants for lnhibitor Binding to Subsites S1 and S2 in SARS-CoV-2 Main Protease.\nDisponível em: https://doi.org/10.1021/acs.jmedchem.1c01475. Acesso em: 2 dez. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dentre os compostos modelados, qual deve apresentar a maior atividade antiviral?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

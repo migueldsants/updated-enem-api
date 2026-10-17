@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2014 - Terceira aplicação",
+    "index": 95,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Land of all peoples\nParaná has approximately 10 million inhabitants. It is the 6th most populous state, with 5.6% of the total Brazilian\npopulation and 38% of the population of the southern region. Its demographic density is 47.98 inhabitants per km².\n\nA melting pot of several ethnic groups, Paraná is known as the “land of all peoples”. The state has welcomed\nimmigrants from the most diverse parts of the world: Poles, Italians, Ukrainians, Japanese, Germans, Spaniards,\nDutchmen, Frenchmen, Syrians, Lebanese, Englishmen and Israelis.\n\nThey have contributed to the state’s social and cultural structure, substantially influencing its everyday language, its\noral and written literature, its religious celebrations, its cooking habits and many other social activities. To this day, that\nrich ethnic variety is carefully preserved and even developed further, giving Paraná a rather unique human typology.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "SECRETARIA DE ESTADO DA INDÚSTRIA, DO COMÉRCIO E ASSUNTOS DO MERCOSUL. Paraná, a state of\nopportunity.\nNo trecho extraído de um catálogo informativo sobre o Estado do Paraná, percebe-se que seus autores têm a\nintenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "enfatizar a diversidade cultural do estado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "apresentar a visão de culturas predominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "exemplificar a fragmentação de suas culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reforçar o valor de algumas culturas sobre outras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comparar a cultura do Paraná com a de outros estados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 6 - ENEM 2016 - Segunda aplicação",
+    "index": 6,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 1967, o geógrafo brasileiro Pedro Pinchas Geiger propôs uma divisão regional do país em regiões\ngeoeconômicas ou complexos regionais. Essa divisão baseia-se no processo histórico de formação do território\nbrasileiro, levando em conta, especialmente, os efeitos da industrialização. Dessa forma, busca-se refletir a realidade\ndo país e compreender seus mais profundos contrastes.",
+    "files": [
+        "https://enem.dev/2016-segunda-aplicacao/questions/6/f872d116-aa16-49de-a3c8-3cf49b2bf2ff.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/6/4398a7d4-41c1-49ce-8916-c2d828fbf103.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/6/b56e2f4b-df55-43a5-8da5-9f9e46442875.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/6/15c2c276-af25-43ee-a84d-fff998f601ce.png",
+        "https://enem.dev/2016-segunda-aplicacao/questions/6/0d7daa0c-0848-46bb-aad0-8089f0ef64b5.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A divisão em regiões geoeconômicas ou complexos regionais encontra-se na seguinte representação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/6/f872d116-aa16-49de-a3c8-3cf49b2bf2ff.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/6/4398a7d4-41c1-49ce-8916-c2d828fbf103.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/6/b56e2f4b-df55-43a5-8da5-9f9e46442875.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/6/15c2c276-af25-43ee-a84d-fff998f601ce.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016-segunda-aplicacao/questions/6/0d7daa0c-0848-46bb-aad0-8089f0ef64b5.png",
+            "isCorrect": false
+        }
+    ]
+}

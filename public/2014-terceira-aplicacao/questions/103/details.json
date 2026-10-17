@@ -1,0 +1,46 @@
+{
+    "title": "Questão 103 - ENEM 2014 - Terceira aplicação",
+    "index": 103,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Viagens, nossa paixão há 50 anos\n\nOrlando\n\nAéreo, 6 noites, traslados e seguro.\nSaídas 1/Maio a 20/Junho. A partir\nde (R$ 2.487) R$ 498 + 9 x R$ 221\n\nNew York\n\nAéreo, 5 noites, traslados privativos\ne seguro. Saídas aos sábados 7\na 28/Abril. A partir de (R$ 4.548)\nR$ 912 + 9 x R$ 404\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/103/10042c6b-05a1-42af-bec1-c2c42a992833.png)\n\nHawaii 4 Ilhas\n\n11 noites com café visitando - Oahu,\nKauai, Kona e Maui, colar de flores,\npasseios translados e seguro. Saídas\naté 30/Junho. A partir de (R$ 6.136)\nR$ 1.231+ 9 x R$ 545\n\nViagem e turismo, ed. 197, ano 18, mar. 2012 adaptado .\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/103/113044f2-b493-4550-b718-085a595f1db4.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/103/10042c6b-05a1-42af-bec1-c2c42a992833.png",
+        "https://enem.dev/2014-terceira-aplicacao/questions/103/113044f2-b493-4550-b718-085a595f1db4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O trecho em destaque “Consulte aéreo”, que aparece na\npublicidade sobre o Havaí, tem por objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "argumentar que os preços do trecho aéreo variam em função da data.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "incentivar os turistas para que pesquisem suas próprias passagens aéreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alertar que passagens aéreas não estão inclusas nesse roteiro de viagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "convencer os turistas a só comprarem passeios que tenham passagens aéreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recomendar que os turistas adquiram passagens aéreas em outra companhia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

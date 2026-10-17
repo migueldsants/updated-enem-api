@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2014 - Terceira aplicação",
+    "index": 72,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Meios de cultura são utilizados como fontes de\nnutrientes para o crescimento de microrganismos em\nlaboratórios. Pesquisadores brasileiros avaliaram a\nviabilidade da produção de ácido lático pela bactéria\nLeuconostoc mesenteroides B512F, utilizando na\ncomposição do meio de cultura um substrato à base\nde material obtido do aproveitamento de excedentes\nda agroindústria tropical local de caju. Os resultados\nobtidos mostraram que o meio de cultura enriquecido\ncom xarope de caju propiciou um crescimento adequado\ndesta bactéria.\n\nGUILHERME. A.A.; PINTO, G.A.S.; RODRIGUES, S. Avaliação da produção\nde ácido lático por Leuconostoc mesenteroides B512F em xarope de caju.\nCiência Tecnologia de Alimentos, 29 4 , 2009 adaptado .",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/72/0ab9c413-7728-4178-b06e-962e30e24435.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O carboidrato presente no xarope de caju que auxiliou no\ncrescimento desta bactéria foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "celulose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "glicose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "maltose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "lactose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-terceira-aplicacao/questions/72/0ab9c413-7728-4178-b06e-962e30e24435.png",
+            "isCorrect": false
+        }
+    ]
+}

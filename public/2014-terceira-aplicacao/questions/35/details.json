@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2014 - Terceira aplicação",
+    "index": 35,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Pequeno no porte, magro e sóbrio de músculos;\ntaciturno e desajeitado em descanso, intrépido e vibrátil\nquando solicitado para a ação, é o vaqueiro do Nordeste\num tipo característico do meio em que habita. Povoa o\nSertão nordestino, peneplano de rochas cristalinas,\nterra atormentada ora pelas secas causticantes, ora\npelas chuvas torrenciais. Porco-do-mato, ema, tapir,\nsuçuarana, eis algumas espécies de sua fauna bravia. E\né neste cenário que nasce, se agita e morre o vaqueiro\nnordestino — o mais bravio dos filhos do Sertão. O seu\ntipo étnico provém do contato do branco colonizador com\no gentio, durante a penetração do gado nos sertões do\nNordeste. Por razões econômicas e históricas adaptou-se\nà atividade criatória.\n\nLAU, P. Tipos e aspectos do Brasil. São Paulo:\nInep/MEC/Revista dos Tribunais, 1960.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O contexto natural imediato do típico vaqueiro mencionado\né caracterizado pelo domínio da vegetação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mista de transição, um ambiente com clima mais ameno e áreas com relevo elevado, como o Planalto da Borborema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tipo mosaico, com aspecto subarbustivo, arbustivo e presença de gramíneas, em sua maioria desenvolvida em solos profundos e ácidos, com pastos naturais nos campos limpos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "latifoliada, em sua maioria em solos de massapé, profundos, acinzentados, e de alta fertilidade, e dominada por latifúndios seculares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "esparsada de cocais, como as palmáceas, os babaçuais e os carnaubais, em solos férteis, em parte derivados das rochas básicas, e amplos terrenos recobertos de gramíneas nativas, formando pastos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "xerófita com algumas espécies de cactáceas, bromeliáceas e palmáceas, em sua maioria em solos rasos, arenosos e salinos, de clima tropical semiárido.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

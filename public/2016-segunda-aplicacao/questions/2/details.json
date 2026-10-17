@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2016 - Segunda aplicação",
+    "index": 2,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A característica fundamental é que ele não é mais\nsomente um agricultor ou um pecuarista: ele combina\natividades agropecuárias com outras atividades não\nagrícolas dentro ou fora de seu estabelecimento, tanto\nnos ramos tradicionais urbano-industriais como nas\nnovas atividades que vêm se desenvolvendo no meio\nrural, como lazer, turismo, conservação da natureza,\nmoradia e prestação de serviços pessoais.\n\nSILVA, J. G. O novo rural brasileiro. Revista Nova Economia, n. 1, maio 1997 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa nova forma de organização social do trabalho é\ndenominada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "terceirização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pluriatividade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "agronegócio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cooperativismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "associativismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

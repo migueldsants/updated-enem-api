@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2016 - Segunda aplicação",
+    "index": 45,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando surgiram as primeiras notícias sobre a\npresença de seres estranhos, chegados em barcos\ngrandes como montanhas, que montavam numa espécie\nde veados enormes, tinham cães grandes e ferozes e\npossuíam instrumentos lançadores de fogo, Montezuma\ne seus conselheiros ficaram pensando: de um lado, talvez\nQuetzalcóatl houvesse regressado, mas, de outro, não\ntinham essa confirmação.\n\nPINSKY, J. et. al. História da América através de textos. São Paulo: Contexto, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A dúvida apresentada inseria-se no contexto da chegada\ndos primeiros europeus à América, e sua origem estava\nrelacionada ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "domínio da religião e do mito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "exercício do poder e da política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "controle da guerra e da conquista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nascimento da filosofia e da razão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desenvolvimento da ciência e da técnica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

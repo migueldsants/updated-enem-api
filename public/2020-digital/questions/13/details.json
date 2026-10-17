@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2020 - Digital",
+    "index": 13,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os cuidados com o corpo vão se tornando uma exigência na modernidade e implicam a\nconvergência de uma série de elementos: as tecnologias, para tanto, vão se desenvolvendo de\nmaneira acelerada; o mercado dos produtos e serviços voltados para o corpo vai se\nexpandindo; a higiene que fundamentava esses cuidados vai sendo substituída pelos prazeres\ndo “corpo”, implicação lógica do processo de secularização, no qual há a identificação da\npersonalidade dos indivíduos com sua aparência. Por todas essas circunstâncias, o cuidado\ncom o corpo transforma-se numa ditadura do corpo, um corpo que corresponda à expectativa\ndesse tempo, um corpo que seja trabalhado arduamente e do qual os vestígios de naturalidade\nsejam eliminados.\n\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da gestação de um novo arquétipo da felicidade. Campinas:\nAutores Associados; Florianópolis: UFSC, 2001.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O fenômeno social identificado, em relação à presença do corpo na sociedade, indica que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as tecnologias, o mercado dos produtos e serviços e a higiene criaram uma ditadura do corpo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "os cuidados com o corpo na modernidade reforçam a naturalidade da personalidade do indivíduo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a expansão das tecnologias de cuidado reduz o impacto desempenhado pelos padrões estéticos na construção da imagem corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o enfraquecimento atual dos padrões de beleza favorece o crescimento do mercado de produtos e serviços voltados aos cuidados estéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os padrões estéticos desempenham uma importante função social à medida que induzem à melhoria dos indicadores de saúde na população.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

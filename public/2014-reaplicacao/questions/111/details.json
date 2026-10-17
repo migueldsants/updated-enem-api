@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2014 - Reaplicação",
+    "index": 111,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A leitura nos tempos do e-book\n\nNão é só nas bibliotecas e livrarias que se encerra\no conhecimento. A internet, por meio de seu infinito\nconteúdo, e através de sites como Domínio Público e\nmuitos outros similares, demonstra as transformações\nocorridas na disponibilização de obras literárias ou\nde todas as outras áreas. Sites, como o citado acima,\ncontêm arquivos com textos digitalizados dos mais\nvariados autores, dos clássicos aos contemporâneos.\nAntes, esse conteúdo todo só seria passível de consulta\nem suporte material. O suporte virtual, também conhecido\ncomo e-book, é, digamos, semimaterial, pois nos põe em\ncontato com o texto através do computador, mas não nos\npõe o livro nas mãos, a não ser que queiramos imprimir\no texto digital.\n\nNossa geração passa por um período de transição\nlento que transformará profundamente o hábito da leitura.\nParadoxalmente, a alta velocidade com que se proliferam\nas informações faz com que também seja aumentada a\nnossa velocidade de captação dessas informações, ou\nseja, aos poucos e de modo geral a leitura vai ficando\ncada vez mais fragmentada. Isso já apresenta reflexos\nno modo como lemos os diversos textos contidos em\nrevistas, jornais ou internet, e igualmente na produção\nliterária contemporânea.\n\nDisponível em: www.tecnosapiens.com.br. Acesso em: 28 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A criação dos e-books oferece vantagens e facilidades\npara a leitura. No texto, ressalta-se a influência desse\nmeio virtual, sobretudo no contexto atual, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as livrarias e bibliotecas estão se tornando lugares pouco atrativos para os leitores, uma vez que os livros impressos estão em desuso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a semimaterialidade dos e-books garante maior interação entre o leitor e o texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os e-books possibilitam maior difusão da leitura, tendo em vista a velocidade e a dinamicidade da informação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "as obras clássicas e contemporâneas ficaram gratuitas, devido às digitalizações propiciadas com o surgimento da internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a velocidade de proliferação e captação de informações transforma a leitura fragmentada em uma solução para o acesso às obras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

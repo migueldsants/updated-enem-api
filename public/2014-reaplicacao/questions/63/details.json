@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2014 - Reaplicação",
+    "index": 63,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um caso de anemia, a quantidade de sulfato\nde ferro II FeSO₄, massa molar igual a 152 g/mol\nrecomendada como suplemento de ferro foi de 300 mg/dia.\nAcima desse valor, a mucosa intestinal atua como barreira,\nimpedindo a absorção de ferro. Foram analisados cinco\nfrascos de suplemento, contendo solução aquosa de\nFeSO₄, cujos resultados encontram-se no quadro.\n\n![](https://enem.dev/2014-reaplicacao/questions/63/2f934ee6-74c4-413e-95bd-d27741a943c2.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/63/2f934ee6-74c4-413e-95bd-d27741a943c2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se for ingerida uma colher 10 mL por dia do medicamento\npara anemia, a amostra que conterá a concentração de\nsulfato de ferro II mais próxima da recomendada é a do\nfrasco de número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

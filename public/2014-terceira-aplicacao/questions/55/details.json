@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2014 - Terceira aplicação",
+    "index": 55,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A baunilha é uma espécie de orquídea. A partir de\nsua flor, é produzida a vanilina conforme representação\nquímica , que dá origem ao aroma de baunilha.\n\nl`e_P\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/55/919f6e0d-48f8-4bb4-9bb9-24ca35600840.png)",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/55/919f6e0d-48f8-4bb4-9bb9-24ca35600840.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na vanilina estão presentes as funções orgânicas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aldeído, éter e fenol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "álcool, aldeído e éter.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "álcool, cetona e fenol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aldeído, cetona e fenol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ácido carboxílico, aldeído e éter.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

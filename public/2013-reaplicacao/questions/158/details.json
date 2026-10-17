@@ -1,0 +1,48 @@
+{
+    "title": "Questão 158 - ENEM 2013 - Reaplicação",
+    "index": 158,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O proprietário de um terreno retangular medindo 10 m\npor 31,5 m deseja instalar lâmpadas nos pontos C e D,\nconforme ilustrado na figura:\n\nD B\n\n![](https://enem.dev/2013-reaplicacao/questions/158/fb0dd506-b3b0-47c3-a603-b50977cee889.png)\n\n10 m\n\nA C\n31,5 m\n\n![](https://enem.dev/2013-reaplicacao/questions/158/cb16f49e-ea03-438e-9071-d3f49ff28d28.png)\n\n![](https://enem.dev/2013-reaplicacao/questions/158/e06f9727-568c-47e2-a50f-38224d283689.png)",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/158/fb0dd506-b3b0-47c3-a603-b50977cee889.png",
+        "https://enem.dev/2013-reaplicacao/questions/158/cb16f49e-ea03-438e-9071-d3f49ff28d28.png",
+        "https://enem.dev/2013-reaplicacao/questions/158/e06f9727-568c-47e2-a50f-38224d283689.png",
+        "https://enem.dev/2013-reaplicacao/questions/158/e6c1dfbf-7c4e-4bc5-9af7-021b14d856f9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "34.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "61.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/158/e6c1dfbf-7c4e-4bc5-9af7-021b14d856f9.png",
+            "isCorrect": false
+        }
+    ]
+}

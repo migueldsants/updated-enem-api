@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2012 - Reaplicação",
+    "index": 173,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma família deseja realizar um jantar comemorativo\nde um casamento e dispõe para isso de um salão de festas\nde um clube, onde a área disponível para acomodação\ndas mesas é de 500 m². As 100 mesas existentes no\nsalão encontram-se normalmente agrupadas duas a\nduas, comportando 6 cadeiras. A área de cada mesa é\nde 1 m² e o espaço necessário em torno deste agrupamento,\npara acomodação das cadeiras e para circulação, é de 6 m².\nAs mesas podem ser dispostas de maneira isolada,\ncomportando 4 pessoas cada. Nessa situação, o espaço\nnecessário para acomodação das cadeiras e para\ncirculação é de 4 m². O número de convidados previsto\npara o evento é de 400 pessoas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para poder acomodar todos os convidados sentados,\ncom as mesas existentes e dentro da área disponível para\nacomodação das mesas e cadeiras, como deverão ser\norganizadas as mesas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Todas deverão ser separadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Todas mantidas no agrupamento original de duas mesas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um terço das mesas separadas e dois terços agrupadas duas a duas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Um quarto das mesas separadas e o restante em agrupamento de duas a duas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sessenta por cento das mesas separadas e quarenta por cento agrupadas duas a duas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

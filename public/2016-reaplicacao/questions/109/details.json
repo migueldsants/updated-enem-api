@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2016 - Reaplicação",
+    "index": 109,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Parestesia não, formigamento\n\nTrinta e três regras que mudam a redação\nde bulas no Brasil\n\nCom o Projeto Bulas, de 2004, voltado para a tradução\ndo jargão farmacêutico para a língua portuguesa – aquela\nfalada em todo o Brasil – e a regulamentação do uso\nde medicamentos no país, cinco anos depois, o Brasil\ncomeçou a sair das trevas.\n\nO grupo comandado por uma doutora em Linguística da\nUFRJ sugeriu à Anvisa mudar tudo. Elaborou, também,\n“A redação de bulas para o paciente: um guia com os\nprincípios de redação clara, concisa e acessível para o\nleitor de bulas”, disponível em versão adaptada no site\nda Anvisa. Diferentemente do que acontece com outros\ngêneros, na bula não há espaço para inovações de estilo.\n“O uso de fórmulas repetitivas é bem-vindo, dá força\ninstitucional ao texto”, explica a doutora. “A bula não pode\nabrir possibilidades de interpretações ao seu leitor”.\n\nSe obedecidas, as 33 regras do guia são de serventia\ngenérica – quem lida com qualquer tipo de escrita pode\nse beneficiar de seus ensinamentos. A regra 12, por\nexemplo, manda abolir a linguagem técnica, fonte de\npossível constrangimento para quem não a compreende,\ne recomenda: “Não irrite o leitor.” A regra 14 prega um tom\ncordial, educado e, sobretudo, conciso: “Não faça o leitor\nperder tempo”.\n\nDisponível em: revistapiaui.estadao.com.br. Acesso em: 24 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As bulas de remédio têm caráter instrucional e\ncomplementam as orientações médicas. No contexto de\nmudanças apresentado, a principal característica que\nmarca sua nova linguagem é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "possibilidade de inclusão de neologismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "refinamento da linguagem farmacêutica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "adequação ao leitor não especializado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "detalhamento de informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "informalidade do registro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

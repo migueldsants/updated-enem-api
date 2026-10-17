@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2016 - Segunda aplicação",
+    "index": 125,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A perda de massa muscular é comum com a\nidade, porém, é na faixa dos 60 anos que ela se torna\nclinicamente perceptível e suas consequências começam\na incomodar no dia a dia, quando simples atos de subir\nescadas ou ir à padaria se tornam sacrifícios. Esse\nprocesso tem nome: sarcopenia. Essa condição ocasiona\na perda da força e qualidade dos músculos e tem um\nimpacto significante na saúde.\n\nDisponível em: www.infoescola.com. Acesso em: 19 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A sarcopenia é inerente ao envelhecimento, mas seu\nquadro e consequentes danos podem ser retardados\ncom a prática de exercícios físicos, cujos resultados mais\nrápidos são alcançados com o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hidroginástica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alongamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "musculação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "corrida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dança.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

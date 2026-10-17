@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2016 - Reaplicação",
+    "index": 93,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "On the Meaning of Being Chinese\n\nEthnically speaking, I feel I am complicated to classify,\nbut who isn’t, right? To me, being Chinese-Brazilian\nin America means a history of living in three opposite\ncultures, and sometimes feeling that I did not belong in\nneither, a constant struggle that immigrants, and national\ncitizens, face when their appearance is foreign to natives\nin the country. Jokingly, I say that I am Asian in America,\nBrazilian in China, and a “gringa” in Brazil. Nevertheless,\nI believe that dealing with these hard to reconcile extremes\nhave somehow helped me to become more comfortable\nwith my identity.\n\nBELEZA LI. Disponível em: www.aiisf.org. Acesso em: 28 mar. 2014.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse fragmento, Beleza Li resume sua experiência de\nvida ao descrever a complexidade em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "viver como imigrante em um país asiático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "definir quem ela é no que concerne à etnia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "compreender as culturas que a constituem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "lidar com brincadeiras sobre sua aparência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "lutar contra a discriminação nos Estados Unidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

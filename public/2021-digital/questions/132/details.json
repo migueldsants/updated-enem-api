@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2021 - Digital",
+    "index": 132,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante o desenvolvimento embrionário humano ocorre uma comunicação entre os\nátrios direito e esquerdo através do forame oval (ou forame de Botal). Essa comunicação\nnão causa prejuízos à circulação do bebê em formação, exceto se ela perdurar após o\nnascimento.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os prejuízos no período embrionário são evitados porque a circulação fetal se assemelha\nà dos(as)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aves, porque a pequena circulação e a grande circulação estão presentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "répteis, porque a mistura de sangue é minimizada por um metabolismo lento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

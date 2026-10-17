@@ -1,0 +1,46 @@
+{
+    "title": "Questão 167 - ENEM 2014 - Reaplicação",
+    "index": 167,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para as pessoas que não gostam de correr grandes\nriscos no mercado financeiro, a aplicação em caderneta\nde poupança é indicada, pois, conforme a tabela\n(período 2005 até 2011), a rentabilidade apresentou\n\n![](https://enem.dev/2014-reaplicacao/questions/167/cf7dec18-c88c-418e-9bf1-7f6595fa455c.png)\n\n![](https://enem.dev/2014-reaplicacao/questions/167/499a73b0-1f18-4245-a942-13ee3eae97ea.png)",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/167/cf7dec18-c88c-418e-9bf1-7f6595fa455c.png",
+        "https://enem.dev/2014-reaplicacao/questions/167/499a73b0-1f18-4245-a942-13ee3eae97ea.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nos dados da tabela, a mediana dos percentuais\nde rentabilidade, no período observado, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6,8.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

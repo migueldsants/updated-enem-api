@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2013 - Reaplicação",
+    "index": 7,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\nO aparecimento da máquina movida a vapor foi\no nascimento do sistema fabril em grande escala,\nrepresentando um aumento tremendo na produção,\nabrindo caminho na direção dos lucros, resultado do\naumento da procura. Eram forças abrindo um novo mundo.\n\nHUBERMAN, L. História da riqueza do homem. Rio de Janeiro: Zahar, 1974 (adaptado).\n\nTEXTO II\n\nOs edifícios das fábricas adaptavam-se mal à\nconcentração de numerosa mão de obra, reunida\npara longos dias de trabalho, numa situação árdua e\ninsalubre. O trabalho nas fábricas destruiu o sistema\ndoméstico de produção. Homens, mulheres e crianças\ndeixavam os lugares onde moravam para trabalhar em\ndiferentes fábricas.\n\nLEITE, M. M. Iniciação à história social contemporânea.\nSão Paulo: Cultrix,1980 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As estratégias empregadas pelos textos para abordar o\nimpacto da Revolução Industrial sobre as sociedades que\nse industrializavam são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ressaltar a expansão tecnológica e deter-se no trabalho doméstico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acentuar as inovações tecnológicas e priorizar as mudanças no mundo do trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "debater as consequências sociais e valorizar a reorganização do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "indicar os ganhos sociais e realçar as perdas culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "minimizar as transformações sociais e criticar os avanços tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

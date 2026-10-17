@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2014 - Terceira aplicação",
+    "index": 4,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Desde a sua criação, em 1949, a Organização do\nTratado do Atlântico Norte OTAN tem revisto regularmente\nas suas tarefas e objetivos, tendo em vista a evolução do\nambiente estratégico mundial. Nestes 62 anos de história,\ntanto a Aliança quanto o resto do mundo sofreram\nmudanças que os fundadores da OTAN não poderiam\nter previsto.\n\nDisponível em: www.ri.pucminas.br. Acesso em : 26 de jan. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Diante das transformações ocorridas no cenário\ngeopolítico mundial, a legitimidade dessa organização\nenfraqueceu-se, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "passou a se dedicar à luta contra as organizações terroristas internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "direcionou seus esforços para os conflitos em países e regiões do hemisfério sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "perdeu parte de seus alvos e funções iniciais com a derrocada do bloco socialista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "insistiu na manutenção de bases militares em áreas pacificadas desde o fim da Guerra Fria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desviou suas atividades para a resolução de conflitos civis no âmbito dos países membros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

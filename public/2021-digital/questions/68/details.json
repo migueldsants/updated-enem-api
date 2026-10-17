@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2021 - Digital",
+    "index": 68,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O protagonismo indígena vem optando por uma estratégia de “des-invisibilização”,\nvalendo-se da dinâmica das novas tecnologias. Em outubro de 2012, após receberem\numa liminar lhes negando o direito a permanecer em suas terras, os Guarani de Pyelito\nKue divulgaram uma carta na qual se dispunham a morrer, mas não a sair de suas terras.\nEsse fato foi amplamente divulgado, gerando uma grande mobilização na internet, que\nlevou milhares de pessoas a escolherem seu lado, divulgando a hashtag\n“#somostodosGuarani-Kaiowá” ou acrescentando o sobrenome Guarani-Kaiowá a seus\nnomes nos perfis das principais redes sociais.\n\nCAPIBERIBE, A.; BONILLA, O. A ocupação do Congresso: contra o que\nlutam os índios? Estudos Avançados, n. 83, 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A estratégia comunicativa adotada pelos indígenas, no contexto em pauta, teve por efeito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "enfraquecer as formas de militância política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "abalar a identidade de povos tradicionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inserir as comunidades no mercado global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "distanciar os grupos de culturas locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "angariar o apoio de segmentos étnicos externos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

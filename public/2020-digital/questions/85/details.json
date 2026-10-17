@@ -1,0 +1,43 @@
+{
+    "title": "Questão 85 - ENEM 2020 - Digital",
+    "index": 85,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Num mundo como o nosso, por um lado marcado pela fluidez do espaço, as questões\nligadas à circulação se tornam ainda mais relevantes e, com elas, a situação de um dos\ncomponentes mais emblemáticos dos territórios: seus limites. E é aí que surge um dos\ngrandes paradoxos da geografia contemporânea: ao lado da fluidez globalizada aparecem\ntambém os fechamentos, as tentativas de controle da circulação de pessoas.\n\nHAESBAERT, R. Da multiterritorialidade aos novos muros: paradoxos da desterritorialização contemporânea.\nDisponível em: www.posgeo.uff.br. Acesso em: 2 jan. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto aborda um paradoxo marcante do mundo contemporâneo, que consiste na oposição\nentre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "blocos supranacionais e ineficiência do transporte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "livre mercado e construção de barreiras fronteiriças.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "tecnologias da informação e desemprego estrutural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desconcentração industrial e concentração de capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "redução da pobreza e aumento da desigualdade social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

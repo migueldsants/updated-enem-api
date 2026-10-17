@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2014 - Terceira aplicação",
+    "index": 33,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O modo como cada sociedade se organizou\ndeterminou a intensidade dos impactos ambientais. Nessa\nlonga e grande história dos seres humanos neste planeta,\no mundo cresceu em termos de produção, consumo e\ndegradação ambiental, e também em desigualdades\nsociais e impactos sobre os sistemas de suporte à vida.\n\nFREITAS, C. M. Um equilíbrio delicado: crise ambiental e a saúde no planeta.\nRio de Janeiro: Garamond, 2011 adaptado .",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto apresenta contradições inerentes aos sistemas de\norganização da vida social, que são causadas pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dependência da natureza em relação às atividades humanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "necessidade de crescimento econômico e preservação ambiental.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "dissociação entre a sociedade e as outras formas de vida da Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produção de matéria-prima e consumo de produtos industrializados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incompatibilidade entre as formas de vida e a realidade física do planeta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

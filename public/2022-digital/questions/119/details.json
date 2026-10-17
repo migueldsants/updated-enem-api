@@ -1,0 +1,50 @@
+{
+    "title": "Questão 119 - ENEM 2022 - Digital",
+    "index": 119,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.\n\n![](https://enem.dev/2022-digital/questions/119/31a966bc-a8fd-4016-8014-6a0e915abf10.png)\n\nA corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão\naplicada e da resistência elétrica média do corpo humano. Esse último fator está\nintimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica\nda ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ.\n\nApesar de incomum, é possível sofrer um acidente utilizando baterias de 12 V.\nConsidere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar\nsimultaneamente nos pontos A e B de uma associação de duas dessas baterias.\n\nDURAN, J. E. R. Biofísica: fundamentos e aplicações. São Paulo: Pearson Prentice Hall, 2003 (adaptado).",
+    "files": [
+        "https://enem.dev/2022-digital/questions/119/31a966bc-a8fd-4016-8014-6a0e915abf10.png",
+        "https://enem.dev/2022-digital/questions/119/b86a3eeb-7ae9-4a01-83a8-3502be7a0b42.png",
+        "https://enem.dev/2022-digital/questions/119/c39081f1-fc83-4c34-ae78-d0bed0b4f2b4.png",
+        "https://enem.dev/2022-digital/questions/119/8cdb4c7b-6bfb-48ca-a473-8c3f024a19bf.png",
+        "https://enem.dev/2022-digital/questions/119/9eb8fab0-430a-4139-997d-216354661f28.png",
+        "https://enem.dev/2022-digital/questions/119/7500a188-f188-4629-a73a-80d9fcf21769.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual associação de baterias foi responsável pelo acidente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/119/b86a3eeb-7ae9-4a01-83a8-3502be7a0b42.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/119/c39081f1-fc83-4c34-ae78-d0bed0b4f2b4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/119/8cdb4c7b-6bfb-48ca-a473-8c3f024a19bf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/119/9eb8fab0-430a-4139-997d-216354661f28.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022-digital/questions/119/7500a188-f188-4629-a73a-80d9fcf21769.png",
+            "isCorrect": false
+        }
+    ]
+}

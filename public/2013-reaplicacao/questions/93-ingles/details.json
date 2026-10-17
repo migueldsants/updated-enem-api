@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2013 - Reaplicação",
+    "index": 93,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Cyberbullying is harassment through electronic\nmeans such as telephone text messages, social media\nsuch as Facebook and Twitter or online blogs and bulletin\nboards. In normal bullying, students are given a daily\nbreak from the torment as bully and victim each go to their\nseparate homes. But for victims of cyberbullying, there is\nno reprieve, as the abuse enters into their private lives. In\nthe US, there are at least 44 states that have anti-bullying\nlaws on the books. While only six of them use the actual\nword “cyberbullying”, 31 others have laws that specifically\nmention “electronic harassment”.\n\nProsecution in the UK is a little more difficult. While\nall schools are required to have anti-bullying policies\nin place, cyberbullying itself is not named as a criminal\noffence. Offenders in the UK would have to be charged\nunder various other laws, including the Protection from\nHarassment Act of 2003. This makes prosecution much\nmore difficult.\n\nAuthorities agree that in order to stop cyberbullying,\nthere has to be parental involvement. Parents need to\nbe vigilant about their children’s access to technology.\nThey should monitor their children’s use of social media,\nespecially children under the age of 14. Bullies are not\ngoing to simply disappear, but parents can go a long way\nin protecting their children from being bullied.\n\nGo! English, ano II, n. 14 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o texto, nos Estados Unidos, alguns estados\ntêm leis específicas para assédio via meios eletrônicos.\nJá no Reino Unido, a instauração de processos contra\npraticantes de cyberbullying é mais difícil porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as vítimas precisam recorrer a outras leis existentes, pois o cyberbullying não é considerado crime.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "as leis que regulamentam o uso da internet e dos meios eletrônicos de comunicação são inexistentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os pais das vítimas não têm interesse em denunciar os agressores de seus filhos às autoridades competentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os estudantes com idade inferior a 18 anos não podem sofrer acusações de prática de cyberbullying ou bullying.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as leis como a de Proteção contra Atos de Assédio de 2003 estabelecem que o cyberbullying não é crime.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

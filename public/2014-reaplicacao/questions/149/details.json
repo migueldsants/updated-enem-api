@@ -1,0 +1,50 @@
+{
+    "title": "Questão 149 - ENEM 2014 - Reaplicação",
+    "index": 149,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A probabilidade de um empregado permanecer em\n\n![](https://enem.dev/2014-reaplicacao/questions/149/a1ff848e-baef-45f1-b98f-18be60e038fd.png)\n\nUm homem e uma mulher começam a trabalhar nessa\ncompanhia no mesmo dia. Suponha que não haja\nnenhuma relação entre o trabalho dele e o dela, de\nmodo que seus tempos de permanência na firma são\nindependentes entre si.",
+    "files": [
+        "https://enem.dev/2014-reaplicacao/questions/149/a1ff848e-baef-45f1-b98f-18be60e038fd.png",
+        "https://enem.dev/2014-reaplicacao/questions/149/69703cea-cd95-4861-989c-647b0eb19c12.png",
+        "https://enem.dev/2014-reaplicacao/questions/149/290c6b55-6e1f-4826-8f98-6e430c393fb0.png",
+        "https://enem.dev/2014-reaplicacao/questions/149/1fad1011-41cb-4aee-b47f-808bc547d409.png",
+        "https://enem.dev/2014-reaplicacao/questions/149/573a8c16-2c8b-4861-ae21-a247f61de821.png",
+        "https://enem.dev/2014-reaplicacao/questions/149/25c8eaba-0f47-4f1e-a6af-7dafce4e5b53.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A probabilidade de ambos, homem e mulher,\npermanecerem nessa empresa por menos de 10 anos\né de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/149/69703cea-cd95-4861-989c-647b0eb19c12.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/149/290c6b55-6e1f-4826-8f98-6e430c393fb0.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/149/1fad1011-41cb-4aee-b47f-808bc547d409.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/149/573a8c16-2c8b-4861-ae21-a247f61de821.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014-reaplicacao/questions/149/25c8eaba-0f47-4f1e-a6af-7dafce4e5b53.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 98 - ENEM 2021 - Digital",
+    "index": 98,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria\nalimentícia se utiliza de flavorizantes. Em geral, essas substâncias são ésteres, como as\napresentadas no quadro.\n\n![](https://enem.dev/2021-digital/questions/98/01656e86-952d-439b-9f2d-82af3d8188f2.png)",
+    "files": [
+        "https://enem.dev/2021-digital/questions/98/01656e86-952d-439b-9f2d-82af3d8188f2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O aroma do flavorizante derivado do ácido etanoico e que apresenta cadeia carbônica\nsaturada é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "kiwi.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "banana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "pêssego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "rum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "uva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

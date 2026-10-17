@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2014 - Terceira aplicação",
+    "index": 26,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Capítulo XIII\n\nDos vadios e capoeiras\n\nArt. 402. Fazer nas ruas e praças publicas exercicios\nde agilidade e destreza corporal conhecidos pela\ndenominação capoeiragem; andar em correrias, com\narmas ou instrumentos capazes de produzir uma lesão\ncorporal, provocando tumultos ou desordens, ameaçando\npessoa certa ou incerta, ou incutindo temor de algum mal:\n\nPena – de prisão cellular por dous a seis mezes.\n\nParagrapho unico. É considerado circumstancia\naggravante pertencer o capoeira a alguma banda ou malta.\n\nAos chefes, ou cabeças, se imporá a pena em dobro.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "BRASIL. Código Penal de 1890. Disponível em: www.senado.gov.br. Acesso em: 31 jul. 2012.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mudança diante da prática cultural descrita está",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "compreensão de que a capoeira deixou de ser um elemento identitário para os negros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "comprovação de que a prática da capoeira foi fundamental para a abolição da escravatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "legitimação da contribuição dos negros como componente fundamental da cultura brasileira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "crença de que uma etnia minoritária precisa ter seus costumes preservados pelos legisladores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

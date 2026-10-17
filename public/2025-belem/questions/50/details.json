@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 50,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nenhum dos quatro blocos de petróleo perto do Parque\nAmbiental de Abrolhos disponibilizados para leilão atraiu o\ninteresse de empresas. A abertura para a exploração da área,\nque possui a maior biodiversidade do Atlântico Sul, é contestada\nna Justiça. Também é alvo de críticas de ambientalistas,\nque fizeram um protesto em frente ao local do certame.\nOs blocos não arrematados são incluídos agora na área de\noferta permanente da Agência Nacional do Petróleo, Gás Natural\ne Biocombustíveis (ANP) e, caso alguma empresa manifeste\ninteresse, um novo leilão é realizado.\n\nDisponível em: https://brasil.elpais.com.\nAcesso em: 14 out. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O protesto sobre a exploração de petróleo na área descrita no\ntexto se justifica pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vulnerabilidade do turismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fragilidade do ecossistema.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "indiferença dos cidadãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "negligência dos magistrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "redução do emprego.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

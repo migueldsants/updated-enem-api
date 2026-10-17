@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2020 - Digital",
+    "index": 39,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O universo infantil encanta por ser rico na diversidade de manifestações corporais.\nCrianças brincam de pega-pega, esconde-esconde, mãe de rua e experienciam diversas\npossibilidades de movimento na busca de novas descobertas, que podem ocorrer por meio de\nelementos gímnicos, como a estrelinha, a cambalhota, a bananeira (nomes populares dados à\nroda, ao rolamento e à parada de mãos).\n\n![](https://enem.dev/2020-digital/questions/39/b2a778d7-85df-4f64-b1a6-d960857e2255.png)\n\nPIZANI, J.; BARBOSA-RINALDI, I. P. Cotidiano escolar: a presença de elementos gímnicos nas\nbrincadeiras infantis. Revista de Educação Física da UEM, n. 1, 2010.",
+    "files": [
+        "https://enem.dev/2020-digital/questions/39/b2a778d7-85df-4f64-b1a6-d960857e2255.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os fundamentos gímnicos da roda e da parada de mãos requerem, respectivamente, a\naplicação dos elementos de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pose e força.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "giro e corrida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apoio e equilíbrio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "saltito e suspensão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reversão e resistência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

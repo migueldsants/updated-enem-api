@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2014 - Terceira aplicação",
+    "index": 101,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "SAÚDE NO MAPA\n\nSITES AJUDAM A ACHAR MÉDICOS POR\nPERTO E VER SE ELES ACEITAM SEU\nPLANO DE SAÚDE\n\nfuncionamento deles é mais ou menos o mesmo:\nvocê procura pelos médicos usando filtros por\n\nOespecialidade, convênios e local de atendimento.\n\nAs opções aparecem num mapa e você clica nelas para\nver a ficha dos profissionais. Aí entra o diferencial: alguns\nsites têm muitos cadastrados, com quase nenhum dado\nsobre eles; outros têm poucos, com perfis detalhados e\nagenda, para marcar consulta no alto. Depois, você recebe\na confirmação por e-mail ou SMS.\n\nO bom é que tudo é prático e de graça: um dos sites já\ncobra mensalidade dos médicos cadastrados e a tendência\né que os outros façam o mesmo a seguir. O problema é\nque eles não garantem os dados fornecidos pelos médicos\n– nenhum dos médicos consultados pela reportagem disse\nter enviado diplomas na inscrição. Os sites dizem checar\nos dados dos médicos via conselhos de medicina, mas\nassim só é possível confirmar suas especializações e se\nhá processos contra eles.\n\nOLIVEIRA, M. Galileu, n. 255, out. 2012 adaptado .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A praticidade e a gratuidade dos sites de busca por\nprofissionais de saúde são vantagens apontadas no texto.\nNo entanto, uma desvantagem desses sites diz respeito\nao (à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "acesso a algumas especialidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "seleção de informações relevantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "veracidade das informações fornecidas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "dificuldade no manuseio do mapa do site.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "excesso de informações desnecessárias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2021 - Digital",
+    "index": 89,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Movimento de translação da Terra\n\nDisponível em: www.cdcc.usp.br. Acesso em: 27 jul. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as informações apresentadas,\nBrasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sul.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "leste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nordeste.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

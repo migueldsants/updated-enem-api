@@ -1,0 +1,47 @@
+{
+    "title": "Questão 115 - ENEM 2012 - Reaplicação",
+    "index": 115,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quando a propaganda é decisiva na troca de marcas\n\nTodo supermercadista sabe que, quando um produto\nestá na mídia, a procura pelos consumidores aumenta.\nMas, em algumas categorias, a influência da propaganda\né maior, de acordo com pesquisa feita com 400 pessoas\npela consultoria YYY e com exclusividade para o\nsupermercado XXX.\n\nO levantamento mostrou que, mesmo não sendo a\nrazão o fator mais apontado para trocar de marca, não\nse pode ignorar a força das campanhas publicitárias. Em\nalgumas categorias, um terço dos respondentes atribuem\na mudança à publicidade. Para Nicanor Guerreiro, a\npropaganda estabelece uma relação mais “emocional”\nda marca com o público. “Todos sentimos necessidade\nde consumir produtos que sejam ‘aceitos’ pelas outras\npessoas. Por isso, a comunicação faz o papel de endosso\ndas marcas”, afirma. O executivo ressalta, no entanto,\nque nada disso adianta se o produto não cumprir as\npromessas transmitidas nas ações de comunicação.\nUm dos objetivos da propaganda é tornar o produto\naspiracional, despertando o desejo de experimentá-lo.\nO que o consumidor deseja é o que a loja vende. E é isso\no que o supermercadista precisa ter sempre em mente.\nVeja o gráfico:\n\nCategorias em que a influência da propaganda na troca\nde marcas atinge mais de 20% dos consumidores\n\n![](https://enem.dev/2012-reaplicacao/questions/115/77e79f3c-8d5a-4325-931a-65264f74e645.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/115/ae38df35-2816-449d-aa7f-a93f7bb89729.png)\n\n![](https://enem.dev/2012-reaplicacao/questions/115/40b2f9ab-d4b3-4e0f-9f5b-28146c6f74ab.png)",
+    "files": [
+        "https://enem.dev/2012-reaplicacao/questions/115/77e79f3c-8d5a-4325-931a-65264f74e645.png",
+        "https://enem.dev/2012-reaplicacao/questions/115/ae38df35-2816-449d-aa7f-a93f7bb89729.png",
+        "https://enem.dev/2012-reaplicacao/questions/115/40b2f9ab-d4b3-4e0f-9f5b-28146c6f74ab.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto e com as informações fornecidas\npelo gráfico, para aumentar as vendas de produtos, é\nnecessário que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a campanha seja centrada em produtos alimentícios, a fim de aumentar o percentual de troca atual que se apresenta como o mais baixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a preferência de um produto ocorra por influência da propaganda devido à necessidade emocional das marcas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a propaganda influencie na troca de marca e que o consumidor valorize a qualidade do produto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "os produtos mais vendidos pelo comércio não sejam divulgados para o público como tal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as marcas de qualidade inferior constituam o foco da publicidade por serem mais econômicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2013 - Reaplicação",
+    "index": 90,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Algumas estimativas apontam que, nos últimos cem\nanos, a concentração de gás carbônico na atmosfera\naumentou em cerca de 40%, devido principalmente à\nutilização de combustíveis fósseis pela espécie humana.\nAlguns estudos demonstram que essa utilização em larga\nescala promove o aumento do efeito estufa.",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/90/0c1d7e0c-4ebe-4780-8139-889bacdf0653.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Outros fatores de origem antrópica que aumentam o\nefeito estufa são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "chuva ácida e destruição da camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alagamento e inversão térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "erosão e extinção das espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "poluição das águas e do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/90/0c1d7e0c-4ebe-4780-8139-889bacdf0653.png",
+            "isCorrect": true
+        }
+    ]
+}

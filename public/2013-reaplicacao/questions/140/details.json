@@ -1,0 +1,47 @@
+{
+    "title": "Questão 140 - ENEM 2013 - Reaplicação",
+    "index": 140,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra o número de pessoas que acessaram\na internet, no Brasil, em qualquer ambiente (domicílios,\ntrabalho, escolas, lan houses ou outros locais), nos\nsegundos trimestres dos anos de 2009, 2010 e 2011.\n\n![](https://enem.dev/2013-reaplicacao/questions/140/e348a63b-d99b-4f81-8198-d44f0802481b.png)\n\nUMIM\nTMIM\nSMIM\nRMIM\nQMIM\n\n![](https://enem.dev/2013-reaplicacao/questions/140/a478d4c8-a0aa-43e6-ac54-de354a804fa0.png)\n\nãáäÜ₣ÉëPMIM\nOMIM\nNMIM",
+    "files": [
+        "https://enem.dev/2013-reaplicacao/questions/140/e348a63b-d99b-4f81-8198-d44f0802481b.png",
+        "https://enem.dev/2013-reaplicacao/questions/140/a478d4c8-a0aa-43e6-ac54-de354a804fa0.png",
+        "https://enem.dev/2013-reaplicacao/questions/140/fe3b5b79-fab4-4d55-a720-7b8335917ca9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando que a taxa de crescimento do número de\nacessos à internet no Brasil, do segundo trimestre de\n2011 para o segundo trimestre de 2012, seja igual à taxa\nverificada no mesmo período de 2010 para 2011, qual\né, em milhões, a estimativa do número de pessoas que\nacessarão a internet no segundo trimestre de 2012?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "82,1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "83,3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "86,7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "93,4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013-reaplicacao/questions/140/fe3b5b79-fab4-4d55-a720-7b8335917ca9.png",
+            "isCorrect": false
+        }
+    ]
+}

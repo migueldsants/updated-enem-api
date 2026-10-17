@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2025 - Aplicação Belém, Ananindeua e Marituba",
+    "index": 139,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A prefeitura de um município, dependendo do consumo\nmensal C de água, em litro, concederá ao consumidor um dos\ncinco tipos de desconto:\n\n• tipo I, se 29 000 ≤ C ≤ 30 000;\n• tipo II, se 27 500 ≤ C < 29 000;\n• tipo III, se 26 000 ≤ C < 27 500;\n• tipo IV, se 24 000 ≤ C < 26 000;\n• tipo V, se C < 24 000.\nO desconto será aplicado no valor da conta a ser paga,\ne não será concedido desconto para contas com consumo\nsuperior a 30 000 L.\n\nUm consumidor, no primeiro mês, não obteve desconto.\nSe consumisse 40% a menos de água, alcançaria o consumo\nmáximo estabelecido para conseguir o desconto do tipo I.\nNo segundo mês, seu consumo de água reduziu 20% em relação\nao consumo do primeiro mês; e no terceiro mês, seu consumo\nde água reduziu 30% em relação ao consumo do segundo mês.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Assim, no terceiro mês, esse consumidor receberá desconto\ndo tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

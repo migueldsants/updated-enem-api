@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2020 - Digital",
+    "index": 33,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Pessoal intransferível\n\nEscute, meu chapa: um poeta não se faz com versos. É o risco, é estar sempre a perigo\nsem medo, é inventar o perigo e estar sempre recriando dificuldades pelo menos maiores, é\ndestruir a linguagem e explodir com ela. Nada no bolso e nas mãos. Sabendo: perigoso,\ndivino, maravilhoso.\n\nPoetar é simples, como dois e dois são quatro sei que a vida vale a pena etc. Difícil é não\ncorrer com os versos debaixo do braço. Difícil é não cortar o cabelo quando a barra pesa.\nDifícil, pra quem não é poeta, é não trair a sua poesia, que, pensando bem, não é nada, se\nvocê está sempre pronto a temer tudo; menos o ridículo de declamar versinhos sorridentes. E\nsair por aí, ainda por cima sorridente mestre de cerimônias, “herdeiro” da poesia dos que\nlevaram a coisa até o fim e continuam levando, graças a Deus.\n\nE fique sabendo: quem não se arrisca não pode berrar. Citação: leve um homem e um boi\nao matadouro. O que berrar mais na hora do perigo é o homem, nem que seja o boi. Adeusão.\n\nTORQUATO NETO. Melhores poemas de Torquato Neto. São Paulo: Global, 2018.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Expoente da poesia produzida no Brasil na década de 1970 e autor de composições\nrepresentativas da Tropicália, Torquato Neto mobiliza, nesse texto,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "gírias e expressões coloquiais para criticar a linguagem adornada da tradição literária então vigente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "intenções satíricas e humorísticas para delinear uma concepção de poesia voltada para a felicidade dos leitores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "frases de efeito e interpelações ao leitor para ironizar as tentativas de adequação do poema ao gosto do público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "recursos da escrita em prosa e noções do senso comum para enfatizar as dificuldades inerentes ao trabalho do poeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "referências intertextuais e anedóticas para defender a importância de uma atitude destemida ante os riscos da criação poética.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

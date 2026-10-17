@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2014 - Terceira aplicação",
+    "index": 168,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico a seguir mostra a evolução da taxa de\ndesemprego (ou seja, a porcentagem da população\neconomicamente ativa que está desempregada) nas seis\nprincipais regiões metropolitanas brasileiras nos meses\nde julho de 2006 a julho de 2011.\n\nNO\n\nNM VIR\n\n![](https://enem.dev/2014-terceira-aplicacao/questions/168/d77e9e5d-579f-478f-b3ba-29fd7823d39f.png)\n\nOMMS OMMT OMMU OMMV OMNM OMNN\n\nDisponível em: www.ibge.gov.br. Acesso em: 25 ago. 2011 adaptado .\n\nSuponha que a razão entre as taxas de desemprego\nde julho de 2010 e julho de 2011 seja igual à razão entre\na taxa de desemprego de julho de 2011 e julho de 2012.",
+    "files": [
+        "https://enem.dev/2014-terceira-aplicacao/questions/168/d77e9e5d-579f-478f-b3ba-29fd7823d39f.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A taxa de desemprego em julho de 2012 será um número\nentre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,0 e 4,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5,0 e 5,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5,5 e 6,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6,0 e 6,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6,6 e 7,1.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2014 - Terceira aplicação",
+    "index": 104,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Seu nome define seu destino\n\n“O nome pode ter uma força determinante sobre o seu\ndestino”, diz James Bruning, professor da Universidade\nde Ohio, nos Estados Unidos, que passou 20 anos\nestudando a psicologia dos nomes. “Na maioria das\nvezes, o impacto vem da expectativa que ele cria nas\ndemais pessoas. É comum julgarmos alguém com base\nno nome, mesmo que isso seja um bocado injusto.” Ele\ncita um exemplo óbvio: espera-se que alguém com nome\noriental seja bom em matemática, por isso é possível que\num empregador dê preferência a um nome japonês para\numa vaga de programador.\n\n“O nome próprio da pessoa marca a sua identidade e\na sua experiência social, e por isso é um dado essencial\nna sua vida”, diz Francisco Martins, professor do Instituto\nde Psicologia da Universidade de Brasília e autor do livro\nNome próprio (editora UnB). “Mas não dá para dizer que\nele conduz a um destino específico. É você quem constrói\na sua identidade. Existe um processo de elaboração, em\nque você toma posse do nome que lhe foi dado. Então,\nele pesa, mas não é decisivo.” De acordo com Martins,\nessa apropriação do nome se dá em várias fases: na\ninfância, quando se desenvolve a identidade sexual;\nna adolescência, quando a pessoa começa a assinar o\nnome; no casamento, quando ela adiciona (ou não) o\nsobrenome do marido ao seu. “O importante é a pessoa\ntomar posse do nome, e não ficar brigando com ele.”\n\nCHAMARY, J.V.; GIL, M. A. Knowledge, jul. 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O título do texto propõe uma discussão em que são\nevocadas as opiniões de dois especialistas. Há a\nrelativização do valor dado ao nome próprio, a qual se\nconfigura na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "argumentação desenvolvida pelo professor James Bruning.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tese proposta pelo autor do livro Nome próprio, da editora UnB.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ideia refutada pelos dois professores universitários citados no texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ideia defendida pelo professor Francisco Martins, que endossa a proposição do professor James Bruning.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hipótese apresentada pelo professor James Bruning, que é confirmada pelo professor Francisco Martins.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2016 - Segunda aplicação",
+    "index": 180,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o objetivo de trabalhar a concentração e a\nsincronia de movimentos dos alunos de uma de suas\nturmas, um professor de educação física dividiu essa\nturma em três grupos (A, B e C) e estipulou a seguinte\natividade: os alunos do grupo A deveriam bater palmas a\ncada 2 s, os alunos do grupo B deveriam bater palmas a\ncada 3 s e os alunos do grupo C deveriam bater palmas\na cada 4 s.\n\nO professor zerou o cronômetro e os três grupos\ncomeçaram a bater palmas quando ele registrou 1 s.\nOs movimentos prosseguiram até o cronômetro\nregistrar 60 s.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um estagiário anotou no papel a sequência formada\npelos instantes em que os três grupos bateram palmas\nsimultaneamente.\nQual é o termo geral da sequência anotada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 n, com n um número natural, tal que 1 ≤ n ≤ 5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24 n, com n um número natural, tal que 1 ≤ n ≤ 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12 (n − 1), com n um número natural, tal que 1 ≤ n ≤ 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12 (n − 1) + 1, com n um número natural, tal que 1 ≤ n ≤ 5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "24 (n − 1) + 1, com n um número natural, tal que 1 ≤ n ≤ 3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

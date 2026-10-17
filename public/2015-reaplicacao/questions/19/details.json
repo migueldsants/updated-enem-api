@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2015 - Reaplicação",
+    "index": 19,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Colonizar, afirmava, em 1912, um eminente jurista,\n“é relacionar-se com os países novos para tirar benefícios\ndos recursos de qualquer natureza desses países,\naproveitá-los no interesse nacional, e ao mesmo tempo\nlevar às populações primitivas as vantagens da cultura\nintelectual, social, científica, moral, artística, literária,\ncomercial e industrial, apanágio das raças superiores.\nA colonização é, pois, um estabelecimento fundado em\npaís novo por uma raça de civilização avançada, para\nrealizar o duplo fim que acabamos de indicar”.\n\nMÉRIGNHAC. Précis de législation et d´économie coloniales. Apud LINHARES, M. Y.\nA luta contra a Metrópole (Ásia e África). São Paulo: Brasiliense, 1981.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A definição de colonização apresentada no texto tinha a\nfunção ideológica de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dissimular a prática da exploração mediante a ideia de civilização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "compensar o saque das riquezas mediante a educação formal dos colonos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "formar uma identidade colonial mediante a recuperação de sua ancestralidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reparar o atraso da Colônia mediante a incorporação dos hábitos da Metrópole.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "promover a elevação cultural da Colônia mediante a incorporação de tradições metropolitanas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2015 - Reaplicação",
+    "index": 90,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "CO₂\n\n1 2\n\nC₆H₁₂O₆",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No esquema representado, o processo identificado pelo\nnúmero 2 é realizado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "seres herbívoros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fungos fermentadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "bactérias heterótrofas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "organismos produtores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "microrganismos decompositores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

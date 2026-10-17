@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2016 - Reaplicação",
+    "index": 7,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os escravos tornam-se propriedade nossa seja em\nvirtude da lei civil, seja da lei comum dos povos; em\nvirtude da lei civil, se qualquer pessoa de mais de vinte\nanos permitir a venda de si própria com a finalidade de\nlucrar conservando uma parte do preço da compra; e em\nvirtude da lei comum dos povos, são nossos escravos\naqueles que foram capturados na guerra e aqueles que\nsão filhos de nossas escravas.\n\nCARDOSO, C. F. Trabalho compulsório na Antiguidade. São Paulo: Graal, 2003.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A obra Institutas, do jurista Aelius Marcianus (século III d.C.),\ninstrui sobre a escravidão na Roma antiga. No direito\ne na sociedade romana desse período, os escravos\ncompunham uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mão de obra especializada protegida pela lei.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "força de trabalho sem a presença de ex-cidadãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "categoria de trabalhadores oriundos dos mesmos povos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "condição legal independente da origem étnica do indivíduo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "comunidade criada a partir do estabelecimento das leis escritas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

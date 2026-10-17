@@ -1,0 +1,50 @@
+{
+    "title": "Questão 46 - ENEM 2015 - Reaplicação",
+    "index": 46,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma flauta, as notas musicais possuem\nfrequências e comprimentos de onda (λ) muito bem\ndefinidos. As figuras mostram esquematicamente\num tubo de comprimento L, que representa de forma\nsimplificada uma flauta, em que estão representados:\nem A o primeiro harmônico de uma nota musical\n(comprimento de onda λ_A), em B seu segundo harmônico\n(comprimento de onda λ_B) e em C o seu terceiro\nharmônico (comprimento de onda λ_C), onde λ_A > λ_B > λ_C.\n\n![](https://enem.dev/2015-reaplicacao/questions/46/a29deb4a-39c7-45ad-a7f7-f32be7eb1b25.png)\n\nL\n\nA B C\n\nEm função do comprimento do tubo, qual o comprimento\nde onda da oscilação que forma o próximo harmônico?",
+    "files": [
+        "https://enem.dev/2015-reaplicacao/questions/46/a29deb4a-39c7-45ad-a7f7-f32be7eb1b25.png",
+        "https://enem.dev/2015-reaplicacao/questions/46/b4a7c127-aa63-4735-beb6-e43b5865c1a5.png",
+        "https://enem.dev/2015-reaplicacao/questions/46/dc7c913c-444f-40bc-8579-209bf47d2d91.png",
+        "https://enem.dev/2015-reaplicacao/questions/46/f5e01d28-9363-4c0e-b188-90bce8152049.png",
+        "https://enem.dev/2015-reaplicacao/questions/46/d5b77f9a-69a0-41d7-a40d-db4064eb5f7b.png",
+        "https://enem.dev/2015-reaplicacao/questions/46/999a68e1-bb97-40c3-ac4a-280a667592b1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "L",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/46/b4a7c127-aa63-4735-beb6-e43b5865c1a5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/46/dc7c913c-444f-40bc-8579-209bf47d2d91.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/46/f5e01d28-9363-4c0e-b188-90bce8152049.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/46/d5b77f9a-69a0-41d7-a40d-db4064eb5f7b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015-reaplicacao/questions/46/999a68e1-bb97-40c3-ac4a-280a667592b1.png",
+            "isCorrect": false
+        }
+    ]
+}

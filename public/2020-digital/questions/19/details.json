@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2020 - Digital",
+    "index": 19,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ao lado da indústria da moda, a do rock é o melhor exemplo da vendabilidade elástica do\npassado cultural, com suas reciclagens regulares de sua própria história na forma de\nretomadas e releituras, retornos e versões cover. Nos últimos anos, o desenvolvimento de\nnovas tecnologias acelerou e, de certa maneira, democratizou esse processo a ponto de\npermitir que as evidências culturais do rock sejam fisicamente desmanteladas e remontadas\ncomo pastiche e colagem, com mais rapidez e falta de controle do que em qualquer época.\n\nCONNOR, S. Cultura pós-moderna: introdução às teorias do contemporâneo. São Paulo: Loyola, 1989.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O rock personifica o paradoxo da cultura de massas (pós-moderna), visto que seu alcance e\ninfluência globais, combinados com a sua tolerância, criam uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "subversão ao sistema cultural vigente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "identificação de pluralidade de estilos e mídias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "homogeneização dos ritmos nas novas criações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desvinculação identitária nos hábitos de escuta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "formação de confluência de métodos e pensamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
