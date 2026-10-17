@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2003",
+    "index": 22,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A malária é uma doença típica de regiões tropicais. De acordo com dados do Ministério da Saúde, no final do século\nXX, foram registrados mais de 600 mil casos de malária no Brasil, 99% dos quais na região amazônica.\nOs altos índices de malária nessa região podem ser explicados por várias razões, entre as quais:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as características genéticas das populações locais facilitam a transmissão e dificultam o tratamento da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a falta de saneamento básico propicia o desenvolvimento do mosquito transmissor da malária nos esgotos não tratados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a inexistência de predadores capazes de eliminar o causador e o transmissor em seus focos impede o controle da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a temperatura elevada e os altos índices de chuva na floresta equatorial favorecem a proliferação do mosquito transmissor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o Brasil é o único país do mundo que não implementou medidas concretas para interromper sua transmissão em núcleos urbanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2010 - Reaplicação",
+    "index": 102,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/102/f58b8322-76e0-4bfb-8ec8-2632ac4343d9.png)\n\nAPADRINHE. IGUAL AO JOÃO, MILHARES DE\nCRIANÇAS TAMBÉM PRECISAM DE UM MELHOR\nAMIGO. SEJA O MELHOR AMIGO DE UMA CRIANÇA.\n\nAnúncio assinado pelo Fundo Cristão para Crianças CCF-Brasil. Revista IstoÉ. São Paulo:\nTrês, ano 32, n° 2079, 16 set. 2009.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/102/f58b8322-76e0-4bfb-8ec8-2632ac4343d9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pela forma como as informações estão organizadas, observa-\nse que, nessa peça publicitária, predominantemente, busca-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conseguir a adesão do leitor à causa anunciada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "reforçar o canal de comunicação com o interlocutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "divulgar informações a respeito de um dado assunto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "enfatizar os sentimentos e as impressões do próprio enunciador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ressaltar os elementos estéticos, em detrimento do conteúdo veiculado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

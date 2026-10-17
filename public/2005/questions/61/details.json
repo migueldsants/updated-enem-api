@@ -1,0 +1,51 @@
+{
+    "title": "Questão 61 - ENEM 2005",
+    "index": 61,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Os três recipientes da figura têm formas diferentes,\nmas a mesma altura e o mesmo diâmetro da boca.\nNeles são colocados líquido até a metade de sua\n\n![](https://enem.dev/2005/questions/61/87ed9868-8e95-4693-a768-b590311595e2.png)\n\n![](https://enem.dev/2005/questions/61/ad747ddc-b8e5-4add-8bc2-8660fce353ad.png)\n\naltura, conforme indicado nas figuras.\nRepresentando por V₁, V₂ e V₃ o volume de líquido\nem cada um dos recipientes, tem-se\n\nV₁ V₂ V₃",
+    "files": [
+        "https://enem.dev/2005/questions/61/87ed9868-8e95-4693-a768-b590311595e2.png",
+        "https://enem.dev/2005/questions/61/ad747ddc-b8e5-4add-8bc2-8660fce353ad.png",
+        "https://enem.dev/2005/questions/61/421f7437-f76f-4f91-9e9a-97099b5f415e.png",
+        "https://enem.dev/2005/questions/61/959c78a2-a446-4849-bf44-3a404aec94ed.png",
+        "https://enem.dev/2005/questions/61/4373616b-00bf-4af4-b72e-9e922f44ccf2.png",
+        "https://enem.dev/2005/questions/61/c015d0b7-14cb-431c-9f3f-d330cebd11ae.png",
+        "https://enem.dev/2005/questions/61/ab89609a-f46d-46d0-86f8-dd85f72e4f2c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "V₁ = V₂ = V₃ V₁ < V₃ < V₂ V₁ = V₃ < V₂ V₃ < V₁ < V₂ V₁ < V₂ = V₃",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/61/421f7437-f76f-4f91-9e9a-97099b5f415e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/61/959c78a2-a446-4849-bf44-3a404aec94ed.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/61/4373616b-00bf-4af4-b72e-9e922f44ccf2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/61/c015d0b7-14cb-431c-9f3f-d330cebd11ae.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/61/ab89609a-f46d-46d0-86f8-dd85f72e4f2c.png",
+            "isCorrect": false
+        }
+    ]
+}

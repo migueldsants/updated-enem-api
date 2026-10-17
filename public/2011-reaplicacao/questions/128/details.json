@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2011 - Reaplicação",
+    "index": 128,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Texto I\n\nDRUMMOND, B. Revista O Globo. Nº 248, 26 abr. 2009.\n\nTexto II\n\nSão 68 milhões num universo de 190 milhões de brasileiros conectados nas redes virtuais. O e-mail, irmão\nmoderno da carta, ainda é uma ferramenta imprescindível de comunicação, mas já começa a dar espaço para\nferramentas mais ágeis de interação, como MSN, Orkut, Facebook, Twitter e blogs.\n\nFERREIRA JÚNIOR, H. (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Da leitura dos dois textos, depreende-se que a internet tem se expandido muito nos últimos anos. Apesar disso, a\natitude do rapaz no Texto I revela a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "constatação da importância do acesso à internet para a comunicação com outras pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "opinião de quem necessita das ferramentas da internet para realizar novas conquistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "demonstração de uma postura resistente à interferência das tecnologias na comunicação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "adequação dos jovens às redes sociais como Twitter, Facebook, MSN, Orkut, blog etc.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aceitação das redes sociais pela internet como veículo de relacionamentos pessoais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

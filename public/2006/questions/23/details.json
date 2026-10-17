@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2006",
+    "index": 23,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nas informações acima, é correto afirmar\nque, no período de 2000 a 2050,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a taxa de crescimento populacional da China será negativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a população do Brasil duplicará.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a taxa de crescimento da população da Indonésia será menor que a dos EUA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a população do Paquistão crescerá mais de 100%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a China será o país com a maior taxa de crescimento populacional do mundo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

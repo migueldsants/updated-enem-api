@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2002",
+    "index": 37,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "“O continente africano em seu conjunto apresenta 44% de\nsuas fronteiras apoiadas em meridianos e paralelos; 30% por\nlinhas retas e arqueadas, e apenas 26% se referem a limites\nnaturais que geralmente coincidem com os de locais de\nhabitação dos grupos étnicos”\n\nMARTIN, A. R. Fronteiras e Nações. Contexto, São Paulo, 1998.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Diferente do continente americano, onde quase que a totalidade\ndas fronteiras obedecem a limites naturais, a África apresenta as\ncaracterísticas citadas em virtude, principalmente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da sua recente demarcação, que contou com técnicas cartográficas antes desconhecidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dos interesses de países europeus preocupados com a partilha dos seus recursos naturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "das extensas áreas desérticas que dificultam a demarcação dos “limites naturais”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "da natureza nômade das população africanas, especialmente aquelas oriundas da África Subsaariana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da grande extensão longitudinal, o que demandaria enormes gastos para demarcação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

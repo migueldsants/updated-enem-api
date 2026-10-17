@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2000",
+    "index": 48,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "No Brasil, mais de 66 milhões de pessoas beneficiam-se hoje do\nabastecimento de água fluoretada, medida que vem reduzindo, em cerca\nde 50%, a incidência de cáries. Ocorre, entretanto, que profissionais da\nsaúde muitas vezes prescrevem flúor oral ou complexos vitamínicos com\nflúor para crianças ou gestantes, levando à ingestão exagerada da\nsubstância. O mesmo ocorre com o uso abusivo de algumas marcas de\nágua mineral que contêm flúor. O excesso de flúor - fluorose - nos dentes\npode ocasionar desde efeitos estéticos até defeitos estruturais graves.\n\nForam registrados casos de fluorose tanto em cidades com água\nfluoretada pelos poderes públicos como em outras, abastecidas por\nlençóis freáticos que naturalmente contêm flúor.\n\n(Adaptado da Revista da Associação Paulista de Cirurgiões Dentistas - APCD,\nvol. 53, nº.1, jan./fev. 1999)\n\nCom base nesse texto, são feitas as afirmações abaixo.\n\nI A fluoretação da água é importante para a manutenção do esmalte\n\ndentário, porém não pode ser excessiva.\n\nII Os lençóis freáticos citados contêm compostos de flúor, em\n\nconcentrações superiores às existentes na água tratada.\n\nIII As pessoas que adquiriram fluorose podem ter utilizado outras fontes de\n\nflúor além da água de abastecimento público, como, por exemplo,\ncremes dentais e vitaminas com flúor.",
+    "files": [
+        "https://enem.dev/2000/questions/48/dc739910-2e10-4e3b-8710-2bc350bb696a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pode-se afirmar que, apenas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I é correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II é correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III é correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e III são corretas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/48/dc739910-2e10-4e3b-8710-2bc350bb696a.png",
+            "isCorrect": false
+        }
+    ]
+}

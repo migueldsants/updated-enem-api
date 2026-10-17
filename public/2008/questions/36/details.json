@@ -1,0 +1,47 @@
+{
+    "title": "Questão 36 - ENEM 2008",
+    "index": 36,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Gráfico para as questões 35 e 36\n\nNo gráfico a seguir, estão especificados a\nprodução brasileira de café, em toneladas; a área\nplantada, em hectares (ha); e o rendimento médio do\nplantio, em kg/ha, no período de 2001 a 2008.\n\nCafé (em grão) — Brasil\n3.000.000 3.000\n2.500.000 2.500 rendimento médio\n2.000.000 2.000\n1.500.000 1.500\n\n![](https://enem.dev/2008/questions/36/3afd7653-e048-4e0f-a859-0e3a3dbc89e0.png)\n\n![](https://enem.dev/2008/questions/36/b854fc28-e6a5-4206-839a-6ae4606988de.png)\n\n20012002200320042005200620072008\n\n![](https://enem.dev/2008/questions/36/43966619-8960-4051-bfee-96101b697bbc.png)\n\nFonte: IBGE",
+    "files": [
+        "https://enem.dev/2008/questions/36/3afd7653-e048-4e0f-a859-0e3a3dbc89e0.png",
+        "https://enem.dev/2008/questions/36/b854fc28-e6a5-4206-839a-6ae4606988de.png",
+        "https://enem.dev/2008/questions/36/43966619-8960-4051-bfee-96101b697bbc.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se a tendência de rendimento observada no gráfico, no\nperíodo de 2001 a 2008, for mantida nos próximos anos,\nentão o rendimento médio do plantio do café, em 2012,\nserá aproximadamente de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "500 kg/ha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "750 kg/ha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "850 kg/ha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "950 kg/ha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1.250 kg/ha.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

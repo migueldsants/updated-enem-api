@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 1999",
+    "index": 36,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "De acordo com este diagrama, uma das modalidades de produção de energia elétrica envolve combustíveis fósseis. A",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "modalidade de produção, o combustível e a escala de tempo típica associada à formação desse combustível são,\nrespectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hidroelétricas - chuvas - um dia",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "hidroelétricas - aquecimento do solo - um mês",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "termoelétricas - petróleo - 200 anos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "termoelétricas - aquecimento do solo - 1 milhão de anos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "termoelétricas - petróleo - 500 milhões de anos",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

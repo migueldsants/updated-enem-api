@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2010 - Reaplicação",
+    "index": 38,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A América se tornara a maior força política e financeira\ndo mundo capitalista. Havia se transformado de país\ndevedor em país que emprestava dinheiro. Era agora\numa nação credora.\n\nHUBERMAN, L. História da riqueza do homem. Rio de Janeiro: Zahar, 1962.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em 1948, os EUA lançavam o Plano Marshall, que\nconsistiu no empréstimo de 17 bilhões de dólares para\nque os países europeus reconstruíssem suas economias.\nUm dos resultados desse plano, para os EUA, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o aumento dos investimentos europeus em indústrias sediadas nos EUA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a redução da demanda dos países europeus por produtos e insumos agrícolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o crescimento da compra de máquinas e veículos estadunidenses pelos europeus.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o declínio dos empréstimos estadunidenses aos países da América Latina e da Ásia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a criação de organismos que visavam regulamentar todas as operações de crédito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

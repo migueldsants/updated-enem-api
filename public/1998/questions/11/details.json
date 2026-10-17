@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 1998",
+    "index": 11,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Na figura abaixo está esquematizado um tipo de usina utilizada na geração de eletricidade.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Analisando o esquema, é possível identificar que se trata de uma usina:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hidrelétrica, porque a água corrente baixa a temperatura da turbina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "hidrelétrica, porque a usina faz uso da energia cinética da água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "termoelétrica, porque no movimento das turbinas ocorre aquecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "eólica, porque a turbina é movida pelo movimento da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nuclear, porque a energia é obtida do núcleo das moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

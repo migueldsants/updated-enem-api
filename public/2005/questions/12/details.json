@@ -1,0 +1,45 @@
+{
+    "title": "Questão 12 - ENEM 2005",
+    "index": 12,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "No gráfico abaixo, mostra-se como variou o valor do dólar, em relação ao real, entre o final de 2001 e o início de 2005.\nPor exemplo, em janeiro de 2002, um dólar valia cerca de R$ 2,40.\n\n![](https://enem.dev/2005/questions/12/a04473c6-68f3-4e44-9630-935564943dc7.png)",
+    "files": [
+        "https://enem.dev/2005/questions/12/a04473c6-68f3-4e44-9630-935564943dc7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Durante esse período, a época em que o real esteve mais desvalorizado em relação ao dólar foi no",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "final de 2001.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "final de 2002.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "início de 2003.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "final de 2004.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "início de 2005.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

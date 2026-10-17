@@ -1,0 +1,50 @@
+{
+    "title": "Questão 137 - ENEM 2010 - Reaplicação",
+    "index": 137,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura seguinte ilustra um salão de um clube onde\nestão destacados os pontos A e B.\n\n![](https://enem.dev/2010-reaplicacao/questions/137/ed30f691-4a63-4b55-8d8a-c805eedefa1e.png)\n\nNesse salão, o ponto em que chega o sinal da TV a\ncabo fica situado em A. A fim de instalar um telão para\na transmissão dos jogos de futebol da Copa do Mundo,\nesse sinal deverá ser levado até o ponto B por meio de\num cabeamento que seguirá na parte interna da parede\ne do teto.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/137/ed30f691-4a63-4b55-8d8a-c805eedefa1e.png",
+        "https://enem.dev/2010-reaplicacao/questions/137/627f60ad-b9c6-451d-a4f2-e357184a4f67.png",
+        "https://enem.dev/2010-reaplicacao/questions/137/9b663aa5-e1e8-48a6-ab2f-495c576059a6.png",
+        "https://enem.dev/2010-reaplicacao/questions/137/71e35fcb-e6d0-4600-aacb-ebabbbe463c4.png",
+        "https://enem.dev/2010-reaplicacao/questions/137/44e6cb6d-4aad-4026-9db1-0304f47859dd.png",
+        "https://enem.dev/2010-reaplicacao/questions/137/86331de9-4a1f-45e2-8cb8-50ed94996b87.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O menor comprimento que esse cabo deverá ter para\nligar os pontos A e B poderá ser obtido por meio da\nseguinte representação no plano:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/137/627f60ad-b9c6-451d-a4f2-e357184a4f67.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/137/9b663aa5-e1e8-48a6-ab2f-495c576059a6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/137/71e35fcb-e6d0-4600-aacb-ebabbbe463c4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/137/44e6cb6d-4aad-4026-9db1-0304f47859dd.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/137/86331de9-4a1f-45e2-8cb8-50ed94996b87.png",
+            "isCorrect": true
+        }
+    ]
+}

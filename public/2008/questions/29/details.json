@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2008",
+    "index": 29,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A biodigestão anaeróbica, que se processa na\nausência de ar, permite a obtenção de energia e materiais\nque podem ser utilizados não só como fertilizante e\ncombustível de veículos, mas também para acionar\n\n![](https://enem.dev/2008/questions/29/6a42e52d-64ab-44a6-9519-9c5119b42904.png)",
+    "files": [
+        "https://enem.dev/2008/questions/29/6a42e52d-64ab-44a6-9519-9c5119b42904.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O material produzido pelo processo esquematizado acima\ne utilizado para geração de energia é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "biodiesel, obtido a partir da decomposição de matéria orgânica e(ou) por fermentação na presença de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "metano (CH₄), biocombustível utilizado em diferentes máquinas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "etanol, que, além de ser empregado na geração de energia elétrica, é utilizado como fertilizante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hidrogênio, combustível economicamente mais viável, produzido sem necessidade de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "metanol, que, além das aplicações mostradas no esquema, é matéria-prima na indústria de bebidas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

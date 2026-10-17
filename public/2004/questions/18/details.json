@@ -1,0 +1,45 @@
+{
+    "title": "Questão 18 - ENEM 2004",
+    "index": 18,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O poema abaixo pertence à poesia concreta brasileira. O termo latino de seu título significa “epitalâmio”, poema ou canto em\nhomenagem aos que se casam.\n\nEPITHALAMIUM – II\n\n![](https://enem.dev/2004/questions/18/4fcef751-e679-4cb5-99e2-df9330e3900c.png)\n\nhe = ele S = serpens\n& = e h = homo\nShe = ela e = eva\n\n(Pedro Xisto)",
+    "files": [
+        "https://enem.dev/2004/questions/18/4fcef751-e679-4cb5-99e2-df9330e3900c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando que símbolos e sinais são utilizados geralmente para demonstrações objetivas, ao serem incorporados no poema\n“Epithalamium - II”,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adquirem novo potencial de significação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "eliminam a subjetividade do poema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "opõem-se ao tema principal do poema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "invertem seu sentido original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tornam-se confusos e equivocados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2010 - Reaplicação",
+    "index": 124,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O “politicamente correto” tem seus exageros, como\nchamar baixinho de “verticalmente prejudicado”, mas,\nno fundo, vem de uma louvável preocupação em não\nofender os diferentes. É muito mais gentil chamar\nestrabismo de “idiossincrasia ótica” do que de vesguice.\nO linguajar brasileiro está cheio de expressões racistas\ne preconceituosas que precisam de uma correção, e até\nas várias denominações para bêbado (pinguço, bebo,\npé-de-cana) poderiam ser substituídas por algo como\n“contumaz etílico”, para lhe poupar os sentimentos.\n\nO tratamento verbal dado aos negros é o melhor\nexemplo da condescendência que passa por tolerância\nracial no Brasil. Termos como “crioulo”, “negão” etc. são\naté considerados carinhosos, do tipo de carinho que se\ndá a inferiores, e, felizmente, cada vez menos ouvidos.\n“Negro” também não é mais correto. Foi substituído por\nafrodescendente, por influência dos afro-americans,\nnum caso de colonialismo cultural positivo. Está certo.\nEnquanto o racismo que não quer dizer seu nome\ncontinua no Brasil, uma integração real pode começar\npela linguagem.\n\nVERÍSSIMO, L. F. Peixe na cama. Diário de Pernambuco. 10 jun. 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao comparar a linguagem cotidiana utilizada no Brasil e\nas exigências do comportamento “politicamente correto”,\no autor tem a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criticar o racismo declarado do brasileiro, que convive com a discriminação camuflada em certas expressões linguísticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "defender o uso de termos que revelam a despreocupação do brasileiro quanto ao preconceito racial, que inexiste no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mostrar que os problemas de intolerância racial, no Brasil, já estão superados, o que se evidencia na linguagem cotidiana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "questionar a condenação de certas expressões consideradas “politicamente incorretas”, o que impede os falantes de usarem a linguagem espontaneamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sugerir que o país adote, além de uma postura linguística “politicamente correta”, uma política de convivência sem preconceito racial.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

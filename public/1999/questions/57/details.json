@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 1999",
+    "index": 57,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Em nosso planeta a quantidade de água está estimada em 1,36 × 10⁶ trilhões de toneladas. Desse total, calcula-se que cerca",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "de 95% são de água salgada e dos 5% restantes, quase a metade está retida nos pólos e geleiras.\nO uso de água do mar para obtenção de água potável ainda não é realidade em larga escala. Isso porque, entre outras\nrazões,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o custo dos processos tecnológicos de dessalinização é muito alto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "não se sabe como separar adequadamente os sais nela dissolvidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "comprometeria muito a vida aquática dos oceanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a água do mar possui materiais irremovíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a água salgada do mar tem temperatura de ebulição alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

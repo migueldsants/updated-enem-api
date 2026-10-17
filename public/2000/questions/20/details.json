@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2000",
+    "index": 20,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "“Poética”, de Manuel Bandeira, é quase um manifesto do movimento\nmodernista brasileiro de 1922. No poema, o autor elabora críticas e propostas\nque representam o pensamento estético predominante na época.\n\nPoética\n\nEstou farto do lirismo comedido\nDo lirismo bem comportado\nDo lirismo funcionário público com livro de ponto expediente protocolo e\n\n[manifestações de apreço ao Sr. diretor.\n\nEstou farto do lirismo que pára e vai averiguar no dicionário o\n\n[cunho vernáculo de um vocábulo\n\nAbaixo os puristas\n............................................................................................\n\nQuero antes o lirismo dos loucos\nO lirismo dos bêbedos\nO lirismo difícil e pungente dos bêbedos\nO lirismo dos clowns de Shakespeare\n\n— Não quero mais saber do lirismo que não é libertação.\n\n(BANDEIRA, Manuel. Poesia Completa e Prosa.\nRio de Janeiro. Aguilar, 1974)",
+    "files": [
+        "https://enem.dev/2000/questions/20/ffb918d3-cfb1-4484-ad66-66699022e0ad.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base na leitura do poema, podemos afirmar corretamente que o poeta:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "critica o lirismo louco do movimento modernista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "critica todo e qualquer lirismo na literatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "propõe o retorno ao lirismo do movimento clássico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "propõe o retorno ao lirismo do movimento romântico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/20/ffb918d3-cfb1-4484-ad66-66699022e0ad.png",
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Questão 20 - ENEM 2005",
+    "index": 20,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 20 e 21.\n\nCândido Portinari (1903-1962), um dos mais importantes artistas brasileiros do século XX, tratou de diferentes\naspectos da nossa realidade em seus quadros.\n\n![](https://enem.dev/2005/questions/20/24fb9332-ee80-45e9-96a4-c22e9dfc8055.png)\n\n![](https://enem.dev/2005/questions/20/172ca914-d500-49f9-b011-78d0bc6adb9b.png)\n\n![](https://enem.dev/2005/questions/20/27fc8c38-913c-4309-bd75-ca2f596ad821.png)\n\n![](https://enem.dev/2005/questions/20/6315c046-e368-406a-b663-a62c26345f78.png)\n\n1 2 3 4\n\nSobre a temática dos “Retirantes”, Portinari também escreveu o seguinte poema:\n\n(....) Homens de enorme ventre bojudo\nOs retirantes vêm vindo com trouxas e embrulhos Mulheres com trouxas caídas para o lado\nVêm das terras secas e escuras; pedregulhos\nDoloridos como fagulhas de carvão aceso Pançudas, carregando ao colo um garoto\n\nChoramingando, remelento\nCorpos disformes, uns panos sujos,\n\n(....)\nRasgados e sem cor, dependurados\n\n(Cândido Portinari. Poemas. Rio de Janeiro: J. Olympio, 1964.)",
+    "files": [
+        "https://enem.dev/2005/questions/20/24fb9332-ee80-45e9-96a4-c22e9dfc8055.png",
+        "https://enem.dev/2005/questions/20/172ca914-d500-49f9-b011-78d0bc6adb9b.png",
+        "https://enem.dev/2005/questions/20/27fc8c38-913c-4309-bd75-ca2f596ad821.png",
+        "https://enem.dev/2005/questions/20/6315c046-e368-406a-b663-a62c26345f78.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Das quatro obras reproduzidas, assinale aquelas que abordam a problemática que é tema do poema.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 e 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 e 3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 e 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 e 4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

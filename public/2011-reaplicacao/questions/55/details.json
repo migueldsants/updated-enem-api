@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2011 - Reaplicação",
+    "index": 55,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/55/2bb64400-e911-4306-904e-af090410acb4.png)\n\nDisponível em: http://static.hsw.com.br. Acesso em: 26 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/55/2bb64400-e911-4306-904e-af090410acb4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A figura respresenta o processo mais usado nas\nhidrelétricas para obtenção de energia elétrica no Brasil.\nAs transformações de energia nas posições I→II e II→III\nda figura são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "energia cinética → energia elétrica e energia potencial → energia cinética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "energia cinética → energia potencial e energia cinética → energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "energia potencial → energia cinética e energia cinética → energia elétrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "energia potencial → energia elétrica e energia potencial → energia cinética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "energia potencial → energia elétrica e energia cinética → energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2011 - Reaplicação",
+    "index": 95,
+    "year": 2011,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "El día de los muertos en México (2 de noviembre)\nEste día se celebra la máxima festividad de los muertos\nen México. La celebración está llena de muchas\ncostumbres. A las personas les gusta ir y llevar flores a\nlas tumbas de sus muertos pero para otras representa\ntodo un rito que comienza en la madrugada cuando\nmuchas familias hacen altares de muertos sobre las\nlápidas de sus difuntos familiares. Estos altares tienen\nun gran significado ya que con ellos se cree que se\nayuda a sus muertos a llevar un buen camino durante la\nmuerte. Esta creencia es una mezcla de las tradiciones\nreligiosas precolombinas y la católica. Otros altares\nmás complejos, según la tradición, deben de constar\nde 7 niveles o escalones que representan los niveles\nque tiene que pasar el alma de un muerto para poder\ndescansar. Estos altares se realizan generalmente en\nlugares con gran espacio.\n\nDisponível em: http://www.sanmiguelguide.com. Acesso em: 22 maio 2009 (adaptado).\n\n![](https://enem.dev/2011-reaplicacao/questions/95-espanhol/3a1f51e4-18a2-4c18-9a2c-d6f29cc02ed5.png)\n\nDisponível em: http://www.educima.com. Acesso em: 22 maio 2009.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/95-espanhol/3a1f51e4-18a2-4c18-9a2c-d6f29cc02ed5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Como no Brasil, o México também homenageia seus\nmortos no dia 2 de novembro, mas cada lugar tem suas\npróprias características. Baseando-se no texto, a origem\ndessa celebração no México deve-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à mistura entre a tradição cristã e as religiões que existiam antes no país.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "à família mexicana, que gosta de levar flores aos cemitérios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à festa que ajuda os mortos a irem por um bom caminho no além.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aos altares que têm a função de enfeitar os cenários da festa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "às cerimônias que são celebradas dentro das casas das famílias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

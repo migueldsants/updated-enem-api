@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2003",
+    "index": 44,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em um debate sobre o futuro do setor de transporte de uma grande cidade brasileira com trânsito intenso, foi\napresentado um conjunto de propostas.\nEntre as propostas reproduzidas abaixo, aquela que atende, ao mesmo tempo, a implicações sociais e ambientais\npresentes nesse setor é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proibir o uso de combustíveis produzidos a partir de recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "promover a substituição de veículos a diesel por veículos a gasolina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incentivar a substituição do transporte individual por transportes coletivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumentar a importação de diesel para substituir os veículos a álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminuir o uso de combustíveis voláteis devido ao perigo que representam.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

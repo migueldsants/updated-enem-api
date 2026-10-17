@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2011 - Reaplicação",
+    "index": 120,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "História do contato entre línguas no Brasil\n\nNo Brasil, o contato dos colonizadores portugueses\ncom milhões de falantes de mais de mil línguas\nautóctones e de cerca de duzentas línguas que vieram\nna boca de cerca de quatro milhões de africanos trazidos\npara o país como escravos é, sem sombra de dúvida,\no principal parâmetro histórico para a contextualização\ndas mudanças linguísticas que afetaram o português\nbrasileiro. E processos como esses não devem ser\nlevados em conta apenas para a compreensão das\ndiferenças entre as variedades linguísticas nacionais.\nO próprio mapeamento das variedades linguísticas\ncontemporâneas do português europeu e, sobretudo, do\nportuguês brasileiro, tanto no plano diatópico quanto no\nplano diastrático, depende crucialmente de uma apurada\ncompreensão do processo histórico de sua formação.\n\nLUCCCHESI, D.; BAXTER, A.; RIBEIRO, I. (orgs.). O português afro-brasileiro.\nSalvador: EdUFBA, 2009 (adaptado).\n\nGlossário:\nAutóctone: nativo de uma região.\nDiatópico: referente à variação de uma mesma língua no plano\nregional (país, estado, cidade etc.).\nDiastrático: referente à variação de uma mesma língua em\nfunção das diversas classes sociais.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Do ponto de vista histórico, as mudanças linguísticas\nque afetaram o português do Brasil têm sua origem\nno contato dos colonizadores com inúmeras línguas\nindígenas e africanas. Considerando as reflexões\napresentadas no texto, verifica-se que esse processo,\niniciado no começo da colonização, teve como resultado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a aceitação da escravidão, em que seres humanos foram reduzidos à condição de objeto por seus senhores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a constituição do patrimônio linguístico, uma vez que representa a identidade nacional do povo brasileiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o isolamento de um número enorme de índios durante todo o período da colonização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a separação entre pessoas que desfrutavam bens e outras que não tinham acesso aos bens de consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a supremacia dos colonizadores portugueses, que muito se empenharam para conquistar os indígenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2011 - Reaplicação",
+    "index": 77,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na charge, o autor refere-se de forma bem-\nhumorada a uma preocupação da população e das\nautoridades de saúde em relação à contaminação de\nhumanos pelo vírus da gripe H1N1, também conhecida\ncomo gripe suína.\n\n![](https://enem.dev/2011-reaplicacao/questions/77/9e080bca-176b-40bc-adcc-9daf37de6f67.png)\n\nDisponível em: http://jorgebragahumor.blogpot.com. Acesso em: 28 out. 2010.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/77/9e080bca-176b-40bc-adcc-9daf37de6f67.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O autor sugere uma reflexão sobre as crenças acerca\ndas formas de contaminação pelo vírus da gripe H1N1.\nTrata-se de um mito a concepção de que a Influenza\nH1N1 é transmitida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela ingestão de carne contaminada, principalmente",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "pelo contato direto entre os fluidos de indivíduos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pelo contato com objetos compartilhados entre",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pelo ar juntamente com partículas de poeira em",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "por meio da ingestão de alimento contaminado pelas",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

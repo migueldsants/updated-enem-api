@@ -1,0 +1,45 @@
+{
+    "title": "Questão 60 - ENEM 2007",
+    "index": 60,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "As pressões ambientais pela redução na emissão\nde gás estufa, somadas ao anseio pela diminuição da\ndependência do petróleo, fizeram os olhos do mundo se\nvoltarem para os combustíveis renováveis, principalmente\npara o etanol. Líderes na produção e no consumo de\netanol, Brasil e Estados Unidos da América (EUA)\nproduziram, juntos, cerca de 35 bilhões de litros do produto\nem 2006. Os EUA utilizam o milho como matéria-prima\npara a produção desse álcool, ao passo que o Brasil utiliza\na cana-de-açúcar. O quadro abaixo apresenta alguns\níndices relativos ao processo de obtenção de álcool nesses\n\n![](https://enem.dev/2007/questions/60/4b4dd929-402a-41eb-9f24-2bd147518b6e.png)",
+    "files": [
+        "https://enem.dev/2007/questions/60/4b4dd929-402a-41eb-9f24-2bd147518b6e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual das seguintes fontes de produção de energia é a\nmais recomendável para a diminuição dos gases\ncausadores do aquecimento global?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Óleo diesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Gasolina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Carvão mineral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Gás natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

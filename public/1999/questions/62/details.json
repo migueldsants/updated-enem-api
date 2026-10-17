@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 1999",
+    "index": 62,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Casos de leptospirose crescem na região\n\nM.P.S. tem 12 anos e está desde janeiro em tratamento de leptospirose. Ela perdeu a tranqüilidade e encontrou nos ratos, (...),\nos vilões de sua infância. “Se eu não os matar, eles me matam”, diz. Seu medo reflete um dos maiores problemas do bairro: a\nfalta de saneamento básico e o acúmulo de lixo...\n\n(O Estado de S. Paulo, 31/07/1997)\n\nOito suspeitos de leptospirose\nA cidade ficou sob as águas na madrugada de anteontem e, além de 120 desabrigados, as inundações estão fazendo outro\ntipo de vítimas: já há oito suspeitas de casos de leptospirose (...) transmitida pela urina de ratos contaminados.\n\n(Folha de S. Paulo, 12/02/1999)\n\nAs notícias dos jornais sobre casos de leptospirose estão associadas aos fatos:\n\nI. Quando ocorre uma enchente, as águas espalham, além do lixo acumulado, todos os dejetos dos animais que ali vivem.\nII. O acúmulo de lixo cria ambiente propício para a proliferação dos ratos.\nIII. O lixo acumulado nos terrenos baldios e nas margens de rios entope os bueiros e compromete o escoamento das águas\n\nem dias de chuva.\n\nIV. As pessoas que vivem na região assolada pela enchente, entrando em contato com a água contaminada, têm grande\n\nchance de contrair a leptospirose.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A seqüência de fatos que relaciona corretamente a leptospirose, o lixo, as enchentes e os roedores é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II, III e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I, III, IV e II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "IV, III, II e I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II, IV, I e III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II, III, I e IV",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

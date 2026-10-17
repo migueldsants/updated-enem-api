@@ -1,0 +1,49 @@
+{
+    "title": "Questão 152 - ENEM 2010 - Reaplicação",
+    "index": 152,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Grandes times nacionais e internacionais utilizam dados\nestatísticos para a definição do time que sairá jogando\nnuma partida. Por exemplo, nos últimos treinos, dos\nchutes a gol feito pelo jogador I, ele converteu 45 chutes\nem gol. Enquanto isso, o jogador II acertou 50 gols. Quem\ndeve ser selecionado para estar no time no próximo jogo,\njá que os dois jogam na mesma posição?",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/152/70dee4d9-4a4b-4cee-bb5d-90faabee4694.png",
+        "https://enem.dev/2010-reaplicacao/questions/152/e24b0f15-1df9-477e-851f-44c04fe759c1.png",
+        "https://enem.dev/2010-reaplicacao/questions/152/2cda5984-1c0c-4e4d-9b19-83ad6fc5d004.png",
+        "https://enem.dev/2010-reaplicacao/questions/152/f69ed184-fb7a-4227-8f4a-7bdceca96249.png",
+        "https://enem.dev/2010-reaplicacao/questions/152/33a5d379-c15f-49a6-9ee2-dee9271f7091.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A decisão parece simples, porém deve-se levar em\nconta quantos chutes a gol cada um teve oportunidade\nde executar. Se o jogador I chutou 60 bolas a gol e o\njogador II chutou 75, quem deveria ser escolhido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/152/70dee4d9-4a4b-4cee-bb5d-90faabee4694.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/152/e24b0f15-1df9-477e-851f-44c04fe759c1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/152/2cda5984-1c0c-4e4d-9b19-83ad6fc5d004.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/152/f69ed184-fb7a-4227-8f4a-7bdceca96249.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/152/33a5d379-c15f-49a6-9ee2-dee9271f7091.png",
+            "isCorrect": false
+        }
+    ]
+}

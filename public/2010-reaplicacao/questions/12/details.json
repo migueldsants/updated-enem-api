@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2010 - Reaplicação",
+    "index": 12,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que transformação ocorrida na agricultura brasileira,\nnas últimas décadas, justifica as variações apresentadas\nno gráfico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O aumento do número de trabalhadores e menor necessidade de investimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O progressivo direcionamento da produção de grãos para o mercado interno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aintrodução de novas técnicas e insumos agrícolas, como fertilizantes e sementes geneticamente modificadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A introdução de métodos de plantio orgânico, altamente produtivos, voltados para a exportação em larga escala.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O aumento no crédito rural voltado para a produção de grãos por camponeses da agricultura extensiva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

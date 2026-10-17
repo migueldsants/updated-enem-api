@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2007",
+    "index": 19,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/19/ad225648-7a16-42cc-b390-6c8f7b049cfc.png)\n\nPinacoteca do Estado de São Paulo.\n\nUm dia, os imigrantes aglomerados na\namurada da proa chegavam à fedentina quente de um\nporto, num silêncio de mato e de febre amarela.\nSantos. — É aqui! Buenos Aires é aqui! — Tinham\ntrocado o rótulo das bagagens, desciam em fila.\nFaziam suas necessidades nos trens dos animais\nonde iam. Jogavam-nos num pavilhão comum em São\nPaulo. — Buenos Aires é aqui! — Amontoados com\ntrouxas, sanfonas e baús, num carro de bois, que\npretos guiavam através do mato por estradas\nesburacadas, chegavam uma tarde nas senzalas\ndonde acabava de sair o braço escravo. Formavam\nmilitarmente nas madrugadas do terreiro homens e\nmulheres, ante feitores de espingarda ao ombro.\n\nOswald de Andrade. Marco Zero II –\nChão. Rio de Janeiro: Globo, 1991.",
+    "files": [
+        "https://enem.dev/2007/questions/19/ad225648-7a16-42cc-b390-6c8f7b049cfc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Levando-se em consideração o texto de Oswald de\nAndrade e a pintura de Antonio Rocco reproduzida\nacima, relativos à imigração européia para o Brasil,\né correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a visão da imigração presente na pintura é trágica e, no texto, otimista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a pintura confirma a visão do texto quanto à imigração de argentinos para o Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os dois autores retratam dificuldades dos imigrantes na chegada ao Brasil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Antonio Rocco retrata de forma otimista a imigração, destacando o pioneirismo do imigrante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Oswald de Andrade mostra que a condição de vida do imigrante era melhor que a dos ex- escravos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

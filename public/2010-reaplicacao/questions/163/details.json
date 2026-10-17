@@ -1,0 +1,49 @@
+{
+    "title": "Questão 163 - ENEM 2010 - Reaplicação",
+    "index": 163,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para verificar e analisar o grau de eficiência de um\nteste que poderia ajudar no retrocesso de uma doença\nnuma comunidade, uma equipe de biólogos aplicou-o\nem um grupo de 500 ratos, para detectar a presença\ndessa doença. Porém, o teste não é totalmente eficaz,\npodendo existir ratos saudáveis com resultado positivo\ne ratos doentes com resultado negativo. Sabe-se,\nainda, que 100 ratos possuem a doença, 20 ratos são\nsaudáveis com resultado positivo e 40 ratos são doentes\ncom resultado negativo.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/163/fe024e2c-8099-4e21-b982-70c900acc3bf.png",
+        "https://enem.dev/2010-reaplicacao/questions/163/68722526-115f-4a32-aa72-3203a7e31a06.png",
+        "https://enem.dev/2010-reaplicacao/questions/163/44f70918-5cd6-40f6-b783-f2d7c175b5c6.png",
+        "https://enem.dev/2010-reaplicacao/questions/163/24d0b7f9-a593-499d-ae3b-55f5cddf37fc.png",
+        "https://enem.dev/2010-reaplicacao/questions/163/5e2a93f0-7004-4976-a57e-612035a6acc2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um rato foi escolhido ao acaso, e verificou-se que o seu\nresultado deu negativo. A probabilidade de esse rato ser\nsaudável é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/163/fe024e2c-8099-4e21-b982-70c900acc3bf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/163/68722526-115f-4a32-aa72-3203a7e31a06.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/163/44f70918-5cd6-40f6-b783-f2d7c175b5c6.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/163/24d0b7f9-a593-499d-ae3b-55f5cddf37fc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/163/5e2a93f0-7004-4976-a57e-612035a6acc2.png",
+            "isCorrect": false
+        }
+    ]
+}

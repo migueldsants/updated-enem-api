@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2011 - Reaplicação",
+    "index": 151,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma universidade decidiu promover uma coleta de\ninformações que fornecesse dados para implementar ações\ndestinadas à recuperação de estudantes que consumiam\ndrogas no campus, cujo objetivo era reabilitar os usuários.\nO resultado dessa coleta é apresentado no quadro:\n\n![](https://enem.dev/2011-reaplicacao/questions/151/98c27e15-fb20-49f6-8dce-b00147987cd6.png)\n\nA universidade tinha como objetivo que o programa\natingisse, no mínimo, metade dos usuários de drogas.\nNo entanto, antes de verificar os dados da coleta, decidiu\nque abriria um grupo de apoio apenas para estudantes\nque consumissem mais de dois tipos diferentes de droga.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/151/98c27e15-fb20-49f6-8dce-b00147987cd6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com as informações anteriores, a universidade\natingiu seu objetivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sim, porque o grupo de apoio trabalharia com 88% dos alunos envolvidos com drogas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Sim, porque o grupo de apoio trabalharia com 58% dos alunos envolvidos com drogas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Não, porque o grupo de apoio trabalharia apenas com 40% dos alunos envolvidos com drogas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Não, porque o grupo de apoio trabalharia apenas com 38% dos alunos envolvidos com drogas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Não, porque o grupo de apoio trabalharia apenas com 36% dos alunos envolvidos com drogas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

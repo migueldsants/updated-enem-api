@@ -1,0 +1,45 @@
+{
+    "title": "Questão 30 - ENEM 2008",
+    "index": 30,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 30 e 31\n\nO gráfico a seguir ilustra a evolução do consumo\nde eletricidade no Brasil, em GWh, em quatro setores de\n\n![](https://enem.dev/2008/questions/30/cd8ccdc9-fbee-43e9-a82b-055ac7027741.png)",
+    "files": [
+        "https://enem.dev/2008/questions/30/cd8ccdc9-fbee-43e9-a82b-055ac7027741.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A racionalização do uso da eletricidade faz parte dos\nprogramas oficiais do governo brasileiro desde 1980. No\nentanto, houve um período crítico, conhecido como\n“apagão”, que exigiu mudanças de hábitos da população\nbrasileira e resultou na maior, mais rápida e significativa\neconomia de energia. De acordo com o gráfico, conclui-se\nque o “apagão” ocorreu no biênio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1998-1999.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1999-2000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2000-2001.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2001-2002.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2002-2003.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

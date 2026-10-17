@@ -1,0 +1,46 @@
+{
+    "title": "Questão 35 - ENEM 2007",
+    "index": 35,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "2 3 4 5 6\n\n![](https://enem.dev/2007/questions/35/6995113e-acfe-44a6-a139-d26801ecbfc7.png)\n\nNos últimos 60 anos, verificou-se grande aumento\nda produtividade agrícola nos Estados Unidos da América\n(EUA). Isso se deveu a diversos fatores, tais como\nexpansão do uso de fertilizantes e pesticidas, biotecnologia\ne maquinário especializado. O gráfico abaixo apresenta\ndados referentes à agricultura desse país, no período\ncompreendido entre 1948 e 2004.\n\n![](https://enem.dev/2007/questions/35/31f79f99-48a8-49e9-8e39-79094b4455f7.png)\n\nScientific American Brasil, jun./2007, p. 19 (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/35/6995113e-acfe-44a6-a139-d26801ecbfc7.png",
+        "https://enem.dev/2007/questions/35/31f79f99-48a8-49e9-8e39-79094b4455f7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base nas informações acima, pode-se considerar\nfator relevante para o aumento da produtividade na\nagricultura estadunidense, no período de 1948 a 2004,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o aumento do uso da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a redução dos custos de material.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a redução do uso de agrotóxicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o aumento da oferta de empregos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o aumento do uso de tecnologias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

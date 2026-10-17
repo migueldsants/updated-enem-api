@@ -1,0 +1,46 @@
+{
+    "title": "Questão 49 - ENEM 2008",
+    "index": 49,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Figura para as questões 48 e 49\n\nA figura abaixo apresenta dados percentuais que\nintegram os Indicadores Básicos para a Saúde, relativos às\nprincipais causas de mortalidade de pessoas do sexo\nmasculino.\n\nMortalidade proporcional em relação às principais causas (%),\n\n![](https://enem.dev/2008/questions/49/27e0c168-ebe5-40f6-9b3e-8fc6b7a318c6.png)\n\n![](https://enem.dev/2008/questions/49/5d73e9a3-5a5b-4d2b-89fe-5f06716400c0.png)\n\nFonte: Ministério da Saúde/SUS.\n\nCausas externas\nDoenças do aparelho\nM1 agressões\ncirculatório\nM2 acidentes de trânsito\nM3 causas externas de M6 doenças isquêmicas\nintenção indeterminada do coração\nM4 lesões autoprovocadas M8 doenças\nvoluntariamente cardiovasculares\nM5 afogamentos e submersões M9 outras doenças\nacidentais cardíacas\n\nDoenças do aparelho respiratório Doenças do aparelho\nM10 doenças crônicas das vias digestivo\naéreas inferiores\nM11 pneumonia M7 doenças do fígado\n\nInternet: <tabnet.datasus.gov.br> (com adaptações).",
+    "files": [
+        "https://enem.dev/2008/questions/49/27e0c168-ebe5-40f6-9b3e-8fc6b7a318c6.png",
+        "https://enem.dev/2008/questions/49/5d73e9a3-5a5b-4d2b-89fe-5f06716400c0.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O limite de concentração de álcool etílico no sangue\nestabelecido para os motoristas revela que a nova\nlegislação brasileira de trânsito é uma das mais rígidas do\nmundo. Apesar dos aspectos polêmicos, a \"lei seca\" pode\nmudar substancialmente os indicadores de mortalidade,\nparticularmente no que se refere a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "gripe e pneumonia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "doenças do aparelho urinário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acidentes vasculares cerebrais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "doenças sexualmente transmissíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "agressões e acidentes de trânsito.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

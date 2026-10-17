@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2011 - Reaplicação",
+    "index": 105,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Morte e vida Severina\n\nSomos muitos Severinos\niguais em tudo na vida:\nna mesma cabeça grande\nque a custo é que se equilibra,\nno mesmo ventre crescido\nsobre as mesmas pernas finas,\ne iguais também porque o sangue\nque usamos tem pouca tinta.\nE se somos Severinos\niguais em tudo na vida,\nmorremos de morte igual,\nmesma morte Severina:\nque é a morte de que se morre\nde velhice antes dos trinta\nde emboscada antes dos vinte,\nde fome um pouco por dia.\n\nMELO NETO, J. C. Obra completa. Rio Janeiro: Nova Aguilar, 1994 (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nesse fragmento, parte de um auto de Natal, o poeta\nretrata uma situação marcada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "presença da morte, que universaliza os sofrimentos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dos nordestinos. figura do homem agreste, que encara ternamente",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "sua condição de pobreza. descrição sentimentalista de Severino, que divaga",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sobre questões existenciais. miséria, à qual muitos nordestinos estão expostos,",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "simbolizada na figura de Severino. opressão socioeconômica a que todo ser humano se encontra submetido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

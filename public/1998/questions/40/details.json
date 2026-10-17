@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 1998",
+    "index": 40,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "A figura de Getúlio Vargas, como personagem histórica, é bastante polêmica, devido à complexidade e à\nmagnitude de suas ações como presidente do Brasil durante um longo período de quinze anos (1930-\n1945). Foram anos de grandes e importantes mudanças para o país e para o mundo. Pode-se perceber o\ndestaque dado a Getúlio Vargas pelo simples fato de este período ser conhecido no Brasil como a \"Era\nVargas\".\n\nEntretanto, Vargas não é visto de forma favorável por todos. Se muitos o consideram como um fervoroso\nnacionalista, um progressista ativo e o \"Pai dos Pobres\", existem outros tantos que o definem como ditador\noportunista, um intervencionista e amigo das elites.\n\nConsiderando as colocações acima, responda à questão seguinte, assinalando a alternativa correta:",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Provavelmente você percebeu que as duas opiniões sobre Vargas são opostas, defendendo valores\npraticamente antagônicos. As diferentes interpretações do papel de uma personalidade histórica podem ser\nexplicadas, conforme uma das opções abaixo. Assinale-a.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Um dos grupos está totalmente errado, uma vez que a permanência no poder depende de idéias coerentes e de uma política contínua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O grupo que acusa Vargas de ser ditador está totalmente errado. Ele nunca teve uma orientação ideológica favorável aos regimes politicamente fechados e só tomou medidas duras forçado pelas circunstâncias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os dois grupos estão certos. Cada um mostra Vargas da forma que serve melhor aos seus interesses, pois ele foi um governante apático e fraco - um verdadeiro marionete nas mãos das elites da época.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O grupo que defende Vargas como um autêntico nacionalista está totalmente enganado. Poucas medidas nacionalizantes foram tomadas para iludir os brasileiros, devido à política populista do varguismo, e ele fazia tudo para agradar aos grupos estrangeiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os dois grupos estão errados, por assumirem características parciais e, às vezes conjunturais, como sendo posturas definitivas e absolutas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

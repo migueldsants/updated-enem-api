@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2000",
+    "index": 59,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "As histórias em quadrinhos, por vezes, utilizam animais como personagens e a eles\n\n![](https://enem.dev/2000/questions/59/60921779-0808-4256-b746-f4ce16eefa1c.png)",
+    "files": [
+        "https://enem.dev/2000/questions/59/60921779-0808-4256-b746-f4ce16eefa1c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O 3º quadrinho sugere que Garfield:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desconhece tudo sobre arte, por isso faz a sugestão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acredita que todo pintor deve fazer algo diferente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "defende que para ser pintor a pessoa tem de sofrer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conhece a história de um pintor famoso e faz uso da ironia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "acredita que seu dono tenha tendência artística e, por isso, faz a sugestão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

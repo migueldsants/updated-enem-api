@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2000",
+    "index": 31,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Em 1999, o Programa das Nações Unidas para o Desenvolvimento elaborou o\n“Relatório do Desenvolvimento Humano”, do qual foi extraído o trecho abaixo.\n\nNos últimos anos da década de 90, o quinto da população mundial que\nvive nos países de renda mais elevada tinha:\n· 86% do PIB mundial, enquanto o quinto de menor renda, apenas 1%;\n· 82% das exportações mundiais, enquanto o quinto de menor renda,\n\napenas 1%;\n· 74% das linhas telefônicas mundiais, enquanto o quinto de menor\n\nrenda, apenas 1,5%;\n· 93,3% das conexões com a Internet, enquanto o quinto de menor\n\nrenda, apenas 0,2%.\nA distância da renda do quinto da população mundial que vive nos países\nmais pobres - que era de 30 para 1, em 1960 — passou para 60 para 1,\nem 1990, e chegou a 74 para 1, em 1997.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com esse trecho do relatório, o cenário do desenvolvimento humano\nmundial, nas últimas décadas, foi caracterizado pela:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminuição da disparidade entre as nações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diminuição da marginalização de países pobres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inclusão progressiva de países no sistema produtivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "crescente concentração de renda, recursos e riqueza.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "distribuição eqüitativa dos resultados das inovações tecnológicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

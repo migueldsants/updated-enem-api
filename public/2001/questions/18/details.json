@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2001",
+    "index": 18,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O franciscano Roger Bacon foi condenado, entre 1277 e 1279, por dirigir ataques aos\nteólogos, por uma suposta crença na alquimia, na astrologia e no método experimental, e\ntambém por introduzir, no ensino, as idéias de Aristóteles. Em 1260, Roger Bacon escreveu:\n“Pode ser que se fabriquem máquinas graças às quais os maiores navios, dirigidos por um\núnico homem, se desloquem mais depressa do que se fossem cheios de remadores; que se\nconstruam carros que avancem a uma velocidade incrível sem a ajuda de animais; que se\nfabriquem máquinas voadoras nas quais um homem (...) bata o ar com asas como um pássaro.\n(...) Máquinas que permitam ir ao fundo dos mares e dos rios”\n\n(apud. BRAUDEL, Fernand. Civilização material, economia e capitalismo: séculos XV-XVIII, São Paulo: Martins Fontes, 1996, vol. 3.).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a dinâmica do processo histórico, pode-se afirmar que as idéias de Roger\nBacon",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inseriam-se plenamente no espírito da Idade Média ao privilegiarem a crença em Deus como o principal meio para antecipar as descobertas da humanidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estavam em atraso com relação ao seu tempo ao desconsiderarem os instrumentos intelectuais oferecidos pela Igreja para o avanço científico da humanidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "opunham-se ao desencadeamento da Primeira Revolução Industrial, ao rejeitarem a aplicação da matemática e do método experimental nas invenções industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "eram fundamentalmente voltadas para o passado, pois não apenas seguiam Aristóteles, como também baseavam-se na tradição e na teologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "inseriam-se num movimento que convergiria mais tarde para o Renascimento, ao contemplarem a possibilidade de o ser humano controlar a natureza por meio das invenções.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

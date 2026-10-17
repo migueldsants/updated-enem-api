@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 1999",
+    "index": 48,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Quem não passou pela experiência de estar lendo um texto e defrontar-se com passagens já lidas em outros? Os textos\n\nconversam entre si em um diálogo constante. Esse fenômeno tem a denominação de intertextualidade. Leia os seguintes\ntextos:\n\nI. Quando nasci, um anjo torto\nDesses que vivem na sombra\nDisse: Vai Carlos! Ser “gauche” na vida\n\n(ANDRADE, Carlos Drummond de. Alguma poesia. Rio de Janeiro: Aguilar, 1964)\n\nII. Quando nasci veio um anjo safado\nO chato dum querubim\nE decretou que eu tava predestinado\nA ser errado assim\nJá de saída a minha estrada entortou\nMas vou até o fim.\n\n(BUARQUE, Chico. Letra e Música. São Paulo: Cia das Letras, 1989)\n\nIII. Quando nasci um anjo esbelto\nDesses que tocam trombeta, anunciou:\nVai carregar bandeira.\nCarga muito pesada pra mulher\nEsta espécie ainda envergonhada.\n\n(PRADO, Adélia. Bagagem. Rio de Janeiro: Guanabara, 1986)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Adélia Prado e Chico Buarque estabelecem intertextualidade, em relação a Carlos Drummond de Andrade, por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reiteração de imagens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "oposição de idéias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "falta de criatividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "negação dos versos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ausência de recursos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

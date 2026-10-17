@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2007",
+    "index": 53,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/53/29cff82a-2494-4432-b0ed-e93efa032815.png)",
+    "files": [
+        "https://enem.dev/2007/questions/53/29cff82a-2494-4432-b0ed-e93efa032815.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A pintura rupestre acima, que é um patrimônio cultural brasileiro,\nexpressa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o conflito entre os povos indígenas e os europeus durante o processo de colonização do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a organização social e política de um povo indígena e a hierarquia entre seus membros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aspectos da vida cotidiana de grupos que viveram durante a chamada pré-história do Brasil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "os rituais que envolvem sacrifícios de grandes dinossauros atualmente extintos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a constante guerra entre diferentes grupos paleoíndios da América durante o período colonial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

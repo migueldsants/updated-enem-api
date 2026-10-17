@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2008",
+    "index": 46,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "São Paulo vai se recensear. O governo quer saber\nquantas pessoas governa. A indagação atingirá a fauna e a\nflora domesticadas. Bois, mulheres e algodoeiros serão\nreduzidos a números e invertidos em estatísticas. O homem\ndo censo entrará pelos bangalôs, pelas pensões, pelas\ncasas de barro e de cimento armado, pelo sobradinho e pelo\napartamento, pelo cortiço e pelo hotel, perguntando:\n\n— Quantos são aqui?\nPergunta triste, de resto. Um homem dirá:\n— Aqui havia mulheres e criancinhas. Agora,\nfelizmente, só há pulgas e ratos.\n\nE outro:\n— Amigo, tenho aqui esta mulher, este papagaio,\nesta sogra e algumas baratas. Tome nota dos seus nomes,\nse quiser. Querendo levar todos, é favor... (...)\n\nE outro:\n— Dois, cidadão, somos dois. Naturalmente o sr.\nnão a vê. Mas ela está aqui, está, está! A sua saudade\njamais sairá de meu quarto e de meu peito!\n\nRubem Braga. Para gostar de ler. v. 3.\nSão Paulo: Ática, 1998, p. 32-3 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O fragmento acima, em que há referência a um fato\nsócio-histórico — o recenseamento —, apresenta\ncaracterística marcante do gênero crônica ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expressar o tema de forma abstrata, evocando imagens e buscando apresentar a idéia de uma coisa por meio de outra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "manter-se fiel aos acontecimentos, retratando os personagens em um só tempo e um só espaço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contar história centrada na solução de um enigma, construindo os personagens psicologicamente e revelando-os pouco a pouco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "evocar, de maneira satírica, a vida na cidade, visando transmitir ensinamentos práticos do cotidiano, para manter as pessoas informadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valer-se de tema do cotidiano como ponto de partida para a construção de texto que recebe tratamento estético.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2001",
+    "index": 49,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A refrigeração e o congelamento de alimentos são responsáveis por uma parte significativa\ndo consumo de energia elétrica numa residência típica.\n\nPara diminuir as perdas térmicas de uma geladeira, podem ser tomados alguns cuidados\noperacionais:\n\nI. Distribuir os alimentos nas prateleiras deixando espaços vazios entre eles, para que\n\nocorra a circulação do ar frio para baixo e do quente para cima.\n\nII. Manter as paredes do congelador com camada bem espessa de gelo, para que o\n\naumento da massa de gelo aumente a troca de calor no congelador.\n\nIII. Limpar o radiador (\"grade\" na parte de trás) periodicamente, para que a gordura e a\n\npoeira que nele se depositam não reduzam a transferência de calor para o ambiente.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para uma geladeira tradicional é correto indicar, apenas,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a operação I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a operação II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as operações I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as operações I e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as operações II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

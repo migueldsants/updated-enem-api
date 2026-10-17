@@ -1,0 +1,45 @@
+{
+    "title": "Questão 38 - ENEM 2007",
+    "index": 38,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/38/d7b2e341-84cc-4392-906a-46a59d8479e8.png)",
+    "files": [
+        "https://enem.dev/2007/questions/38/d7b2e341-84cc-4392-906a-46a59d8479e8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É título adequado para a matéria jornalística em que o\ngráfico acima seja apresentado:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apicultura: Brasil ocupa a 33.ª posição no ranking mundial de produção de mel — as abelhas estão desaparecendo no país",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O milagre do mel: a apicultura se expande e coloca o país entre os seis primeiros no ranking mundial de produção",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pescadores do mel: Brasil explora regiões de mangue para produção do mel e ultrapassa a Argentina no ranking mundial",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sabor bem brasileiro: Brasil inunda o mercado mundial com a produção de 15 mil toneladas de mel em 2005",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sabor de mel: China é o gigante na produção de mel no mundo e o Brasil está em 15.º lugar no ranking",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

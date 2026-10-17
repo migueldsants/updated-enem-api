@@ -1,0 +1,46 @@
+{
+    "title": "Questão 46 - ENEM 2006",
+    "index": 46,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "No primeiro semestre de 2006, o Movimento\nGlobal pela Criança, em parceria com o UNICEF, divulgou\no relatório Salvando vidas: o direito das crianÐas ao\ntratamento de HIV e AIDS. Nesse relatório, conclui-se que\no aumento da prevenção primária ao vírus deverá reduzir o\nnúmero de novos casos de infecção entre jovens de 15 a\n24 anos de idade, como mostra o gráfico a seguir.\n\n![](https://enem.dev/2006/questions/46/dc75c3d7-e3d0-42ec-b16e-e9c87110f231.png)\n\nCom base nesses dados, analise as seguintes afirmações.\n\nI Ações educativas de prevenção da transmissão do vírus\n\nHIV poderão contribuir para a redução, em 2008, de\nmais de 20% dos novos casos de infecção entre os\njovens, em relação ao ano de 2005.\nII Ações educativas relativas à utilização de preservativos\n\nnas relações sexuais reduzirão em 25% ao ano os\nnovos casos de AIDS entre os jovens.\nIII Sem o aumento de medidas de prevenção primária,\n\nestima-se que, em 2010, o aumento de novos casos de\ninfecção por HIV entre os jovens será, em relação ao\nano de 2005, 50% maior.",
+    "files": [
+        "https://enem.dev/2006/questions/46/dc75c3d7-e3d0-42ec-b16e-e9c87110f231.png",
+        "https://enem.dev/2006/questions/46/a64c8543-1d8f-4b73-8112-a61d47febfbf.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/46/a64c8543-1d8f-4b73-8112-a61d47febfbf.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 25 - ENEM 2006",
+    "index": 25,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Os gráficos 1 e 2 a seguir mostram, em milhões de reais, o\ntotal do valor das vendas que uma empresa realizou em\ncada mês, nos anos de 2004 e 2005.\n\n![](https://enem.dev/2006/questions/25/a02ef71f-94c6-445d-81a1-05b9f8fea36b.png)",
+    "files": [
+        "https://enem.dev/2006/questions/25/a02ef71f-94c6-445d-81a1-05b9f8fea36b.png",
+        "https://enem.dev/2006/questions/25/2641a584-b0ff-4acb-8f60-0c65e56bf938.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Como mostra o gráfico 1, durante o ano de 2004, houve,\nem cada mês, crescimento das vendas em relação ao mês\nanterior. A diretoria dessa empresa, porém, considerou\nmuito lento o ritmo de crescimento naquele ano. Por isso,\nestabeleceu como meta mensal para o ano de 2005 o\ncrescimento das vendas em ritmo mais acelerado que o de\n2004. Pela análise do gráfico 2, conclui-se que a meta para\n2005 foi atingida em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "janeiro, fevereiro e outubro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fevereiro, março e junho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "março, maio e agosto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "abril, agosto e novembro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/25/2641a584-b0ff-4acb-8f60-0c65e56bf938.png",
+            "isCorrect": false
+        }
+    ]
+}

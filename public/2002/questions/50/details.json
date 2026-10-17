@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2002",
+    "index": 50,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Comer com as mãos era um hábito comum na Europa, no século XVI. A técnica empregada pelo índio no Brasil e por um português\nde Portugal era, aliás, a mesma: apanhavam o alimento com três dedos da mão direita (polegar, indicador e médio) e\natiravam-no para dentro da boca.\n\nUm viajante europeu de nome Freireyss, de passagem pelo Rio de Janeiro, já no século XIX, conta como “nas casas das roças\ndespejam-se simplesmente alguns pratos de farinha sobre a mesa ou num balainho, donde cada um se serve com os dedos,\narremessando, com um movimento rápido, a farinha na boca, sem que a mínima parcela caia para fora”. Outros viajantes\noitocentistas, como John Luccock, Carl Seidler, Tollenare e Maria Graham descrevem esse hábito em todo o Brasil e entre todas as\nclasses sociais. Mas para Saint-Hilaire, os brasileiros“lançam a [farinha de mandioca] à boca com uma destreza adquirida, na origem,\ndos indígenas, e que ao europeu muito custa imitar”.\n\nAluísio de Azevedo, em seu romance Girândola de amores (1882), descreve com realismo os hábitos de uma senhora abastada que\nsó saboreava a moqueca de peixe “sem talher, à mão”.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Dentre as palavras listadas abaixo, assinale a que traduz o elemento comum às descrições das práticas alimentares dos brasileiros\nfeitas pelos diferentes autores do século XIX citados no texto.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Regionalismo (caráter da literatura que se baseia em costumes e tradições regionais).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Intolerância (não-admissão de opiniões diversas das suas em questões sociais, políticas ou religiosas).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exotismo (caráter ou qualidade daquilo que não é indígena; estrangeiro; excêntrico, extravagante).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Racismo (doutrina que sustenta a superioridade de certas raças sobre outras).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sincretismo (fusão de elementos culturais diversos, ou de culturas distintas ou de diferentes sistemas sociais).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

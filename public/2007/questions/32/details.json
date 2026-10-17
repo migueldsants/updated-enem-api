@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2007",
+    "index": 32,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "No mapa a seguir, descreve-se a disseminação do\n\n![](https://enem.dev/2007/questions/32/0fe66655-3b6d-4faa-89a0-f07ed73ddc35.png)",
+    "files": [
+        "https://enem.dev/2007/questions/32/0fe66655-3b6d-4faa-89a0-f07ed73ddc35.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No mapa, a unidade da escala de tempo que descreve o\nmovimento do vírus da gripe da região Norte para a região\nSul do Brasil é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mês.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "hora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "minuto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "segundo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

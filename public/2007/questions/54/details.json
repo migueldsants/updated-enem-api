@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2007",
+    "index": 54,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Fenômenos biológicos podem ocorrer em diferentes escalas de\ntempo. Assinale a opção que ordena exemplos de fenômenos\nbiológicos, do mais lento para o mais rápido.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "germinação de uma semente, crescimento de uma árvore, fossilização de uma samambaia",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fossilização de uma samambaia, crescimento de uma árvore, germinação de uma semente",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "crescimento de uma árvore, germinação de uma semente, fossilização de uma samambaia",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fossilização de uma samambaia, germinação de uma semente, crescimento de uma árvore",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "germinação de uma semente, fossilização de uma samambaia, crescimento de uma árvore",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

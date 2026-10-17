@@ -1,0 +1,45 @@
+{
+    "title": "Questão 35 - ENEM 2003",
+    "index": 35,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Prevenindo-se contra o período anual de seca, um agricultor pretende construir um reservatório fechado, que\nacumule toda a água proveniente da chuva que cair no telhado de sua casa, ao longo de um período anual chuvoso.\nAs ilustrações a seguir apresentam as dimensões da casa, a quantidade média mensal de chuva na região, em\nmilímetros, e a forma do reservatório a ser construído.\n\n![](https://enem.dev/2003/questions/35/d75b4c2b-31f6-4917-a54c-6fe111ad6494.png)",
+    "files": [
+        "https://enem.dev/2003/questions/35/d75b4c2b-31f6-4917-a54c-6fe111ad6494.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sabendo que 100 milímetros de chuva equivalem ao acúmulo de 100 litros de água em uma superfície plana\nhorizontal de um metro quadrado, a profundidade (p) do reservatório deverá medir",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7m",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "8m",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

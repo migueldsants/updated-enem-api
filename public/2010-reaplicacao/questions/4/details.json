@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2010 - Reaplicação",
+    "index": 4,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A bandeira da Europa não é apenas o símbolo da União\nEuropeia, mas também da unidade e da identidade\nda Europa em sentido mais lato. O círculo de estrelas\ndouradas representa a solidariedade e a harmonia entre\nos povos da Europa.\n\nDisponível em: http://europa.eu/index_pt.htm.\nAcesso em: 29 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A que se pode atribuir a contradição intrínseca entre o que\npropõe a bandeira da Europa e o cotidiano vivenciado\npelas nações integrantes da União Europeia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao contexto da década de 1930, no qual a bandeira foi",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ao fato de que o ideal de equilíbrio implícito na",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ao fato de que Alemanha e Itália ainda são vistas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao fato de que a bandeira foi concebida por",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao fato de que a bandeira representa as",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

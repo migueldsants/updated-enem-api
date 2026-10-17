@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2006",
+    "index": 29,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "A poluição ambiental tornou-se grave problema a\nser enfrentado pelo mundo contemporâneo. No gráfico\nseguinte, alguns países estão agrupados de acordo com\nas respectivas emissões médias anuais de CO₂ per capita.\n\n![](https://enem.dev/2006/questions/29/3c26412c-8bc6-4469-95ea-d74d6a93d3af.png)\n\ntoneladas de CO₂ per capita\nO Estado de S. Paulo, 22/7/2004 (com adaptações).",
+    "files": [
+        "https://enem.dev/2006/questions/29/3c26412c-8bc6-4469-95ea-d74d6a93d3af.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando as características dos países citados, bem\ncomo as emissões médias anuais de CO₂ per capita\nindicadas no gráfico, assinale a opção correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O índice de emissão de CO₂ per capita dos países da União Européia se equipara ao de alguns países emergentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A China lança, em média, mais CO₂ per capita na atmosfera que os EUA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A soma das emissões de CO₂ per capita de Brasil, Índia e Indonésia é maior que o total lançado pelos EUA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A emissão de CO₂ é tanto maior quanto menos desenvolvido é o país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A média de lançamento de CO₂ em regiões e países desenvolvidos é superior a 15 toneladas por pessoa ao ano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

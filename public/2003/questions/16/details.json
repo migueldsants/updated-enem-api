@@ -1,0 +1,47 @@
+{
+    "title": "Questão 16 - ENEM 2003",
+    "index": 16,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Os acidentes de trânsito, no Brasil, em sua maior parte são causados por erro do motorista. Em boa parte deles, o\nmotivo é o fato de dirigir após o consumo de bebida alcoólica. A ingestão de uma lata de cerveja provoca uma\nconcentração de aproximadamente 0,3 g/L de álcool no sangue.\nA tabela abaixo mostra os efeitos sobre o corpo humano provocados por bebidas alcoólicas em função de níveis de\nconcentração de álcool no sangue:\n\nEfeitos\n\n![](https://enem.dev/2003/questions/16/3a338847-c0da-4bc6-8db5-79058412d757.png)\n\n![](https://enem.dev/2003/questions/16/28972eec-c625-4846-8b0a-5c7d2aa867fe.png)\n\n![](https://enem.dev/2003/questions/16/73d0343c-a411-4928-a537-2bcead891a24.png)\n\n(Revista Pesquisa FAPESP nº 57, setembro 2000)",
+    "files": [
+        "https://enem.dev/2003/questions/16/3a338847-c0da-4bc6-8db5-79058412d757.png",
+        "https://enem.dev/2003/questions/16/28972eec-c625-4846-8b0a-5c7d2aa867fe.png",
+        "https://enem.dev/2003/questions/16/73d0343c-a411-4928-a537-2bcead891a24.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma pessoa que tenha tomado três latas de cerveja provavelmente apresenta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "queda de atenção, de sensibilidade e das reações motoras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "aparente normalidade, mas com alterações clínicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "confusão mental e falta de coordenação motora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "disfunção digestiva e desequilíbrio ao andar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estupor e risco de parada respiratória.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

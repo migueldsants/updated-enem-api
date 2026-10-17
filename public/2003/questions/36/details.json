@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2003",
+    "index": 36,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Dados divulgados pelo Instituto Nacional de Pesquisas Espaciais mostraram o processo de devastação sofrido pela\nRegião Amazônica entre agosto de 1999 e agosto de 2000. Analisando fotos de satélites, os especialistas concluíram\nque, nesse período, sumiu do mapa um total de 20 000 quilômetros quadrados de floresta. Um órgão de imprensa\nnoticiou o fato com o seguinte texto:\n\nO assustador ritmo de destruição é de um campo de futebol a cada oito segundos.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando que um ano tem aproximadamente 32 x 10⁶ s (trinta e dois milhões de segundos) e que a medida da\nárea oficial de um campo de futebol é aproximadamente 10⁻² km² (um centésimo de quilômetro quadrado), as\ninformações apresentadas nessa notícia permitem concluir que tal ritmo de desmatamento, em um ano, implica a\ndestruição de uma área de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 000 km², e a comparação dá a idéia de que a devastação não é tão grave quanto o dado numérico nos indica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 000 km², e a comparação dá a idéia de que a devastação é mais grave do que o dado numérico nos indica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20 000 km², e a comparação retrata exatamente o ritmo da destruição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40 000 km², e o autor da notícia exagerou na comparação, dando a falsa impressão de gravidade a um fenômeno natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40 000 km² e, ao chamar a atenção para um fato realmente grave, o autor da notícia exagerou na comparação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

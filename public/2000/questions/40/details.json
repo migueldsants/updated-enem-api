@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2000",
+    "index": 40,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Um apostador tem três opções para participar de certa modalidade de\njogo, que consiste no sorteio aleatório de um número dentre dez.\n\n1ª opção: comprar três números para um único sorteio.\n\n2ª opção: comprar dois números para um sorteio e um número para um\nsegundo sorteio.\n\n3ª opção: comprar um número para cada sorteio, num total de três\nsorteios.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Escolhendo a 2ª opção, a probabilidade de o apostador não ganhar em\nqualquer dos sorteios é igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "90%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "81%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "72%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "70%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "65%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

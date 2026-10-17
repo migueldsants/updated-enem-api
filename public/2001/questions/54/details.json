@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2001",
+    "index": 54,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Os textos referem-se à integração do índio à chamada civilização brasileira.\n\nI - “Mais uma vez, nós, os povos indígenas, somos vítimas de um pensamento que separa e\nque tenta nos eliminar cultural, social e até fisicamente. A justificativa é a de que somos\napenas 250 mil pessoas e o Brasil não pode suportar esse ônus.(...) É preciso congelar essas\nidéias colonizadoras, porque elas são irreais e hipócritas e também genocidas.(...) Nós, índios,\nqueremos falar, mas queremos ser escutados na nossa língua, nos nossos costumes.”\n\nMarcos Terena, presidente do Comitê Intertribal Articulador dos Direitos Indígenas na ONU e fundador das Nações Indígenas,\nFolha de S. Paulo, 31 de agosto de 1994.\n\nII - “O Brasil não terá índios no final do século XXI (...) E por que isso? Pela razão muito\nsimples que consiste no fato de o índio brasileiro não ser distinto das demais comunidades\nprimitivas que existiram no mundo. A história não é outra coisa senão um processo\ncivilizatório, que conduz o homem, por conta própria ou por difusão da cultura, a passar do\npaleolítico ao neolítico e do neolítico a um estágio civilizatório.”\n\nHélio Jaguaribe, cientista político, Folha de S. Paulo, 2 de setembro de 1994.",
+    "files": [
+        "https://enem.dev/2001/questions/54/aaa85225-0f35-4117-bbfa-e0b0eee3f88e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pode-se afirmar, segundo os textos, que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tanto Terena quanto Jaguaribe propõem idéias inadequadas, pois o primeiro deseja a aculturação feita pela “civilização branca”, e o segundo, o confinamento de tribos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Terena quer transformar o Brasil numa terra só de índios, pois pretende mudar até mesmo a língua do país, enquanto a idéia de Jaguaribe é anticonstitucional, pois fere o direito à identidade cultural dos índios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/54/aaa85225-0f35-4117-bbfa-e0b0eee3f88e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Terena defende que a sociedade brasileira deve respeitar a cultura dos índios e Jaguaribe acredita na inevitabilidade do processo de aculturação dos índios e de sua incorporação à sociedade brasileira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Terena propõe que a integração indígena deve ser lenta, gradativa e progressiva, e Jaguaribe propõe que essa integração resulte de decisão autônoma das comunidades indígenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

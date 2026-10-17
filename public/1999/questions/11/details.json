@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 1999",
+    "index": 11,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A gasolina é vendida por litro, mas em sua utilização como combustível, a massa é o que importa. Um aumento da\n\ntemperatura do ambiente leva a um aumento no volume da gasolina. Para diminuir os efeitos práticos dessa variação, os\ntanques dos postos de gasolina são subterrâneos. Se os tanques não fossem subterrâneos:\n\nI. Você levaria vantagem ao abastecer o carro na hora mais quente do dia pois estaria comprando mais massa por litro de\n\ncombustível.\n\nII. Abastecendo com a temperatura mais baixa, você estaria comprando mais massa de combustível para cada litro.\nIII. Se a gasolina fosse vendida por kg em vez de por litro, o problema comercial decorrente da dilatação da gasolina estaria\n\nresolvido.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Destas considerações, somente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I é correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II é correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III é correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II são corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III são corretas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

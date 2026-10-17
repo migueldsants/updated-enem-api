@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 1999",
+    "index": 6,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Para convencer a população local da ineficiência da Companhia Telefônica Vilatel na expansão da oferta de linhas, um político\n\npublicou no jornal local o gráfico I, abaixo representado. A Companhia Vilatel respondeu publicando dias depois o gráfico II,\nonde pretende justificar um grande aumento na oferta de linhas. O fato é que, no período considerado, foram instaladas,\nefetivamente, 200 novas linhas telefônicas.\n\n![](https://enem.dev/1999/questions/6/57a56221-5c1f-4987-9a93-5810b70ff355.png)",
+    "files": [
+        "https://enem.dev/1999/questions/6/57a56221-5c1f-4987-9a93-5810b70ff355.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Analisando os gráficos, pode-se concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o gráfico II representa um crescimento real maior do que o do gráfico I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o gráfico I apresenta o crescimento real, sendo o II incorreto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o gráfico II apresenta o crescimento real, sendo o gráfico I incorreto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a aparente diferença de crescimento nos dois gráficos decorre da escolha das diferentes escalas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "os dois gráficos são incomparáveis, pois usam escalas diferentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

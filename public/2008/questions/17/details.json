@@ -1,0 +1,51 @@
+{
+    "title": "Questão 17 - ENEM 2008",
+    "index": 17,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A linguagem utilizada pelos chineses há milhares\nde anos é repleta de símbolos, os ideogramas, que\nrevelam parte da história desse povo. Os ideogramas\nprimitivos são quase um desenho dos objetos\nrepresentados. Naturalmente, esses desenhos alteraram-\nse com o tempo, como ilustra a seguinte evolução do\n\n![](https://enem.dev/2008/questions/17/b0c0bc4c-b1f3-4552-9455-922b27718445.png)\n\nideograma , que significa cavalo e em que estão\nrepresentados cabeça, cascos e cauda do animal.\n\n![](https://enem.dev/2008/questions/17/e0cc0781-8d0d-4f94-a4c0-30466e6c98e3.png)",
+    "files": [
+        "https://enem.dev/2008/questions/17/b0c0bc4c-b1f3-4552-9455-922b27718445.png",
+        "https://enem.dev/2008/questions/17/e0cc0781-8d0d-4f94-a4c0-30466e6c98e3.png",
+        "https://enem.dev/2008/questions/17/74f71c48-fb07-4df6-b49c-59441ad87045.png",
+        "https://enem.dev/2008/questions/17/cc974ee9-5e68-4809-a752-282635bea50d.png",
+        "https://enem.dev/2008/questions/17/b353652a-81d7-4a41-a694-5de2db78bcaf.png",
+        "https://enem.dev/2008/questions/17/c318ab1a-c582-4ba6-b61c-5115fa366f7e.png",
+        "https://enem.dev/2008/questions/17/d410300b-1127-458a-8178-298404850c42.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando o processo mencionado acima, escolha a\nseqüência que poderia representar a evolução do\nideograma chinês para a palavra luta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/17/74f71c48-fb07-4df6-b49c-59441ad87045.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/17/cc974ee9-5e68-4809-a752-282635bea50d.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/17/b353652a-81d7-4a41-a694-5de2db78bcaf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/17/c318ab1a-c582-4ba6-b61c-5115fa366f7e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/17/d410300b-1127-458a-8178-298404850c42.png",
+            "isCorrect": false
+        }
+    ]
+}

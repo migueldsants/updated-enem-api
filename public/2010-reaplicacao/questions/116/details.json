@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2010 - Reaplicação",
+    "index": 116,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Diante do número de óbitos provocados pela gripe H1N1\n– gripe suína – no Brasil, em 2009, o Ministro da Saúde\nfez um pronunciamento público na TV e no rádio. Seu\nobjetivo era esclarecer a população e as autoridades\nlocais sobre a necessidade do adiamento do retorno às\naulas, em agosto, para que se evitassem a aglomeração\nde pessoas e a propagação do vírus.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Fazendo uso da norma padrão da língua, que se pauta\npela correção gramatical, seria correto o Ministro ler, em\nseu pronunciamento, o seguinte trecho:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diante da gravidade da situação e do risco de que nos expomos, há a necessidade de se evitar aglomerações de pessoas, para que se possa conter o avanço da epidemia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diante da gravidade da situação e do risco a que nos expomos, há a necessidade de se evitarem aglomerações de pessoas, para que se possam conter o avanço da epidemia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diante da gravidade da situação e do risco a que nos expomos, há a necessidade de se evitarem aglomerações de pessoas, para que se possa conter o avanço da epidemia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Diante da gravidade da situação e do risco os quais nos expomos, há a necessidade de se evitar aglomerações de pessoas, para que se possa conter o avanço da epidemia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diante da gravidade da situação e do risco com que nos expomos, tem a necessidade de se evitarem aglomerações de pessoas, para que se possa conter o avanço da epidemia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

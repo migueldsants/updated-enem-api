@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2010 - Reaplicação",
+    "index": 37,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Eu não tenho hoje em dia muito orgulho do Tropicalismo.\nFoi sem dúvida um modo de arrombar a festa, mas\narrombar a festa no Brasil é fácil. O Brasil é uma pequena\nsociedade colonial, muito mesquinha, muito fraca.\n\nVELOSO, C.In: HOLLANDA, H. B.; GONÇALVES, M. A. Cultura e participação nos anos 60.\n\nSão Paulo: Brasiliense, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O movimento tropicalista, consagrador de diversos\nmúsicos brasileiros, está relacionado historicamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à expansão de novas tecnologias de informação, entre as quais, a Internet, o que facilitou imensamente a sua divulgação mundo afora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ao advento da indústria cultural em associação com um conjunto de reivindicações estéticas e políticas durante os anos 1960.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "à parceria com a Jovem Guarda, também considerada um movimento nacionalista e de crítica política ao regime militar brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ao crescimento do movimento estudantil nos anos 1970, do qual os tropicalistas foram aliados na crítica ao tradicionalismo dos costumes da sociedade brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à identificação estética com a Bossa Nova, pois ambos os movimentos tinham raízes na incorporação de ritmos norte-americanos, como o blues.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

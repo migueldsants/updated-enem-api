@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2010 - Reaplicação",
+    "index": 141,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nos últimos anos, a corrida de rua cresce no Brasil. Nunca se\nfalou tanto no assunto como hoje, e a quantidade de adeptos\naumenta progressivamente, afinal, correr traz inúmeros\nbenefícios para a saúde física e mental, além de ser um\nesporte que não exige um alto investimento financeiro.\n\nDisponível em:http://www.webrun.com.br. Acesso em: 28 abr. 2010.\n\nUm corredor estipulou um plano de treinamento diário,\ncorrendo 3 quilômetros no primeiro dia e aumentando\n500 metros por dia, a partir do segundo. Contudo, seu\nmédico cardiologista autorizou essa atividade até que o\ncorredor atingisse, no máximo, 10 km de corrida em um\nmesmo dia de treino.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se o atleta cumprir a recomendação médica e praticar\no treinamento estipulado corretamente em dias\nconsecutivos, pode-se afirmar que esse planejamento\nde treino só poderá ser executado em, exatamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "13 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "15 dias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "16 dias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

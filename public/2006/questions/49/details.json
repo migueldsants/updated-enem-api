@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2006",
+    "index": 49,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para se obter 1,5 kg do dióxido de urânio puro, matéria-\nprima para a produção de combustível nuclear, é\nnecessário extrair-se e tratar-se 1,0 tonelada de minério.\nAssim, o rendimento (dado em % em massa) do\ntratamento do minério até chegar ao dióxido de urânio puro\né de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,10%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,15%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,20%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,0%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

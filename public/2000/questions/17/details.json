@@ -1,0 +1,46 @@
+{
+    "title": "Questão 17 - ENEM 2000",
+    "index": 17,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Os quatro calendários apresentados abaixo mostram a variedade na contagem\n\n![](https://enem.dev/2000/questions/17/bdda042c-aca2-4a7a-930d-6d5d84d11c24.png)",
+    "files": [
+        "https://enem.dev/2000/questions/17/bdda042c-aca2-4a7a-930d-6d5d84d11c24.png",
+        "https://enem.dev/2000/questions/17/0e8de0b2-0f34-4130-85c7-dc6775dd5081.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações apresentadas, pode-se afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o final do milênio, 1999/2000, é um fator comum às diferentes culturas e tradições.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "embora o calendário cristão seja hoje adotado em âmbito internacional, cada cultura registra seus eventos marcantes em calendário próprio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o calendário cristão foi adotado universalmente porque, sendo solar, é mais preciso que os demais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a religião não foi determinante na definição dos calendários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/17/0e8de0b2-0f34-4130-85c7-dc6775dd5081.png",
+            "isCorrect": false
+        }
+    ]
+}

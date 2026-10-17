@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2010 - Reaplicação",
+    "index": 19,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/19/39853965-ced0-45ec-af45-15ff4102c254.png)\n\nDEBRET, J. B.; SOUZA, L. M. (Org.). História da vida privada no Brasil:\ncotidiano e vida privada na América Portuguesa, v. 1.\nSão Paulo: Companhia das Letras, 1997.\n\nA imagem retrata uma cena da vida cotidiana dos escravos\nurbanos no início do século XIX. Lembrando que as",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/19/39853965-ced0-45ec-af45-15ff4102c254.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "atividades desempenhadas por esses trabalhadores eram\ndiversas, os escravos de aluguel representados na pintura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vendiam a produção da lavoura cafeeira para os",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "moradores das cidades. trabalhavam nas casas de seus senhores e",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acompanhavam as donzelas na rua. realizavam trabalhos temporários em troca de",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pagamento para os seus senhores. eram autônomos, sendo contratados por outros",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "senhores para realizarem atividades comerciais. aguardavam a sua própria venda após desembarcarem no porto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

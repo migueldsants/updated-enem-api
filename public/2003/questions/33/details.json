@@ -1,0 +1,46 @@
+{
+    "title": "Questão 33 - ENEM 2003",
+    "index": 33,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Visando adotar um sistema de reutilização de água, uma indústria testou cinco sistemas com diferentes fluxos de\nentrada de água suja e fluxos de saída de água purificada.\n\n![](https://enem.dev/2003/questions/33/97be9524-4d25-46a6-98e2-2684f03f4add.png)\n\n![](https://enem.dev/2003/questions/33/48cacc04-7d50-416f-9b23-89ea808fee40.png)",
+    "files": [
+        "https://enem.dev/2003/questions/33/97be9524-4d25-46a6-98e2-2684f03f4add.png",
+        "https://enem.dev/2003/questions/33/48cacc04-7d50-416f-9b23-89ea808fee40.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Supondo que o custo por litro de água purificada seja o mesmo, obtém-se maior eficiência na purificação por meio do\nsistema",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

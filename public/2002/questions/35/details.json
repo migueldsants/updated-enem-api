@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2002",
+    "index": 35,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Entre as inúmeras recomendações dadas para a economia de\nenergia elétrica em uma residência, destacamos as seguintes:\n\n● Substitua lâmpadas incandescentes por fluorescentes\n\ncompactas.\n● Evite usar o chuveiro elétrico com a chave na posição\n\n“inverno” ou “quente”.\n● Acumule uma quantidade de roupa para ser passada a ferro\n\nelétrico de uma só vez.\n● Evite o uso de tomadas múltiplas para ligar vários aparelhos\n\nsimultaneamente.\n● Utilize, na instalação elétrica, fios de diâmetros",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "recomendados às suas finalidades.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "característica comum a todas essas recomendações é a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tempo de utilização dos aparelhos e dispositivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o consumo de energia elétrica convertida em energia térmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o consumo de energia térmica convertida em energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o consumo de energia elétrica através de correntes de fuga.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

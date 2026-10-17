@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2006",
+    "index": 56,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "—PÁ\n\nTexto para as quest₣es 56 e 57\n\nPara se discutirem políticas energéticas, é\nimportante que se analise a evolução da Oferta Interna de\nEnergia (OIE) do país. Essa oferta expressa as\ncontribuições relativas das fontes de energia utilizadas em\ntodos os setores de atividade. O gráfico a seguir apresenta\na evolução da OIE no Brasil, de 1970 a 2002.\n\n![](https://enem.dev/2006/questions/56/957d0459-74a5-4293-bea3-2cd5c9d48a4b.png)",
+    "files": [
+        "https://enem.dev/2006/questions/56/957d0459-74a5-4293-bea3-2cd5c9d48a4b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos dados do gráfico, verifica-se que,\ncomparado ao do ano de 1970, o percentual de oferta de\nenergia oriunda de recursos renováveis em relação à\noferta total de energia, em 2002, apresenta contribuição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "menor, pois houve expressiva diminuição do uso de carvão mineral, lenha e carvão vegetal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "menor, pois o aumento do uso de derivados da cana- de-açúcar e de hidreletricidade não compensou a diminuição do uso de lenha e carvão vegetal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "maior, pois houve aumento da oferta de hidreletricidade, dado que esta utiliza o recurso de maior disponibilidade no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "maior, visto que houve expressivo aumento da utilização de todos os recursos renováveis do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "maior, pois houve pequeno aumento da utilização de gás natural e dos produtos derivados da cana-de- açúcar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

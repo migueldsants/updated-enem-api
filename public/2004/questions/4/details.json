@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2004",
+    "index": 4,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nos X-Games Brasil, em maio de 2004, o skatista brasileiro Sandro Dias, apelidado “Mineirinho”, conseguiu realizar a manobra\ndenominada “900”, na modalidade skate vertical, tornando-se o segundo atleta no mundo a conseguir esse feito. A denominação\n“900” refere-se ao número de graus que o atleta gira no ar em torno de seu próprio corpo, que, no caso, corresponde a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma volta completa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uma volta e meia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "duas voltas completas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "duas voltas e meia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "cinco voltas completas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

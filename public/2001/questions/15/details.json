@@ -1,0 +1,48 @@
+{
+    "title": "Questão 15 - ENEM 2001",
+    "index": 15,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O hemograma é um exame laboratorial que informa o número de hemácias, glóbulos\nbrancos e plaquetas presentes no sangue. A tabela apresenta os valores considerados\nnormais para adultos. Os gráficos mostram os resultados do hemograma de 5 estudantes\nadultos. Todos os resultados são expressos em número de elementos por mm³ de sangue.\n\n![](https://enem.dev/2001/questions/15/c6e36a4c-82ab-4c93-8587-252f271952ab.png)\n\n![](https://enem.dev/2001/questions/15/4f053d1f-3dde-4237-a781-9ea6455389ba.png)\n\n![](https://enem.dev/2001/questions/15/87b365f3-8b1c-4d72-80d9-1e3a025dce9a.png)\n\nAbel LuísaJosé Maria RobertoAbel LuísaJosé Maria Roberto",
+    "files": [
+        "https://enem.dev/2001/questions/15/c6e36a4c-82ab-4c93-8587-252f271952ab.png",
+        "https://enem.dev/2001/questions/15/4f053d1f-3dde-4237-a781-9ea6455389ba.png",
+        "https://enem.dev/2001/questions/15/87b365f3-8b1c-4d72-80d9-1e3a025dce9a.png",
+        "https://enem.dev/2001/questions/15/05934a22-deca-4e83-ac68-51981a55e8ab.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Podem estar ocorrendo deficiência no sistema de defesa do organismo, prejuízos no\ntransporte de gases respiratórios e alterações no processo de coagulação sanguínea,\nrespectivamente, com os estudantes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Maria, José e Roberto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Roberto, José e Abel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maria, Luísa e Roberto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Roberto, Maria e Luísa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/15/05934a22-deca-4e83-ac68-51981a55e8ab.png",
+            "isCorrect": false
+        }
+    ]
+}

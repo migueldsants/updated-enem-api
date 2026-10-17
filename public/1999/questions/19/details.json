@@ -1,0 +1,48 @@
+{
+    "title": "Questão 19 - ENEM 1999",
+    "index": 19,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Imagine uma eleição envolvendo 3 candidatos A, B, C e 33 eleitores\n\n(votantes). Cada eleitor vota fazendo uma ordenação dos três\ncandidatos. Os resultados são os seguintes:\n\n![](https://enem.dev/1999/questions/19/fbcf82bc-a825-44d5-98f0-8ec0f0de4aff.png)\n\n![](https://enem.dev/1999/questions/19/8324852b-de30-4cbe-a52c-3cc2e4b41896.png)\n\n![](https://enem.dev/1999/questions/19/cd40d30d-c2c1-41e5-a88e-278d86b7183d.png)\n\n![](https://enem.dev/1999/questions/19/6eefd47d-6c2a-4f62-95c8-e53421ee4179.png)",
+    "files": [
+        "https://enem.dev/1999/questions/19/fbcf82bc-a825-44d5-98f0-8ec0f0de4aff.png",
+        "https://enem.dev/1999/questions/19/8324852b-de30-4cbe-a52c-3cc2e4b41896.png",
+        "https://enem.dev/1999/questions/19/cd40d30d-c2c1-41e5-a88e-278d86b7183d.png",
+        "https://enem.dev/1999/questions/19/6eefd47d-6c2a-4f62-95c8-e53421ee4179.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A é eleito com 66 pontos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A é eleito com 68 pontos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "B é eleito com 68 pontos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "B é eleito com 70 pontos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C é eleito com 68 pontos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

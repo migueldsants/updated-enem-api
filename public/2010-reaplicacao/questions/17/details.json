@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2010 - Reaplicação",
+    "index": 17,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Convenção da ONU sobre Direitos das Pessoas com\nDeficiências, realizada, em 2006, em Nova York, teve\ncomo objetivo melhorar a vida da população de 650\nmilhões de pessoas com deficiência em todo o mundo.\nDessa convenção foi elaborado e acordado, entre os\npaíses das Nações Unidas, um tratado internacional para\ngarantir mais direitos a esse público.\n\nEntidades ligadas aos direitos das pessoas com\ndeficiência acreditam que, para o Brasil, a ratificação do\ntratado pode significar avanços na implementação de\nleis no país.\n\nDisponível em: http//www.bbc.co.uk. Acesso em: 18 mai. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No Brasil, as políticas públicas de inclusão social\napontam para o discurso, tanto da parte do governo\nquanto da iniciativa privada, sobre a efetivação da\ncidadania. Nesse sentido, a temática da inclusão social\nde pessoas com deficiência",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vem sendo combatida por diversos grupos sociais, em virtude dos elevados custos para a adaptação e manutenção de prédios e equipamentos públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "está assumindo o status de política pública bem como representa um diferencial positivo de marketing institucional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "reflete prática que viabiliza políticas compensatórias voltadas somente para as pessoas desse grupo que estão socialmente organizadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "associa-se a uma estratégia de mercado que objetiva atrair consumidores com algum tipo de deficiência, embora esteja descolada das metas da globalização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "representa preocupação isolada, visto que o Estado ainda as discrimina e não lhes possibilita meios de integração à sociedade sob a ótica econômica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

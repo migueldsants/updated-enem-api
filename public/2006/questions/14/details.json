@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2006",
+    "index": 14,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "O que chamamos de corte principesca era,\nessencialmente, o palácio do príncipe. Os músicos eram\ntão indispensáveis nesses grandes palácios quanto os\npasteleiros, os cozinheiros e os criados. Eles eram o que\nse chamava, um tanto pejorativamente, de criados de libré.\nA maior parte dos músicos ficava satisfeita quando tinha\ngarantida a subsistência, como acontecia com as outras\npessoas de classe média na corte; entre os que não se\nsatisfaziam, estava o pai de Mozart. Mas ele também se\ncurvou às circunstâncias a que não podia escapar.\n\nNorbert Elias. Mozart: sociologia de um gênio.\nEd. Jorge Zahar, 1995, p. 18 (com adaptações).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se que a sociedade do Antigo Regime\ndividia-se tradicionalmente em estamentos: nobreza, clero\ne 3.° Estado, é correto afirmar que o autor do texto, ao\nfazer referência a “classe média”, descreve a sociedade\nutilizando a noção posterior de classe social a fim de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aproximar da nobreza cortesã a condição de classe dos músicos, que pertenciam ao 3.° Estado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "destacar a consciência de classe que possuíam os músicos, ao contrário dos demais trabalhadores manuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "indicar que os músicos se encontravam na mesma situação que os demais membros do 3.° Estado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "distinguir, dentro do 3.° Estado, as condições em que viviam os “criados de libré” e os camponeses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comprovar a existência, no interior da corte, de uma luta de classes entre os trabalhadores manuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

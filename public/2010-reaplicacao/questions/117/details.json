@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2010 - Reaplicação",
+    "index": 117,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Estamos em plena “Idade Mídia” desde os anos de\n1990, plugados durante muitas horas semanais (jovens\nentre 13 e 24 anos passam 3h30 diárias na Internet,\ngarante pesquisa Studio Ideias para o núcleo Jovem da\nEditora Abril), substituímos as cartas pelos e-mails, os\ndiários intímos pelos blogs, os telegramas pelo Twitter,\na enciclopédia pela Wikipédia, o álbum de fotos pelo\nFlickr. O YouTube é mais atraente do que a TV.\n\nPERISSÉ, G. A escrita na Internet. Especial Sala de Aula. São Paulo, 2010 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Cada sistema de comunicação tem suas especificidades.\nNo ciberespaço, os textos virtuais são produzidos\ncombinando-se características de gêneros tradicionais.\nEssa combinação representa,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na redação do e-mail, o abandono da formalidade e do rigor gramatical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "no uso do Twitter, a presença da concisão, que aproxima os textos às manchetes jornalísticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "na produção de um blog, a perda da privacidade, pois o blog se identifica com o diário íntimo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no uso do Twitter, a falta de coerência nas mensagens ali veiculadas, provocada pela economia de palavras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na produção de textos em geral, a soberania da autoria colaborativa no ciberespaço.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

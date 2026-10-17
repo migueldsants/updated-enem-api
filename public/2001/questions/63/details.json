@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2001",
+    "index": 63,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "SEU OLHAR\n\n(Gilberto Gil, 1984)\n\nNa eternidade\nEu quisera ter\nTantos anos-luz\nQuantos fosse precisar\nPra cruzar o túnel\nDo tempo do seu olhar\n\n![](https://enem.dev/2001/questions/63/6a473995-b794-4b24-b819-f303d4f5f593.png)",
+    "files": [
+        "https://enem.dev/2001/questions/63/6a473995-b794-4b24-b819-f303d4f5f593.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aceleração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "distância.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "luminosidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

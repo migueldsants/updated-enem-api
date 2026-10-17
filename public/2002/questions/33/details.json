@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2002",
+    "index": 33,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Segundo matéria publicada em um jornal brasileiro, “Todo o lixo (orgânico) produzido pelo Brasil hoje – cerca de 20 milhões de\ntoneladas por ano – seria capaz de aumentar em 15% a oferta de energia elétrica. Isso representa a metade da energia\nproduzida pela hidrelétrica de Itaipu. O segredo está na celulignina, combustível sólido gerado a partir de um processo químico\na que são submetidos os resíduos orgânicos”.\n\nO Estado de São Paulo, 01/01/2001.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Independentemente da viabilidade econômica desse processo, ainda em fase de pesquisa, na produção de energia pela\ntécnica citada nessa matéria, a celulignina faria o mesmo papel",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do gás natural em uma usina termoelétrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "do vapor d’água em uma usina termoelétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da queda d’água em uma usina hidrelétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "das pás das turbinas em uma usina eólica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "do reator nuclear em uma usina termonuclear.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2005",
+    "index": 63,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Leia o texto e examine a ilustração:\n\nÓbito do autor\n\n(....) expirei às duas horas da tarde de uma sexta-feira do mês de agosto de\n1869, na minha bela chácara de Catumbi. Tinha uns sessenta e quatro anos,\nrijos e prósperos, era solteiro, possuía cerca de trezentos contos e fui\nacompanhado ao cemitério por onze amigos. Onze amigos! Verdade é que não\nhouve cartas nem anúncios. Acresce que chovia − peneirava − uma chuvinha\nmiúda, triste e constante, tão constante e tão triste, que levou um daqueles fiéis\nda última hora a intercalar esta engenhosa idéia no discurso que proferiu à beira\n\n![](https://enem.dev/2005/questions/63/29f58f15-c006-4984-bc43-8be3eb6d54da.png)\n\nde minha cova: −”Vós, que o conhecestes, meus senhores, vós podeis dizer\ncomigo que a natureza parece estar chorando a perda irreparável de um dos\nmais belos caracteres que tem honrado a humanidade. Este ar sombrio, estas\ngotas do céu, aquelas nuvens escuras que cobrem o azul como um crepe\nfunéreo, tudo isto é a dor crua e má que lhe rói à natureza as mais íntimas\nentranhas; tudo isso é um sublime louvor ao nosso ilustre finado.” (....)\n\n(Adaptado. Machado de Assis. Memórias póstumas de Brás Cubas. Ilustrado por\nCândido Portinari. Rio de Janeiro: Cem Bibliófilos do Brasil, 1943. p.1.)",
+    "files": [
+        "https://enem.dev/2005/questions/63/29f58f15-c006-4984-bc43-8be3eb6d54da.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Compare o texto de Machado de Assis com a ilustração de Portinari. É correto afirmar que a ilustração do pintor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresenta detalhes ausentes na cena descrita no texto verbal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "retrata fielmente a cena descrita por Machado de Assis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "distorce a cena descrita no romance.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expressa um sentimento inadequado à situação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "contraria o que descreve Machado de Assis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

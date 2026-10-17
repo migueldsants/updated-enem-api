@@ -1,0 +1,46 @@
+{
+    "title": "Questão 140 - ENEM 2010 - Reaplicação",
+    "index": 140,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Numa feira de artesanato, uma pessoa constrói formas\ngeométricas de aviões, bicicletas, carros e outros\nengenhos com arame inextensível. Em certo momento,\nele construiu uma forma tendo como eixo de apoio outro\narame retilíneo e rígido, cuja aparência é mostrada na\nfigura seguinte:\n\n![](https://enem.dev/2010-reaplicacao/questions/140/6b0104cd-a957-46f7-a8d3-66f052bffd0c.png)\n\nB C E F\n\n![](https://enem.dev/2010-reaplicacao/questions/140/5644a978-a934-4e7c-a1db-090a12de1788.png)\n\nD\nA G\n\nAo girar tal forma em torno do eixo, formou-se a imagem\nde um foguete, que pode ser pensado como composição,\npor justaposição, de diversos sólidos básicos de\nrevolução.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/140/6b0104cd-a957-46f7-a8d3-66f052bffd0c.png",
+        "https://enem.dev/2010-reaplicacao/questions/140/5644a978-a934-4e7c-a1db-090a12de1788.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Sabendo que, na figura, os pontos B, C, E e F são\ncolineares, AB = 4FG, BC = 3FG, EF = 2FG, e utilizando-\nse daquela forma de pensar o foguete, a decomposição\ndeste, no sentido da ponta para a cauda, é formada pela\nseguinte sequência de sólidos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pirâmide, cilindro reto, cone reto, cilindro reto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cilindro reto, tronco de cone, cilindro reto, cone equilátero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cone reto, cilindro reto, tronco de cone e cilindro equilátero.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "cone equilátero, cilindro reto, pirâmide, cilindro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cone, cilindro equilátero, tronco de pirâmide, cilindro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

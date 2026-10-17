@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2002",
+    "index": 24,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2002/questions/24/7272fd6a-59ff-4a14-ba82-3e8bf40d1e12.png)\n\nQuando definem moléculas, os livros geralmente apresentam\nconceitos como: “a menor parte da substância capaz de\nguardar suas propriedades”. A partir de definições desse tipo,\na idéia transmitida ao estudante é a de que o constituinte\nisolado (moléculas) contém os atributos do todo.\n\nÉ como dizer que uma molécula de água possui densidade,\npressão de vapor, tensão superficial, ponto de fusão, ponto\nde ebulição, etc. Tais propriedades pertencem ao conjunto,\nisto é, manifestam-se nas relações que as moléculas mantêm\nentre si.\n\nAdaptado de OLIVEIRA, R. J. O Mito da Substância. Química Nova na\nEscola, n. º 1, 1995.\n\nO texto evidencia a chamada visão substancialista que ainda\nse encontra presente no ensino da Química. Abaixo estão\nrelacionadas algumas afirmativas pertinentes ao assunto.\n\nI. O ouro é dourado, pois seus átomos são dourados.\n\nII. Uma substância “macia” não pode ser feita de moléculas\n\n“rígidas”.\n\nIII. Uma substância pura possui pontos de ebulição e fusão\n\nconstantes, em virtude das interações entre suas\nmoléculas.\n\nIV. A expansão dos objetos com a temperatura ocorre\n\nporque os átomos se expandem.",
+    "files": [
+        "https://enem.dev/2002/questions/24/7272fd6a-59ff-4a14-ba82-3e8bf40d1e12.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dessas afirmativas, estão apoiadas na visão substancialista\ncriticada pelo autor apenas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, II e IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

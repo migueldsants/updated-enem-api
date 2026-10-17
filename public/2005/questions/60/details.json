@@ -1,0 +1,45 @@
+{
+    "title": "Questão 60 - ENEM 2005",
+    "index": 60,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "A escolaridade dos jogadores de futebol\nnos grandes centros é maior do que se\nimagina, como mostra a pesquisa abaixo,\nrealizada com os jogadores profissionais\ndos quatro principais clubes de futebol do 40\nRio de Janeiro. 14 16 14 14\n\n![](https://enem.dev/2005/questions/60/ac50b446-2d7d-438e-90d0-3bf39e3f6ea5.png)",
+    "files": [
+        "https://enem.dev/2005/questions/60/ac50b446-2d7d-438e-90d0-3bf39e3f6ea5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com esses dados, o percentual\ndos jogadores dos quatro clubes que\nconcluíram o Ensino Médio é de\naproximadamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "48%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "54%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "60%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "68%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

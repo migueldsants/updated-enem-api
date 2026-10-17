@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 1998",
+    "index": 48,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Seguem abaixo alguns trechos de uma matéria da revista “Superinteressante”, que descreve hábitos\nde um morador de Barcelona (Espanha), relacionando-os com o consumo de energia e efeitos sobre o\nambiente.\n\nI. “Apenas no banho matinal, por exemplo, um cidadão utiliza cerca de 50 litros de água, que depois terá\n\nque ser tratada. Além disso, a água é aquecida consumindo 1,5 quilowatt-hora (cerca de 1,3 milhões\nde calorias), e para gerar essa energia foi preciso perturbar o ambiente de alguma maneira....”\nII. “Na hora de ir para o trabalho, o percurso médio dos moradores de Barcelona mostra que o carro libera\n\n90 gramas do venenoso monóxido de carbono e 25 gramas de óxidos de nitrogênio ... Ao mesmo\ntempo, o carro consome combustível equivalente a 8,9 kwh.”\nIII. “Na hora de recolher o lixo doméstico... quase 1 kg por dia. Em cada quilo há aproximadamente 240\n\ngramas de papel, papelão e embalagens; 80 gramas de plástico; 55 gramas de metal; 40 gramas de\nmaterial biodegradável e 80 gramas de vidro.”",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Também com relação ao trecho I, supondo a existência de um chuveiro elétrico, pode-se afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a energia usada para aquecer o chuveiro é de origem química, transformando-se em energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a energia elétrica é transformada no chuveiro em energia mecânica e, posteriormente, em energia térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o aquecimento da água deve-se à resistência do chuveiro, onde a energia elétrica é transformada em energia térmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a energia térmica consumida nesse banho é posteriormente transformada em energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "como a geração da energia perturba o ambiente, pode-se concluir que sua fonte é algum derivado do petróleo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

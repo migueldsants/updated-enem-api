@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2002",
+    "index": 16,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Segundo uma organização mundial de estudos ambientais, em 2025, “duas de cada três pessoas viverão situações de carência de\nágua, caso não haja mudanças no padrão atual de consumo do produto.”\nUma alternativa adequada e viável para prevenir a escassez, considerando-se a disponibilidade global, seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desenvolver processos de reutilização da água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "explorar leitos de água subterrânea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliar a oferta de água, captando-a em outros rios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "captar águas pluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "importar água doce de outros estados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

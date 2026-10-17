@@ -1,0 +1,45 @@
+{
+    "title": "Questão 30 - ENEM 2004",
+    "index": 30,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "A distribuição da População Economicamente Ativa\n(PEA) no Brasil variou muito ao longo do século\nXX. O gráfico representa a distribuição por setores\nde atividades (em %) da PEA brasileira em\n\n![](https://enem.dev/2004/questions/30/245dada8-0a47-45ed-be32-5b21ca94d3bc.png)",
+    "files": [
+        "https://enem.dev/2004/questions/30/245dada8-0a47-45ed-be32-5b21ca94d3bc.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "diferentes décadas.\nAs transformações socioeconômicas ocorridas ao\nlongo do século XX, no Brasil, mudaram a\ndistribuição dos postos de trabalho do setor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "agropecuário para o industrial, em virtude da queda acentuada na produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "industrial para o agropecuário, como conseqüência do aumento do subemprego nos centros urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "comercial e de serviços para o industrial, como conseqüência do desemprego estrutural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "agropecuário para o industrial e para o de comércio e serviços, por conta da urbanização e do avanço tecnológico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "comercial e de serviços para o agropecuário, em virtude do crescimento da produção destinada à exportação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

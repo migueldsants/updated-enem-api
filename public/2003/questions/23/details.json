@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2003",
+    "index": 23,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Houve uma grande elevação do número de casos de malária na Amazônia que, de 30 mil casos na década de 1970,\nchegou a cerca de 600 mil na década de 1990. Esse aumento pode ser relacionado a mudanças na região, como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as transformações no clima da região decorrentes do efeito estufa e da diminuição da camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o empobrecimento da classe média e a conseqüente falta de recursos para custear o caro tratamento da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o aumento na migração humana para fazendas, grandes obras, assentamentos e garimpos, instalados nas áreas de floresta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "as modificações radicais nos costumes dos povos indígenas, que perderam a imunidade natural ao mosquito transmissor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a destruição completa do ambiente natural de reprodução do agente causador, que o levou a migrar para os grandes centros urbanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

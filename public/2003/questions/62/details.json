@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2003",
+    "index": 62,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "(Quino. Mafalda)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O humor presente na tirinha decorre principalmente do fato de a personagem Mafalda",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atribuir, no primeiro quadrinho, poder ilimitado ao dedo indicador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "considerar seu dedo indicador tão importante quanto o dos patrões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atribuir, no primeiro e no último quadrinhos, um mesmo sentido ao vocábulo “indicador”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "usar corretamente a expressão “indicador de desemprego”, mesmo sendo criança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "atribuir, no último quadrinho, fama exagerada ao dedo indicador dos patrões.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

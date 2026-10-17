@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2011 - Reaplicação",
+    "index": 146,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa responsável por produzir arranjos\nde parafina recebeu uma encomenda de arranjos em\nformato de cone reto. Porém, teve dificuldades em\nreceber de seu fornecedor o molde a ser utilizado e\nnegociou com a pessoa que fez a encomenda o uso de\narranjos na forma de um prisma reto, com base quadrada\nde dimensões 5 cm × 5 cm.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que o arranjo na forma de cone utilizava\num volume de 500 mL, qual deverá ser a altura, em\ncm, desse prisma para que a empresa gaste a mesma\nquantidade de parafina utilizada no cone?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "200",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

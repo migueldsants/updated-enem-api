@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 1998",
+    "index": 32,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "João ficou intrigado com a grande quantidade de notícias envolvendo DNA: clonagem da ovelha\nDolly, terapia gênica, testes de paternidade, engenharia genética, etc. Para conseguir entender as\nnotícias, estudou a estrutura da molécula de DNA e seu funcionamento e analisou os dados do quadro\na seguir.\n\n________________________________________________________________\nI\nA T C C G G A T G C T T\nT A G G C C T A C G A A\n________________________________________________________________\nII\nA T C C G G A T G C T T\n\n⇓\n\nU A G G C C U A C G A A\n________________________________________________________________\nIII\nU A G G C C U A C G A A\n\n⇓\nMetionina Alanina Leucina Glutamato\n________________________________________________________________\nIV\nBases nitrogenadas: A = Adenina\nT = Timina\nC = Citosina\nG = Guanina\nU = Uracila\n________________________________________________________________",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em I está representado o trecho de uma molécula de DNA. Observando o quadro, pode-se concluir que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a molécula de DNA é formada por 2 cadeias caracterizadas por seqüências de bases nitrogenadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "na molécula de DNA, podem existir diferentes tipos de complementação de bases nitrogenadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a quantidade de A presente em uma das cadeias é exatamente igual à quantidade de A da cadeia complementar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na molécula de DNA, podem existir 5 diferentes tipos de bases nitrogenadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no processo de mitose, cada molécula de DNA dá origem a 4 moléculas de DNA exatamente iguais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

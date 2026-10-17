@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2006",
+    "index": 24,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base nas informações dos gráficos mostrados,\nsuponha que, no período 2050-2100, a taxa de\ncrescimento populacional da Índia seja a mesma\nprojetada para o período 2000-2050. Sendo assim,\nno início do século XXII, a população da Índia, em\nbilhões de habitantes, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inferior a 2,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "superior a 2,0 e inferior a 2,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "superior a 2,1 e inferior a 2,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "superior a 2,2 e inferior a 2,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "superior a 2,3.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

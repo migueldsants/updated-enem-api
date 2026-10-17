@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2011 - Reaplicação",
+    "index": 1,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Desde épocas remotas, a interação da sociedade\ncom a natureza gera impactos diversificados, que\ntransformam a complexidade do ambiente natural. A\nevolução progressiva do homem como ser social mostra\nque, quanto mais ele evolui tecnicamente, mais interfere\nna dinâmica da natureza.\n\nROSS, J. L. S. A sociedade industrial e o ambiente.In: ROSS, J. L. S. (Org.).\nGeografia do Brasil. São Paulo: EdUSP, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir da relação apresentada entre a sociedade\ne a natureza, é possível identificar uma causa e uma\nconsequência da interferência humana no ambiente\nnatural, a saber:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A extração de matérias-primas para setores como o siderúrgico, o que tende a promover degradação de",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "certos ecossistemas. A redução dos níveis de investimento do agronegócio, o que resulta diretamente na",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminuição de espécies nativas. A extração de recursos naturais, gerando uma aproximação entre os ambientes naturais e",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "humanizados. A interrupção dos incentivos públicos à indústria do turismo, o que implica a ampliação do equilíbrio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ecológico. O aumento da produtividade agrícola, contribuindo para uma menor diversificação da fauna e da flora.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

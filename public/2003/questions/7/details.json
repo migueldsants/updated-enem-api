@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2003",
+    "index": 7,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Na literatura de cordel, os textos são impressos, em geral, com 8, 16, 24 ou 32 páginas de formato\n10,5 cm x 15,5 cm. As razões históricas que explicam tal fato estão relacionadas à forma artesanal como são\nmontadas as publicações e ao melhor aproveitamento possível do papel disponível.\n\nConsidere, abaixo, a confecção de um texto de cordel com 8 páginas (4 folhas):\n\n![](https://enem.dev/2003/questions/7/7498c846-9983-4701-aeff-73f5f701051c.png)",
+    "files": [
+        "https://enem.dev/2003/questions/7/7498c846-9983-4701-aeff-73f5f701051c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Utilizando o processo descrito acima, pode-se produzir um exemplar de cordel com 32 páginas de\n10,5 cm x 15,5 cm, com o menor gasto possível de material, utilizando uma única folha de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "84 cm x 62 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "84 cm x 124 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "42 cm x 31 cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "42 cm x 62 cm",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "21 cm x 31 cm",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2007",
+    "index": 44,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Explosões solares emitem radiações\neletromagnéticas muito intensas e ejetam, para o espaço,\npartículas carregadas de alta energia, o que provoca\nefeitos danosos na Terra. O gráfico abaixo mostra o tempo\ntranscorrido desde a primeira detecção de uma explosão\nsolar até a chegada dos diferentes tipos de perturbação e\n\n![](https://enem.dev/2007/questions/44/151264d9-455d-4710-989b-0d4657e4b5bd.png)\n\nInternet: <www.sec.noaa.gov> (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/44/151264d9-455d-4710-989b-0d4657e4b5bd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se o gráfico, é correto afirmar que a\nperturbação por ondas de rádio geradas em uma explosão\nsolar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dura mais que uma tempestade magnética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "chega à Terra dez dias antes do plasma solar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "chega à Terra depois da perturbação por raios X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tem duração maior que a da perturbação por raios X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "tem duração semelhante à da chegada à Terra de partículas de alta energia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

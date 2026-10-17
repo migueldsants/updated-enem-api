@@ -1,0 +1,46 @@
+{
+    "title": "Questão 56 - ENEM 2008",
+    "index": 56,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A figura ao lado mostra um\nreservatório de água na forma de um\ncilindro circular reto, com 6 m de\naltura. Quando está completamente\ncheio, o reservatório é suficiente\n\n![](https://enem.dev/2008/questions/56/e2a9feb9-ac56-4e32-948b-c1a563a6ab9f.png)\n\n![](https://enem.dev/2008/questions/56/80915e66-f102-45a1-b9ec-f48b037f38f1.png)",
+    "files": [
+        "https://enem.dev/2008/questions/56/e2a9feb9-ac56-4e32-948b-c1a563a6ab9f.png",
+        "https://enem.dev/2008/questions/56/80915e66-f102-45a1-b9ec-f48b037f38f1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a quantidade de água economizada foi de 4,5 m³.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a altura do nível da água que sobrou no reservatório, no final do dia, foi igual a 60 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a quantidade de água economizada seria suficiente para abastecer, no máximo, 90 casas cujo consumo diário fosse de 450 litros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os moradores dessas casas economizariam mais de R$ 200,00, se o custo de 1 m³ de água para o consumidor fosse igual a R$ 2,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "um reservatório de mesma forma e altura, mas com raio da base 10% menor que o representado, teria água suficiente para abastecer todas as casas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 35 - ENEM 2010 - Reaplicação",
+    "index": 35,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/35/fa95728f-5970-4aa4-a211-fa31ec57d22f.png)\n\nDisponível em: www.culturabrasil.org.br. Acesso em: 28 abr. 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/35/fa95728f-5970-4aa4-a211-fa31ec57d22f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A foto revela um momento da Guerra do Vietnã\n(1965-1975), conflito militar cuja cobertura jornalística\nutilizou, em grande escala, a fotografia e a televisão. Um\ndos papéis exercidos pelos meios de comunicação na\ncobertura dessa guerra, evidenciado pela foto, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "demonstrar as diferenças culturais existentes entre norte-americanos e vietnamitas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "defender a necessidade de intervenções armadas em países comunistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "denunciar os abusos cometidos pela intervenção militar norte-americana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "divulgar valores que questionavam as ações do governo vietnamita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "revelar a superioridade militar dos Estados Unidos da América.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

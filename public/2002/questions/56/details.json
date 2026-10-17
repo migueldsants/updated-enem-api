@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2002",
+    "index": 56,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A crônica muitas vezes constitui um espaço para reflexão sobre aspectos da sociedade em que vivemos.\n\n“Eu, na rua, com pressa, e o menino segurou no meu braço, falou qualquer coisa que não entendi. Fui logo dizendo que não tinha,\ncerta de que ele estava pedindo dinheiro. Não estava. Queria saber a hora.\nTalvez não fosse um Menino De Família, mas também não era um Menino De Rua. É assim que a gente divide. Menino De Família é\naquele bem-vestido com tênis da moda e camiseta de marca, que usa relógio e a mãe dá outro se o dele for roubado por um Menino\nDe Rua. Menino De Rua é aquele que quando a gente passa perto segura a bolsa com força porque pensa que ele é pivete,\ntrombadinha, ladrão. (...) Na verdade não existem meninos De rua. Existem meninos NA rua. E toda vez que um menino está NA rua é\nporque alguém o botou lá. Os meninos não vão sozinhos aos lugares. Assim como são postos no mundo, durante muitos anos\ntambém são postos onde quer que estejam. Resta ver quem os põe na rua. E por quê.”\n\nCOLASSANTI, Marina. In: Eu sei, mas não devia. Rio de Janeiro: Rocco, 1999.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No terceiro parágrafo em “... não existem meninos De rua. Existem meninos NA rua.”, a troca de De pelo Na determina que a\nrelação de sentido entre “menino” e “rua” seja",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "de localização e não de qualidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "de origem e não de posse.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de origem e não de localização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "de qualidade e não de origem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "de posse e não de localização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

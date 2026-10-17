@@ -1,0 +1,45 @@
+{
+    "title": "Questão 23 - ENEM 2008",
+    "index": 23,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Diagrama para as questões 22 e 23\n\nO diagrama abaixo representa, de forma\nesquemática e simplificada, a distribuição da energia\nproveniente do Sol sobre a atmosfera e a superfície\nterrestre. Na área delimitada pela linha tracejada, são\ndestacados alguns processos envolvidos no fluxo de\nenergia na atmosfera.\n\n![](https://enem.dev/2008/questions/23/a20a71a0-f2c4-416c-9690-d7e0229ac59b.png)\n\nde Física, v. 2, fig. 18.12 (com adaptações).",
+    "files": [
+        "https://enem.dev/2008/questions/23/a20a71a0-f2c4-416c-9690-d7e0229ac59b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A chuva é o fenômeno natural responsável pela\nmanutenção dos níveis adequados de água dos\nreservatórios das usinas hidrelétricas. Esse fenômeno,\nassim como todo o ciclo hidrológico, depende muito da\nenergia solar. Dos processos numerados no diagrama,\naquele que se relaciona mais diretamente com o nível dos\nreservatórios de usinas hidrelétricas é o de número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

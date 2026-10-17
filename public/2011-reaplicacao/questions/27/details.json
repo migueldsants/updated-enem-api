@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2011 - Reaplicação",
+    "index": 27,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Texto I\n\n![](https://enem.dev/2011-reaplicacao/questions/27/ffd32df8-2514-43a5-98b9-8e283c452e85.png)\n\nALVES, E. Brasília: Ministério da Cultura; Secretaria da Identidade Cultural (SID), 2009.\n\nDisponível em: http://www.minc.gov.br. Acesso em: 01 maio 2010.\n\nTexto II\n\nEm sentido antropológico, não falamos em Cultura,\nno singular, mas em culturas, no plural, pois a lei, os\nvalores, as crenças, as práticas, as instituições variam\nde formação social para formação social. Além disso,\numa mesma sociedade, por ser temporal e histórica,\npassa por transformações culturais amplas.\n\nCHAUÍ, M. Convite à Filosofia. São Paulo: Ática, 1995 (fragmento).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/27/ffd32df8-2514-43a5-98b9-8e283c452e85.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A concepção que perpassa a imagem e o texto parte da\npremissa de que o respeito à diversidade cultural significa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exaltar os elementos de uma cultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "proteger as minorias culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estimular as religiões monoteístas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "incentivar a divisão de classes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "promover a aceitação do outro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

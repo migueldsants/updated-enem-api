@@ -1,0 +1,46 @@
+{
+    "title": "Questão 43 - ENEM 2007",
+    "index": 43,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/43/5b670b29-7d87-40a3-ae48-cb7c53ddb838.png)\n\nao fornecimento de água\n\npintados quente para fins domésticos.\nde preto Na figura ao lado, é ilustrado\n\n![](https://enem.dev/2007/questions/43/c81b27f9-e0b6-4109-a90f-507fce7dcf9f.png)\n\num aquecedor de água\nconstituído de dois tanques\npretos dentro de uma caixa\n\nágua fria termicamente isolada e com\n\ncamada refletiva cobertura de vidro, os quais\n\nabsorvem energia solar.\n\nA. Hinrichs e M. Kleinbach. Energia e meio ambiente. São Paulo:\nThompson, 3.ª ed., 2004, p. 529 (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/43/5b670b29-7d87-40a3-ae48-cb7c53ddb838.png",
+        "https://enem.dev/2007/questions/43/c81b27f9-e0b6-4109-a90f-507fce7dcf9f.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse sistema de aquecimento,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os tanques, por serem de cor preta, são maus absorvedores de calor e reduzem as perdas de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a cobertura de vidro deixa passar a energia luminosa e reduz a perda de energia térmica utilizada para o aquecimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a água circula devido à variação de energia luminosa existente entre os pontos X e Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a camada refletiva tem como função armazenar energia luminosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o vidro, por ser bom condutor de calor, permite que se mantenha constante a temperatura no interior da caixa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

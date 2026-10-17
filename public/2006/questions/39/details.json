@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2006",
+    "index": 39,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2006/questions/39/be99144f-0e40-43e3-b1de-c48a363d18bb.png)\n\nEsta manhã acordo e\nnão a encontro.\nBritada em bilhões de lascas\ndeslizando em correia transportadora\nentupindo 150 vagões\nno trem-monstro de 5 locomotivas\n— trem maior do mundo, tomem nota —\nfoge minha serra, vai\ndeixando no meu corpo a paisagem\nmísero pó de ferro, e este não passa.\n\nCarlos Drummond de Andrade. Antologia poética.\nRio de Janeiro: Record, 2000.\n\nA situação poeticamente descrita acima sinaliza, do ponto\nde vista ambiental, para a necessidade de\n\nI manter-se rigoroso controle sobre os processos de\n\ninstalação de novas mineradoras.\nII criarem-se estratégias para reduzir o impacto ambiental\n\nno ambiente degradado.\nIII reaproveitarem-se materiais, reduzindo-se a neces-\n\nsidade de extração de minérios.",
+    "files": [
+        "https://enem.dev/2006/questions/39/be99144f-0e40-43e3-b1de-c48a363d18bb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É correto o que se afirma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas em I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas em II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas em I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas em II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

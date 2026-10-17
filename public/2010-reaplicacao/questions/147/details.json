@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2010 - Reaplicação",
+    "index": 147,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O hábito de comer um prato de folhas todo dia faz\nproezas para o corpo. Uma das formas de variar o\nsabor das saladas é experimentar diferentes molhos.\nUm molho de iogurte com mostarda contém 2 colheres\nde sopa de iogurte desnatado, 1 colher de sopa de\nmostarda, 4 colheres de sopa de água, 2 colheres de\nsopa de azeite.\n\nDESGUALDO. P. Os Segredos da Supersalada. Revista Saúde. Jan. 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que uma colher de sopa equivale a\naproximadamente 15 mL, qual é o número máximo de\ndoses desse molho que se faz utilizando 1,5 L de azeite\ne mantendo a proporcionalidade das quantidades dos\ndemais ingredientes?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

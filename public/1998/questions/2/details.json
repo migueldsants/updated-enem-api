@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 1998",
+    "index": 2,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Observe nas questões 1 e 2 o que foi feito para colocar bolinhas de gude de 1 cm de diâmetro numa\ncaixa cúbica com 10 cm de aresta.\n\nUma segunda pessoa procurou encontrar outra maneira de arrumar as bolas na caixa\nachando que seria uma boa idéia organizá-las em camadas alternadas, onde cada\nbolinha de uma camada se apoiaria em 4 bolinhas da camada inferior, como mostra a\n\n![](https://enem.dev/1998/questions/2/6b8d826e-7ed8-4a8f-8452-a15ab5009b7a.png)",
+    "files": [
+        "https://enem.dev/1998/questions/2/6b8d826e-7ed8-4a8f-8452-a15ab5009b7a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "figura. Deste modo, ela conseguiu fazer 12 camadas. Portanto, ela conseguiu colocar\nna caixa:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "729 bolinhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "984 bolinhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1000 bolinhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1086 bolinhas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1200 bolinhas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

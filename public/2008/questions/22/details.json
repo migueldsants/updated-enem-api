@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2008",
+    "index": 22,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Diagrama para as questões 22 e 23\n\nO diagrama abaixo representa, de forma\nesquemática e simplificada, a distribuição da energia\nproveniente do Sol sobre a atmosfera e a superfície\nterrestre. Na área delimitada pela linha tracejada, são\ndestacados alguns processos envolvidos no fluxo de\nenergia na atmosfera.\n\n![](https://enem.dev/2008/questions/22/5d700c83-f390-4d43-ae37-e19d41cc88c9.png)\n\nde Física, v. 2, fig. 18.12 (com adaptações).",
+    "files": [
+        "https://enem.dev/2008/questions/22/5d700c83-f390-4d43-ae37-e19d41cc88c9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no diagrama acima, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a maior parte da radiação incidente sobre o planeta fica retida na atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a quantidade de energia refletida pelo ar, pelas nuvens e pelo solo é superior à absorvida pela superfície.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a atmosfera absorve 70% da radiação solar incidente sobre a Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mais da metade da radiação solar que é absorvida diretamente pelo solo é devolvida para a atmosfera.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a quantidade de radiação emitida para o espaço pela atmosfera é menor que a irradiada para o espaço pela superfície.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

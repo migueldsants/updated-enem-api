@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2005",
+    "index": 33,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um aluno de uma escola será escolhido por sorteio para representá-la em uma certa atividade. A escola tem dois\nturnos. No diurno há 300 alunos, distribuídos em 10 turmas de 30 alunos. No noturno há 240 alunos, distribuídos em 6\nturmas de 40 alunos.\nEm vez do sorteio direto envolvendo os 540 alunos, foram propostos dois outros métodos de sorteio.\nMétodo I: escolher ao acaso um dos turnos (por exemplo, lançando uma moeda) e, a seguir, sortear um dos alunos\ndo turno escolhido.\nMétodo II: escolher ao acaso uma das 16 turmas (por exemplo, colocando um papel com o número de cada turma em\numa urna e sorteando uma delas) e, a seguir, sortear um dos alunos dessa turma.\nSobre os métodos I e II de sorteio é correto afirmar:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "em ambos os métodos, todos os alunos têm a mesma chance de serem sorteados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "no método I, todos os alunos têm a mesma chance de serem sorteados, mas, no método II a chance de um aluno do diurno ser sorteado é maior que a de um aluno do noturno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no método II, todos os alunos têm a mesma chance de serem sorteados, mas, no método I, a chance de um aluno do diurno ser sorteado é maior que a de um aluno do noturno.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "no método I, a chance de um aluno do noturno ser sorteado é maior do que a de um aluno do diurno, enquanto no método II ocorre o contrário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em ambos os métodos, a chance de um aluno do diurno ser sorteado é maior do que a de um aluno do noturno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

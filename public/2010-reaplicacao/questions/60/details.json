@@ -1,0 +1,45 @@
+{
+    "title": "Questão 60 - ENEM 2010 - Reaplicação",
+    "index": 60,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Brasil é um dos países que obtêm melhores resultados na reciclagem de latinhas de alumínio. O esquema a seguir\nrepresenta as várias etapas desse processo:\n\n![](https://enem.dev/2010-reaplicacao/questions/60/212eb2aa-fc45-4e38-8763-f91e8a8b07e7.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/60/212eb2aa-fc45-4e38-8763-f91e8a8b07e7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A temperatura do forno em que o alumínio é fundido é útil também porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sublima outros metais presentes na lata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "evapora substâncias radioativas remanescentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "impede que o alumínio seja eliminado em altas temperaturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desmagnetiza as latas que passaram pelo processo de triagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "queima os resíduos de tinta e outras substâncias presentes na lata.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

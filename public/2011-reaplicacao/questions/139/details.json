@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2011 - Reaplicação",
+    "index": 139,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Durante o século XX, a principal fonte primária de\ngeração de energia, isto é, a principal fonte de energia\ndo Brasil, foi alterada.\nVeja no gráfico, em termos percentuais, a quantidade de\nenergia gerada a partir de cada uma das fontes primárias:\n\n![](https://enem.dev/2011-reaplicacao/questions/139/f32750b7-e50f-4d63-9207-fe81526d0bdb.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/139/f32750b7-e50f-4d63-9207-fe81526d0bdb.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no gráfico, essa troca da principal fonte primária\nde geração de energia ocorreu entre quais fontes?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Do carvão para a energia nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Do carvão para o petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Da lenha para a energia nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Da lenha para o petróleo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Da lenha para o carvão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

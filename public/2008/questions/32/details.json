@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2008",
+    "index": 32,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "rascunho\n\nUma fonte de energia que não agride o ambiente,\né totalmente segura e usa um tipo de matéria-prima infinita\né a energia eólica, que gera eletricidade a partir da força\ndos ventos. O Brasil é um país privilegiado por ter o tipo de\nventilação necessária para produzi-la. Todavia, ela é a\nmenos usada na matriz energética brasileira. O Ministério\nde Minas e Energia estima que as turbinas eólicas\nproduzam apenas 0,25% da energia consumida no país.\nIsso ocorre porque ela compete com uma usina mais\nbarata e eficiente: a hidrelétrica, que responde por 80% da\nenergia do Brasil. O investimento para se construir uma\nhidrelétrica é de aproximadamente US$ 100 por quilowatt.\nOs parques eólicos exigem investimento de cerca de\nUS$ 2 mil por quilowatt e a construção de uma usina\nnuclear, de aproximadamente US$ 6 mil por quilowatt.\nInstalados os parques, a energia dos ventos é bastante\ncompetitiva, custando R$ 200,00 por megawatt-hora frente\na R$ 150,00 por megawatt-hora das hidrelétricas e a\nR$ 600,00 por megawatt-hora das termelétricas.\n\nÉpoca. 21/4/2008 (com adaptações).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o texto, entre as razões que contribuem\npara a menor participação da energia eólica na matriz\nenergética brasileira, inclui-se o fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "haver, no país, baixa disponibilidade de ventos que podem gerar energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o investimento por quilowatt exigido para a construção de parques eólicos ser de aproximadamente 20 vezes o necessário para a construção de hidrelétricas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o investimento por quilowatt exigido para a construção de parques eólicos ser igual a 1/3 do necessário para a construção de usinas nucleares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o custo médio por megawatt-hora de energia obtida após instalação de parques eólicos ser igual a 1,2 multiplicado pelo custo médio do megawatt-hora obtido das hidrelétricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o custo médio por megawatt-hora de energia obtida após instalação de parques eólicos ser igual a 1/3 do custo médio do megawatt-hora obtido das termelétricas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

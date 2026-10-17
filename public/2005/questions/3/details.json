@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2005",
+    "index": 3,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Leia os textos abaixo:\n\nI - A situação de um trabalhador\nPaulo Henrique de Jesus está há quatro meses desempregado. Com o Ensino Médio completo, ou seja, 11 anos de\nestudo, ele perdeu a vaga que preenchia há oito anos de encarregado numa transportadora de valores, ganhando\nR$800,00. Desde então, e com 50 currículos já distribuídos, só encontra oferta para ganhar R$300,00, um salário\nmínimo. Ele aceitou trabalhar por esse valor, sem carteira assinada, como garçom numa casa de festas para fazer\nfrente às despesas.\n\n(O Globo, 20/07/2005.)\n\nII - Uma interpretação sobre o acesso ao mercado de trabalho\nAtualmente, a baixa qualificação da mão-de-obra é um dos responsáveis pelo desemprego no Brasil.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A relação que se estabelece entre a situação (I) e a interpreta\nção (II) e a razão para essa relação aparece em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "II explica I - Nos níveis de escolaridade mais baixos há dificuldade de acesso ao mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I reforça II - Os avanços tecnológicos da Terceira Revolução Industrial garantem somente o acesso ao trabalho para aqueles de formação em nível superior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I desmente II - O mundo globalizado promoveu desemprego especialmente para pessoas entre 10 e 15 anos de estudo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II justifica I - O desemprego estrutural leva a exclusão de trabalhadores com escolaridade de nível médio incompleto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II complementa I - O longo período de baixo crescimento econômico acirrou a competição, e pessoas de maior escolaridade passam a aceitar funções que não correspondem a sua formação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

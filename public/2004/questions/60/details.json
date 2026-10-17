@@ -1,0 +1,46 @@
+{
+    "title": "Questão 60 - ENEM 2004",
+    "index": 60,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Na fabricação de qualquer objeto metálico, seja um parafuso, uma panela, uma jóia, um carro ou um foguete, a metalurgia está\npresente na extração de metais a partir dos minérios correspondentes, na sua transformação e sua moldagem. Muitos dos\nprocessos metalúrgicos atuais têm em sua base conhecimentos desenvolvidos há milhares de anos, como mostra o quadro:\n\n![](https://enem.dev/2004/questions/60/627ae44b-fe49-4cfd-9fbc-26f924ccf216.png)\n\n![](https://enem.dev/2004/questions/60/2a45db2a-11f1-48ba-a67d-f33bc1d52a00.png)\n\nObtenção do estanho a partir do minério\nUso do bronze\nIntrodução do fole e aumento da temperatura de queima\nInício do uso do ferro\nObtenção do mercúrio e dos amálgamas\nCunhagem de moedas\n\n(J. A. VANIN, Alquimistas e Químicos)",
+    "files": [
+        "https://enem.dev/2004/questions/60/627ae44b-fe49-4cfd-9fbc-26f924ccf216.png",
+        "https://enem.dev/2004/questions/60/2a45db2a-11f1-48ba-a67d-f33bc1d52a00.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Podemos observar que a extração e o uso de diferentes metais ocorreram a partir de diferentes épocas. Uma das razões para\nque a extração e o uso do ferro tenham ocorrido após a do cobre ou estanho é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a inexistência do uso de fogo que permitisse sua moldagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a necessidade de temperaturas mais elevadas para sua extração e moldagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o desconhecimento de técnicas para a extração de metais a partir de minérios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a necessidade do uso do cobre na fabricação do ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "seu emprego na cunhagem de moedas, em substituição ao ouro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

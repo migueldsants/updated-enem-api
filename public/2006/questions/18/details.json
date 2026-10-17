@@ -1,0 +1,45 @@
+{
+    "title": "Questão 18 - ENEM 2006",
+    "index": 18,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Os textos a seguir foram extraídos de duas crônicas publicadas no\nano em que a seleção brasileira conquistou o tricampeonato\nmundial de futebol.\n\nO General Médici falou em consistência moral. Sem isso,\ntalvez a vitória nos escapasse, pois a disciplina consciente,\nlivremente aceita, é vital na preparação espartana para o rude\nteste do campeonato. Os brasileiros portaram-se não apenas\ncomo técnicos ou profissionais, mas como brasileiros, como\ncidadãos deste grande país, cônscios de seu papel de\nrepresentantes de seu povo. Foi a própria afirmação do valor do\nhomem brasileiro, como salientou bem o presidente da República.\nQue o chefe do governo aproveite essa pausa, esse minuto de\neuforia e de efusão patriótica, para meditar sobre a situação do\npaís. (...) A realidade do Brasil é a explosão patriótica do povo ante\na vitória na Copa.\n\nDanton Jobim. Última Hora, 23/6/1970 (com adaptações).\n\nO que explodiu mesmo foi a alma, foi a paixão do povo:\numa explosão incomparável de alegria, de entusiasmo, de orgulho.\n(...) Debruçado em minha varanda de Ipanema, [um velho amigo]\nperguntava: — Será que algum terrorista se aproveitou do delírio\ncoletivo para adiantar um plano seu qualquer, agindo com frieza e\nprecisão? Será que, de outro lado, algum carrasco policial teve\nânimo para voltar a torturar sua vítima logo que o alemão apitou o\nfim do jogo?\n\nRubem Braga. Última Hora, 25/6/1970 (com adaptações).\n\nAvalie as seguintes afirmações a respeito dos dois textos e do\nperíodo histórico em que foram escritos.\n\nI Para os dois autores, a conquista do tricampeonato mundial de\n\nfutebol provocou uma explosão de alegria popular.\nII Os dois textos salientam o momento político que o país\n\natravessava ao mesmo tempo em que conquistava o\ntricampeonato.\nIII À época da conquista do tricampeonato mundial de futebol, o\n\nBrasil vivia sob regime militar, que, embora politicamente\nautoritário, não chegou a fazer uso de métodos violentos contra\nseus opositores.",
+    "files": [
+        "https://enem.dev/2006/questions/18/b3e8f5a7-61d6-4fe3-a17e-26132a8e09e0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/18/b3e8f5a7-61d6-4fe3-a17e-26132a8e09e0.png",
+            "isCorrect": false
+        }
+    ]
+}

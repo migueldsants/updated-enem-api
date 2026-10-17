@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2010 - Reaplicação",
+    "index": 125,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Diego Souza ironiza torcida do Palmeiras\nO Palmeiras venceu o Atlético-GO pelo placar de 1 a 0,\ncom um gol no final da partida. O cenário era para ser\nde alegria, já que a equipe do Verdão venceu e deu\num importante passo para conquistar a vaga para as\nsemifinais, mas não foi bem isso que aconteceu.\nO meia Diego Souza foi substituído no segundo tempo\ndebaixo de vaias dos torcedores palmeirenses e chegou\na fazer gestos obscenos respondendo à torcida. Ao final\ndo jogo, o meia chegou a dizer que estava feliz por jogar\nno Verdão.\n— Eu não estou pensando em sair do Palmeiras. Estou\nmuito feliz aqui — disse.\nPerguntado sobre as vaias da torcida enquanto era\nsubstituído, Diego Souza ironizou a torcida do Palmeiras.\n—Vaias? Que vaias? — ironiza o camisa 7 do Verdão,\nantes de descer para os vestiários.\n\nDisponível em: http://oglobo.globo.com. Acesso em: 29 abr. 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A progressão textual realiza-se por meio de relações\nsemânticas que se estabelecem entre as partes do texto.\nTais relações podem ser claramente apresentadas pelo\nemprego de elementos coesivos ou não ser explicitadas,\nno caso da justaposição. Considerando-se o texto lido,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "no primeiro parágrafo, o conectivo já que marca uma relação de consequência entre os segmentos do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "no primeiro parágrafo, o conectivo mas explicita uma relação de adição entre os segmentos do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "entre o primeiro e o segundo parágrafos, está implícita uma relação de causalidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "no quarto parágrafo, o conectivo enquanto estabelece uma relação de explicação entre os segmentos do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "entre o quarto e o quinto parágrafos, está implícita uma relação de oposição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

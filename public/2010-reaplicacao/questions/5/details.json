@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2010 - Reaplicação",
+    "index": 5,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O crescimento rápido das cidades nem sempre é\nacompanhado, no mesmo ritmo, pelo atendimento de\ninfraestrutura para a melhoria da qualidade de vida.\nA deficiência de redes de água tratada, de coleta\ne tratamento de esgoto, de pavimentação de ruas,\nde galerias de águas pluviais, de áreas de lazer, de\náreas verdes, de núcleos de formação educacional e\nprofissional, de núcleos de atendimento médico-sanitário\né comum nessas cidades.\n\nROSS, J. L. S. (Org.) Geografia do Brasil. São Paulo: EDUSP, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sabendo que o acelerado crescimento populacional\nurbano está articulado com a escassez de recursos\nfinanceiros e a dificuldade de implementação de leis\nde proteção ao meio ambiente, pode-se estabelecer o\nestímulo a uma relação sustentável entre conservação e\nprodução a partir",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do aumento do consumo, pela população mais pobre, de produtos industrializados para o equilibrio da capacidade de consumo entre as classes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da seleção e recuperação do lixo urbano, que já é uma prática rotineira nos grandes centros urbanos dos países em desenvolvimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da diminuição acelerada do uso de recursos naturais, ainda que isso represente perda da qualidade de vida de milhões de pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "da fabricação de produtos reutilizáveis e biodegradáveis, evitando-se substituições e descartes, como medidas para a redução da degradação ambiental.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "da transferência dos aterros sanitários para as partes mais periféricas das grandes cidades, visando-se à preservação dos ambientes naturais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

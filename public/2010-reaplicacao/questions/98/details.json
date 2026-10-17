@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2010 - Reaplicação",
+    "index": 98,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Reclame\n\nSe o mundo não vai bem\na seus olhos, use lentes\n... ou transforme o mundo\n\nótica olho vivo\nagradece a preferência\n\nCHACAL et al. Poesia marginal. São Paulo: Ática, 2006.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Chacal é um dos representantes da geração poética de\n1970. A produção literária dessa geração, considerada\nmarginal e engajada, de que é representativo o poema\napresentado, valoriza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o experimentalismo em versos curtos e tom jocoso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a sociedade de consumo, com o uso da linguagem publicitária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a construção do poema, em detrimento do conteúdo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a experimentação formal dos neossimbolistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o uso de versos curtos e uniformes quanto à métrica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

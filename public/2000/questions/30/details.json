@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2000",
+    "index": 30,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma garrafa de vidro e uma lata de alumínio, cada uma contendo 330 mL de\nrefrigerante, são mantidas em um refrigerador pelo mesmo longo período de\ntempo. Ao retirá-las do refrigerador com as mãos desprotegidas, tem-se a\nsensação de que a lata está mais fria que a garrafa.\nÉ correto afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a lata está realmente mais fria, pois a capacidade calorífica da garrafa é maior que a da lata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a lata está de fato menos fria que a garrafa, pois o vidro possui condutividade menor que o alumínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a garrafa e a lata estão à mesma temperatura, possuem a mesma condutividade térmica, e a sensação deve-se à diferença nos calores específicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a garrafa e a lata estão à mesma temperatura, e a sensação é devida ao fato de a condutividade térmica do alumínio ser maior que a do vidro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a garrafa e a lata estão à mesma temperatura, e a sensação é devida ao fato de a condutividade térmica do vidro ser maior que a do alumínio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

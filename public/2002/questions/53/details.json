@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2002",
+    "index": 53,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Adaptado de GEPEQ – Grupo de Pesquisa em Educação Química. USP – Interações e Transformações III –\natmosfera: fonte de materiais extrativos e sintéticos. São Paulo: EDUSP, 1998.\n\nGood-bye\n\n“Não é mais boa noite, nem bom dia\nSó se fala good morning, good night\nJá se desprezou o lampião de querosene\nLá no morro só se usa a luz da Light\nOh yes!”",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A marchinha Good-bye, composta por Assis Valente há cerca de 50 anos, refere-se ao ambiente das favelas dos morros cariocas. A\nestrofe citada mostra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "como a questão do racionamento da energia elétrica, bem como a da penetração dos anglicismos no vocabulário brasileiro, iniciaram-se em meados do século passado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "como a modernidade, associada simbolicamente à eletrificação e ao uso de anglicismos, atingia toda a população brasileira, mas também como, a despeito disso, persistia a desigualdade social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "como as populações excluídas se apropriavam aos poucos de elementos de modernidade, saindo de uma situação de exclusão social, o que é sugerido pelo título da música.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os resultados benéficos da política de boa vizinhança norte-americana, que permitia aos poucos que o Brasil se inserisse numa cultura e economia globalizadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o desprezo do compositor pela cultura e pelas condições de vida atrasadas características do “morro”, isto é, dos bairros pobres da cidade do Rio de Janeiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

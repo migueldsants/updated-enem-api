@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2005",
+    "index": 55,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Os números de identificação utilizados no cotidiano (de contas bancárias, de CPF, de Carteira de Identidade etc)\nusualmente possuem um dígito de verificação, normalmente representado após o hífen, como em 17326-9. Esse\ndígito adicional tem a finalidade de evitar erros no preenchimento ou digitação de documentos.\nUm dos métodos usados para gerar esse dígito utiliza os seguintes passos:\n\n multiplica-se o último algarismo do número por 1, o penúltimo por 2, o antepenúltimo por 1, e assim por diante,\nsempre alternando multiplicações por 1 e por 2.\n soma-se 1 a cada um dos resultados dessas multiplicações que for maior do que ou igual a 10.\n somam-se os resultados obtidos .\n calcula-se o resto da divisão dessa soma por 10, obtendo-se assim o dígito verificador.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O dígito de verificação fornecido pelo processo acima para o número 24685 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

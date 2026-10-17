@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 2007",
+    "index": 8,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Estima-se que haja, no Acre, 209 espécies de mamíferos,\ndistribuídas conforme a tabela abaixo.\n\n![](https://enem.dev/2007/questions/8/bb05c2ab-f6cf-440b-b4fc-85661784318e.png)",
+    "files": [
+        "https://enem.dev/2007/questions/8/bb05c2ab-f6cf-440b-b4fc-85661784318e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Deseja-se realizar um estudo comparativo entre três\ndessas espécies de mamíferos — uma do grupo Cetáceos,\noutra do grupo Primatas e a terceira do grupo Roedores.\nO número de conjuntos distintos que podem ser formados\ncom essas espécies para esse estudo é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.320.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.090.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5.845.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6.600.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7.245.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2008",
+    "index": 27,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O potencial brasileiro para gerar energia a partir da\nbiomassa não se limita a uma ampliação do Pró-álcool.\nO país pode substituir o óleo diesel de petróleo por grande\nvariedade de óleos vegetais e explorar a alta produtividade\ndas florestas tropicais plantadas. Além da produção de\ncelulose, a utilização da biomassa permite a geração de\nenergia elétrica por meio de termelétricas a lenha, carvão\nvegetal ou gás de madeira, com elevado rendimento e\nbaixo custo.\n\nCerca de 30% do território brasileiro é constituído\npor terras impróprias para a agricultura, mas aptas à\nexploração florestal. A utilização de metade dessa área, ou\nseja, de 120 milhões de hectares, para a formação de\nflorestas energéticas, permitiria produção sustentada do\nequivalente a cerca de 5 bilhões de barris de petróleo por\nano, mais que o dobro do que produz a Arábia Saudita\natualmente.\n\nJosé Walter Bautista Vidal. Desafios Internacionais para o século XXI. Seminário da\nComissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados,\nago./2002 (com adaptações).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para o Brasil, as vantagens da produção de energia a\npartir da biomassa incluem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "implantação de florestas energéticas em todas as regiões brasileiras com igual custo ambiental e econômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "substituição integral, por biodiesel, de todos os combustíveis fósseis derivados do petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "formação de florestas energéticas em terras impróprias para a agricultura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "importação de biodiesel de países tropicais, em que a produtividade das florestas seja mais alta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "regeneração das florestas nativas em biomas modificados pelo homem, como o Cerrado e a Mata Atlântica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

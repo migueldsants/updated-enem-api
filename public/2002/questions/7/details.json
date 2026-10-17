@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2002",
+    "index": 7,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Érico Veríssimo relata, em suas memórias, um episódio da\nadolescência que teve influência significativa em sua\ncarreira de escritor.\n“ Lembro-me de que certa noite – eu teria uns quatorze\nanos, quando muito – encarregaram-me de segurar uma\nlâmpada elétrica à cabeceira da mesa de operações,\nenquanto um médico fazia os primeiros curativos num\npobre-diabo que soldados da Polícia Municipal haviam\n“carneado”. (...) Apesar do horror e da náusea, continuei\nfirme onde estava, talvez pensando assim: se esse caboclo\npode agüentar tudo isso sem gemer, por que não hei de\npoder ficar segurando esta lâmpada para ajudar o doutor a\ncosturar esses talhos e salvar essa vida? (...)\nDesde que, adulto, comecei a escrever romances, tem-me\nanimado até hoje a idéia de que o menos que o escritor\npode fazer, numa época de atrocidades e injustiças como a\nnossa, é acender a sua lâmpada, fazer luz sobre a\nrealidade de seu mundo, evitando que sobre ele caia a\nescuridão, propícia aos ladrões, aos assassinos e aos\ntiranos. Sim, segurar a lâmpada, a despeito da náusea e\ndo horror. Se não tivermos uma lâmpada elétrica,\nacendamos o nosso toco de vela ou, em último caso,\nrisquemos fósforos repetidamente, como um sinal de que\nnão desertamos nosso posto.”\n\nVERÍSSIMO, Érico. Solo de Clarineta. Tomo I. Porto Alegre:\nEditora Globo, 1978.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Neste texto, por meio da metáfora da lâmpada que ilumina\na escuridão, Érico Veríssimo define como uma das funções\ndo escritor e, por extensão, da literatura,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criar a fantasia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "permitir o sonho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "denunciar o real.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "criar o belo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fugir da náusea.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

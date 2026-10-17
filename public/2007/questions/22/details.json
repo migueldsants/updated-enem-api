@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2007",
+    "index": 22,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Em 1947, a Organização das Nações Unidas (ONU)\naprovou um plano de partilha da Palestina que previa a criação de\ndois Estados: um judeu e outro palestino. A recusa árabe em aceitar\na decisão conduziu ao primeiro conflito entre Israel e países árabes.\n\nA segunda guerra (Suez, 1956) decorreu da decisão\negípcia de nacionalizar o canal, ato que atingia interesses anglo-\nfranceses e israelenses. Vitorioso, Israel passou a controlar a\nPenínsula do Sinai. O terceiro conflito árabe-israelense (1967) ficou\nconhecido como Guerra dos Seis Dias, tal a rapidez da vitória de\nIsrael.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em 6 de outubro de 1973, quando os judeus comemoravam\no Yom Kippur (Dia do Perdão), forças egípcias e sírias atacaram de\nsurpresa Israel, que revidou de forma arrasadora. A intervenção\namericano-soviética impôs o cessar-fogo, concluído em 22 de\noutubro.\nA partir do texto acima, assinale a opção correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A primeira guerra árabe-israelense foi determinada pela ação bélica de tradicionais potências européias no Oriente Médio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Na segunda metade dos anos 1960, quando explodiu a terceira guerra árabe-israelense, Israel obteve rápida vitória.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A guerra do Yom Kippur ocorreu no momento em que, a partir de decisão da ONU, foi oficialmente instalado o Estado de Israel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A ação dos governos de Washington e de Moscou foi decisiva para o cessar-fogo que pôs fim ao primeiro conflito árabe- israelense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apesar das sucessivas vitórias militares, Israel mantém suas dimensões territoriais tal como estabelecido pela resolução de 1947 aprovada pela ONU.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

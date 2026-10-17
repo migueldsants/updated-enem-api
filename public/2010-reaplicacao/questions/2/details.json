@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2010 - Reaplicação",
+    "index": 2,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Se, por um lado, o ser humano, como animal, é parte\nintegrante da natureza e necessita dela para continuar\nsobrevivendo, por outro, como ser social, cada dia mais\nsofistica os mecanismos de extrair da natureza recursos que,\nao serem aproveitados, podem alterar de modo profundo a\nfuncionalidade harmônica dos ambientes naturais.\n\nROSS, J. L. S. (Org.). Geografia do Brasil. São Paulo: EDUSP, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A relação entre a sociedade e a natureza vem sofrendo\nprofundas mudanças em razão do conhecimento\ntécnico. A partir da leitura do texto, identifique a possível\nconsequência do avanço da técnica sobre o meio natural.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A sociedade aumentou o uso de insumos químicos – agrotóxicos e fertilizantes – e, assim, os riscos de contaminação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O homem, a partir da evolução técnica, conseguiu explorar a natureza e difundir harmonia na vida social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As degradações produzidas pela exploração dos recursos naturais são reversíveis, o que, de certa forma, possibilita a recriação da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O desenvolvimento técnico, dirigido para a recomposição de áreas degradadas, superou os efeitos negativos da degradação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As mudanças provocadas pelas ações humanas sobre a natureza foram mínimas, uma vez que os recursos utilizados são de caráter renovável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

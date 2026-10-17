@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2004",
+    "index": 29,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Algumas doenças que, durante várias décadas do século XX, foram responsáveis pelas maiores percentagens das mortes no\nBrasil, não são mais significativas neste início do século XXI. No entanto, aumentou o percentual de mortalidade devida a outras\ndoenças, conforme se pode observar no diagrama:\n\n![](https://enem.dev/2004/questions/29/a0cab99f-6d0b-4166-9024-a4bee69ac536.png)",
+    "files": [
+        "https://enem.dev/2004/questions/29/a0cab99f-6d0b-4166-9024-a4bee69ac536.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No período considerado no diagrama, deixaram de ser predominantes, como causas de morte, as doenças",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "infecto-parasitárias, eliminadas pelo êxodo rural que ocorreu entre 1930 e 1940.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "infecto-parasitárias, reduzidas por maior saneamento básico, vacinas e antibióticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "digestivas, combatidas pelas vacinas, vermífugos, novos tratamentos e cirurgias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "digestivas, evitadas graças à melhoria do padrão alimentar do brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "respiratórias, contidas pelo melhor controle da qualidade do ar nas grandes cidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

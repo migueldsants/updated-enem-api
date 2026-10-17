@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2008",
+    "index": 47,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A Peste Negra dizimou boa parte da população\neuropéia, com efeitos sobre o crescimento das cidades.\nO conhecimento médico da época não foi suficiente para\nconter a epidemia. Na cidade de Siena, Agnolo di Tura\nescreveu: “As pessoas morriam às centenas, de dia e de\nnoite, e todas eram jogadas em fossas cobertas com terra\ne, assim que essas fossas ficavam cheias, cavavam-se\nmais. E eu enterrei meus cinco filhos com minhas próprias\nmãos (...) E morreram tantos que todos achavam que era o\nfim do mundo.”\n\nAgnolo di Tura. The Plague in Siena: An Italian Chronicle.In: William M. Bowsky.The\nBlack Death: a turning point in history? New York: HRW, 1971 (com adaptações).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O testemunho de Agnolo di Tura, um sobrevivente da\nPeste Negra, que assolou a Europa durante parte do\nséculo XIV, sugere que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o flagelo da Peste Negra foi associado ao fim dos tempos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a Igreja buscou conter o medo da morte, disseminando o saber médico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a impressão causada pelo número de mortos não foi tão forte, porque as vítimas eram poucas e identificáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "houve substancial queda demográfica na Europa no período anterior à Peste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o drama vivido pelos sobreviventes era causado pelo fato de os cadáveres não serem enterrados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

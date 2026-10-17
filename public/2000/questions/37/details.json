@@ -1,0 +1,46 @@
+{
+    "title": "Questão 37 - ENEM 2000",
+    "index": 37,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O ferro pode ser obtido a partir da hematita, minério rico em óxido de ferro, pela\nreação com carvão e oxigênio. A tabela a seguir apresenta dados da análise de\nminério de ferro (hematita) obtido de várias regiões da Serra de Carajás.\n\n![](https://enem.dev/2000/questions/37/5c373fba-c0fa-4569-bcc0-f0a99a84642d.png)\n\nSão Paulo: Edusp, 1973",
+    "files": [
+        "https://enem.dev/2000/questions/37/5c373fba-c0fa-4569-bcc0-f0a99a84642d.png",
+        "https://enem.dev/2000/questions/37/d9ecf396-b34c-4292-adca-6852ae4aa138.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No processo de produção do ferro, dependendo do minério utilizado, forma-se\nmais ou menos SO2, um gás que contribui para o aumento da acidez da chuva.\nConsiderando esse impacto ambiental e a quantidade de ferro produzida, pode-\nse afirmar que seria mais conveniente o processamento do minério da(s)\nregião(ões):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 e 3, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/37/d9ecf396-b34c-4292-adca-6852ae4aa138.png",
+            "isCorrect": false
+        }
+    ]
+}

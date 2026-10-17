@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2008",
+    "index": 45,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Uma pesquisa da ONU estima que, já em 2008,\npela primeira vez na história das civilizações, a maioria das\npessoas viverá na zona urbana. O gráfico a seguir mostra\no crescimento da população urbana desde 1950, quando\nessa população era de 700 milhões de pessoas, e\napresenta uma previsão para 2030, baseada em\ncrescimento linear no período de 2008 a 2030.\n\n![](https://enem.dev/2008/questions/45/0027c500-ff33-4f3d-9e90-9fb44e1b6202.png)",
+    "files": [
+        "https://enem.dev/2008/questions/45/0027c500-ff33-4f3d-9e90-9fb44e1b6202.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o gráfico, a população urbana mundial em\n2020 corresponderá, aproximadamente, a quantos bilhões\nde pessoas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,25.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4,50.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

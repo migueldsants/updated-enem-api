@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 1999",
+    "index": 27,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Pelos resultados da experiência, num mesmo instante, em Recife a sombra se projeta à direita e nas outras duas cidades à",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "esquerda da linha pontilhada na cartolina. É razoável, então, afirmar que existe uma localidade em que a sombra deverá estar\nbem mais próxima da linha pontilhada, em vias de passar de um lado para o outro. Em que localidade, dentre as listadas\nabaixo, seria mais provável que isso ocorresse?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Natal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Manaus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cuiabá.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Brasília.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Boa Vista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

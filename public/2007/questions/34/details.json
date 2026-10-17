@@ -1,0 +1,45 @@
+{
+    "title": "Questão 34 - ENEM 2007",
+    "index": 34,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/34/c4af94b2-0f89-4ff5-b112-e3cdf55946d7.png)\n\nAssociação Brasileira de Defesa do Consumidor (com adaptações).\n\nUma das principais causas da degradação de peixes\nfrescos é a contaminação por bactérias. O gráfico\napresenta resultados de um estudo acerca da temperatura\nde peixes frescos vendidos em cinco peixarias. O ideal é\nque esses peixes sejam vendidos com temperaturas entre\n2 ºC e 4 ºC. Selecionando-se aleatoriamente uma das\ncinco peixarias pesquisadas, a probabilidade de ela vender\npeixes frescos na condição ideal é igual a",
+    "files": [
+        "https://enem.dev/2007/questions/34/c4af94b2-0f89-4ff5-b112-e3cdf55946d7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "1 1 1 1 1",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": ".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": ".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": ".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": ".",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": ".",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

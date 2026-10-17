@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2002",
+    "index": 63,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2002/questions/63/ef3918cc-abc9-4eaf-9f85-d7b76be37d0e.png)",
+    "files": [
+        "https://enem.dev/2002/questions/63/ef3918cc-abc9-4eaf-9f85-d7b76be37d0e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com a história em quadrinhos protagonizada por Hagar e seu filho Hamlet, pode-se afirmar que a postura de Hagar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valoriza a existência da diversidade social e de culturas, e as várias representações e explicações desse universo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "desvaloriza a existência da diversidade social e as várias culturas, e determina uma única explicação para esse universo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "valoriza a possibilidade de explicar as sociedades e as culturas a partir de várias visões de mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "valoriza a pluralidade cultural e social ao aproximar a visão de mundo de navegantes e não-navegantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desvaloriza a pluralidade cultural e social, ao considerar o mundo habitado apenas pelos navegantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

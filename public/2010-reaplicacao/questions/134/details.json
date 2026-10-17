@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2010 - Reaplicação",
+    "index": 134,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Açúcar\n\nO branco açúcar que adoçará meu café\nNesta manhã de Ipanema\nNão foi produzido por mim\nNem surgiu dentro do açucareiro por milagre.\n[...]\nEm lugares distantes,\nOnde não há hospital,\nNem escola, homens que não sabem ler e morrem de fome\nAos 27 anos\nPlantaram e colheram a cana\nQue viraria açúcar.\nEm usinas escuras, homens de vida amarga\nE dura\nProduziram este açúcar\nBranco e puro\nCom que adoço meu café esta manhã\nEm Ipanema.\n\nGULLAR, F. Toda Poesia. Rio de Janeiro: Civilização Brasileira,1980 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A Literatura Brasileira desempenha papel importante\nao suscitar reflexão sobre desigualdades sociais. No\nfragmento, essa reflexão ocorre porque o eu lírico",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descreve as propriedades do açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "se revela mero consumidor de açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "destaca o modo de produção do açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "exalta o trabalho dos cortadores de cana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "explicita a exploração dos trabalhadores.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

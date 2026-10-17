@@ -1,0 +1,47 @@
+{
+    "title": "Questão 59 - ENEM 2006",
+    "index": 59,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Uma artesã confecciona dois diferentes tipos de\nvela ornamental a partir de moldes feitos com cartões de\npapel retangulares de 20 cm x 10 cm (conforme ilustram as\nfiguras abaixo). Unindo dois lados opostos do cartão, de\nduas maneiras, a artesã forma cilindros e, em seguida, os\npreenche completamente com parafina.\n\n![](https://enem.dev/2006/questions/59/3d3345a1-1939-4770-8e29-6956df37b288.png)\n\n![](https://enem.dev/2006/questions/59/906b1e90-48c0-4364-b3c6-30394fb046cc.png)\n\n![](https://enem.dev/2006/questions/59/04930d88-f694-4274-90a2-69b5e6b8859a.png)",
+    "files": [
+        "https://enem.dev/2006/questions/59/3d3345a1-1939-4770-8e29-6956df37b288.png",
+        "https://enem.dev/2006/questions/59/906b1e90-48c0-4364-b3c6-30394fb046cc.png",
+        "https://enem.dev/2006/questions/59/04930d88-f694-4274-90a2-69b5e6b8859a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Supondo-se que o custo da vela seja diretamente\nproporcional ao volume de parafina empregado, o custo da\nvela do tipo I, em relação ao custo da vela do tipo II, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o triplo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o dobro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "igual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a metade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a terça parte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

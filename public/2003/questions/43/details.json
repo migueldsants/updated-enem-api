@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2003",
+    "index": 43,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Os gases liberados pelo esterco e por alimentos em decomposição podem conter sulfeto de hidrogênio (H₂S), gás\ncom cheiro de ovo podre, que é tóxico para muitos seres vivos. Com base em tal fato, foram feitas as seguintes\nafirmações:\n\nI. Gases tóxicos podem ser produzidos em processos naturais;\nII. Deve-se evitar o uso de esterco como adubo porque polui o ar das zonas rurais;\nIII. Esterco e alimentos em decomposição podem fazer parte no ciclo natural do enxofre (S).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Está correto, apenas, o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II e III",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

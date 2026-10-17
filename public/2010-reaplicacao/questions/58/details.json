@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2010 - Reaplicação",
+    "index": 58,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um garoto que passeia de carro com seu pai pela\ncidade, ao ouvir o rádio, percebe que a sua estação\nde rádio preferida, a 94,9 FM, que opera na banda de\nfrequência de megahertz, tem seu sinal de transmissão\nsuperposto pela transmissão de uma rádio pirata de\nmesma frequência que interfere no sinal da emissora do\ncentro em algumas regiões da cidade.\nConsiderando a situação apresentada, a rádio pirata\ninterfere no sinal da rádio do centro devido à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atenuação promovida pelo ar nas radiações emitidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior amplitude da radiação emitida pela estação do centro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diferença de intensidade entre as fontes emissoras de ondas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "menor potência de transmissão das ondas da emissora pirata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "semelhança dos comprimentos de onda das radiações emitidas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

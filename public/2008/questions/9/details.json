@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2008",
+    "index": 9,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "As florestas tropicais estão entre os maiores, mais\ndiversos e complexos biomas do planeta. Novos estudos\nsugerem que elas sejam potentes reguladores do clima, ao\nprovocarem um fluxo de umidade para o interior dos\ncontinentes, fazendo com que essas áreas de floresta não\nsofram variações extremas de temperatura e tenham\numidade suficiente para promover a vida. Um fluxo\npuramente físico de umidade do oceano para o continente,\nem locais onde não há florestas, alcança poucas centenas\nde quilômetros. Verifica-se, porém, que as chuvas sobre\nflorestas nativas não dependem da proximidade do\noceano. Esta evidência aponta para a existência de uma\npoderosa “bomba biótica de umidade” em lugares como,\npor exemplo, a bacia amazônica. Devido à grande e densa\nárea de folhas, as quais são evaporadores otimizados,\nessa “bomba” consegue devolver rapidamente a água para\no ar, mantendo ciclos de evaporação e condensação que\nfazem a umidade chegar a milhares de quilômetros no\ninterior do continente.\n\nA. D. Nobre. Almanaque Brasil Socioambiental.\nInstituto Socioambiental, 2008, p. 368-9 (com adaptações).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As florestas crescem onde chove, ou chove onde crescem\nas florestas? De acordo com o texto,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "onde chove, há floresta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "onde a floresta cresce, chove.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "onde há oceano, há floresta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apesar da chuva, a floresta cresce.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no interior do continente, só chove onde há floresta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

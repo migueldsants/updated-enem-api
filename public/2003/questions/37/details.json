@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2003",
+    "index": 37,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A eficiência do fogão de cozinha pode ser analisada em relação ao tipo de energia que ele utiliza. O gráfico abaixo\nmostra a eficiência de diferentes tipos de fogão.\n\n![](https://enem.dev/2003/questions/37/79b99dd1-5beb-4ca5-9070-5b3cf87a135c.png)",
+    "files": [
+        "https://enem.dev/2003/questions/37/79b99dd1-5beb-4ca5-9070-5b3cf87a135c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Pode-se verificar que a eficiência dos fogões aumenta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à medida que diminui o custo dos combustíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à medida que passam a empregar combustíveis renováveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cerca de duas vezes, quando se substitui fogão a lenha por fogão a gás.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "cerca de duas vezes, quando se substitui fogão a gás por fogão elétrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "quando são utilizados combustíveis sólidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

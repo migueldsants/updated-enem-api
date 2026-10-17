@@ -1,0 +1,47 @@
+{
+    "title": "Questão 19 - ENEM 2006",
+    "index": 19,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela ao lado indica a posição\nrelativa de quatro times de futebol na A B C D\n\ncIassificação geral de um torneio, em dois\n\n![](https://enem.dev/2006/questions/19/b2f7f055-b47c-4913-a25c-9e49c6f48f12.png)\n\nanos consecutivos. O símbolo ● significa\n\n![](https://enem.dev/2006/questions/19/7f7a01e5-1267-47a1-a87f-f0908809cd0d.png)\n\nB\n\n![](https://enem.dev/2006/questions/19/d902955d-c544-48a4-80df-1826699ec729.png)\n\nde 2004, à frente do indicado na coluna. O C\nsímbolo significa que o time indicado na\n\n*\n\nD\n\nlinha ficou, no ano de 2005, à frente do\nindicado na coluna.",
+    "files": [
+        "https://enem.dev/2006/questions/19/b2f7f055-b47c-4913-a25c-9e49c6f48f12.png",
+        "https://enem.dev/2006/questions/19/7f7a01e5-1267-47a1-a87f-f0908809cd0d.png",
+        "https://enem.dev/2006/questions/19/d902955d-c544-48a4-80df-1826699ec729.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A probabilidade de que um desses quatro times, escolhido ao\nacaso, tenha obtido a mesma classificação no torneio, em 2004 e\n2005, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "0,25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,75.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

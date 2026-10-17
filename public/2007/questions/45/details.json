@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2007",
+    "index": 45,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "A pele humana é sensível à radiação solar, e essa\nsensibilidade depende das características da pele.\nOs filtros solares são produtos que podem ser aplicados\nsobre a pele para protegê-la da radiação solar. A eficácia\ndos filtros solares é definida pelo fator de proteção solar\n(FPS), que indica quantas vezes o tempo de exposição ao\nsol, sem o risco de vermelhidão, pode ser aumentado com\no uso do protetor solar. A tabela seguinte reúne\ninformações encontradas em rótulos de filtros solares.\n\n![](https://enem.dev/2007/questions/45/3d6481b1-a002-4d2b-af2c-b5461eb776d6.png)",
+    "files": [
+        "https://enem.dev/2007/questions/45/3d6481b1-a002-4d2b-af2c-b5461eb776d6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As informações acima permitem afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as pessoas de pele muito sensível, ao usarem filtro solar, estarão isentas do risco de queimaduras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o uso de filtro solar é recomendado para todos os tipos de pele exposta à radiação solar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "as pessoas de pele sensível devem expor-se 6 minutos ao sol antes de aplicarem o filtro solar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pessoas de pele amarela, usando ou não filtro solar, devem expor-se ao sol por menos tempo que pessoas de pele morena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o período recomendado para que pessoas de pele negra se exponham ao sol é de 2 a 6 horas diárias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

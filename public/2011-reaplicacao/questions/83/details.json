@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2011 - Reaplicação",
+    "index": 83,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo internacional de cientistas achou um modo\nde “tapar o nariz” do mosquito do gênero Anopheles.\nAs aspas são necessárias porque o inseto fareja suas\nvítimas usando as antenas. Os cientistas descobriram\ncomo ocorre a captação de cheiros pelas antenas e\nlistaram algumas substâncias capazes de bloquear\na detecção de odores que os mosquitos reconhecem.\nEssa descoberta possibilita, por exemplo, a criação de\num repelente muito mais preciso contra o inseto.\n\nDisponível em: http://www1.folha.uol.com.br. Acesso em: 12 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se a descoberta descrita no texto for extensiva a outros\ninsetos, pode ajudar a combater algumas doenças no\nBrasil, como, por exemplo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dengue, febre amarela, doença de Chagas e leptospirose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "malária, meningite, peste bubônica e doença de Chagas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "doença de Chagas, dengue, febre amarela e leishmaniose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "dengue, cólera, lepra e peste bubônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "malária, dengue, cólera e leptospirose.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

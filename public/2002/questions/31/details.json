@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2002",
+    "index": 31,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A corvina é um peixe carnívoro que se alimenta de crustáceos, moluscos e pequenos peixes que vivem no fundo do mar. É bastante\nutilizada na alimentação humana, sendo encontrada em toda a costa brasileira, embora seja mais abundante no sul do País. A tabela\nregistra a concentração média anual de mercúrio no tecido muscular de corvinas capturadas em quatro áreas.\n\nKEHRIG, H. A. & MALM, O. Mercúrio: uma avaliação na costa brasileira. Ciência Hoje, outubro, 1997.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Comparando as características das quatro áreas de coleta às respectivas concentrações médias anuais de mercúrio nas\ncorvinas capturadas, pode-se considerar que, à primeira vista, os resultados",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "correspondem ao esperado, uma vez que o nível de contaminação é proporcional ao aumento da atividade industrial e do volume de esgotos domésticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "não correspondem ao esperado, especialmente no caso da Lagoa da Conceição, que não apresenta contaminação industrial por mercúrio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "não correspondem ao esperado no caso da Baía da Ilha Grande e da Lagoa da Conceição, áreas nas quais não há fontes industriais de contaminação por mercúrio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "correspondem ao esperado, ou seja, corvinas de regiões menos poluídas apresentam as maiores concentrações de mercúrio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "correspondem ao esperado, exceção aos resultados da Baía de Sepetiba, o que exige novas investigações sobre o papel das marés no transporte de mercúrio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2001",
+    "index": 16,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A distribuição média, por tipo de equipamento, do consumo de energia elétrica nas\nresidências no Brasil é apresentada no gráfico.\n\nMáquina de\n\n![](https://enem.dev/2001/questions/16/7d40008a-ca73-4a14-9b28-334d61a34b1b.png)\n\nEm associação com os dados do gráfico, considere as variáveis:\n\nI. Potência do equipamento.\nII. Horas de funcionamento.\nIII. Número de equipamentos.",
+    "files": [
+        "https://enem.dev/2001/questions/16/7d40008a-ca73-4a14-9b28-334d61a34b1b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O valor das frações percentuais do consumo de energia depende de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

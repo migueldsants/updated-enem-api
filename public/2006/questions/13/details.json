@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2006",
+    "index": 13,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Os cruzados avançavam em silêncio, encontrando\npor todas as partes ossadas humanas, trapos e bandeiras.\nNo meio desse quadro sinistro, não puderam ver, sem\nestremecer de dor, o acampamento onde Gauthier havia\ndeixado as mulheres e crianças. Lá, os cristãos tinham\nsido surpreendidos pelos muçulmanos, mesmo no\nmomento em que os sacerdotes celebravam o sacrifício da\nMissa. As mulheres, as crianças, os velhos, todos os que a\nfraqueza ou a doença conservava sob as tendas,\nperseguidos até os altares, tinham sido levados para a\nescravidão ou imolados por um inimigo cruel. A multidão\ndos cristãos, massacrada naquele lugar, tinha ficado sem\nsepultura.\n\nJ. F. Michaud. História das cruzadas. São Paulo:\nEditora das Américas, 1956 (com adaptações).\n\nFoi, de fato, na sexta-feira 22 do tempo de\nChaaban, do ano de 492 da Hégira, que os franj* se\napossaram da Cidade Santa, após um sítio de 40 dias. Os\nexilados ainda tremem cada vez que falam nisso, seu olhar\nse esfria como se eles ainda tivessem diante dos olhos\naqueles guerreiros louros, protegidos de armaduras, que\nespelham pelas ruas o sabre cortante, desembainhado,\ndegolando homens, mulheres e crianças, pilhando as\ncasas, saqueando as mesquitas.\n\n*franj = cruzados.\n\nAmin Maalouf. As Cruzadas vistas pelos árabes.\n2.ª ed. São Paulo: Brasiliense, 1989 (com adaptações).\n\nAvalie as seguintes afirmações a respeito dos textos\nacima, que tratam das Cruzadas.\n\nI Os textos referem-se ao mesmo assunto — as\n\nCruzadas, ocorridas no período medieval —, mas\napresentam visões distintas sobre a realidade dos\nconflitos religiosos desse período histórico.\nII Ambos os textos narram partes de conflitos ocorridos\n\nentre cristãos e muçulmanos durante a Idade Média e\nrevelam como a violência contra mulheres e crianças\nera prática comum entre adversários.\nIII Ambos narram conflitos ocorridos durante as Cruzadas\n\nmedievais e revelam como as disputas dessa época,\napesar de ter havido alguns confrontos militares, foram\nresolvidas com base na idéia do respeito e da tolerância\ncultural e religiosa.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

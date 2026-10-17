@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2003",
+    "index": 10,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Instruções: As questões de números 10 e 11 referem-se ao poema abaixo.\n\nEpígrafe*\n\nMurmúrio de água na clepsidra** gotejante,\nLentas gotas de som no relógio da torre,\nFio de areia na ampulheta vigilante,\nLeve sombra azulando a pedra do quadrante***\nAssim se escoa a hora, assim se vive e morre...\n\nHomem, que fazes tu? Para que tanta lida,\nTão doidas ambições, tanto ódio e tanta ameaça?\nProcuremos somente a Beleza, que a vida\nÉ um punhado infantil de areia ressequida,\nUm som de água ou de bronze e uma sombra que passa...\n\n(Eugênio de Castro. Antologia pessoal da poesia portuguesa)\n\n(*) Epígrafe: inscrição colocada no ponto mais alto; tema.\n(**) Clepsidra: relógio de água.\n(***) Pedra do quadrante: parte superior de um relógio de sol.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A imagem contida em “lentas gotas de som” (verso 2) é retomada na segunda estrofe por meio da expressão:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tanta ameaça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "som de bronze.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "punhado de areia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sombra que passa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "somente a Beleza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2010 - Reaplicação",
+    "index": 99,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Prima Julieta\n\nPrima Julieta irradiava um fascínio singular. Era\na feminilidade em pessoa. Quando a conheci, sendo\nainda garoto e já sensibilíssimo ao charme feminino,\nteria ela uns trinta ou trinta e dois anos de idade.\n\nApenas pelo seu andar percebia-se que era\numa deusa, diz Virgílio de outra mulher. Prima Julieta\ncaminhava em ritmo lento, agitando a cabeça para trás,\nremando os belos braços brancos. A cabeleira loura\nincluía reflexos metálicos. Ancas poderosas. Os olhos de\num verde azulado borboleteavam. A voz rouca e ácida,\nem dois planos: voz de pessoa da alta sociedade.\n\nMENDES, M. A idade do serrote. Rio de Janeiro: Sabiá, 1968.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Entre os elementos constitutivos dos gêneros, está o\nmodo como se organiza a própria composição textual,\ntendo-se em vista o objetivo de seu autor: narrar,\ndescrever, argumentar, explicar, instruir. No trecho,\nreconhece-se uma sequência textual",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "explicativa, em que se expõem informações objetivas referentes à prima Julieta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "instrucional, em que se ensina o comportamento feminino, inspirado em prima Julieta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "narrativa, em que se contam fatos que, no decorrer do tempo, envolvem prima Julieta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "descritiva, em que se constrói a imagem de prima Julieta a partir do que os sentidos do enunciador captam.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "argumentativa, em que se defende a opinião do enunciador sobre prima Julieta, buscando-se a adesão do leitor a essas ideias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2007",
+    "index": 11,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considere-se que cada tonelada de cana-de-açúcar\npermita a produção de 100 litros de álcool combustível,\nvendido nos postos de abastecimento a R$ 1,20 o litro.\nPara que um corta-cana pudesse, com o que ganha nessa\natividade, comprar o álcool produzido a partir das oito\ntoneladas de cana resultantes de um dia de trabalho, ele\nteria de trabalhar durante",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30 dias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "48 dias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "60 dias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

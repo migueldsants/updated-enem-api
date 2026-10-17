@@ -1,0 +1,47 @@
+{
+    "title": "Questão 51 - ENEM 2007",
+    "index": 51,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões de 49 a 51\n\nOs gráficos abaixo, extraídos do sítio eletrônico do\nIBGE, apresentam a distribuição da população brasileira\npor sexo e faixa etária no ano de 1990 e projeções dessa\npopulação para 2010 e 2030.\n\n![](https://enem.dev/2007/questions/51/13c37658-cd59-46ef-a01b-55b9acc2759b.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000\n\n![](https://enem.dev/2007/questions/51/926c6457-0d27-4ced-8915-47782a8851b9.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000\n\nhomens⁶⁰ mulheres\n\n![](https://enem.dev/2007/questions/51/fafacd7d-b174-4145-9d92-8f19b6c430ff.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000",
+    "files": [
+        "https://enem.dev/2007/questions/51/13c37658-cd59-46ef-a01b-55b9acc2759b.png",
+        "https://enem.dev/2007/questions/51/926c6457-0d27-4ced-8915-47782a8851b9.png",
+        "https://enem.dev/2007/questions/51/fafacd7d-b174-4145-9d92-8f19b6c430ff.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se forem confirmadas as projeções apresentadas, a\npopulação brasileira com até 80 anos de idade será,\nem 2030,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "menor que 170 milhões de habitantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior que 170 milhões e menor que 210 milhões de habitantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "maior que 210 milhões e menor que 290 milhões de habitantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "maior que 290 milhões e menor que 370 milhões de habitantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "maior que 370 milhões de habitantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

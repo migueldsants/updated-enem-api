@@ -1,0 +1,45 @@
+{
+    "title": "Questão 61 - ENEM 2003",
+    "index": 61,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2003/questions/61/6c2b7307-cce1-4f49-ba52-d86162bf821f.png)",
+    "files": [
+        "https://enem.dev/2003/questions/61/6c2b7307-cce1-4f49-ba52-d86162bf821f.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gráfico e a frase acima, tirados de um jornal, estão ambos relacionados à evolução média da violência no Estado\nde São Paulo. A associação entre estas duas linguagens – a gráfica e a escrita – permite concluir que,\npercentualmente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a capital tornou-se mais rica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as cidades do interior enriqueceram e “atraíram” roubos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a região metropolitana enriqueceu e o crime se estabilizou.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminui, em geral, a criminalidade no Estado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminui especialmente a incidência de roubos no Estado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

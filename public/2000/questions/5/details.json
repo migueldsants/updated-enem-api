@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2000",
+    "index": 5,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Em certa cidade, algumas de suas principais vias têm a designação “radial” ou\n“perimetral”, acrescentando-se ao nome da via uma referência ao ponto\ncardeal correspondente.\nAs ruas 1 e 2 estão indicadas no esquema abaixo, em que não estão\nexplicitados os pontos cardeais.\n\n![](https://enem.dev/2000/questions/5/1e1ff9de-a9d7-4c2e-a60d-5782069a5b0c.png)",
+    "files": [
+        "https://enem.dev/2000/questions/5/1e1ff9de-a9d7-4c2e-a60d-5782069a5b0c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os nomes corretos das vias 1 e 2 podem, respectivamente, ser:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "perimetral sul, radial leste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "perimetral sul, radial oeste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "perimetral norte, radial oeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "radial sul, perimetral norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "radial sul, perimetral oeste.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

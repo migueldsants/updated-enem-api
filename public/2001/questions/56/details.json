@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2001",
+    "index": 56,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Dados do Censo Brasileiro 2000 mostram que, na última década, o número de favelas tem\ncrescido consideravelmente, com significativa alteração na sua distribuição pelas regiões do\nPaís.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a dinâmica migratória do período, pode-se afirmar que esse processo está\nrelacionado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ao declínio acentuado da industrialização no Sudeste, que deslocou grandes parcelas da população urbana para outras regiões do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à ampliação do número de zonas francas de comércio em grandes metrópoles, o que atraiu a população rural para essas áreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao deslocamento das correntes migratórias rurais para os cinturões verdes criados em torno dos centros urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à instalação, na Região Nordeste, de inúmeras empresas de alta tecnologia, atraindo de volta a população que migrara para o Sudeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à mudança no destino das correntes migratórias, que passaram a buscar as cidades de médio e grande portes, além de São Paulo e Rio de Janeiro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

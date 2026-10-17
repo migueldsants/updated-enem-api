@@ -1,0 +1,46 @@
+{
+    "title": "Questão 9 - ENEM 2004",
+    "index": 9,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma fábrica de equipamentos eletrônicos, cada componente, ao final da linha de montagem, é submetido a um\nrigoroso controle de qualidade, que mede o desvio percentual (D) de seu desempenho em relação a um padrão\nideal. O fluxograma a seguir descreve, passo a passo, os procedimentos executados por um computador para\nimprimir um selo em cada componente testado, classificando-o de acordo com o resultado do teste:\n\n![](https://enem.dev/2004/questions/9/d13320ba-692d-4cb9-b8cf-9cc67da3248f.png)\n\nOs símbolos usados no fluxograma têm os seguintes significados:\n\nEntrada e saída de dados\n\nDecisão (testa uma condição, executando operações diferentes caso essa condição seja verdadeira ou\n\n![](https://enem.dev/2004/questions/9/f5cd9f0b-7a52-4d73-aa43-d7572ddfbaba.png)\n\nfalsa)\n\nOperação",
+    "files": [
+        "https://enem.dev/2004/questions/9/d13320ba-692d-4cb9-b8cf-9cc67da3248f.png",
+        "https://enem.dev/2004/questions/9/f5cd9f0b-7a52-4d73-aa43-d7572ddfbaba.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo essa rotina, se D =1,2%, o componente receberá um selo com a classificação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Rejeitado”, impresso na cor vermelha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“3ª Classe”, impresso na cor amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“3ª Classe”, impresso na cor azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“2ª Classe”, impresso na cor azul.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "“1ª Classe”, impresso na cor azul.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

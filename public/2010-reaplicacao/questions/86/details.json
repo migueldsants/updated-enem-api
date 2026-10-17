@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2010 - Reaplicação",
+    "index": 86,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Usando pressões extremamente altas, equivalentes às\nencontradas nas profundezas da Terra ou em um planeta\ngigante, cientistas criaram um novo cristal capaz de\narmazenar quantidades enormes de energia. Utilizando-\nse um aparato chamado bigorna de diamante, um cristal\nde difluoreto de xenônio (XeF₂) foi pressionado, gerando\num novo cristal com estrutura supercompacta e enorme\nquantidade de energia acumulada.\n\nInovação Tecnológica. Disponível em: http://www.inovacaotecnologica.com.br.\nAcesso em: 07 jul. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Embora as condições citadas sejam diferentes do\ncotidiano, o processo de acumulação de energia descrito\né análogo ao da energia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "armazenada em um carrinho de montanha russa durante o trajeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "armazenada na água do reservatório de uma usina hidrelétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "liberada na queima de um palito de fósforo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "gerada nos reatores das usinas nucleares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "acumulada em uma mola comprimida.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

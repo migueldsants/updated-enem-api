@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2008",
+    "index": 4,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico abaixo mostra a área desmatada da Amazônia,\n\n![](https://enem.dev/2008/questions/4/26f6db89-71d9-4b33-8ff9-99c7cf1d0b4f.png)",
+    "files": [
+        "https://enem.dev/2008/questions/4/26f6db89-71d9-4b33-8ff9-99c7cf1d0b4f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As informações do gráfico indicam que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o maior desmatamento ocorreu em 2004.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a área desmatada foi menor em 1997 que em 2007.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a área desmatada a cada ano manteve-se constante entre 1998 e 2001.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a área desmatada por ano foi maior entre 1994 e 1995 que entre 1997 e 1998.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o total de área desmatada em 1992, 1993 e 1994 é maior que 60.000 km².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

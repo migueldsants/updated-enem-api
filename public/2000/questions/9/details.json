@@ -1,0 +1,45 @@
+{
+    "title": "Questão 9 - ENEM 2000",
+    "index": 9,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Chico Bento. Rio de Janeiro: Ed. Globo, nº 335, Nov./99)\n\nA tabela abaixo resume alguns dados importantes sobre os satélites de Júpiter.\n\n![](https://enem.dev/2000/questions/9/d762a7ab-99b6-4508-94c8-abfb53754ef2.png)\n\nAo observar os satélites de Júpiter pela primeira vez, Galileu Galilei fez diversas\nanotações e tirou importantes conclusões sobre a estrutura de nosso universo.\nA figura abaixo reproduz uma anotação de Galileu referente a Júpiter e seus\nsatélites.\n\n1 2 3 4",
+    "files": [
+        "https://enem.dev/2000/questions/9/d762a7ab-99b6-4508-94c8-abfb53754ef2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com essa representação e com os dados da tabela, os pontos\nindicados por 1, 2, 3 e 4 correspondem, respectivamente, a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Io, Europa, Ganimedes e Calisto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ganimedes, Io, Europa e Calisto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Europa, Calisto, Ganimedes e Io.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Calisto, Ganimedes, Io e Europa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Calisto, Io, Europa e Ganimedes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

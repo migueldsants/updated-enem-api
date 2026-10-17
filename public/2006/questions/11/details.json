@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2006",
+    "index": 11,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Segundo a explicação mais difundida sobre o\npovoamento da América, grupos asiáticos teriam chegado\na esse continente pelo Estreito de Bering, há 18 mil anos.\nA partir dessa região, localizada no extremo noroeste do\ncontinente americano, esses grupos e seus descendentes\nteriam migrado, pouco a pouco, para outras áreas,\nchegando até a porção sul do continente. Entretanto, por\nmeio de estudos arqueológicos realizados no Parque\nNacional da Serra da Capivara (Piauí), foram descobertos\nvestígios da presença humana que teriam até 50 mil anos\nde idade.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Validadas, as provas materiais encontradas pelos\narqueólogos no Piauí",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "comprovam que grupos de origem africana cruzaram o oceano Atlântico até o Piauí há 18 mil anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "confirmam que o homem surgiu primeiramente na América do Norte e, depois, povoou os outros continentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contestam a teoria de que o homem americano surgiu primeiro na América do Sul e, depois, cruzou o Estreito de Bering.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "confirmam que grupos de origem asiática cruzaram o Estreito de Bering há 18 mil anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "contestam a teoria de que o povoamento da América teria iniciado há 18 mil anos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

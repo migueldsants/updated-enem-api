@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2010 - Reaplicação",
+    "index": 130,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/130/15a10009-6584-4f45-9546-6558c6a0739c.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/130/15a10009-6584-4f45-9546-6558c6a0739c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pela evolução do texto, no que se refere à linguagem\nempregada, percebe-se que a garota",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "deseja afirmar-se como nora por meio de uma fala poética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "utiliza expressões linguísticas próprias do discurso",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "usa apenas expressões linguísticas presentes no",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "se expressa utilizando marcas do discurso formal e",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "usa palavras com sentido pejorativo para assustar o",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

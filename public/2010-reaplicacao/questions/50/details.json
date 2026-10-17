@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2010 - Reaplicação",
+    "index": 50,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A utilização de células-tronco do próprio indivíduo\n(autotransplante) tem apresentado sucesso como terapia\nmedicinal para a regeneração de tecidos e órgãos cujas\ncélulas perdidas não têm capacidade de reprodução,\nprincipalmente em substituição aos transplantes, que causam\nmuitos problemas devidos à rejeição pelos receptores.\nO autotransplante pode causar menos problemas\nde rejeição quando comparado aos transplantes\ntradicionais, realizados entre diferentes indivíduos. Isso\nporque as",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "células-tronco se mantêm indiferenciadas após sua introdução no organismo do receptor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "células provenientes de transplantes entre diferentes indivíduos envelhecem e morrem rapidamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "células-tronco, por serem doadas pelo próprio indivíduo receptor, apresentam material genético semelhante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "células transplantadas entre diferentes indivíduos se diferenciam em tecidos tumorais no receptor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "células provenientes de transplantes convencionais não se reproduzem dentro do corpo do receptor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

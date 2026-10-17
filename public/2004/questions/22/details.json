@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2004",
+    "index": 22,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O jivaro\n\nUm Sr. Matter, que fez uma viagem de exploração à América do Sul, conta a um jornal sua conversa com um índio jivaro,\ndesses que sabem reduzir a cabeça de um morto até ela ficar bem pequenina. Queria assistir a uma dessas operações, e\no índio lhe disse que exatamente ele tinha contas a acertar com um inimigo.\n\n![](https://enem.dev/2004/questions/22/07dec744-6aea-4349-91cf-3b475b30f975.png)\n\n― Não, não! Um homem, não. Faça isso com a cabeça de um macaco.\n\n― Por que um macaco? Ele não me fez nenhum mal!\n\n(Rubem Braga)\n\nO assunto de uma crônica pode ser uma experiência pessoal do cronista, uma informação obtida por ele ou um caso imaginário.\nO modo de apresentar o assunto também varia: pode ser uma descrição objetiva, uma exposição argumentativa ou uma\nnarrativa sugestiva. Quanto à finalidade pretendida, pode-se promover uma reflexão, definir um sentimento ou tão-somente\nprovocar o riso.\nNa crônica O jivaro, escrita a partir da reportagem de um jornal, Rubem Braga se vale dos seguintes elementos:",
+    "files": [
+        "https://enem.dev/2004/questions/22/07dec744-6aea-4349-91cf-3b475b30f975.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Assunto Modo de apresentar Finalidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "caso imaginário descrição objetiva provocar o riso",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "informação colhida narrativa sugestiva promover reflexão",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "informação colhida descrição objetiva definir um sentimento",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "experiência pessoal narrativa sugestiva provocar o riso",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "experiência pessoal exposição argumentativa promover reflexão",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

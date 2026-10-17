@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2005",
+    "index": 53,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Segundo a análise do Prof. Paulo Canedo de Magalhães, do Laboratório de Hidrologia da COPPE, UFRJ, o projeto de\ntransposição das águas do Rio São Francisco envolve uma vazão de água modesta e não representa nenhum perigo\npara o Velho Chico, mas pode beneficiar milhões de pessoas. No entanto, o sucesso do empreendimento dependerá\ndo aprimoramento da capacidade de gestão das águas nas regiões doadora e receptora, bem como no exercício\ncotidiano de operar e manter o sistema transportador.\n\nEmbora não seja contestado que o reforço hídrico poderá beneficiar o interior do Nordeste, um grupo de cientistas e\ntécnicos, a convite da SBPC, numa análise isenta, aponta algumas incertezas no projeto de transposição das águas\ndo Rio São Francisco. Afirma também que a água por si só não gera desenvolvimento e será preciso implantar\nsistemas de escoamento de produção, capacitar e educar pessoas, entre outras ações.\n\n(Adaptado. Ciência Hoje, volume 37, número 217, julho de 2005)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os diferentes pontos de vista sobre o megaprojeto de transposição das águas do Rio São Francisco quando\nconfrontados indicam que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as perspectivas de sucesso dependem integralmente do desenvolvimento tecnológico prévio da região do semi- árido nordestino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o desenvolvimento sustentado da região receptora com a implantação do megaprojeto independe de ações sociais já existentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o projeto deve limitar-se às infra-estruturas de transporte de água e evitar induzir ou incentivar a gestão participativa dos recursos hídricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o projeto deve ir além do aumento de recursos hídricos e remeter a um conjunto de ações para o desenvolvimento das regiões afetadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as perspectivas claras de insucesso do megaprojeto inviabilizam a sua aplicação, apesar da necessidade hídrica do semi-árido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

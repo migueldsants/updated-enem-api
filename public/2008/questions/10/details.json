@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2008",
+    "index": 10,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Um estudo recente feito no Pantanal dá uma\nboa idéia de como o equilíbrio entre as espécies,\nna natureza, é um verdadeiro quebra-cabeça. As peças\ndo quebra-cabeça são o tucano-toco, a arara-azul e o\nmanduvi. O tucano-toco é o único pássaro que consegue\nabrir o fruto e engolir a semente do manduvi, sendo, assim,\no principal dispersor de suas sementes. O manduvi, por\nsua vez, é uma das poucas árvores onde as araras-azuis\nfazem seus ninhos.\n\nAté aqui, tudo parece bem encaixado, mas... é\njustamente o tucano-toco o maior predador de ovos de\narara-azul — mais da metade dos ovos das araras são\npredados pelos tucanos. Então, ficamos na seguinte\nencruzilhada: se não há tucanos-toco, os manduvis se\nextinguem, pois não há dispersão de suas sementes e não\nsurgem novos manduvinhos, e isso afeta as araras-azuis,\nque não têm onde fazer seus ninhos. Se, por outro lado, há\nmuitos tucanos-toco, eles dispersam as sementes dos\nmanduvis, e as araras-azuis têm muito lugar para fazer\nseus ninhos, mas seus ovos são muito predados.\n\nInternet: <http://oglobo.globo.com> (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com a situação descrita,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o manduvi depende diretamente tanto do tucano-toco como da arara-azul para sua sobrevivência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tucano-toco, depois de engolir sementes de manduvi, digere-as e torna-as inviáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a conservação da arara-azul exige a redução da população de manduvis e o aumento da população de tucanos-toco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a conservação das araras-azuis depende também da conservação dos tucanos-toco, apesar de estes serem predadores daquelas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a derrubada de manduvis em decorrência do desmatamento diminui a disponibilidade de locais para os tucanos fazerem seus ninhos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

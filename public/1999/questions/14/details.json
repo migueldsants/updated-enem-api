@@ -1,0 +1,47 @@
+{
+    "title": "Questão 14 - ENEM 1999",
+    "index": 14,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "As informações abaixo foram extraídas do rótulo da água mineral de determinada fonte.\n\nIndicadores ácido base são substâncias que em solução aquosa apresentam cores diferentes conforme o pH da solução.\nO quadro abaixo fornece as cores que alguns indicadores apresentam à temperatura de 25°C\n\n![](https://enem.dev/1999/questions/14/cd551a5b-1ac4-411a-869b-423c0eac5a6a.png)\n\n![](https://enem.dev/1999/questions/14/2d9ac2dc-f589-4454-8c53-a081b4fc904d.png)\n\n![](https://enem.dev/1999/questions/14/542e412b-d7a9-441a-8c7f-60d507edd264.png)\n\nSuponha que uma pessoa inescrupulosa guardou garrafas vazias dessa água mineral, enchendo-as com água de torneira (pH",
+    "files": [
+        "https://enem.dev/1999/questions/14/cd551a5b-1ac4-411a-869b-423c0eac5a6a.png",
+        "https://enem.dev/1999/questions/14/2d9ac2dc-f589-4454-8c53-a081b4fc904d.png",
+        "https://enem.dev/1999/questions/14/542e412b-d7a9-441a-8c7f-60d507edd264.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "entre 6,5 e 7,5) para serem vendidas como água mineral. Tal fraude pode ser facilmente comprovada pingando-se na “água\nmineral fraudada”, à temperatura de 25°C, gotas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "azul de bromotimol ou fenolftaleína.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "alaranjado de metila ou fenolftaleína.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alaranjado de metila ou azul de bromotimol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "vermelho de metila ou azul de bromotimol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vermelho de metila ou alaranjado de metila.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

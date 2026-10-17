@@ -1,0 +1,43 @@
+{
+    "title": "Questão 85 - ENEM 2010 - Reaplicação",
+    "index": 85,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao contrário dos rádios comuns (AM ou FM), em que\numa única antena transmissora é capaz de alcançar\ntoda a cidade, os celulares necessitam de várias antenas\npara cobrir um vasto território. No caso dos rádios FM, a\nfrequência de transmissão está na faixa dos MHz (ondas\nde rádio), enquanto, para os celulares, a frequência está\nna casa dos GHz (micro-ondas). Quando comparado aos\nrádios comuns, o alcance de um celular é muito menor.\nConsiderando-se as informações do texto, o fator que\npossibilita essa diferença entre propagação das ondas\nde rádio e as de micro-ondas é que as ondas de rádio são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "facilmente absorvidas na camada da atmosfera superior conhecida como ionosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "capazes de contornar uma diversidade de obstáculos como árvores, edifícios e pequenas elevações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "mais refratadas pela atmosfera terrestre, que apresenta maior índice de refração para as ondas de rádio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "menos atenuadas por interferência, pois o número de aparelhos que utilizam ondas de rádio é menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "constituídas por pequenos comprimentos de onda que lhes conferem um alto poder de penetração em materiais de baixa densidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2010 - Reaplicação",
+    "index": 171,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nosso calendário atual é embasado no antigo calendário\nromano, que, por sua vez, tinha como base as fases da\nlua. Os meses de janeiro, março, maio, julho, agosto,\noutubro e dezembro possuem 31 dias, e os demais, com\nexceção de fevereiro, possuem 30 dias. O dia 31 de\nmarço de certo ano ocorreu em uma terça-feira.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse mesmo ano, qual dia da semana será o dia 12 de\noutubro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Domingo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Segunda-feira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Terça-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quinta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

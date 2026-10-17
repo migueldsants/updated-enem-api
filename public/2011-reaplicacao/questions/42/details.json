@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2011 - Reaplicação",
+    "index": 42,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Antes de tomar posse no seu cargo, ainda na Europa,\nRio Branco agira no sentido de afastar o perigo imediato\ndo Bolivian Syndicate, empresa estadunidense, e\npropusera a compra do território do Acre. Recusada essa\nideia, propôs o Governo brasileiro a troca de territórios e\nofereceu compensação, como a de favorecer, por uma\nestrada de ferro, o tráfego comercial pelo rio Madeira,\nentendendo-se diretamente com o Bolivian Syndicate.\n\nRODRIGUES, J. H.; SEITENFUS, R. Uma História Diplomática do Brasil: 1531-1945.\nRio de Janeiro: Civilização Brasileira, 1995 (adaptado).\n\nO texto aborda uma das questões fronteiriças\nenfrentadas no período em que José da Silva Paranhos\nJúnior, o Barão do Rio Branco, esteve à frente do\nMinistério das Relações Exteriores (1902-1912).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A estratégia de entendimento direto do Brasil com a\nempresa Bolivian Syndicate, que havia arrendado o\nAcre junto ao governo boliviano, explica-se pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proteção à população indígena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "consolidação das guerras de conquista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "implementação da indústria de borracha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "negociação com seringueiros organizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "preocupação com intervenção imperialista.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

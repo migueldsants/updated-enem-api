@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2008",
+    "index": 18,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A China comprometeu-se a indenizar a Rússia\npelo derramamento de benzeno de uma indústria\npetroquímica chinesa no rio Songhua, um afluente do rio\nAmur, que faz parte da fronteira entre os dois países.\nO presidente da Agência Federal de Recursos de Água da\nRússia garantiu que o benzeno não chegará aos dutos de\nágua potável, mas pediu à população que fervesse a água\ncorrente e evitasse a pesca no rio Amur e seus afluentes.\nAs autoridades locais estão armazenando centenas de\ntoneladas de carvão, já que o mineral é considerado eficaz\nabsorvente de benzeno.\n\nInternet: <jbonline.terra.com.br> (com adaptações).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Levando-se em conta as medidas adotadas para a\nminimização dos danos ao ambiente e à população, é\ncorreto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o carvão mineral, ao ser colocado na água, reage com o benzeno, eliminando-o.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o benzeno é mais volátil que a água e, por isso, é necessário que esta seja fervida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a orientação para se evitar a pesca deve-se à necessidade de preservação dos peixes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o benzeno não contaminaria os dutos de água potável, porque seria decantado naturalmente no fundo do rio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a poluição causada pelo derramamento de benzeno da indústria chinesa ficaria restrita ao rio Songhua.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

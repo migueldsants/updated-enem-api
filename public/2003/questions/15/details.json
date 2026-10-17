@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2003",
+    "index": 15,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O tabagismo (vício do fumo) é responsável por uma grande quantidade de doenças e mortes prematuras na\natualidade. O Instituto Nacional do Câncer divulgou que 90% dos casos diagnosticados de câncer de pulmão e 80%\ndos casos diagnosticados de enfisema pulmonar estão associados ao consumo de tabaco. Paralelamente, foram\nmostrados os resultados de uma pesquisa realizada em um grupo de 2000 pessoas com doenças de pulmão, das\nquais 1500 são casos diagnosticados de câncer, e 500 são casos diagnosticados de enfisema.\nCom base nessas informações, pode-se estimar que o número de fumantes desse grupo de 2000 pessoas é,\naproximadamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "740",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1310",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1620",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1750",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

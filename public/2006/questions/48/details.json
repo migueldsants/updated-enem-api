@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2006",
+    "index": 48,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "—PÁ\n\nA prefeitura de uma grande cidade brasileira\nAdotado, em 1975, na área central de Cingapura,\n\n![](https://enem.dev/2006/questions/48/db32c002-76ce-4f92-9347-03f87dc402a9.png)",
+    "files": [
+        "https://enem.dev/2006/questions/48/db32c002-76ce-4f92-9347-03f87dc402a9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nessas informações, assinale a opção correta a\nrespeito do pedágio nas cidades mencionadas.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A preocupação comum entre os países que adotaram o pedágio urbano foi o aumento de arrecadação pública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A Europa foi pioneira na adoção de pedágio urbano como solução para os problemas de tráfego em avenidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caso a prefeitura da cidade brasileira mencionada adote a cobrança do pedágio em vias urbanas, isso dará seqüência às experiências implantadas sucessivamente em Cingapura, Noruega, Coréia do Sul e Inglaterra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Nas experiências citadas, houve redução do volume de tráfego coletivo e individual na proporção inversa do aumento da velocidade no trânsito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O número de cidades européias que já adotaram o pedágio urbano corresponde ao dobro do número de cidades asiáticas que o fizeram.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

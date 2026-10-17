@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2004",
+    "index": 15,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Uma empresa produz tampas circulares de alumínio para tanques cilíndricos a partir de chapas quadradas de 2 metros de lado,\nconforme a figura. Para 1 tampa grande, a empresa produz 4 tampas médias e 16 tampas pequenas.\n\n![](https://enem.dev/2004/questions/15/9e95b3ea-f1e1-410d-9baf-ce939e543415.png)",
+    "files": [
+        "https://enem.dev/2004/questions/15/9e95b3ea-f1e1-410d-9baf-ce939e543415.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As sobras de material da produção diária das tampas grandes, médias e pequenas dessa empresa são doadas,\nrespectivamente, a três entidades: I, II e III, para efetuarem reciclagem do material. A partir dessas informações, pode-se\nconcluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a entidade I recebe mais material do que a entidade II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a entidade I recebe metade de material do que a entidade III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a entidade II recebe o dobro de material do que a entidade III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as entidade I e II recebem, juntas, menos material do que a entidade III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as três entidades recebem iguais quantidades de material.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

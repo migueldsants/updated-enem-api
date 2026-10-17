@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 1998",
+    "index": 61,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "A América Latina dos últimos anos insere-se num processo de democratização, oferecendo algumas\noportunidades de crescimento econômico-social num contexto de liberdade e dependência econômica\ninternacional. Cuba continua caracterizada por uma organização própria com restrições à liberdade\neconômica e política, crescimento em alguns aspectos sociais e um embargo econômico americano\ndatado de 1962. Em 1998, o Papa João Paulo II visitou Cuba e depois disse ao cardeal Jaime Ortega,\narcebispo de Havana, e a 13 bispos em visita ao Vaticano que apreciou as mudanças realizadas em\nCuba após sua visita à ilha e espera que sejam criados novos espaços legais e sociais, para que a\nsociedade civil de Cuba possa crescer em autonomia e participação. A resposta internacional ao\nintercâmbio com Cuba foi boa, mas as autoridades locais mostraram pouco entusiasmo, não estando\ndispostas a abandonar o sistema socialista monopartidário.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A maioria dos países latino-americanos tem se envolvido, nos últimos anos, em processos de formação\nsocioeconômicos caracterizados por:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um processo de democratização à semelhança de Cuba.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "restrições legais generalizadas à ação da Igreja no continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "um processo de desenvolvimento econômico com restrições generalizadas à liberdade política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "excelentes níveis de crescimento econômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "democratização e oferecimento de algumas oportunidades de crescimento econômico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

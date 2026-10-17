@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2008",
+    "index": 53,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Durante muito tempo, os cientistas acreditaram\nque variações anatômicas entre os animais fossem\nconseqüência de diferenças significativas entre seus\ngenomas. Porém, os projetos de seqüenciamento de\ngenoma revelaram o contrário. Hoje, sabe-se que 99% do\ngenoma de um camundongo é igual ao do homem, apesar\ndas notáveis diferenças entre eles. Sabe-se também que\nos genes ocupam apenas cerca de 1,5% do DNA e que\nmenos de 10% dos genes codificam proteínas que atuam\nna construção e na definição das formas do corpo.\nO restante, possivelmente, constitui DNA não-codificante.\nComo explicar, então, as diferenças fenotípicas entre as\ndiversas espécies animais? A resposta pode estar na\nregião não-codificante do DNA.\n\nS. B. Carroll et al. O jogo da evolução.\nIn: Scientific American Brasil, jun./2008 (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A região não-codificante do DNA pode ser responsável\npelas diferenças marcantes no fenótipo porque contém",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as seqüências de DNA que codificam proteínas responsáveis pela definição das formas do corpo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uma enzima que sintetiza proteínas a partir da seqüência de aminoácidos que formam o gene.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "centenas de aminoácidos que compõem a maioria de nossas proteínas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "informações que, apesar de não serem traduzidas em seqüências de proteínas, interferem no fenótipo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "os genes associados à formação de estruturas similares às de outras espécies.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

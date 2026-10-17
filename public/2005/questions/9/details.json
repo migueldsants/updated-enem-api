@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2005",
+    "index": 9,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "As dimensões continentais do Brasil são objeto de reflexões expressas em diferentes linguagens. Esse tema aparece\nno seguinte poema:\n\n“(....) Que tem se o quinhentos réis meridional\nQue importa que uns falem mole descansado Vira cinco tostões do Rio pro Norte?\nQue os cariocas arranhem os erres na garganta Junto formamos este assombro de misérias e grandezas,\nQue os capixabas e paroaras escancarem as vogais? Brasil, nome de vegetal! (....)”\n\n(Mário de Andrade. Poesias completas. 6. ed. São Paulo: Martins Editora, 1980.)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto poético ora reproduzido trata das diferenças brasileiras no âmbito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "étnico e religioso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "lingüístico e econômico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "racial e folclórico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "histórico e geográfico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "literário e popular.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

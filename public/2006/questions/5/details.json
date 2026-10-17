@@ -1,0 +1,46 @@
+{
+    "title": "Questão 5 - ENEM 2006",
+    "index": 5,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 5 e 6\n\n![](https://enem.dev/2006/questions/5/0c7887c0-b1fb-4450-b0eb-11e399b27075.png)\n\n1 A linguagem\n\nna ponta da língua\ntão fácil de falar\n\n4 e de entender.\n\nA linguagem\nna superfície estrelada de letras,\n\n7 sabe lá o que quer dizer?\n\nProfessor Carlos Góis, ele é quem sabe,\ne vai desmatando\n\n10 o amazonas de minha ignorância.\n\nFiguras de gramática, esquipáticas,\natropelam-me, aturdem-me, seqüestram-me.\n\n13 Já esqueci a língua em que comia,\n\nem que pedia para ir lá fora,\nem que levava e dava pontapé,\n\n16 a língua, breve língua entrecortada\n\ndo namoro com a priminha.\nO português são dois; o outro, mistério.\n\nCarlos Drummond de Andrade. Esquecer para\nlembrar. Rio de Janeiro: José Olympio, 1979.",
+    "files": [
+        "https://enem.dev/2006/questions/5/0c7887c0-b1fb-4450-b0eb-11e399b27075.png",
+        "https://enem.dev/2006/questions/5/200ada04-9816-4c5b-b543-9d14c089dd19.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Explorando a função emotiva da linguagem, o poeta\nexpressa o contraste entre marcas de variação de usos da\nlinguagem em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "situações formais e informais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "diferentes regiões do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "escolas literárias distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "textos técnicos e poéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/5/200ada04-9816-4c5b-b543-9d14c089dd19.png",
+            "isCorrect": false
+        }
+    ]
+}

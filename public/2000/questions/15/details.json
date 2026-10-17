@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2000",
+    "index": 15,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "As sociedades modernas necessitam cada vez mais de energia. Para entender\nmelhor a relação entre desenvolvimento e consumo de energia, procurou-se\nrelacionar o Índice de Desenvolvimento Humano (IDH) de vários países com o\nconsumo de energia nesses países.\nO IDH é um indicador social que considera a longevidade, o grau de\nescolaridade, o PIB (Produto Interno Bruto) per capita e o poder de compra da\npopulação. Sua variação é de 0 a 1. Valores do IDH próximos de 1 indicam\nmelhores condições de vida.\nTentando-se estabelecer uma relação entre o IDH e o consumo de energia per\ncapita nos diversos países, no biênio 1991-1992, obteve-se o gráfico abaixo,\nonde cada ponto isolado representa um país, e a linha cheia, uma curva de\naproximação.\n\n![](https://enem.dev/2000/questions/15/b4c93057-2c79-4dd7-89f9-b0b23fe018da.png)\n\nFonte: GOLDEMBERG, J. Energia, meio ambiente e\ndesenvolvimento. São Paulo: Edusp, 1998.",
+    "files": [
+        "https://enem.dev/2000/questions/15/b4c93057-2c79-4dd7-89f9-b0b23fe018da.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no gráfico, é correto afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "quanto maior o consumo de energia per capita, menor é o IDH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os países onde o consumo de energia per capita é menor que 1 TEP não apresentam bons índices de desenvolvimento humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "existem países com IDH entre 0,1 e 0,3 com consumo de energia per capita superior a 8 TEP.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "existem países com consumo de energia per capita de 1 TEP e de 5 TEP que apresentam aproximadamente o mesmo IDH, cerca de 0,7.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "os países com altos valores de IDH apresentam um grande consumo de energia per capita (acima de 7 TEP).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

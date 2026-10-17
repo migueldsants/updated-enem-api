@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2010 - Reaplicação",
+    "index": 100,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Texto I\nXLI\nOuvia:\nQue não podia odiar\nE nem temer\nPorque tu eras eu.\nE como seria\nOdiar a mim mesma\nE a mim mesma temer.\n\nHILST, H. Cantares. São Paulo: Globo, 2004 (fragmento).\n\nTexto II\nTransforma-se o amador na cousa amada\nTransforma-se o amador na cousa amada,\npor virtude do muito imaginar;\nnão tenho, logo, mais que desejar,\npois em mim tenho a parte desejada.\n\nCamões. Sonetos. Disponível em: http://www.jornaldepoesia.jor.br. Acesso em: 03 set. 2010 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesses fragmentos de poemas de Hilda Hilst e de\nCamões, a temática comum é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o “outro” transformado no próprio eu lírico, o que se realiza por meio de uma espécie de fusão de dois seres em um só.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a fusão do “outro” com o eu lírico, havendo, nos versos de Hilda Hilst, a afirmação do eu lírico de que odeia a si mesmo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o “outro” que se confunde com o eu lírico, verificando- se, porém, nos versos de Camões, certa resistência do ser amado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a dissociação entre o “outro” e o eu lírico, porque o ódio ou o amor se produzem no imaginário, sem a realização concreta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o “outro” que se associa ao eu lírico, sendo tratados, nos Textos I e II, respectivamente, o ódio e o amor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

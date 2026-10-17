@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2000",
+    "index": 51,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Para compreender o processo de exploração e o consumo dos recursos\npetrolíferos, é fundamental conhecer a gênese e o processo de formação do\npetróleo descritos no texto abaixo.\n\n―O petróleo é um combustível fóssil, originado provavelmente de restos de\nvida aquática acumulados no fundo dos oceanos primitivos e cobertos por\nsedimentos. O tempo e a pressão do sedimento sobre o material\ndepositado no fundo do mar transformaram esses restos em massas\nviscosas de coloração negra denominadas jazidas de petróleo.‖\n\n(Adaptado de TUNDISI. Usos de energia. São Paulo: Atual Editora, 1991)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As informações do texto permitem afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o petróleo é um recurso energético renovável a curto prazo, em razão de sua constante formação geológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a exploração de petróleo é realizada apenas em áreas marinhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a extração e o aproveitamento do petróleo são atividades não poluentes dada sua origem natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o petróleo é um recurso energético distribuído homogeneamente, em todas as regiões, independentemente da sua origem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o petróleo é um recurso não renovável a curto prazo, explorado em áreas continentais de origem marinha ou em áreas submarinas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

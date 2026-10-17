@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2006",
+    "index": 2,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2006/questions/2/6f92bc37-7733-4500-8934-bbe3b9dc550a.png)",
+    "files": [
+        "https://enem.dev/2006/questions/2/6f92bc37-7733-4500-8934-bbe3b9dc550a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As linhas nas duas figuras geram um efeito que se associa\nao seguinte ditado popular:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os últimos serão os primeiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os opostos se atraem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quem espera sempre alcança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As aparências enganam.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Quanto maior a altura, maior o tombo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

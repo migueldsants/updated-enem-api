@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2008",
+    "index": 16,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O sistema de fusos horários foi proposto na\nConferência Internacional do Meridiano, realizada em\nWashington, em 1884. Cada fuso corresponde a uma faixa\nde 15º entre dois meridianos. O meridiano de Greenwich\nfoi escolhido para ser a linha mediana do fuso zero.\nPassando-se um meridiano pela linha mediana de cada\nfuso, enumeram-se 12 fusos para leste e 12 fusos para\noeste do fuso zero, obtendo-se, assim, os 24 fusos e o\nsistema de zonas de horas. Para cada fuso a leste do fuso\nzero, soma-se 1 hora, e, para cada fuso a oeste do fuso\nzero, subtrai-se 1 hora. A partir da Lei n.° 11.662/2008, o\nBrasil, que fica a oeste de Greenwich e tinha quatro fusos,\npassa a ter somente 3 fusos horários.\n\nEm relação ao fuso zero, o Brasil abrange os\nfusos 2, 3 e 4. Por exemplo, Fernando de Noronha está no\nfuso 2, o estado do Amapá está no fuso 3 e o Acre,\nno fuso 4.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A cidade de Pequim, que sediou os XXIX Jogos Olímpicos\nde Verão, fica a leste de Greenwich, no fuso 8.\nConsiderando-se que a cerimônia de abertura dos jogos\ntenha ocorrido às 20 h 8 min, no horário de Pequim, do dia\n8 de agosto de 2008, a que horas os brasileiros que\nmoram no estado do Amapá devem ter ligado seus\ntelevisores para assistir ao início da cerimônia de abertura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9 h 8 min, do dia 8 de agosto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "12 h 8 min, do dia 8 de agosto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15 h 8 min, do dia 8 de agosto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 h 8 min, do dia 9 de agosto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 h 8 min, do dia 9 de agosto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

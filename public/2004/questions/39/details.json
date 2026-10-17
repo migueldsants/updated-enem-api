@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2004",
+    "index": 39,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Os sistemas de cogeração representam uma\nprática de utilização racional de combustíveis e de\nprodução de energia. Isto já se pratica em\nalgumas indústrias de açúcar e de álcool, nas\nquais se aproveita o bagaço da cana, um de seus\n\n![](https://enem.dev/2004/questions/39/c9d0cab6-7aa3-4ff6-8372-12b02a05f487.png)\n\nsubprodutos, para produção de energia. Esse\nprocesso está ilustrado no esquema ao lado.",
+    "files": [
+        "https://enem.dev/2004/questions/39/c9d0cab6-7aa3-4ff6-8372-12b02a05f487.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre os argumentos favoráveis a esse sistema de\ncogeração pode-se destacar que ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "otimiza o aproveitamento energético, ao usar queima do bagaço nos processos térmicos da usina e na geração de eletricidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "aumenta a produção de álcool e de açúcar, ao usar o bagaço como insumo suplementar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "economiza na compra da cana-de-açúcar, já que o bagaço também pode ser transformado em álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumenta a produtividade, ao fazer uso do álcool para a geração de calor na própria usina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reduz o uso de máquinas e equipamentos na produção de açúcar e álcool, por não manipular o bagaço da cana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2010 - Reaplicação",
+    "index": 47,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2009, o município maranhense de Bacabal foi\nfortemente atingido por enchentes, submetendo a\npopulação local a viver em precárias condições durante\nalgum tempo. Em razão das enchentes, os agentes de\nsaúde manifestaram, na ocasião, temor pelo aumento\ndos casos de doenças como, por exemplo, a malária,\na leptospirose, a leishmaniose e a esquistossomose.\n\nCidades inundadas enfrentam aumento de doenças Folha Online. 22 abr. 2009.\nDisponível em: http://www1.folha.uol.com.br.\nAcesso: em 28 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Que medidas o responsável pela promoção da saúde da\npopulação afetada pela enchente deveria sugerir para\nevitar o aumento das doenças mencionadas no texto,\nrespectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evitar o contato com a água contaminada por mosquitos, combater os percevejos hematófagos conhecidos como barbeiros, eliminar os caramujos do gênero Biomphalaria e combater o mosquito Anopheles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Combater o mosquito Anopheles, evitar o contato com a água suja acumulada pelas enchentes, combater o mosquito flebótomo e eliminar os caramujos do gênero Biomphalaria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Eliminar os caramujos do gênero Biomphalaria, combater o mosquito flebótomo, evitar o contato com a água suja acumulada pelas enchentes e combater o mosquito Aedes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Combater o mosquito Aedes, evitar o contato com a água suja acumulada pelas enchentes, eliminar os caramujos do gênero Biomphalaria e combater os percevejos hematófagos conhecidos como barbeiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Combater o mosquito Aedes, eliminar os caramujos do gênero Biomphalaria, combater o mosquito flebótomo e evitar o contato com a água contaminada por mosquitos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2011 - Reaplicação",
+    "index": 14,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Como tratar com os índios\n\nA experiência de trezentos anos tem feito ver que a\naspereza é um meio errado para domesticar os índios;\nparece, pois, que brandura e afago são os meios que\nnos restam. Perdoar-lhes alguns excessos, de que sem\ndúvida seria causa a sua barbaridade e longo hábito\ncom a falta de leis. Os habitantes da América são menos\nsanguinários do que os negros d’África, mais mansos,\ntratáveis e hospitais.\n\nVILHENA, L. S. A Bahia no século XVIII. Salvador: Itapuã, 1969 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O escritor português Luís Vilhena escreve, no século XVIII,\nsobre um tema recorrente para os homens da sua época.\nSeu posicionamento emerge de um contexto em que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o índio, pela sua condição de ingenuidade, representava",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uma possibilidade de mão de obra nas indústrias. a abolição da escravatura abriu uma lacuna na cadeia produtiva, exigindo, dessa forma, o trabalho",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do nativo. o nativo indígena, estereotipado como um papel em branco, deveria adequar-se ao mundo do trabalho",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "compulsório. a escravidão do indígena apresentou-se como alternativa de mão de obra assalariada para a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "lavoura açucareira. a escravidão do negro passa a ser substituída pela indígena, sob a alegação de os primeiros serem selvagens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

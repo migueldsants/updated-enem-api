@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 1999",
+    "index": 31,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "(...) Depois de longas investigações, convenci-me por fim de que o Sol é uma estrela fixa rodeada de planetas que giram em\n\nvolta dela e de que ela é o centro e a chama. Que, além dos planetas principais, há outros de segunda ordem que circulam\nprimeiro como satélites em redor dos planetas principais e com estes em redor do Sol. (...) Não duvido de que os\nmatemáticos sejam da minha opinião, se quiserem dar-se ao trabalho de tomar conhecimento, não superficialmente mas\nduma maneira aprofundada, das demonstrações que darei nesta obra. Se alguns homens ligeiros e ignorantes quiserem\ncometer contra mim o abuso de invocar alguns passos da Escritura (sagrada), a que torçam o sentido, desprezarei os seus\nataques: as verdades matemáticas não devem ser julgadas senão por matemáticos.\n\n(COPÉRNICO, N. De Revolutionibus orbium caelestium.)\n\nAqueles que se entregam à prática sem ciência são como o navegador que embarca em um navio sem leme nem bússola.\nSempre a prática deve fundamentar-se em boa teoria. Antes de fazer de um caso uma regra geral, experimente-o duas ou\ntrês vezes e verifique se as experiências produzem os mesmos efeitos. Nenhuma investigação humana pode se considerar\nverdadeira ciência se não passa por demonstrações matemáticas.\n\n(VINCI, Leonardo da. Carnets.)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O aspecto a ser ressaltado em ambos os textos para exemplificar o racionalismo moderno é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a fé como guia das descobertas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o senso crítico para se chegar a Deus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a limitação da ciência pelos princípios bíblicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a importância da experiência e da observação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o princípio da autoridade e da tradição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2007",
+    "index": 25,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "A duração do efeito\nde alguns fármacos está\nrelacionada à sua meia-\nvida, tempo necessário para\nque a quantidade original do\nfármaco no organismo se\nreduza à metade. A cada\n\n![](https://enem.dev/2007/questions/25/25ea658b-1363-4652-b8bc-7342cc836129.png)\n\nintervalo de tempo\ncorrespondente a uma meia-\nvida, a quantidade de\nfármaco existente no\norganismo no final do\nintervalo é igual a 50% da\nquantidade no início desse\nintervalo.\n\nO gráfico acima representa, de forma genérica, o\nque acontece com a quantidade de fármaco no organismo\nhumano ao longo do tempo.\n\nF. D. Fuchs e Cher l. Wannma. Farmacologia Clínica.\nRio de Janeiro: Guanabara Koogan,1992, p. 40.",
+    "files": [
+        "https://enem.dev/2007/questions/25/25ea658b-1363-4652-b8bc-7342cc836129.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A meia-vida do antibiótico amoxicilina é de 1 hora. Assim,\nse uma dose desse antibiótico for injetada às 12 h em um\npaciente, o percentual dessa dose que restará em seu\norganismo às 13 h 30 min será aproximadamente de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

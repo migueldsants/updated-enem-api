@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2005",
+    "index": 56,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Leia estes textos.\n\n![](https://enem.dev/2005/questions/56/1f9ee9fd-1134-47b6-b25a-a813d0e4b223.png)\n\nTexto 2\nSonho Impossível\n\nSonhar Não me importa saber\nMais um sonho impossível Se é terrível demais\nLutar Quantas guerras terei que vencer\nQuando é fácil ceder Por um pouco de paz\nVencer o inimigo invencível E amanhã se esse chão que eu beijei\nNegar quando a regra é vender For meu leito e perdão\nSofrer a tortura implacável Vou saber que valeu delirar\nRomper a incabível prisão E morrer de paixão\nVoar num limite improvável E assim, seja lá como for\nTocar o inacessível chão Vai ter fim a infinita aflição\nÉ minha lei, é minha questão E o mundo vai ver uma flor\nVirar esse mundo Brotar do impossível chão.\nCravar esse chão\n\n(J. Darione – M. Leigh – Versão de Chico Buarque de Hollanda e Ruy Guerra, 1972.)",
+    "files": [
+        "https://enem.dev/2005/questions/56/1f9ee9fd-1134-47b6-b25a-a813d0e4b223.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A tirinha e a canção apresentam uma reflexão sobre o futuro da humanidade. É correto concluir que os dois textos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "afirmam que o homem é capaz de alcançar a paz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "concordam que o desarmamento é inatingível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "julgam que o sonho é um desafio invencível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "têm visões diferentes sobre um possível mundo melhor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "transmitem uma mensagem de otimismo sobre a paz.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

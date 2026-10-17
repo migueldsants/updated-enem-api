@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 1999",
+    "index": 8,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/1999/questions/8/8a351040-71f4-4b7e-a86c-22544056a235.png)",
+    "files": [
+        "https://enem.dev/1999/questions/8/8a351040-71f4-4b7e-a86c-22544056a235.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Observando as falas das personagens, analise o emprego do pronome SE e o sentido que adquire no contexto. No contexto\nda narrativa, é correto afirmar que o pronome SE,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "em I, indica reflexividade e equivale a “a si mesmas”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "em II, indica reciprocidade e equivale a “a si mesma”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "em III, indica reciprocidade e equivale a “umas às outras”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "em I e III, indica reciprocidade e equivale a “umas às outras”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em II e III, indica reflexividade e equivale a “a si mesma ” e \"a si mesmas\", respectivamente.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

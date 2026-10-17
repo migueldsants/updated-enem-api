@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 1999",
+    "index": 17,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Leia um texto publicado no jornal Gazeta Mercantil. Esse texto é parte de um artigo que analisa algumas situações de crise no\n\nmundo, entre elas, a quebra da Bolsa de Nova Iorque em 1929, e foi publicado na época de uma iminente crise financeira no\nBrasil.\n\nDeu no que deu. No dia 29 de outubro de 1929, uma terça-feira, praticamente não havia compradores no pregão de Nova\nIorque, só vendedores. Seguiu-se uma crise incomparável: o Produto Interno Bruto dos Estados Unidos caiu de 104 bilhões de\ndólares em 1929, para 56 bilhões em 1933, coisa inimaginável em nossos dias. O valor do dólar caiu a quase metade. O\ndesemprego elevou-se de 1,5 milhão para 12,5 milhões de trabalhadores – cerca de 25% da população ativa – entre 1929 e\n1933. A construção civil caiu 90%. Nove milhões de aplicações, tipo caderneta de poupança, perderam-se com o fechamento\ndos bancos. Oitenta e cinco mil firmas faliram. Houve saques e norte-americanos que passaram fome.\n\n(Gazeta Mercantil, 05/01/1999)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao citar dados referentes à crise ocorrida em 1929, em um artigo jornalístico atual, pode-se atribuir ao jornalista a seguinte intenção:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "questionar a interpretação da crise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "comunicar sobre o desemprego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "instruir o leitor sobre aplicações em bolsa de valores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "relacionar os fatos passados e presentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "analisar dados financeiros americanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

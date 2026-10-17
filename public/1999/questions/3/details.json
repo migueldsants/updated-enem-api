@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 1999",
+    "index": 3,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se compararmos a idade do planeta Terra, avaliada em quatro e meio bilhões de anos (4,5 × 10⁹ anos), com a de\numa pessoa de 45 anos, então, quando começaram a florescer os primeiros vegetais, a Terra já teria 42 anos. Ela só\nconviveu com o homem moderno nas últimas quatro horas e, há cerca de uma hora, viu-o começar a plantar e a colher. Há\nmenos de um minuto percebeu o ruído de máquinas e de indústrias e, como denuncia uma ONG de defesa do meio ambiente,\nfoi nesses últimos sessenta segundos que se produziu todo o lixo do planeta!\nO texto acima, ao estabelecer um paralelo entre a idade da Terra e a de uma pessoa, pretende mostrar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a agricultura surgiu logo em seguida aos vegetais, perturbando desde então seu desenvolvimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o ser humano só se tornou moderno ao dominar a agricultura e a indústria, em suma, ao poluir.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desde o surgimento da Terra, são devidas ao ser humano todas as transformações e perturbações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o surgimento do ser humano e da poluição é cerca de dez vezes mais recente que o do nosso planeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a industrialização tem sido um processo vertiginoso, sem precedentes em termos de dano ambiental.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

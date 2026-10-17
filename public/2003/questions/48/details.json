@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2003",
+    "index": 48,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Observe as duas afirmações de Montesquieu (1689-1755), a respeito da escravidão:\n\nA escravidão não é boa por natureza; não é útil nem ao senhor, nem ao escravo: a este porque nada pode fazer por\nvirtude; àquele, porque contrai com seus escravos toda sorte de maus hábitos e se acostuma insensivelmente a faltar\ncontra todas as virtudes morais: torna-se orgulhoso, brusco, duro, colérico, voluptuoso, cruel.\n\nSe eu tivesse que defender o direito que tivemos de tornar escravos os negros, eis o que eu diria: tendo os povos da\nEuropa exterminado os da América, tiveram que escravizar os da África para utilizá-los para abrir tantas terras. O\naçúcar seria muito caro se não fizéssemos que escravos cultivassem a planta que o produz.\n\n(Montesquieu. O espírito das leis.)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base nos textos, podemos afirmar que, para Montesquieu,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o preconceito racial foi contido pela moral religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a política econômica e a moral justificaram a escravidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a escravidão era indefensável de um ponto de vista econômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o convívio com os europeus foi benéfico para os escravos africanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o fundamento moral do direito pode submeter-se às razões econômicas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

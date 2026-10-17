@@ -1,0 +1,45 @@
+{
+    "title": "Questão 52 - ENEM 2001",
+    "index": 52,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela apresenta a taxa de desemprego dos jovens entre 15 e 24 anos estratificada com\nbase em diferentes categorias.\n\n![](https://enem.dev/2001/questions/52/6a868215-a78e-44b7-b207-986e26483e31.png)",
+    "files": [
+        "https://enem.dev/2001/questions/52/6a868215-a78e-44b7-b207-986e26483e31.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando apenasapenas os dados acima e analisando as características de candidatos aapenas\nemprego, é possível concluir que teriam menormenor chance de consegui-lo,menor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mulheres, concluintes do ensino médio, moradoras da cidade de São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mulheres, concluintes de curso superior, moradoras da cidade do Rio de Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "homens, com curso de pós-graduação, moradores de Manaus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "homens, com dois anos do ensino fundamental, moradores de Recife.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mulheres, com ensino médio incompleto, moradoras de Belo Horizonte.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2011 - Reaplicação",
+    "index": 65,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Do ponto de vista fisiológico, anticorpos são\nmoléculas proteicas produzidas e secretadas por células\ndo sistema imune de mamíferos, conhecidas como\nlinfócitos B. Reconhecem e atacam alvos moleculares\nespecíficos, os antígenos, presentes em agentes\ninvasores, como, por exemplo, vírus, bactérias, fungos\ne células tumorais. Atualmente, algumas empresas\nbrasileiras de biotecnologia vêm desenvolvendo\nanticorpos em laboratório. Um dos primeiros produtos é\nutilizado para detecção precoce da ferrugem asiática da\nsoja, doença causada pelo fungo Phakopsora pachyrhizi,\ncapaz de dizimar plantações. Há ainda a produção de\nkits para fins de pesquisa e diagnóstico de antígenos\nespecíficos de interesse para a saúde pública, como\nhepatite A, B e C, leptospirose e febre amarela.\n\nVASCONCELOS,Y.In: Anticorpos de valor. Pesquisa FAPESP. N° 170, abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O desenvolvimento de anticorpos específicos por\nempresas de biotecnologia será benéfico para a saúde\npública, porque proporcionará",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a vacinação em massa da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a cura de doenças por meio da terapia gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a fabricação de um medicamento que seja mutagênico para os vírus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o tratamento de doenças nos estágios iniciais de seu desenvolvimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o desenvolvimento de um único fármaco que combata diversos parasitas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

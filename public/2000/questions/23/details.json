@@ -1,0 +1,45 @@
+{
+    "title": "Questão 23 - ENEM 2000",
+    "index": 23,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "No ciclo da água, usado para produzir eletricidade, a água de lagos e oceanos,\nirradiada pelo Sol, evapora-se dando origem a nuvens e se precipita como\nchuva. É então represada, corre de alto a baixo e move turbinas de uma usina,\nacionando geradores. A eletricidade produzida é transmitida através de cabos e\nfios e é utilizada em motores e outros aparelhos elétricos. Assim, para que o\nciclo seja aproveitado na geração de energia elétrica, constrói-se uma\nbarragem para represar a água.",
+    "files": [
+        "https://enem.dev/2000/questions/23/dc72b983-8204-4a39-920c-474b6bcdde5d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Entre os possíveis impactos ambientais causados por essa construção, devem\nser destacados:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento do nível dos oceanos e chuva ácida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "chuva ácida e efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alagamentos e intensificação do efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alagamentos e desequilíbrio da fauna e da flora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/23/dc72b983-8204-4a39-920c-474b6bcdde5d.png",
+            "isCorrect": false
+        }
+    ]
+}

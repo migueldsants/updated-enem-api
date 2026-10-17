@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2010 - Reaplicação",
+    "index": 70,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Há vários tipos de tratamentos de doenças cerebrais\nque requerem a estimulação de partes do cérebro\npor correntes elétricas. Os eletrodos são introduzidos\nno cérebro para gerar pequenas correntes em áreas\nespecíficas. Para se eliminar a necessidade de introduzir\neletrodos no cérebro, uma alternativa é usar bobinas\nque, colocadas fora da cabeça, sejam capazes de induzir\ncorrentes elétricas no tecido cerebral.\nPara que o tratamento de patologias cerebrais com\nbobinas seja realizado satisfatoriamente, é necessário que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "haja um grande número de espiras nas bobinas, o",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o campo magnético criado pelas bobinas seja",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "se observe que a intensidade das correntes induzidas",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a corrente nas bobinas seja contínua, para que o",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o campo magnético dirija a corrente elétrica das",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

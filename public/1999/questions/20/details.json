@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 1999",
+    "index": 20,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/1999/questions/20/4cb72fbb-701d-4895-964c-54b08117fba7.png)",
+    "files": [
+        "https://enem.dev/1999/questions/20/4cb72fbb-701d-4895-964c-54b08117fba7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

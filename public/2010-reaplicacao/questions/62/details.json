@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2010 - Reaplicação",
+    "index": 62,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Às vezes, ao abrir um refrigerante, percebe-se que uma\nparte do produto vaza rapidamente pela extremidade do\nrecipiente. A explicação para esse fato está relacionada à\nperturbação do equilíbrio químico existente entre alguns\ndos ingredientes do produto, de acordo com a equação:\n\n![](https://enem.dev/2010-reaplicacao/questions/62/8e020cf6-2988-4e14-812d-5b87898e0597.png)\n\n2(l)2 3(aq)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/62/8e020cf6-2988-4e14-812d-5b87898e0597.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A alteração do equilíbrio anterior, relacionada ao\nvazamento do refrigerante nas condições descritas, tem\ncomo consequência a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "liberação de CO₂ para o ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "elevação da temperatura do recipiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "elevação da pressão interna no recipiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elevação da concentração de CO₂ no líquido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "formação de uma quantidade significativa de H₂O.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

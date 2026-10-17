@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2008",
+    "index": 55,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A contagem de bois\nEm cada parada ou pouso, para jantar ou dormir,\nos bois são contados, tanto na chegada quanto na saída.\nNesses lugares, há sempre um potreiro, ou seja,\ndeterminada área de pasto cercada de arame, ou\nmangueira, quando a cerca é de madeira. Na porteira de\nentrada do potreiro, rente à cerca, os peões formam a\nseringa ou funil, para afinar a fila, e então os bois vão\nentrando aos poucos na área cercada. Do lado interno, o\ncondutor vai contando; em frente a ele, está o marcador,\npeão que marca as reses. O condutor conta 50 cabeças e\ngrita: — Talha! O marcador, com o auxílio dos dedos das\nmãos, vai marcando as talhas. Cada dedo da mão direita\ncorresponde a 1 talha, e da mão esquerda, a 5 talhas.\nQuando entra o último boi, o marcador diz: — Vinte e cinco\ntalhas! E o condutor completa: — E dezoito cabeças. Isso\nsignifica 1.268 bois.\n\nBoiada, comitivas e seus peões.In: O Estado de São Paulo,\nano VI, ed. 63, 21/12/1952 (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para contar os 1.268 bois de acordo com o processo\ndescrito acima, o marcador utilizou",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20 vezes todos os dedos da mão esquerda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20 vezes todos os dedos da mão direita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "todos os dedos da mão direita apenas uma vez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "todos os dedos da mão esquerda apenas uma vez.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5 vezes todos os dedos da mão esquerda e 5 vezes todos os dedos da mão direita.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

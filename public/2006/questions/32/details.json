@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2006",
+    "index": 32,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Chuva ácida é o termo utilizado para designar\nprecipitações com valores de pH inferiores a 5,6. As\nprincipais substâncias que contribuem para esse processo\nsão os óxidos de nitrogênio e de enxofre provenientes da\nqueima de combustíveis fósseis e, também, de fontes\nnaturais. Os problemas causados pela chuva ácida\nultrapassam fronteiras políticas regionais e nacionais.\nA amplitude geográfica dos efeitos da chuva ácida está\nrelacionada principalmente com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a circulação atmosférica e a quantidade de fontes emissoras de óxidos de nitrogênio e de enxofre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a quantidade de fontes emissoras de óxidos de nitrogênio e de enxofre e a rede hidrográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a topografia do local das fontes emissoras de óxidos de nitrogênio e de enxofre e o nível dos lençóis freáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a quantidade de fontes emissoras de óxidos de nitrogênio e de enxofre e o nível dos lençóis freáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a rede hidrográfica e a circulação atmosférica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

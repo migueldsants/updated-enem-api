@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2010 - Reaplicação",
+    "index": 53,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O aquecimento global, ocasionado pelo aumento do efeito estufa, tem como uma de suas causas a disponibilização acelerada\nde átomos de carbono para a atmosfera. Essa disponibilização acontece, por exemplo, na queima de combustíveis fósseis,\ncomo a gasolina, os óleos e o carvão, que libera o gás carbônico (CO₂) para a atmosfera. Por outro lado, a produção de\nmetano (CH₄), outro gás causador do efeito estufa, está associada à pecuária e à degradação de matéria orgânica em\naterros sanitários.\nApesar dos problemas causados pela disponibilização acelerada dos gases citados, eles são imprescindíveis à vida na\nTerra e importantes para a manutenção do equilíbrio ecológico, porque, por exemplo, o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "metano é fonte de carbono para os organismos fotossintetizantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "metano é fonte de hidrogênio para os organismos fotossintetizantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "gás carbônico é fonte de energia para os organismos fotossintetizantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "gás carbônico é fonte de carbono inorgânico para os organismos fotossintetizantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "gás carbônico é fonte de oxigênio molecular para os organismos heterotróficos aeróbios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

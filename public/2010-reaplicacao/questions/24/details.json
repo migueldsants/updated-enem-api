@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2010 - Reaplicação",
+    "index": 24,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O alfaiate pardo João de Deus, que, na altura em que\nfoi preso, não tinha mais do que 80 réis e oito filhos,\ndeclarava que “Todos os brasileiros se fizessem\nfranceses, para viverem em igualdade e abundância”.\n\nMAXWELL, K. Condicionalismos da independência do Brasil. SILVA, M. N. (Org.)\nO império luso-brasileiro, 1750-1822. Lisboa: Estampa, 1986.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto faz referência à Conjuração Baiana. No contexto\nda crise do sistema colonial, esse movimento se\ndiferenciou dos demais movimentos libertários ocorridos\nno Brasil por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "defender a igualdade econômica, extinguindo a propriedade, conforme proposto nos movimentos liberais da França napoleônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "introduzir no Brasil o pensamento e o ideário liberal que moveram os revolucionários ingleses na luta contra o absolutismo monárquico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "propor a instalação de um regime nos moldes da república dos Estados Unidos, sem alterar a ordem socioeconômica escravista e latifundiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apresentar um caráter elitista burguês, uma vez que sofrera influência direta da Revolução Francesa, propondo o sistema censitário de votação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "defender um governo democrático que garantisse a participação política das camadas populares, influenciado pelo ideário da Revolução Francesa.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

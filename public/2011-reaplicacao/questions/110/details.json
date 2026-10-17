@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2011 - Reaplicação",
+    "index": 110,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O RETIRANTE ENCONTRA DOIS HOMENS CARRE-\nGANDO UM DEFUNTO NUMA REDE, AOS GRITOS\nDE: “Ó IRMÃOS DAS ALMAS! IRMÃOS DAS ALMAS!\nNÃO FUI EU QUE MATEI NÃO”\n— A quem estais carregando,\n\nIrmãos das almas,\nEmbrulhado nessa rede?\nDizei que eu saiba.\n— A um defunto de nada,\n\nIrmão das almas,\nQue há muitas horas viaja\nÀ sua morada.\n— E sabeis quem era ele,\n\nIrmãos das almas,\nSabeis como ele se chama\nOu se chamava?\n— Severino Lavrador,\n\nIrmão das almas,\nSeverino Lavrador,\nMas já não lavra.\n\nMELO NETO, J. C. Morte e vida Severina e outros poemas para vozes.\nRio de Janeiro: Nova Fronteira, 1994 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O personagem teatral pode ser construído tanto por\nmeio de uma tradição oral quanto escrita. A interlocução\nentre oralidade regional e tradição religiosa, que serve\nde inspiração para autores brasileiros, parte do teatro\nportuguês. Dessa forma, a partir do texto lido, identificam-\nse personagens que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "se comportam como caricaturas religiosas do teatro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "regional. apresentam diferentes características físicas e",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "psicológicas. incorporam elementos da tradição local em um",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "contexto teatral. estão construídos por meio de ações limitadas a um",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "momento histórico. fazem parte de uma cultura local que restringe a dimensão estética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

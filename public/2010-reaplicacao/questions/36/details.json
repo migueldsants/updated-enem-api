@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2010 - Reaplicação",
+    "index": 36,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os generais abaixo-assinados, de pleno acordo com o\nMinistro da Guerra, declaram-se dispostos a promover\numa ação enérgica junto ao governo no sentido de\ncontrapor medidas decisivas aos planos comunistas\ne seus pregadores e adeptos, independentemente\nda esfera social a que pertençam. Assim procedem\nno exclusivo propósito de salvarem o Brasil e suas\ninstituições políticas e sociais da hecatombe que se\nmostra prestes a explodir.\n\nAta de reunião no Ministério da Guerra, 28/09/1937. BONAVIDES, P.; AMARAL, R.\nTextos políticos da história do Brasil, v. 5. Brasília: Senado Federal, 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Levando em conta o contexto político-institucional dos\nanos 1930 no Brasil, pode-se considerar o texto como\numa tentativa de justificar a ação militar que iria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "debelar a chamada Intentona Comunista, acabando com a possibilidade da tomada do poder pelo PCB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reprimir a Aliança Nacional Libertadora, fechando todos os seus núcleos e prendendo os seus líderes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "desafiar a Ação Integralista Brasileira, afastando o perigo de uma guinada autoritária para o fascismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "instituir a ditadura do Estado Novo, cancelando as eleições de 1938 e reescrevendo a Constituição do país.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "combater a Revolução Constitucionalista, evitando que os fazendeiros paulistas retomassem o poder perdido em 1930.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

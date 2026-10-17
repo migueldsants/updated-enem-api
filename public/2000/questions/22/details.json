@@ -1,0 +1,46 @@
+{
+    "title": "Questão 22 - ENEM 2000",
+    "index": 22,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico abaixo representa o fluxo (quantidade de água em movimento) de um\nrio, em três regiões distintas, após certo tempo de chuva.\n\n![](https://enem.dev/2000/questions/22/6f782df5-4935-4a9f-8675-4564ab035751.png)",
+    "files": [
+        "https://enem.dev/2000/questions/22/6f782df5-4935-4a9f-8675-4564ab035751.png",
+        "https://enem.dev/2000/questions/22/6434d4ad-b73e-467f-ac41-29dcfb1d89e2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Comparando-se, nas três regiões, a interceptação da água da chuva pela\ncobertura vegetal, é correto afirmar que tal interceptação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é maior no ambiente natural preservado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "independe da densidade e do tipo de vegetação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "é menor nas regiões de florestas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumenta quando aumenta o grau de intervenção humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/22/6434d4ad-b73e-467f-ac41-29dcfb1d89e2.png",
+            "isCorrect": false
+        }
+    ]
+}

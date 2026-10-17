@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2011 - Reaplicação",
+    "index": 121,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Foi sempre um gaúcho quebralhão, e despilchado\nsempre, por ser muito de mãos abertas. Se numa mesa\nde primeira ganhava uma ponchada de balastracas,\nreunia a gurizada da casa, fazia pi! pi! pi! como pra\ngalinhas e semeava as moedas, rindo-se do formigueiro\nque a miuçada formava, catando as pratas no terreiro.\nGostava de sentar um laçaço num cachorro, mas desses\nlaçaços de apanhar da palheta à virilha, e puxado a\nvaler, tanto que o bicho que o tomava, de tanto sentir\ndor, e lombeando-se, depois de disparar um pouco é\nque gritava, num caim! caim! caim! de desespero.\n\nLOPES NETO, J. S. Contrabandista.In: SALES, H. (org).Antologia de contos brasileiros.\n\nRio de Janeiro: Ediouro, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A língua falada no Brasil apresenta vasta diversidade,\nque se manifesta de acordo com o lugar, a faixa etária, a\nclasse social, entre outros elementos. No fragmento do\ntexto literário, a variação linguística destaca-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "por inovar na organização das estruturas sintáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pelo uso de vocabulário marcadamente regionalista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "por distinguir, no diálogo, a origem social dos falantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "por adotar uma grafia típica do padrão culto, na escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pelo entrelaçamento de falas de crianças e adultos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2005",
+    "index": 43,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "A atividade pesqueira é antes de tudo extrativista, o que causa impactos ambientais. Muitas espécies já apresentam\nsério comprometimento em seus estoques e, para diminuir esse impacto, várias espécies vêm sendo cultivadas. No\nBrasil, o cultivo de algas, mexilhões, ostras, peixes e camarões, vem sendo realizado há alguns anos, com grande\nsucesso, graças ao estudo minucioso da\nbiologia dessas espécies.\n\n![](https://enem.dev/2005/questions/43/407f87dc-bfbb-4e88-8fc8-366872ae19e6.png)\n\nOs crustáceos decápodes, por exemplo,\napresentam durante seu desenvolvimento\nlarvário, várias etapas com mudança radical\nde sua forma.\n\nAlgumas das fases larvárias de crustáceos",
+    "files": [
+        "https://enem.dev/2005/questions/43/407f87dc-bfbb-4e88-8fc8-366872ae19e6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Não só a sua forma muda, mas também a sua alimentação e habitat. Isso faz com que os criadores estejam atentos a\nessas mudanças, porque a alimentação ministrada tem de mudar a cada fase.\nSe para o criador, essas mudanças são um problema para a espécie em questão, essa metamorfose apresenta uma\nvantagem importante para sua sobrevivência, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumenta a predação entre os indivíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumenta o ritmo de crescimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminui a competição entre os indivíduos da mesma espécie.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "diminui a quantidade de nichos ecológicos ocupados pela espécie.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mantém a uniformidade da espécie.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

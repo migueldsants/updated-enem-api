@@ -1,0 +1,49 @@
+{
+    "title": "Questão 177 - ENEM 2010 - Reaplicação",
+    "index": 177,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Certa marca de suco é vendida no mercado em\nembalagens tradicionais de forma cilíndrica. Relançando\na marca, o fabricante pôs à venda embalagens menores,\nreduzindo a embalagem tradicional à terça parte de sua\ncapacidade.\n\nPor questões operacionais, a fábrica que fornece as\nembalagens manteve a mesma forma, porém reduziu\nà metade o valor do raio da base da embalagem\ntradicional na construção da nova embalagem. Para\natender à solicitação de redução da capacidade, após\na redução no raio, foi necessário determinar a altura da\nnova embalagem.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/177/8aa809dc-289a-4edc-b310-115173172df0.png",
+        "https://enem.dev/2010-reaplicacao/questions/177/ed95099d-5b94-4d1e-bf14-1dbaeee376ac.png",
+        "https://enem.dev/2010-reaplicacao/questions/177/2775970c-3147-425e-a3e2-e49ddc8ee703.png",
+        "https://enem.dev/2010-reaplicacao/questions/177/c842a733-fa24-41ab-9a9f-9a9327788cfd.png",
+        "https://enem.dev/2010-reaplicacao/questions/177/22da8b17-3b88-4098-9457-957313e97c5e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Que expressão relaciona a medida da altura da nova\nembalagem de suco (a) com a altura da embalagem\ntradicional (h)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/177/8aa809dc-289a-4edc-b310-115173172df0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/177/ed95099d-5b94-4d1e-bf14-1dbaeee376ac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/177/2775970c-3147-425e-a3e2-e49ddc8ee703.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/177/c842a733-fa24-41ab-9a9f-9a9327788cfd.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/177/22da8b17-3b88-4098-9457-957313e97c5e.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 1998",
+    "index": 41,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Alunos de uma escola no Rio de Janeiro são convidados a participar de uma excursão ao Parque\nNacional de Jurubatiba. Antes do passeio, eles lêem o trecho de uma reportagem publicada em uma\nrevista:\n\n“Jurubatiba será o primeiro parque nacional em área de restinga, num braço de areia com 31\nquilômetros de extensão, formado entre o mar e dezoito lagoas. Numa área de 14.000 hectares, ali\nvivem jacarés, capivaras, lontras, tamanduás-mirins, além de milhares de aves e de peixes de água\ndoce e salgada.Os peixes de água salgada, na época das cheias, passam para as lagoas, onde\nencontram abrigo, voltando ao mar na cheia seguinte. Nos terrenos mais baixos, próximos aos\nlençóis freáticos, as plantas têm água suficiente para agüentar longas secas. Já nas áreas planas,\nos cactos são um dos poucos vegetais que proliferam, pintando o areal com um verde pálido.”",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Depois de ler o texto, os alunos podem supor que, em Jurubatiba, os vegetais que sobrevivem nas áreas\nplanas têm características tais como:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "quantidade considerável de folhas, para aumentar a área de contato com a umidade do ar nos dias chuvosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução na velocidade da fotossíntese e realização ininterrupta desse processo, durante as 24 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "caules e folhas cobertos por espessas cutículas que impedem o ressecamento e a conseqüente perda de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "redução do calibre dos vasos que conduzem a água e os sais minerais da raiz aos centros produtores do vegetal, para evitar perdas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "crescimento sob a copa de árvores frondosas, que impede o ressecamento e conseqüente perda de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

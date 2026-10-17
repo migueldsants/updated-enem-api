@@ -1,0 +1,47 @@
+{
+    "title": "Questão 172 - ENEM 2011 - Reaplicação",
+    "index": 172,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro indica a quantidade de pontos marcados, em\n\n![](https://enem.dev/2011-reaplicacao/questions/172/c27854ac-7b92-4715-b9da-2b30cb3eaa17.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/172/9a2075b8-918f-406f-a5f6-571eb6bab603.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/172/d673f625-a0d1-4aa4-ae4b-901d0c764aad.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/172/c27854ac-7b92-4715-b9da-2b30cb3eaa17.png",
+        "https://enem.dev/2011-reaplicacao/questions/172/9a2075b8-918f-406f-a5f6-571eb6bab603.png",
+        "https://enem.dev/2011-reaplicacao/questions/172/d673f625-a0d1-4aa4-ae4b-901d0c764aad.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

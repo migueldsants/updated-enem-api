@@ -1,0 +1,54 @@
+{
+    "title": "Questão 44 - ENEM 2005",
+    "index": 44,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Os transgênicos vêm ocupando parte da imprensa com opiniões ora favoráveis ora desfavoráveis. Um organismo ao\nreceber material genético de outra espécie, ou modificado da mesma espécie, passa a apresentar novas\ncaracterísticas. Assim, por exemplo, já temos bactérias fabricando hormônios humanos, algodão colorido e cabras que\nproduzem fatores de coagulação sangüínea humana.\nO belga René Magritte (1896 – 1967), um dos pintores surrealistas mais importantes, deixou obras enigmáticas.\nCaso você fosse escolher uma ilustração para um artigo sobre os transgênicos, qual das obras de Magritte, abaixo,\nestaria mais de acordo com esse tema tão polêmico?\n\n![](https://enem.dev/2005/questions/44/779f16a6-b1a1-4435-a8b2-01c71ffeed00.png)\n\n![](https://enem.dev/2005/questions/44/0553815b-b54f-46ad-83fb-4a32fc95435a.png)\n\n![](https://enem.dev/2005/questions/44/3672bea3-0937-435a-ba71-6cea515f3015.png)\n\n![](https://enem.dev/2005/questions/44/5b87bc4a-a42a-4324-9ac3-15bc3b58a39c.png)\n\n![](https://enem.dev/2005/questions/44/054a0a2c-8054-44e4-89a5-cfcba7c6249c.png)",
+    "files": [
+        "https://enem.dev/2005/questions/44/779f16a6-b1a1-4435-a8b2-01c71ffeed00.png",
+        "https://enem.dev/2005/questions/44/0553815b-b54f-46ad-83fb-4a32fc95435a.png",
+        "https://enem.dev/2005/questions/44/3672bea3-0937-435a-ba71-6cea515f3015.png",
+        "https://enem.dev/2005/questions/44/5b87bc4a-a42a-4324-9ac3-15bc3b58a39c.png",
+        "https://enem.dev/2005/questions/44/054a0a2c-8054-44e4-89a5-cfcba7c6249c.png",
+        "https://enem.dev/2005/questions/44/7f81aa11-c1ec-4b67-bbd5-e6557fbfa64c.png",
+        "https://enem.dev/2005/questions/44/f68d3d78-a9e5-493f-b141-611105362f29.png",
+        "https://enem.dev/2005/questions/44/376b8283-780a-4dc2-bbd5-37305ebd4fa7.png",
+        "https://enem.dev/2005/questions/44/7b8790f8-4ed1-4665-90b9-1e8a7e2094d6.png",
+        "https://enem.dev/2005/questions/44/39bb97fd-0012-44e4-bda8-ac648e30b341.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/44/7f81aa11-c1ec-4b67-bbd5-e6557fbfa64c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/44/f68d3d78-a9e5-493f-b141-611105362f29.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/44/376b8283-780a-4dc2-bbd5-37305ebd4fa7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/44/7b8790f8-4ed1-4665-90b9-1e8a7e2094d6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2005/questions/44/39bb97fd-0012-44e4-bda8-ac648e30b341.png",
+            "isCorrect": false
+        }
+    ]
+}

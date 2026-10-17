@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2003",
+    "index": 1,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "No ano passado, o governo promoveu uma campanha a fim de reduzir os índices de violência. Noticiando o fato, um\njornal publicou a seguinte manchete:\n\nCAMPANHA CONTRA A VIOLÊNCIA DO GOVERNO DO ESTADO ENTRA EM NOVA FASE",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A manchete tem um duplo sentido, e isso dificulta o entendimento. Considerando o objetivo da notícia, esse problema\npoderia ter sido evitado com a seguinte redação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Campanha contra o governo do Estado e a violência entram em nova fase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A violência do governo do Estado entra em nova fase de Campanha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Campanha contra o governo do Estado entra em nova fase de violência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A violência da campanha do governo do Estado entra em nova fase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Campanha do governo do Estado contra a violência entra em nova fase.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

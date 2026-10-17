@@ -1,0 +1,49 @@
+{
+    "title": "Questão 1 - ENEM 2007",
+    "index": 1,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Não só de aspectos físicos se constitui a cultura\nde um povo. Há muito mais, contido nas tradições, no\nfolclore, nos saberes, nas línguas, nas festas e em\ndiversos outros aspectos e manifestações transmitidos oral\nou gestualmente, recriados coletivamente e modificados ao\nlongo do tempo. A essa porção intangível da herança\ncultural dos povos dá-se o nome de patrimônio cultural\nimaterial.\n\nInternet: <www.unesco.org.br>.",
+    "files": [
+        "https://enem.dev/2007/questions/1/12703a86-2d28-49d7-b35d-0544eefec71d.png",
+        "https://enem.dev/2007/questions/1/1d9c46dc-6725-4c4c-9798-f940fd29db31.png",
+        "https://enem.dev/2007/questions/1/25696f54-2767-497b-95f5-4501352990c9.png",
+        "https://enem.dev/2007/questions/1/2c1fd487-6dd9-41f0-9e2f-fffffd70406c.png",
+        "https://enem.dev/2007/questions/1/c624e99b-6228-4bcc-942a-bd8379b857e4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual das figuras abaixo retrata patrimônio imaterial da\ncultura de um povo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2007/questions/1/12703a86-2d28-49d7-b35d-0544eefec71d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2007/questions/1/1d9c46dc-6725-4c4c-9798-f940fd29db31.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2007/questions/1/25696f54-2767-497b-95f5-4501352990c9.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2007/questions/1/2c1fd487-6dd9-41f0-9e2f-fffffd70406c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2007/questions/1/c624e99b-6228-4bcc-942a-bd8379b857e4.png",
+            "isCorrect": false
+        }
+    ]
+}

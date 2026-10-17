@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2001",
+    "index": 17,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Como medida de economia, em uma residência com 4 moradores, o consumo mensal médio\nde energia elétrica foi reduzido para 300 kWh. Se essa residência obedece à distribuição\ndada no gráfico, e se nela há um único chuveiro de 5000 W, pode-se concluir que o banho\ndiário de cada morador passou a ter uma duração média, em minutos, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "10,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

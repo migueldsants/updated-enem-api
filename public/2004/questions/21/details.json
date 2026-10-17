@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2004",
+    "index": 21,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Instruções: As questões de números 20 e 21 referem-se ao poema abaixo.\n\nBrasil\n\nO Zé Pereira chegou de caravela\nE preguntou pro guarani da mata virgem\n― Sois cristão?\n― Não. Sou bravo, sou forte, sou filho da Morte\nTeterê tetê Quizá Quizá Quecê!\nLá longe a onça resmungava Uu! ua! uu!\nO negro zonzo saído da fornalha\nTomou a palavra e respondeu\n― Sim pela graça de Deus\nCanhem Babá Canhem Babá Cum Cum!\nE fizeram o Carnaval\n\n(Oswald de Andrade)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A polifonia, variedade de vozes, presente no poema resulta da manifestação do",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "poeta e do colonizador apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "colonizador e do negro apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "negro e do índio apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "colonizador, do poeta e do negro apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "poeta, do colonizador, do índio e do negro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

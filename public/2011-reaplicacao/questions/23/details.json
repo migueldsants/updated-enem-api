@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2011 - Reaplicação",
+    "index": 23,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "“As tendências da moda, literatura, música, cinema,\nesportes, política, vida familiar refletem a mentalidade\nde uma época. E os mercados de ações registram,\nda mesma forma, essa mentalidade prevalecente. Os\npreços das ações são o melhor indicador do grau de\notimismo, da disposição, da psicologia das multidões,”\nafirma Robert Prechter, em Cultura Popular e o Mercado\nde Ações (1985).\n\nÉpoca. Ed. 549, 24 nov. 2008.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto mostra como as práticas sociais estão\nrelacionadas com os valores predominantes em uma\ndeterminada época, em que os fatores influenciadores\nsão ações",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "econômicas isoladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sociais interativas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "psicológicas individuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "intuitivas herdadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "culturais locais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

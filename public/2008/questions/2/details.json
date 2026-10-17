@@ -1,0 +1,46 @@
+{
+    "title": "Questão 2 - ENEM 2008",
+    "index": 2,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 1 e 2\n\nA Ema\nO surgimento da figura da Ema no céu, ao leste,\nno anoitecer, na segunda quinzena de junho, indica o início\ndo inverno para os índios do sul do Brasil e o começo da\nestação seca para os do norte. É limitada pelas\nconstelações de Escorpião e do Cruzeiro do Sul, ou\nCut'uxu. Segundo o mito guarani, o Cut’uxu segura a\ncabeça da ave para garantir a vida na Terra, porque, se ela\nse soltar, beberá toda a água do nosso planeta. Os tupis-\nguaranis utilizam o Cut'uxu para se orientar e determinar a\nduração das noites e as estações do ano.\n\nA ilustração a seguir é uma representação dos\ncorpos celestes que constituem a constelação da Ema, na\npercepção indígena.\n\n![](https://enem.dev/2008/questions/2/4f655851-7dc1-49e1-97f6-6aa734e01587.png)\n\nA próxima figura mostra, em campo de visão\nampliado, como povos de culturas não-indígenas\npercebem o espaço estelar em que a Ema é vista.\n\n![](https://enem.dev/2008/questions/2/afe4e805-d280-4783-b301-a3052b528661.png)\n\nInternet: <geocities.yahoo.com.br> (com adaptações).",
+    "files": [
+        "https://enem.dev/2008/questions/2/4f655851-7dc1-49e1-97f6-6aa734e01587.png",
+        "https://enem.dev/2008/questions/2/afe4e805-d280-4783-b301-a3052b528661.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Assinale a opção correta a respeito da linguagem\nempregada no texto A Ema.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A palavra Cut’uxu é um regionalismo utilizado pelas populações próximas às aldeias indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O autor se expressa em linguagem formal em todos os períodos do texto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A ausência da palavra Ema no início do período “É limitada (...)” caracteriza registro oral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A palavra Cut’uxu está destacada em itálico porque integra o vocabulário da linguagem informal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "No texto, predomina a linguagem coloquial porque ele consta de um almanaque.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

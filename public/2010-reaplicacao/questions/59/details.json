@@ -1,0 +1,46 @@
+{
+    "title": "Questão 59 - ENEM 2010 - Reaplicação",
+    "index": 59,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A resistência elétrica de um fio é determinada pela\nsuas dimensões e pelas propriedades estruturais do\nmaterial. A condutividade (σ) caracteriza a estrutura do\nmaterial, de tal forma que a resistência de um fio pode\nser determinada conhecendo-se L, o comprimento do fio\ne A, a área de seção reta. A tabela relaciona o material\nà sua respectiva resistividade em temperatura ambiente.\n\nTabela de condutividade\n\n![](https://enem.dev/2010-reaplicacao/questions/59/ef65bd7b-ae58-454b-b940-4e1b5ffdfb3c.png)\n\n![](https://enem.dev/2010-reaplicacao/questions/59/afe5d304-7bc3-4400-8a61-6f43cc984a4f.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/59/ef65bd7b-ae58-454b-b940-4e1b5ffdfb3c.png",
+        "https://enem.dev/2010-reaplicacao/questions/59/afe5d304-7bc3-4400-8a61-6f43cc984a4f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Mantendo-se as mesmas dimensões geométricas, o fio\nque apresenta menor resistência elétrica é aquele feito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tungstênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alumínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cobre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "prata.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

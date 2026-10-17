@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2011 - Reaplicação",
+    "index": 89,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A tecnologia do DNA recombinante tem sido\nutilizada na produção animal, vegetal e microbiana\npara a obtenção de substâncias usadas, por\nexemplo, no processamento de alimentos e na\nprodução de medicamentos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As bactérias são os organismos mais comumente\nutilizados nessa técnica, pois apresentam uma série de\ncaracterísticas propícias para essa tecnologia, como o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cromossomo linear e a reprodução via cissiparidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cromossomo circular e a reprodução assexuada do",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "cromossomo circular associado com histonas e a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cromossomo circular isolado por uma membrana e a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cromossomo linear isolado por uma membrana e a",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

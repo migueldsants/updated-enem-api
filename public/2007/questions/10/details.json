@@ -1,0 +1,45 @@
+{
+    "title": "Questão 10 - ENEM 2007",
+    "index": 10,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/10/cb23b9a5-e801-4908-93df-e005a031d971.png)\n\nO lavrador de Ribeirão Preto recebe em média\nR$ 2,50 por tonelada de cana cortada. Nos anos 80, esse\ntrabalhador cortava cinco toneladas de cana por dia.\nA mecanização da colheita o obrigou a ser mais produtivo.\nO corta-cana derruba agora oito toneladas por dia.\n\nO trabalhador deve cortar a cana rente ao chão,\nencurvado. Usa roupas mal-ajambradas, quentes, que lhe\ncobrem o corpo, para que não seja lanhado pelas folhas da\nplanta. O excesso de trabalho causa a birola: tontura,\ndesmaio, cãibra, convulsão. A fim de agüentar dores e\ncansaço, esse trabalhador toma drogas e soluções de\nglicose, quando não farinha mesmo. Tem aumentado o\nnúmero de mortes por exaustão nos canaviais.\n\nO setor da cana produz hoje uns 3,5% do PIB.\nExporta US$ 8 bilhões. Gera toda a energia elétrica que\nconsome e ainda vende excedentes. A indústria de São\nPaulo contrata cientistas e engenheiros para desenvolver\nmáquinas e equipamentos mais eficientes para as usinas\nde álcool. As pesquisas, privada e pública, na área agrícola\n(cana, laranja, eucalipto etc.) desenvolvem a bioquímica e\na genética no país.\n\nFolha de S. Paulo, 11/3/2007 (com adaptações).\n\nÁLCOOL: O MUNDO DE OLHO EM NOSSA TECNOLOGIA\n\nANGELI\n\n— Ah, fico meio encabulado em ter\nde comer com a mão diante de tanta gente!\n\nFolha de S. Paulo, 25/3/2007.",
+    "files": [
+        "https://enem.dev/2007/questions/10/cb23b9a5-e801-4908-93df-e005a031d971.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Confrontando-se as informações do texto com as da\ncharge acima, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a charge contradiz o texto ao mostrar que o Brasil possui tecnologia avançada no setor agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a charge e o texto abordam, a respeito da cana-de- açúcar brasileira, duas realidades distintas e sem relação entre si.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o texto e a charge consideram a agricultura brasileira avançada, do ponto de vista tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a charge mostra o cotidiano do trabalhador, e o texto defende o fim da mecanização da produção da cana- de-açúcar no setor sucroalcooleiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o texto mostra disparidades na agricultura brasileira, na qual convivem alta tecnologia e condições precárias de trabalho, que a charge ironiza.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

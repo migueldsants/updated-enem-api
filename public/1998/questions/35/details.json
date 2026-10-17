@@ -1,0 +1,45 @@
+{
+    "title": "Questão 35 - ENEM 1998",
+    "index": 35,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Um dos índices de qualidade do ar diz respeito à concentração de monóxido de carbono (CO), pois\nesse gás pode causar vários danos à saúde. A tabela abaixo mostra a relação entre a qualidade do ar e\na concentração de CO.\n\nQualidade do ar Concentração de CO – ppm*\n\n(média de 8h)\n\nInadequada 15 a 30\nPéssima 30 a 40\nCrítica Acima de 40\n\n* ppm (parte por milhão) = 1 micrograma de CO por grama de ar 10⁻⁶ g\n\nPara analisar os efeitos do CO sobre os seres humanos, dispõe-se dos seguintes dados:\n\n![](https://enem.dev/1998/questions/35/70323f5f-baa8-4b59-ade6-ea43a365a4c3.png)",
+    "files": [
+        "https://enem.dev/1998/questions/35/70323f5f-baa8-4b59-ade6-ea43a365a4c3.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que você tenha lido em um jornal que na cidade de São Paulo foi atingido um péssimo nível de\nqualidade do ar. Uma pessoa que estivesse nessa área poderia:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não apresentar nenhum sintoma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ter sua capacidade visual alterada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "apresentar fraqueza muscular e tontura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ficar inconsciente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "morrer.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

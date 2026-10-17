@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2010 - Reaplicação",
+    "index": 13,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os últimos séculos marcam, para a atividade agrícola, com\na humanização e a mecanização do espaço geográfico,\numa considerável mudança em termos de produtividade:\nchegou-se, recentemente, à constituição de um meio\ntécnico-científico-informacional, característico não\napenas da vida urbana, mas também do mundo rural,\ntanto nos países avançados como nas regiões mais\ndesenvolvidas dos países pobres.\n\nSANTOS, M. Por uma outra globalização: do pensamento único à consciência universal.\nRio de Janeiro: Record, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A modernização da agricultura está associada ao\ndesenvolvimento científico e tecnológico do processo\nprodutivo em diferentes países. Ao considerar as novas\nrelações tecnológicas no campo, verifica-se que a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "introdução de tecnologia equilibrou o desenvolvimento econômico entre o campo e a cidade, refletindo diretamente na humanização do espaço geográfico nos países mais pobres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tecnificação do espaço geográfico marca o modelo produtivo dos países ricos, uma vez que pretendem transferir gradativamente as unidades industriais para o espaço rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "construção de uma infraestrutura científica e tecnológica promoveu um conjunto de relações que geraram novas interações socioespaciais entre o campo e a cidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aquisição de máquinas e implementos industriais, incorporados ao campo, proporcionou o aumento da produtividade, libertando o campo da subordinação à cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incorporação de novos elementos produtivos oriundos da atividade rural resultou em uma relação com a cadeia produtiva industrial, subordinando a cidade ao campo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

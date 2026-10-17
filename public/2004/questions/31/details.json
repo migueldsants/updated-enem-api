@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2004",
+    "index": 31,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O que têm em comum Noel Rosa, Castro Alves, Franz Kafka,\nÁlvares de Azevedo, José de Alencar e Frédéric Chopin?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Todos eles morreram de tuberculose, doença que ao longo dos séculos fez mais de 100 milhões de vítimas. Aparentemente\ncontrolada durante algumas décadas, a tuberculose voltou a matar. O principal obstáculo para seu controle é o aumento do\nnúmero de linhagens de bactérias resistentes aos antibióticos usados para combatê-la. Esse aumento do número de linhagens\nresistentes se deve a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "modificações no metabolismo das bactérias, para neutralizar o efeito dos antibióticos e incorporá-los à sua nutrição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mutações selecionadas pelos antibióticos, que eliminam as bactérias sensíveis a eles, mas permitem que as resistentes se multipliquem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "mutações causadas pelos antibióticos, para que as bactérias se adaptem e transmitam essa adaptação a seus descendentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "modificações fisiológicas nas bactérias, para torná-las cada vez mais fortes e mais agressivas no desenvolvimento da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "modificações na sensibilidade das bactérias, ocorridas depois de passarem um longo tempo sem contato com antibióticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

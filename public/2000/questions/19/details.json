@@ -1,0 +1,47 @@
+{
+    "title": "Questão 19 - ENEM 2000",
+    "index": 19,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "A figura abaixo mostra um eclipse solar no instante em que é fotografado em\ncinco diferentes pontos do planeta.\n\n![](https://enem.dev/2000/questions/19/c8652930-2028-487d-b987-f7309e7ebe73.png)\n\nTrês dessas fotografias estão reproduzidas abaixo.\n\n![](https://enem.dev/2000/questions/19/426110c2-6ca8-493d-99a0-69482b08fcd5.png)",
+    "files": [
+        "https://enem.dev/2000/questions/19/c8652930-2028-487d-b987-f7309e7ebe73.png",
+        "https://enem.dev/2000/questions/19/426110c2-6ca8-493d-99a0-69482b08fcd5.png",
+        "https://enem.dev/2000/questions/19/c7500f33-1383-47bb-af22-c43da0b3c95d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As fotos poderiam corresponder, respectivamente, aos pontos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "III, V e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II, III e V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II, IV e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/19/c7500f33-1383-47bb-af22-c43da0b3c95d.png",
+            "isCorrect": false
+        }
+    ]
+}

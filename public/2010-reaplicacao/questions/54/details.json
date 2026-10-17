@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2010 - Reaplicação",
+    "index": 54,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os espelhos retrovisores, que deveriam auxiliar os\nmotoristas na hora de estacionar ou mudar de pista,\nmuitas vezes causam problemas. É que o espelho\nretrovisor do lado direito, em alguns modelos, distorce a\nimagem, dando a impressão de que o veículo está a uma\ndistância maior do que a real.\n\nEste tipo de espelho, chamado convexo, é utilizado com\no objetivo de ampliar o campo visual do motorista, já que\nno Brasil se adota a direção do lado esquerdo e, assim, o\nespelho da direita fica muito distante dos olhos do condutor.\n\nDisponível em: http://noticias.vrum.com.br. Acesso em: 3 nov. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Sabe-se que, em um espelho convexo, a imagem\nformada está mais próxima do espelho do que este\nestá do objeto, o que parece entrar em conflito com a\ninformação apresentada na reportagem. Essa aparente\ncontradição é explicada pelo fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a imagem projetada na retina do motorista ser menor do que o objeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a velocidade do automóvel afetar a percepção da distância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o cérebro humano interpretar como distante uma imagem pequena.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o espelho convexo ser capaz de aumentar o campo visual do motorista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o motorista perceber a luz vinda do espelho com a parte lateral do olho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

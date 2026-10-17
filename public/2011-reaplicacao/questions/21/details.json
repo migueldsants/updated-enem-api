@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2011 - Reaplicação",
+    "index": 21,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A cada 80 dias, 20 mil gravatas chegam a uma lojinha\ndo Brás, bairro comercial de São Paulo. É o fim de uma\nviagem e tanto para elas ― navegam por um mês desde\nShengzhou, uma cidade no leste chinês. Mas a parada\nno Brás não deve demorar. Pelo menos se depender de\nMárcio, o dono da loja. Ele costuma vender todo o estoque\naté a chegada da carga seguinte. Márcio não conhece\nmuito de Shengzhou, mas sabe de algo importante: “Lá\nestão as gravatas mais baratas do mundo. Na Índia, são\n15% mais caras. Na Europa, 300%”.\n\nSuperinteressante. Nº 271, nov. 2009.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A coesão é uma estratégia espacial adotada pelas\nindústrias para reduzir o custo de comercialização.\nNo caso chinês, a interação socioespacial ocorre com\ndiversas partes do mundo, inclusive com São Paulo. De\nacordo com as informações da reportagem, é possível\nidentificar essa coesão na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminuição do custo da mão de obra intelectualizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução das redes de telecomunicações mundiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "distribuição global da montagem do produto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ampliação das distâncias continentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "especialização produtiva da indústria local.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

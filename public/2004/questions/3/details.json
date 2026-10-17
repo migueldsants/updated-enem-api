@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2004",
+    "index": 3,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os Jogos Olímpicos tiveram início na Grécia, em 776 a.C., para celebrar uma declaração de paz. Na sociedade contemporânea,\nembora mantenham como ideal o congraçamento entre os povos, os Jogos Olímpicos têm sido palco de manifestações de\nconflitos políticos. Dentre os acontecimentos apresentados abaixo, o único que evoca um conflito armado e sugere sua\nsuperação, reafirmando o ideal olímpico, ocorreu",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "em 1980, em Moscou, quando os norte-americanos deixaram de comparecer aos Jogos Olímpicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "em 1964, em Tóquio, quando um atleta nascido em Hiroshima foi escolhido para carregar a tocha olímpica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "em 1956, em Melbourne, quando a China abandonou os Jogos porque a representação de Formosa também havia sido convidada para participar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "em 1948, em Londres, quando os alemães e os japoneses não foram convidados a participar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em 1936, em Berlim, quando Hitler abandonou o estádio ao serem anunciadas as vitórias do universitário negro, Jesse Owens, que recebeu quatro medalhas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2003",
+    "index": 50,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A seguir são apresentadas declarações de duas personalidades da História do Brasil a respeito da localização da\ncapital do país, respectivamente um século e uma década antes da proposta de construção de Brasília como novo\nDistrito Federal.\n\nDeclaração I: José Bonifácio\nCom a mudança da capital para o interior, fica a Corte livre de qualquer assalto de surpresa externa, e se\nchama para as províncias centrais o excesso de população vadia das cidades marítimas. Desta Corte\ncentral dever-se-ão logo abrir estradas para as diversas províncias e portos de mar.\n\n(Carlos de Meira Matos. Geopolítica e modernidade: geopolítica brasileira.)\n\nDeclaração II: Eurico Gaspar Dutra\nNa América do Sul, o Brasil possui uma grande área que se pode chamar também de Terra Central. Do\nponto de vista da geopolítica sul-americana, sob a qual devemos encarar a segurança do Estado brasileiro,\no que precisamos fazer quanto antes é realizar a ocupação da nossa Terra Central, mediante a\ninteriorização da Capital.\n\n(Adaptado de José W. Vesentini. A Capital da geopolítica.)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o contexto histórico que envolve as duas declarações e comparando as idéias nelas contidas,\npodemos dizer que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ambas limitam as vantagens estratégicas da definição de uma nova capital a questões econômicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas a segunda considera a mudança da capital importante do ponto de vista da estratégia militar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ambas consideram militar e economicamente importante a localização da capital no interior do país.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "apenas a segunda considera a mudança da capital uma estratégia importante para a economia do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nenhuma delas acredita na possibilidade real de desenvolver a região central do país a partir da mudança da capital.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

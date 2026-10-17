@@ -1,0 +1,45 @@
+{
+    "title": "Questão 52 - ENEM 2008",
+    "index": 52,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Define-se genoma como o conjunto de todo o\nmaterial genético de uma espécie, que, na maioria dos\ncasos, são as moléculas de DNA. Durante muito tempo,\nespeculou-se sobre a possível relação entre o tamanho do\ngenoma — medido pelo número de pares de bases (pb) —,\no número de proteínas produzidas e a complexidade do\norganismo. As primeiras respostas começam a aparecer e\njá deixam claro que essa relação não existe, como mostra\na tabela abaixo.\n\n![](https://enem.dev/2008/questions/52/8c27affb-7c7c-4ef3-a6f9-3904006b45df.png)",
+    "files": [
+        "https://enem.dev/2008/questions/52/8c27affb-7c7c-4ef3-a6f9-3904006b45df.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações acima,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o conjunto de genes de um organismo define o seu DNA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a produção de proteínas não está vinculada à molécula de DNA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o tamanho do genoma não é diretamente proporcional ao número de proteínas produzidas pelo organismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "quanto mais complexo o organismo, maior o tamanho de seu genoma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "genomas com mais de um bilhão de pares de bases são encontrados apenas nos seres vertebrados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

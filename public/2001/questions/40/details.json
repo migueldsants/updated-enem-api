@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2001",
+    "index": 40,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Nas últimas eleições presidenciais de um determinado país, onde 9% dos eleitores votaram\nem branco e 11% anularam o voto, o vencedor obteve 51% dos votos válidos. Não são\nconsiderados válidos os votos em branco e nulos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pode-se afirmar que o vencedor, de fato, obteve de todos os eleitores um percentual de\nvotos da ordem de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "38%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "41%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "44%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "47%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

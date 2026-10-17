@@ -1,0 +1,46 @@
+{
+    "title": "Questão 32 - ENEM 1999",
+    "index": 32,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A panela de pressão permite que os alimentos sejam cozidos em água muito mais rapidamente do que em panelas\nconvencionais. Sua tampa possui uma borracha de vedação que não deixa o vapor escapar, a não ser através de um orifício\ncentral sobre o qual assenta um peso que controla a pressão. Quando em uso, desenvolve-se uma pressão elevada no seu\ninterior. Para a sua operação segura, é necessário observar a limpeza do orifício central e a existência de uma válvula de\nsegurança, normalmente situada na tampa.\nO esquema da panela de pressão e um diagrama de fase da água são apresentados abaixo.\n\n![](https://enem.dev/1999/questions/32/b5de0c34-6999-4335-a866-b5c371fa1a21.png)\n\n![](https://enem.dev/1999/questions/32/d45b5b57-7464-477d-a0be-18b62f3feabc.png)",
+    "files": [
+        "https://enem.dev/1999/questions/32/b5de0c34-6999-4335-a866-b5c371fa1a21.png",
+        "https://enem.dev/1999/questions/32/d45b5b57-7464-477d-a0be-18b62f3feabc.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A vantagem do uso de panela de pressão é a rapidez para o cozimento de alimentos e isto se deve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à pressão no seu interior, que é igual à pressão externa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à temperatura de seu interior, que está acima da temperatura de ebulição da água no local.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "à quantidade de calor adicional que é transferida à panela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à quantidade de vapor que está sendo liberada pela válvula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à espessura da sua parede, que é maior que a das panelas comuns.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

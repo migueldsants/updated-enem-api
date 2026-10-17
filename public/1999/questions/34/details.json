@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 1999",
+    "index": 34,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A construção de grandes projetos hidroelétricos também deve ser analisada do ponto de vista do regime das águas e de seu",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "ciclo na região. Em relação ao ciclo da água, pode-se argumentar que a construção de grandes represas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não causa impactos na região, uma vez que a quantidade total de água da Terra permanece constante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "não causa impactos na região, uma vez que a água que alimenta a represa prossegue depois rio abaixo com a mesma vazão e velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aumenta a velocidade dos rios, acelerando o ciclo da água na região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumenta a evaporação na região da represa, acompanhada também por um aumento local da umidade relativa do ar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "diminui a quantidade de água disponível para a realização do ciclo da água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

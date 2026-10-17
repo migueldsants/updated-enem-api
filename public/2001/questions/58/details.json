@@ -1,0 +1,50 @@
+{
+    "title": "Questão 58 - ENEM 2001",
+    "index": 58,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O quadro apresenta a produção de algodão de uma cooperativa de agricultores entre 1995\ne 1999.\n\n![](https://enem.dev/2001/questions/58/7a2daf68-0dcc-459c-8316-44327bf4e71e.png)",
+    "files": [
+        "https://enem.dev/2001/questions/58/7a2daf68-0dcc-459c-8316-44327bf4e71e.png",
+        "https://enem.dev/2001/questions/58/212008ec-fa07-45fb-9b76-801e612980ee.png",
+        "https://enem.dev/2001/questions/58/82f7914c-011a-4ab6-bfa0-81d9eb741b91.png",
+        "https://enem.dev/2001/questions/58/eb6c8940-a092-470a-8beb-7ee9d6e48088.png",
+        "https://enem.dev/2001/questions/58/cf052e9e-7ae1-4925-b800-7534a4f45719.png",
+        "https://enem.dev/2001/questions/58/5829dbdf-c728-43a6-a107-001ac3ef9951.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que melhor representa a área plantada (AP) no período considerado é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/58/212008ec-fa07-45fb-9b76-801e612980ee.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/58/82f7914c-011a-4ab6-bfa0-81d9eb741b91.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/58/eb6c8940-a092-470a-8beb-7ee9d6e48088.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/58/cf052e9e-7ae1-4925-b800-7534a4f45719.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/58/5829dbdf-c728-43a6-a107-001ac3ef9951.png",
+            "isCorrect": false
+        }
+    ]
+}

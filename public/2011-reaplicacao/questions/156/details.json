@@ -1,0 +1,45 @@
+{
+    "title": "Questão 156 - ENEM 2011 - Reaplicação",
+    "index": 156,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A distância atual entre os centros da Terra e de seu\nsatélite natural (Lua) é de 384 405 km. Essa distância\naumenta 4 cm por ano. O centro de gravidade do sistema\n(ou baricentro), formado pelos dois corpos celestes,\nestá a 1 737 km da superfície da Terra, e essa distância\ndiminui gradativamente. Este centro de gravidade se\nlocalizará fora da Terra em 3 bilhões de anos e, com\nisso, a Lua deixará de ser nosso satélite, tornando-se\n\n![](https://enem.dev/2011-reaplicacao/questions/156/4237eca7-df7c-43c1-8af8-6088ca7b8e3c.png)\n\nNova Escola. Nov. 2007 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/156/4237eca7-df7c-43c1-8af8-6088ca7b8e3c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quantos centímetros por ano, em média, o centro de\ngravidade do sistema se aproximará da superfície\nterrestre, até que a Lua se torne um planeta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,0579",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "0,5790",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,7900",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12,8135",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17,2711",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

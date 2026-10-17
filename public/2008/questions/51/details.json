@@ -1,0 +1,47 @@
+{
+    "title": "Questão 51 - ENEM 2008",
+    "index": 51,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 50 e 51\n\nA vida na rua como ela é\nO Ministério do Desenvolvimento Social e\nCombate à Fome (MDS) realizou, em parceria com a ONU,\numa pesquisa nacional sobre a população que vive na rua,\ntendo sido ouvidas 31.922 pessoas em 71 cidades\nbrasileiras. Nesse levantamento, constatou-se que a\nmaioria dessa população sabe ler e escrever (74%), que\napenas 15,1% vivem de esmolas e que, entre os\nmoradores de rua que ingressaram no ensino superior,\n0,7% se diplomou. Outros dados da pesquisa são\napresentados nos quadros abaixo.\n\nAlcoolismo/drogas 36%\nDesemprego 30%\n\n![](https://enem.dev/2008/questions/51/da3130f4-b553-4cb6-817c-532df6c6cd40.png)\n\n![](https://enem.dev/2008/questions/51/0aa9ee59-9c0e-4760-9361-b9cb1cf2b796.png)\n\n![](https://enem.dev/2008/questions/51/a2162a29-8c84-440e-95d2-4007134ede8e.png)",
+    "files": [
+        "https://enem.dev/2008/questions/51/da3130f4-b553-4cb6-817c-532df6c6cd40.png",
+        "https://enem.dev/2008/questions/51/0aa9ee59-9c0e-4760-9361-b9cb1cf2b796.png",
+        "https://enem.dev/2008/questions/51/a2162a29-8c84-440e-95d2-4007134ede8e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No universo pesquisado, considere que P seja o conjunto\ndas pessoas que vivem na rua por motivos de\nalcoolismo/drogas e Q seja o conjunto daquelas cujo\nmotivo para viverem na rua é a decepção amorosa.\nEscolhendo-se ao acaso uma pessoa no grupo pesquisado\ne supondo-se que seja igual a 40% a probabilidade de que\nessa pessoa faça parte do conjunto P ou do conjunto Q,\nentão a probabilidade de que ela faça parte do conjunto\ninterseção de P e Q é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "16%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "52%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

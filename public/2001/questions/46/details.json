@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2001",
+    "index": 46,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "De acordo com reportagem sobre resultados recentes de estudos populacionais,\n\"... a população mundial deverá ser de 9,3 bilhões de pessoas em 2050. Ou seja, será 50%\nmaior que os 6,1 bilhões de meados do ano 2000.(...) Essas são as principais conclusões do\nrelatório Perspectivas da População Mundial – Revisão 2000, preparado pela Organização\ndas Nações Unidas (ONU). (...) Apenas seis países respondem por quase metade desse\naumento: Índia (21%), China (12%), Paquistão (5%), Nigéria (4%), Bangladesh (4%) e\nIndonésia (3%).\n\nEsses elevados índices de expansão contrastam com os dos países mais desenvolvidos.\nEm 2000, por exemplo, a população da União Européia teve um aumento de 343 mil pessoas,\nenquanto a Índia alcançou esse mesmo crescimento na primeira semana de 2001. (...)\n\nOs Estados Unidos serão uma exceção no grupo dos países desenvolvidos. O país se\ntornará o único desenvolvido entre os 20 mais populosos do mundo.\"\n\nO Estado de S. Paulo, 03 de março de 2001.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando as causas determinantes de crescimento populacional, pode-se afirmar que,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na Europa, altas taxas de crescimento vegetativo explicam o seu crescimento populacional em 2000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nos países citados, baixas taxas de mortalidade infantil e aumento da expectativa de vida são as responsáveis pela tendência de crescimento populacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nos Estados Unidos, a atração migratória representa um importante fator que poderá colocá-lo entre os países mais populosos do mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "nos países citados, altos índices de desenvolvimento humano explicam suas altas taxas de natalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nos países asiáticos e africanos, as condições de vida favorecem a reprodução humana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

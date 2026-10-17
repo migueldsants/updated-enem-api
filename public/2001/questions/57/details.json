@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2001",
+    "index": 57,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O texto foi extraído da peça Tróilo e Créssida de William Shakespeare, escrita,\nprovavelmente, em 1601.\n\n“Os próprios céus, os planetas, e este centro\nreconhecem graus, prioridade, classe,\nconstância, marcha, distância, estação, forma,\nfunção e regularidade, sempre iguais;\neis porque o glorioso astro Sol\nestá em nobre eminência entronizado\ne centralizado no meio dos outros,\ne o seu olhar benfazejo corrige\nos maus aspectos dos planetas malfazejos,\ne, qual rei que comanda, ordena\nsem entraves aos bons e aos maus.\"\n\n(personagem Ulysses, Ato I, cena III).\nSHAKESPEARE, W. Tróilo e Créssida: Porto: Lello & Irmão, 1948.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A descrição feita pelo dramaturgo renascentista inglês se aproxima da teoria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "geocêntrica do grego Claudius Ptolomeu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da reflexão da luz do árabe Alhazen.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "heliocêntrica do polonês Nicolau Copérnico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "da rotação terrestre do italiano Galileu Galilei.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da gravitação universal do inglês Isaac Newton.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

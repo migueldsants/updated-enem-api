@@ -1,0 +1,46 @@
+{
+    "title": "Questão 15 - ENEM 2002",
+    "index": 15,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Na construção civil, é muito comum a utilização de ladrilhos ou azulejos com a forma de polígonos para o revestimento de pisos ou\nparedes. Entretanto, não são todas as combinações de polígonos que se prestam a pavimentar uma superfície plana, sem que haja\nfalhas ou superposições de ladrilhos, como ilustram as figuras:\n\n![](https://enem.dev/2002/questions/15/a1d9860d-e7c5-49d2-a8c0-96f2834f5d98.png)\n\n![](https://enem.dev/2002/questions/15/2438345a-f1bd-47c4-9b3d-6f9c4a3cc044.png)\n\nFigura 1: Ladrilhos retangulares Figura 2: Heptágonos regulares não pavimentam\npavimentando o plano o plano (há falhas ou superposição)\n\nA tabela traz uma relação de alguns polígonos regulares, com as respectivas medidas de seus ângulos internos.",
+    "files": [
+        "https://enem.dev/2002/questions/15/a1d9860d-e7c5-49d2-a8c0-96f2834f5d98.png",
+        "https://enem.dev/2002/questions/15/2438345a-f1bd-47c4-9b3d-6f9c4a3cc044.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se um arquiteto deseja utilizar uma combinação de dois tipos diferentes de ladrilhos entre os polígonos da tabela, sendo um\ndeles octogonal, o outro tipo escolhido deverá ter a forma de um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "triângulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "quadrado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "pentágono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hexágono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "eneágono.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

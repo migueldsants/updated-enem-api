@@ -1,0 +1,45 @@
+{
+    "title": "Questão 75 - ENEM 2010 - Reaplicação",
+    "index": 75,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O pH do solo pode variar em uma faixa significativa\ndevido a várias causas. Por exemplo, o solo de áreas com\nchuvas escassas, mas com concentrações elevadas do\nsal solúvel carbonato de sódio (Na₂CO₃), torna-se básico\ndevido à reação de hidrólise do íon carbonato, segundo\no equilíbrio:\n\n![](https://enem.dev/2010-reaplicacao/questions/75/f80381a0-5eec-4da4-a1a0-2e669f68ee9e.png)\n\n®¯aq±¯l± ®¯aq±\n\nEsses tipos de solos são alcalinos demais para fins\nagrícolas e devem ser remediados pela utilização de\naditivos químicos.\n\nBAIRD, C. Química ambiental. São Paulo: Artmed, 1995 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/75/f80381a0-5eec-4da4-a1a0-2e669f68ee9e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Suponha que, para remediar uma amostra desse tipo\nde solo, um técnico tenha utilizado como aditivo a cal\nvirgem (CaO). Nesse caso, a remediação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "foi realizada, pois o caráter básico da cal virgem promove o deslocamento do equilíbrio descrito para a direita, em decorrência da elevação de pH do meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "foi realizada, pois o caráter ácido da cal virgem promove o deslocamento do equilíbrio descrito para a esquerda, em decorrência da redução de pH do meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "não foi realizada, pois o caráter ácido da cal virgem promove o deslocamento do equilíbrio descrito para a direita, em decorrência da redução de pH do meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "não foi realizada, pois o caráter básico da cal virgem promove o deslocamento do equilíbrio descrito para a esquerda, em decorrência da elevação de pH do meio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "não foi realizada, pois o caráter neutro da cal virgem promove o deslocamento do equilíbrio descrito para a esquerda, em decorrência da manutenção de pH do meio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

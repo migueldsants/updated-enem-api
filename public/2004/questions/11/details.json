@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2004",
+    "index": 11,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "As “margarinas” e os chamados “cremes vegetais” são produtos diferentes, comercializados em embalagens quase idênticas. O\nconsumidor, para diferenciar um produto do outro, deve ler com atenção os dizeres do rótulo, geralmente em letras muito\npequenas. As figuras que seguem representam rótulos desses dois produtos.\n\n![](https://enem.dev/2004/questions/11/7a60597b-4173-4a10-8dd4-897bbc369f1e.png)",
+    "files": [
+        "https://enem.dev/2004/questions/11/7a60597b-4173-4a10-8dd4-897bbc369f1e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma função dos lipídios no preparo das massas alimentícias é torná-las mais macias. Uma pessoa que, por desatenção, use\n200 g de creme vegetal para preparar uma massa cuja receita pede 200 g de margarina, não obterá a consistência desejada,\npois estará utilizando uma quantidade de lipídios que é, em relação à recomendada, aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o triplo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o dobro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a metade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "um terço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "um quarto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

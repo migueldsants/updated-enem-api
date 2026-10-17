@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2010 - Reaplicação",
+    "index": 103,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No Brasil colonial, os portugueses procuravam ocupar\ne explorar os territórios descobertos, nos quais viviam\níndios, que eles queriam cristianizar e usar como força\nde trabalho. Os missionários aprendiam os idiomas dos\nnativos para catequizá-los nas suas próprias línguas. Ao\nlongo do tempo, as línguas se influenciaram. O resultado\ndesse processo foi a formação de uma língua geral,\ndesdobrada em duas variedades: o abanheenga, ao sul,\ne o nheengatu, ao norte. Quase todos se comunicavam\nna língua geral, sendo poucos aqueles que falavam\napenas o português.\nDe acordo com o texto, a língua geral formou-se e\nconsolidou-se no contexto histórico do Brasil-Colônia.\nPortanto, a formação desse idioma e suas variedades\nfoi condicionada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pelo interesse dos indígenas em aprender a religião dos portugueses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pelo interesse dos portugueses em aprimorar o saber linguístico dos índios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pela percepção dos indígenas de que as suas línguas precisavam aperfeiçoar-se.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pelo interesse unilateral dos indígenas em aprender uma nova língua com os portugueses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pela distribuição espacial das línguas indígenas, que era anterior à chegada dos portugueses.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

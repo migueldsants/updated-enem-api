@@ -1,0 +1,47 @@
+{
+    "title": "Questão 57 - ENEM 2004",
+    "index": 57,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "A identificação da estrutura do DNA foi fundamental para compreender seu papel na continuidade da vida. Na década de 1950,\num estudo pioneiro determinou a proporção das bases nitrogenadas que compõem moléculas de DNA de várias espécies.\n\nExemplos de materiais analisados\n\n![](https://enem.dev/2004/questions/57/186f4c14-ffd7-4d2c-b780-cb14bc3e548f.png)\n\n![](https://enem.dev/2004/questions/57/15e3c8b6-e9ef-455f-bec1-311716d91965.png)\n\n![](https://enem.dev/2004/questions/57/019f6133-9615-4555-a675-48ae7ccc9f42.png)",
+    "files": [
+        "https://enem.dev/2004/questions/57/186f4c14-ffd7-4d2c-b780-cb14bc3e548f.png",
+        "https://enem.dev/2004/questions/57/15e3c8b6-e9ef-455f-bec1-311716d91965.png",
+        "https://enem.dev/2004/questions/57/019f6133-9615-4555-a675-48ae7ccc9f42.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A comparação das proporções permitiu concluir que ocorre emparelhamento entre as bases nitrogenadas e que elas formam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pares de mesmo tipo em todas as espécies, evidenciando a universalidade da estrutura do DNA.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "pares diferentes de acordo com a espécie considerada, o que garante a diversidade da vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pares diferentes em diferentes células de uma espécie, como resultado da diferenciação celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pares específicos apenas nos gametas, pois essas células são responsáveis pela perpetuação das espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pares específicos somente nas bactérias, pois esses organismos são formados por uma única célula.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

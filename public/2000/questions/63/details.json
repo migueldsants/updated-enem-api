@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2000",
+    "index": 63,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Os esgotos domésticos constituem grande ameaça aos ecossistemas de lagos\nou represas, pois deles decorrem graves desequilíbrios ambientais. Considere o\ngráfico abaixo, no qual no intervalo de tempo entre t1 e t3, observou-se a\nestabilidade em ecossistema de lago, modificado a partir de t3 pelo maior\n\n![](https://enem.dev/2000/questions/63/f8eb31ef-ca4f-4cb1-95ea-c08af3068960.png)",
+    "files": [
+        "https://enem.dev/2000/questions/63/f8eb31ef-ca4f-4cb1-95ea-c08af3068960.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Entre t3 e t6, a competição pelo oxigênio leva à multiplicação de peixes, bactérias e outros produtores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A partir de t3, a decomposição do esgoto é impossibilitada pela diminuição do oxigênio disponível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A partir de t6, a mortandade de peixes decorre da diminuição da população de produtores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A mortandade de peixes, a partir de t6, é devida à insuficiência de oxigênio na água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A partir de t3, a produção primária aumenta devido à diminuição dos consumidores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

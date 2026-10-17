@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2001",
+    "index": 33,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Numa região, originalmente ocupada por Mata Atlântica, havia, no passado, cinco espécies\nde pássaros de um mesmo gênero. Nos dias atuais, essa região se reduz a uma reserva de\nfloresta primária, onde ainda ocorrem as cinco espécies, e a fragmentos de floresta\ndegradada, onde só se encontram duas das cinco espécies.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O desaparecimento das três espécies nas regiões degradadas pode ser explicado pelo fato\nde que, nessas regiões, ocorreu",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento do volume e da freqüência das chuvas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diminuição do número e da diversidade de hábitats.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "diminuição da temperatura média anual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento dos níveis de gás carbônico e de oxigênio na atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumento do grau de isolamento reprodutivo interespecífico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

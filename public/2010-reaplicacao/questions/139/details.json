@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2010 - Reaplicação",
+    "index": 139,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Existe uma cartilagem entre os ossos que vai crescendo\ne se calcificando desde a infância até a idade adulta. No\nfim da puberdade, os hormônios sexuais (testosterona e\nestrógeno) fazem com que essas extremidades ósseas\n(epífises) se fechem e o crescimento seja interrompido.\nAssim, quanto maior a área não calcificada entre os\nossos, mais a criança poderá crescer ainda. A expectativa\né que durante os quatro ou cinco anos da puberdade, um\ngaroto ganhe de 27 a 30 centímetros.\n\nRevista Cláudia. Abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com essas informações, um garoto que inicia\na puberdade com 1,45 m de altura poderá chegar ao\nfinal dessa fase com uma altura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mínima de 1,458 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mínima de 1,477 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "máxima de 1,480 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "máxima de 1,720 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "máxima de 1,750 m.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

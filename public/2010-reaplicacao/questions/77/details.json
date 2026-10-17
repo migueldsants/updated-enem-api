@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2010 - Reaplicação",
+    "index": 77,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O cádmio, presente nas baterias, pode chegar ao solo\nquando esses materiais são descartados de maneira\nirregular no meio ambiente ou quando são incinerados.\nDiferentemente da forma metálica, os íons Cd²⁺ são\nextremamente perigosos para o organismo, pois eles\npodem substituir íons Ca²⁺, ocasionando uma doença\ndegenerativa nos ossos, tornando-os muito porosos\ne causando dores intensas nas articulações. Podem\nainda inibir enzimas ativadas pelo cátion Zn²⁺, que são\nextremamente importantes para o funcionamento dos\nrins. A figura mostra a variação do raio de alguns metais\ne seus respectivos cátions.\n\n![](https://enem.dev/2010-reaplicacao/questions/77/a9f2cf48-3a0e-483d-aa1e-60511b8f4812.png)\n\nFIGURA 1: Raios atômicos e iônicos de alguns metais.\n\nATKINS, P; JONES, L. Princípios de química: Questionando a vida moderna e o meio\nambiente. Porto Alegre: Bookman, 2001 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/77/a9f2cf48-3a0e-483d-aa1e-60511b8f4812.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base no texto, a toxicidade do cádmio em sua forma\niônica é consequência de esse elemento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentar baixa energia de ionização, o que favorece a formação do íon e facilita sua ligação a outros compostos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "possuir tendência de atuar em processos biológicos mediados por cátions metálicos com cargas que variam de +1 a +3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "possuir raio e carga relativamente próximos aos de íons metálicos que atuam nos processos biológicos, causando interferência nesses processos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "apresentar raio iônico grande, permitindo que ele cause interferência nos processos biológicos em que, normalmente, íons menores participam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresentar carga +2, o que permite que ele cause interferência nos processos biológicos em que, normalmente, íons com cargas menores participam.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

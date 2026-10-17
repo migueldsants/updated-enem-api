@@ -1,0 +1,45 @@
+{
+    "title": "Questão 26 - ENEM 2006",
+    "index": 26,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Uma cooperativa de radiotáxis tem como meta\natender, em no máximo 15 minutos, a pelo menos 95% das\nchamadas que recebe. O controle dessa meta é feito\nininterruptamente por um funcionário que utiliza um\nequipamento de rádio para monitoramento. A cada 100\nchamadas, ele registra o número acumulado de chamadas\nque não foram atendidas em 15 minutos. Ao final de um\ndia, a cooperativa apresentou o seguinte desempenho:\n\n![](https://enem.dev/2006/questions/26/ddb6d4af-87ed-4a3a-9efe-09bdd853a688.png)",
+    "files": [
+        "https://enem.dev/2006/questions/26/ddb6d4af-87ed-4a3a-9efe-09bdd853a688.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse desempenho mostra que, nesse dia, a meta\nestabelecida foi atingida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nas primeiras 100 chamadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nas primeiras 200 chamadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nas primeiras 300 chamadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nas primeiras 400 chamadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao final do dia.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

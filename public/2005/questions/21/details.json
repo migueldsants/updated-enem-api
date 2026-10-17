@@ -1,0 +1,48 @@
+{
+    "title": "Questão 21 - ENEM 2005",
+    "index": 21,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 20 e 21.\n\nCândido Portinari (1903-1962), um dos mais importantes artistas brasileiros do século XX, tratou de diferentes\naspectos da nossa realidade em seus quadros.\n\n![](https://enem.dev/2005/questions/21/5193f14a-4a5b-4261-9058-d6c289a473d9.png)\n\n![](https://enem.dev/2005/questions/21/10094664-2dd5-4bc1-834a-aa2ed5218ecf.png)\n\n![](https://enem.dev/2005/questions/21/d66945a1-fd19-4b67-8e98-9b68167c7c93.png)\n\n![](https://enem.dev/2005/questions/21/a03692db-8a49-43fd-b900-0b95f02f40c3.png)\n\n1 2 3 4\n\nSobre a temática dos “Retirantes”, Portinari também escreveu o seguinte poema:\n\n(....) Homens de enorme ventre bojudo\nOs retirantes vêm vindo com trouxas e embrulhos Mulheres com trouxas caídas para o lado\nVêm das terras secas e escuras; pedregulhos\nDoloridos como fagulhas de carvão aceso Pançudas, carregando ao colo um garoto\n\nChoramingando, remelento\nCorpos disformes, uns panos sujos,\n\n(....)\nRasgados e sem cor, dependurados\n\n(Cândido Portinari. Poemas. Rio de Janeiro: J. Olympio, 1964.)\n\nNo texto de Portinari, algumas das pessoas descritas provavelmente estão infectadas com o verme Schistosoma\nmansoni. Os “homens de enorme ventre bojudo” corresponderiam aos doentes da chamada “barriga d’água”.",
+    "files": [
+        "https://enem.dev/2005/questions/21/5193f14a-4a5b-4261-9058-d6c289a473d9.png",
+        "https://enem.dev/2005/questions/21/10094664-2dd5-4bc1-834a-aa2ed5218ecf.png",
+        "https://enem.dev/2005/questions/21/d66945a1-fd19-4b67-8e98-9b68167c7c93.png",
+        "https://enem.dev/2005/questions/21/a03692db-8a49-43fd-b900-0b95f02f40c3.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O ciclo de vida do Schistosoma mansoni e as condições sócio-ambientais de um local são fatores determinantes para\nmaior ou menor incidência dessa doença. O aumento da incidência da esquistossomose deve-se à presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "roedores, ao alto índice pluvial e à inexistência de programas de vacinação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "insetos hospedeiros e indivíduos infectados, à inexistência de programas de vacinação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "indivíduos infectados e de hospedeiros intermediários e à ausência de saneamento básico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mosquitos, a inexistência de programas de vacinação e à ausência de controle de águas paradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "gatos e de alimentos contaminados, e à ausência de precauções higiênicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 24 - ENEM 2007",
+    "index": 24,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "O Aedes aegypti é vetor transmissor da dengue.\nUma pesquisa feita em São Luís – MA, de 2000 a 2002,\nmapeou os tipos de reservatório onde esse mosquito era\nencontrado. A tabela abaixo mostra parte dos dados\ncoletados nessa pesquisa.\n\n![](https://enem.dev/2007/questions/24/08b46614-3626-4976-ac55-094cb6c9e6c1.png)\n\nRio de Janeiro, out./2004 (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/24/08b46614-3626-4976-ac55-094cb6c9e6c1.png",
+        "https://enem.dev/2007/questions/24/2677ed26-85ea-4a26-a64f-35a091aa7244.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se mantido o percentual de redução da população total de\nA. aegypti observada de 2001 para 2002, teria sido\nencontrado, em 2003, um número total de mosquitos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "menor que 5.000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior que 5.000 e menor que 10.000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "maior que 10.000 e menor que 15.000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "maior que 15.000 e menor que 20.000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2007/questions/24/2677ed26-85ea-4a26-a64f-35a091aa7244.png",
+            "isCorrect": true
+        }
+    ]
+}

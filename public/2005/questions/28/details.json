@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2005",
+    "index": 28,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "questões ecologicamente corretas.\n(D) Exigência da inserção adequada da mulher no\nmercado de trabalho.\n(E) Aprofundamento do problema social do\ndesemprego e do subemprego.\n\n![](https://enem.dev/2005/questions/28/b5cff3ae-0f9f-4225-8ab1-3a90f7e23dc3.png)",
+    "files": [
+        "https://enem.dev/2005/questions/28/b5cff3ae-0f9f-4225-8ab1-3a90f7e23dc3.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 135.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 165.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 190.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 210.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 230.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

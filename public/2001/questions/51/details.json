@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2001",
+    "index": 51,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A figura mostra o tubo de imagens dos aparelhos de televisão usado para produzir as\nimagens sobre a tela. Os elétrons do feixe emitido pelo canhão eletrônico são acelerados\npor uma tensão de milhares de volts e passam por um espaço entre bobinas onde são\ndefletidos por campos magnéticos variáveis, de forma a fazerem a varredura da tela.\n\n![](https://enem.dev/2001/questions/51/e8e95b17-e7be-427d-992a-090cecf8a3e7.png)\n\nNos manuais que acompanham os televisores é comum encontrar, entre outras, as seguintes\nrecomendações:\n\nI. Nunca abra o gabinete ou toque as peças no interior do televisor.\n\nII. Não coloque seu televisor próximo de aparelhos domésticos com motores elétricos ou\n\nímãs.",
+    "files": [
+        "https://enem.dev/2001/questions/51/e8e95b17-e7be-427d-992a-090cecf8a3e7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Estas recomendações estão associadas, respectivamente, aos aspectos de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "riscos pessoais por alta tensão / perturbação ou deformação de imagem por campos externos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "proteção dos circuitos contra manipulação indevida / perturbação ou deformação de imagem por campos externos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "riscos pessoais por alta tensão / sobrecarga dos circuitos internos por ações externas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "proteção dos circuitos contra a manipulação indevida / sobrecarga da rede por fuga de corrente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "proteção dos circuitos contra manipulação indevida / sobrecarga dos circuitos internos por ação externa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

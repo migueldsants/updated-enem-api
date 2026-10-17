@@ -1,0 +1,45 @@
+{
+    "title": "Questão 79 - ENEM 2010 - Reaplicação",
+    "index": 79,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Vários materiais, quando queimados, podem levar\nà formação de dioxinas, um composto do grupo dos\norganoclorados. Mesmo quando a queima ocorre em\nincineradores, há liberação de substâncias derivadas\nda dioxina no meio ambiente. Tais compostos são\nproduzidos em baixas concentrações, como resíduos da\nqueima de matéria orgânica em presença de produtos\nque contenham cloro. Como consequência de seu\namplo espalhamento no meio ambiente, bem como\nde suas propriedades estruturais, as dioxinas sofrem\nmagnificação trófica na cadeia alimentar. Mais de 90%\nda exposição humana às dioxinas é atribuída aos\nalimentos contaminados ingeridos. A estrutura típica de\numa dioxina está apresentada a seguir:\n\n![](https://enem.dev/2010-reaplicacao/questions/79/0a395a27-a1ed-4b0d-92f3-a0368928975e.png)\n\nA molécula do 2,3,7,8 - TCDD é popularmente conhecida\npelo nome ‘dioxina’, sendo a mais tóxica dos 75 isômeros\nde compostos clorados de dibenzo-p-dioxina existentes.\n\nFADINI, P. S; FADINI, A. A. B. Lixo: desafios e compromissos. Cadernos Temáticos de\nQuímica Nova na Escola, São Paulo, n. 1, maio 2001 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/79/0a395a27-a1ed-4b0d-92f3-a0368928975e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no texto e na estrutura apresentada,\npropriedades químicas das dioxinas que permitem sua\nbioacumulação nos organismos estão relacionadas ao\nseu caráter",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "básico, pois a eliminação de materiais alcalinos é mais lenta do que a dos ácidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ácido, pois a eliminação de materiais ácidos é mais lenta do que a dos alcalinos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "redutor, pois a eliminação de materiais redutores é mais lenta do que a dos oxidantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "lipofílico, pois a eliminação de materiais lipossolúveis é mais lenta do que a dos hidrossolúveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "hidrofílico, pois a eliminação de materiais hidrossolúveis é mais lenta do que a dos lipossolúveis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

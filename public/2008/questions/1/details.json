@@ -1,0 +1,46 @@
+{
+    "title": "Questão 1 - ENEM 2008",
+    "index": 1,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 1 e 2\n\nA Ema\nO surgimento da figura da Ema no céu, ao leste,\nno anoitecer, na segunda quinzena de junho, indica o início\ndo inverno para os índios do sul do Brasil e o começo da\nestação seca para os do norte. É limitada pelas\nconstelações de Escorpião e do Cruzeiro do Sul, ou\nCut'uxu. Segundo o mito guarani, o Cut’uxu segura a\ncabeça da ave para garantir a vida na Terra, porque, se ela\nse soltar, beberá toda a água do nosso planeta. Os tupis-\nguaranis utilizam o Cut'uxu para se orientar e determinar a\nduração das noites e as estações do ano.\n\nA ilustração a seguir é uma representação dos\ncorpos celestes que constituem a constelação da Ema, na\npercepção indígena.\n\n![](https://enem.dev/2008/questions/1/f7cc5ad4-8172-474b-ae82-90d2dfa55983.png)\n\nA próxima figura mostra, em campo de visão\nampliado, como povos de culturas não-indígenas\npercebem o espaço estelar em que a Ema é vista.\n\n![](https://enem.dev/2008/questions/1/bfa64815-22c9-4f0f-9c8a-fb7d8d67751a.png)\n\nInternet: <geocities.yahoo.com.br> (com adaptações).\n\nConsiderando a diversidade cultural focalizada no texto e\nnas figuras acima, avalie as seguintes afirmativas.\n\nI A mitologia guarani relaciona a presença da Ema no\nfirmamento às mudanças das estações do ano.\nII Em culturas indígenas e não-indígenas, o Cruzeiro do\nSul, ou Cut'uxu, funciona como parâmetro de\norientação espacial.\nIII Na mitologia guarani, o Cut'uxu tem a importante\n\nfunção de segurar a Ema para que seja preservada a\nágua da Terra.\nIV As três Marias, estrelas da constelação de Órion,\n\ncompõem a figura da Ema.",
+    "files": [
+        "https://enem.dev/2008/questions/1/f7cc5ad4-8172-474b-ae82-90d2dfa55983.png",
+        "https://enem.dev/2008/questions/1/bfa64815-22c9-4f0f-9c8a-fb7d8d67751a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "I, II e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

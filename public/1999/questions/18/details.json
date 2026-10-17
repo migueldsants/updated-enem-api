@@ -1,0 +1,48 @@
+{
+    "title": "Questão 18 - ENEM 1999",
+    "index": 18,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela abaixo apresenta dados referentes à mortalidade infantil, à porcentagem de famílias de baixa renda com crianças\n\nmenores de 6 anos e às taxas de analfabetismo das diferentes regiões brasileiras e do Brasil como um todo.\n\n![](https://enem.dev/1999/questions/18/a4ecc4fe-56c9-425a-a20d-903070f42c0a.png)\n\n![](https://enem.dev/1999/questions/18/ec5034b6-85b7-44c3-8895-9c886f98e85f.png)\n\n![](https://enem.dev/1999/questions/18/ab76f7e1-687f-4deb-8440-36cb84ae5816.png)\n\n![](https://enem.dev/1999/questions/18/af58d138-4b57-4c40-ae09-54407529b183.png)\n\nFonte: Folha de S. Paulo, 11/03/99\n* A mortalidade infantil indica o número de crianças que morrem antes de completar um ano de idade para cada grupo de\n1.000 crianças que nasceram vivas.\n\nSuponha que um grupo de alunos recebeu a tarefa de pesquisar fatores que interferem na manutenção da saúde ou no\ndesenvolvimento de doenças. O primeiro grupo deveria colher dados que apoiassem a idéia de que combatendo-se agentes\nbiológicos e químicos garante-se a saúde. Já o segundo grupo deveria coletar informações que reforçassem a idéia de que a\nsaúde de um indivíduo está diretamente relacionada à sua condição socioeconômica.",
+    "files": [
+        "https://enem.dev/1999/questions/18/a4ecc4fe-56c9-425a-a20d-903070f42c0a.png",
+        "https://enem.dev/1999/questions/18/ec5034b6-85b7-44c3-8895-9c886f98e85f.png",
+        "https://enem.dev/1999/questions/18/ab76f7e1-687f-4deb-8440-36cb84ae5816.png",
+        "https://enem.dev/1999/questions/18/af58d138-4b57-4c40-ae09-54407529b183.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os dados da tabela podem ser utilizados apropriadamente para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apoiar apenas a argumentação do primeiro grupo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apoiar apenas a argumentação do segundo grupo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "refutar apenas a posição a ser defendida pelo segundo grupo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apoiar a argumentação dos dois grupos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "refutar as posições a serem defendidas pelos dois grupos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

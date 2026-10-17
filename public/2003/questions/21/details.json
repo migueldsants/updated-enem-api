@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2003",
+    "index": 21,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Levando-se em conta os fatores que favorecem a reprodução das bactérias responsáveis pelo botulismo,\nmencionadas no item anterior, conclui-se que as toxinas que o causam têm maior chance de ser encontradas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "em conservas com concentração de 2g de sal em 100 g de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "nas lingüiças fabricadas com nitrito e nitrato de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nos alimentos logo após terem sido fervidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no suco de limão, cujo pH varia de 2,5 a 3,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no charque (carne salgada e seca ao sol).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

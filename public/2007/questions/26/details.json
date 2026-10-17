@@ -1,0 +1,46 @@
+{
+    "title": "Questão 26 - ENEM 2007",
+    "index": 26,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/26/6424fb16-1781-4d7f-909a-d75527ddd7a5.png)\n\nAcontecia o indivíduo apanhar constipação;\nficando perrengue, mandava o próprio chamar o doutor e,\ndepois, ir à botica para aviar a receita, de cápsulas ou\npílulas fedorentas. Doença nefasta era a phtísica, feia era\no gálico. Antigamente, os sobrados tinham assombrações,\nos meninos, lombrigas (...)\n\nCarlos Drummond de Andrade. Poesia completa e prosa.\nRio de Janeiro: Companhia José Aguilar, p. 1.184.\n\nO texto acima está escrito em linguagem de uma época\npassada. Observe uma outra versão, em linguagem atual.\n\n![](https://enem.dev/2007/questions/26/8ce8d532-c724-4138-84fe-266cf7033e13.png)\n\nAcontecia o indivíduo apanhar um resfriado;\nficando mal, mandava o próprio chamar o doutor e, depois,\nir à farmácia para aviar a receita, de cápsulas ou pílulas\nfedorentas. Doença nefasta era a tuberculose, feia era a\nsífilis. Antigamente, os sobrados tinham assombrações, os\nmeninos, vermes (...)",
+    "files": [
+        "https://enem.dev/2007/questions/26/6424fb16-1781-4d7f-909a-d75527ddd7a5.png",
+        "https://enem.dev/2007/questions/26/8ce8d532-c724-4138-84fe-266cf7033e13.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Comparando-se esses dois textos, verifica-se que, na\nsegunda versão, houve mudanças relativas a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vocabulário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "construções sintáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pontuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fonética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "regência verbal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

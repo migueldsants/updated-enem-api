@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2002",
+    "index": 1,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2002/questions/1/0f0e04d2-0dc9-4ecd-a6aa-9097f6e6be1b.png)\n\nMiguilim\n\n“De repente lá vinha um homem a cavalo. Eram dois. Um senhor de fora, o claro de roupa. Miguilim saudou, pedindo a bênção. O\nhomem trouxe o cavalo cá bem junto. Ele era de óculos, corado, alto, com um chapéu diferente, mesmo.\n\n— Deus te abençoe, pequenino. Como é teu nome?\n— Miguilim. Eu sou irmão do Dito.\n— E o seu irmão Dito é o dono daqui?\n— Não, meu senhor. O Ditinho está em glória.\nO homem esbarrava o avanço do cavalo, que era zelado, manteúdo, formoso como nenhum outro. Redizia:\n— Ah, não sabia, não. Deus o tenha em sua guarda... Mas que é que há, Miguilim?\nMiguilim queria ver se o homem estava mesmo sorrindo para ele, por isso é que o encarava.\n— Por que você aperta os olhos assim? Você não é limpo de vista? Vamos até lá. Quem é que está em tua casa?\n— É Mãe, e os meninos...\nEstava Mãe, estava tio Terez, estavam todos. O senhor alto e claro se apeou. O outro, que vinha com ele, era um camarada.\nO senhor perguntava à Mãe muitas coisas do Miguilim. Depois perguntava a ele mesmo: –– ‘Miguilim, espia daí: quantos dedos da\nminha mão você está enxergando? E agora?”\n\nROSA, João Guimarães. Manuelzão e Miguilim. 9ª ed. Rio de Janeiro: Nova Fronteira, 1984.",
+    "files": [
+        "https://enem.dev/2002/questions/1/0f0e04d2-0dc9-4ecd-a6aa-9097f6e6be1b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esta história, com narrador observador em terceira pessoa, apresenta os acontecimentos da perspectiva de Miguilim. O fato de\no ponto de vista do narrador ter Miguilim como referência, inclusive espacial, fica explicitado em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“O homem trouxe o cavalo cá bem junto.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“Ele era de óculos, corado, alto (...)”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“O homem esbarrava o avanço do cavalo, (...)”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Miguilim queria ver se o homem estava mesmo sorrindo para ele, (...)”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Estava Mãe, estava tio Terez, estavam todos”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

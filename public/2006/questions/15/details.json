@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2006",
+    "index": 15,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "No princípio do século XVII, era bem insignificante e\nquase miserável a Vila de São Paulo. João de Laet dava-\nlhe 200 habitantes, entre portugueses e mestiços, em 100\ncasas; a Câmara, em 1606, informava que eram 190 os\nmoradores, dos quais 65 andavam homiziados*.\n\n*homiziados: escondidos da justiça\n\nNelson Werneck Sodré. Formação histórica\ndo Brasil. São Paulo: Brasiliense, 1964.\n\nNa época da invasão holandesa, Olinda era a\ncapital e a cidade mais rica de Pernambuco. Cerca de 10%\nda população, calculada em aproximadamente 2.000\npessoas, dedicavam-se ao comércio, com o qual muita\ngente fazia fortuna. Cronistas da época afirmavam que os\nhabitantes ricos de Olinda viviam no maior luxo.\n\nHildegard Féist. Pequena história do Brasil holandês.\nSão Paulo: Moderna, 1998 (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os textos acima retratam, respectivamente, São Paulo e\nOlinda no início do século XVII, quando Olinda era maior e\nmais rica. São Paulo é, atualmente, a maior metrópole\nbrasileira e uma das maiores do planeta. Essa mudança\ndeveu-se, essencialmente, ao seguinte fator econômico:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "maior desenvolvimento do cultivo da cana-de-açúcar no planalto de Piratininga do que na Zona da Mata Nordestina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atraso no desenvolvimento econômico da região de Olinda e Recife, associado à escravidão, inexistente em São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "avanço da construção naval em São Paulo, favorecido pelo comércio dessa cidade com as Índias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desenvolvimento sucessivo da economia mineradora, cafeicultora e industrial no Sudeste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "destruição do sistema produtivo de algodão em Pernambuco quando da ocupação holandesa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

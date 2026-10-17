@@ -1,0 +1,48 @@
+{
+    "title": "Questão 162 - ENEM 2011 - Reaplicação",
+    "index": 162,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/162/b5bd1c24-7ea4-47c0-9927-0493a7fcb0e4.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/162/f6964757-7762-4d54-a572-8949738b6a44.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/162/2a1bdaff-aaa5-4668-a7ca-d9dd970b7048.png)\n\nAté 19 anos 17 027 14 334 2 693\n20 a 24 anos 86 834 70 907 15 927\n25 a 29 anos 88 463 69 561 18 902\n30 a 34 anos 72 943 56 236 16 707\n35 a 39 anos 63 082 47 675 15 407\n40 a 44 anos 52 003 38 440 13 563\n45 a 49 anos 38 400 28 294 10 106\n50 a 54 anos 23 685 17 398 6 287\n55 a 59 anos 11 219 8 486 2 733\n60 a 64 anos 3 860 3 200 660\n65 a 69 anos 964 803 161\n70 anos e mais 344 274 70\nTOTAL 458 824 355 608 103 216\n\n![](https://enem.dev/2011-reaplicacao/questions/162/11db9d99-061a-40a3-9d36-1cb7843d46bc.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/162/b5bd1c24-7ea4-47c0-9927-0493a7fcb0e4.png",
+        "https://enem.dev/2011-reaplicacao/questions/162/f6964757-7762-4d54-a572-8949738b6a44.png",
+        "https://enem.dev/2011-reaplicacao/questions/162/2a1bdaff-aaa5-4668-a7ca-d9dd970b7048.png",
+        "https://enem.dev/2011-reaplicacao/questions/162/11db9d99-061a-40a3-9d36-1cb7843d46bc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O risco de acidente de trabalho de grupos de estudo é\no resultado da probabilidade experimental calculada a\npartir de dados estatísticos. Assim sendo, considerando\no disposto na tabela, qual o risco aproximado de um\nacidentado ser um homem com idade entre 25 e 29 anos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "18%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "78%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "79%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

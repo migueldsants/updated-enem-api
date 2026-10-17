@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2004",
+    "index": 17,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Antes de uma eleição para prefeito, certo instituto realizou uma pesquisa em que foi consultado um número significativo de\neleitores, dos quais 36% responderam que iriam votar no candidato X; 33%, no candidato Y e 31%, no candidato Z. A margem\nde erro estimada para cada um desses valores é de 3% para mais ou para menos. Os técnicos do instituto concluíram que, se\nconfirmado o resultado da pesquisa,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas o candidato X poderia vencer e, nesse caso, teria 39% do total de votos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas os candidatos X e Y teriam chances de vencer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o candidato Y poderia vencer com uma diferença de até 5% sobre X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o candidato Z poderia vencer com uma diferença de, no máximo, 1% sobre X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o candidato Z poderia vencer com uma diferença de até 5% sobre o candidato Y.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

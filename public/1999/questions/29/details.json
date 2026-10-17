@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 1999",
+    "index": 29,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Se a vaca Y, utilizada como “mãe de aluguel”, for a mãe biológica da vaca W, a porcentagem de genes da “mãe de aluguel”,",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "presente no clone será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "75%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

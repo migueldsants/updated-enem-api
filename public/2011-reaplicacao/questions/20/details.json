@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2011 - Reaplicação",
+    "index": 20,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os principais distúrbios começaram em\nNottingham, em 1811. Uma grande manifestação de\nmalharistas, gritando por trabalho e por um preço\nmais liberal, foi dissolvida pelo exército. Naquela\nnoite, sessenta armações de malha foram destruídas\nna grande vila de Arnold por amotinados que não\ntomaram nenhuma precaução em se disfarçar e foram\naplaudidos pela multidão.\n\nTHOMPSON, E.P. A formação da classe operária inglesa.\nRio de Janeiro: Paz e Terra, 1987 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse texto diz respeito à nova realidade socioeconômica\nda Inglaterra implantada a partir da Revolução Industrial.\nA principal consequência para os trabalhadores nas\nprimeiras décadas do século XIX se manifestou por meio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "de petições enviadas ao Parlamento inglês na",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "defesa de direitos coletivos. do descontentamento pelo aumento de preços dos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alimentos básicos e moradia. da conquista de direitos trabalhistas pela atuação",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "combativa dos sindicatos. da destruição de máquinas que deterioravam as",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "condições de vida e de trabalho. da vitória sobre a burguesia, com a redução da jornada de trabalho para oito horas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

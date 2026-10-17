@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2011 - Reaplicação",
+    "index": 138,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Sr. José compra água do vizinho para irrigar\nsua plantação, situada em um terreno na forma de um\nquadrado de 30 m de lado. Ele paga R$ 100,00 mensais\npela água que consome. A água é levada a seu terreno\natravés de tubos em forma de cilindros de ½ polegada\nde diâmetro.\n\nVisando expandir sua plantação, o Sr. José adquire\num terreno com o mesmo formato que o seu, passando\na possuir um terreno em forma retangular, com 30 m de\ncomprimento e 60 m de largura.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quanto ele deve pagar a seu vizinho por mês, pela água\nque passará a consumir?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 100,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 180,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 200,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R$ 240,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 300,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

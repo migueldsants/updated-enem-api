@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 1999",
+    "index": 12,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "O alumínio se funde a 666ºC e é obtido à custa de energia elétrica, por eletrólise – transformação realizada a partir do óxido\n\nde alumínio a cerca de 1 000ºC.\n\nA produção brasileira de alumínio, no ano de 1985, foi da ordem de 550 000 toneladas, tendo sido consumidos cerca\nde 20kWh de energia elétrica por quilograma do metal. Nesse mesmo ano, estimou-se a produção de resíduos sólidos\nurbanos brasileiros formados por metais ferrosos e não-ferrosos em 3 700 t/dia, das quais 1,5% estima-se corresponder ao\nalumínio.\n\n([Dados adaptados de] FIGUEIREDO, P. J. M. A sociedade do lixo: resíduos, a questão energética e a crise ambiental. Piracicaba:\nUNIMEP, 1994)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que uma residência tenha objetos de alumínio em uso cuja massa total seja de 10kg (panelas, janelas, latas etc.). O\nconsumo de energia elétrica mensal dessa residência é de 100kWh. Sendo assim, na produção desses objetos utilizou-se\numa quantidade de energia elétrica que poderia abastecer essa residência por um período de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 mês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 meses.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 meses.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

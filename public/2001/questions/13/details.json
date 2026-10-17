@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2001",
+    "index": 13,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O setor residencial brasileiro é, depois da indústria, o que mais consome energia elétrica. A\nparticipação do setor residencial no consumo total de energia cresceu de forma bastante\nacelerada nos últimos anos. Esse crescimento pode ser explicado\n\nI. pelo processo de urbanização no país, com a migração da população rural para as\n\ncidades.\nII. pela busca por melhor qualidade de vida, com a maior utilização de sistemas de\n\nrefrigeração, iluminação e aquecimento.\nIII. pela substituição de determinadas fontes de energia - a lenha, por exemplo - pela\n\nenergia elétrica.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Dentre as explicações apresentadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas III é correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas I e II são corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas I e III são corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas II e III são corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III são corretas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

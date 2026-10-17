@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2003",
+    "index": 41,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No Brasil, o sistema de transporte depende do uso de combustíveis fósseis e de biomassa, cuja energia é convertida\nem movimento de veículos. Para esses combustíveis, a transformação de energia química em energia mecânica\nacontece",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na combustão, que gera gases quentes para mover os pistões no motor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "nos eixos, que transferem torque às rodas e impulsionam o veículo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "na ignição, quando a energia elétrica é convertida em trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na exaustão, quando gases quentes são expelidos para trás.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na carburação, com a difusão do combustível no ar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

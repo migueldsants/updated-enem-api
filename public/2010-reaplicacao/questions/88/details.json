@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2010 - Reaplicação",
+    "index": 88,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As estrelas-do-mar comem ostras, o que resulta em efeitos\neconômicos negativos para criadores e pescadores. Por\nisso, ao se depararem com esses predadores em suas\ndragas, costumavam pegar as estrelas-do-mar, parti-\nlas ao meio e atirá-las de novo à água. Mas o resultado\ndisso não era a eliminação das estrelas-do-mar, e sim o\naumento do seu número.\n\nDONAVEL, D. A bela é uma fera. Super Interessante. Disponível em: http://super.abril.com.br.\n\nAcesso em: 30 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A partir do texto e do seu conhecimento a respeito desses\norganismos, a explicação para o aumento da população\nde estrelas-do-mar, baseia-se no fato de elas possuírem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "papilas respiratórias que facilitaram sua reprodução e respiração por mais tempo no ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pés ambulacrários que facilitaram a reprodução e a locomoção do equinodermo pelo ambiente aquático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "espinhos na superfície do corpo que facilitaram sua proteção e reprodução, contribuindo para a sua sobrevivência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "um sistema de canais que contribuíram na distribuição de água pelo seu corpo e ajudaram bastante em sua reprodução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alta capacidade regenerativa e reprodutiva, sendo cada parte seccionada capaz de dar origem a um novo indivíduo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

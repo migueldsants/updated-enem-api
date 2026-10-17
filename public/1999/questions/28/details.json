@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 1999",
+    "index": 28,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A seqüência abaixo indica de maneira simplificada os passos seguidos por um grupo de cientistas para a clonagem de uma\nvaca:\n\nI. Retirou-se um óvulo da vaca Z. O núcleo foi desprezado, obtendo-se um óvulo anucleado.\n\nII. Retirou-se uma célula da glândula mamária da vaca W. O núcleo foi isolado e conservado, desprezando-se o resto da\n\ncélula.\n\nIII. O núcleo da célula da glândula mamária foi introduzido no óvulo anucleado. A célula reconstituída foi estimulada para\n\nentrar em divisão.\n\nIV. Após algumas divisões, o embrião foi implantado no útero de uma terceira vaca Y, mãe de aluguel. O embrião se\n\ndesenvolveu e deu origem ao clone.\n\nConsiderando-se que os animais Z, W e Y não têm parentesco, pode-se afirmar que o animal resultante da clonagem tem as",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "características genéticas da vaca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Z, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "W, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Y, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Z e da W, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Z, W e Y.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 12 - ENEM 2007",
+    "index": 12,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "A queima de cana aumenta a concentração de\ndióxido de carbono e de material particulado na atmosfera,\ncausa alteração do clima e contribui para o aumento de\ndoenças respiratórias. A tabela abaixo apresenta números\nrelativos a pacientes internados em um hospital no período\nda queima da cana.\n\n![](https://enem.dev/2007/questions/12/6d93578b-447d-47d4-94e8-5862cb8fb869.png)",
+    "files": [
+        "https://enem.dev/2007/questions/12/6d93578b-447d-47d4-94e8-5862cb8fb869.png",
+        "https://enem.dev/2007/questions/12/be8750d7-6b52-4287-b844-95d6c8af3067.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Escolhendo-se aleatoriamente um paciente internado\nnesse hospital por problemas respiratórios causados pelas\nqueimadas, a probabilidade de que ele seja uma criança é\nigual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,26, o que sugere a necessidade de implementação de medidas que reforcem a atenção ao idoso internado com problemas respiratórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,50, o que comprova ser de grau médio a gravidade dos problemas respiratórios que atingem a população nas regiões das queimadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,63, o que mostra que nenhum aspecto relativo à saúde infantil pode ser negligenciado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,67, o que indica a necessidade de campanhas de conscientização que objetivem a eliminação das queimadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2007/questions/12/be8750d7-6b52-4287-b844-95d6c8af3067.png",
+            "isCorrect": true
+        }
+    ]
+}

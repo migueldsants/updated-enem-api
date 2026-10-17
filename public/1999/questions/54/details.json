@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 1999",
+    "index": 54,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Apesar da riqueza das florestas tropicais, elas estão geralmente baseadas em solos inférteis e improdutivos. Grande\n\nparte dos nutrientes é armazenada nas folhas que caem sobre o solo, não no solo propriamente dito. Quando esse\nambiente é intensamente modificado pelo ser humano, a vegetação desaparece, o ciclo dos nutrientes é alterado e a\nterra se torna rapidamente infértil.\n\n(CORSON, Walter H. Manual Global de Ecologia,1993)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No texto acima, pode parecer uma contradição a existência de florestas tropicais exuberantes sobre solos pobres. No entanto,\neste fato é explicado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "profundidade do solo, pois, embora pobre, sua espessura garante a disponibilidade de nutrientes para a sustentação dos vegetais da região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "boa iluminação das regiões tropicais, uma vez que a duração regular do dia e da noite garante os ciclos dos nutrientes nas folhas dos vegetais da região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "existência de grande diversidade animal, com número expressivo de populações que, com seus dejetos, fertilizam o solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "capacidade de produção abundante de oxigênio pelas plantas das florestas tropicais, consideradas os “pulmões” do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "rápida reciclagem dos nutrientes, potencializada pelo calor e umidade das florestas tropicais, o que favorece a vida dos decompositores.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

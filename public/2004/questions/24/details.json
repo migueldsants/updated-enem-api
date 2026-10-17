@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2004",
+    "index": 24,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O movimento hip-hop é tão urbano quanto as grandes construções de concreto e as estações de metrô, e cada dia se torna\nmais presente nas grandes metrópoles mundiais. Nasceu na periferia dos bairros pobres de Nova Iorque. É formado por três\nelementos: a música (o rap), as artes plásticas (o grafite) e a dança (o break). No hip-hop os jovens usam as expressões\nartísticas como uma forma de resistência política.\n\n![](https://enem.dev/2004/questions/24/cb8522e8-652d-481b-bf51-ee5d1af8a8e2.png)\n\nEnraizado nas camadas populares urbanas, o hip-hop afirmou-se no Brasil e no mundo com um discurso político a favor dos\nexcluídos, sobretudo dos negros. Apesar de ser um movimento originário das periferias norte-americanas, não encontrou\nbarreiras no Brasil, onde se instalou com certa naturalidade – o que, no entanto, não significa que o hip-hop brasileiro não\ntenha sofrido influências locais. O movimento no Brasil é híbrido: rap com um pouco de samba, break parecido com capoeira\ne grafite de cores muito vivas.\n\n(Adaptado de Ciência e Cultura, 2004)",
+    "files": [
+        "https://enem.dev/2004/questions/24/cb8522e8-652d-481b-bf51-ee5d1af8a8e2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto, o hip-hop é uma manifestação artística tipicamente urbana, que tem como principais características",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ênfase nas artes visuais e a defesa do caráter nacionalista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a alienação política e a preocupação com o conflito de gerações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a afirmação dos socialmente excluídos e a combinação de linguagens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a integração de diferentes classes sociais e a exaltação do progresso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a valorização da natureza e o compromisso com os ideais norte-americanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

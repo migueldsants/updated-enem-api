@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 1998",
+    "index": 15,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Um estudo sobre o problema do desemprego na Grande São Paulo, no período 1985-1996, realizado\npelo SEADE-DIEESE, apresentou o seguinte gráfico sobre taxa de desemprego.\n\nM édia s Anuais d a Taxa de D esem preg o Total\nG rande S ão P aulo\n1985 - 1 996\n\n1 6,0%\n1 4,0%\n1 2,0%\n\n![](https://enem.dev/1998/questions/15/9d67155f-effc-4c59-923d-6cce467fde25.png)\n\n1 0,0%\n8,0%\n6,0%\n\nF o n te: S E P, C o n v ên io S E A D E -D IE ES E .",
+    "files": [
+        "https://enem.dev/1998/questions/15/9d67155f-effc-4c59-923d-6cce467fde25.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pela análise do gráfico, é correto afirmar que, no período considerado,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a maior taxa de desemprego foi de 14%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a taxa de desemprego no ano de 1995 foi a menor do período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a partir de 1992, a taxa de desemprego foi decrescente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no período 1985-1996, a taxa de desemprego esteve entre 8% e 16%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a taxa de desemprego foi crescente no período compreendido entre 1988 e 1991.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

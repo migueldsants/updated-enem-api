@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2010 - Reaplicação",
+    "index": 44,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Alexandria começou a ser construída em 332 a.C., por\nAlexandre, o Grande, e, em poucos anos, tornou-se um\npolo de estudos sobre matemática, filosofia e ciência\ngregas. Meio século mais tarde, Ptolomeu II ergueu uma\nenorme biblioteca e um museu — que funcionou como\ncentro de pesquisa. A biblioteca reuniu entre 200 mil e\n500 mil papiros e, com o museu, transformou a cidade no\nmaior núcleo intelectual da época, especialmente entre\nos anos 290 e 88 a.C. A partir de então, sofreu sucessivos\nataques de romanos, cristãos e árabes, o que resultou na\ndestruição ou perda de quase todo o seu acervo.\n\nRIBEIRO, F. Filósofa e mártir. Aventuras na história.\nSão Paulo: Abril. ed. 81, abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A biblioteca de Alexandria exerceu durante certo tempo\num papel fundamental para a produção do conhecimento\ne memória das civilizações antigas, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eternizou o nome de Alexandre, o Grande, e zelou pelas narrativas dos seus grandes feitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "funcionou como um centro de pesquisa acadêmica e deu origem às universidades modernas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "preservou o legado da cultura grega em diferentes áreas do conhecimento e permitiu sua transmissão a outros povos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "transformou a cidade de Alexandria no centro urbano mais importante da Antiguidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reuniu os principais registros arqueológicos até",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

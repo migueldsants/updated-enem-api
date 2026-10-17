@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2011 - Reaplicação",
+    "index": 25,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em uma das reuniões do GPH (Grupo de Pais de\nHomossexuais) na rua Major Sertório, no centro de São\nPaulo, mais de 80 jovens ocupam uma sala. Sentados em\ncadeiras, sofás ou em almofadas no chão, conversam,\nesclarecem dúvidas e falam sobre as dificuldades e\nprazeres típicos desta fase da vida. No final, participam\nde uma confraternização com lanche e música. O que\nos une nesta tarde de domingo não é política ou religião,\nmas a orientação sexual: eles são LGBT (lésbicas, gays,\nbissexuais, travestis e transexuais) ou querem conhecer\npessoas que sejam, por conta de dúvidas quanto à\nprópria sexualidade.\n\nFUHRMANN, L. Mães e filhos: um grupo em São Paulo ajuda familiares a lidar com a\n\nhomossexualidade de jovens e adolescentes. Carta Capital. Nº 589,\nSão Paulo: Confiança, mar. 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Tendo em conta as formas de incompreensão e\nintolerância que ainda marcam certas visões sobre o\ntema da diversidade sexual, o que embasa a criação\nde movimentos sociais como o GPH e de outros grupos\nLGBT com o mesmo perfil?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A liberalidade frequente dos pais de homossexuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As normas legais que amparam os homossexuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A participação político-partidária dos grupos LGBT.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A necessidade de superar o medo e a discriminação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "As tentativas de atrair os consumidores gays.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

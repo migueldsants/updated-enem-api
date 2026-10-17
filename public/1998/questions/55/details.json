@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 1998",
+    "index": 55,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma disputa por terras, em Mato Grosso do Sul, dois depoimentos são colhidos: o do proprietário\nde uma fazenda e o de um integrante do Movimento dos Trabalhadores Rurais sem Terras:\n\nDepoimento 1\n“A minha propriedade foi conseguida com muito sacrifício pelos meus antepassados. Não admito invasão.\nEssa gente não sabe de nada. Estão sendo manipulados pelos comunistas. Minha resposta será à bala.\nEsse povo tem que saber que a Constituição do Brasil garante a propriedade privada. Além disso, se esse\ngoverno quiser as minhas terras para a Reforma Agrária terá que pagar, em dinheiro, o valor que eu\nquero.” proprietário de uma fazenda no Mato Grosso do Sul.\n\nDepoimento 2\n“Sempre lutei muito. Minha família veio para a cidade porque fui despedido quando as máquinas chegaram\nlá na Usina. Seu moço, acontece que eu sou um homem da terra. Olho pro céu, sei quando é tempo de\nplantar e de colher. Na cidade não fico mais. Eu quero um pedaço de terra, custe o que custar. Hoje eu sei\nque não estou sozinho. Aprendi que a terra tem um valor social. Ela é feita para produzir alimento. O que o\nhomem come vem da terra. O que é duro é ver que aqueles que possuem muita terra e não dependem dela\n\npara sobreviver, pouco se preocupam em produzir nela.” – integrante do Movimento dos Trabalhadores Rurais Sem\n\nTerra (MST), de Corumbá – MS.\n\nA partir da leitura do depoimento 1, os argumentos utilizados para defender a posição do proprietário de\nterras são:\n\nI. A Constituição do país garante o direito à propriedade privada, portanto, invadir terras é crime.\nII. O MST é um movimento político controlado por partidos políticos.\nIII. As terras são o fruto do árduo trabalho das famílias que as possuem.\nIV. Este é um problema político e depende unicamente da decisão da justiça.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Estão corretas as proposições:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I , II e III, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "I, III e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

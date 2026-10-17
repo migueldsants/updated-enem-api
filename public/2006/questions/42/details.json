@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2006",
+    "index": 42,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela a seguir apresenta dados relativos a cinco países.\n\n![](https://enem.dev/2006/questions/42/70826399-b9bf-4847-a424-c1cf86d280d2.png)",
+    "files": [
+        "https://enem.dev/2006/questions/42/70826399-b9bf-4847-a424-c1cf86d280d2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, infere-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a educação tem relação direta com a saúde, visto que é menor a mortalidade de filhos cujas mães possuem maior nível de escolaridade, mesmo em países onde o saneamento básico é precário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o nível de escolaridade das mães tem influência na saúde dos filhos, desde que, no país em que eles residam, o abastecimento de água favoreça, pelo menos, 50% da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a intensificação da educação de jovens e adultos e a ampliação do saneamento básico são medidas suficientes para se reduzir a zero a mortalidade infantil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mais crianças são acometidas pela diarréia no país III do que no país II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a taxa de mortalidade infantil é diretamente proporcional ao nível de escolaridade das mães e independe das condições sanitárias básicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

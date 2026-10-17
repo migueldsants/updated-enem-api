@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2005",
+    "index": 42,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Um pátio de grandes dimensões vai ser revestido por pastilhas quadradas brancas e\npretas, segundo o padrão representado ao lado, que vai ser repetido em toda a\nextensão do pátio.\n\n![](https://enem.dev/2005/questions/42/f433b216-ffa5-43ff-8198-758a53804bec.png)",
+    "files": [
+        "https://enem.dev/2005/questions/42/f433b216-ffa5-43ff-8198-758a53804bec.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As pastilhas de cor branca custam R$ 8,00 por metro quadrado e as de cor preta,\nR$ 10,00. O custo por metro quadrado do revestimento será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 8,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 8,40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 8,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 8,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 9,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

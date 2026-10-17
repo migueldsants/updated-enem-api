@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2001",
+    "index": 10,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A possível escassez de água é uma das maiores preocupações da atualidade, considerada\npor alguns especialistas como o desafio maior do novo século. No entanto, tão importante\nquanto aumentar a oferta é investir na preservação da qualidade e no reaproveitamento da\nágua de que dispomos hoje.\n\nA ação humana tem provocado algumas alterações quantitativas e qualitativas da água:\n\nI. Contaminação de lençóis freáticos.\nII. Diminuição da umidade do solo.\nIII. Enchentes e inundações.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Pode-se afirmar que as principais ações humanas associadas às alterações I, II e III são,\nrespectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uso de fertilizantes e aterros sanitários /lançamento de gases poluentes/canalização de córregos e rios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "lançamento de gases poluentes / lançamento de lixo nas ruas / construção de aterros sanitários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "uso de fertilizantes e aterros sanitários / desmatamento / impermeabilização do solo urbano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "lançamento de lixo nas ruas / uso de fertilizantes / construção de aterros sanitários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "construção de barragens / uso de fertilizantes / construção de aterros sanitários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

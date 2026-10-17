@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2004",
+    "index": 2,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O número de atletas nas Olimpíadas vem aumentando nos últimos anos, como mostra o gráfico. Mais de 10.000 atletas\nparticiparam dos Jogos Olímpicos de Sydney, em 2000.\n\n![](https://enem.dev/2004/questions/2/f13a9cb3-215a-49ed-ad51-d97e415e34cd.png)",
+    "files": [
+        "https://enem.dev/2004/questions/2/f13a9cb3-215a-49ed-ad51-d97e415e34cd.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nas últimas cinco Olimpíadas, esse aumento ocorreu devido ao crescimento da participação de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "homens e mulheres, na mesma proporção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "homens, pois a de mulheres vem diminuindo a cada Olimpíada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "homens, pois a de mulheres praticamente não se alterou.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mulheres, pois a de homens vem diminuindo a cada Olimpíada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mulheres, pois a de homens praticamente não se alterou.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 168 - ENEM 2011 - Reaplicação",
+    "index": 168,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No Brasil, costumamos medir temperaturas utilizando\na escala Celsius. Os países de língua inglesa utilizam\na escala Farenheit. A relação entre essas duas escalas\né dada pela expressão F = C × 1,8 + 32, em que F\nrepresenta a medida da temperatura na escala Farenheit\ne C a medida da temperatura na escala Celsius.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/168/411aea5a-c694-4a77-9d85-5a018f929257.png",
+        "https://enem.dev/2011-reaplicacao/questions/168/453b87f7-3d91-4ae4-a556-3c847c6c886e.png",
+        "https://enem.dev/2011-reaplicacao/questions/168/97bf406c-f3d3-459b-a0ac-b4f1502d40c9.png",
+        "https://enem.dev/2011-reaplicacao/questions/168/dc28cd3c-d753-437a-b1a1-dd62d4cda8bb.png",
+        "https://enem.dev/2011-reaplicacao/questions/168/1eedb507-2e8b-4a5f-b6d8-353fd87b2b1a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gráfico que representa a relação entre essas duas\ngrandezas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/168/411aea5a-c694-4a77-9d85-5a018f929257.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/168/453b87f7-3d91-4ae4-a556-3c847c6c886e.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/168/97bf406c-f3d3-459b-a0ac-b4f1502d40c9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/168/dc28cd3c-d753-437a-b1a1-dd62d4cda8bb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/168/1eedb507-2e8b-4a5f-b6d8-353fd87b2b1a.png",
+            "isCorrect": false
+        }
+    ]
+}

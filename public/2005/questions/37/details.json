@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2005",
+    "index": 37,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "A Embrapa possui uma linhagem de soja transgênica resistente ao herbicida IMAZAPIR. A planta está passando por\ntestes de segurança nutricional e ambiental, processo que exige cerca de três anos. Uma linhagem de soja\ntransgênica requer a produção inicial de 200 plantas resistentes ao herbicida e destas são selecionadas as dez mais\n“estáveis”, com maior capacidade de gerar descendentes também resistentes. Esses descendentes são submetidos a\ndoses de herbicida três vezes superiores às aplicadas nas lavouras convencionais. Em seguida, as cinco melhores\nsão separadas e apenas uma delas é levada a testes de segurança. Os riscos ambientais da soja transgênica são\npequenos, já que ela não tem possibilidade de cruzamento com outras plantas e o perigo de polinização cruzada com\noutro tipo de soja é de apenas 1%.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A soja transgênica, segundo o texto, apresenta baixo risco ambiental porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a resistência ao herbicida não é estável e assim não passa para as plantas-filhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as doses de herbicida aplicadas nas plantas são 3 vezes superiores às usuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a capacidade da linhagem de cruzar com espécies selvagens é inexistente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a linhagem passou por testes nutricionais e após três anos foi aprovada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a linhagem obtida foi testada rigorosamente em relação a sua segurança.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

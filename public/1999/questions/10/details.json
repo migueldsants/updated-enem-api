@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 1999",
+    "index": 10,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Considere os textos abaixo.\n\n(...) de modo particular, quero encorajar os crentes empenhados no campo da filosofia para que iluminem os diversos âmbitos\nda atividade humana, graças ao exercício de uma razão que se torna mais segura e perspicaz com o apoio que recebe da fé.\n\n(Papa João Paulo II. Carta Encíclica Fides et Ratio aos bispos da igreja católica\nsobre as relações entre fé e razão, 1998)\n\nAs verdades da razão natural não contradizem as verdades da fé cristã.\n\n(São Tomás de Aquino-pensador medieval)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Refletindo sobre os textos, pode-se concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a encíclica papal está em contradição com o pensamento de São Tomás de Aquino, refletindo a diferença de épocas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a encíclica papal procura complementar São Tomás de Aquino, pois este colocava a razão natural acima da fé.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a Igreja medieval valorizava a razão mais do que a encíclica de João Paulo II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o pensamento teológico teve sua importância na Idade Média, mas, em nossos dias, não tem relação com o pensamento filosófico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tanto a encíclica papal como a frase de São Tomás de Aquino procuram conciliar os pensamentos sobre fé e razão.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

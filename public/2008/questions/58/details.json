@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2008",
+    "index": 58,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A velha Totonha de quando em vez batia no engenho.\nE era um acontecimento para a meninada... Que talento ela\npossuía para contar as suas histórias, com um jeito admirável\nde falar em nome de todos os personagens, sem nenhum dente\nna boca, e com uma voz que dava todos os tons às palavras!\n\nHavia sempre rei e rainha, nos seus contos, e forca e\nadivinhações. E muito da vida, com as suas maldades e as suas\ngrandezas, a gente encontrava naqueles heróis e naqueles\nintrigantes, que eram sempre castigados com mortes horríveis!\nO que fazia a velha Totonha mais curiosa era a cor local que ela\npunha nos seus descritivos. Quando ela queria pintar um reino\nera como se estivesse falando dum engenho fabuloso. Os rios e\nflorestas por onde andavam os seus personagens se pareciam\nmuito com a Paraíba e a Mata do Rolo. O seu Barba-Azul era\num senhor de engenho de Pernambuco.\n\nJosé Lins do Rego. Menino de Engenho. Rio de Janeiro:\nJosé Olympio, 1980, p. 49-51 (com adaptações).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na construção da personagem “velha Totonha”, é possível\nidentificar traços que revelam marcas do processo de\ncolonização e de civilização do país. Considerando o texto\nacima, infere-se que a velha Totonha",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tira o seu sustento da produção da literatura, apesar de suas condições de vida e de trabalho, que denotam que ela enfrenta situação econômica muito adversa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "compõe, em suas histórias, narrativas épicas e realistas da história do país colonizado, livres da influência de temas e modelos não representativos da realidade nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "retrata, na constituição do espaço dos contos, a civilização urbana européia em concomitância com a representação literária de engenhos, rios e florestas do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aproxima-se, ao incluir elementos fabulosos nos contos, do próprio romancista, o qual pretende retratar a realidade brasileira de forma tão grandiosa quanto a européia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "imprime marcas da realidade local a suas narrativas, que têm como modelo e origem as fontes da literatura e da cultura européia universalizada.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

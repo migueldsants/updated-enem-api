@@ -1,0 +1,49 @@
+{
+    "title": "Questão 46 - ENEM 2003",
+    "index": 46,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [
+        "https://enem.dev/2003/questions/46/189780f4-6b99-4fd5-8f56-94db510e0bed.png",
+        "https://enem.dev/2003/questions/46/ec7889a2-38f5-4a65-866f-fd9255a60a51.png",
+        "https://enem.dev/2003/questions/46/5a459bf4-63c1-4efd-a873-480019309d87.png",
+        "https://enem.dev/2003/questions/46/fbc62571-ee04-4dc6-9b09-ad333dd76042.png",
+        "https://enem.dev/2003/questions/46/a4c3d0d6-a2d9-413d-a6f5-c8ac14630627.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para o registro de processos naturais e sociais devem ser utilizadas diferentes escalas de tempo. Por exemplo, para\na datação do sistema solar é necessária uma escala de bilhões de anos, enquanto que, para a história do Brasil,\nbasta uma escala de centenas de anos.\nAssim, para os estudos relativos ao surgimento da vida no Planeta e para os estudos relativos ao surgimento da\nescrita, seria adequado utilizar, respectivamente, escalas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2003/questions/46/189780f4-6b99-4fd5-8f56-94db510e0bed.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2003/questions/46/ec7889a2-38f5-4a65-866f-fd9255a60a51.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2003/questions/46/5a459bf4-63c1-4efd-a873-480019309d87.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2003/questions/46/fbc62571-ee04-4dc6-9b09-ad333dd76042.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2003/questions/46/a4c3d0d6-a2d9-413d-a6f5-c8ac14630627.png",
+            "isCorrect": true
+        }
+    ]
+}

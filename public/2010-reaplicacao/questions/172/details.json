@@ -1,0 +1,49 @@
+{
+    "title": "Questão 172 - ENEM 2010 - Reaplicação",
+    "index": 172,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica de tubos acondiciona tubos cilíndricos\nmenores dentro de outros tubos cilíndricos. A figura\nmostra uma situação em que quatro tubos cilíndricos estão\nacondicionados perfeitamente em um tubo com raio maior.\n\n![](https://enem.dev/2010-reaplicacao/questions/172/f24ba944-b45c-43e2-8294-71d0740ad1eb.png)\n\nSuponha que você seja o operador da máquina que\nproduzirá os tubos maiores em que serão colocados,\nsem ajustes ou folgas, quatro tubos cilíndricos internos.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/172/f24ba944-b45c-43e2-8294-71d0740ad1eb.png",
+        "https://enem.dev/2010-reaplicacao/questions/172/d0f9a80d-b956-40cd-b333-3aafc2e0eb87.png",
+        "https://enem.dev/2010-reaplicacao/questions/172/d995df36-370b-431a-9875-11238412850c.png",
+        "https://enem.dev/2010-reaplicacao/questions/172/734093c4-672f-4625-a8d9-72aaa96dd1e0.png",
+        "https://enem.dev/2010-reaplicacao/questions/172/ad0bc496-3223-491f-9268-6fa90b0e6a8a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se o raio da base de cada um dos cilindros menores for\nigual a 6 cm, a máquina por você operada deverá ser\najustada para produzir tubos maiores, com raio da base\nigual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/172/d0f9a80d-b956-40cd-b333-3aafc2e0eb87.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/172/d995df36-370b-431a-9875-11238412850c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/172/734093c4-672f-4625-a8d9-72aaa96dd1e0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/172/ad0bc496-3223-491f-9268-6fa90b0e6a8a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "12(1+ )c m .",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

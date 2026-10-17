@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2010 - Reaplicação",
+    "index": 91,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "La cueca chilena\n\nLa cueca es la danza nacional de Chile, la protagonista\nde las celebraciones y festividades criollas. Su origen\nno está claramente definida, ya que investigadores la\nvinculan a culturas como la española, africana, peruana,\nasí como también a la chilena.\n\nLa rutina de esta danza\nencuentra — según algunos\nfolcloristas — una explicación\nzoomórfica por provenir de la\n“clueca”, concepto con el que\n\n![](https://enem.dev/2010-reaplicacao/questions/91-espanhol/4d200ef0-5fb5-420e-95e4-b27b6a6e6b20.png)\n\nse hace referencia a los\nmovimientos que hace una\npolla cuando es requerida\npor el gallo. Es por ello que el\nrol del hombre, en el baile, se\nasemeja a la rueda y al\nentusiasmo que pone el gallo en su conquista amorosa.\nLa mujer, en cambio, sostiene una conducta más\ndefensiva y esquiva.\n\nDisponível em: http://www.chile.com. Acesso em: 27 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/91-espanhol/4d200ef0-5fb5-420e-95e4-b27b6a6e6b20.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Todos os países têm costumes, músicas e danças\ntípicos, que compõem o seu folclore e diferenciam a\nsua cultura. Segundo o texto, na cueca, dança típica do\nChile, o comportamento e os passos do homem e da\nmulher, estão associados",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à postura defensiva da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à origem espanhola da dança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao cortejo entre galo e galinha.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ao entusiasmo do homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao nacionalismo chileno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

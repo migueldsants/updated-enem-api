@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 1998",
+    "index": 53,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Com relação aos efeitos sobre o ecossistema, pode-se afirmar que:\n\nI. as chuvas ácidas poderiam causar a diminuição do pH da água de um lago, o que acarretaria a morte\n\nde algumas espécies, rompendo a cadeia alimentar.\nII. as chuvas ácidas poderiam provocar acidificação do solo, o que prejudicaria o crescimento de certos\n\nvegetais.\nIII. as chuvas ácidas causam danos se apresentarem valor de pH maior que o da água destilada.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dessas afirmativas está(ão) correta(s):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

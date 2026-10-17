@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2010 - Reaplicação",
+    "index": 104,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Por volta do ano de 700 a.C., ocorreu um importante\ninvento na Grécia: o alfabeto. Com isso, tornou-se\npossível o preenchimento da lacuna entre o discurso\noral e o escrito. Esse momento histórico foi preparado\nao longo de aproximadamente três mil anos de evolução\ne da comunicação não alfabética até a sociedade grega\nalcançar o que Havelock chama de um novo estado\nde espírito, “o espírito alfabético”, que originou uma\ntransformação qualitativa da comunicação humana.\nAs tecnologias da informação com base na eletrônica\n(inclusive a imprensa eletrônica) apresentam uma\ncapacidade de armazenamento. Hoje, os textos\neletrônicos permitem flexibilidade e feedback, interação\ne reconfiguração de texto muito maiores e, dessa forma,\ntambém alteram o próprio processo de comunicação.\n\nCASTELLS, M. A. Era da informação: economia, sociedade e cultura. São Paulo:\nPaz e Terra, 1999 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com o advento do alfabeto, ocorreram, ao longo da\nhistória, várias implicações socioculturais. Com a Internet,\nas transformações na comunicação humana resultam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da descoberta da mídia impressa, por meio da produção de livros, revistas, jornais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "do esvaziamento da cultura alfabetizada, que, na era da informação, está centrada no mundo dos sons e das imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da quebra das fronteiras do tempo e do espaço na integração das modalidades escrita, oral e audiovisual.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "da audiência da informação difundida por meio da TV e do rádio, cuja dinâmica favorece o crescimento da eletrônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dapenetrabilidadedainformaçãovisual,predominante na mídia impressa, meio de comunicação de massa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

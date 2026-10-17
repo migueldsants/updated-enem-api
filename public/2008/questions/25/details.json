@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2008",
+    "index": 25,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A energia geotérmica tem sua origem no núcleo\nderretido da Terra, onde as temperaturas atingem\n4.000 ºC. Essa energia é primeiramente produzida pela\ndecomposição de materiais radiativos dentro do planeta.\nEm fontes geotérmicas, a água, aprisionada em um\nreservatório subterrâneo, é aquecida pelas rochas ao redor\ne fica submetida a altas pressões, podendo atingir\ntemperaturas de até 370 ºC sem entrar em ebulição. Ao\nser liberada na superfície, à pressão ambiente, ela se\nvaporiza e se resfria, formando fontes ou gêiseres. O vapor\nde poços geotérmicos é separado da água e é utilizado no\nfuncionamento de turbinas para gerar eletricidade. A água\nquente pode ser utilizada para aquecimento direto ou em\nusinas de dessalinização.\n\nRoger A. Hinrichs e Merlin Kleinbach. Energia e\nmeio ambiente. Ed. ABDR (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Depreende-se das informações acima que as usinas\ngeotérmicas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utilizam a mesma fonte primária de energia que as usinas nucleares, sendo, portanto, semelhantes os riscos decorrentes de ambas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "funcionam com base na conversão de energia potencial gravitacional em energia térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "podem aproveitar a energia química transformada em térmica no processo de dessalinização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "assemelham-se às usinas nucleares no que diz respeito à conversão de energia térmica em cinética e, depois, em elétrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "transformam inicialmente a energia solar em energia cinética e, depois, em energia térmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

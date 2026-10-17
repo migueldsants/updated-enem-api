@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2006",
+    "index": 54,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Não é nova a idéia de se extrair energia dos\noceanos aproveitando-se a diferença das marés alta e\nbaixa. Em 1967, os franceses instalaram a primeira usina\n“maré-motriz”, construindo uma barragem equipada de 24\nturbinas, aproveitando-se a potência máxima instalada de\n240 MW, suficiente para a demanda de uma cidade com\n200 mil habitantes. Aproximadamente 10% da potência\ntotal instalada são demandados pelo consumo residencial.\n\nNessa cidade francesa, aos domingos, quando\nparcela dos setores industrial e comercial pára, a demanda\ndiminui 40%. Assim, a produção de energia\ncorrespondente à demanda aos domingos será atingida\nmantendo-se\n\nI todas as turbinas em funcionamento, com 60% da\n\ncapacidade máxima de produção de cada uma delas.\nII a metade das turbinas funcionando em capacidade\n\nmáxima e o restante, com 20% da capacidade máxima.\nIII quatorze turbinas funcionando em capacidade máxima,\n\numa com 40% da capacidade máxima e as demais\ndesligadas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Está correta a situação descrita",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas em I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas em II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas em I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas em II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

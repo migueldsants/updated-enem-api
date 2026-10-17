@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2002",
+    "index": 14,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2002/questions/14/7f5e6114-dd08-49d8-825f-0c2746c2e740.png)",
+    "files": [
+        "https://enem.dev/2002/questions/14/7f5e6114-dd08-49d8-825f-0c2746c2e740.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na charge, a arrogância do gato com relação ao comportamento alimentar da minhoca, do ponto de vista biológico,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não se justifica, porque ambos, como consumidores, devem “cavar” diariamente o seu próprio alimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "é justificável, visto que o felino possui função superior à da minhoca numa teia alimentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "não se justifica, porque ambos são consumidores primários em uma teia alimentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "é justificável, porque as minhocas, por se alimentarem de detritos, não participam das cadeias alimentares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "é justificável, porque os vertebrados ocupam o topo das teias alimentares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

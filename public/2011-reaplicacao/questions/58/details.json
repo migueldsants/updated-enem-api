@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2011 - Reaplicação",
+    "index": 58,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura seguinte representa, esquematicamente,\num telescópio refletor:\n\n![](https://enem.dev/2011-reaplicacao/questions/58/bdf3600f-5bff-433d-93e7-8040f1437c98.png)\n\nA luz emitida por um astro penetra no telescópio\npelo orifício na posição A, reflete no espelho parabólico\nlocalizado na posição B, é novamente refletida pelo\nespelho C em direção às lentes localizadas na ocular do\ntelescópio (local onde o observador aproxima o olho) na\nposição D. Essa lente forma uma imagem real e maior\ndo objeto observado, um pouco à frente de D. Por isso, o\nobservador não deve encostar seus olhos na lente para\nenxergar essa imagem.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/58/bdf3600f-5bff-433d-93e7-8040f1437c98.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando uma situação em que apenas uma lente é\ncolocada na posição D, qual o tipo de espelho utilizado\ne qual o tipo de lente utilizada nas posições B e D\nrespectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Convexo e bifocal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Convexo e divergente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Côncavo e convergente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Côncavo e divergente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Plano e convergente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

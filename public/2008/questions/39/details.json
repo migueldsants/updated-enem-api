@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2008",
+    "index": 39,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O abolicionista Joaquim Nabuco fez um resumo dos\nfatores que levaram à abolição da escravatura com as\nseguintes palavras: “Cinco ações ou concursos diferentes\ncooperaram para o resultado final: 1.º) o espírito daqueles que\ncriavam a opinião pela idéia, pela palavra, pelo sentimento, e\nque a faziam valer por meio do Parlamento, dos meetings\n[reuniões públicas], da imprensa, do ensino superior, do púlpito,\ndos tribunais; 2.º) a ação coercitiva dos que se propunham a\ndestruir materialmente o formidável aparelho da escravidão,\narrebatando os escravos ao poder dos senhores; 3.º) a ação\ncomplementar dos próprios proprietários, que, à medida que\no movimento se precipitava, iam libertando em massa as suas\n‘fábricas’; 4.º) a ação política dos estadistas, representando as\nconcessões do governo; 5.º) a ação da família imperial.”\n\nJoaquim Nabuco. Minha formação. São Paulo:\nMartin Claret, 2005, p. 144 (com adaptações).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse texto, Joaquim Nabuco afirma que a abolição da\nescravatura foi o resultado de uma luta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "de idéias, associada a ações contra a organização escravista, com o auxílio de proprietários que libertavam seus escravos, de estadistas e da ação da família imperial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "de classes, associada a ações contra a organização escravista, que foi seguida pela ajuda de proprietários que substituíam os escravos por assalariados, o que provocou a adesão de estadistas e, posteriormente, ações republicanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "partidária, associada a ações contra a organização escravista, com o auxílio de proprietários que mudavam seu foco de investimento e da ação da família imperial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "política, associada a ações contra a organização escravista, sabotada por proprietários que buscavam manter o escravismo, por estadistas e pela ação republicana contra a realeza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "religiosa, associada a ações contra a organização escravista, que fora apoiada por proprietários que haviam substituído os seus escravos por imigrantes, o que resultou na adesão de estadistas republicanos na luta contra a realeza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

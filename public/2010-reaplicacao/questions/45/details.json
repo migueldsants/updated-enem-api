@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2010 - Reaplicação",
+    "index": 45,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando Édipo nasceu, seus pais, Laio e Jocasta, os reis\nde Tebas, foram informados de uma profecia na qual o\nfilho mataria o pai e se casaria com a mãe. Para evitá-la,\nordenaram a um criado que matasse o menino. Porém,\npenalizado com a sorte de Édipo, ele o entregou a um\ncasal de camponeses que morava longe de Tebas para\nque o criasse. Édipo soube da profecia quando se tornou\nadulto. Saiu então da casa de seus pais para evitar a\ntragédia. Eis que, perambulando pelos caminhos da\nGrécia, encontrou-se com Laio e seu séquito, que,\ninsolentemente, ordenou que saísse da estrada. Édipo\nreagiu e matou todos os integrantes do grupo, sem saber\nque entre eles estava seu verdadeiro pai. Continuou a\nviagem até chegar a Tebas, dominada por uma Esfinge.\nEle decifrou o enigma da Esfinge, tornou-se rei de Tebas e\ncasou-se com a rainha, Jocasta, a mãe que desconhecia.\n\nDisponível em: http://www.culturabrasil.org. Acesso em: 28 ago. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No mito Édipo Rei, são dignos de destaque os temas do\ndestino e do determinismo. Ambos são características do\nmito grego e abordam a relação entre liberdade humana\ne providência divina. A expressão filosófica que toma\ncomo pressuposta a tese do determinismo é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Nasci para satisfazer a grande necessidade que eu tinha de mim mesmo.” Jean Paul Sartre",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Ter fé é assinar uma folha em branco e deixar que Deus nela escreva o que quiser.” Santo Agostinho",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“Quem não tem medo da vida também não tem medo da morte.” Arthur Schopenhauer",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Não me pergunte quem sou eu e não me diga para permanecer o mesmo.” Michel Foucault",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“O homem, em seu orgulho, criou a Deus a sua imagem e semelhança.” Friedrich Nietzsche",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

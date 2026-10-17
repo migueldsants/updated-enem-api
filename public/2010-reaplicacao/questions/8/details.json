@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2010 - Reaplicação",
+    "index": 8,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "De fato, que alternativa restava aos portugueses, ao\nse verem diante de uma mata virgem e necessitando de\nterra para cultivo, a não ser derrubar a mata e atear-lhe\nfogo? Seria, pois, injusto reprová-los por terem começado\ndessa maneira. Todavia, podemos culpar os seus\ndescendentes, e com razão, por continuarem a queimar\nas florestas quando há agora, no início do século XIX,\ntanta terra limpa e pronta para o cultivo à sua disposição.\n\nSAINT-HILAIRE, A. Viagem às nascentes do rio S. Francisco [1847].\nBelo Horizonte: Itatiaia; São Paulo: EDUSP, 1975 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto, há informações sobre a prática da queimada\nem diferentes períodos da história do Brasil. Segundo a\nanálise apresentada, os portugueses",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evitaram emitir juízo de valor sobre a prática da queimada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "consideraram que a queimada era necessária em certas circunstâncias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "concordaram quanto à queimada ter sido uma prática agrícola insuficiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "entenderam que a queimada era uma prática necessária no início do séc. XIX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "relacionaram a queimada ao descaso dos agricultores da época com a terra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

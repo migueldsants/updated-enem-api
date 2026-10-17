@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2000",
+    "index": 58,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O Brasil, em 1997, com cerca de 160 X 10⁶ habitantes, apresentou um\nconsumo de energia da ordem de 250.000 TEP (tonelada equivalente de\npetróleo), proveniente de diversas fontes primárias.\nO grupo com renda familiar de mais de vinte salários mínimos representa 5% da\npopulação brasileira e utiliza cerca de 10% da energia total consumida no país.\nO grupo com renda familiar de até três salários mínimos representa 50% da\npopulação e consome 30% do total de energia.\nCom base nessas informações, pode-se concluir que o consumo médio de\nenergia para um indivíduo do grupo de renda superior é x vezes maior do que\npara um indivíduo do grupo de renda inferior. O valor aproximado de x é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12,7.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

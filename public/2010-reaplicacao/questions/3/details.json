@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2010 - Reaplicação",
+    "index": 3,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um fenômeno importante que vem ocorrendo nas últimas\nquatro décadas é o baixo crescimento populacional\nna Europa, principalmente em alguns países como\nAlemanha e Áustria, onde houve uma brusca queda na\ntaxa de natalidade. Esse fenômeno é especialmente\npreocupante pelo fato de a maioria desses países já\nter chegado a um índice inferior ao “nível de renovação\nda população”, estimado em 2,1 filhos por mulher. A\ndiminuição da natalidade europeia tem várias causas,\nalgumas de caráter demográfico, outras de caráter\ncultural e socioeconômico.\n\nOLIVEIRA, P. S. Introdução à sociologia. São Paulo: Ática, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As tendências populacionais nesses países estão\nrelacionadas a uma transformação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na estrutura familiar dessas sociedades, impactada por mudanças nos projetos de vida das novas gerações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "no comportamento das mulheres mais jovens, que têm imposto seus planos de maternidade aos homens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no número de casamentos, que cresceu nos últimos anos, reforçando a estrutura familiar tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no fornecimento de pensões de aposentadoria, em queda diante de uma população de maioria jovem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na taxa de mortalidade infantil europeia, em contínua ascensão, decorrente de pandemias na primeira infância.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

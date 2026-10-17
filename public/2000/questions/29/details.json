@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2000",
+    "index": 29,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O texto abaixo foi extraído de uma crônica de Machado de Assis e refere-se ao\ntrabalho de um escravo.\n\n―Um dia começou a guerra do Paraguai e durou cinco anos, João repicava e\ndobrava, dobrava e repicava pelos mortos e pelas vitórias. Quando se\ndecretou o ventre livre dos escravos, João é que repicou. Quando se fez a\nabolição completa, quem repicou foi João. Um dia proclamou-se a\nRepública. João repicou por ela, repicaria pelo Império, se o Império\nretornasse.‖\n\n(MACHADO, Assis de. Crônica sobre a morte do escravo João, 1897)",
+    "files": [
+        "https://enem.dev/2000/questions/29/d954c110-a24d-4637-8059-044960a4c93e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A leitura do texto permite afirmar que o sineiro João:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/29/d954c110-a24d-4637-8059-044960a4c93e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "não poderia tocar os sinos pelo retorno do Império, visto que era escravo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tocou os sinos pela República, proclamada pelos abolicionistas que vieram libertá-lo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tocava os sinos quando ocorriam fatos marcantes porque era costume fazê-lo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "tocou os sinos pelo retorno do Império, comemorando a volta da Princesa Isabel.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

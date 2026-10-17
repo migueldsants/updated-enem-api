@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2010 - Reaplicação",
+    "index": 176,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Certo município brasileiro cobra a conta de água de seus\nhabitantes de acordo com o gráfico. O valor a ser pago\ndepende do consumo mensal em m³.\n\n![](https://enem.dev/2010-reaplicacao/questions/176/733c3047-c75b-42ca-8ed2-ef5404cc99bd.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/176/733c3047-c75b-42ca-8ed2-ef5404cc99bd.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se um morador pagar uma conta de R$ 19,00, isso\nsignifica que ele consumiu",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16 m³ de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "17 m³ de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "18 m³ de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "19 m³ de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20 m³ de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 26 - ENEM 1999",
+    "index": 26,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "No primeiro dia do inverno no Hemisfério Sul, uma\natividade de observação de sombras é realizada por\n\n![](https://enem.dev/1999/questions/26/f2178115-fdd4-47b1-8aed-53ab6c6679fa.png)\n\n![](https://enem.dev/1999/questions/26/cbb35b08-86c4-4bf1-8ca4-809870a21e39.png)\n\nutiliza-se uma vareta de 30 cm fincada no chão na posição\n\n![](https://enem.dev/1999/questions/26/69cb6e2b-fbc1-4d54-bf81-a474d1afec90.png)\n\nNas figuras abaixo, estão representadas as sombras projetadas pelas varetas nas três cidades, no mesmo instante, ao meio-\ndia. A linha pontilhada indica a direção Norte-Sul.\n\nNORTE NORTE NORTE\n\nPorto Alegre Macapá\n\n![](https://enem.dev/1999/questions/26/14ca2443-d5fd-41cd-b601-f54c00eecf1c.png)\n\n![](https://enem.dev/1999/questions/26/94063722-b2d4-4d2b-bf5d-d56611179b54.png)\n\n![](https://enem.dev/1999/questions/26/24709e4e-1549-4e5a-9426-2e56b9067a4a.png)\n\nSUL SUL SUL\n\nLevando-se em conta a localização destas três cidades no mapa, podemos afirmar que os comprimentos das sombras serão",
+    "files": [
+        "https://enem.dev/1999/questions/26/f2178115-fdd4-47b1-8aed-53ab6c6679fa.png",
+        "https://enem.dev/1999/questions/26/cbb35b08-86c4-4bf1-8ca4-809870a21e39.png",
+        "https://enem.dev/1999/questions/26/69cb6e2b-fbc1-4d54-bf81-a474d1afec90.png",
+        "https://enem.dev/1999/questions/26/14ca2443-d5fd-41cd-b601-f54c00eecf1c.png",
+        "https://enem.dev/1999/questions/26/94063722-b2d4-4d2b-bf5d-d56611179b54.png",
+        "https://enem.dev/1999/questions/26/24709e4e-1549-4e5a-9426-2e56b9067a4a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "tanto maiores quanto maior for o afastamento da cidade em relação ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "litoral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Equador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "nível do mar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Trópico de Capricórnio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Meridiano de Greenwich.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

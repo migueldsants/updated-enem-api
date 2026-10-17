@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2011 - Reaplicação",
+    "index": 115,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Uma luz na evolução\n\nDois fósseis descobertos na África do Sul, dotados de\ninusitada combinação de características arcaicas e\nmodernas, podem ser ancestrais diretos do homem\n\nOs últimos quinze dias foram excepcionais para o\nestudo das origens do homem. No fim de março, uma\nfalange fossilizada encontrada na Sibéria revelou uma\nespécie inteiramente nova de hominídeo que existia\nhá 50 000 anos. Na semana passada, cientistas da\nUniversidade de Witwatersrand, na África do Sul,\nanunciaram uma descoberta similar. São duas as\nossadas bastante completas ― a de um menino de\n12 anos e a de uma mulher de 30 ― encontradas na\ncaverna Malapa, a 40 quilômetros de Johannesburgo.\nDevido à abundância de fósseis, a região é conhecida\ncomo Berço da Humanidade.\n\nVeja. Abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Sabe-se que as funções da linguagem são reconhecidas\npor meio de recursos utilizados segundo a produção do\nautor, que, nesse texto, centra seu objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na linguagem utilizada, ao enfatizar a maneira como o texto foi escrito, sua estrutura e organização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "em si mesmo, ao enfocar suas emoções e sentimentos diante das descobertas feitas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no leitor do texto, ao tentar convencê-lo a praticar uma ação, após sua leitura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no canal de comunicação utilizado, ao querer certificar-se do entendimento do leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no conteúdo da mensagem, ao transmitir uma informação ao leitor.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

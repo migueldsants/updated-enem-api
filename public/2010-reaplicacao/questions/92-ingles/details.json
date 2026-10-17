@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2010 - Reaplicação",
+    "index": 92,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "The six-year molars\nThe six-year molars are the first permanent teeth. They\nare the “keystone” of the dental arch. They are also\nextremely susceptible to decay.\nParents have to understand that these teeth are very\nimportant. Over 25% of 6 to 7 year old children have\nbeginning cavities in one of the molars.\nThe early loss of one of these molars causes serious\nproblems in childhood and adult life. It is never easy for\nparents to make kids take care of their teeth. Even so,\nparents have to insist and never give up.\n\nMódulo do Ensino Integrado: Fundamental, Médio, Profissional- DCL.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto aborda uma temática inerente ao processo\nde desenvolvimento do ser humano, a dentição.\nHá informação quantificada na mensagem quando\nse diz que as cáries dos dentes mencionados",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "acontecem em mais de 25% das crianças entre seis e sete anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ocorrem em menos de 25% das crianças entre seis e sete anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "surgem em uma pequena minoria das crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "começam em crianças acima dos 7 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "podem levar dezenas de anos para ocorrer.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2004",
+    "index": 36,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2004/questions/36/29f396af-f745-4ffe-a865-84f578440c5d.png)",
+    "files": [
+        "https://enem.dev/2004/questions/36/29f396af-f745-4ffe-a865-84f578440c5d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a evaporação da água dos oceanos e o deslocamento do vapor e das nuvens compensam as águas dos rios que deságuam no mar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a formação de geleiras com água dos oceanos, nos pólos, contrabalança as águas dos rios que deságuam no mar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as águas dos rios provocam as marés, que as transferem para outras regiões mais rasas, durante a vazante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o volume de água dos rios é insignificante para os oceanos e a água doce diminui de volume ao receber sal marinho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as águas dos rios afundam no mar devido a sua maior densidade, onde são comprimidas pela enorme pressão resultante da coluna de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

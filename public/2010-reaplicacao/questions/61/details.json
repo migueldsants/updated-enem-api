@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2010 - Reaplicação",
+    "index": 61,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Síndrome da Imunodeficiência Adquirida (AIDS) é a\nmanifestação clínica da infecção pelo vírus HIV, que leva,\nem média, oito anos para se manifestar. No Brasil, desde\na identificação do primeiro caso de AIDS em 1980 até\njunho de 2007, já foram identificados cerca de 474 mil\ncasos da doença. O país acumulou, aproximadamente,\n192 mil óbitos devido à AIDS até junho de 2006, sendo\nas taxas de mortalidade crescentes até meados da\ndécada de 1990 e estabilizando-se em cerca de 11 mil\nóbitos anuais desde 1998. [...] A partir do ano 2000, essa\ntaxa se estabilizou em cerca de 6,4 óbitos por 100 mil\nhabitantes, sendo esta estabilização mais evidente em\nSão Paulo e no Distrito Federal.\n\nDisponível em: http://www.aids.gov.br. Acesso em: 01 maio 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A redução nas taxas de mortalidade devido à AIDS a\npartir da década de 1990 é decorrente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do aumento do uso de preservativos nas relações sexuais, que torna o vírus HIV menos letal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da melhoria das condições alimentares dos soropositivos, a qual fortalece o sistema imunológico deles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do desenvolvimento de drogas que permitem diferentes formas de ação contra o vírus HIV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "das melhorias sanitárias implementadas nos últimos 30 anos, principalmente nas grandes capitais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "das campanhas que estimulam a vacinação contra o vírus e a busca pelos serviços de saúde.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

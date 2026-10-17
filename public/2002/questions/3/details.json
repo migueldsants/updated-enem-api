@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2002",
+    "index": 3,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "O excesso de peso pode prejudicar o desempenho de um atleta profissional em corridas de longa distância como a maratona\n(42,2 km), a meia-maratona (21,1 km) ou uma prova de 10 km. Para saber uma aproximação do intervalo de tempo a mais\nperdido para completar uma corrida devido ao excesso de peso, muitos atletas utilizam os dados apresentados na tabela e no\ngráfico:",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Usando essas informações, um atleta de ossatura grande, pesando 63 kg e com altura igual a 1,59m, que tenha corrido uma meia-\nmaratona, pode estimar que, em condições de peso ideal, teria melhorado seu tempo na prova em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,32 minuto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,67 minuto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,60 minuto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,68 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,35 minutos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

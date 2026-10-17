@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 1999",
+    "index": 4,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto permite concluir que a agricultura começou a ser praticada há cerca de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "365 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "460 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "900 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 000 anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "460 000 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

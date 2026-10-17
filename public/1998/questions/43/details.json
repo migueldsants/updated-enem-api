@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 1998",
+    "index": 43,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Depois de estudar as migrações, no Brasil, você lê o seguinte texto:\n\nO Brasil, por suas características de crescimento econômico, e apesar da crise e do retrocesso das\núltimas décadas, é classificado como um país moderno. Tal conceito pode ser, na verdade,\nquestionado se levarmos em conta os indicadores sociais: o grande número de desempregados, o\níndice de analfabetismo, o déficit de moradia, o sucateamento da saúde, enfim, a avalanche de\nbrasileiros envolvidos e tragados num processo de repetidas migrações(...)\n\n(adap.Valin,1996, pág.50 Migrações: da perda de terra à exclusão social.SP. Atuali, 1996).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Analisando os indicadores citados no texto, você pode afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o grande número de desempregados no Brasil está exclusivamente ligado ao grande aumento da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "existe uma “ exclusão social” que é resultado da grande concorrência existente entre a mão-de-obra qualificada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o déficit da moradia está intimamente ligado à falta de espaços nas cidades grandes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os trabalhadores brasileiros não qualificados engrossam as fileiras dos “ excluídos” .",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "por conta do crescimento econômico do país, os trabalhadores pertencem à categoria de mão-de-obra qualificada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2002",
+    "index": 44,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Uma nova preocupação atinge os profissionais que trabalham na\nprevenção da AIDS no Brasil. Tem-se observado um aumento\ncrescente, principalmente entre os jovens, de novos casos de\nAIDS, questionando-se, inclusive, se a prevenção vem sendo ou\nnão relaxada. Essa temática vem sendo abordada pela mídia:\n“Medicamentos já não fazem efeito em 20% dos infectados pelo\nvírus HIV.\nAnálises revelam que um quinto das pessoas recém-infectadas\nnão haviam sido submetidas a nenhum tratamento e, mesmo\nassim, não responderam às duas principais drogas anti-AIDS.\nDos pacientes estudados, 50% apresentavam o vírus FB, uma\ncombinação dos dois subtipos mais prevalentes no país, F e B”.\n\nAdaptado do Jornal do Brasil, 02/10/2001.\n\nDadas as afirmações acima, considerando o enfoque da\nprevenção, e devido ao aumento de casos da doença em\nadolescentes, afirma-se que\n\nI. O sucesso inicial dos coquetéis anti-HIV talvez tenha levado\n\na população a se descuidar e não utilizar medidas de\nproteção, pois se criou a idéia de que estes remédios\nsempre funcionam.\nII. Os vários tipos de vírus estão tão resistentes que não há\n\nnenhum tipo de tratamento eficaz e nem mesmo qualquer\nmedida de prevenção adequada.\nIII. Os vírus estão cada vez mais resistentes e, para evitar sua\n\ndisseminação, os infectados também devem usar\ncamisinhas e não apenas administrar coquetéis.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Está correto o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e III, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

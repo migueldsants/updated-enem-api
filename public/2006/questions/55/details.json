@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2006",
+    "index": 55,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [
+        "https://enem.dev/2006/questions/55/e5076f4a-ea4b-4416-92ed-156c519d4d6d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em certas regiões litorâneas, o sal é obtido da água do\nmar pelo processo de cristalização por evaporação. Para o\ndesenvolvimento dessa atividade, é mais adequado um\nlocal",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "plano, com alta pluviosidade e pouco vento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "plano, com baixa pluviosidade e muito vento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "plano, com baixa pluviosidade e pouco vento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "montanhoso, com alta pluviosidade e muito vento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/55/e5076f4a-ea4b-4416-92ed-156c519d4d6d.png",
+            "isCorrect": false
+        }
+    ]
+}

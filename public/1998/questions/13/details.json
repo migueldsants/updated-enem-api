@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 1998",
+    "index": 13,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "No processo de obtenção de eletricidade, ocorrem várias transformações de energia. Considere duas\ndelas:\n\n![](https://enem.dev/1998/questions/13/1d2af2bd-d49c-4d6c-8ffc-86f340fdc19e.png)",
+    "files": [
+        "https://enem.dev/1998/questions/13/1d2af2bd-d49c-4d6c-8ffc-86f340fdc19e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I- a água no nível h e a turbina, II- o gerador e a torre de distribuição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I- a água no nível h e a turbina, II- a turbina e o gerador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I- a turbina e o gerador, II- a turbina e o gerador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I- a turbina e o gerador, II- a água no nível h e a turbina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "I- o gerador e a torre de distribuição, II- a água no nível h e a turbina.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

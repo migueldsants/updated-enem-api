@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2007",
+    "index": 41,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Devido ao aquecimento global e à conseqüente\ndiminuição da cobertura de gelo no Ártico, aumenta a\ndistância que os ursos polares precisam nadar para\nencontrar alimentos. Apesar de exímios nadadores, eles\nacabam morrendo afogados devido ao cansaço.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A situação descrita acima",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "enfoca o problema da interrupção da cadeia alimentar, o qual decorre das variações climáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alerta para prejuízos que o aquecimento global pode acarretar à biodiversidade no Ártico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ressalta que o aumento da temperatura decorrente de mudanças climáticas permite o surgimento de novas espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mostra a importância das características das zonas frias para a manutenção de outros biomas na Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evidencia a autonomia dos seres vivos em relação ao habitat, visto que eles se adaptam rapidamente às mudanças nas condições climáticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

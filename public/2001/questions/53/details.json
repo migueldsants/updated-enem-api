@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2001",
+    "index": 53,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em um colégio, 40% da arrecadação das mensalidades correspondem ao pagamento dos\nsalários dos seus professores. A metade dos alunos desse colégio é de estudantes carentes,\nque pagam mensalidades reduzidas. O diretor propôs um aumento de 5% nas mensalidades\nde todos os alunos para cobrir os gastos gerados por reajuste de 5% na folha de pagamento\ndos professores.\nA associação de pais e mestres concorda com o aumento nas mensalidades mas não com o\níndice proposto.\nPode-se afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o diretor fez um cálculo incorreto e o reajuste proposto nas mensalidades não é suficiente para cobrir os gastos adicionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o diretor fez os cálculos corretamente e o reajuste nas mensalidades que ele propõe cobrirá exatamente os gastos adicionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a associação está correta em não concordar com o índice proposto pelo diretor, pois a arrecadação adicional baseada nesse índice superaria em muito os gastos adicionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a associação, ao recusar o índice de reajuste proposto pelo diretor, não levou em conta o fato de alunos carentes pagarem mensalidades reduzidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o diretor deveria ter proposto um reajuste maior nas mensalidades, baseado no fato de que a metade dos alunos paga mensalidades reduzidas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

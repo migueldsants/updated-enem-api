@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2010 - Reaplicação",
+    "index": 21,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ó sublime pergaminho\nLibertação geral\nA princesa chorou ao receber\nA rosa de ouro papal\nUma chuva de flores cobriu o salão\nE o negro jornalista\nDe joelhos beijou a sua mão\nUma voz na varanda do paço ecoou:\n“Meu Deus, meu Deus\nEstá extinta a escravidão”\n\nMELODIA, Z.; RUSSO, N.; MADRUGADA, C. Sublime Pergaminho. Disponível em http://\nwww. letras.terra.com.br. Acesso em: 28 abr. 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O samba-enredo de 1968 reflete e reforça\nconcepção acerca do fim da escravidão ainda viva em\nnossa memória, mas que não encontra respaldo nos\nestudos históricos mais recentes. Nessa concepção\nultrapassada, a abolição é apresentada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conquista dos trabalhadores urbanos livres, que demandavam a redução da jornada de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "concessão do governo, que ofereceu benefícios aos negros, sem consideração pelas lutas de escravos e abolicionistas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ruptura na estrutura socioeconômica do país, sendo responsável pela otimização da inclusão social dos libertos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fruto de um pacto social, uma vez que agradaria os agentes históricos envolvidos na questão: fazendeiros, governo e escravos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "forma de inclusão social, uma vez que a abolição possibilitaria a concretização de direitos civis e sociais para os negros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

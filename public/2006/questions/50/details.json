@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2006",
+    "index": 50,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O funcionamento de uma usina nucleoelétrica típica\nbaseia-se na liberação de energia resultante da divisão do\nnúcleo de urânio em núcleos de menor massa, processo\nconhecido como fissão nuclear. Nesse processo, utiliza-se\numa mistura de diferentes átomos de urânio, de forma a\nproporcionar uma concentração de apenas 4% de material\nfíssil. Em bombas atômicas, são utilizadas concentrações\nacima de 20% de urânio físsil, cuja obtenção é trabalhosa,\npois, na natureza, predomina o urânio não-físsil.\nEm grande parte do armamento nuclear hoje existente,\nutiliza-se, então, como alternativa, o plutônio, material físsil\nproduzido por reações nucleares no interior do reator das\nusinas nucleoelétricas. Considerando-se essas informa-\nções, é correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a disponibilidade do urânio na natureza está ameaçada devido à sua utilização em armas nucleares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a proibição de se instalarem novas usinas nucleoelétricas não causará impacto na oferta mundial de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a existência de usinas nucleoelétricas possibilita que um de seus subprodutos seja utilizado como material bélico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a obtenção de grandes concentrações de urânio físsil é viabilizada em usinas nucleoelétricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a baixa concentração de urânio físsil em usinas nucleoelétricas impossibilita o desenvolvimento energético.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

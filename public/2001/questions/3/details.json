@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2001",
+    "index": 3,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Numa rodovia pavimentada, ocorreu o tombamento de um caminhão que transportava ácido\nsulfúrico concentrado. Parte da sua carga fluiu para um curso d'água não poluído que deve\nter sofrido, como conseqüência,\n\nI. mortandade de peixes acima da normal no local do derrame de ácido e em suas\n\nproximidades.\nII. variação do pH em função da distância e da direção da corrente de água.\nIII. danos permanentes na qualidade de suas águas.\nIV. aumento momentâneo da temperatura da água no local do derrame.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "É correto afirmar que, dessas conseqüências, apenas podem ocorrer",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, II e IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

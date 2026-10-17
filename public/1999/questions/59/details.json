@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 1999",
+    "index": 59,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A deterioração de um alimento é resultado de transformações químicas que decorrem, na maioria dos casos, da interação do\n\nalimento com microrganismos ou, ainda, da interação com o oxigênio do ar, como é o caso da rancificação de gorduras. Para\nconservar por mais tempo um alimento deve-se, portanto, procurar impedir ou retardar ao máximo a ocorrência dessas\ntransformações.\n\nOs processos comumente utilizados para conservar alimentos levam em conta os seguintes fatores:\n\nI. microrganismos dependem da água líquida para sua sobrevivência.\nII. microrganismos necessitam de temperaturas adequadas para crescerem e se multiplicarem. A multiplicação de\n\nmicrorganismos, em geral, é mais rápida entre 25ºC e 45ºC, aproximadamente.\n\nIII. transformações químicas têm maior rapidez quanto maior for a temperatura e a superfície de contato das substâncias que\n\ninteragem.\n\nIV. há substâncias que acrescentadas ao alimento dificultam a sobrevivência ou a multiplicação de microrganismos.\nV. no ar há microrganismos que encontrando alimento, água líquida e temperaturas adequadas crescem e se multiplicam.\n\nEm uma embalagem de leite “longa-vida”, lê-se :\n\n“Após aberto é preciso guardá-lo em geladeira”",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Caso uma pessoa não siga tal instrução, principalmente no verão tropical, o leite se deteriorará rapidamente, devido a razões\nrelacionadas com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o fator I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o fator II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os fatores II ,III e V , apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "os fatores I,II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os fatores I, II ,III , IV e V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

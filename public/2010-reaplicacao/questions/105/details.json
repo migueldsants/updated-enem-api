@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2010 - Reaplicação",
+    "index": 105,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "CURRÍCULO\n\nIdentificação Pessoal\n[Nome Completo]\nBrasileiro, [Estado Civil], [Idade] anos\n[Endereço – Rua/Av. + Número + Complemento]\n[Bairro] – [Cidade] – [Estado]\nTelefone: [Telefone com DDD] / E-mail: [E-mail]\n\nObjetivo\n[Cargo pretendido]\n\nFormação\n\nExperiência Profissional\n[Período] – Empresa\nCargo:\nPrincipais atividades:\n\nQualificação Profissional\n[Descrição] ([Local], conclusão em [Ano de Conclusão\ndo Curso ou Atividade]).\n\nInformações Adicionais\n[Descrição Informação Adicional]",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A busca por emprego faz parte da vida de jovens e\nadultos. Para tanto, é necessário estruturar o currículo\nadequadamente. Em que parte da estrutura do currículo\ndeve ser inserido o fato de você ter sido premiado com o título\nde “Aluno Destaque do Ensino Médio – Menção Honrosa”?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Identificação pessoal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Formação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Experiência Profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Informações Adicionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Qualificação Profissional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

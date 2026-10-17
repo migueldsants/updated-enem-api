@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2007",
+    "index": 21,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Em 4 de julho de 1776, as treze colônias que vieram\ninicialmente a constituir os Estados Unidos da América (EUA)\ndeclaravam sua independência e justificavam a ruptura do Pacto\nColonial. Em palavras profundamente subversivas para a época,\nafirmavam a igualdade dos homens e apregoavam como seus\ndireitos inalienáveis: o direito à vida, à liberdade e à busca da\nfelicidade. Afirmavam que o poder dos governantes, aos quais cabia\na defesa daqueles direitos, derivava dos governados.\n\nEsses conceitos revolucionários que ecoavam o Iluminismo\nforam retomados com maior vigor e amplitude treze anos mais\ntarde, em 1789, na França.\n\nEmília Viotti da Costa. Apresentação da coleção.In: Wladimir Pomar.\nRevolução Chinesa. São Paulo: UNESP, 2003 (com adaptações).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o texto acima, acerca da independência dos EUA e\nda Revolução Francesa, assinale a opção correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A independência dos EUA e a Revolução Francesa integravam o mesmo contexto histórico, mas se baseavam em princípios e ideais opostos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O processo revolucionário francês identificou-se com o movimento de independência norte-americana no apoio ao absolutismo esclarecido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tanto nos EUA quanto na França, as teses iluministas sustentavam a luta pelo reconhecimento dos direitos considerados essenciais à dignidade humana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Por ter sido pioneira, a Revolução Francesa exerceu forte influência no desencadeamento da independência norte- americana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao romper o Pacto Colonial, a Revolução Francesa abriu o caminho para as independências das colônias ibéricas situadas na América.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

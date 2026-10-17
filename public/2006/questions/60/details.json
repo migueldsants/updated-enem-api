@@ -1,0 +1,46 @@
+{
+    "title": "Questão 60 - ENEM 2006",
+    "index": 60,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "—PÁ\n\nEclusa é um canal que, construído em águas de um rio com\ngrande desnível, possibilita a navegabilidade, subida ou\ndescida de embarcações. No esquema abaixo, está\nrepresentada a descida de uma embarcação, pela eclusa do\nporto Primavera, do nível mais alto do rio Paraná até o nível da\njusante.\n\nA\n\n![](https://enem.dev/2006/questions/60/9a8e0d19-8c13-477b-92a2-e783a131f821.png)",
+    "files": [
+        "https://enem.dev/2006/questions/60/9a8e0d19-8c13-477b-92a2-e783a131f821.png",
+        "https://enem.dev/2006/questions/60/ef5e39bb-7f62-42cf-919d-fb9d56be9e28.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A câmara dessa eclusa tem comprimento aproximado de\n200 m e largura igual a 17 m. A vazão aproximada da água\ndurante o esvaziamento da câmara é de 4.200 m³ por minuto.\nAssim, para descer do nível mais alto até o nível da jusante,\numa embarcação leva cerca de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16 minutos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/60/ef5e39bb-7f62-42cf-919d-fb9d56be9e28.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 28 - ENEM 2007",
+    "index": 28,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Textos para as questões 27 e 28\n\n![](https://enem.dev/2007/questions/28/e30f6c25-db17-46fc-9f52-908d16c67bd0.png)\n\nAqui na floresta Valente na guerra,\nDos ventos batida, Quem há, como eu sou?\nFaçanhas de bravos Quem vibra o tacape\nNão geram escravos, Com mais valentia?\nQue estimem a vida Quem golpes daria\nSem guerra e lidar. Fatais, como eu dou?\n— Ouvi-me, Guerreiros, — Guerreiros, ouvi-me;\n— Ouvi meu cantar. — Quem há, como eu sou?\n\nGonçalves Dias.\n\n![](https://enem.dev/2007/questions/28/9e499020-926a-4a86-b69b-72a9cd4be8e1.png)\n\nMário de Andrade.",
+    "files": [
+        "https://enem.dev/2007/questions/28/e30f6c25-db17-46fc-9f52-908d16c67bd0.png",
+        "https://enem.dev/2007/questions/28/9e499020-926a-4a86-b69b-72a9cd4be8e1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se a linguagem desses dois textos,\nverifica-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a função da linguagem centrada no receptor está ausente tanto no primeiro quanto no segundo texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a linguagem utilizada no primeiro texto é coloquial, enquanto, no segundo, predomina a linguagem formal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "há, em cada um dos textos, a utilização de pelo menos uma palavra de origem indígena.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a função da linguagem, no primeiro texto, centra-se na forma de organização da linguagem e, no segundo, no relato de informações reais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a função da linguagem centrada na primeira pessoa, predominante no segundo texto, está ausente no primeiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

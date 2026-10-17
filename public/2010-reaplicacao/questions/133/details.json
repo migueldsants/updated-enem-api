@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2010 - Reaplicação",
+    "index": 133,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "São 68 milhões num universo de 190 milhões de\nbrasileiros conectados às redes virtuais. O e-mail ainda\né uma ferramenta imprescindível de comunicação, mas\njá começa a dar espaço para ferramentas mais ágeis de\ninteração, como MSN, Orkut, Facebook, Twitter e blogs.\nA campanha dos principais pré-candidatos à Presidência\nda República, por exemplo, não chegou às ruas, mas já\nse firma na rede.\n\nO marco regulatório da Internet no Brasil é discutido pela\nsociedade civil e parlamentares no Congresso Nacional,\nnuma queda de braço pela garantia de um controle do\nque alguns consideram “uma terra sem lei”.\n\nPor abrir um canal, apresentar instrumentos e diversificar\nas ferramentas de interação na troca de informações, a\nInternet levanta preocupações em relação aos crimes\ncibernéticos, como roubos de senha e pedofilia.\n\nF. JÚNIOR, H. Internet cresce no país e preocupa. Jornal Hoje em Dia. Brasília, 25 abr.\n2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao tratar do controle à Internet, o autor usou a expressão\n“uma terra sem lei” para indicar opinião sobre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a falta de uma legislação que discipline o uso da Internet e a forma de punição dos infratores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a liberdade que cada político tem de poder atingir um número expressivo de eleitores via Internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o constante crescimento do número de pessoas que possuem acesso à Internet no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o ponto de vista de parlamentares e da sociedade civil que defendem um controle na Internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os possíveis prejuízos que a Internet traz, apesar dos benefícios proporcionados pelas redes sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

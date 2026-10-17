@@ -1,0 +1,46 @@
+{
+    "title": "Questão 60 - ENEM 2000",
+    "index": 60,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Um determinado município, representado na planta abaixo, dividido em regiões\nde A a I, com altitudes de terrenos indicadas por curvas de nível, precisa decidir\npela localização das seguintes obras:\n\n1. instalação de um parque industrial.\n2. instalação de uma torre de transmissão e recepção.\n\n![](https://enem.dev/2000/questions/60/b4e83118-45f6-4887-a93b-ba14b36a7329.png)",
+    "files": [
+        "https://enem.dev/2000/questions/60/b4e83118-45f6-4887-a93b-ba14b36a7329.png",
+        "https://enem.dev/2000/questions/60/b90dd4ee-e950-4fb6-985b-281965b89755.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando impacto ambiental e adequação, as regiões onde deveriam ser,\nde preferência, instaladas indústrias e torre, são, respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "E e G.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "H e A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e E.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "B e I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/60/b90dd4ee-e950-4fb6-985b-281965b89755.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2010 - Reaplicação",
+    "index": 30,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A solução militar da crise política gerada pela sucessão\ndo presidente Washington Luis em 1929-1930 provoca\nprofunda ruptura institucional no país. Deposto o presidente,\no Governo Provisório (1930-1934) precisa administrar\nas diferenças entre as correntes políticas integrantes da\ncomposição vitoriosa, herdeira da Aliança Liberal.\n\nLEMOS, R. A revolução constitucionalista de 1932. SILVA, R. M.; CACHAPUZ, P. B.;\nLAMARÃO, S. (Org). Getúlio Vargas e seu tempo. Rio de Janeiro: BNDES.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No contexto histórico da crise da Primeira República,\nverifica-se uma divisão no movimento tenentista. A\natuação dos integrantes do movimento liderados por\nJuarez Távora, os chamados “liberais” nos anos 1930,\ndeve ser entendida como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a aliança com os cafeicultores paulistas em defesa de novas eleições.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o retorno aos quartéis diante da desilusão política com a “Revolução de 30”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o compromisso político-institucional com o governo provisório de Vargas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a adesão ao socialismo, reforçada pelo exemplo do ex-tenente Luís Carlos Prestes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o apoio ao governo provisório em defesa da descentralização do poder político.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

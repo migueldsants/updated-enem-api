@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 1999",
+    "index": 9,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Suponha que um agricultor esteja interessado em fazer uma plantação de girassóis. Procurando informação, leu a seguinte\n\nreportagem:\n\nSolo ácido não favorece plantio\nAlguns cuidados devem ser tomados por quem decide iniciar o cultivo do girassol. A oleaginosa deve ser plantada em solos\ndescompactados, com pH acima de 5,2 (que indica menor acidez da terra). Conforme as recomendações da Embrapa, o\nagricultor deve colocar, por hectare, 40 kg a 60 kg de nitrogênio, 40 kg a 80 kg de potássio e 40 kg a 80 kg de fósforo.\nO pH do solo, na região do agricultor, é de 4,8. Dessa forma, o agricultor deverá fazer a “calagem”.\n\n(Folha de S. Paulo, 25/09/1996)\n\nSuponha que o agricultor vá fazer calagem (aumento do pH do solo por adição de cal virgem – CaO). De maneira simplificada,\na diminuição da acidez se dá pela interação da cal (CaO) com a água presente no solo, gerando hidróxido de cálcio\n(Ca(OH)₂), que reage com os ions H⁺ (dos ácidos), ocorrendo, então, a formação de água e deixando ions Ca²⁺ no solo.\nConsidere as seguintes equações:",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "I. CaO + 2H₂O → Ca(OH)₃\nII. CaO + H₂O → Ca(OH)₂\nIII. Ca(OH)₂ + 2H⁺ → Ca²⁺ + 2H₂O\nIV. Ca(OH)₂ + H⁺ → CaO + H₂O\nO processo de calagem descrito acima pode ser representado pelas equações:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e IV",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

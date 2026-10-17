@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2010 - Reaplicação",
+    "index": 34,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No século XX, o transporte rodoviário e a aviação civil\naceleraram o intercâmbio de pessoas e mercadorias,\nfazendo com que as distâncias e a percepção subjetiva das\nmesmas se reduzissem constantemente. É possível apontar\numa tendência de universalização em vários campos, por\nexemplo, na globalização da economia, no armamentismo\nnuclear, na manipulação genética, entre outros.\n\nHABERMAS, J. A constelação pós-nacional: ensaios políticos. São Paulo:\nLittera Mundi, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os impactos e efeitos dessa universalização, conforme\ndescritos no texto, podem ser analisados do ponto de\nvista moral, o que leva à defesa da criação de normas\nuniversais que estejam de acordo com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os valores culturais praticados pelos diferentes povos em suas tradições e costumes locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os pactos assinados pelos grandes líderes políticos, os quais dispõem de condições para tomar decisões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os sentimentos de respeito e fé no cumprimento de valores religiosos relativos à justiça divina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os sistemas políticos e seus processos consensuais e democráticos de formação de normas gerais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "os imperativos técnico-científicos, que determinam com exatidão o grau de justiça das normas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

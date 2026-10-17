@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2010 - Reaplicação",
+    "index": 127,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Saúde\n\nAfinal, abrindo um jornal, lendo uma revista ou assistindo\nà TV, insistentes são os apelos feitos em prol da atividade\nfísica. A mídia não descansa; quer vender roupas\nesportivas, propagandas de academias, tênis, aparelhos\nde ginástica e musculação, vitaminas, dietas... uma\nrelação infindável de materiais, equipamentos e produtos\nalimentares que, por trás de toda essa “parafernália”,\nimpõe um discurso do convencimento e do desejo de\num corpo belo, saudável e, em sua grande maioria, de\nmelhor saúde.\n\nRODRIGUES,L. H.; GALVÃO, Z. Educação Física na escola: implicações para a prática\npedagógica. Rio de Janeiro: Guanabara Koogan, 2008.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em razão da influência da mídia no comportamento das\npessoas, no que diz respeito ao padrão de corpo exigido,\npodem ocorrer mudanças de hábitos corporais. A esse\nrespeito, infere-se do texto que é necessário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reconhecer o que é indicado pela mídia como referência para alcançar o objetivo de ter um corpo belo e saudável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorizar o discurso da mídia, entendendo-o como incentivo à prática da atividade física, para o culto do corpo perfeito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diferenciar as práticas corporais veiculadas pela mídia daquelas praticadas no dia a dia, considerando a saúde e a integridade corporal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "atender aos apelos midiáticos em prol da prática exacerbada de exercícios físicos, como garantia de beleza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "identificar os materiais, equipamentos e produtos alimentares como o caminho para atingir o padrão de corpo idealizado pela mídia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

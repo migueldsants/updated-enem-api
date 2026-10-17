@@ -1,0 +1,46 @@
+{
+    "title": "Questão 159 - ENEM 2010 - Reaplicação",
+    "index": 159,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O administrador de uma cidade, implantando uma política\nde reutilização de materiais descartados, aproveitou\nmilhares de tambores cilíndricos dispensados por\nempresas da região e montou kits com seis tambores\npara o abastecimento de água em casas de famílias\nde baixa renda, conforme a figura seguinte. Além\n\n![](https://enem.dev/2010-reaplicacao/questions/159/384912a4-b465-44e1-9edf-877f1c8dcc96.png)\n\nUma família que utilizar 12 vezes a capacidade total do\nkit em um mês pagará a quantia de\n\n![](https://enem.dev/2010-reaplicacao/questions/159/4ab4ad15-4a03-4119-874c-0acaf722af32.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/159/384912a4-b465-44e1-9edf-877f1c8dcc96.png",
+        "https://enem.dev/2010-reaplicacao/questions/159/4ab4ad15-4a03-4119-874c-0acaf722af32.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 86,40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 21,60.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 8,64.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 7,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 1,80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

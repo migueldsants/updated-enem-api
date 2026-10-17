@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 1998",
+    "index": 30,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Com relação ao funcionamento de uma bicicleta de marchas, onde cada marcha é uma combinação de\numa das coroas dianteiras com uma das coroas traseiras, são formuladas as seguintes afirmativas:\n\nI. numa bicicleta que tenha duas coroas dianteiras e cinco traseiras, temos um total de dez marchas\n\npossíveis onde cada marcha representa a associação de uma das coroas dianteiras com uma das\ntraseiras.\nII. em alta velocidade, convém acionar a coroa dianteira de maior raio com a coroa traseira de maior raio\n\ntambém.\nIII. em uma subida íngreme, convém acionar a coroa dianteira de menor raio e a coroa traseira de maior\n\nraio.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre as afirmações acima, estão corretas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e III apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e II apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

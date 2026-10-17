@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2001",
+    "index": 39,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Os dados da tabela mostram uma tendência de diminuição, no Brasil, do número de filhos\npor mulher.\n\n![](https://enem.dev/2001/questions/39/6c783497-eb7a-4a10-b7ad-b6b9099ccea4.png)",
+    "files": [
+        "https://enem.dev/2001/questions/39/6c783497-eb7a-4a10-b7ad-b6b9099ccea4.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Dentre as alternativas, a que melhor explica essa tendência é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Eficiência da política demográfica oficial por meio de campanhas publicitárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Introdução de legislações específicas que desestimulam casamentos precoces.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mudança na legislação que normatiza as relações de trabalho, suspendendo incentivos para trabalhadoras com mais de dois filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumento significativo de esterilidade decorrente de fatores ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior esclarecimento da população e maior participação feminina no mercado de trabalho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

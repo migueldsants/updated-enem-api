@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2002",
+    "index": 5,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "O Protocolo de Kyoto — uma convenção das Nações Unidas que\né marco sobre mudanças climáticas, — estabelece que os países\nmais industrializados devem reduzir até 2012 a emissão dos\ngases causadores do efeito estufa em pelo menos 5% em\nrelação aos níveis de 1990. Essa meta estabelece valores\nsuperiores ao exigido para países em desenvolvimento. Até\n2001, mais de 120 países, incluindo nações industrializadas da\nEuropa e da Ásia, já haviam ratificado o protocolo. No entanto,\nnos EUA, o presidente George W. Bush anunciou que o país não\nratificaria “Kyoto”, com os argumentos de que os custos\nprejudicariam a economia americana e que o acordo era pouco\nrigoroso com os países em desenvolvimento.\n\nAdaptado do Jornal do Brasil, 11/04/2001\n\nNa tabela encontram-se dados sobre a emissão de CO₂\n\n![](https://enem.dev/2002/questions/5/3fbc3bdc-7d93-4b98-b6ad-913dbcaef34d.png)",
+    "files": [
+        "https://enem.dev/2002/questions/5/3fbc3bdc-7d93-4b98-b6ad-913dbcaef34d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando os dados da tabela, assinale a alternativa que\nrepresenta um argumento que se contrapõe à justificativa dos\nEUA de que o acordo de Kyoto foi pouco rigoroso com países em\ndesenvolvimento.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A emissão acumulada da União Européia está próxima à dos EUA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nos países em desenvolvimento as emissões são equivalentes às dos EUA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A emissão per capita da Rússia assemelha-se à da União Européia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As emissões de CO₂ nos países em desenvolvimento citados são muito baixas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A África do Sul apresenta uma emissão anual per capita relativamente alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

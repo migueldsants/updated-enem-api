@@ -1,0 +1,46 @@
+{
+    "title": "Questão 48 - ENEM 2008",
+    "index": 48,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Figura para as questões 48 e 49\n\nA figura abaixo apresenta dados percentuais que\nintegram os Indicadores Básicos para a Saúde, relativos às\nprincipais causas de mortalidade de pessoas do sexo\nmasculino.\n\nMortalidade proporcional em relação às principais causas (%),\n\n![](https://enem.dev/2008/questions/48/ed4b68ae-ed67-4e11-a4e2-9e3ff675fa39.png)\n\n![](https://enem.dev/2008/questions/48/3cbd2c89-bfb2-4e36-a0ea-ac2a6737fe94.png)\n\nFonte: Ministério da Saúde/SUS.\n\nCausas externas\nDoenças do aparelho\nM1 agressões\ncirculatório\nM2 acidentes de trânsito\nM3 causas externas de M6 doenças isquêmicas\nintenção indeterminada do coração\nM4 lesões autoprovocadas M8 doenças\nvoluntariamente cardiovasculares\nM5 afogamentos e submersões M9 outras doenças\nacidentais cardíacas\n\nDoenças do aparelho respiratório Doenças do aparelho\nM10 doenças crônicas das vias digestivo\naéreas inferiores\nM11 pneumonia M7 doenças do fígado\n\nInternet: <tabnet.datasus.gov.br> (com adaptações).",
+    "files": [
+        "https://enem.dev/2008/questions/48/ed4b68ae-ed67-4e11-a4e2-9e3ff675fa39.png",
+        "https://enem.dev/2008/questions/48/3cbd2c89-bfb2-4e36-a0ea-ac2a6737fe94.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos dados, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a proporção de mortes por doenças isquêmicas do coração é maior na faixa etária de 30 a 59 anos que na faixa etária dos 60 anos ou mais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pelo menos 50% das mortes na faixa etária de 15 a 29 anos ocorrem por agressões ou por causas externas de intenção indeterminada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "as doenças do aparelho circulatório causam, na faixa etária de 60 anos ou mais, menor número de mortes que as doenças do aparelho respiratório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uma campanha educativa contra o consumo excessivo de bebidas alcoólicas teria menor impacto nos indicadores de mortalidade relativos às faixas etárias de 15 a 59 anos que na faixa etária de 60 anos ou mais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o Ministério da Saúde deve atuar preferencialmente no combate e na prevenção de doenças do aparelho respiratório dos indivíduos na faixa etária de 15 a 59 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

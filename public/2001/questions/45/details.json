@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2001",
+    "index": 45,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O texto abaixo reproduz parte de um diálogo entre dois personagens de um romance.\n\n- Quer dizer que a Idade Média durou dez horas? – Perguntou Sofia.\n- Se cada hora valer cem anos, então sua conta está certa. Podemos imaginar que Jesus\n\nnasceu à meia-noite, que Paulo saiu em peregrinação missionária pouco antes da meia-\nnoite e meia e morreu quinze minutos depois, em Roma. Até as três da manhã a fé cristã\nfoi mais ou menos proibida. (...) Até as dez horas as escolas dos mosteiros detiveram o\nmonopólio da educação. Entre dez e onze horas são fundadas as primeiras\nuniversidades.\n\nAdaptado de GAARDER, Jostein. O Mundo de Sofia, Romance da História da Filosofia. São Paulo: Cia das Letras, 1997.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O ano de 476 d.C., época da queda do Império Romano do Ocidente, tem sido usado como\nmarco para o início da Idade Média. De acordo com a escala de tempo apresentada no\ntexto, que considera como ponto de partida o início da Era Cristã, pode-se afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as Grandes Navegações tiveram início por volta das quinze horas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a Idade Moderna teve início um pouco antes das dez horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o Cristianismo começou a ser propagado na Europa no início da Idade Média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as peregrinações do apóstolo Paulo ocorreram após os primeiros 150 anos da Era Cristã.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os mosteiros perderam o monopólio da educação no final da Idade Média.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

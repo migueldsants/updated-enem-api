@@ -1,0 +1,45 @@
+{
+    "title": "Questão 64 - ENEM 2010 - Reaplicação",
+    "index": 64,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Rua da Passagem\n\nOs automóveis atrapalham o trânsito.\nGentileza é fundamental.\nNão adianta esquentar a cabeça.\nMenos peso do pé no pedal.\n\nO trecho da música, de Lenine e Arnaldo Antunes\n(1999), ilustra a preocupação com o trânsito nas\ncidades, motivo de uma campanha publicitária de uma\nseguradora brasileira. Considere dois automóveis,\nA e B, respectivamente conduzidos por um motorista\nimprudente e por um motorista consciente e adepto da\ncampanha citada. Ambos se encontram lado a lado no\ninstante inicial t = 0 s, quando avistam um semáforo amarelo\n(que indica atenção, parada obrigatória ao se tornar\nvermelho). O movimento de A e B pode ser analisado\npor meio do gráfico, que representa a velocidade de cada\nautomóvel em função do tempo.\n\n![](https://enem.dev/2010-reaplicacao/questions/64/381dc59d-c1b1-4dc7-9204-d60ead3a3731.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/64/381dc59d-c1b1-4dc7-9204-d60ead3a3731.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As velocidades dos veículos variam com o tempo em\ndois intervalos: (I) entre os instantes 10 s e 20 s; (II) entre\nos instantes 30 s e 40 s. De acordo com o gráfico, quais\nsão os módulos das taxas de variação da velocidade do\nveículo conduzido pelo motorista imprudente, em m/s²,\nnos intervalos (I) e (II), respectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 e 3,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,0 e 1,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,0 e 1,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,0 e 3,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "10,0 e 30,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

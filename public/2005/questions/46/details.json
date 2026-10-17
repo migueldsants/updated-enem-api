@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2005",
+    "index": 46,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "A escrita Braile para cegos é um sistema de símbolos no qual cada caráter é um conjunto de 6 pontos dispostos em\nforma retangular, dos quais pelo menos um se destaca em relação aos demais.\nPor exemplo, a letra A é representada por y y\n\ny y\ny y",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O número total de caracteres que podem ser representados no sistema Braile é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "31.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "36.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "63.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "720.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

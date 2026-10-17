@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2010 - Reaplicação",
+    "index": 39,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ato Institucional nº 5 de 13 de dezembro de 1968\n\nArt. 10 – Fica suspensa a garantia de habeas corpus, nos\ncasos de crimes políticos, contra a segurança nacional,\na ordem econômica e social e a economia popular.\n\nArt. 11 – Excluem-se de qualquer apreciação judicial todos os\natos praticados de acordo com este Ato Institucional e seus\nAtos Complementares, bem como os respectivos efeitos.\n\nDisponível em: http://www.senado.gov.br. Acesso em: 29 jul. 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O Ato Institucional nº 5 é considerado por muitos\nautores um “golpe dentro do golpe”. Nos artigos do\nAI-5 selecionados, o governo militar procurou limitar a\natuação do Poder Judiciário, porque isso significava",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a substituição da Constituição de 1967.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o início do processo de distensão política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a garantia legal para o autoritarismo dos juízes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a ampliação dos poderes nas mãos do Executivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a revogação dos instrumentos jurídicos implantados durante o golpe de 1964.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

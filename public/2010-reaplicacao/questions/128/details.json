@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2010 - Reaplicação",
+    "index": 128,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As redes sociais de relacionamento ganham força a\ncada dia. Uma das ferramentas que tem contribuído\nsignificativamente para que isso ocorra é o surgimento\ne a consolidação da blogosfera, nome dado ao conjunto\nde blogs e blogueiros que circulam pela Internet. Um\nblog é um site com acréscimos dos chamados artigos,\nou posts. Estes são, em geral, organizados de forma\ncronológica inversa, tendo como foco a temática\nproposta do blog, podendo ser escritos por um número\nvariável de pessoas, de acordo com a política do blog.\nMuitos blogs fornecem comentários ou notícias sobre\num assunto em particular; outros funcionam mais como\ndiários on-line. Um blog típico combina texto, imagens\ne links para outros blogs, páginas da web e mídias\nrelacionadas a seu tema. A possibilidade de leitores\ndeixarem comentários de forma a interagir com o autor e\noutros leitores é uma parte importante dos blogs.\n\nO que foi visto com certa desconfiança pelos meios de\ncomunicação virou até referência para sugestões de\nreportagem. A linguagem utilizada pelos blogueiros,\nautores e leitores de blogs, foge da rigidez praticada nos\nmeios de comunicação e deixa o leitor mais próximo do\nassunto, além de facilitar o diálogo constante entre eles.\n\nDisponível em: http//pt.wikipedia.org. Acesso em: 21 maio 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As redes sociais compõem uma categoria de organização\nsocial em que grupos de indivíduos utilizam a Internet com\nobjetivos comuns de comunicação e relacionamento.\nNesse contexto, os chamados blogueiros",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promovem discussões sobre diversos assuntos, expondo seus pontos de vista particulares e incentivando a troca de opiniões e consolidação de grupos de interesse.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "contribuem para o analfabetismo digital dos leitores de blog, uma vez que não se preocupam com os usos padronizados da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "interferem nas rotinas de encontros e comemorações de determinados segmentos, porque supervalorizam o contato a distância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "definem previamente seus seguidores, de modo a evitar que pessoas que não compactuam com as mesmas opiniões interfiram no desenvolvimento de determinados assuntos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "utilizam os blogs para exposição de mensagens particulares, sem se preocuparem em responder aos comentários recebidos, e abdicam do uso de outras ferramentas virtuais, como o correio eletrônico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

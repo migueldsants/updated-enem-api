@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2011 - Reaplicação",
+    "index": 68,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A construção de barragens provoca um profundo\nimpacto ecológico, que pode ser atenuado, em parte,\npelo planejamento prévio de remoção da fauna atingida\npela inundação local. Nas barragens construídas no\nBrasil, esse planejamento tem como principal objetivo\na devolução dos animais a um ambiente semelhante ao\noriginal. Antes do fechamento das comportas, procura-\nse deslocar o maior número possível de animais; após\no fechamento, com a elevação gradual das águas,\nprocede-se à captura dos que vão ficando ilhados para\ntransportá-los a locais preestabelecidos, ou retê-los e\nenviá-los a instituições de pesquisas.\n\nLIZASO, N. M. Rev. Bras. Zool. V. 2, n° 2, Curitiba,1983.\nDisponível em: http://www.scielo.br (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O procedimento de transporte dos animais e alocação\nem uma nova área livre de inundação, onde a espécie\nintroduzida não existia antes do processo, tem como\numa das consequências imediatas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a sobrevivência destes animais, aumentando a biodiversidade e o equilíbrio ecológico no novo local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o aumento populacional das espécies introduzidas, sem interferência dos grupos já existentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o beneficio das espécies do novo local, pelo aumento de recursos e da possibilidade de sobrevivência de todas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a seleção artificial pelo aumento do número de espécies existentes no local e a variação populacional das espécies introduzidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o desequilíbrio ecológico, pois a introdução das espécies causa variação na estrutura da comunidade existente no local.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2010 - Reaplicação",
+    "index": 169,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma bióloga conduziu uma série de experimentos\ndemonstrando que a cana-de-açúcar mantida em um\nambiente com o dobro da concentração atual de CO₂\nrealiza 30% mais de fotossíntese e produz 30% mais de\naçúcar do que a que cresce sob a concentração normal\nde CO₂. Das câmaras que mantinham esse ar rico em\ngás carbônico, saíram plantas também mais altas e mais\nencorpadas, com 40% mais de biomassa.\n\nDisponível em:http://revistapesquisa.fapesp.br. Acesso em: 26 set 2008.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os resultados indicam que se pode obter a mesma\nprodutividade de cana numa menor área cultivada.\nNas condições apresentadas de utilizar o dobro da\nconcentração de CO₂ no cultivo para dobrar a produção\nda biomassa da cana-de-açúcar, a porcentagem da área\ncultivada hoje deveria ser, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "80%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "100%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "140%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "160%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "200%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

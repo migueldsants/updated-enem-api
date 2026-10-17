@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2011 - Reaplicação",
+    "index": 45,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A atuação do Judiciário deve ser avaliada mais por\nseu aspecto geral, pois sua missão-mor transcende os\nprocessos vistos isoladamente. Sua tarefa é produzir\numa ordem estável que paire sobre a sociedade.\nIndependentemente da matéria-prima que tenha em\nmãos, o Judiciário deve produzir uma ordem que permita\nà sociedade, com suas diferenças e paradoxos, viver\ne se desenvolver de modo seguro. Por esse prisma,\ndecisões questionáveis quando vistas isoladamente se\njustificam quando olhadas sistemicamente, pois foram\nproferidas tendo em vista a importância que trariam para\na construção da ordem.\n\nVILELA, H. O. T. O ativismo judicial e o jogo dos três poderes.\nValor Econômico. 14 jun. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que a sociedade é uma estrutura\ncomplexa, com interesses contraditórios, segundo o\ntexto, as decisões do Poder Judiciário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "são inquestionáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "devem ser infalíveis e imparciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "interferem na organização da sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "eliminam as contradições e as diferenças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "constroem a ponte entre os demais poderes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

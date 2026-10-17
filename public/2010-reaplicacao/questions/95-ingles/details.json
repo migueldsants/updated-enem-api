@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2010 - Reaplicação",
+    "index": 95,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/95-ingles/d482acdb-e945-49a9-b577-8b66e13997a0.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/95-ingles/d482acdb-e945-49a9-b577-8b66e13997a0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os aparelhos eletrônicos contam com um número cada\nvez maior de recursos. O autor do desenho detalha os\ndiferentes acessórios e características de um celular e, a\njulgar pela maneira como os descreve, ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "prefere os aparelhos celulares com flip, mecanismo que se dobra, estando as teclas protegidas contra eventuais danos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apresenta uma opinião sarcástica com relação aos aparelhos celulares repletos de recursos adicionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "escolhe seus aparelhos celulares conforme o tamanho das teclas, facilitando o manuseio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acredita que o uso de aparelhos telefônicos portáteis seja essencial para que a comunicação se dê a qualquer instante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "julga essencial a presença de editores de textos nos celulares, pois ele pode concluir seus trabalhos pendentes fora do escritório.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

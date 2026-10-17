@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2010 - Reaplicação",
+    "index": 178,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um dos estádios mais bonitos da Copa do Mundo na\nÁfrica do Sul é o Green Point, situado na Cidade do\nCabo, com capacidade para 68 000 pessoas.\n\nCENTAURO. Ano 2, edição 8, mar./abr, 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em certa partida, o estádio estava com 95% de sua\ncapacidade, sendo que 487 pessoas não pagaram o\ningresso que custava 150 dólares cada.\nA expressão que representa o valor arrecadado nesse\njogo, em dólares, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,95 × 68000 × 150 - 487",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,95 × (68000 - 487) × 150",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(0,95 × 68000 - 487) × 150",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "95 × (68000 - 487) × 150",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(95 × 68000 - 487) × 150",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

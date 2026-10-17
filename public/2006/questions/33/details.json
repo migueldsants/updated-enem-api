@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2006",
+    "index": 33,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As florestas tropicais úmidas contribuem muito para a\nmanutenção da vida no planeta, por meio do chamado\nseqüestro de carbono atmosférico. Resultados de\nobservações sucessivas, nas últimas décadas, indicam\nque a floresta amazônica é capaz de absorver até 300\nmilhões de toneladas de carbono por ano. Conclui-se,\nportanto, que as florestas exercem importante papel no\ncontrole",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "das chuvas ácidas, que decorrem da liberação, na atmosfera, do dióxido de carbono resultante dos desmatamentos por queimadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "das inversões térmicas, causadas pelo acúmulo de dióxido de carbono resultante da não-dispersão dos poluentes para as regiões mais altas da atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da destruição da camada de ozônio, causada pela liberação, na atmosfera, do dióxido de carbono contido nos gases do grupo dos clorofluorcarbonos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do efeito estufa provocado pelo acúmulo de carbono na atmosfera, resultante da queima de combustíveis fósseis, como carvão mineral e petróleo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "da eutrofização das águas, decorrente da dissolução, nos rios, do excesso de dióxido de carbono presente na atmosfera.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

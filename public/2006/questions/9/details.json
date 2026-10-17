@@ -1,0 +1,53 @@
+{
+    "title": "Questão 9 - ENEM 2006",
+    "index": 9,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Para responder às questões 9 e 10, analise o quadro a seguir, que esquematiza a história da Terra.\n\n![](https://enem.dev/2006/questions/9/3784e2ba-9677-48c8-9f4b-ad56f3ad90a2.png)\n\n![](https://enem.dev/2006/questions/9/80313cc9-d610-40f7-bebf-a04614c448d1.png)\n\n![](https://enem.dev/2006/questions/9/c21a5a9e-113f-4b48-83f0-14c99f8545aa.png)\n\nAparecimento dos hominídeos\n\n![](https://enem.dev/2006/questions/9/f098358e-38aa-4785-a1f1-1bf671896df2.png)\n\nPrimeiros primatas\n\n![](https://enem.dev/2006/questions/9/0a8895de-9a3d-427f-8363-8cd549aabdba.png)\n\nMESOZÓICA Primeiras aves\n\n![](https://enem.dev/2006/questions/9/09c0416e-f016-45e9-a802-0bd14dd79ac7.png)\n\nPrimeiros dinossauros Início da fragmentação da Pangéia\n\n![](https://enem.dev/2006/questions/9/d17dd82f-585f-44cf-89c4-82e10f9309a4.png)\n\n245 Constituição da Pangéia\n\nAparecimento dos répteis\n\n![](https://enem.dev/2006/questions/9/138214fd-ae82-4f53-843e-35cf32d2ab59.png)\n\nSILURIANO Primeiras plantas e primeiros animais terrestres\nPrimeiros peixes\n439 Fecho do oceano Lapetus\n\nCAMBRIANO Abertura dos oceanos Lapetus e Rheio\n\n1.000 Reprodução sexuada\n\n1.400 Primeiros depósitos de carvão (algas)\nPRÉ-CAMBRIANO 1.800 Oxigênio livre na atmosfera\n2.000 Aparecimento de organismos eucariontes\n3.100 Primeiros microrganismos procariontes\n3.500 Primeiros vestígios de vida\n\n4.600 Formação da Terra",
+    "files": [
+        "https://enem.dev/2006/questions/9/3784e2ba-9677-48c8-9f4b-ad56f3ad90a2.png",
+        "https://enem.dev/2006/questions/9/80313cc9-d610-40f7-bebf-a04614c448d1.png",
+        "https://enem.dev/2006/questions/9/c21a5a9e-113f-4b48-83f0-14c99f8545aa.png",
+        "https://enem.dev/2006/questions/9/f098358e-38aa-4785-a1f1-1bf671896df2.png",
+        "https://enem.dev/2006/questions/9/0a8895de-9a3d-427f-8363-8cd549aabdba.png",
+        "https://enem.dev/2006/questions/9/09c0416e-f016-45e9-a802-0bd14dd79ac7.png",
+        "https://enem.dev/2006/questions/9/d17dd82f-585f-44cf-89c4-82e10f9309a4.png",
+        "https://enem.dev/2006/questions/9/138214fd-ae82-4f53-843e-35cf32d2ab59.png",
+        "https://enem.dev/2006/questions/9/6c1c0942-ca1a-4a2f-80d3-d260ab0b40cd.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o esquema acima, assinale a opção correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Quando os primeiros hominídeos apareceram na Terra, os répteis já existiam há mais de 500 milhões de anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Quando a espécie Homo sapiens surgiu no planeta, América do Sul e África estavam fisicamente unidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "No Pré-Cambriano, surgiram, em meio líquido, os primeiros vestígios de vida no planeta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A fragmentação da Pangéia ocasionou o desaparecimento dos dinossauros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/9/6c1c0942-ca1a-4a2f-80d3-d260ab0b40cd.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2010 - Reaplicação",
+    "index": 33,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Sozinho vai descobrindo o caminho\nO rádio fez assim com seu avô\nRodovia, hidrovia, ferrovia\nE agora chegando a infovia\nPara alegria de todo o interior\n\nGIL, G. Banda larga cordel. Disponível em: www.uol.vagalume.com.br.\nAcesso em: 16 abr. 2010 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O trecho da canção faz referência a uma das dinâmicas\ncentrais da globalização, diretamente associada ao\nprocesso de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evolução da tecnologia da informação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "expansão das empresas transnacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliação dos protecionismos alfandegários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expansão das áreas urbanas do interior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evolução dos fluxos populacionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

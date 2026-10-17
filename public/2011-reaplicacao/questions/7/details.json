@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2011 - Reaplicação",
+    "index": 7,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Vivemos nessa era interligada em que pessoas\nde todo o planeta participam de uma única ordem\ninformacional das comunicações modernas. Graças\nà globalização e ao poder da internet, quem estiver\nem Caracas ou no Cairo conseguirá receber as\nmesmas músicas populares, notícias, filmes e\nprogramas de televisão.\n\nGIDDENS, A. Sociologia. Porto Alegre: Artmed, 2005 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto faz referência à revolução informacional, que\nvem produzindo uma série de alterações no cotidiano\ndos indivíduos. Nessa perspectiva, a vida social das\npessoas está sofrendo grandes alterações devidas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à diminuição na interação social entre os indivíduos mais informatizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à velocidade com que as informações são disponibilizadas em todo o mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ao baixo fluxo de informações disponibilizadas pelos meios convencionais de comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à maior disponibilidade de tempo para atividades relacionadas ao lazer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao aumento nos níveis de desemprego entre os mais jovens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

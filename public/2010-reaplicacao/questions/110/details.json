@@ -1,0 +1,46 @@
+{
+    "title": "Questão 110 - ENEM 2010 - Reaplicação",
+    "index": 110,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/110/98ef5c4c-1218-4a7e-9af2-307ad7cb8e43.png)\n\n![](https://enem.dev/2010-reaplicacao/questions/110/40cac3f1-37e2-46c5-95b4-c8e00447e90b.png)\n\nDisponível em: http://revistaescola.abril.com.br. Acesso em: 27 abr. 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/110/98ef5c4c-1218-4a7e-9af2-307ad7cb8e43.png",
+        "https://enem.dev/2010-reaplicacao/questions/110/40cac3f1-37e2-46c5-95b4-c8e00447e90b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Calvin apresenta a Haroldo (seu tigre de estimação) sua escultura na neve, fazendo uso de uma linguagem especializada.\nOs quadrinhos rompem com a expectativa do leitor, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Calvin, na sua última fala, emprega um registro formal e adequado para a expressão de uma criança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Haroldo, no último quadrinho, apropria-se do registro linguístico usado por Calvin na apresentação de sua obra de arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Calvin emprega um registro de linguagem incompatível com a linguagem de quadrinhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Calvin, no último quadrinho, utiliza um registro linguístico informal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Haroldo não compreende o que Calvin lhe explica, em razão do registro formal utilizado por este último.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

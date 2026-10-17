@@ -1,0 +1,46 @@
+{
+    "title": "Questão 84 - ENEM 2011 - Reaplicação",
+    "index": 84,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Conhecer o mecanismo de transmissão e\ndisseminação de uma dada enfermidade é de muita\nimportância para fundamentar medidas mais efetivas\npara o controle da doença. A esquistossomose\nmansônica, uma doença infecciosa parasitária, é um\nproblema de saúde pública no Brasil. Sua apresentação\nclínica varia desde a forma assintomática até aquelas\nextremamente graves. O diagnóstico e o tratamento\nsão relativamente simples, mas a erradicação só é\npossível com medidas que interrompam o ciclo de vida\ndo parasita.\n\nMinas faz Ciência. Minas Gerais, set./nov. 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/84/9ec4f7a9-9d08-4e5c-b2bf-45a1b1c59a1c.png",
+        "https://enem.dev/2011-reaplicacao/questions/84/75c7a0e0-4014-43ff-b781-6980384fb246.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações do texto, avalie qual\ndas propostas seguintes será eficaz no controle da\nesquistossomose mansônica e na manutenção da\nsaúde geral da população local:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Eliminar os caramujos de regiões afetadas pela esquistossomose, aplicando substâncias tóxicas na água das lagoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Evitar a contaminação de corpos de águas por ovos de esquistossomo, com a construção de instalações sanitárias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Evitar utilizar água de lagoa de regiões afetadas pela esquistossomose para beber ou para o preparo de alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/84/9ec4f7a9-9d08-4e5c-b2bf-45a1b1c59a1c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/84/75c7a0e0-4014-43ff-b781-6980384fb246.png",
+            "isCorrect": false
+        }
+    ]
+}

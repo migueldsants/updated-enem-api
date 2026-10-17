@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2005",
+    "index": 58,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Leia estes poemas.\n\nTexto 1 - Auto-retrato Texto 2 - Poema de sete faces\n\nProvinciano que nunca soube Quando eu nasci, um anjo torto\n\nEscolher bem uma gravata; desses que vivem na sombra\n\nPernambucano a quem repugna disse: Vai, Carlos! ser gauche na vida.\n\nA faca do pernambucano;\n\nPoeta ruim que na arte da prosa As casas espiam os homens\n\nEnvelheceu na infância da arte, que correm atrás de mulheres.\n\nA tarde talvez fosse azul,\nE até mesmo escrevendo crônicas\nnão houvesse tantos desejos.\nFicou cronista de província;\n(....)\nArquiteto falhado, músico\nMeu Deus, por que me abandonaste\nFalhado (engoliu um dia\nse sabias que eu não era Deus\nUm piano, mas o teclado\nse sabias que eu era fraco.\n\nFicou de fora); sem família, Mundo mundo vasto mundo,\n\nReligião ou filosofia; se eu me chamasse Raimundo\n\nMal tendo a inquietação de espírito seria uma rima, não seria uma solução.\n\nQue vem do sobrenatural, Mundo mundo vasto mundo\n\nE em matéria de profissão mais vasto é o meu coração.\n\nUm tísico* profissional.\n\n(Manuel Bandeira. Poesia completa e prosa. (Carlos Drummond de Andrade. Obra completa.\n\nRio de Janeiro: Aguilar, 1983. p. 395.) Rio de Janeiro: Aguilar, 1964. p. 53.)\n\n(*) tísico=tuberculoso",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esses poemas têm em comum o fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descreverem aspectos físicos dos próprios autores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "refletirem um sentimento pessimista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "terem a doença como tema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "narrarem a vida dos autores desde o nascimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "defenderem crenças religiosas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

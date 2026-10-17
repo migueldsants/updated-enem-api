@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2006",
+    "index": 1,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "O rapaz chegou-se para junto da moça e disse:\n— Antônia, ainda não me acostumei com o seu\n[ corpo, com a sua cara.\nA moça olhou de lado e esperou.\n— Você não sabe quando a gente é criança e de\n[ repente vê uma lagarta listrada?\nA moça se lembrava:\n— A gente fica olhando...\nA meninice brincou de novo nos olhos dela.\nO rapaz prosseguiu com muita doçura:\n— Antônia, você parece uma lagarta listrada.\nA moça arregalou os olhos, fez exclamações.\nO rapaz concluiu:\n— Antônia, você é engraçada! Você parece louca.\n\nManuel Bandeira. Poesia completa & prosa.\nRio de Janeiro: Nova Aguilar, 1985.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No poema de Bandeira, importante representante da\npoesia modernista, destaca-se como característica da\nescola literária dessa época",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a reiteração de palavras como recurso de construção de rimas ricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a utilização expressiva da linguagem falada em situações do cotidiano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a criativa simetria de versos para reproduzir o ritmo do tema abordado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a escolha do tema do amor romântico, caracterizador do estilo literário dessa época.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o recurso ao diálogo, gênero discursivo típico do Realismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

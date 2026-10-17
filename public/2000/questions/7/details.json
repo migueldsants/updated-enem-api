@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2000",
+    "index": 7,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O resultado da conversão direta de energia solar é uma das várias formas de\nenergia alternativa de que se dispõe. O aquecimento solar é obtido por uma\nplaca escura coberta por vidro, pela qual passa um tubo contendo água. A água\ncircula, conforme mostra o esquema abaixo.\n\n![](https://enem.dev/2000/questions/7/f04d1c83-6a6c-45b3-ad37-b0fc4693e33a.png)\n\nFonte: Adaptado de PALZ, Wolfgang. Energia solar e fontes alternativas.\nHemus, 1981.\n\nSão feitas as seguintes afirmações quanto aos materiais utilizados no\naquecedor solar:\n\nI o reservatório de água quente deve ser metálico para conduzir melhor o\n\ncalor.\n\nII a cobertura de vidro tem como função reter melhor o calor, de forma\n\nsemelhante ao que ocorre em uma estufa.\n\nIII a placa utilizada é escura para absorver melhor a energia radiante do Sol,\n\naquecendo a água com maior eficiência.",
+    "files": [
+        "https://enem.dev/2000/questions/7/f04d1c83-6a6c-45b3-ad37-b0fc4693e33a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Dentre as afirmações acima, pode-se dizer que, apenas está(ão) correta(s):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

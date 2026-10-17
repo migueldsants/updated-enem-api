@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2005",
+    "index": 57,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "O desenvolvimento da maior parte das\nespécies de insetos passa por vários estágios\naté chegar à fase adulta, quando finalmente\nestão aptos à reprodução. Esse\n\n![](https://enem.dev/2005/questions/57/b74436e5-09f1-4672-a249-92f073a5a7b9.png)",
+    "files": [
+        "https://enem.dev/2005/questions/57/b74436e5-09f1-4672-a249-92f073a5a7b9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "desenvolvimento é um jogo complexo de\nhormônios. A ecdisona promove as mudas\n(ecdíases), mas o hormônio juvenil impede\nque o inseto perca suas características de\nlarva. Com o tempo, a quantidade desse\nhormônio diminui e o inseto chega à fase adulta.\nCientistas descobriram que algumas árvores produzem um composto químico muito semelhante ao hormônio juvenil\ndos insetos.\nA vantagem de uma árvore que produz uma substância que funcione como hormônio juvenil é que a larva do inseto,\nao se alimentar da planta, ingere esse hormônio e",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vive sem se reproduzir, pois nunca chega à fase adulta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "vive menos tempo, pois seu ciclo de vida encurta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vive mais tempo, pois ocorrem poucas mudas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "morre, pois chega muito rápido à fase adulta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "morre, pois não sofrerá mais mudas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

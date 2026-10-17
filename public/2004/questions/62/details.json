@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2004",
+    "index": 62,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Comprimam-se todos os 4,5 bilhões de anos de tempo geológico em um só ano. Nesta escala, as rochas mais antigas\nreconhecidas datam de março. Os seres vivos apareceram inicialmente nos mares, em maio. As plantas e animais\nterrestres surgiram no final de novembro.\n\n(Don L. Eicher, Tempo Geológico)\n\n![](https://enem.dev/2004/questions/62/bfc033c3-40c3-4bd8-8d9a-7d62f151eeab.png)",
+    "files": [
+        "https://enem.dev/2004/questions/62/bfc033c3-40c3-4bd8-8d9a-7d62f151eeab.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na escala de tempo acima, o sistema solar surgiu no início de janeiro e vivemos hoje à meia-noite de 31 de dezembro. Nessa\nmesma escala, Pedro Álvares Cabral chegou ao Brasil também no mês de dezembro, mais precisamente na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "manhã do dia 01.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tarde do dia 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "noite do dia 15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tarde do dia 20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "noite do dia 31.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 44 - ENEM 2006",
+    "index": 44,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "—PÁ\n\nQuando um macho do besouro-da-cana localiza\numa plantação de cana-de-açúcar, ele libera uma\nsubstância para que outros besouros também localizem\nessa plantação, o que causa sérios prejuízos ao agricultor.\nA substância liberada pelo besouro foi sintetizada em\nlaboratório por um químico brasileiro. Com essa substância\nsintética, o agricultor pode fazer o feitiço virar contra o\nfeiticeiro: usar a substância como isca e atrair os besouros\npara longe das plantações de cana.\n\nFolha Ciência.In: Folha de S. Paulo,\n25/5/2004 (com adaptações).",
+    "files": [
+        "https://enem.dev/2006/questions/44/46dc12c6-c781-4ef9-8109-0e64bbeca980.png",
+        "https://enem.dev/2006/questions/44/10684865-c131-4f7c-8e15-d5af3cad75d0.png",
+        "https://enem.dev/2006/questions/44/fe564449-bdc6-4a9b-a720-00e533c18017.png",
+        "https://enem.dev/2006/questions/44/742cf3ab-bc6b-4667-a35b-a4313e0fbdfa.png",
+        "https://enem.dev/2006/questions/44/5c3bac58-b051-44e6-98bf-d8c437b1befc.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Assinale a opção que apresenta corretamente tanto a\nfinalidade quanto a vantagem ambiental da utilização da\nsubstância sintética mencionada.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/44/46dc12c6-c781-4ef9-8109-0e64bbeca980.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/44/10684865-c131-4f7c-8e15-d5af3cad75d0.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/44/fe564449-bdc6-4a9b-a720-00e533c18017.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/44/742cf3ab-bc6b-4667-a35b-a4313e0fbdfa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/44/5c3bac58-b051-44e6-98bf-d8c437b1befc.png",
+            "isCorrect": false
+        }
+    ]
+}

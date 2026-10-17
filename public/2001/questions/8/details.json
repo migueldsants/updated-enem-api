@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2001",
+    "index": 8,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os provérbios constituem um produto da sabedoria popular e, em geral, pretendem\ntransmitir um ensinamento. A alternativa em que os dois provérbios remetem a\nensinamentos semelhantes é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Quem diz o que quer, ouve o que não quer” e “Quem ama o feio, bonito lhe parece”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Devagar se vai ao longe” e “De grão em grão, a galinha enche o papo”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“Mais vale um pássaro na mão do que dois voando” e “Não se deve atirar pérolas aos porcos”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Quem casa quer casa” e “Santo de casa não faz milagre”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Quem com ferro fere, com ferro será ferido” e “Casa de ferreiro, espeto de pau”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

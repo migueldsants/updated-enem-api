@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2011 - Reaplicação",
+    "index": 93,
+    "year": 2011,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Last Monday was a really awful day. I got to school\nlate because I had missed the bus. Then I had a Math\ntest and did badly because I hadn’t studied for it. Things\nwent from bad to worse: while I was waiting for the bus\nhome I realised I had lost my money so I had to walk\nhome. I really wanted to go to the cinema with my parents\nthat evening but by the time I got home they had already\ngone out. I put my dinner in the oven, went to watch TV\nand fell asleep. When I woke up an hour later, there was\na terrible smell and smoke coming up the stairs: I had\nforgotten to take my dinner out of the oven.\n\nACEVEDO, A.; GOWER, M. High Flyer. Longman, 1996.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A intenção do narrador, nesse texto, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descrever o incidente na cozinha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "justificar a perda de uma prova.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "lamentar a perda da aula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reclamar do atraso do ônibus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "relatar um dia de problemas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

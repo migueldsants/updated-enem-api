@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2002",
+    "index": 8,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Artemia é um camarão primitivo que vive em águas\nsalgadas, sendo considerado um fóssil vivo.\nSurpreendentemente, possui uma propriedade semelhante\nà dos vegetais que é a diapausa, isto é, a capacidade de\nmanter ovos dormentes (embriões latentes) por muito\ntempo. Fatores climáticos ou alterações ambientais podem\nsubitamente ativar a eclosão dos ovos, assim como, nos\nvegetais, tais alterações induzem a germinação de\nsementes.\nVários estudos têm sido realizados com artemias, pois\nestes animais apresentam características que sugerem um\npotencial biológico: possuem alto teor de proteína e são\ncapazes de se alimentar de partículas orgânicas e\ninorgânicas em suspensão. Tais características podem\nservir de parâmetro para uma avaliação do potencial\neconômico e ecológico da artemia.\n\nEm um estudo foram consideradas as seguintes\npossibilidades:\nI. A variação da população de artemia pode ser usada\n\ncomo um indicador de poluição aquática.\nII. A artemia pode ser utilizada como um agente de\n\ndescontaminação ambiental, particularmente em\nambientes aquáticos.\nIII. A eclosão dos ovos é um indicador de poluição\n\nquímica.\nIV. Os camarões podem ser utilizados como fonte\n\nalternativa de alimentos de alto teor nutritivo.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I, II e IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

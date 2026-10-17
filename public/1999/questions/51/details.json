@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 1999",
+    "index": 51,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Lâmpadas incandescentes são normalmente projetadas para trabalhar com a tensão da rede elétrica em que serão ligadas.\n\nEm 1997, contudo, lâmpadas projetadas para funcionar com 127V foram retiradas do mercado e, em seu lugar, colocaram-se\nlâmpadas concebidas para uma tensão de 120V. Segundo dados recentes, essa substituição representou uma mudança\nsignificativa no consumo de energia elétrica para cerca de 80 milhões de brasileiros que residem nas regiões em que a tensão\nda rede é de 127V.\n\nA tabela abaixo apresenta algumas características de duas lâmpadas de 60W, projetadas respectivamente para 127V (antiga)\ne 120V (nova), quando ambas encontram-se ligadas numa rede de 127V.\n\n![](https://enem.dev/1999/questions/51/df8bb959-4389-4833-843c-3cdb5386429c.png)",
+    "files": [
+        "https://enem.dev/1999/questions/51/df8bb959-4389-4833-843c-3cdb5386429c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Acender uma lâmpada de 60W e 120V em um local onde a tensão na tomada é de 127V, comparativamente a uma lâmpada\nde 60W e 127V no mesmo local tem como resultado:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mesma potência, maior intensidade de luz e maior durabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mesma potência, maior intensidade de luz e menor durabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "maior potência, maior intensidade de luz e maior durabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "maior potência, maior intensidade de luz e menor durabilidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "menor potência, menor intensidade de luz e menor durabilidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

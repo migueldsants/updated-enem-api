@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 1998",
+    "index": 46,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "A leitura do texto ajuda você a compreender que:\nI. a globalização é um processo ideal para garantir o acesso a bens e serviços para toda a população.\nII. a globalização é um fenômeno econômico e, ao mesmo tempo, cultural.\nIII. a globalização favorece a manutenção da diversidade de costumes.\nIV. filmes, programas de TV e música são mercadorias como quaisquer outras.\nV. as sedes das empresas transnacionais mencionadas são os EUA, Europa Ocidental e Japão.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Destas afirmativas estão corretas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II,IV e V, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "II, III e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, III e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III, IV e V, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

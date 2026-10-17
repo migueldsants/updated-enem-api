@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2001",
+    "index": 25,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Uma região industrial lança ao ar gases como o dióxido de enxofre e óxidos de nitrogênio,\n\n![](https://enem.dev/2001/questions/25/03676e60-45b4-4dc9-a889-d6a3578c226f.png)\n\nConsiderando o ciclo da água e a dispersão dos gases, analise as seguintes possibilidades:\n\nI. As águas de escoamento superficial e de precipitação que atingem o manancial\n\npoderiam causar aumento de acidez da água do manancial e provocar a morte de\npeixes.\nII. A precipitação na região rural poderia causar aumento de acidez do solo e exigir\n\nprocedimentos corretivos, como a calagem.\nIII. A precipitação na região rural, embora ácida, não afetaria o ecossistema, pois a\n\ntranspiração dos vegetais neutralizaria o excesso de ácido.",
+    "files": [
+        "https://enem.dev/2001/questions/25/03676e60-45b4-4dc9-a889-d6a3578c226f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dessas possibilidades,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pode ocorrer apenas a I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pode ocorrer apenas a II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "podem ocorrer tanto a I quanto a II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "podem ocorrer tanto a I quanto a III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "podem ocorrer tanto a II quanto a III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

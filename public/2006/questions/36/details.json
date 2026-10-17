@@ -1,0 +1,46 @@
+{
+    "title": "Questão 36 - ENEM 2006",
+    "index": 36,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "—PÁ\n\nA análise de esporos de samambaias e de pólen\nfossilizados contidos em sedimentos pode fornecer pistas\nsobre as formações vegetais de outras épocas. No\nesquema a seguir, que ilustra a análise de uma amostra de\ncamadas contínuas de sedimentos, as camadas mais\nantigas encontram-se mais distantes da superfície.\n\n![](https://enem.dev/2006/questions/36/40821197-1101-4aec-903e-58ed382f9113.png)",
+    "files": [
+        "https://enem.dev/2006/questions/36/40821197-1101-4aec-903e-58ed382f9113.png",
+        "https://enem.dev/2006/questions/36/2e6be992-d603-42e6-a1bc-3e09de9f5292.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa análise permite supor-se que o local em que foi\ncolhida a amostra deve ter sido ocupado, sucessivamente,\npor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "floresta úmida, campos cerrados e caatinga.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "floresta úmida, floresta temperada e campos cerrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "campos cerrados, caatinga e floresta úmida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "caatinga, floresta úmida e campos cerrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/36/2e6be992-d603-42e6-a1bc-3e09de9f5292.png",
+            "isCorrect": false
+        }
+    ]
+}

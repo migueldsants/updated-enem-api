@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2002",
+    "index": 9,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "“ Narizinho correu os olhos pela assistência. Não podia haver nada mais curioso. Besourinhos de fraque e flores na lapela\nconversavam com baratinhas de mantilha e miosótis nos cabelos. Abelhas douradas, verdes e azuis, falavam mal das vespas de\ncintura fina – achando que era exagero usarem coletes tão apertados. Sardinhas aos centos criticavam os cuidados excessivos que\nas borboletas de toucados de gaze tinham com o pó das suas asas. Mamangavas de ferrões amarrados para não morderem. E\ncanários cantando, e beija-flores beijando flores, e camarões camaronando, e caranguejos caranguejando, tudo que é pequenino e\nnão morde, pequeninando e não mordendo.”\n\nLOBATO, Monteiro. Reinações de Narizinho. São Paulo: Brasiliense, 1947.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No último período do trecho, há uma série de verbos no gerúndio que contribuem para caracterizar o ambiente fantástico descrito.\nExpressões como “camaronando”, “caranguejando” e “pequeninando e não mordendo” criam, principalmente, efeitos de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "esvaziamento de sentido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "monotonia do ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estaticidade dos animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "interrupção dos movimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dinamicidade do cenário.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

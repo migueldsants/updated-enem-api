@@ -1,0 +1,46 @@
+{
+    "title": "Questão 50 - ENEM 1998",
+    "index": 50,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Uma pesquisa de opinião foi realizada para\n\n100\n\navaliar os níveis de audiência de alguns canais de\ntelevisão, entre 20h e 21h, durante uma\ndeterminada noite.\n\n![](https://enem.dev/1998/questions/50/e72bc053-d699-4699-a73d-0ea5a3ae1fdb.png)\n\n![](https://enem.dev/1998/questions/50/ffbca81e-eb52-41e1-bcb0-62dac5add26c.png)\n\nNº de residências₂₀\n\ncanal",
+    "files": [
+        "https://enem.dev/1998/questions/50/e72bc053-d699-4699-a73d-0ea5a3ae1fdb.png",
+        "https://enem.dev/1998/questions/50/ffbca81e-eb52-41e1-bcb0-62dac5add26c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O número de residências atingidas nessa pesquisa foi aproximadamente de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "135",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "150",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "200",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "220",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

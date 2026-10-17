@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2010 - Reaplicação",
+    "index": 95,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "El Camino de la lengua nos lleva hasta el siglo X,\népoca en la que aparecen las Glosas Emilianenses\nen el monasterio de Suso en San Millán (La Rioja).\nLas Glosas Emilianenses están consideradas como\nel testimonio escrito más antiguo del castellano. Paso\na paso y pueblo a pueblo, el viajero llegará al siglo XV\npara asistir al nacimiento de la primera Gramática de la\nLengua Castellana, la de Nebrija. Más tarde, escritores\ncomo Miguel de Cervantes, Calderón de la Barca, Miguel\nde Unamuno, Santa Teresa de Jesús o el contemporáneo\nMiguel Delibes irán apareciendo a lo largo del itinerario.\nPero la literatura no es el único atractivo de este viaje\nque acaba de comenzar.\nNuestra ruta está llena de palacios, conventos, teatros y\nrestaurantes. La riqueza gastronómica de esta región es\nalgo que el viajero debe tener muy en cuenta.\n\nRevista Punto y Coma. Espanha, n°9, nov./dez. 2007.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O “Camino de la lengua”, um percurso para turistas na\nEspanha, conduz o viajante por um roteiro que, além da\ntemática original sobre a língua e a literatura espanholas,\nenvolve também os aspectos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "turísticos e místicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "culturais e educacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "históricos e de enriquecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "literários e de conflito religioso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "arquitetônicos e gastronômicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

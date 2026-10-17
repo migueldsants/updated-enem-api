@@ -1,0 +1,46 @@
+{
+    "title": "Questão 16 - ENEM 2000",
+    "index": 16,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "No mapa, é apresentada a distribuição geográfica de aves de grande porte e\nque não voam.\n\n![](https://enem.dev/2000/questions/16/e74ab174-c1e0-41d0-a186-c658a1b3a29b.png)",
+    "files": [
+        "https://enem.dev/2000/questions/16/e74ab174-c1e0-41d0-a186-c658a1b3a29b.png",
+        "https://enem.dev/2000/questions/16/a9207529-e372-4415-995f-1fca036102f7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Há evidências mostrando que essas aves, que podem ser originárias de um\nmesmo ancestral, sejam, portanto, parentes. Considerando que, de fato, tal\nparentesco ocorra, uma explicação possível para a separação geográfica\ndessas aves, como mostrada no mapa, poderia ser:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a grande atividade vulcânica, ocorrida há milhões de anos, eliminou essas aves do Hemisfério Norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "na origem da vida, essas aves eram capazes de voar, o que permitiu que atravessassem as águas oceânicas, ocupando vários continentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o ser humano, em seus deslocamentos, transportou essas aves, assim que elas surgiram na Terra, distribuindo-as pelos diferentes continentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o afastamento das massas continentais, formadas pela ruptura de um continente único, dispersou essas aves que habitavam ambientes adjacentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/16/a9207529-e372-4415-995f-1fca036102f7.png",
+            "isCorrect": false
+        }
+    ]
+}

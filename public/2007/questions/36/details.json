@@ -1,0 +1,46 @@
+{
+    "title": "Questão 36 - ENEM 2007",
+    "index": 36,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "2 3 4 5 6\n\n![](https://enem.dev/2007/questions/36/21ad5f9b-af49-418b-860e-3ecb053c4805.png)\n\nNos últimos 60 anos, verificou-se grande aumento\nda produtividade agrícola nos Estados Unidos da América\n(EUA). Isso se deveu a diversos fatores, tais como\nexpansão do uso de fertilizantes e pesticidas, biotecnologia\ne maquinário especializado. O gráfico abaixo apresenta\ndados referentes à agricultura desse país, no período\ncompreendido entre 1948 e 2004.\n\n![](https://enem.dev/2007/questions/36/851fc2c2-ff69-41d0-ba4d-322476e62220.png)\n\nScientific American Brasil, jun./2007, p. 19 (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/36/21ad5f9b-af49-418b-860e-3ecb053c4805.png",
+        "https://enem.dev/2007/questions/36/851fc2c2-ff69-41d0-ba4d-322476e62220.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A respeito da agricultura estadunidense no período de\n1948 a 2004, observa-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o aumento da produtividade foi acompanhado da redução de mais de 70% dos custos de mão-de-obra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o valor mínimo dos custos de material ocorreu entre as décadas de 70 e 80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a produtividade total da agricultura dos EUA apresentou crescimento superior a 200%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a taxa de crescimento das despesas de capital manteve-se constante entre as décadas de 70 e 90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o aumento da produtividade foi diretamente proporcional à redução das despesas de capital.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

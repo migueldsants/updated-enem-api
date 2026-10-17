@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2010 - Reaplicação",
+    "index": 96,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/96/893e4d77-5c37-40de-9d91-a59ff26f0169.png)\n\nFigura I. Disponível em: http://zuperdido.wordpress.com. Acesso em: 27 abr. 2010.\nFigura II. Disponível em: http://jornale.com.br. Acesso em: 27 abr. 2010.\nFigura III. Disponível em: http://www.alamedavirtual.com. Acesso em: 27 abr. 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/96/893e4d77-5c37-40de-9d91-a59ff26f0169.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O salto, movimento natural do homem, está presente\nem ações cotidianas e também nas artes, nas lutas, nos\nesportes, entre outras atividades. Com relação a esse\nmovimento, considera-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é realizado para cima, sem que a impulsão determine o tempo de perda de contato com o solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "é na fase de voo que se inicia o impulso, que, dado pelos braços, determina o tipo e o tempo de duração do salto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "é verificado o mesmo tempo de perda de contato com o solo nas situações em que é praticado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "é realizado após uma breve corrida para local mais alto, sem que se utilize apoio para o impulso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "é a perda momentânea de contato dos pés com o solo e apresenta as fases de impulsão, voo e queda.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

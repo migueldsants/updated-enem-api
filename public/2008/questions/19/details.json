@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2008",
+    "index": 19,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Em 2006, foi realizada uma conferência das\nNações Unidas em que se discutiu o problema do lixo\neletrônico, também denominado e-waste. Nessa ocasião,\ndestacou-se a necessidade de os países em\ndesenvolvimento serem protegidos das doações nem\nsempre bem-intencionadas dos países mais ricos. Uma\nvez descartados ou doados, equipamentos eletrônicos\nchegam a países em desenvolvimento com o rótulo de\n“mercadorias recondicionadas”, mas acabam deteriorando-\nse em lixões, liberando chumbo, cádmio, mercúrio e outros\nmateriais tóxicos.\n\nInternet: <g1.globo.com> (com adaptações).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A discussão dos problemas associados ao e-waste leva à\nconclusão de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os países que se encontram em processo de industrialização necessitam de matérias-primas recicladas oriundas dos países mais ricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o objetivo dos países ricos, ao enviarem mercadorias recondicionadas para os países em desenvolvimento, é o de conquistar mercados consumidores para seus produtos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o avanço rápido do desenvolvimento tecnológico, que torna os produtos obsoletos em pouco tempo, é um fator que deve ser considerado em políticas ambientais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o excesso de mercadorias recondicionadas enviadas para os países em desenvolvimento é armazenado em lixões apropriados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as mercadorias recondicionadas oriundas de países ricos melhoram muito o padrão de vida da população dos países em desenvolvimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

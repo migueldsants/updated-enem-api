@@ -1,0 +1,46 @@
+{
+    "title": "Questão 57 - ENEM 2007",
+    "index": 57,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/57/df10102d-02ba-46a1-98c4-85d1f77e44f5.png)\n\nCom o projeto de mochila ilustrado acima,\npretende-se aproveitar, na geração de energia elétrica\npara acionar dispositivos eletrônicos portáteis, parte da\nenergia desperdiçada no ato de caminhar. As\ntransformações de energia envolvidas na produção de\neletricidade enquanto uma pessoa caminha com essa\nmochila podem ser assim esquematizadas:\n\n![](https://enem.dev/2007/questions/57/c31d59b6-537c-4ece-b17d-11206ed5587d.png)",
+    "files": [
+        "https://enem.dev/2007/questions/57/df10102d-02ba-46a1-98c4-85d1f77e44f5.png",
+        "https://enem.dev/2007/questions/57/c31d59b6-537c-4ece-b17d-11206ed5587d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As energias I e II, representadas no esquema acima,\npodem ser identificadas, respectivamente, como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cinética e elétrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "térmica e cinética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "térmica e elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sonora e térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "radiante e elétrica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

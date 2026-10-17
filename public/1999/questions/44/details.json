@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 1999",
+    "index": 44,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "terras.\n\n![](https://enem.dev/1999/questions/44/91d8be79-6f66-4cf3-a631-9c7789885199.png)",
+    "files": [
+        "https://enem.dev/1999/questions/44/91d8be79-6f66-4cf3-a631-9c7789885199.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Pensando em construir sua moradia no lado I do rio e plantar no lado II, o agricultor consultou seus vizinhos e escutou as\nfrases abaixo. Assinale a frase do vizinho que deu a sugestão mais correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“O terreno só se presta ao plantio, revolvendo o solo com arado.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Não plante neste local, porque é impossível evitar a erosão”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Pode ser utilizado, desde que se plante em curvas de nível”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "“Você perderá sua plantação, quando as chuvas provocarem inundação”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Plante forragem para pasto”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

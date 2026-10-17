@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2001",
+    "index": 31,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "I - Para o filósofo inglês Thomas Hobbes (1588-1679), o estado de natureza é um estado\n\nde guerra universal e perpétua. Contraposto ao estado de natureza, entendido como\nestado de guerra, o estado de paz é a sociedade civilizada.\n\nDentre outras tendências que dialogam com as idéias de Hobbes, destaca-se a definida pelo\ntexto abaixo.\n\nII - Nem todas as guerras são injustas e correlativamente, nem toda paz é justa, razão pela\n\nqual a guerra nem sempre é um desvalor, e a paz nem sempre um valor.\n\nBOBBIO, N. MATTEUCCI, N PASQUINO, G. Dicionário de Política, 5ª ed. Brasília: Universidade de Brasília;\nSão Paulo: Imprensa Oficial do Estado, 2000.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Tropas da Aliança do Tratado do Atlântico Norte (OTAN) invadiram o Iraque em 1991 e\natacaram a Sérvia em 1999.\nPara responder aos críticos dessas ações, a OTAN usaria, possivelmente, argumentos\nbaseados",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na teoria da guerra perpétua de Hobbes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tanto na teoria de Hobbes como na tendência expressa no texto II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no fato de que as regiões atacadas não possuíam sociedades civilizadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na teoria de que a guerra pode ser justa quando o fim é justo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "na necessidade de pôr fim à guerra entre os dois países citados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

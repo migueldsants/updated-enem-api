@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2011 - Reaplicação",
+    "index": 67,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/67/30480625-18f0-465a-b777-0d041cd5bec4.png)\n\nRevista Mad. N° 68,1980.\n\nO ser humano é responsável pela seleção de\ncaracterísticas, por exemplo, tipo e cor da pelagem\ndos animais domésticos, muitas das quais não eram\nobservadas nos indivíduos selvagens das espécies.\nCientistas das universidades de Uppsala (Suécia) e\nDurham (Reino Unido) explicam que o homem selecionou\nde forma ativa e proposital os animais domésticos com\npelagens curiosas.\n\nDisponível em: http://www1.folha.uol.com.br. Acesso em: 7 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/67/30480625-18f0-465a-b777-0d041cd5bec4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir de suportes diferentes, os quadrinhos e o\ntexto apresentado abordam o mesmo tema, que se\nrefere à seleção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "direcional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "artificial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "estabilizadora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cromatográfica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

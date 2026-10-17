@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2008",
+    "index": 14,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2008/questions/14/8a0556da-95f6-40c9-a042-586d376bb2dd.png)\n\nDick Browne. O melhor de Hagar, o horrível, v. 2. L&PM pocket, p.55-6 (com adaptações).",
+    "files": [
+        "https://enem.dev/2008/questions/14/8a0556da-95f6-40c9-a042-586d376bb2dd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Assinale o trecho do diálogo que apresenta um registro\ninformal, ou coloquial, da linguagem.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Tá legal, espertinho! Onde é que você esteve?!”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“E lembre-se: se você disser uma mentira, os seus chifres cairão!”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Estou atrasado porque ajudei uma velhinha a atravessar a rua...”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“...e ela me deu um anel mágico que me levou a um tesouro”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“mas bandidos o roubaram e os persegui até a Etiópia, onde um dragão...”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

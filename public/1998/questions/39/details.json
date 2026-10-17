@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 1998",
+    "index": 39,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Você sabe que a Doença de Chagas é causada por um protozoário ( Trypanosoma cruzi) transmitido por\nmeio da picada de insetos hematófagos (barbeiros). Das medidas propostas no texto “ A Lagoa Azul Está\nDoente” , as mais efetivas na prevenção dessa doença são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 e 5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4 e 6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 e 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 e 3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

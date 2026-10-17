@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2002",
+    "index": 26,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Na comparação entre diferentes processos de geração de energia, devem ser considerados aspectos econômicos, sociais e\nambientais. Um fator economicamente relevante nessa comparação é a eficiência do processo. Eis um exemplo: a utilização do\ngás natural como fonte de aquecimento pode ser feita pela simples queima num fogão (uso direto), ou pela produção de\neletricidade em uma termoelétrica e uso de aquecimento elétrico (uso indireto). Os rendimentos correspondentes a cada etapa\nde dois desses processos estão indicados entre parênteses no esquema.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na comparação das eficiências, em termos globais, entre esses dois processos (direto e indireto), verifica-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a menor eficiência de P2 deve-se, sobretudo, ao baixo rendimento da termoelétrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a menor eficiência de P2 deve-se, sobretudo, ao baixo rendimento na distribuição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a maior eficiência de P2 deve-se ao alto rendimento do aquecedor elétrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a menor eficiência de P1 deve-se, sobretudo, ao baixo rendimento da fornalha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a menor eficiência de P1 deve-se, sobretudo, ao alto rendimento de sua distribuição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

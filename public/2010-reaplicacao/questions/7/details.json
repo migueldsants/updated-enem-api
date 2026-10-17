@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2010 - Reaplicação",
+    "index": 7,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O mapa mostra a distribuição de bovinos no bioma\namazônico, cuja ocupação foi responsável pelo\ndesmatamento de significativas extensões de terra na\nregião. Verifica-se que existem municípios com grande\ncontingente de bovinos, nas áreas mais escuras do\nmapa, entre 750 001 e 1 500 000 cabeças de bovinos.\nProdução de Bovinos - Efetivos de Cabeças em 2004\n\n![](https://enem.dev/2010-reaplicacao/questions/7/c2649e3d-f6a2-4f47-8b01-ce66f04b3c9a.png)\n\nDisponível em: www.ibge.gov.br. Acesso em: 05 jul. 2008.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/7/c2649e3d-f6a2-4f47-8b01-ce66f04b3c9a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A análise do mapa permite concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os estados do Pará, Mato Grosso e Rondônia detêm a maior parte de bovinos em relação ao bioma amazônico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "os municípios de maior extensão são responsáveis pela maior produção de bovinos, segundo mostra a legenda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a criação de bovinos é a atividade econômica principal nos municípios mostrados no mapa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o efetivo de cabeças de bovinos se distribui amplamente pelo bioma amazônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as terras florestadas são as áreas mais favoráveis ao desenvolvimento da criação de bovinos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

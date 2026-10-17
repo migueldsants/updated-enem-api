@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2011 - Reaplicação",
+    "index": 116,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O nascimento da crônica\n\nHá um meio certo de começar a crônica por uma\ntrivialidade. É dizer: Que calor! Que desenfreado calor!\nDiz-se isto, agitando as pontas do lenço, bufando como\num touro, ou simplesmente sacudindo a sobrecasaca.\nResvala-se do calor aos fenômenos atmosféricos, fazem-\nse algumas conjeturas acerca do sol e da lua, outras sobre\na febre amarela, manda-se um suspiro a Petrópolis, e La\nglace est rompue; está começada a crônica.\n\nMas, leitor amigo, esse meio é mais velho ainda do\nque as crônicas, que apenas datam de Esdras. Antes\nde Esdras, antes de Moisés, antes de Abraão, Isaque e\nJacó, antes mesmo de Noé, houve calor e crônicas. No\nparaíso é provável, é certo que o calor era mediano, e\nnão é prova do contrário o fato de Adão andar nu. Adão\nandava nu por duas razões, uma capital e outra provincial.\nA primeira é que não havia alfaiates, não havia sequer\ncasimiras; a segunda é que, ainda havendo-os, Adão\nandava baldo ao naipe. Digo que esta razão é provincial,\nporque as nossas províncias estão nas circunstâncias\ndo primeiro homem.\n\nASSIS, M.In: SANTOS, J .F. As cem melhores crônicas brasileiras.\nRio de Janeiro: Objetiva, 2007 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Um dos traços fundamentais da vasta obra literária\nde Machado de Assis reside na preocupação com\na expressão e com a técnica de composição. Em O\nnascimento da crônica, Machado permite ao leitor\nentrever um escritor ciente das características da\ncrônica, como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "texto breve, diálogo com o leitor e registro pessoal de fatos do cotidiano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "síntese de um assunto, linguagem denotativa, exposição sucinta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "linguagem literária, narrativa curta e conflitos internos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "texto ficcional curto, linguagem subjetiva e criação de tensões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "priorização da informação, linguagem impessoal e resumo de um fato.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

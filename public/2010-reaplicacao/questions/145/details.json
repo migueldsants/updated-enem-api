@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2010 - Reaplicação",
+    "index": 145,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "João tem uma loja onde fabrica e vende moedas de\nchocolate com diâmetro de 4 cm e preço de R$ 1,50\na unidade. Pedro vai a essa loja e, após comer várias\nmoedas de chocolate, sugere ao João que ele faça\nmoedas com 8 cm de diâmetro e mesma espessura e\ncobre R$ 3,00 a unidade.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando que o preço da moeda depende apenas\nda quantidade de chocolate, João",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aceita a proposta de Pedro, pois, se dobra o diâmetro, o preço também deve dobrar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rejeita a proposta de Pedro, pois o preço correto seria R$ 12,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "rejeita a proposta de Pedro, pois o preço correto seria R$ 7,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "rejeita a proposta de Pedro, pois o preço correto seria R$ 6,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "rejeita a proposta de Pedro, pois o preço correto seria R$ 4,50.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

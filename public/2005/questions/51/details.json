@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2005",
+    "index": 51,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "(Fonte: Raquel Aguiar, Ciência Hoje on-line 13/05/02.)\n\nEntre 1975 e 1999, apenas 15 novos produtos foram desenvolvidos para o tratamento da tuberculose e de doenças\ntropicais, as chamadas doenças negligenciadas. No mesmo período, 179 novas drogas surgiram para atender\nportadores de doenças cardiovasculares. Desde 2003, um grande programa articula esforços em pesquisa e\ndesenvolvimento tecnológico de instituições científicas, governamentais e privadas de vários países para reverter esse\nquadro de modo duradouro e profissional.\nSobre as doenças negligenciadas e o programa internacional, considere as seguintes afirmativas:\n\nI- As doenças negligenciadas, típicas das regiões subdesenvolvidas do planeta, são geralmente associadas à\n\nsubnutrição e à falta de saneamento básico.\nII- As pesquisas sobre as doenças negligenciadas não interessam à indústria farmacêutica porque atingem países\n\nem desenvolvimento sendo economicamente pouco atrativas.\nIII- O programa de combate às doenças negligenciadas endêmicas não interessa ao Brasil porque atende a uma\n\nparcela muito pequena da população.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Está correto apenas o que se afirma em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

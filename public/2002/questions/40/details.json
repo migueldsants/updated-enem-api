@@ -1,0 +1,45 @@
+{
+    "title": "Questão 40 - ENEM 2002",
+    "index": 40,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Para testar o uso do algicida sulfato de cobre em tanques para criação de camarões, estudou-se, em aquário, a resistência\ndesses organismos a diferentes concentrações de íons cobre (representados por Cu2+). Os gráficos relacionam a mortandade\nde camarões com a concentração de Cu2+ e com o tempo de exposição a esses íons.\n\n![](https://enem.dev/2002/questions/40/5b07beb9-662b-413a-8d2b-90e7de077ebe.png)",
+    "files": [
+        "https://enem.dev/2002/questions/40/5b07beb9-662b-413a-8d2b-90e7de077ebe.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se os camarões utilizados na experiência fossem introduzidos num tanque de criação contendo 20.000 L de água tratada com\nsulfato de cobre, em quantidade suficiente para fornecer 50 g de íons cobre, estariam vivos, após 24 horas, cerca de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3/4.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 1998",
+    "index": 9,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Matéria publicada em jornal diário discute o uso de anabolizantes (apelidados de “bombas”) por\npraticantes de musculação. Segundo o jornal, “ os anabolizantes são hormônios que dão uma força extra\n\naos músculos. Quem toma consegue ganhar massa muscular mais rápido que normalmente. Isso porque\numa pessoa pode crescer até certo ponto, segundo sua herança genética e independentemente do quanto\nela se exercite” . Um professor de musculação, diz: “ Comecei a tomar bomba por conta própria. Ficava\nnervoso e tremia. Fiquei impotente durante uns seis meses. Mas como sou lutador de vale tudo, tenho que\ntomar” .\n\nA respeito desta matéria, dois amigos fizeram os seguintes comentários:\nI. o maior perigo da auto-medicação é seu fator anabolizante, que leva à impotência sexual.\nII. o crescimento corporal depende tanto dos fatores hereditários quanto do tipo de alimentação da\n\npessoa, se pratica ou não esportes, se dorme as 8 horas diárias.\nIII. os anabolizantes devem ter mexido com o sistema circulatório do professor de musculação, pois ele\n\naté ficou impotente.\nIV. os anabolizantes são mais perigosos para os homens, pois as mulheres, além de não correrem o risco",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "da impotência, são protegidas pelos hormônios femininos.\nTomando como referência as informações da matéria do jornal e o que se conhece da fisiologia humana,\npode-se considerar que estão corretos os comentários:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I, II e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

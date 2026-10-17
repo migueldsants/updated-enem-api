@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2000",
+    "index": 12,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "A partir do esquema são feitas as seguintes afirmações:\n\nI a energia liberada na reação é usada para ferver a água que, como vapor\n\na alta pressão, aciona a turbina.\n\nII a turbina, que adquire uma energia cinética de rotação, é acoplada\n\nmecanicamente ao gerador para produção de energia elétrica.\n\nIII a água depois de passar pela turbina é pré-aquecida no condensador e\n\nbombeada de volta ao reator.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre as afirmações acima, somente está(ão) correta(s):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

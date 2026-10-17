@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2010 - Reaplicação",
+    "index": 67,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O efeito Tyndall é um efeito óptico de turbidez provocado\npelas partículas de uma dispersão coloidal. Foi\nobservado pela primeira vez por Michael Faraday em\n1857 e, posteriormente, investigado pelo físico inglês\nJohn Tyndall. Este efeito é o que torna possível, por\nexemplo, observar as partículas de poeira suspensas no\nar por meio de uma réstia de luz, observar gotículas de\nágua que formam a neblina por meio do farol do carro\nou, ainda, observar o feixe luminoso de uma lanterna por\nmeio de um recipiente contendo gelatina.\n\nREIS, M. Completamente Química: Físico-Química. São Paulo: FTD, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao passar por um meio contendo partículas dispersas,\num feixe de luz sofre o efeito Tyndall devido",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à absorção do feixe de luz por este meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à interferência do feixe de luz neste meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à transmissão do feixe de luz neste meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à polarização do feixe de luz por este meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao espalhamento do feixe de luz neste meio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

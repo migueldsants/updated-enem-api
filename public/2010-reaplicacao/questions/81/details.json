@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2010 - Reaplicação",
+    "index": 81,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os dínamos são geradores de energia elétrica utilizados\nem bicicletas para acender uma pequena lâmpada. Para\nisso, é necessário que a parte móvel esteja em contato\ncom o pneu da bicicleta e, quando ela entra em movimento,\né gerada energia elétrica para acender a lâmpada. Dentro\ndesse gerador, encontram-se um ímã e uma bobina.\n\n![](https://enem.dev/2010-reaplicacao/questions/81/e144c1db-7bd4-4e6f-8b1d-fe49d7b69b52.png)\n\nDisponível em: http://www.if.usp.br. Acesso em: 1 maio 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/81/e144c1db-7bd4-4e6f-8b1d-fe49d7b69b52.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O princípio de funcionamento desse equipamento é\nexplicado pelo fato de que a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "corrente elétrica no circuito fechado gera um campo magnético nessa região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "bobina imersa no campo magnético em circuito fechado gera uma corrente elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "bobina em atrito com o campo magnético no circuito fechado gera uma corrente elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "corrente elétrica é gerada em circuito fechado por causa da presença do campo magnético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "corrente elétrica é gerada em circuito fechado quando há variação do campo magnético.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

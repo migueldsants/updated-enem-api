@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2006",
+    "index": 17,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "A moderna democracia brasileira foi construída\nentre saltos e sobressaltos. Em 1954, a crise culminou no\nsuicídio do presidente Vargas. No ano seguinte, outra crise\nquase impediu a posse do presidente eleito, Juscelino\nKubitschek. Em 1961, o Brasil quase chegou à guerra civil\ndepois da inesperada renúncia do presidente Jânio\nQuadros. Três anos mais tarde, um golpe militar depôs o\npresidente João Goulart, e o país viveu durante vinte anos\nem regime autoritário.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A partir dessas informações, relativas à história\nrepublicana brasileira, assinale a opção correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao término do governo João Goulart, Juscelino Kubitschek foi eleito presidente da República.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A renúncia de Jânio Quadros representou a primeira grande crise do regime republicano brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Após duas décadas de governos militares, Getúlio Vargas foi eleito presidente em eleições diretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A trágica morte de Vargas determinou o fim da carreira política de João Goulart.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "No período republicano citado, sucessivamente, um presidente morreu, um teve sua posse contestada, um renunciou e outro foi deposto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

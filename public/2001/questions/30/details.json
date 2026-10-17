@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2001",
+    "index": 30,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "I - Para o filósofo inglês Thomas Hobbes (1588-1679), o estado de natureza é um estado\n\nde guerra universal e perpétua. Contraposto ao estado de natureza, entendido como\nestado de guerra, o estado de paz é a sociedade civilizada.\n\nDentre outras tendências que dialogam com as idéias de Hobbes, destaca-se a definida pelo\ntexto abaixo.\n\nII - Nem todas as guerras são injustas e correlativamente, nem toda paz é justa, razão pela\n\nqual a guerra nem sempre é um desvalor, e a paz nem sempre um valor.\n\nBOBBIO, N. MATTEUCCI, N PASQUINO, G. Dicionário de Política, 5ª ed. Brasília: Universidade de Brasília;\nSão Paulo: Imprensa Oficial do Estado, 2000.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Comparando as idéias de Hobbes (texto I) com a tendência citada no texto II, pode-se\nafirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "em ambos, a guerra é entendida como inevitável e injusta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "para Hobbes, a paz é inerente à civilização e, segundo o texto II, ela não é um valor absoluto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "de acordo com Hobbes, a guerra é um valor absoluto e, segundo o texto II, a paz é sempre melhor que a guerra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "em ambos, a guerra ou a paz são boas quando o fim é justo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "para Hobbes, a paz liga-se à natureza e, de acordo com o texto II, à civilização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

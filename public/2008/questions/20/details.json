@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2008",
+    "index": 20,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Usada para dar estabilidade aos navios, a água de\nlastro acarreta grave problema ambiental: ela introduz\nindevidamente, no país, espécies indesejáveis do ponto de\nvista ecológico e sanitário, a exemplo do mexilhão\ndourado, molusco originário da China. Trazido para o Brasil\npelos navios mercantes, o mexilhão dourado foi\nencontrado na bacia Paraná-Paraguai em 1991.\nA disseminação desse molusco e a ausência de\npredadores para conter o crescimento da população de\nmoluscos causaram vários problemas, como o que ocorreu\nna hidrelétrica de Itaipu, onde o mexilhão alterou a rotina\nde manutenção das turbinas, acarretando prejuízo de\nUS$ 1 milhão por dia, devido à paralisação do sistema.\nUma das estratégias utilizadas para diminuir o problema é\nacrescentar gás cloro à água, o que reduz em cerca de\n50% a taxa de reprodução da espécie.\n\nGTÁGUAS,MPF, 4.ª CCR, ano 1, n.º 2, maio/2007 (com adaptações).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as informações acima, o despejo da água\nde lastro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é ambientalmente benéfico por contribuir para a seleção natural das espécies e, conseqüentemente, para a evolução delas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "trouxe da China um molusco, que passou a compor a flora aquática nativa do lago da hidrelétrica de Itaipu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "causou, na usina de Itaipu, por meio do microrganismo invasor, uma redução do suprimento de água para as turbinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "introduziu uma espécie exógena na bacia Paraná- Paraguai, que se disseminou até ser controlada por seus predadores naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "motivou a utilização de um agente químico na água como uma das estratégias para diminuir a reprodução do mexilhão dourado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

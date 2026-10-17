@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2000",
+    "index": 27,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico abaixo representa a evolução da quantidade de oxigênio na atmosfera\nno curso dos tempos geológicos. O número 100 sugere a quantidade atual de\noxigênio na atmosfera, e os demais valores indicam diferentes porcentagens\ndessa quantidade.\n\n![](https://enem.dev/2000/questions/27/9081c88f-6c06-4502-846c-63680644dff5.png)",
+    "files": [
+        "https://enem.dev/2000/questions/27/9081c88f-6c06-4502-846c-63680644dff5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o gráfico é correto afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as primeiras formas de vida surgiram na ausência de O2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a atmosfera primitiva apresentava 1% de teor de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "após o início da fotossíntese, o teor de oxigênio na atmosfera mantém-se estável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desde o Pré-cambriano, a atmosfera mantém os mesmos níveis de teor de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na escala evolutiva da vida, quando surgiram os anfíbios, o teor de oxigênio atmosférico já se havia estabilizado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

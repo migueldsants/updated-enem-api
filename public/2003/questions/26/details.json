@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2003",
+    "index": 26,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A biodiversidade é garantida por interações das várias formas de vida e pela estrutura heterogênea dos habitats.\nDiante da perda acelerada de biodiversidade, tem sido discutida a possibilidade de se preservarem espécies por meio\nda construção de “bancos genéticos” de sementes, óvulos e espermatozóides.\nApesar de os “bancos” preservarem espécimes (indivíduos), sua construção é considerada questionável do ponto de\nvista ecológico-evolutivo, pois se argumenta que esse tipo de estratégia",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "I. não preservaria a variabilidade genética das populações;\nII. dependeria de técnicas de preservação de embriões, ainda desconhecidas;\nIII. não reproduziria a heterogeneidade dos ecossistemas.\nEstá correto o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e III, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

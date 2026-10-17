@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2003",
+    "index": 45,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Do ponto de vista ambiental, uma distinção importante que se faz entre os combustíveis é serem provenientes ou não\nde fontes renováveis. No caso dos derivados de petróleo e do álcool de cana, essa distinção se caracteriza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela diferença nas escalas de tempo de formação das fontes, período geológico no caso do petróleo e anual no da cana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "pelo maior ou menor tempo para se reciclar o combustível utilizado, tempo muito maior no caso do álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pelo maior ou menor tempo para se reciclar o combustível utilizado, tempo muito maior no caso dos derivados do petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pelo tempo de combustão de uma mesma quantidade de combustível, tempo muito maior para os derivados do petróleo do que do álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pelo tempo de produção de combustível, pois o refino do petróleo leva dez vezes mais tempo do que a destilação do fermento de cana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

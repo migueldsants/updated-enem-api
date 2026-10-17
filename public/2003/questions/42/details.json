@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2003",
+    "index": 42,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Nos últimos anos, o gás natural (GNV: gás natural veicular) vem sendo utilizado pela frota de veículos nacional, por\nser viável economicamente e menos agressivo do ponto de vista ambiental.\nO quadro compara algumas características do gás natural e da gasolina em condições ambiente.\n\n![](https://enem.dev/2003/questions/42/3e595520-db7a-419a-8c3d-ed9d44444c3d.png)",
+    "files": [
+        "https://enem.dev/2003/questions/42/3e595520-db7a-419a-8c3d-ed9d44444c3d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Apesar das vantagens no uso de GNV, sua utilização implica algumas adaptações técnicas, pois, em condições\nambiente, o volume de combustível necessário, em relação ao de gasolina, para produzir a mesma energia, seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "muito maior, o que requer um motor muito mais potente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "muito maior, o que requer que ele seja armazenado a alta pressão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "igual, mas sua potência será muito menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "muito menor, o que o torna o veículo menos eficiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "muito menor, o que facilita sua dispersão para a atmosfera.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

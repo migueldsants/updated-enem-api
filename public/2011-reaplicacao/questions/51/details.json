@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2011 - Reaplicação",
+    "index": 51,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A reciclagem exerce impacto considerável sobre a\neficiência energética. Embora restaurar materiais que\nforam descartados também consuma energia, é possível\nque essa energia seja substancialmente menor. O gráfico\nseguinte indica a quantidade de energia necessária\npara a produção de materiais primários e reciclados.\nA maioria dos metais ocorre na crosta terrestre como\nóxidos que devem ser reduzidos para recuperar o\nmetal elementar, o que consome grande quantidade\nde energia. As entalpias-padrão de formação dos óxidos\nde alumínio e ferro são, respectivamente: -1 675,7 kJ/mol e\n-824,2 kJ/mol.\n\n![](https://enem.dev/2011-reaplicacao/questions/51/af622331-08da-4d15-b10d-2f1a287ff707.png)\n\nSPIRO, T. G.; STIGLIANI, W. M. Química Ambiental.\nSão Paulo: Pearson Education do Brasil, 2008 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/51/af622331-08da-4d15-b10d-2f1a287ff707.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A energia gasta na obtenção do alumínio a partir\ndo seu material primário é maior do que a do aço,\nporque o alumínio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "forma seu óxido absorvendo menos energia que o ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "requer 200 vezes mais energia para ser isolado do seu minério do que o ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "requer praticamente o dobro de energia para ser isolado do seu óxido do que requer o ferro, no estado padrão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apresenta entalpia de formação no seu óxido menor do que a entalpia do ferro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "apresenta somente uma valência constante, enquanto o ferro pode apresentar normalmente",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

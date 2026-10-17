@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2010 - Reaplicação",
+    "index": 167,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O trabalho emempresasdefestasexigedosprofissionais\nconhecimentos de diferentes áreas. Na semana passada,\ntodos os funcionários de uma dessas empresas estavam\nenvolvidos na tarefa de determinar a quantidade de\nestrelas que seriam utilizadas na confecção de um painel\nde Natal.\nUm dos funcionários apresentou um esboço das primeiras\ncinco linhas do painel, que terá, no total, 150 linhas.\n\n![](https://enem.dev/2010-reaplicacao/questions/167/1f6bbd10-ff51-4b84-8fa5-cb210bce9670.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/167/1f6bbd10-ff51-4b84-8fa5-cb210bce9670.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após avaliar o esboço, cada um dos funcionários\nesboçou sua resposta:\nFUNCIONÁRIO I: aproximadamente 200 estrelas.\nFUNCIONÁRIO II: aproximadamente 6 000 estrelas.\nFUNCIONÁRIO III: aproximadamente 12 000 estrelas.\nFUNCIONÁRIO IV: aproximadamente 22 500 estrelas.\nFUNCIONÁRIO V: aproximadamente 22 800 estrelas.\nQual funcionário apresentou um resultado mais próximo\nda quantidade de estrelas necessária?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

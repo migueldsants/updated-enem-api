@@ -1,0 +1,46 @@
+{
+    "title": "Questão 28 - ENEM 2006",
+    "index": 28,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "No Brasil, verifica-se que a Lua,\nquando está na fase cheia,\nnasce por volta das 18 horas e\n\n![](https://enem.dev/2006/questions/28/a4a588c4-28b9-4272-83ac-e63a7a638702.png)",
+    "files": [
+        "https://enem.dev/2006/questions/28/a4a588c4-28b9-4272-83ac-e63a7a638702.png",
+        "https://enem.dev/2006/questions/28/62ab934b-48ac-415a-9946-02250c9e1136.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "se põe por volta das 6 horas. Na\nfase nova, ocorre o inverso: a\nLua nasce às 6 horas e se põe\nàs 18 horas, aproximadamente.\nNas fases crescente e\nminguante, ela nasce e se põe em horários intermediários.\nSendo assim, a Lua na fase ilustrada na figura acima\npoderá ser observada no ponto mais alto de sua trajetória\nno céu por volta de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "meia-noite.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "três horas da madrugada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nove horas da manhã.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "meio-dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/28/62ab934b-48ac-415a-9946-02250c9e1136.png",
+            "isCorrect": true
+        }
+    ]
+}

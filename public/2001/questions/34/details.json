@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2001",
+    "index": 34,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O trecho a seguir é parte do poema “Mocidade e morte”, do poeta romântico Castro Alves:\n\nOh! eu quero viver, beber perfumes\nNa flor silvestre, que embalsama os ares;\nVer minh'alma adejar pelo infinito,\nQual branca vela n'amplidão dos mares.\nNo seio da mulher há tanto aroma...\nNos seus beijos de fogo há tanta vida...\n–– Árabe errante, vou dormir à tarde\nÀ sombra fresca da palmeira erguida.\n\nMas uma voz responde-me sombria:\nTerás o sono sob a lájea fria.\n\nALVES, Castro. Os melhores poemas de Castro Alves. Seleção de Lêdo Ivo. São Paulo: Global, 1983.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse poema, como o próprio título sugere, aborda o inconformismo do poeta com a\nantevisão da morte prematura, ainda na juventude.\nA imagem da morte aparece na palavra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "embalsama.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "infinito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "amplidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dormir.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sono.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

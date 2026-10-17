@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2002",
+    "index": 42,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "O ano muçulmano é composto de 12 meses, dentre eles o\nRamadã, mês sagrado para os muçulmanos que, em 2001,\nteve início no mês de novembro do Calendário Cristão,\nconforme a figura que segue.\n\n![](https://enem.dev/2002/questions/42/a7dea1de-b5fd-4c03-9a48-412bf86cd94b.png)",
+    "files": [
+        "https://enem.dev/2002/questions/42/a7dea1de-b5fd-4c03-9a48-412bf86cd94b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando as características do Calendário Muçulmano, é\npossível afirmar que, em 2001, o mês Ramadã teve início,\npara o Ocidente, em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "01 de novembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "08 de novembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16 de novembro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "20 de novembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "28 de novembro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

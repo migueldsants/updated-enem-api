@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2000",
+    "index": 24,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "―Casa que não entra sol, entra médico.‖ Esse antigo ditado reforça a",
+    "files": [
+        "https://enem.dev/2000/questions/24/13f05ae3-25e6-482e-8f3d-02edb81b3fc9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "importância de, ao construirmos casas, darmos orientações adequadas aos\ndormitórios, de forma a garantir o máximo conforto térmico e salubridade.\nAssim, confrontando casas construídas em Lisboa (ao norte do Trópico de\nCâncer) e em Curitiba (ao sul do Trópico de Capricórnio), para garantir a\nnecessária luz do sol, as janelas dos quartos não devem estar voltadas,\nrespectivamente, para os pontos cardeais:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "norte/sul.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "sul/norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "leste/oeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oeste/leste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/24/13f05ae3-25e6-482e-8f3d-02edb81b3fc9.png",
+            "isCorrect": false
+        }
+    ]
+}

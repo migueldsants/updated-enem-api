@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 1999",
+    "index": 40,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Uma pesquisadora francesa produziu o seguinte texto para caracterizar nosso país:\n\nO Brasil, quinto país do mundo em extensão territorial, é o mais vasto do hemisfério Sul. Ele faz parte essencialmente do\nmundo tropical, à exceção de seus estados mais meridionais, ao sul de São Paulo. O Brasil dispõe de vastos territórios\nsubpovoados, como o da Amazônia, conhece também um crescimento urbano extremamente rápido, índices de pobreza que\nnão diminuem e uma das sociedades mais desiguais do mundo. Qualificado de “terra de contrastes”, o Brasil é um país\nmoderno do Terceiro Mundo, com todas as contradições que isso tem por conseqüência.\n\n([Adaptado de] DROULERS, Martine. Dictionnaire geopolitique des états. Organizado por Yves Lacoste.\nParis: Éditions Flamarion, 1995)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O Brasil é qualificado como uma “terra de contrastes” por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fazer parte do mundo tropical, mas ter um crescimento urbano semelhante ao dos países temperados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "não conseguir evitar seu rápido crescimento urbano, por ser um país com grande extensão de fronteiras terrestres e de costa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "possuir grandes diferenças sociais e regionais e ser considerado um país moderno do Terceiro Mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "possuir vastos territórios subpovoados, apesar de não ter recursos econômicos e tecnológicos para explorá-los.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ter elevados índices de pobreza, por ser um país com grande extensão territorial e predomínio de atividades rurais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

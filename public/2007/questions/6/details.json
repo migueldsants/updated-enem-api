@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2007",
+    "index": 6,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "A figura abaixo é parte de uma campanha publicitária.\n\n![](https://enem.dev/2007/questions/6/e07f955b-559f-49b5-9e4b-8ba664e807e9.png)",
+    "files": [
+        "https://enem.dev/2007/questions/6/e07f955b-559f-49b5-9e4b-8ba664e807e9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa campanha publicitária relaciona-se diretamente com\na seguinte afirmativa:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O comércio ilícito da fauna silvestre, atividade de grande impacto, é uma ameaça para a biodiversidade nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A manutenção do mico-leão-dourado em jaula é a medida que garante a preservação dessa espécie animal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O Brasil, primeiro país a eliminar o tráfico do mico-leão-dourado, garantiu a preservação dessa espécie.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O aumento da biodiversidade em outros países depende do comércio ilegal da fauna silvestre brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O tráfico de animais silvestres é benéfico para a preservação das espécies, pois garante-lhes a sobrevivência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 136 - ENEM 2010 - Reaplicação",
+    "index": 136,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/136/4d731940-9387-468c-a929-cfca2dfb29aa.png",
+        "https://enem.dev/2010-reaplicacao/questions/136/1f5ce152-6634-4950-acca-04248aaca953.png",
+        "https://enem.dev/2010-reaplicacao/questions/136/e0913fae-b41a-4c0b-9f31-8d3c4d7a926a.png",
+        "https://enem.dev/2010-reaplicacao/questions/136/5bf53985-ec0b-4266-ae26-6e195d97f3f2.png",
+        "https://enem.dev/2010-reaplicacao/questions/136/61908961-3957-4276-887d-12fc8122a20a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para confeccionar, em madeira, um cesto de lixo que\ncomporá o ambiente decorativo de uma sala de aula, um\nmarceneiro utilizará, para as faces laterais, retângulos\ne trapézios isósceles e, para o fundo, um quadrilátero,\ncom os lados de mesma medida e ângulos retos.\nQual das figuras representa o formato de um cesto que\npossui as características estabelecidas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/136/4d731940-9387-468c-a929-cfca2dfb29aa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/136/1f5ce152-6634-4950-acca-04248aaca953.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/136/e0913fae-b41a-4c0b-9f31-8d3c4d7a926a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/136/5bf53985-ec0b-4266-ae26-6e195d97f3f2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/136/61908961-3957-4276-887d-12fc8122a20a.png",
+            "isCorrect": false
+        }
+    ]
+}

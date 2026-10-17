@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2011 - Reaplicação",
+    "index": 95,
+    "year": 2011,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Slumdog Millionaire\nDanny Boyle’s “Slumdog Millionaire” hits the\nground running. This is a breathless, exciting story,\nheartbreaking and exhilarating at the same time, about\na Mumbai orphan who rises from rags to riches on the\nstrength of his lively intelligence. The film’s universal\nappeal presents the real India to millions of moviegoers\nfor the first time.\n\nThe real India, supercharged with a plot as reliable\nand eternal as the hills. The film’s surface is so dazzling\nthat you hardly realize how traditional it is underneath.\nBut it’s the buried structure that pulls us through the story\nlike a big engine on a short train.\n\nBy the real India, I don’t mean an unblinking\ndocumentary like Louis Malle’s “Calcutta” or the recent\n“Born Into Brothels.” I mean the real India of social levels\nthat seem to be separated by centuries. What do people\nthink of when they think of India? On the one hand,\nMother Teresa, “Salaam Bombay!” and the wretched of\nthe earth. On the other, the “Masterpiece Theater”-style\nimages of “A Passage to India,” “Gandhi” and “The Jewel\nin the Crown.”\n\nThe film uses dazzling cinematography, breathless\nediting, driving music and headlong momentum to\nexplode with narrative force, stirring in a romance at the\nsame time.\n\nEBERT, R. Disponível em: http://rogerebert.suntimes.com. Acesso em: 11 abr. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto trata do premiado filme indiano “Slumdog\nMillionaire”. Segundo a resenha apresentada, a história\nretrata uma Índia real, uma vez que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "retrata sentimentos universais compartilhados por algumas culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revela a tradicional separação de classes sociais em um cenário inovador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "se assemelha a documentários anteriormente produzidos por outros cineastas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "representa o caráter romântico da cultura indiana expressa em suas produções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aproxima a nova cinematografia indiana de filmes grandiosos produzidos em outros países.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

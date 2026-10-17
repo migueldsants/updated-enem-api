@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2010 - Reaplicação",
+    "index": 23,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A dependência regional maior ou menor da mão de\nobra escrava teve reflexos políticos importantes no\nencaminhamento da extinção da escravatura. Mas a\npossibilidade e a habilidade de lograr uma solução\nalternativa – caso típico de São Paulo – desempenharam,\nao mesmo tempo, papel relevante.\n\nFAUSTO, B. História do Brasil. São Paulo: EDUSP, 2000.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A crise do escravismo expressava a difícil questão em\ntorno da substituição da mão de obra, que resultou",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na constituição de um mercado interno de mão de obra livre, constituído pelos libertos, uma vez que a maioria dos imigrantes se rebelou contra a superexploração do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "no confronto entre a aristocracia tradicional, que defendia a escravidão e os privilégios políticos, e os cafeicultores, que lutavam pela modernização econômica com a adoção do trabalho livre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "no “branqueamento” da população, para afastar o predomínio das raças consideradas inferiores e concretizar a ideia do Brasil como modelo de civilização dos trópicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no tráfico interprovincial dos escravos das áreas decadentes do Nordeste para o Vale do Paraíba, para a garantia da rentabilidade do café.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na adoção de formas disfarçadas de trabalho compulsório com emprego dos libertos nos cafezais paulistas, uma vez que os imigrantes foram trabalhar em outras regiões do país.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

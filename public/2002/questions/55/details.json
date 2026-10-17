@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2002",
+    "index": 55,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As cidades de Quito e Cingapura encontram-se próximas à linha do equador e em pontos diametralmente opostos no globo\nterrestre. Considerando o raio da Terra igual a 6370 km, pode-se afirmar que um avião saindo de Quito, voando em média 800\nkm/h, descontando as paradas de escala, chega a Cingapura em aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25 horas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "32 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "36 horas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2001",
+    "index": 47,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "“...O Brasil tem potencial para produzir pelo menos 15 mil megawatts por hora de energia a\npartir de fontes alternativas.\nSomente nos Estados da região Sul, o potencial de geração de energia por intermédio das\nsobras agrícolas e florestais é de 5.000 megawatts por hora.\nPara se ter uma idéia do que isso representa, a usina hidrelétrica de Ita, uma das maiores do\npaís, na divisa entre o Rio Grande do Sul e Santa Catarina, gera 1.450 megawatts de energia\npor hora.”",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse texto, transcrito de um jornal de grande circulação, contém, pelo menos, um erro\nconceitual ao apresentar valores de produção e de potencial de geração de energia. Esse\nerro consiste em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentar valores muito altos para a grandeza energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "usar unidade megawatt para expressar os valores de potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "usar unidades elétricas para biomassa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fazer uso da unidade incorreta megawatt por hora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "apresentar valores numéricos incompatíveis com as unidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

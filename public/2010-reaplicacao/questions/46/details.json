@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2010 - Reaplicação",
+    "index": 46,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A interferência do homem no meio ambiente tem feito\ncom que espécies de seres vivos desapareçam muito\nmais rapidamente do que em épocas anteriores. Vários\nmecanismos de proteção ao planeta têm sido discutidos\npor cientistas, organizações e governantes. Entre esses\nmecanismos, destaca-se o acordado na Convenção\nsobre a Diversidade Biológica durante a Rio 92, que\nafirma que a nação tem direito sobre a variedade de\nvida contida em seu território e o dever de conservá-la\nutilizando-se dela de forma sustentável.\nA dificuldade encontrada pelo Brasil em seguir o acordo\nda Convenção sobre a Diversidade Biológica decorre,\nentre outros fatores, do fato de a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "extinção de várias espécies ter ocorrido em larga escala.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alta biodiversidade no país impedir a sua conservação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilização de espécies nativas de forma sustentável ser utópica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "grande extensão de nosso território dificultar a sua fiscalização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "classificação taxonômica de novas espécies ocorrer de forma lenta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

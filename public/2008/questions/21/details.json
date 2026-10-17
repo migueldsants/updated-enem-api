@@ -1,0 +1,47 @@
+{
+    "title": "Questão 21 - ENEM 2008",
+    "index": 21,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O tangram é um jogo oriental antigo, uma espécie\nde quebra-cabeça, constituído de sete peças: 5 triângulos\nretângulos e isósceles, 1 paralelogramo e 1 quadrado.\nEssas peças são obtidas recortando-se um quadrado de\nacordo com o esquema da figura 1. Utilizando-se todas as\nsete peças, é possível representar uma grande diversidade\nde formas, como as exemplificadas nas figuras 2 e 3.\n\nB\n\nA\n\n![](https://enem.dev/2008/questions/21/0c2c8d13-9673-4e6b-b2dc-ec065511e1d0.png)\n\n![](https://enem.dev/2008/questions/21/a727c5b6-c65f-4c19-8b87-15581f19b410.png)\n\n![](https://enem.dev/2008/questions/21/b0018762-9c14-4024-b3b5-8553917afd95.png)\n\nFigura 1 Figura 2 Figura 3",
+    "files": [
+        "https://enem.dev/2008/questions/21/0c2c8d13-9673-4e6b-b2dc-ec065511e1d0.png",
+        "https://enem.dev/2008/questions/21/a727c5b6-c65f-4c19-8b87-15581f19b410.png",
+        "https://enem.dev/2008/questions/21/b0018762-9c14-4024-b3b5-8553917afd95.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se o lado AB do hexágono mostrado na figura 2 mede\n2 cm, então a área da figura 3, que representa uma\n“casinha”, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8 cm².",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "12 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "16 cm².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

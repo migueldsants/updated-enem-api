@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2011 - Reaplicação",
+    "index": 2,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A problemática ambiental surgiu nas últimas\ndécadas do século XX como uma crise de civilização,\nquestionando a racionalidade econômica e tecnológica\ndominantes. Com isso, novas organizações da sociedade\ncivil despontaram, interessadas em um alternativo de\nrelação sociedade e natureza.\n\nMIGUEL, K. G. A expressão dos movimentos ambientais na atualidade: mídia, diversidade\n\ne igualdade. Disponível em: http://www.intercom.org.br. Acesso em: 22 set. 2010.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os movimentos sociais, em especial o movimento\nambientalista, têm participado de forma decisiva na\nmudança de postura por parte das grandes empresas,\nprincipalmente no que diz respeito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ao sistema produtivo, que considera os custos ambientais, já que muitos recursos são retirados da natureza e apresentam um meio adequado de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reposição. à observação dos direitos civis, que são conquistas do poder público e resultam na observação de toda",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a legislação ambiental existente nos países. à diminuição da poluição emitida, porque essas empresas detêm grande parte da riqueza e tecnologia",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "e utilizam cada vez menos recursos naturais. ao final da produção, quando os dejetos são devolvidos ao meio ambiente após a verificação dos efeitos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "negativos que poderiam causar ao longo do tempo. à adoção de medidas sustentáveis, a fim de que essas empresas atuem com responsabilidade nos locais em que estão instaladas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

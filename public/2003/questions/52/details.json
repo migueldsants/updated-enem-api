@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2003",
+    "index": 52,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Jean de Léry viveu na França na segunda metade do século XVI, época em que as chamadas guerras de religião\nopuseram católicos e protestantes. No texto abaixo, ele relata o cerco da cidade de Sancerre por tropas católicas.\n\n(…) desde que os canhões começaram a atirar sobre nós com maior freqüência, tornou-se necessário que\ntodos dormissem nas casernas. Eu logo providenciei para mim um leito feito de um lençol atado pelas suas\nduas pontas e assim fiquei suspenso no ar, à maneira dos selvagens americanos (entre os quais eu estive\ndurante dez meses) o que foi imediatamente imitado por todos os nossos soldados, de tal maneira que a\ncaserna logo ficou cheia deles. Aqueles que dormiram assim puderam confirmar o quanto esta maneira é\napropriada tanto para evitar os vermes quanto para manter as roupas limpas (...).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Neste texto, Jean de Léry",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "despreza a cultura e rejeita o patrimônio dos indígenas americanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revela-se constrangido por ter de recorrer a um invento de “selvagens”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reconhece a superioridade das sociedades indígenas americanas com relação aos europeus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "valoriza o patrimônio cultural dos indígenas americanos, adaptando-o às suas necessidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "valoriza os costumes dos indígenas americanos porque eles também eram perseguidos pelos católicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2010 - Reaplicação",
+    "index": 25,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na antiga Grécia, o teatro tratou de questões como\ndestino, castigo e justiça. Muitos gregos sabiam de cor\ninúmeros versos das peças dos seus grandes autores.\nNa Inglaterra dos séculos XVI e XVII, Shakespeare\nproduziu peças nas quais temas como o amor, o poder,\no bem e o mal foram tratados. Nessas peças, os grandes\npersonagens falavam em verso e os demais em prosa.\nNo Brasil colonial, os índios aprenderam com os jesuítas\na representar peças de caráter religioso.\nEsses fatos são exemplos de que, em diferentes tempos\ne situações, o teatro é uma forma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "de manipulação do povo pelo poder, que controla o teatro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "de diversão e de expressão dos valores e problemas da sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "de entretenimento popular, que se esgota na sua função de distrair.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "de manipulação do povo pelos intelectuais que compõem as peças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "de entretenimento, que foi superada e hoje é substituída pela televisão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

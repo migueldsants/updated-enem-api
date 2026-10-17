@@ -1,0 +1,47 @@
+{
+    "title": "Questão 54 - ENEM 2000",
+    "index": 54,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O suco extraído do repolho roxo pode ser utilizado como indicador do caráter\nácido (pH entre 0 e 7) ou básico (pH entre 7 e 14) de diferentes soluções.\nMisturando-se um pouco de suco de repolho e da solução, a mistura passa a\napresentar diferentes cores, segundo sua natureza ácida ou básica, de acordo\ncom a escala abaixo.\n\n![](https://enem.dev/2000/questions/54/af08fec6-a960-4ce1-9606-6f9b213a1fc8.png)\n\nAlgumas soluções foram testadas com esse indicador, produzindo os seguintes\nresultados:\n\n![](https://enem.dev/2000/questions/54/d8f1e560-a45d-4723-8c22-261fa27f20ec.png)",
+    "files": [
+        "https://enem.dev/2000/questions/54/af08fec6-a960-4ce1-9606-6f9b213a1fc8.png",
+        "https://enem.dev/2000/questions/54/d8f1e560-a45d-4723-8c22-261fa27f20ec.png",
+        "https://enem.dev/2000/questions/54/d6a485fe-371b-4178-a64b-5d105cc4d341.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com esses resultados, as soluções I, II, III e IV têm,\nrespectivamente, caráter:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ácido/básico/básico/ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ácido/básico/ácido/básico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "básico/ácido/básico/ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ácido/ácido/básico/básico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/54/d6a485fe-371b-4178-a64b-5d105cc4d341.png",
+            "isCorrect": true
+        }
+    ]
+}

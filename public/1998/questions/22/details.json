@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 1998",
+    "index": 22,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "No quadro abaixo estão as contas de luz e água de uma mesma residência. Além do valor a pagar,\ncada conta mostra como calculá-lo, em função do consumo de água (em m³) e de eletricidade (em\nkwh). Observe que, na conta de luz, o valor a pagar é igual ao consumo multiplicado por um certo\nfator. Já na conta de água, existe uma tarifa mínima e diferentes faixas de tarifação.\n\n![](https://enem.dev/1998/questions/22/2a27b80e-933b-4e81-8c60-257c16cac3e4.png)",
+    "files": [
+        "https://enem.dev/1998/questions/22/2a27b80e-933b-4e81-8c60-257c16cac3e4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que, no próximo mês, dobre o consumo de energia elétrica dessa residência. O novo valor da\nconta será de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 55,23",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 106,46",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 802,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 100,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 22,90",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

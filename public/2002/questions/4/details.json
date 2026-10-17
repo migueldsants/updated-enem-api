@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2002",
+    "index": 4,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A chuva em locais não poluídos é levemente ácida. Em locais\nonde os níveis de poluição são altos, os valores do pH da chuva\npodem ficar abaixo de 5,5, recebendo, então, a denominação de\n“chuva ácida”. Este tipo de chuva causa prejuízos nas mais\ndiversas áreas: construção civil, agricultura, monumentos\nhistóricos, entre outras.\n\nA acidez da chuva está relacionada ao pH da seguinte forma:\nconcentração de íons hidrogênio = 10-pH , sendo que o pH pode\nassumir valores entre 0 e 14.\n\nAo realizar o monitoramento do pH da chuva em Campinas (SP)\nnos meses de março, abril e maio de 1998, um centro de\npesquisa coletou 21 amostras, das quais quatro têm seus valores\nmostrados na tabela:\n\n![](https://enem.dev/2002/questions/4/68720126-9710-4f26-b452-3f030c49aee8.png)\n\nA análise da fórmula e da tabela permite afirmar que:\n\nI. da 6ª para a 14ª amostra ocorreu um aumento de 50% na\n\nacidez.\nII. a 18ª amostra é a menos ácida dentre as expostas.\nIII. a 8ª amostra é dez vezes mais ácida que a 14ª.\nIV. as únicas amostras de chuvas denominadas ácidas são a\n\n6ª e a 8ª.",
+    "files": [
+        "https://enem.dev/2002/questions/4/68720126-9710-4f26-b452-3f030c49aee8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "São corretas apenas as afirmativas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I, II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II, III e IV.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2001",
+    "index": 11,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Algumas medidas podem ser propostas com relação aos problemas da água:\n\nI. Represamento de rios e córregos próximo às cidades de maior porte.\nII. Controle da ocupação urbana, especialmente em torno dos mananciais.\nIII. Proibição do despejo de esgoto industrial e doméstico sem tratamento nos rios e\n\nrepresas.\nIV. Transferência de volume de água entre bacias hidrográficas para atender as cidades\n\nque já apresentam alto grau de poluição em seus mananciais.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As duas ações que devem ser tratadas como prioridades para a preservação da qualidade\ndos recursos hídricos são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2004",
+    "index": 43,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As previsões de que, em poucas décadas, a produção mundial de petróleo possa vir a cair têm gerado preocupação, dado seu\ncaráter estratégico. Por essa razão, em especial no setor de transportes, intensificou-se a busca por alternativas para a\nsubstituição do petróleo por combustíveis renováveis. Nesse sentido, além da utilização de álcool, vem se propondo, no Brasil,\nainda que de forma experimental,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a mistura de percentuais de gasolina cada vez maiores no álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a extração de óleos de madeira para sua conversão em gás natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o desenvolvimento de tecnologias para a produção de biodiesel.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a utilização de veículos com motores movidos a gás do carvão mineral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a substituição da gasolina e do diesel pelo gás natural.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2000",
+    "index": 1,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Ferreira Gullar, um dos grandes poetas brasileiros da atualidade, é autor de\n“Bicho urbano”, poema sobre a sua relação com as pequenas e grandes\ncidades.\n\nBicho urbano\n\nSe disser que prefiro morar em Pirapemas\nou em outra qualquer pequena cidade do país\nestou mentindo\nainda que lá se possa de manhã\nlavar o rosto no orvalho\ne o pão preserve aquele branco\nsabor de alvorada.\n.....................................................................\nA natureza me assusta.\nCom seus matos sombrios suas águas\nsuas aves que são como aparições\nme assusta quase tanto quanto\nesse abismo\nde gases e de estrelas\naberto sob minha cabeça.\n\n(GULLAR, Ferreira. Toda poesia. Rio de Janeiro:\nJosé Olympio Editora, 1991)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Embora não opte por viver numa pequena cidade, o poeta reconhece elementos\nde valor no cotidiano das pequenas comunidades. Para expressar a relação do\nhomem com alguns desses elementos, ele recorre à sinestesia, construção de\nlinguagem em que se mesclam impressões sensoriais diversas. Assinale a\nopção em que se observa esse recurso.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "\"e o pão preserve aquele branco / sabor de alvorada.\"",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "\"ainda que lá se possa de manhã / lavar o rosto no orvalho\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "\"A natureza me assusta. / Com seus matos sombrios suas águas\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "\"suas aves que são como aparições / me assusta quase tanto quanto\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "\"me assusta quase tanto quanto / esse abismo /de gases e de estrelas\"",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

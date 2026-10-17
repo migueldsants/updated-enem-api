@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2011 - Reaplicação",
+    "index": 97,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Figura I: Disponível em: http://www.dicasdedanca.com.br. Figura II: Disponível em: http://www.canalkids.com.br.\nFigura III: Disponível em: http://2.bp.blogspot.com. Figura IV: Disponível em: http://esporaprata.zip.net. Acessos em: 1 maio 2010.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Cada região do país, por meio de suas danças populares, expressa sua cultura, que envolve aspectos sociais,\neconômicos, históricos, entre outros. As danças provocam a associação entre música e ritmo e o desenvolvimento\nde maior sensibilidade dos órgãos sensoriais. A ampliação da intensidade da audição aumenta a concentração,\npossibilitando o processo de transformação do ritmo musical em movimento espontâneo. Como exemplo de danças,\ntem-se o carimbó, na região Norte, e as danças gaúchas, na região Sul.\nNesse contexto, as danças populares permitem a descontração, o desenvolvimento e o descanso por serem\natividades lúdicas que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promovem a interação, o conhecimento de diferentes ritmos e permitem minimizar o estresse da vida diária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "reduzem a participação, promovem competições em festivais e o conhecimento de outros ritmos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "impedem a socialização de todos, reduzindo a expressividade, por exigir habilidades corporais e espontaneidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "permitem o desligamento dos elementos históricos, relacionando-as com os movimentos políticos e sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reduzem a expressão corporal e as experiências, por utilizarem símbolos de outras culturas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

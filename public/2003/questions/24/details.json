@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2003",
+    "index": 24,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Produtos de limpeza, indevidamente guardados ou manipulados, estão entre as principais causas de\nacidentes domésticos. Leia o relato de uma pessoa que perdeu o olfato por ter misturado água sanitária,\namoníaco e sabão em pó para limpar um banheiro:\n\nA mistura ferveu e começou a sair uma fumaça asfixiante. Não conseguia respirar e meus olhos, nariz e\ngarganta começaram a arder de maneira insuportável. Saí correndo à procura de uma janela aberta para\npoder voltar a respirar.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O trecho sublinhado poderia ser reescrito, em linguagem científica, da seguinte forma:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As substâncias químicas presentes nos produtos de limpeza evaporaram.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Com a mistura química, houve produção de uma solução aquosa asfixiante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As substâncias sofreram transformações pelo contato com o oxigênio do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Com a mistura, houve transformação química que produziu rapidamente gases tóxicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Com a mistura, houve transformação química, evidenciada pela dissolução de um sólido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

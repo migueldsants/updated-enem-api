@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2010 - Reaplicação",
+    "index": 94,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Crystal Ball\nCome see your life in my crystal glass –\nTwenty-five cents is all you pay.\nLet me look into your past –\nHere’s what you had for lunch today:\nTuna salad and mashed potatoes,\nCollard greens pea soup and apple juice,\nChocolate milk and lemon mousse.\nYou admit I’ve got told it all?\nWell, I know it, I confess,\nNot by looking, in my ball,\nBut just by looking at your dress.\n\nSILVERSTEIN, S. Falling up. New York: Harper Collins Publishers, 1996.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A curiosidade a respeito do futuro pode exercer um\nfascínio peculiar sobre algumas pessoas, a ponto de\ncolocá-las em situações inusitadas. Na letra da música\nCrystal Ball, essa situação fica evidente quando é\nrevelado à pessoa que ela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "recebeu uma boa notícia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ganhou um colar de pedras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "se sujou durante o almoço.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "comprou vestidos novos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "encontrou uma moeda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

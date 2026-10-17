@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2001",
+    "index": 41,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A partir do primeiro semestre de 2000, a ocorrência de casos humanos de febre amarela\nsilvestre extrapolou as áreas endêmicas, com registro de casos em São Paulo e na Bahia,\nonde os últimos casos tinham ocorrido em 1953 e 1948. Para controlar a febre amarela\nsilvestre e prevenir o risco de uma reurbanização da doença, foram propostas as seguintes\nações:\n\nI. Exterminar os animais que servem de reservatório do vírus causador da doença.\n\nII. Combater a proliferação do mosquito transmissor.\n\nIII. Intensificar a vacinação nas áreas onde a febre amarela é endêmica e em suas regiões\n\nlimítrofes.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "É efetiva e possível de ser implementada uma estratégia envolvendo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ação II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as ações I e II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as ações I e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as ações II e III, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as ações I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

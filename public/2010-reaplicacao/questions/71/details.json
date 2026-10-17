@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2010 - Reaplicação",
+    "index": 71,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um molusco, que vive no litoral oeste dos EUA, pode\nredefinir tudo o que se sabe sobre a divisão entre animais\ne vegetais. Isso porque o molusco (Elysia chlorotica) é\num híbrido de bicho com planta. Cientistas americanos\ndescobriram que o molusco conseguiu incorporar um\ngene das algas e, por isso, desenvolveu a capacidade de\nfazer fotossíntese. É o primeiro animal a se “alimentar”\napenas de luz e CO₂, como as plantas.\n\nGARATONI, B. Superinteressante. Edição 276, mar. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A capacidade de o molusco fazer fotossíntese deve estar\nassociada ao fato de o gene incorporado permitir que ele\npasse a sintetizar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "clorofila, que utiliza a energia do carbono para produzir glicose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "citocromo, que utiliza a energia da água para formar oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "clorofila, que doa elétrons para converter gás carbônico em oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "citocromo, que doa elétrons da energia luminosa para produzir glicose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "clorofila, que transfere a energia da luz para compostos orgânicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2000",
+    "index": 57,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O uso do pronome átono no início das frases é destacado por um poeta e por\num gramático nos textos abaixo.\n\nPronominais\n\nDê-me um cigarro\nDiz a gramática\nDo professor e do aluno\nE do mulato sabido\n\nMas o bom negro e o bom branco\nda Nação Brasileira\nDizem todos os dias\nDeixa disso camarada\nMe dá um cigarro\n(ANDRADE, Oswald de. Seleção de textos. São Paulo:\nNova Cultural, 1988)\n\n―Iniciar a frase com pronome átono só é lícito na conversação familiar,\ndespreocupada, ou na língua escrita quando se deseja reproduzir a fala\ndos personagens (...).‖\n\n(CEGALLA, Domingos Paschoal. Novíssima gramática da língua portuguesa.\nSão Paulo: Nacional, 1980)",
+    "files": [
+        "https://enem.dev/2000/questions/57/45b85580-fe94-4de1-8081-6b8f91472e60.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Comparando a explicação dada pelos autores sobre essa regra, pode-se afirmar\nque ambos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "condenam essa regra gramatical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acreditam que apenas os esclarecidos sabem essa regra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criticam a presença de regras na gramática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "afirmam que não há regras para uso de pronomes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/57/45b85580-fe94-4de1-8081-6b8f91472e60.png",
+            "isCorrect": true
+        }
+    ]
+}

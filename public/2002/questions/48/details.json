@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2002",
+    "index": 48,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Em março de 2001, o presidente dos Estados Unidos da\nAmérica, George W. Bush, causou polêmica ao contestar o pacto\nde Kyoto, dizendo que o acordo é prejudicial à economia norte-\namericana em um momento em que o país passa por uma crise\nde energia (...) O protocolo de Kyoto prevê que os países\nindustrializados reduzam suas emissões de CO2 até 2012 em\n5,2%, em relação aos níveis de 1990.\n\nAdaptado da Folha de São Paulo, 11/04/2001.\n\nO gráfico mostra o total de CO2 emitido nos últimos 50 anos por\n\n![](https://enem.dev/2002/questions/48/2d7dd58d-067d-4a85-a738-4c8cc4891f75.png)\n\nalguns países, juntamente com os valores de emissão máxima\nde CO2 por habitante no ano de 1999.\n\nDados populacionais aproximados (nº de habitantes):\n\n- EUA: 240 milhões\n- BRASIL: 160 milhões",
+    "files": [
+        "https://enem.dev/2002/questions/48/2d7dd58d-067d-4a85-a738-4c8cc4891f75.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se o Brasil mantivesse constante a sua população e o seu índice\nanual máximo de emissão de CO2, o tempo necessário para o\nBrasil atingir o acumulado atual dos EUA seria,\naproximadamente, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "60 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "230 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "460 anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "850 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1340 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2008",
+    "index": 43,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Defende-se que a inclusão da carne bovina na\ndieta é importante, por ser uma excelente fonte de\nproteínas. Por outro lado, pesquisas apontam efeitos\nprejudiciais que a carne bovina traz à saúde, como o risco\nde doenças cardiovasculares. Devido aos teores de\ncolesterol e de gordura, há quem decida substituí-la por\noutros tipos de carne, como a de frango e a suína.\nO quadro abaixo apresenta a quantidade de colesterol em\n\n![](https://enem.dev/2008/questions/43/835eeb7c-7a80-4697-9fcd-85162c42ad61.png)\n\nCom base nessas informações, avalie as afirmativas a\nseguir.\nI O risco de ocorrerem doenças cardiovasculares por\ningestões habituais da mesma quantidade de carne é\nmenor se esta for carne branca de frango do que se for\ntoucinho.\nII Uma porção de contrafilé cru possui, aproximadamente,\n50% de sua massa constituída de colesterol.\nIII A retirada da pele de uma porção cozida de carne\n\nescura de frango altera a quantidade de colesterol a ser\ningerida.\nIV A pequena diferença entre os teores de colesterol\n\nencontrados no toucinho cru e no cozido indica que\nesse tipo de alimento é pobre em água.",
+    "files": [
+        "https://enem.dev/2008/questions/43/835eeb7c-7a80-4697-9fcd-85162c42ad61.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e IV.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

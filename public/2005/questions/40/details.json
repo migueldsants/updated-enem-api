@@ -1,0 +1,47 @@
+{
+    "title": "Questão 40 - ENEM 2005",
+    "index": 40,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Nos últimos meses o preço do petróleo tem alcançado recordes históricos. Por isso a procura de fontes energéticas\nalternativas se faz necessária. Para os especialistas, uma das mais interessantes é o gás natural, pois ele\napresentaria uma série de vantagens em relação a outras opções energéticas.\nA tabela compara a distribuição das reservas de petróleo e de gás natural no mundo, e a figura, a emissão de\nmonóxido de carbono entre vários tipos de fontes energéticas.\n\n![](https://enem.dev/2005/questions/40/2a34343e-9e9c-458c-b497-828cf4f5b73e.png)\n\n![](https://enem.dev/2005/questions/40/c25321a6-d3dc-4dc0-b0cf-112e77c00f3e.png)\n\n![](https://enem.dev/2005/questions/40/85366f9a-f3db-46a9-8422-5e775700aec5.png)\n\n(Fonte: Gas World International – Petroleum Economist.)\n\nA partir da análise da tabela e da figura, são feitas as seguintes afirmativas:\n\nI – Enquanto as reservas mundiais de petróleo estão concentradas geograficamente, as reservas mundiais de gás\n\nnatural são mais distribuídas ao redor do mundo garantindo um mercado competitivo, menos dependente de\ncrises internacionais e políticas.\nII – A emissão de dióxido de carbono (CO₂) para o gás natural é a mais baixa entre os diversos combustíveis",
+    "files": [
+        "https://enem.dev/2005/questions/40/2a34343e-9e9c-458c-b497-828cf4f5b73e.png",
+        "https://enem.dev/2005/questions/40/c25321a6-d3dc-4dc0-b0cf-112e77c00f3e.png",
+        "https://enem.dev/2005/questions/40/85366f9a-f3db-46a9-8422-5e775700aec5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "analisados, o que é importante, uma vez que esse gás é um dos principais responsáveis pelo agravamento do\nefeito estufa.\nCom relação a essas afirmativas pode-se dizer que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a primeira está incorreta, pois novas reservas de petróleo serão descobertas futuramente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a segunda está incorreta, pois o dióxido de carbono (CO₂) apresenta pouca importância no agravamento do efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ambas são análises corretas, mostrando que o gás natural é uma importante alternativa energética.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ambas não procedem para o Brasil, que já é praticamente auto-suficiente em petróleo e não contribui para o agravamento do efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nenhuma delas mostra vantagem do uso de gás natural sobre o petróleo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 37 - ENEM 2004",
+    "index": 37,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O jornal de uma pequena cidade publicou a seguinte notícia:\n\nCORREIO DA CIDADE\n\nABASTECIMENTO COMPROMETIDO\n\nO novo pólo agroindustrial em nossa cidade tem\natraído um enorme e constante fluxo migratório, Esse crescimento tem ameaçado nosso fornecimento\nresultando em um aumento da população em torno de de água, pois os mananciais que abastecem a cidade\n2000 habitantes por ano, conforme dados do nosso têm capacidade para fornecer até 6 milhões de litros\n\n![](https://enem.dev/2004/questions/37/6b394156-b6a6-4d2d-9c2e-c58e11f09e70.png)\n\n![](https://enem.dev/2004/questions/37/027ad1c8-e75c-4722-8642-43180e4d32de.png)\n\ncenso: de água por dia. A prefeitura, preocupada com essa\n\nAno População situação, vai iniciar uma campanha visando\n\nestabelecer um consumo médio de 150 litros por dia,\n\n1995 11.965\n\npor habitante.\n\n1997 15.970\n1999 19.985\n2001 23.980\n2003 27.990",
+    "files": [
+        "https://enem.dev/2004/questions/37/6b394156-b6a6-4d2d-9c2e-c58e11f09e70.png",
+        "https://enem.dev/2004/questions/37/027ad1c8-e75c-4722-8642-43180e4d32de.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A análise da notícia permite concluir que a medida é oportuna. Mantido esse fluxo migratório e bem sucedida a campanha, os\nmananciais serão suficientes para abastecer a cidade até o final de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2005.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2006.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2007.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2008.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2009.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

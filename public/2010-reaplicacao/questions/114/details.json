@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2010 - Reaplicação",
+    "index": 114,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O Arlequim, o Pierrô, a Brighella ou a Colombina são\npersonagens típicos de grupos teatrais da Commedia\ndell’art, que, há anos, encontram-se presentes em\nmarchinhas e fantasias de carnaval. Esses grupos\nteatrais seguiam, de cidade em cidade, com faces e\ndisfarces, fazendo suas críticas, declarando seu amor\npor todas as belas jovens e, ao final da apresentação,\ndespediam-se do público com músicas e poesias.\nA intenção desses atores era expressar sua mensagem\nvoltada para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "crença na dignidade do clero e na divisão entre o mundo real e o espiritual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ideologia de luta social que coloca o homem no centro do processo histórico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "crença na espiritualidade e na busca incansável pela justiça social dos feudos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ideia de anarquia expressa pelos trovadores iluministas do início do século XVI.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ideologia humanista com cenas centradas no homem, na mulher e no cotidiano.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

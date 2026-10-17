@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2002",
+    "index": 41,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Existem muitas diferenças entre as culturas cristã e islâmica.\nUma das principais diz respeito ao Calendário. Enquanto o\nCalendário Cristão (Gregoriano) considera um ano como o\nperíodo correspondente ao movimento de translação da Terra\nem torno do Sol – aproximadamente 365 dias, o Calendário\nMuçulmano se baseia nos movimentos de translação da Lua em\ntorno da Terra – aproximadamente 12 por ano, o que\ncorresponde a anos intercalados de 254 e 255 dias.\n\nConsiderando que o Calendário Muçulmano teve início em 622\nda era cristã e que cada 33 anos muçulmanos correspondem a\n32 anos cristãos, é possível estabelecer uma correspondência\naproximada de anos entre os dois calendários, dada por:",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "(C = Anos Cristãos e M = Anos Muçulmanos)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C = M + 622 – (M/33).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "C = M – 622 + (C - 622/32).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C = M – 622 – (M/33).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C = M – 622 + (C - 622/33).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C = M + 622 – (M/32).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

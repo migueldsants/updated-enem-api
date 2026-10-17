@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2005",
+    "index": 6,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Leia com atenção o texto:\n\n[Em Portugal], você poderá ter alguns probleminhas se entrar numa loja de roupas desconhecendo certas sutilezas\nda língua. Por exemplo, não adianta pedir para ver os ternos — peça para ver os fatos. Paletó é casaco. Meias são\npeúgas. Suéter é camisola — mas não se assuste, porque calcinhas femininas são cuecas. (Não é uma delícia?)\n\n(Ruy Castro. Viaje Bem. Ano VIII, nº 3, 78.)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto destaca a diferença entre o português do Brasil e o de Portugal quanto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ao vocabulário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "à derivação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à pronúncia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ao gênero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à sintaxe.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

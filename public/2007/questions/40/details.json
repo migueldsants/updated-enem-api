@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2007",
+    "index": 40,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Nos últimos 50 anos, as temperaturas de inverno\nna península antártica subiram quase 6ºC. Ao contrário do\nesperado, o aquecimento tem aumentado a precipitação\nde neve. Isso ocorre porque o gelo marinho, que forma um\nmanto impermeável sobre o oceano, está derretendo\ndevido à elevação de temperatura, o que permite que mais\numidade escape para a atmosfera. Essa umidade cai na\nforma de neve.\n\nLogo depois de chegar a essa região, certa espécie\nde pingüins precisa de solos nus para construir seus ninhos\nde pedregulhos. Se a neve não derrete a tempo, eles põem\nseus ovos sobre ela. Quando a neve finalmente derrete, os\novos se encharcam de água e goram.\n\nScientific American Brasil, ano 2, n.º 21, 2004, p.80 (com adaptações).\n\nA partir do texto acima, analise as seguintes afirmativas.\n\nI O aumento da temperatura global interfere no ciclo da\n\nágua na península antártica.\nII O aquecimento global pode interferir no ciclo de vida\n\nde espécies típicas de região de clima polar.\nIII A existência de água em estado sólido constitui fator\n\ncrucial para a manutenção da vida em alguns biomas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É correto o que se afirma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas em I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas em II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas em I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas em II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2004",
+    "index": 55,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Algumas transformações que antecederam a Revolução Francesa podem ser exemplificadas pela mudança de significado da\npalavra “restaurante”. Desde o final da Idade Média, a palavra restaurant designava caldos ricos, com carne de aves e de boi,\nlegumes, raízes e ervas. Em 1765 surgiu, em Paris, um local onde se vendiam esses caldos, usados para restaurar as forças\ndos trabalhadores. Nos anos que precederam a Revolução, em 1789, multiplicaram-se diversos restaurateurs, que serviam\npratos requintados, descritos em páginas emolduradas e servidos não mais em mesas coletivas e mal cuidadas, mas individuais\ne com toalhas limpas. Com a Revolução, cozinheiros da corte e da nobreza perderam seus patrões, refugiados no exterior ou\nguilhotinados, e abriram seus restaurantes por conta própria. Apenas em 1835, o Dicionário da Academia Francesa oficializou a\nutilização da palavra restaurante com o sentido atual.\nA mudança do significado da palavra restaurante ilustra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ascensão das classes populares aos mesmos padrões de vida da burguesia e da nobreza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a apropriação e a transformação, pela burguesia, de hábitos populares e dos valores da nobreza.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a incorporação e a transformação, pela nobreza, dos ideais e da visão de mundo da burguesia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a consolidação das práticas coletivas e dos ideais revolucionários, cujas origens remontam à Idade Média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a institucionalização, pela nobreza, de práticas coletivas e de uma visão de mundo igualitária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

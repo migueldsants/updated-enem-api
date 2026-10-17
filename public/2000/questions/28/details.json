@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2000",
+    "index": 28,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Os fluxos migratórios humanos, representados nos mapas abaixo, mais do que\num deslocamento espacial podem significar uma mudança de condição social.\n\n![](https://enem.dev/2000/questions/28/7321bbb1-dbc7-4a10-856f-612946876b3a.png)\n\nFonte: Adaptado de SANTOS, Regina Bega. Migrações no Brasil. São Paulo:\nScipione, 1994.",
+    "files": [
+        "https://enem.dev/2000/questions/28/7321bbb1-dbc7-4a10-856f-612946876b3a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Analisando-se os mapas, pode-se afirmar que essa mudança ocorreu com:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "trabalhadores rurais nordestinos, que migraram para São Paulo nas décadas de 50 e de 60, transformando-se em operários do setor industrial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "agricultores sulistas, que migraram para o centro-oeste na década de 60, transformando-se em empresários da mineração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "trabalhadores rurais nordestinos, que migraram para a Amazônia na década de 60, transformando-se em grandes proprietários de terras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "moradores das periferias das grandes cidades, que migraram para o interior do país na década de 70 atraídos pelas oportunidades de emprego nas reservas extrativistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pequenos proprietários rurais nordestinos que, na década de 70, migraram para São Paulo para trabalhar como bóias-frias na colheita de café.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

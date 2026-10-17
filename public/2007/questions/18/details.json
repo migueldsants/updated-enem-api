@@ -1,0 +1,45 @@
+{
+    "title": "Questão 18 - ENEM 2007",
+    "index": 18,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/18/3cb7040b-8dee-4f03-a2e4-e752b913b0be.png)",
+    "files": [
+        "https://enem.dev/2007/questions/18/3cb7040b-8dee-4f03-a2e4-e752b913b0be.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando a linha do tempo acima e o processo de abolição\nda escravatura no Brasil, assinale a opção correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O processo abolicionista foi rápido porque recebeu a adesão de todas as correntes políticas do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O primeiro passo para a abolição da escravatura foi a proibição do uso dos serviços das crianças nascidas em cativeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Antes que a compra de escravos no exterior fosse proibida, decidiu-se pela libertação dos cativos mais velhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Assinada pela princesa Isabel, a Lei Áurea concluiu o processo abolicionista, tornando ilegal a escravidão no Brasil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ao abolir o tráfico negreiro, a Lei Eusébio de Queirós bloqueou a formulação de novas leis antiescravidão no Brasil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2010 - Reaplicação",
+    "index": 78,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A cafeína atua no cérebro, bloqueando a ação natural\nde um componente químico associado ao sono, a\nadenosina. Para uma célula nervosa, a cafeína se parece\ncom a adenosina e combina-se com seus receptores.\nNo entanto, ela não diminui a atividade das células da\nmesma forma. Então, ao invés de diminuir a atividade\npor causa do nível de adenosina, as células aumentam\nsua atividade, fazendo com que os vasos sanguíneos do\ncérebro se contraiam, uma vez que a cafeína bloqueia a\ncapacidade da adenosina de dilatá-los. Com a cafeína\nbloqueando a adenosina, aumenta a excitação dos\nneurônios, induzindo a hipófise a liberar hormônios que\nordenam às suprarrenais que produzam adrenalina,\nconsiderada o hormônio do alerta.\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 23 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Infere-se do texto que o objetivo da adição de cafeína\nem alguns medicamentos contra a dor de cabeça é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contrair os vasos sanguíneos do cérebro, diminuindo a compressão sobre as terminações nervosas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "aumentar a produção de adrenalina, proporcionando uma sensação de analgesia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aumentar os níveis de adenosina, diminuindo a atividade das células nervosas do cérebro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "induzir a hipófise a liberar hormônios, estimulando a produção de adrenalina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "excitar os neurônios, aumentando a transmissão de impulsos nervosos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

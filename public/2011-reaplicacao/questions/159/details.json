@@ -1,0 +1,51 @@
+{
+    "title": "Questão 159 - ENEM 2011 - Reaplicação",
+    "index": 159,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "José e Antônio discutiam qual dos dois teria mais\nchances de acertar na loteria. José tinha gasto R$ 14,00\nnuma aposta de 7 números na Mega-Sena, enquanto\nAntônio gastou R$ 15,00 em três apostas da quina, não\nrepetindo números em suas apostas. Na discussão, eles\nconsideravam a chance de José acertar a quadra da\nMega-Sena e de Antônio acertar o terno da Quina.\n\n![](https://enem.dev/2011-reaplicacao/questions/159/70fdbd8c-d784-4554-8cdb-6f1273ea66ab.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/159/bfc8b155-e640-4c26-898c-b451749099eb.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/159/70fdbd8c-d784-4554-8cdb-6f1273ea66ab.png",
+        "https://enem.dev/2011-reaplicacao/questions/159/bfc8b155-e640-4c26-898c-b451749099eb.png",
+        "https://enem.dev/2011-reaplicacao/questions/159/e71f76f8-3fed-432e-bc25-99d60019a37c.png",
+        "https://enem.dev/2011-reaplicacao/questions/159/5230965c-89b5-44ea-8309-a046ee526200.png",
+        "https://enem.dev/2011-reaplicacao/questions/159/5e5c1434-2a19-4eb9-9d84-ebcc241e591d.png",
+        "https://enem.dev/2011-reaplicacao/questions/159/fee2b1e8-feb9-4b39-8674-6cb11282c057.png",
+        "https://enem.dev/2011-reaplicacao/questions/159/684fb4f0-c718-40bf-b705-4d3cebbfc753.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessas condições, a razão entre as probabilidades de\nacerto de José e de Antônio nos menores prêmios de\ncada loteria é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/159/e71f76f8-3fed-432e-bc25-99d60019a37c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/159/5230965c-89b5-44ea-8309-a046ee526200.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/159/5e5c1434-2a19-4eb9-9d84-ebcc241e591d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/159/fee2b1e8-feb9-4b39-8674-6cb11282c057.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/159/684fb4f0-c718-40bf-b705-4d3cebbfc753.png",
+            "isCorrect": false
+        }
+    ]
+}

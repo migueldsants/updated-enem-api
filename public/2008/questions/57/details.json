@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2008",
+    "index": 57,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Um grupo de ecólogos esperava encontrar\naumento de tamanho das acácias, árvores preferidas\nde grandes mamíferos herbívoros africanos, como\ngirafas e elefantes, já que a área estudada era\ncercada para evitar a entrada desses herbívoros.\nPara espanto dos cientistas, as acácias pareciam\nmenos viçosas, o que os levou a compará-las com\noutras de duas áreas de savana: uma área na qual os\nherbívoros circulam livremente e fazem podas\nregulares nas acácias, e outra de onde eles foram\nretirados há 15 anos. O esquema a seguir mostra os\nresultados observados nessas duas áreas.\n\n![](https://enem.dev/2008/questions/57/729c4a05-2af6-4377-9297-6902e5564885.png)\n\nInternet: <cienciahoje.uol.com.br> (com adaptações).",
+    "files": [
+        "https://enem.dev/2008/questions/57/729c4a05-2af6-4377-9297-6902e5564885.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações acima,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a presença de populações de grandes mamíferos herbívoros provoca o declínio das acácias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os hábitos de alimentação constituem um padrão de comportamento que os herbívoros aprendem pelo uso, mas que esquecem pelo desuso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as formigas da espécie 1 e as acácias mantêm uma relação benéfica para ambas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "os besouros e as formigas da espécie 2 contribuem para a sobrevivência das acácias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a relação entre os animais herbívoros, as formigas e as acácias é a mesma que ocorre entre qualquer predador e sua presa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

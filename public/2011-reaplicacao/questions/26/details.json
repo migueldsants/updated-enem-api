@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2011 - Reaplicação",
+    "index": 26,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Unesco define como Patrimônio Cultural\nImaterial “as práticas, representações, expressões,\nconhecimentos e técnicas ― junto com os instrumentos,\nobjetos, artefatos e lugares culturais que lhes são\nassociados ― que as comunidades, os grupos e, em\nalguns casos, os indivíduos reconhecem como parte\nintegrante de seu patrimônio cultural.” São exemplos\nde bens registrados como Patrimônio Imaterial no\nBrasil: o Círio de Nazaré no Pará, o Samba de Roda do\nRecôncavo Baiano, o Ofício das Baianas de Acarajé, o\nJongo no Sudeste, entre outros.\n\nDisponível em: http://www.portal.iphan.gov.br. Acesso em: 29 jul. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É bastante recente no Brasil o registro de determinadas\nmanifestações culturais como integrantes de seu\nPatrimônio Cultural Imaterial. O objetivo de se realizar e\ndivulgar este tipo de registro é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reconhecer o valor da cultura popular para torná-la equivalente à cultura erudita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "recuperar as características originais das manifestações culturais dos povos nativos do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "promover o respeito à diversidade cultural por meio da valorização das manifestações populares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "possibilitar a absorção das manifestações culturais populares pela cultura nacional brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "inserir as manifestações populares no mercado, proporcionando retorno financeiro a seus produtores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2003",
+    "index": 38,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A caixinha utilizada em embalagens como as de leite “longa vida” é chamada de “tetra brick”, por ser composta de\nquatro camadas de diferentes materiais, incluindo alumínio e plástico, e ter a forma de um tijolo (brick, em inglês).\nEsse material, quando descartado, pode levar até cem anos para se decompor.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando os impactos ambientais, seria mais adequado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utilizar soda cáustica para amolecer as embalagens e só então descartá-las.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "promover a coleta seletiva, de modo a reaproveitar as embalagens para outros fins.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "aumentar a capacidade de cada embalagem, ampliando a superfície de contato com o ar para sua decomposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "constituir um aterro específico de embalagens “tetra brick”, acondicionadas de forma a reduzir seu volume.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "proibir a fabricação de leite “longa vida”, considerando que esse tipo de embalagem não é adequado para conservar o produto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

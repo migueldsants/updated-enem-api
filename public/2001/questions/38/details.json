@@ -1,0 +1,45 @@
+{
+    "title": "Questão 38 - ENEM 2001",
+    "index": 38,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2001/questions/38/f5bc7ff7-b5a9-4ede-b48f-bbb618b397ab.png)",
+    "files": [
+        "https://enem.dev/2001/questions/38/f5bc7ff7-b5a9-4ede-b48f-bbb618b397ab.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O problema enfrentado pelo migrante e o sentido da expressão “sustança” expressos nos\nquadrinhos, podem ser, respectivamente, relacionados a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "rejeição / alimentos básicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "discriminação / força de trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "falta de compreensão / matérias-primas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "preconceito / vestuário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "legitimidade / sobrevivência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

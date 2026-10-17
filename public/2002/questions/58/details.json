@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2002",
+    "index": 58,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Michel Eyquem de Montaigne (1533-1592) compara, nos trechos, as guerras das sociedades Tupinambá com as chamadas\n“guerras de religião” dos franceses que, na segunda metade do século XVI, opunham católicos e protestantes.\n\n“(…) não vejo nada de bárbaro ou selvagem no que dizem daqueles povos; e, na verdade, cada qual considera bárbaro o que\nnão se pratica em sua terra. (…) Não me parece excessivo julgar bárbaros tais atos de crueldade [o canibalismo] , mas que o\nfato de condenar tais defeitos não nos leve à cegueira acerca dos nossos. Estimo que é mais bárbaro comer um homem vivo\ndo que o comer depois de morto; e é pior esquartejar um homem entre suplícios e tormentos e o queimar aos poucos, ou\nentregá-lo a cães e porcos, a pretexto de devoção e fé, como não somente o lemos mas vimos ocorrer entre vizinhos nossos\nconterrâneos; e isso em verdade é bem mais grave do que assar e comer um homem previamente executado. (…) Podemos\nportanto qualificar esses povos como bárbaros em dando apenas ouvidos à inteligência, mas nunca se compararmos a nós\nmesmos, que os excedemos em toda sorte de barbaridades.”\n\nMONTAIGNE, Michel Eyquem de, Ensaios, São Paulo: Nova Cultural, 1984.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o texto, pode-se afirmar que, para Montaigne,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a idéia de relativismo cultural baseia-se na hipótese da origem única do gênero humano e da sua religião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a diferença de costumes não constitui um critério válido para julgar as diferentes sociedades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "os indígenas são mais bárbaros do que os europeus, pois não conhecem a virtude cristã da piedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a barbárie é um comportamento social que pressupõe a ausência de uma cultura civilizada e racional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a ingenuidade dos indígenas equivale à racionalidade dos europeus, o que explica que os seus costumes são similares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

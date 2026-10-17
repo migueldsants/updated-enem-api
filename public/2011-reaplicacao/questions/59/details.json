@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2011 - Reaplicação",
+    "index": 59,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura mostra uma superfície refletora de formato\nparabólico, que tem sido utilizada como um fogão solar.\nEsse dispositivo é montado de tal forma que a superfície\nfique posicionada sempre voltada para o Sol. Neste, a\n\n![](https://enem.dev/2011-reaplicacao/questions/59/ccdd046f-7398-467b-b846-e565e8d24b88.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/59/ccdd046f-7398-467b-b846-e565e8d24b88.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que a panela esteja posicionada no ponto\ncitado, a maior eficiência ocorre porque os raios solares",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "refletidos passam por esse ponto, definido como",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ponto de reflexão. incidentes passam por esse ponto, definido como",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vértice da parábola. refletidos se concentram nesse ponto, definido como",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "foco da parábola. incidentes se concentram nesse ponto, definido",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "como ponto de incidência. incidentes e refletidos se interceptam nesse ponto, definido como centro de curvatura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

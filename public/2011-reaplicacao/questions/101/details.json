@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2011 - Reaplicação",
+    "index": 101,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Brazil, capital Buenos Aires\n\nNo dia em que a bossa nova inventou o Brazil\nTeve que fazer direito, senhores pares,\nPorque a nossa capital era Buenos Aires,\nA nossa capital era Buenos Aires.\nE na cultura-Hollywood o cinema dizia\nQue em Buenos Aires havia uma praia\nChamada Rio de Janeiro\nQue como era gelada só podia ter\nCarnaval no mês de fevereiro.\nNaquele Rio de Janeiro o tango nasceu\nE Mangueira o imortalizou na avenida\nOriginária das tangas\nCom que as índias fingiam\nCobrir a graça sagrada da vida.\n\nTom Zé. Disponível em http://letras.terra.com.br. Acesso em: abr. 2010.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto de Tom Zé, crítico de música, letrista e cantor,\ninsere-se em um contexto histórico e cultural que, dentro\nda cultura literária brasileira, define-se como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contemporâneo à poesia concretista e por ela",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "influenciado. sucessor do Romantismo e de seus ideais",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nacionalistas. expressão do modernismo brasileiro influenciado",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pelas vanguardas europeias. representante da literatura engajada, de resistência",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao Estado Novo. precursor do movimento de afirmação nacionalista, o Tropicalismo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

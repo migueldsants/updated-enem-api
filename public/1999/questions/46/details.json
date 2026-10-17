@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 1999",
+    "index": 46,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Um dos maiores problemas da atualidade é o aumento desenfreado do desemprego. O texto abaixo destaca esta situação.\n\nO desemprego é hoje um fenômeno que atinge e preocupa o mundo todo. (...) A onda de desemprego recente não é\nconjuntural, ou seja, provocada por crises localizadas e temporárias. Está associada a mudanças estruturais na economia, daí\no nome de desemprego estrutural.\nO desemprego manifesta-se hoje na maioria das economias, incluindo a dos países ricos. A OIT estima em 1 bilhão – um\nterço da força de trabalho mundial – o número de desempregados em todo o mundo em 1998. Desse total, 150 milhões\nencontram-se abertamente desempregados e entre 750 e 900 milhões estão subempregados.\n\n([CD-ROM] Almanaque Abril 1999. São Paulo: Abril.)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pode-se compreender o desemprego estrutural em termos da internacionalização da economia associada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a uma economia desaquecida que provoca ondas gigantescas de desemprego, gerando revoltas e crises institucionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ao setor de serviços que se expande provocando ondas de desemprego no setor industrial, atraindo essa mão-de-obra para este novo setor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao setor industrial que passa a produzir menos, buscando enxugar custos provocando, com isso, demissões em larga escala.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a novas formas de gerenciamento de produção e novas tecnologias que são inseridas no processo produtivo, eliminando empregos que não voltam.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ao emprego informal que cresce, já que uma parcela da população não tem condições de regularizar o seu comércio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

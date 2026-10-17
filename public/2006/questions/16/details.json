@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2006",
+    "index": 16,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "No início do século XIX, o naturalista alemão Carl Von\nMartius esteve no Brasil em missão científica para fazer\nobservações sobre a flora e a fauna nativas e sobre a\nsociedade indígena. Referindo-se ao indígena, ele afirmou:\n\n“Permanecendo em grau inferior da humanidade,\nmoralmente, ainda na infância, a civilização não o altera,\nnenhum exemplo o excita e nada o impulsiona para um\nnobre desenvolvimento progressivo (...). Esse estranho e\ninexplicável estado do indígena americano, até o presente,\ntem feito fracassarem todas as tentativas para conciliá-lo\ninteiramente com a Europa vencedora e torná-lo um\ncidadão satisfeito e feliz.”\n\nCarl Von Martius. O estado do direito entre os autóctones\ndo Brasil. Belo Horizonte/São Paulo: Itatiaia/EDUSP, 1982.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base nessa descrição, conclui-se que o naturalista\nVon Martius",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apoiava a independência do Novo Mundo, acreditando que os índios, diferentemente do que fazia a missão européia, respeitavam a flora e a fauna do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "discriminava preconceituosamente as populações originárias da América e advogava o extermínio dos índios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "defendia uma posição progressista para o século XIX: a de tornar o indígena cidadão satisfeito e feliz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "procurava impedir o processo de aculturação, ao descrever cientificamente a cultura das populações originárias da América.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desvalorizava os patrimônios étnicos e culturais das sociedades indígenas e reforçava a missão “civilizadora européia”, típica do século XIX.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

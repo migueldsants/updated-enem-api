@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2000",
+    "index": 61,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Encontram-se descritas a seguir algumas das características das águas que\nservem três diferentes regiões.\nRegião I - Qualidade da água pouco comprometida por cargas poluidoras,\n\ncasos isolados de mananciais comprometidos por lançamento de\nesgotos; assoreamento de alguns mananciais.\nRegião II - Qualidade comprometida por cargas poluidoras urbanas e\n\nindustriais; área sujeita a inundações; exportação de carga\npoluidora para outras unidades hidrográficas.\nRegião III - Qualidade comprometida por cargas poluidoras domésticas e",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "industriais e por lançamento de esgotos; problemas isolados de\ninundação; uso da água para irrigação.\nDe acordo com essas características, pode-se concluir que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a região I é de alta densidade populacional, com pouca ou nenhuma estação de tratamento de esgoto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "na região I ocorrem tanto atividades agrícolas como industriais, com práticas agrícolas que estão evitando a erosão do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a região II tem predominância de atividade agrícola, muitas pastagens e parque industrial inexpressivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na região III ocorrem tanto atividades agrícolas como industriais, com pouca ou nenhuma estação de tratamento de esgotos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a região III é de intensa concentração industrial e urbana, com solo impermeabilizado e com amplo tratamento de esgotos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

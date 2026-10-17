@@ -1,0 +1,49 @@
+{
+    "title": "Questão 38 - ENEM 2004",
+    "index": 38,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O crescimento da demanda por energia elétrica no Brasil tem provocado discussões sobre o uso de diferentes processos para\n\nsua geração e sobre benefícios e problemas a eles associados. Estão apresentados no quadro alguns argumentos favoráveis\n\n(ou positivos, P₁, P₂ e P₃) e outros desfavoráveis (ou negativos, N₁, N₂ e N₃) relacionados a diferentes opções energéticas.\n\n![](https://enem.dev/2004/questions/38/d526f317-2886-42ab-9cd0-1a0899f22f30.png)\n\n![](https://enem.dev/2004/questions/38/8539a592-20eb-456c-b2a6-1e8f2064beab.png)\n\n![](https://enem.dev/2004/questions/38/e399f412-2d24-406c-8059-2e19f896843a.png)\n\n![](https://enem.dev/2004/questions/38/3ca9c8ac-c5f3-40a5-8cc3-ae0ebc796dac.png)\n\n![](https://enem.dev/2004/questions/38/b4a4359e-ce32-4083-aae2-b71075b53473.png)",
+    "files": [
+        "https://enem.dev/2004/questions/38/d526f317-2886-42ab-9cd0-1a0899f22f30.png",
+        "https://enem.dev/2004/questions/38/8539a592-20eb-456c-b2a6-1e8f2064beab.png",
+        "https://enem.dev/2004/questions/38/e399f412-2d24-406c-8059-2e19f896843a.png",
+        "https://enem.dev/2004/questions/38/3ca9c8ac-c5f3-40a5-8cc3-ae0ebc796dac.png",
+        "https://enem.dev/2004/questions/38/b4a4359e-ce32-4083-aae2-b71075b53473.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao se discutir a opção pela instalação, em uma dada região, de uma usina termoelétrica, os argumentos que se aplicam são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P₁ e N₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "P₁ e N₃.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P₂ e N₁.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P₂ e N₂.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "P₃ e N₃.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

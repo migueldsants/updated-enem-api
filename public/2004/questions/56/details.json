@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2004",
+    "index": 56,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "As empresas querem a metade das pessoas trabalhando o dobro para produzir o triplo.\n\n(Revista Você S/A, 2004)\n\nPreocupado em otimizar seus ganhos,\num empresário encomendou um\nestudo sobre a produtividade de seus\nfuncionários nos últimos quatro anos,\nentendida por ele, de forma\nsimplificada, como a relação direta\n\n![](https://enem.dev/2004/questions/56/901a3539-9b9f-4ac3-b907-fa0696108572.png)",
+    "files": [
+        "https://enem.dev/2004/questions/56/901a3539-9b9f-4ac3-b907-fa0696108572.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "entre seu lucro anual (L) e o número de\noperários envolvidos na produção (n).\nDo estudo, resultou o gráfico ao lado.\nAo procurar, no gráfico, uma relação\nentre seu lucro, produtividade e\nnúmero de operários, o empresário\nconcluiu que a maior produtividade\nocorreu em 2002, e o maior lucro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "em 2000, indicando que, quanto maior o número de operários trabalhando, maior é o seu lucro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "em 2001, indicando que a redução do número de operários não significa necessariamente o aumento dos lucros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "também em 2002, indicando que lucro e produtividade mantêm uma relação direta que independe do número de operários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "em 2003, devido à significativa redução de despesas com salários e encargos trabalhistas de seus operários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tanto em 2001, como em 2003, o que indica não haver relação significativa entre lucro, produtividade e número de operários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

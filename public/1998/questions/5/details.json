@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 1998",
+    "index": 5,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Para falar e escrever bem, é preciso, além de conhecer o padrão formal da Língua Portuguesa, saber\nadequar o uso da linguagem ao contexto discursivo. Para exemplificar este fato, seu professor de\nLíngua Portuguesa convida-o a ler o texto Aí, Galera, de Luís Fernando Veríssimo. No texto, o autor\nbrinca com situações de discurso oral que fogem à expectativa do ouvinte.\n\nAí, Galera\n\nJogadores de futebol podem ser vítimas de - Ahn?\nestereotipação. Por exemplo, você pode imaginar - É pra dividir no meio e ir pra cima pra pegá\num jogador de futebol dizendo “ estereotipação” ? E, eles sem calça.\nno entanto, por que não? - Certo. Você quer dizer mais alguma coisa?\n\n- Aí, campeão. Uma palavrinha pra galera. - Posso dirigir uma mensagem de caráter\n-Minha saudação aos aficionados do clube e sentimental, algo banal, talvez mesmo previsível e\naos demais esportistas, aqui presentes ou no piegas, a uma pessoa à qual sou ligado por razões,\nrecesso dos seus lares. inclusive, genéticas?\n\n- Como é? - Pode.\n- Aí, galera. - Uma saudação para a minha progenitora.\n- Quais são as instruções do técnico? - Como é?\n- Nosso treinador vaticinou que, com um - Alô, mamãe!\ntrabalho de contenção coordenada, com energia - Estou vendo que você é um, um...\notimizada, na zona de preparação, aumentam as - Um jogador que confunde o entrevistador,\nprobabilidades de, recuperado o esférico, pois não corresponde à expectativa de que o atleta\nconcatenarmos um contragolpe agudo com seja um ser algo primitivo com dificuldade de\nparcimônia de meios e extrema objetividade, expressão e assim sabota a estereotipação?\nvalendo-nos da desestruturação momentânea do - Estereoquê?\nsistema oposto, surpreendido pela reversão - Um chato?\ninesperada do fluxo da ação. - Isso.\n\nCorreio Braziliense, 13/05/1998.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A expressão “ pegá eles sem calça” poderia ser substituída, sem comprometimento de sentido, em língua\nculta, formal, por:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pegá-los na mentira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pegá-los desprevenidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "pegá-los em flagrante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pegá-los rapidamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pegá-los momentaneamente",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

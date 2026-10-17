@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2001",
+    "index": 27,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Nas conversas diárias, utiliza-se freqüentemente a palavra “próprio” e ela se ajusta a várias\nsituações. Leia os exemplos de diálogos:\n\nI - A Vera se veste diferente!\n\n- É mesmo, é que ela tem um estilo própriopróprio.próprio\n\nII - A Lena já viu esse filme uma dezena de vezes! Eu não consigo ver o\n\nque ele tem de tão maravilhoso assim.\n- É que ele é própriopróprio para adolescente.próprio\n\nIII - Dora, o que eu faço? Ando tão preocupada com o Fabinho! Meu filho\n\nestá impossível!\n- Relaxa, Tânia! É própriopróprio da idade. Com o tempo, ele se acomoda.próprio",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas ocorrências I, II e III, “próprio” é sinônimo de, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adequado, particular, típico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "peculiar, adequado, característico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "conveniente, adequado, particular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "adequado, exclusivo, conveniente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "peculiar, exclusivo, característico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

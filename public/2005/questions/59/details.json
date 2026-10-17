@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2005",
+    "index": 59,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Leia estes poemas.\n\nTexto 1 - Auto-retrato Texto 2 - Poema de sete faces\n\nProvinciano que nunca soube Quando eu nasci, um anjo torto\n\nEscolher bem uma gravata; desses que vivem na sombra\n\nPernambucano a quem repugna disse: Vai, Carlos! ser gauche na vida.\n\nA faca do pernambucano;\n\nPoeta ruim que na arte da prosa As casas espiam os homens\n\nEnvelheceu na infância da arte, que correm atrás de mulheres.\n\nA tarde talvez fosse azul,\nE até mesmo escrevendo crônicas\nnão houvesse tantos desejos.\nFicou cronista de província;\n(....)\nArquiteto falhado, músico\nMeu Deus, por que me abandonaste\nFalhado (engoliu um dia\nse sabias que eu não era Deus\nUm piano, mas o teclado\nse sabias que eu era fraco.\n\nFicou de fora); sem família, Mundo mundo vasto mundo,\n\nReligião ou filosofia; se eu me chamasse Raimundo\n\nMal tendo a inquietação de espírito seria uma rima, não seria uma solução.\n\nQue vem do sobrenatural, Mundo mundo vasto mundo\n\nE em matéria de profissão mais vasto é o meu coração.\n\nUm tísico* profissional.\n\n(Manuel Bandeira. Poesia completa e prosa. (Carlos Drummond de Andrade. Obra completa.\n\nRio de Janeiro: Aguilar, 1983. p. 395.) Rio de Janeiro: Aguilar, 1964. p. 53.)\n\n(*) tísico=tuberculoso",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No verso “Meu Deus, por que me abandonaste” do texto 2, Drummond retoma as palavras de Cristo, na cruz, pouco\nantes de morrer. Esse recurso de repetir palavras de outrem equivale a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "emprego de termos moralizantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uso de vício de linguagem pouco tolerado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "repetição desnecessária de idéias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "emprego estilístico da fala de outra pessoa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "uso de uma pergunta sem resposta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

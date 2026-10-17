@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2001",
+    "index": 14,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Um município de 628 km² é atendido por duas emissoras de rádio cujas antenas A e B\nalcançam um raio de 10km do município, conforme mostra a figura:\n\n![](https://enem.dev/2001/questions/14/a701030b-f300-438f-99f6-7e8bcbc76bd3.png)\n\nPara orçar um contrato publicitário, uma agência precisa avaliar a probabilidade que um\nmorador tem de, circulando livremente pelo município, encontrar-se na área de alcance de\npelo menos uma das emissoras.",
+    "files": [
+        "https://enem.dev/2001/questions/14/a701030b-f300-438f-99f6-7e8bcbc76bd3.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa probabilidade é de, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "30%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
