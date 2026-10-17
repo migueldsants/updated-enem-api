@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2005",
+    "index": 30,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O gás natural veicular (GNV) pode substituir a gasolina ou álcool nos veículos automotores. Nas grandes cidades,\nessa possibilidade tem sido explorada, principalmente, pelos táxis, que recuperam em um tempo relativamente curto o\ninvestimento feito com a conversão por meio da economia proporcionada pelo uso do gás natural. Atualmente, a\nconversão para gás natural do motor de um automóvel que utiliza a gasolina custa R$ 3.000,00. Um litro de gasolina\npermite percorrer cerca de 10 km e custa R$ 2,20, enquanto um metro cúbico de GNV permite percorrer cerca de\n12 km e custa R$ 1,10. Desse modo, um taxista que percorra 6.000 km por mês recupera o investimento da\nconversão em aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8 meses.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "10 meses.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

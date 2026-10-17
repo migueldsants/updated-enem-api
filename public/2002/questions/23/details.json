@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2002",
+    "index": 23,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "“A palavra tatuagem é relativamente recente. Toda a gente\nsabe que foi o navegador Cook que a introduziu no Ocidente,\ne esse escrevia tattou, termo da Polinésia de tatou ou tu\ntahou, ‘desenho´.\n(...) Desde os mais remotos tempos, vemo-la a transformar-\nse: distintivo honorífico entre uns homens, ferrete de\nignomínia entre outros, meio de assustar o adversário para os\nbretões, marca de uma classe de selvagens das ilhas\nmarquesas (...) sinal de amor, de desprezo, de ódio (...). Há\ntrês casos de tatuagem no Rio, completamente diversos na\nsua significação moral: os negros,os turcos com o fundo\nreligioso e o bando de meretrizes, dos rufiões e dos humildes,\nque se marcam por crime ou por ociosidade.”\n\nRIO, João do. Os Tatuadores. Revista Kosmos. 1904, apud: A alma\nencantadora das ruas, SP: Cia das Letras, 1999.\n\nCom base no texto são feitas as seguintes afirmações:\n\nI. João do Rio revela como a tatuagem já estava presente\n\nna cidade do Rio de Janeiro, pelo menos desde o início\ndo século XX, e era mais utilizada por alguns setores da\npopulação.\nII. A tatuagem, de origem polinésia, difundiu-se no ocidente\n\ncom a característica que permanece até hoje: utilização\nentre os jovens com função estritamente estética.\nIII. O texto mostra como a tatuagem é uma prática que se\n\ntransforma no tempo e que alcança inúmeros sentidos\nnos diversos setores das sociedades e para as\ndiferentes culturas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Está correto o que se afirma apenas em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

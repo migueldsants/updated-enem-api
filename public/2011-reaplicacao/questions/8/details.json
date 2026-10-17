@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2011 - Reaplicação",
+    "index": 8,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Há 500 anos, desde a chegada do colonizador\nportuguês, começaram as lutas contra o cativeiro e\nconsequentemente contra o cativeiro da terra, contra\na expulsão, que marcam as lutas dos trabalhadores.\nDas lutas dos povos indígenas, dos escravos e dos\ntrabalhadores livres e, desde o final do século passado,\ndos imigrantes, desenvolveram-se as lutas camponesas\npela terra.\n\nFERNANDES, B. M. Brasil: 500 anos de luta pela terra.\nRevista de Cultura Vozes. Nº 2, 1999 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os processos sociais e econômicos que deram\norigem e conformaram a identidade do Movimento dos\nTrabalhadores Rurais sem Terra (MST) têm em suas\nraízes mudanças relacionadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à distribuição de terras expropriadas dos grupos multinacionais e partilhadas entre os trabalhadores rurais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à política neoliberal, que proporcionou investimentos no campo e reduziu os conflitos fundiários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "à migração de trabalhadores rurais brasileiros para o Paraguai, com o objetivo de cultivar soja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ao crescimento da luta pela terra e da implantação de assentamentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "à luta pelo acesso e permanência na terra, que passou da esfera nacional para a local.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

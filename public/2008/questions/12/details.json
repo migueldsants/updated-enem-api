@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2008",
+    "index": 12,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 12 e 13\n\n1 Torno a ver-vos, ó montes; o destino\n\nAqui me torna a pôr nestes outeiros,\nOnde um tempo os gabões deixei grosseiros\n\n4 Pelo traje da Corte, rico e fino.\n\nAqui estou entre Almendro, entre Corino,\nOs meus fiéis, meus doces companheiros,\n\n7 Vendo correr os míseros vaqueiros\n\nAtrás de seu cansado desatino.\n\nSe o bem desta choupana pode tanto,\n\n10 Que chega a ter mais preço, e mais valia\n\nQue, da Cidade, o lisonjeiro encanto,\n\nAqui descanse a louca fantasia,\n\n13 E o que até agora se tornava em pranto\n\nSe converta em afetos de alegria.\n\nCláudio Manoel da Costa.In: Domício Proença Filho. A poesia\ndos inconfidentes. Rio de Janeiro: Nova Aguilar, 2002, p. 78-9.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando o soneto de Cláudio Manoel da Costa e os\nelementos constitutivos do Arcadismo brasileiro, assinale a\nopção correta acerca da relação entre o poema e o\nmomento histórico de sua produção.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os “montes” e “outeiros”, mencionados na primeira estrofe, são imagens relacionadas à Metrópole, ou seja, ao lugar onde o poeta se vestiu com traje “rico e fino”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A oposição entre a Colônia e a Metrópole, como núcleo do poema, revela uma contradição vivenciada pelo poeta, dividido entre a civilidade do mundo urbano da Metrópole e a rusticidade da terra da Colônia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O bucolismo presente nas imagens do poema é elemento estético do Arcadismo que evidencia a preocupação do poeta árcade em realizar uma representação literária realista da vida nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A relação de vantagem da “choupana” sobre a “Cidade”, na terceira estrofe, é formulação literária que reproduz a condição histórica paradoxalmente vantajosa da Colônia sobre a Metrópole.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A realidade de atraso social, político e econômico do Brasil Colônia está representada esteticamente no poema pela referência, na última estrofe, à transformação do pranto em alegria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

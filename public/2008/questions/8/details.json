@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 2008",
+    "index": 8,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2008/questions/8/d5952f29-a7fc-4fcf-94a0-919f5f470aea.png)\n\nMinistério do Meio Ambiente. Cadastro Nacional de Unidades de Conservação.",
+    "files": [
+        "https://enem.dev/2008/questions/8/d5952f29-a7fc-4fcf-94a0-919f5f470aea.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Analisando-se os dados do gráfico acima, que remetem a\ncritérios e objetivos no estabelecimento de unidades de\nconservação no Brasil, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o equilíbrio entre unidades de conservação de proteção integral e de uso sustentável já atingido garante a preservação presente e futura da Amazônia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as condições de aridez e a pequena diversidade biológica observadas na Caatinga explicam por que a área destinada à proteção integral desse bioma é menor que a dos demais biomas brasileiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o Cerrado, a Mata Atlântica e o Pampa, biomas mais intensamente modificados pela ação humana, apresentam proporção maior de unidades de proteção integral que de unidades de uso sustentável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o estabelecimento de unidades de conservação deve ser incentivado para a preservação dos recursos hídricos e a manutenção da biodiversidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a sustentabilidade do Pantanal é inatingível, razão pela qual não foram criadas unidades de uso sustentável nesse bioma.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

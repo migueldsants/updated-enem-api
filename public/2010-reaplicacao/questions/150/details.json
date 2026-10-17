@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2010 - Reaplicação",
+    "index": 150,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma reserva florestal existem 263 espécies de\npeixes, 122 espécies de mamíferos, 93 espécies de\nrépteis, 1 132 espécies de borboletas e 656 espécies\nde aves.\n\nDisponível em: http:www.wwf.org.br. Acesso em: 23 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se uma espécie animal for capturada ao acaso, qual a\nprobabilidade de ser uma borboleta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "63,31%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60,18%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "56,52%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "49,96%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "43,27%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2008",
+    "index": 11,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O jogo-da-velha é um jogo popular, originado na\nInglaterra. O nome “velha” surgiu do fato de esse jogo ser\npraticado, à época em que foi criado, por senhoras idosas\nque tinham dificuldades de visão e não conseguiam mais\nbordar. Esse jogo consiste na disputa de dois adversários\nque, em um tabuleiro 3×3, devem conseguir alinhar\nverticalmente, horizontalmente ou na diagonal, 3 peças de\nformato idêntico. Cada jogador, após escolher o formato da\npeça com a qual irá jogar, coloca uma peça por vez, em\nqualquer casa do tabuleiro, e passa a vez para o\nadversário. Vence o primeiro que alinhar 3 peças.\n\nNo tabuleiro representado ao lado, estão registradas as\njogadas de dois adversários em um\ndado momento. Observe que uma das\npeças tem formato de círculo e a outra\n\n![](https://enem.dev/2008/questions/11/81da91ab-60b4-497a-bba1-1804dd52734a.png)",
+    "files": [
+        "https://enem.dev/2008/questions/11/81da91ab-60b4-497a-bba1-1804dd52734a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "tem a forma de um xis. Considere as\nregras do jogo-da-velha e o fato de que,\nneste momento, é a vez do jogador que\nutiliza os círculos. Para garantir a vitória\nna sua próxima jogada, esse jogador pode posicionar a\npeça no tabuleiro de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma só maneira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "duas maneiras distintas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "três maneiras distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "quatro maneiras distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cinco maneiras distintas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2010 - Reaplicação",
+    "index": 69,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A perda de pelos foi uma adaptação às mudanças\nambientais, que forçaram nossos ancestrais a deixar a\nvida sedentária e viajar enormes distâncias à procura de\nágua e comida. Junto com o surgimento de membros\nmais alongados e com a substituição de glândulas\napócrinas (produtoras de suor oleoso e de lenta\nevaporação) por glândulas écrinas (suor aquoso e de\nrápida evaporação), a menor quantidade de pelos teria\nfavorecido a manutenção de uma temperatura corporal\nsaudável nos trópicos castigados por calor sufocante,\nem que viveram nossos ancestrais.\n\nScientific American. Brasil, mar. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De que maneira o tamanho dos membros humanos poderia\nestar associado à regulação da temperatura corporal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Membros mais longos apresentam maior relação superfície/volume, facilitando a perda de maior quantidade de calor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Membros mais curtos têm ossos mais espessos, que protegem vasos sanguíneos contra a perda de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Membros mais curtos desenvolvem mais o panículo adiposo, sendo capazes de reter maior quantidade de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Membros mais longos possuem pele mais fina e com menos pelos, facilitando a perda de maior quantidade de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Membros mais longos têm maior massa muscular, capazes de produzir e dissipar maior quantidade de calor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

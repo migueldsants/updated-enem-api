@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2010 - Reaplicação",
+    "index": 142,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um foguete foi lançado do marco zero de uma estação\ne após alguns segundos atingiu a posição (6, 6, 7) no\nespaço, conforme mostra a figura. As distâncias são\nmedidas em quilômetros.\n\n![](https://enem.dev/2010-reaplicacao/questions/142/c292079e-905e-4e55-befc-2e6da0204fed.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/142/c292079e-905e-4e55-befc-2e6da0204fed.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que o foguete continuou sua trajetória,\nmas se deslocou 2 km para frente na direção do eixo-x,\n3 km para trás na direção do eixo-y, e 11 km para frente,\nna direção do eixo-z, então o foguete atingiu a posição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(17, 3, 9).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(8, 3, 18).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "(6, 18, 3).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(4, 9, - 4).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(3, 8, 18).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

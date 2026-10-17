@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2010 - Reaplicação",
+    "index": 15,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O movimento operário ofereceu uma nova resposta ao\ngrito do homem miserável no princípio do século XIX.\nA resposta foi a consciência de classe e a ambição de\nclasse. Os pobres então se organizavam em uma classe\nespecífica, a classe operária, diferente da classe dos\npatrões (ou capitalistas). A Revolução Francesa lhes deu\nconfiança; a Revolução Industrial trouxe a necessidade\nda mobilização permanente.\n\nHOBSBAWM, E. J. A era das revoluções. São Paulo: Paz e Terra, 1977.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto, analisa-se o impacto das Revoluções Francesa\ne Industrial para a organização da classe operária.\nEnquanto a “confiança” dada pela Revolução Francesa\nera originária do significado da vitória revolucionária sobre\nas classes dominantes, a “necessidade da mobilização\npermanente”, trazida pela Revolução Industrial, decorria\nda compreensão de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a competitividade do trabalho industrial exigia um permanente esforço de qualificação para o enfrentamento do desemprego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a completa transformação da economia capitalista seria fundamental para a emancipação dos operários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a introdução das máquinas no processo produtivo diminuía as possibilidades de ganho material para os operários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o progresso tecnológico geraria a distribuição de riquezas para aqueles que estivessem adaptados aos novos tempos industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a melhoria das condições de vida dos operários seria conquistada com as manifestações coletivas em favor dos direitos trabalhistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

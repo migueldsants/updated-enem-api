@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2006",
+    "index": 8,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "No romance Vidas Secas, de Graciliano Ramos, o\nvaqueiro Fabiano encontra-se com o patrão para receber o\nsalário. Eis parte da cena:\n\n1 Não se conformou: devia haver engano. (...)\n\nCom certeza havia um erro no papel do branco. Não\nse descobriu o erro, e Fabiano perdeu os estribos.\n\n4 Passar a vida inteira assim no toco, entregando o\n\nque era dele de mão beijada! Estava direito aquilo?\nTrabalhar como negro e nunca arranjar carta de\n\n7 alforria?\n\nO patrão zangou-se, repeliu a insolência,\nachou bom que o vaqueiro fosse procurar serviço\n\n10 noutra fazenda.\n\nAí Fabiano baixou a pancada e amunhecou.\nBem, bem. Não era preciso barulho não.\n\nGraciliano Ramos. Vidas Secas. 91.ª ed.\nRio de Janeiro: Record, 2003.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No fragmento transcrito, o padrão formal da linguagem\nconvive com marcas de regionalismo e de coloquialismo no\nvocabulário. Pertence à variedade do padrão formal da\nlinguagem o seguinte trecho:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Não se conformou: devia haver engano” (ℓ.1).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“e Fabiano perdeu os estribos” (ℓ.3).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Passar a vida inteira assim no toco” (ℓ.4).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“entregando o que era dele de mão beijada!” (ℓ.4-5).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Aí Fabiano baixou a pancada e amunhecou” (ℓ.11).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2000",
+    "index": 53,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O texto abaixo, de John Locke (1632-1704), revela algumas características de\numa determinada corrente de pensamento.\n\n―Se o homem no estado de natureza é tão livre, conforme dissemos, se é\nsenhor absoluto da sua própria pessoa e posses, igual ao maior e a\nninguém sujeito, por que abrirá ele mão dessa liberdade, por que\nabandonará o seu império e sujeitar-se-á ao domínio e controle de\nqualquer outro poder?\nAo que é óbvio responder que, embora no estado de natureza tenha tal\ndireito, a utilização do mesmo é muito incerta e está constantemente\nexposto à invasão de terceiros porque, sendo todos senhores tanto quanto\nele, todo homem igual a ele e, na maior parte, pouco observadores da\neqüidade e da justiça, o proveito da propriedade que possui nesse estado é\nmuito inseguro e muito arriscado. Estas circunstâncias obrigam-no a\nabandonar uma condição que, embora livre, está cheia de temores e\nperigos constantes; e não é sem razão que procura de boa vontade juntar-\nse em sociedade com outros que estão já unidos, ou pretendem unir-se,\npara a mútua conservação da vida, da liberdade e dos bens a que chamo\nde propriedade.‖\n\n(Os Pensadores. São Paulo: Nova Cultural, 1991)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Analisando o texto, podemos concluir que se trata de um pensamento:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do liberalismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "do socialismo utópico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do absolutismo monárquico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do socialismo científico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "do anarquismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

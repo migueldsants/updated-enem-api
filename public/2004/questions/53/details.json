@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2004",
+    "index": 53,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Constituição de 1824:\n“Art. 98. O Poder Moderador é a chave de toda a organização política, e é delegado privativamente ao Imperador\n(…) para que incessantemente vele sobre a manutenção da Independência, equilíbrio, e harmonia dos demais\npoderes políticos (...) dissolvendo a Câmara dos Deputados nos casos em que o exigir a salvação do Estado.”\n\n![](https://enem.dev/2004/questions/53/adf535fe-f472-4d6b-9dec-ca25ae85a5e2.png)\n\n“O Poder Moderador da nova invenção maquiavélica é a chave mestra da opressão da nação brasileira e o garrote\nmais forte da liberdade dos povos. Por ele, o imperador pode dissolver a Câmara dos Deputados, que é a\nrepresentante do povo, ficando sempre no gozo de seus direitos o Senado, que é o representante dos\napaniguados do imperador.”\n\n(Voto sobre o juramento do projeto de Constituição)",
+    "files": [
+        "https://enem.dev/2004/questions/53/adf535fe-f472-4d6b-9dec-ca25ae85a5e2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para Frei Caneca, o Poder Moderador definido pela Constituição outorgada pelo Imperador em 1824 era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adequado ao funcionamento de uma monarquia constitucional, pois os senadores eram escolhidos pelo Imperador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "eficaz e responsável pela liberdade dos povos, porque garantia a representação da sociedade nas duas esferas do poder legislativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "arbitrário, porque permitia ao Imperador dissolver a Câmara dos Deputados, o poder representativo da sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "neutro e fraco, especialmente nos momentos de crise, pois era incapaz de controlar os deputados representantes da Nação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "capaz de responder às exigências políticas da nação, pois supria as deficiências da representação política.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

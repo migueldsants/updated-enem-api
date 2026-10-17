@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2005",
+    "index": 2,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "As questões 1 e 2 referem-se ao poema.\n\nA DANÇA E A ALMA\n\nA DANÇA? Não é movimento, Um estar entre céu e chão,\nsúbito gesto musical. novo domínio conquistado,\nÉ concentração, num momento, onde busque nossa paixão\nda humana graça natural. libertar-se por todo lado...\n\nNo solo não, no éter pairamos, Onde a alma possa descrever\nnele amaríamos ficar. suas mais divinas parábolas\nA dança – não vento nos ramos: sem fugir à forma do ser,\nseiva, força, perene estar. por sobre o mistério das fábulas.\n\n(Carlos Drummond de Andrade. Obra completa. Rio de Janeiro: Aguilar, 1964. p. 366.)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O poema “A Dança e a Alma” é construído com base em contrastes, como “movimento” e “concentração”. Em uma\ndas estrofes, o termo que estabelece contraste com solo é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "éter.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "seiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "chão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "paixão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ser.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

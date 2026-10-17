@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2011 - Reaplicação",
+    "index": 160,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O responsável por realizar uma avaliação em uma\nescola convocou alguns professores para elaborar\nquestões e estipulou uma meta mínima. Cada professor\ndeveria elaborar, em média, 13 questões por dia durante\numa semana. Nos seis primeiros dias, as quantidades\nde questões elaboradas por um professor foram 15, 12,\n11, 12, 13, 14.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para cumprir a meta mínima, a quantidade mínima de\nquestões que o professor deverá elaborar no último dia é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2007",
+    "index": 7,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico abaixo, obtido a partir de dados do Ministério do\nMeio Ambiente, mostra o crescimento do número de\nespécies da fauna brasileira ameaçadas de extinção.\n\n![](https://enem.dev/2007/questions/7/475181e9-5f1f-44a4-b4af-52ef1ebc3969.png)",
+    "files": [
+        "https://enem.dev/2007/questions/7/475181e9-5f1f-44a4-b4af-52ef1ebc3969.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se mantida, pelos próximos anos, a tendência de\ncrescimento mostrada no gráfico, o número de espécies\nameaçadas de extinção em 2011 será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "465.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "493.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "498.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "538.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "699.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

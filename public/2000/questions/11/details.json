@@ -1,0 +1,46 @@
+{
+    "title": "Questão 11 - ENEM 2000",
+    "index": 11,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "A energia térmica liberada em processos de fissão nuclear pode ser utilizada na\ngeração de vapor para produzir energia mecânica que, por sua vez, será\nconvertida em energia elétrica. Abaixo está representado um esquema básico\nde uma usina de energia nuclear.\n\n![](https://enem.dev/2000/questions/11/43d1eb6c-8bed-4e36-8aeb-b088581c1caf.png)\n\nCom relação ao impacto ambiental causado pela poluição térmica no processo\nde refrigeração da usina nuclear, são feitas as seguintes afirmações:\n\nI o aumento na temperatura reduz, na água do rio, a quantidade de\n\noxigênio nela dissolvido, que é essencial para a vida aquática e para a\ndecomposição da matéria orgânica.\n\nII o aumento da temperatura da água modifica o metabolismo dos peixes.\nIII o aumento na temperatura da água diminui o crescimento de bactérias e\n\nde algas, favorecendo o desenvolvimento da vegetação.",
+    "files": [
+        "https://enem.dev/2000/questions/11/43d1eb6c-8bed-4e36-8aeb-b088581c1caf.png",
+        "https://enem.dev/2000/questions/11/c4518480-4e36-4f31-8435-4a8283d3c2f1.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Das afirmativas acima, somente está(ão) correta(s):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/11/c4518480-4e36-4f31-8435-4a8283d3c2f1.png",
+            "isCorrect": false
+        }
+    ]
+}

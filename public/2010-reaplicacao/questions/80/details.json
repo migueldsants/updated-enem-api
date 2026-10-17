@@ -1,0 +1,45 @@
+{
+    "title": "Questão 80 - ENEM 2010 - Reaplicação",
+    "index": 80,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A curcumina, substância encontrada no pó amarelo-\nalaranjado extraído da raiz da curcuma ou açafrão-da-\níndia (Curcuma longa), aparentemente, pode ajudar a\ncombater vários tipos de câncer, o mal de Parkinson e\no de Alzheimer e até mesmo retardar o envelhecimento.\nUsada há quatro milênios por algumas culturas orientais,\n\n![](https://enem.dev/2010-reaplicacao/questions/80/8deae68d-e0da-4a7e-97db-a6cc12fbc4ac.png)\n\nANTUNES, M. G. L. Neurotoxicidade induzida pelo quimioterápico cisplatina: possíveis\nefeitos citoprotetores dos antioxidantes da dieta curcumina e coenzima Q10. Pesquisa\nFAPESP. São Paulo, n. 168, fev. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/80/8deae68d-e0da-4a7e-97db-a6cc12fbc4ac.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na estrutura da curcumina, identificam-se grupos\ncaracterísticos das funções",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "éter e álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "éter e fenol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "éster e fenol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aldeído e enol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aldeído e éster.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

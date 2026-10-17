@@ -1,0 +1,45 @@
+{
+    "title": "Questão 135 - ENEM 2011 - Reaplicação",
+    "index": 135,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/135/d12b9976-4ee5-4ef6-ae83-bfb2c8545ff7.png)\n\nLuscar. Cartum.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/135/d12b9976-4ee5-4ef6-ae83-bfb2c8545ff7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse cartum, o artista lança mão do recurso da\nintertextualidade para construir o texto. Esse recurso se\nconstitui pela presença de informações que remetem\na outros textos. O emprego desse recurso no cartum\nrevela uma crítica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à qualidade da informação prestada pela mídia brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aos altos níveis de violência no país veiculados pela mídia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "à imparcialidade dos telejornais na veiculação de informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à ausência de critérios para divulgação de notícias em telejornais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao incentivo da mídia a atos violentos na sociedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

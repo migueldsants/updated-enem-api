@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2010 - Reaplicação",
+    "index": 106,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/106/37fc6275-2c10-4a47-a3c1-6033b6821417.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/106/37fc6275-2c10-4a47-a3c1-6033b6821417.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse texto é uma propaganda veiculada nacionalmente.\nEsse gênero textual utiliza-se da persuasão com uma\nintencionalidade específica. O principal objetivo desse\ntexto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "comprovar que o avanço da dengue no país está",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "convencer as pessoas a se mobilizarem, com o",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "demonstrar que a propaganda tem um caráter",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "informar à população que a dengue é uma doença",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sugerir que a sociedade combata a doença,",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

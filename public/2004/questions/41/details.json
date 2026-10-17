@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2004",
+    "index": 41,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre outubro e fevereiro, a cada ano, em alguns estados das regiões Sul, Sudeste e Centro-Oeste, os relógios permanecem\nadiantados em uma hora, passando a vigorar o chamado horário de verão. Essa medida, que se repete todos os anos, visa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promover a economia de energia, permitindo um melhor aproveitamento do período de iluminação natural do dia, que é maior nessa época do ano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "diminuir o consumo de energia em todas as horas do dia, propiciando uma melhor distribuição da demanda entre o período da manhã e da tarde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "adequar o sistema de abastecimento das barragens hidrelétricas ao regime de chuvas, abundantes nessa época do ano nas regiões que adotam esse horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "incentivar o turismo, permitindo um melhor aproveitamento do período da tarde, horário em que os bares e restaurantes são mais freqüentados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "responder a uma exigência das indústrias, possibilitando que elas realizem um melhor escalonamento das férias de seus funcionários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

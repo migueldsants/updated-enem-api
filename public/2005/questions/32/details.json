@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2005",
+    "index": 32,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os plásticos, por sua versatilidade e menor custo relativo, têm seu uso cada vez mais crescente. Da produção anual\nbrasileira de cerca de 2,5 milhões de toneladas, 40% destinam-se à indústria de embalagens. Entretanto, este\ncrescente aumento de produção e consumo resulta em lixo que só se reintegra ao ciclo natural ao longo de décadas\nou mesmo de séculos.\nPara minimizar esse problema uma ação possível e adequada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proibir a produção de plásticos e substituí-los por materiais renováveis como os metais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "incinerar o lixo de modo que o gás carbônico e outros produtos resultantes da combustão voltem aos ciclos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "queimar o lixo para que os aditivos contidos na composição dos plásticos, tóxicos e não degradáveis sejam diluídos no ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "estimular a produção de plásticos recicláveis para reduzir a demanda de matéria prima não renovável e o acúmulo de lixo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "reciclar o material para aumentar a qualidade do produto e facilitar a sua comercialização em larga escala.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

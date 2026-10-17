@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2004",
+    "index": 13,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "No Nordeste brasileiro, é comum encontrarmos peças de artesanato constituídas por garrafas\npreenchidas com areia de diferentes cores, formando desenhos. Um artesão deseja fazer peças\ncom areia de cores cinza, azul, verde e amarela, mantendo o mesmo desenho, mas variando as\ncores da paisagem (casa, palmeira e fundo), conforme a figura.\n\n![](https://enem.dev/2004/questions/13/b3bf97c3-0d45-4d36-944e-ea07aea2794a.png)\n\nO fundo pode ser representado nas cores azul ou cinza; a casa, nas cores azul, verde ou",
+    "files": [
+        "https://enem.dev/2004/questions/13/b3bf97c3-0d45-4d36-944e-ea07aea2794a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "casa nem da palmeira, por uma questão de contraste, então o número de variações que podem\nser obtidas para a paisagem é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

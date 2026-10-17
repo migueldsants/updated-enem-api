@@ -1,0 +1,50 @@
+{
+    "title": "Questão 32 - ENEM 2001",
+    "index": 32,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Existem diferentes formas de representação plana da superfície da Terra (planisfério).\n\n![](https://enem.dev/2001/questions/32/eb443c50-9d99-4ac2-a096-07fd36b63da3.png)",
+    "files": [
+        "https://enem.dev/2001/questions/32/eb443c50-9d99-4ac2-a096-07fd36b63da3.png",
+        "https://enem.dev/2001/questions/32/87baff16-a41d-4547-9c7e-1ae731a7dad7.png",
+        "https://enem.dev/2001/questions/32/546d7305-abce-4df4-b6a1-516adaa06eee.png",
+        "https://enem.dev/2001/questions/32/1a1764d8-728c-4ce4-90c3-c954308eed60.png",
+        "https://enem.dev/2001/questions/32/946cf7db-f70f-4754-88b8-1ec075356b93.png",
+        "https://enem.dev/2001/questions/32/5d4767a6-528f-4ed8-bbcb-3cb159a6a23b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Apesar de usarem projeções, respectivamente, conforme e equivalente, ambas utilizam como\nbase da projeção o modelo:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/32/87baff16-a41d-4547-9c7e-1ae731a7dad7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/32/546d7305-abce-4df4-b6a1-516adaa06eee.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/32/1a1764d8-728c-4ce4-90c3-c954308eed60.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/32/946cf7db-f70f-4754-88b8-1ec075356b93.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/32/5d4767a6-528f-4ed8-bbcb-3cb159a6a23b.png",
+            "isCorrect": false
+        }
+    ]
+}

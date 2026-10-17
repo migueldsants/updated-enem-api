@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 1998",
+    "index": 56,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "A partir da leitura do depoimento 2, quais os argumentos utilizados para defender a posição de um\ntrabalhador rural sem terra?\n\nI. A distribuição mais justa da terra no país está sendo resolvida, apesar de que muitos ainda não têm\n\nacesso a ela.\nII. A terra é para quem trabalha nela e não para quem a acumula como bem material.\nIII. É necessário que se suprima o valor social da terra.\nIV. A mecanização do campo acarreta a dispensa de mão-de-obra rural.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Estão corretas as proposições:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "II e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III, I, IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

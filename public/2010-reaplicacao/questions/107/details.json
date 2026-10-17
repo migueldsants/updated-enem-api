@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2010 - Reaplicação",
+    "index": 107,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Texto I\nSe eu tenho de morrer na flor dos anos,\nMeu Deus! não seja já;\nEu quero ouvir na laranjeira, à tarde,\n\nCantar o sabiá!\nMeu Deus, eu sinto e bem vês que eu morro\n\nRespirando esse ar;\nFaz que eu viva, Senhor! dá-me de novo\n\nOs gozos do meu lar!\n\nDá-me os sítios gentis onde eu brincava\n\nLá na quadra infantil;\nDá que eu veja uma vez o céu da pátria,\n\nO céu de meu Brasil!\nSe eu tenho de morrer na flor dos anos,\nMeu Deus! Não seja já!\nEu quero ouvir cantar na laranjeira, à tarde,\n\nCantar o sabiá!\n\nABREU, C. Poetas românticos brasileiros. São Paulo: Scipione, 1993.\n\nTexto II\nA ideologia romântica, argamassada ao longo do século\nXVIII e primeira metade do século XIX, introduziu-\nse em 1836. Durante quatro decênios, imperaram o\n“eu”, a anarquia, o liberalismo, o sentimentalismo, o\nnacionalismo, através da poesia, do romance, do teatro\ne do jornalismo (que fazia sua aparição nessa época).\n\nMOISÉS, M. A literatura brasileira através dos textos. São Paulo: Cultrix, 1971 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com as considerações de Massaud Moisés\nno Texto II, o Texto I centra-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "no imperativo do “eu”, reforçando a ideia de que estar longe do Brasil é uma forma de estar bem, já que o país sufoca o eu lírico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "no nacionalismo, reforçado pela distância da pátria e pelo saudosismo em relação à paisagem agradável onde o eu lírico vivera a infância.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "na liberdade formal, que se manifesta na opção por versos sem métrica rigorosa e temática voltada para o nacionalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no fazer anárquico, entendida a poesia como negação do passado e da vida, seja pelas opções formais, seja pelos temas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "no sentimentalismo, por meio do qual se reforça a alegria presente em oposição à infância, marcada pela tristeza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

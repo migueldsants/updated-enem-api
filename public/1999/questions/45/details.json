@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 1999",
+    "index": 45,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela a seguir apresenta alguns exemplos de processos, fenômenos ou objetos em que ocorrem transformações de\n\nenergia. Nessa tabela, aparecem as direções de transformação de energia. Por exemplo, o termopar é um dispositivo onde\nenergia térmica se transforma em energia elétrica.\n\n![](https://enem.dev/1999/questions/45/14119f11-156e-4ece-b0e2-13413f32b615.png)",
+    "files": [
+        "https://enem.dev/1999/questions/45/14119f11-156e-4ece-b0e2-13413f32b615.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dentre os processos indicados na tabela, ocorre conservação de energia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "em todos os processos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "somente nos processos que envolvem transformações de energia sem dissipação de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "somente nos processos que envolvem transformações de energia mecânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "somente nos processos que não envolvem energia química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "somente nos processos que não envolvem nem energia química nem energia térmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

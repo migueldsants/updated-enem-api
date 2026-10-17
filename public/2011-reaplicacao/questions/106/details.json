@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2011 - Reaplicação",
+    "index": 106,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O acesso à educação profissional e tecnológica\npode mudar a vida de milhões de jovens em todo o país:\nhá uma nova lei do estágio. Com a nova lei, o governo\nfederal define o estágio profissional como ato educativo\ne determina medidas para que esta atividade contribua\npara familiarizar o futuro profissional com o mundo do\ntrabalho. Entre as medidas estabelecidas, estão: a\nobrigatoriedade da supervisão por parte do professor da\ninstituição de origem do estudante com o auxílio de um\nprofissional no local de trabalho, a definição de jornada\nmáxima de trabalho de quatro a seis horas.\n\nCarta na Escola. Nº 32, dez. 2008/jan. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao listar as mudanças ocorridas na legislação referente\nao estágio, o autor do texto tem como objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "familiarizar milhões de jovens estudantes com o seu futuro profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mostrar que as políticas públicas favorecem os trabalhadores da educação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incentivar a obrigatoriedade da supervisão por parte do professor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "familiarizar o leitor com as instituições que definem o",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ensino profissionalizante. apresentar as novas normas que definem o estágio profissional para estudantes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

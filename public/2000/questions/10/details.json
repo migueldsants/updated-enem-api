@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2000",
+    "index": 10,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "A adaptação dos integrantes da seleção brasileira de futebol à altitude de La\nPaz foi muito comentada em 1995, por ocasião de um torneio, como pode ser\nlido no texto abaixo.\n\n―A seleção brasileira embarca hoje para La Paz, capital da Bolívia,\nsituada a 3.700 metros de altitude, onde disputará o torneio\nInteramérica. A adaptação deverá ocorrer em um prazo de 10 dias,\naproximadamente. O organismo humano, em altitudes elevadas,\nnecessita desse tempo para se adaptar, evitando-se, assim, risco de um\ncolapso circulatório.‖\n\n(Adaptado da revista Placar, edição fev.1995)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A adaptação da equipe foi necessária principalmente porque a atmosfera de La\nPaz, quando comparada à das cidades brasileiras, apresenta:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "menor pressão e menor concentração de oxigênio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "maior pressão e maior quantidade de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "maior pressão e maior concentração de gás carbônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "menor pressão e maior temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "maior pressão e menor temperatura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

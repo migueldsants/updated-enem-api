@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2010 - Reaplicação",
+    "index": 6,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O volume de matéria-prima recuperado pela reciclagem\ndo lixo está muito abaixo das necessidades da indústria.\nNo entanto, mais que uma forma de responder ao\naumento da demanda industrial por matérias-primas e\nenergia, a reciclagem é uma forma de reintroduzir o lixo\nno processo industrial.\n\nSCARLATO, F. C.; PONTIN, J. A. Do nicho ao lixo. São Paulo: Atual, 1992 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A prática abordada no texto corresponde, no contexto\nglobal, a uma situação de sustentabilidade que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reduz o buraco na camada de ozônio nos distritos industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ameniza os efeitos das chuvas ácidas nos polos petroquímicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminui os efeitos da poluição atmosférica das indústrias siderúrgicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminui a possibilidade de formação das ilhas de calor nas áreas urbanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reduz a utilização de matérias-primas nas indústrias de bens de consumo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

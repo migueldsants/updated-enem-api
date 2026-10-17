@@ -1,0 +1,46 @@
+{
+    "title": "Questão 104 - ENEM 2011 - Reaplicação",
+    "index": 104,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Gravuras e pinturas são duas modalidades da\nprática gráfica rupestre, feitas com recursos técnicos\ndiferentes. Existem vastas áreas nas quais há\ndominância de uma ou outra técnica no Brasil, o que\nnão impede que ambas coexistam no mesmo espaço.\nMas em todas as regiões há mãos, pés, antropomorfos\ne zoomorfos. Os grafismos realizados em blocos ou\nparedes foram gravados por meio de diversos recursos:\npicoteamento, entalhes e raspados.\n\nDANTAS, M. Antes: história da pré-história. Brasília: CCBB, 2006.\n\n![](https://enem.dev/2011-reaplicacao/questions/104/6c9131d5-42e4-4041-8633-2028e43846ad.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/104/e43bb85d-54ee-4962-a7f6-eca3fd0bda1e.png)\n\nDisponível em: http://www.scipione.com.br. Acesso em: 30 abr. 2009.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/104/6c9131d5-42e4-4041-8633-2028e43846ad.png",
+        "https://enem.dev/2011-reaplicacao/questions/104/e43bb85d-54ee-4962-a7f6-eca3fd0bda1e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nas figuras que representam a arte da pré-história\nbrasileira e estão localizadas no sítio arqueológico da\nSerra da Capivara, estado do Piauí, e, com base no\ntexto, identificam-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "imagens do cotidiano que sugerem caçadas, danças, manifestações rituais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "cenas nas quais prevalece o grafismo entalhado em superfícies previamente polidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aspectos recentes, cujo procedimento de datação indica o recuo das cronologias da prática pré-histórica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "situações ilusórias na reconstituição da pré-história, pois se localizam em ambientes degradados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "grafismos rupestres que comprovam que foram realizados por pessoas com sensibilidade estética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

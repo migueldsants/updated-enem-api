@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2002",
+    "index": 19,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Um estudo realizado com 100 indivíduos que abastecem seu carro uma vez por semana em um dos postos X, Y ou Z mostrou\n\n![](https://enem.dev/2002/questions/19/6a26299e-8b2c-458b-bc87-0c6941cde59f.png)",
+    "files": [
+        "https://enem.dev/2002/questions/19/6a26299e-8b2c-458b-bc87-0c6941cde59f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se um dos postos encerrar suas atividades, e os 100 consumidores continuarem se orientando pelas preferências descritas, é\npossível afirmar que a liderança de preferência nunca pertencerá a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "X ou Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Y ou Z.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

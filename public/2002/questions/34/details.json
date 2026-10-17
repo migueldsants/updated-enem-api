@@ -1,0 +1,46 @@
+{
+    "title": "Questão 34 - ENEM 2002",
+    "index": 34,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Numa área de praia, a brisa marítima é uma conseqüência da\ndiferença no tempo de aquecimento do solo e da água, apesar\nde ambos estarem submetidos às mesmas condições de\nirradiação solar. No local (solo) que se aquece mais rapidamente,\no ar fica mais quente e sobe, deixando uma área de baixa\npressão, provocando o deslocamento do ar da superfície que\nestá mais fria (mar).\n\n![](https://enem.dev/2002/questions/34/fb7b4f97-ef88-4fbd-956a-8a7d55532903.png)\n\nÀ noite, ocorre um processo inverso ao que se verifica durante o dia\n\n![](https://enem.dev/2002/questions/34/ab51ecfe-7bbc-48d5-a67d-dc9a588c441b.png)",
+    "files": [
+        "https://enem.dev/2002/questions/34/fb7b4f97-ef88-4fbd-956a-8a7d55532903.png",
+        "https://enem.dev/2002/questions/34/ab51ecfe-7bbc-48d5-a67d-dc9a588c441b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Como a água leva mais tempo para esquentar (de dia), mas\ntambém leva mais tempo para esfriar (à noite), o fenômeno\nnoturno (brisa terrestre) pode ser explicado da seguinte maneira:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O ar que está sobre a água se aquece mais; ao subir, deixa uma área de baixa pressão, causando um deslocamento de ar do continente para o mar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O ar mais quente desce e se desloca do continente para a água, a qual não conseguiu reter calor durante o dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O ar que está sobre o mar se esfria e dissolve-se na água; forma-se, assim, um centro de baixa pressão, que atrai o ar quente do continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O ar que está sobre a água se esfria, criando um centro de alta pressão que atrai massas de ar continental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O ar sobre o solo, mais quente, é deslocado para o mar, equilibrando a baixa temperatura do ar que está sobre o mar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

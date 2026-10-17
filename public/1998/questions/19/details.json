@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 1998",
+    "index": 19,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Um armazém recebe sacos de açúcar de 24kg para que\nsejam empacotados em embalagens menores. O único\nobjeto disponível para pesagem é uma balança de 2 pratos,\nsem os pesos metálicos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Realizando exatamente duas pesagens, os pacotes que podem ser feitos são os de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3kg e 6kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3kg, 6kg e 12kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6kg, 12kg e 18kg",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4kg e 8kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4kg, 6kg e 8kg",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2007",
+    "index": 4,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto II, verifica-se que o autor utiliza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "linguagem predominantemente formal, para problematizar, na composição de Vidas Secas, a relação entre o escritor e o personagem popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "linguagem inovadora, visto que, sem abandonar a linguagem formal, dirige-se diretamente ao leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "linguagem coloquial, para narrar coerentemente uma história que apresenta o roceiro pobre de forma pitoresca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "linguagem formal com recursos retóricos próprios do texto literário em prosa, para analisar determinado momento da literatura brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "linguagem regionalista, para transmitir informações sobre literatura, valendo-se de coloquialismo, para facilitar o entendimento do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

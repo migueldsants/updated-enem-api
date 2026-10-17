@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2010 - Reaplicação",
+    "index": 43,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O meu lugar,\nTem seus mitos e seres de luz,\nÉ bem perto de Oswaldo Cruz,\nCascadura, Vaz Lobo, Irajá.\nO meu lugar,\nÉ sorriso, é paz e prazer,\nO seu nome é doce dizer,\nMadureira, ia, Iaiá.\nMadureira, ia, Iaiá\n\nEm cada esquina um pagode um bar,\nEm Madureira.\nImpério e Portela também são de lá,\nEm Madureira.\nE no Mercadão você pode comprar\nPor uma pechincha você vai levar,\nUm dengo, um sonho pra quem quer sonhar,\nEm Madureira.\n\nCRUZ, A. Meu lugar. Disponível em: www.vagalume.uol.com.br. Acesso em: 16 abr. 2010 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A análise do trecho da canção indica um tipo de interação\nentre o indivíduo e o espaço. Essa interação explícita na\ncanção expressa um processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "autossegregação espacial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "exclusão sociocultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "homogeneização cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expansão urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pertencimento ao espaço.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2011 - Reaplicação",
+    "index": 76,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com a crescente demanda de energia elétrica,\ndecorrente do modo de vida da sociedade moderna,\ntornou-se necessário que mais de uma fonte de energia\nseja estudada e aplicada, levando-se em conta os\nimpactos ambientais e sociais a serem gerados em\ncurto e longo prazo. Com isso, o uso da energia nuclear\ntem sido muito debatido no mundo. O questionamento\nprincipal é se valerá a pena construir centrais de\nprodução nuclear ou é preferível investir em outros tipos\nde energias que sejam renováveis.\n\nDisponível em: http://energiaeambiente.wordpress.com. http://www.comciencia.br.\nAcesso em: 27 jan. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um argumento favorável ao uso da energia nuclear é o\nfato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "seu preço de instalação ser menor que o das demais fontes de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tratamento de seus rejeitos ser um processo simples.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de ser uma energia limpa, de baixo custo, que não causa impactos ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ser curto o tempo de atividade dos resíduos produzidos na sua geração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ser uma energia limpa embora não seja renovável.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

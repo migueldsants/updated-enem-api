@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2011 - Reaplicação",
+    "index": 31,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Texto I\n\nA bandeira no estádio é um estandarte/A flâmula\npendurada na parede do quarto/ O distintivo na camisa\ndo uniforme/ Que coisa linda é uma partida de futebol/\nPosso morrer pelo meu time/ Se ele perder, que dor,\nimenso crime/ Posso chorar se ele não ganhar/ Mas se\nele ganha, não adianta/ Não há garganta que não pare\nde berrar/ A chuteira veste o pé descalço/ O tapete da\nrealeza é verde/ Olhando para a bola eu vejo o sol/ Está\nrolando agora, é uma partida de futebol\n\nSKANK. Uma partida de futebol. Disponível em: www.letras.terra.com.br.\nAcesso em: 27 abr. 2010 (fragmento).\n\nTexto II\n\nO “gostar de futebol” no Brasil existe fora das\nconsciências individuais dos brasileiros. O gosto ou\na paixão por um determinado esporte não existe\nnaturalmente em nosso “sangue”, como supõe o senso\ncomum. Ele existe na coletividade, em nosso meio\nsocial, que nos transmite esse sentimento da mesma\nforma que a escola nos ensina a ler e a escrever.\n\nHELAL, R. O que é Sociologia do Esporte? São Paulo: Brasiliense, 1990.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Chamado de ópio do povo por uns, paixão nacional por\noutros, o futebol, além de esporte mais praticado no\nBrasil, pode ser considerado fato social, culturalmente\napreendido, seja por seus praticantes, seja pelos\ntorcedores. Nesse sentido, as fontes acima apresentam\nideias semelhantes, pois o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "futebol aparece como elemento integrante da cultura brasileira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "lazer aparece em ambos como a principal função social do futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“tapete verde” e a “bola–sol” são metáforas do nacionalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "esporte é visto como instrumento de divulgação de valores sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "futebol é visto como um instante de supressão da desigualdade social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

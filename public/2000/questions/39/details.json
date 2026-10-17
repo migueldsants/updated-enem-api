@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2000",
+    "index": 39,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Um apostador tem três opções para participar de certa modalidade de\njogo, que consiste no sorteio aleatório de um número dentre dez.\n\n1ª opção: comprar três números para um único sorteio.\n\n2ª opção: comprar dois números para um sorteio e um número para um\nsegundo sorteio.\n\n3ª opção: comprar um número para cada sorteio, num total de três\nsorteios.",
+    "files": [
+        "https://enem.dev/2000/questions/39/43c3163b-e727-48e6-81cb-89bfa9cc9299.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se X, Y, Z representam as probabilidades de o apostador ganhar algum prêmio,\nescolhendo, respectivamente, a 1ª, a 2ª ou a 3ª opções, é correto afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X < Y < Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "X = Y = Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "X >Y = Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "X = Y > Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/39/43c3163b-e727-48e6-81cb-89bfa9cc9299.png",
+            "isCorrect": true
+        }
+    ]
+}

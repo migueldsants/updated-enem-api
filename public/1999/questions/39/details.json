@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 1999",
+    "index": 39,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Diante da visão de um prédio com uma placa indicando\nSAPATARIA PAPALIA, um jovem deparou com a dúvida: como\npronunciar a palavra PAPALIA?\n\nLevado o problema à sala de aula, a discussão girou em torno da\nutilidade de conhecer as regras de acentuação e, especialmente,\ndo auxílio que elas podem dar à correta pronúncia de palavras.\nApós discutirem pronúncia, regras de acentuação e escrita, três\nalunos apresentaram as seguintes conclusões a respeito da\npalavra PAPALIA:\n\n![](https://enem.dev/1999/questions/39/80bd9dc6-5aec-4038-805a-0329d8ea2f56.png)\n\nI. Se a sílaba tônica for o segundo PA, a escrita deveria ser\n\nPAPÁLIA, pois a palavra seria paroxítona terminada em\nditongo crescente.\n\nII. Se a sílaba tônica for LI, a escrita deveria ser PAPALÍA, pois “i”\n\ne “a” estariam formando hiato.\n\nIII. Se a sílaba tônica for LI, a escrita deveria ser PAPALIA, pois\n\nnão haveria razão para o uso de acento gráfico.",
+    "files": [
+        "https://enem.dev/1999/questions/39/80bd9dc6-5aec-4038-805a-0329d8ea2f56.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A conclusão está correta apenas em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I e III",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

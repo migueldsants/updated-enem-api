@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2004",
+    "index": 28,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Ao longo do século XX, as características da população brasileira mudaram muito. Os gráficos mostram as alterações na\ndistribuição da população da cidade e do campo e na taxa de fecundidade (número de filhos por mulher) no período entre 1940 e\n2000.\n\n![](https://enem.dev/2004/questions/28/2a21bdb1-c594-41ec-adf5-d928d0fb56f3.png)",
+    "files": [
+        "https://enem.dev/2004/questions/28/2a21bdb1-c594-41ec-adf5-d928d0fb56f3.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Comparando-se os dados dos gráficos, pode-se concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o aumento relativo da população rural é acompanhado pela redução da taxa de fecundidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "quando predominava a população rural, as mulheres tinham em média três vezes menos filhos do que hoje.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a diminuição relativa da população rural coincide com o aumento do número de filhos por mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "quanto mais aumenta o número de pessoas morando em cidades, maior passa a ser a taxa de fecundidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "com a intensificação do processo de urbanização, o número de filhos por mulher tende a ser menor.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

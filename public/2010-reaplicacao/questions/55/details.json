@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2010 - Reaplicação",
+    "index": 55,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um agricultor, buscando o aumento da produtividade de\nsua lavoura, utilizou o adubo NPK (nitrogênio, fósforo\ne potássio) com alto teor de sais minerais. A irrigação\ndessa lavoura é feita por canais que são desviados de\num rio próximo dela. Após algum tempo, notou-se uma\ngrande mortandade de peixes no rio que abastece os\ncanais, devido à contaminação das águas pelo excesso\nde adubo usado pelo agricultor.\nQue processo biológico pode ter sido provocado na água\ndo rio pelo uso do adubo NPK?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Lixiviação, processo em que ocorre a lavagem do solo, que acaba disponibilizando os nutrientes para a água do rio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Acidificação, processo em que os sais, ao se dissolverem na água do rio, formam ácidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eutrofização, ocasionada pelo aumento de fósforo e nitrogênio dissolvidos na água, que resulta na proliferação do fitoplâncton.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Aquecimento, decorrente do aumento de sais dissolvidos na água do rio, que eleva sua temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Denitrificação, processo em que o excesso de nitrogênio que chega ao rio é disponibilizado para a atmosfera, prejudicando o desenvolvimento dos peixes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

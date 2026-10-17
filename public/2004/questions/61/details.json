@@ -1,0 +1,45 @@
+{
+    "title": "Questão 61 - ENEM 2004",
+    "index": 61,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Ferramentas de aço podem sofrer corrosão e enferrujar. As etapas químicas que correspondem a esses processos podem ser\nrepresentadas pelas equações:\n\n![](https://enem.dev/2004/questions/61/86e56160-d365-45c2-beee-0fb433f1f084.png)",
+    "files": [
+        "https://enem.dev/2004/questions/61/86e56160-d365-45c2-beee-0fb433f1f084.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma forma de tornar mais lento esse processo de corrosão e formação de ferrugem é engraxar as ferramentas. Isso se justifica\nporque a graxa proporciona",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "lubrificação, evitando o contato entre as ferramentas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impermeabilização, diminuindo seu contato com o ar úmido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "isolamento térmico, protegendo-as do calor ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "galvanização, criando superfícies metálicas imunes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "polimento, evitando ranhuras nas superfícies.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

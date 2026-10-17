@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2003",
+    "index": 59,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Um dos aspectos utilizados para avaliar a posição ocupada pela mulher na sociedade é a sua participação no\nmercado de trabalho. O gráfico mostra a evolução da presença de homens e mulheres no mercado de trabalho entre\nos anos de 1940 e 2000.\n\n![](https://enem.dev/2003/questions/59/a6563c56-beb0-43aa-a808-e75e6fe2aa64.png)",
+    "files": [
+        "https://enem.dev/2003/questions/59/a6563c56-beb0-43aa-a808-e75e6fe2aa64.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Da leitura do gráfico, pode-se afirmar que a participação percentual do trabalho feminino no Brasil",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "teve valor máximo em 1950, o que não ocorreu com a participação masculina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apresentou, tanto quanto a masculina, menor crescimento nas três últimas décadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apresentou o mesmo crescimento que a participação masculina no período de 1960 a 1980.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "teve valor mínimo em 1940, enquanto que a participação masculina teve o menor valor em 1950.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresentou-se crescente desde 1950 e, se mantida a tendência, alcançará, a curto prazo, a participação masculina.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

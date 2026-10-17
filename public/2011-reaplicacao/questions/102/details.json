@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2011 - Reaplicação",
+    "index": 102,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/102/617a6126-ec65-48af-b19a-603ea54e976c.png)\n\nPietà, século XV. Pietà, 1924.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/102/617a6126-ec65-48af-b19a-603ea54e976c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Vicente do Rego Monteiro foi um dos pintores, cujas telas\nforam expostas durante a Semana de Arte Moderna. Tal\ncomo Michelangelo, ele se inspirou em temas bíblicos,\nporém com um estilo peculiar. Considerando-se as obras\napresentadas, o artista brasileiro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estava preocupado em retratar detalhes da cena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "demonstrou irreverência ao retratar a cena bíblica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "optou por fazer uma escultura minimalista,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diferentemente de Michelangelo. deu aos personagens traços cubistas, em vez dos",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "traços europeus, típicos de Michelangelo. reproduziu o estilo da famosa obra de Michelangelo, uma vez que retratou a mesma cena bíblica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

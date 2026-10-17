@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 1999",
+    "index": 37,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "No diagrama estão representadas as duas modalidades mais comuns de usinas elétricas, as hidroelétricas e as\n\ntermoelétricas. No Brasil, a construção de usinas hidroelétricas deve ser incentivada porque essas\n\nI. utilizam fontes renováveis, o que não ocorre com as termoelétricas que utilizam fontes que necessitam de bilhões de anos\n\npara serem reabastecidas.\n\nII. apresentam impacto ambiental nulo, pelo represamento das águas no curso normal dos rios.\nIII. aumentam o índice pluviométrico da região de seca do Nordeste, pelo represamento de águas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Das três afirmações acima, somente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I está correta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II está correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III está correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II estão corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III estão corretas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

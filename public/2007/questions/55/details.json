@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2007",
+    "index": 55,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As mudanças evolutivas dos organismos resultam de alguns\nprocessos comuns à maioria dos seres vivos. É um processo\nevolutivo comum a plantas e animais vertebrados:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "movimento de indivíduos ou de material genético entre populações, o que reduz a diversidade de genes e cromossomos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sobrevivência de indivíduos portadores de determinadas características genéticas em ambientes específicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "aparecimento, por geração espontânea, de novos indivíduos adaptados ao ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aquisição de características genéticas transmitidas aos descendentes em resposta a mudanças ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recombinação de genes presentes em cromossomos do mesmo tipo durante a fase da esporulação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

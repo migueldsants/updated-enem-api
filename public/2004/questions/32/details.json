@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2004",
+    "index": 32,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O Índice de Desenvolvimento Humano (IDH) permite avaliar as condições de qualidade de vida e de desenvolvimento de um\npaís, de uma região ou de uma cidade, a partir de seus indicadores de renda, longevidade e educação. Cada indicador varia de\n0 (nenhum desenvolvimento) a 1 (desenvolvimento máximo). A tabela apresenta os valores de IDH de três municípios\nbrasileiros, X, Y e Z, medidos nos anos de 1991 e 2000.\n\n![](https://enem.dev/2004/questions/32/d9489c65-e6a1-4498-b270-2dd4c1040d05.png)\n\nMudanças desses indicadores de IDH podem ser obtidas com a implantação de políticas públicas tais como:\n\nI. Expansão dos empregos com melhoria de renda média.\nII. Ações de promoção de saúde e de prevenção de doenças.\nIII. Ampliação de escolas de ensino básico e de educação de jovens e adultos.",
+    "files": [
+        "https://enem.dev/2004/questions/32/d9489c65-e6a1-4498-b270-2dd4c1040d05.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os resultados apresentados em 2000 são compatíveis com a implementação bem sucedida em todos esses três municípios, ao\nlongo da década de noventa, das políticas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

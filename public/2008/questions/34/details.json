@@ -1,0 +1,46 @@
+{
+    "title": "Questão 34 - ENEM 2008",
+    "index": 34,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico ao lado\n\n10 km\nmodela a distância\npercorrida, em km,\n\n![](https://enem.dev/2008/questions/34/535dc8eb-c9df-4ae0-ac4d-ea1e6a47c5af.png)\n\n![](https://enem.dev/2008/questions/34/a43d50ae-ba88-4370-90b3-da242c3fe262.png)",
+    "files": [
+        "https://enem.dev/2008/questions/34/535dc8eb-c9df-4ae0-ac4d-ea1e6a47c5af.png",
+        "https://enem.dev/2008/questions/34/a43d50ae-ba88-4370-90b3-da242c3fe262.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "carroça – semana",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "carro – dia",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "caminhada – hora",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "bicicleta – minuto",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "avião – segundo",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

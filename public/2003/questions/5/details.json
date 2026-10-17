@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2003",
+    "index": 5,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "João e Antônio utilizam os ônibus da linha mencionada na questão anterior para ir trabalhar, no período considerado\nno gráfico, nas seguintes condições:\n\n– trabalham vinte dias por mês;\n– João viaja sempre no horário em que o ônibus faz o trajeto no menor tempo;\n– Antônio viaja sempre no horário em que o ônibus faz o trajeto no maior tempo;\n– na volta do trabalho, ambos fazem o trajeto no mesmo tempo de percurso.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se a diferença de tempo de percurso, Antônio gasta, por mês, em média,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "05 horas a mais que João.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 horas a mais que João.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20 horas a mais que João.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "40 horas a mais que João.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60 horas a mais que João.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

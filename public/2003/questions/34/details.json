@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2003",
+    "index": 34,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Na música \"Bye, bye, Brasil\", de Chico Buarque de Holanda e Roberto Menescal, os versos\n\n\"puseram uma usina no mar\ntalvez fique ruim pra pescar\"",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "poderiam estar se referindo à usina nuclear de Angra dos Reis, no litoral do Estado do Rio de Janeiro.\nNo caso de tratar-se dessa usina, em funcionamento normal, dificuldades para a pesca nas proximidades poderiam\nser causadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pelo aquecimento das águas, utilizadas para refrigeração da usina, que alteraria a fauna marinha.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "pela oxidação de equipamentos pesados e por detonações que espantariam os peixes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pelos rejeitos radioativos lançados continuamente no mar, que provocariam a morte dos peixes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pela contaminação por metais pesados dos processos de enriquecimento do urânio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pelo vazamento de lixo atômico colocado em tonéis e lançado ao mar nas vizinhanças da usina.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2008",
+    "index": 61,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O ano de 1954 foi decisivo para Carlos Lacerda.\nOs que conviveram com ele em 1954, 1955, 1957 (um dos\nseus momentos intelectuais mais altos, quando o governo\nJuscelino tentou cassar o seu mandato de deputado),\n1961 e 1964 tinham consciência de que Carlos Lacerda,\nem uma batalha política ou jornalística, era um trator em\nação, era um vendaval desencadeado não se sabe como,\nmas que era impossível parar fosse pelo método que\nfosse.\n\nHélio Fernandes. Carlos Lacerda, a morte antes da missão cumprida.\nIn: Tribuna da Imprensa, 22/5/2007 (com adaptações).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base nas informações do texto acima e em aspectos\nrelevantes da história brasileira entre 1954, quando\nocorreu o suicídio de Vargas (em grande medida, devido à\npressão política exercida pelo próprio Lacerda), e 1964,\nquando um golpe de Estado interrompe a trajetória\ndemocrática do país, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a cassação do mandato parlamentar de Lacerda antecedeu a crise que levou Vargas à morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Lacerda e adeptos do getulismo, aparentemente opositores, expressavam a mesma posição político- ideológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a implantação do regime militar, em 1964, decorreu da crise surgida com a contestação à posse de Juscelino Kubitschek como presidente da República.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Carlos Lacerda atingiu o apogeu de sua carreira, tanto no jornalismo quanto na política, com a instauração do regime militar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Juscelino Kubitschek, na presidência da República, sofreu vigorosa oposição de Carlos Lacerda, contra quem procurou reagir.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

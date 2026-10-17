@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2003",
+    "index": 9,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Eu começaria dizendo que poesia é uma questão de linguagem. A importância do poeta é que ele torna mais viva a\nlinguagem. Carlos Drummond de Andrade escreveu um dos mais belos versos da língua portuguesa com duas\npalavras comuns: cão e cheirando.\n\nUm cão cheirando o futuro\n\n(Entrevista com Mário Carvalho. Folha de SP, 24/05/1988. adaptação)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O que deu ao verso de Drummond o caráter de inovador da língua foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o modo raro como foi tratado o “futuro”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a referência ao cão como “animal de estimação”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a flexão pouco comum do verbo “cheirar” (gerúndio).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a aproximação não usual do agente citado e a ação de “cheirar”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o emprego do artigo indefinido “um” e do artigo definido “o” na mesma frase.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

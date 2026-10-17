@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2011 - Reaplicação",
+    "index": 111,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quando Rubem Braga não tinha assunto, ele abria\na janela e encontrava um. Quando não encontrava,\ndava no mesmo, ele abria a janela, olhava o mundo\ne comunicava que não havia assunto. Fazia isso com\ntanto engenho e arte que também dava no mesmo: a\ncrônica estava feita. Não tenho nem o engenho nem\na arte de Rubem, mas tenho a varanda aberta sobre\na Lagoa ― posso não ver melhor, mas vejo mais. [...]\nNelson Rodrigues não tinha problemas. Quando não\nhavia assunto, ele inventava. Uma tarde, estacionei\nilegalmente o Sinca-Chambord na calçada do jornal.\nEle estava com o papel na máquina e provisoriamente\nsem assunto. Inventou que eu descia de um reluzente\nRolls Royce com uma loura suspeita, mas equivalente\nà suntuosidade do carro. Um guarda nos deteve, eu\ntentei subornar a autoridade com dinheiro, o guarda não\naceitou o dinheiro, preferiu a loura. Eu fiquei sem a multa\ne sem a mulher. Nelson não ficou sem assunto.\n\nCONY, C. H. Folha de S. Paulo. 2 jan. 1998 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O autor lançou mão de recursos linguísticos que o\nauxiliaram na retomada de informações dadas sem\nrepetir textualmente uma referência. Esses recursos\npertencem ao uso da língua e ganham sentido nas\npráticas de linguagem. É o que acontece com os usos\ndo pronome “ele” destacados no texto. Com essa\nestratégia, o autor conseguiu",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "confundir o leitor, que fica sem saber quando o texto se refere a um ou a outro cronista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "comparar Rubem Braga com Nelson Rodrigues, dando preferência ao primeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "referir-se a Rubem Braga e a Nelson Rodrigues usando igual recurso de articulação textual.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "sugerir que os dois autores escrevem crônicas sobre assuntos semelhantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "produzir um texto obscuro, cujas ambiguidades impedem a compreensão do leitor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

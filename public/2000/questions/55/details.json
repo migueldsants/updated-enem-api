@@ -1,0 +1,46 @@
+{
+    "title": "Questão 55 - ENEM 2000",
+    "index": 55,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O suco extraído do repolho roxo pode ser utilizado como indicador do caráter\nácido (pH entre 0 e 7) ou básico (pH entre 7 e 14) de diferentes soluções.\nMisturando-se um pouco de suco de repolho e da solução, a mistura passa a\napresentar diferentes cores, segundo sua natureza ácida ou básica, de acordo\ncom a escala abaixo.\n\n![](https://enem.dev/2000/questions/55/d0814354-61f6-46ac-9aea-78403700ae2a.png)\n\nAlgumas soluções foram testadas com esse indicador, produzindo os seguintes\nresultados:\n\n![](https://enem.dev/2000/questions/55/bc77856a-9075-4ad1-870b-149351b43dc9.png)",
+    "files": [
+        "https://enem.dev/2000/questions/55/d0814354-61f6-46ac-9aea-78403700ae2a.png",
+        "https://enem.dev/2000/questions/55/bc77856a-9075-4ad1-870b-149351b43dc9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Utilizando-se o indicador citado em sucos de abacaxi e de limão, pode-se\nesperar como resultado as cores:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "rosa ou amarelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "vermelho ou roxo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "verde ou vermelho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "rosa ou vermelho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "roxo ou azul.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

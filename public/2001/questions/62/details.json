@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2001",
+    "index": 62,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Rui Guerra e Chico Buarque de Holanda escreveram uma peça para teatro chamada Calabar,\npondo em dúvida a reputação de traidor que foi atribuída a Calabar, pernambucano que\najudou decisivamente os holandeses na invasão do Nordeste brasileiro, em 1632.\n- Calabar traiu o Brasil que ainda não existia? Traiu Portugal, nação que explorava a\ncolônia onde Calabar havia nascido? Calabar, mulato em uma sociedade escravista e\ndiscriminatória, traiu a elite branca?\nOs textos referem-se também a esta personagem.\n\nTexto I: “...dos males que causou à Pátria, a História, a inflexível História, lhe chamará infiel,\ndesertor e traidor, por todos os séculos”\n\nVisconde de Porto Seguro, in: SOUZA JÚNIOR, A. Do Recôncavo aos Guararapes. Rio de Janeiro: Bibliex, 1949.\n\nTexto II: “Sertanista experimentado, em 1627 procurava as minas de Belchior Dias com a\ngente da Casa da Torre; ajudara Matias de Albuquerque na defesa do Arraial, onde fora\nferido, e desertara em conseqüência de vários crimes praticados...” (os crimes referidos são o\nde contrabando e roubo).\n\nCALMON, P. História do Brasil. Rio de Janeiro: José Olympio, 1959.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Pode-se afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A peça e os textos abordam a temática de maneira parcial e chegam às mesmas conclusões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A peça e o texto I refletem uma postura tolerante com relação à suposta traição de Calabar, e o texto II mostra uma posição contrária à atitude de Calabar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os textos I e II mostram uma postura contrária à atitude de Calabar, e a peça demonstra uma posição indiferente em relação ao seu suposto ato de traição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A peça e o texto II são neutros com relação à suposta traição de Calabar, ao contrário do texto I, que condena a atitude de Calabar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A peça questiona a validade da reputação de traidor que o texto I atribui a Calabar, enquanto o texto II descreve ações positivas e negativas dessa personagem.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

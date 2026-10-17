@@ -1,0 +1,46 @@
+{
+    "title": "Questão 51 - ENEM 2003",
+    "index": 51,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A primeira imagem abaixo (publicada no século XVI) mostra um ritual antropofágico dos índios do Brasil. A segunda\nmostra Tiradentes esquartejado por ordem dos representantes da Coroa portuguesa.\n\n(Theodor De Bry (Pedro Américo.\n-século XVI) Tiradentes esquartejado, 1893)\n\n![](https://enem.dev/2003/questions/51/848fcfa0-fc73-44fe-b103-710aaf9522fb.png)\n\n![](https://enem.dev/2003/questions/51/07c935ec-c8dd-49c1-936a-1c8948ceeb46.png)\n\nA comparação entre as reproduções possibilita as seguintes afirmações:\n\nI. Os artistas registraram a antropofagia e o esquartejamento praticados no Brasil.\nII. A antropofagia era parte do universo cultural indígena e o esquartejamento era uma forma de se fazer\njustiça entre luso-brasileiros.\nIII. A comparação das imagens faz ver como é relativa a diferença entre “bárbaros” e “civilizados”, indígenas e\neuropeus.",
+    "files": [
+        "https://enem.dev/2003/questions/51/848fcfa0-fc73-44fe-b103-710aaf9522fb.png",
+        "https://enem.dev/2003/questions/51/07c935ec-c8dd-49c1-936a-1c8948ceeb46.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Está correto o que se afirma em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

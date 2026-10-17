@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2004",
+    "index": 33,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Uma pesquisa sobre orçamentos familiares, realizada recentemente pelo IBGE, mostra alguns itens de despesa na distribuição\nde gastos de dois grupos de famílias com rendas mensais bem diferentes.\n\n![](https://enem.dev/2004/questions/33/8248b37c-27a5-43d7-901e-b6e89bbce472.png)",
+    "files": [
+        "https://enem.dev/2004/questions/33/8248b37c-27a5-43d7-901e-b6e89bbce472.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considere duas famílias com rendas de R$ 400,00 e R$ 6.000,00, respectivamente, cujas despesas variam de acordo com os\nvalores das faixas apresentadas. Nesse caso, os valores, em R$, gastos com alimentação pela família de maior renda, em\nrelação aos da família de menor renda, são, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dez vezes maiores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "quatro vezes maiores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "equivalentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "três vezes menores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nove vezes menores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2010 - Reaplicação",
+    "index": 166,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o intuito de tentar prever a data e o valor do\nreajuste do próximo salário mínimo, José primeiramente\nobservou o quadro dos reajustes do salário mínimo de\nabril de 2000 até fevereiro de 2009, mostrada a seguir.\n\nEle procedeu da seguinte maneira: computou o menor\ne o maior intervalo entre dois reajustes e computou a\nmédia dos valores encontrados, e usou este resultado\npara predizer a data do próximo aumento. Em seguida,\ndeterminou o menor e o maior reajuste percentual\nocorrido, tomou a média e usou este resultado para\ndeterminar o valor aproximado do próximo salário.\n\n![](https://enem.dev/2010-reaplicacao/questions/166/395ef60d-20fb-46bf-9549-b61344005809.png)\n\nAbril 2000 R$ 151,00\n\nAbril 2001 R$ 180,00\n\nAbril 2002 R$ 200,00\n\nAbril 2003 R$ 240,00\n\nMaio 2004 R$ 260,00\n\nMaio 2005 R$ 300,00\n\nAbril 2006 R$ 350,00\n\nAbril 2007 R$ 380,00\n\nMarço 2008 R$ 415,00\n\nFevereiro 2009 R$ 465,00\n\nTabela de Salário mínimo nominal vigente. Disponível em: www.ipeadata.gov.br.\nAcesso em: 03 maio 2009.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/166/395ef60d-20fb-46bf-9549-b61344005809.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com os cálculos de José, a data do novo\nreajuste do salário mínimo e o novo valor aproximado do\nmesmo seriam, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fevereiro de 2010 e R$ 530,89.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "fevereiro de 2010 e R$ 500,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fevereiro de 2010 e R$ 527,27.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "janeiro de 2010 e R$ 530,89.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "janeiro de 2010 e R$ 500,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 48 - ENEM 2004",
+    "index": 48,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "No verão de 2000 foram realizadas, para análise, duas coletas do lixo deixado pelos freqüentadores em uma praia no litoral\nbrasileiro. O lixo foi pesado, separado e classificado. Os resultados das coletas feitas estão na tabela a seguir.\n\n![](https://enem.dev/2004/questions/48/dc5f17cb-82ff-4739-b8c8-ec77ebd44222.png)\n\n![](https://enem.dev/2004/questions/48/40f2d582-8d03-44df-af50-15150c2cecd8.png)\n\n![](https://enem.dev/2004/questions/48/08f14d82-ff9f-48c6-a06f-5c249f63e8b6.png)",
+    "files": [
+        "https://enem.dev/2004/questions/48/dc5f17cb-82ff-4739-b8c8-ec77ebd44222.png",
+        "https://enem.dev/2004/questions/48/40f2d582-8d03-44df-af50-15150c2cecd8.png",
+        "https://enem.dev/2004/questions/48/08f14d82-ff9f-48c6-a06f-5c249f63e8b6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Embora fosse grande a venda de bebidas em latas nessa praia, não se encontrou a quantidade esperada dessas embalagens\nno lixo coletado, o que foi atribuído à existência de um bom mercado para a reciclagem de alumínio. Considerada essa hipótese,\npara reduzir o lixo nessa praia, a iniciativa que mais diretamente atende à variedade de interesses envolvidos, respeitando a\npreservação ambiental, seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proibir o consumo de bebidas e de outros alimentos nas praias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "realizar a coleta de lixo somente no período noturno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "proibir a comercialização apenas de produtos com embalagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "substituir embalagens plásticas por embalagens de vidro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incentivar a reciclagem de plásticos, estimulando seu recolhimento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

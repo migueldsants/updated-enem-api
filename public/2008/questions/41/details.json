@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2008",
+    "index": 41,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Ao visitar o Egito do seu tempo, o historiador\ngrego Heródoto (484 – 420/30 a.C.) interessou-se por\nfenômenos que lhe pareceram incomuns, como as\ncheias regulares do rio Nilo. A propósito do assunto,\nescreveu o seguinte:\n\n“Eu queria saber por que o Nilo sobe no\ncomeço do verão e subindo continua durante cem\ndias; por que ele se retrai e a sua corrente baixa,\nassim que termina esse número de dias, sendo que\npermanece baixo o inverno inteiro, até um novo verão.\n\nAlguns gregos apresentam explicações para\nos fenômenos do rio Nilo. Eles afirmam que os ventos\ndo noroeste provocam a subida do rio, ao impedir que\nsuas águas corram para o mar. Não obstante, com\ncerta freqüência, esses ventos deixam de soprar, sem\nque o rio pare de subir da forma habitual. Além disso,\nse os ventos do noroeste produzissem esse efeito, os\noutros rios que correm na direção contrária aos ventos\ndeveriam apresentar os mesmos efeitos que o Nilo,\nmesmo porque eles todos são pequenos, de menor\ncorrente.”\n\nHeródoto. História (trad.). livro II, 19-23. Chicago: Encyclopaedia\nBritannica Inc. 2.ª ed. 1990, p. 52-3 (com adaptações).\n\nNessa passagem, Heródoto critica a explicação de\nalguns gregos para os fenômenos do rio Nilo. De\nacordo com o texto, julgue as afirmativas abaixo.\n\nI Para alguns gregos, as cheias do Nilo devem-se ao\nfato de que suas águas são impedidas de correr\npara o mar pela força dos ventos do noroeste.\nII O argumento embasado na influência dos ventos\ndo noroeste nas cheias do Nilo sustenta-se no fato\nde que, quando os ventos param, o rio Nilo não\nsobe.\nIII A explicação de alguns gregos para as cheias do\n\nNilo baseava-se no fato de que fenômeno igual\nocorria com rios de menor porte que seguiam na\nmesma direção dos ventos.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2008",
+    "index": 42,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Existe uma regra religiosa, aceita pelos praticantes do\njudaísmo e do islamismo, que proíbe o consumo de carne\nde porco. Estabelecida na Antiguidade, quando os judeus\nviviam em regiões áridas, foi adotada, séculos depois, por\nárabes islamizados, que também eram povos do deserto.\nEssa regra pode ser entendida como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma demonstração de que o islamismo é um ramo do judaísmo tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "um indício de que a carne de porco era rejeitada em toda a Ásia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "uma certeza de que do judaísmo surgiu o islamismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uma prova de que a carne do porco era largamente consumida fora das regiões áridas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "uma crença antiga de que o porco é um animal impuro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

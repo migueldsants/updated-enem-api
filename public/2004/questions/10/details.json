@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2004",
+    "index": 10,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em quase todo o Brasil existem restaurantes em que o cliente, após se servir, pesa o prato de comida e paga o valor\ncorrespondente, registrado na nota pela balança. Em um restaurante desse tipo, o preço do quilo era R$ 12,80. Certa vez a\nfuncionária digitou por engano na balança eletrônica o valor R$ 18,20 e só percebeu o erro algum tempo depois, quando vários\nclientes já estavam almoçando. Ela fez alguns cálculos e verificou que o erro seria corrigido se o valor incorreto indicado na nota\ndos clientes fosse multiplicado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,54.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,65.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,70.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,28.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,42.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

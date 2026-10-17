@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2011 - Reaplicação",
+    "index": 177,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico faz uma comparação entre os crescimentos\ndas ações da Vale e da Ibovespa de janeiro a abril de 2010.\n\n![](https://enem.dev/2011-reaplicacao/questions/177/2df3b750-3b87-432a-8420-30a9610ef657.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/177/2df3b750-3b87-432a-8420-30a9610ef657.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações do gráfico, o crescimento\ndas ações da Vale e da Ibovespa no período de janeiro a\nabril de 2010 foram, respectivamente, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5,0% e 21,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10,5% e 21,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "21,0% e 5,0%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "21,0% e 10,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "27,4% e 5,0%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

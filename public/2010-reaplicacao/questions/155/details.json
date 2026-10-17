@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2010 - Reaplicação",
+    "index": 155,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O IGP-M é um índice da Fundação Getúlio Vargas, obtido\npor meio da variação dos preços de alguns setores da\neconomia, do dia vinte e um do mês anterior ao dia vinte\ndo mês de referência. Ele é calculado a partir do Índice\nde Preços por Atacado (IPA-M), que tem peso de 60%\ndo índice, do Índice de Preços ao Consumidor (IPC-M),\nque tem peso de 30%, e do Índice Nacional de Custo de\nConstrução (INCC), representando 10%. Atualmente, o\nIGP-M é o índice para a correção de contratos de aluguel\ne o indexador de algumas tarifas, como energia elétrica.\n\n![](https://enem.dev/2010-reaplicacao/questions/155/baf0dc9f-0b6a-498c-ab4e-c5d664a14cea.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/155/baf0dc9f-0b6a-498c-ab4e-c5d664a14cea.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir das informações, é possível determinar o maior\nIGP-M mensal desse primeiro trimestre, cujo valor é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7,03%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,00%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,65%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,15%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,66%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

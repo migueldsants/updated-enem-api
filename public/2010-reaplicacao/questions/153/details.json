@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2010 - Reaplicação",
+    "index": 153,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de refrigerantes, que funciona sem\ninterrupções, produz um volume constante de 1 800 000 cm³\nde líquido por dia. A máquina de encher garrafas apresentou\num defeito durante 24 horas. O inspetor de produção\npercebeu que o líquido chegou apenas à altura de 12 cm\ndos 20 cm previstos em cada garrafa. A parte inferior da\ngarrafa em que foi depositado o líquido tem forma cilíndrica\ncom raio da base de 3 cm. Por questões de higiene, o líquido\njá engarrafado não será reutilizado.\n\n![](https://enem.dev/2010-reaplicacao/questions/153/dc38d4df-4802-41c5-b15d-b96cd9204628.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/153/dc38d4df-4802-41c5-b15d-b96cd9204628.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "555",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 555",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1 333",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "13 333",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "133 333",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

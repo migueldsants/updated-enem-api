@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2003",
+    "index": 13,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Pequenos tormentos da vida\n\nDe cada lado da sala de aula, pelas janelas altas, o azul convida os meninos,\nas nuvens desenrolam-se, lentas como quem vai inventando\npreguiçosamente uma história sem fim...Sem fim é a aula: e nada acontece,\nnada...Bocejos e moscas. Se ao menos, pensa Margarida, se ao menos um\navião entrasse por uma janela e saísse por outra!\n\n(Mário Quintana. Poesias)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na cena retratada no texto, o sentimento do tédio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "provoca que os meninos fiquem contando histórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "leva os alunos a simularem bocejos, em protesto contra a monotonia da aula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acaba estimulando a fantasia, criando a expectativa de algum imprevisto mágico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "prevalece de modo absoluto, impedindo até mesmo a distração ou o exercício do pensamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "decorre da morosidade da aula, em contraste com o movimento acelerado das nuvens e das moscas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

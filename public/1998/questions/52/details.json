@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 1998",
+    "index": 52,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Um dos problemas ambientais decorrentes da industrialização é a poluição atmosférica. Chaminés\naltas lançam ao ar, entre outros materiais, o dióxido de enxofre (SO₂) que pode ser transportado por\nmuitos quilômetros em poucos dias. Dessa forma, podem ocorrer precipitações ácidas em regiões\ndistantes, causando vários danos ao meio ambiente (chuva ácida).\n\nUm dos danos ao meio ambiente diz respeito à corrosão de certos materiais. Considere as seguintes obras:\n\nI. monumento Itamarati - Brasília (mármore).\nII. esculturas do Aleijadinho - MG (pedra sabão, contém carbonato de cálcio).\nIII. grades de ferro ou alumínio de edifícios.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A ação da chuva ácida pode acontecer em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

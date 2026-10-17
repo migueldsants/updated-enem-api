@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2007",
+    "index": 13,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao beber uma solução de glicose (C₆H₁₂O₆), um corta-cana\ningere uma substância",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "que, ao ser degradada pelo organismo, produz energia que pode ser usada para movimentar o corpo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "inflamável que, queimada pelo organismo, produz água para manter a hidratação das células.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "que eleva a taxa de açúcar no sangue e é armazenada na célula, o que restabelece o teor de oxigênio no organismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "insolúvel em água, o que aumenta a retenção de líquidos pelo organismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "de sabor adocicado que, utilizada na respiração celular, fornece CO₂ para manter estável a taxa de carbono na atmosfera.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

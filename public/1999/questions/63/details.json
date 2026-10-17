@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 1999",
+    "index": 63,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "E considerei a glória de um pavão ostentando o esplendor de suas cores; é um luxo imperial. Mas andei lendo livros, e\n\ndescobri que aquelas cores todas não existem na pena do pavão. Não há pigmentos. O que há são minúsculas bolhas d’água\nem que a luz se fragmenta, como em um prisma. O pavão é um arco-íris de plumas.\nEu considerei que este é o luxo do grande artista, atingir o máximo de matizes com o mínimo de elementos. De água e luz ele\nfaz seu esplendor; seu grande mistério é a simplicidade.\nConsiderei, por fim, que assim é o amor, oh! Minha amada; de tudo que ele suscita e esplende e estremece e delira em mim\nexistem apenas meus olhos recebendo a luz de teu olhar. Ele me cobre de glórias e me faz magnífico.\n\n(BRAGA, Rubem. Ai de ti, Copacabana. 20.ed.)\n\nO poeta Carlos Drummond de Andrade escreveu assim sobre a obra de Rubem Braga:\n\nO que ele nos conta é o seu dia, o seu expediente de homem, apanhado no essencial, narrativa direta e econômica. (...) É o\npoeta do real, do palpável, que se vai diluindo em cisma. Dá o sentimento da realidade e o remédio para ela.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em seu texto, Rubem Braga afirma que “este é o luxo do grande artista, atingir o máximo de matizes com o mínimo de\nelementos”. Afirmação semelhante pode ser encontrada no texto de Carlos Drummond de Andrade, quando, ao analisar a\nobra de Braga, diz que ela é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uma narrativa direta e econômica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "real, palpável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "sentimento de realidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "seu expediente de homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "seu remédio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

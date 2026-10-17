@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 1999",
+    "index": 53,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Viam-se de cima as casas acavaladas umas pelas outras, formando ruas, contornando praças. As chaminés principiavam a\n\nfumar; deslizavam as carrocinhas multicores dos padeiros; as vacas de leite caminhavam com o seu passo vagaroso, parando\nà porta dos fregueses, tilintando o chocalho; os quiosques vendiam café a homens de jaqueta e chapéu desabado; cruzavam-\nse na rua os libertinos retardios com os operários que se levantavam para a obrigação; ouvia-se o ruído estalado dos carros\nde água, o rodar monótono dos bondes.\n\n(AZEVEDO, Aluísio de. Casa de Pensão. São Paulo: Martins, 1973)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O trecho, retirado de romance escrito em 1884, descreve o cotidiano de uma cidade, no seguinte contexto:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a convivência entre elementos de uma economia agrária e os de uma economia industrial indicam o início da industrialização no Brasil, no século XIX.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "desde o século XVIII, a principal atividade da economia brasileira era industrial, como se observa no cotidiano descrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apesar de a industrialização ter-se iniciado no século XIX, ela continuou a ser uma atividade pouco desenvolvida no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apesar da industrialização, muitos operários levantavam cedo, porque iam diariamente para o campo desenvolver atividades rurais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a vida urbana, caracterizada pelo cotidiano apresentado no texto, ignora a industrialização existente na época.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

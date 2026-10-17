@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2002",
+    "index": 17,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "O milho verde recém-colhido tem um sabor adocicado. Já o milho verde comprado na feira, um ou dois dias depois de colhido,\nnão é mais tão doce, pois cerca de 50% dos carboidratos responsáveis pelo sabor adocicado são convertidos em amido nas\nprimeiras 24 horas.\n\nPara preservar o sabor do milho verde pode-se usar o seguinte procedimento em três etapas:\n\n1∫ descascar e mergulhar as espigas em água fervente por alguns minutos;\n2∫ resfriá-las em água corrente;\n3∫ conservá-las na geladeira.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A preservação do sabor original do milho verde pelo procedimento descrito pode ser explicada pelo seguinte argumento:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O choque térmico converte as proteínas do milho em amido até a saturação; este ocupa o lugar do amido que seria formado espontaneamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A água fervente e o resfriamento impermeabilizam a casca dos grãos de milho, impedindo a difusão de oxigênio e a oxidação da glicose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As enzimas responsáveis pela conversão desses carboidratos em amido são desnaturadas pelo tratamento com água quente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Microrganismos que, ao retirarem nutrientes dos grãos, convertem esses carboidratos em amido, são destruídos pelo aquecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O aquecimento desidrata os grãos de milho, alterando o meio de dissolução onde ocorreria espontaneamente a transformação desses carboidratos em amido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

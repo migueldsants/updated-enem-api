@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2010 - Reaplicação",
+    "index": 16,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/16/77a22ae0-6759-40de-a678-67df3b24c6b2.png)\n\nDisponível em: http://img15.imageshack.us (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/16/77a22ae0-6759-40de-a678-67df3b24c6b2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A maior frequência na ocorrência do fenômeno\natmosférico apresentado na figura relaciona-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "concentrações urbano-industriais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "episódios de queimadas florestais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atividades de extrativismo vegetal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "índices de pobreza elevados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "climas quentes e muito úmidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

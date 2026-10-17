@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2008",
+    "index": 28,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A Lei Federal n.º 11.097/2005 dispõe sobre a\nintrodução do biodiesel na matriz energética brasileira e\nfixa em 5%, em volume, o percentual mínimo obrigatório a\nser adicionado ao óleo diesel vendido ao consumidor.\nDe acordo com essa lei, biocombustível é “derivado de\nbiomassa renovável para uso em motores a combustão\ninterna com ignição por compressão ou, conforme\nregulamento, para geração de outro tipo de energia, que\npossa substituir parcial ou totalmente combustíveis de\norigem fóssil”.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A introdução de biocombustíveis na matriz energética\nbrasileira",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "colabora na redução dos efeitos da degradação ambiental global produzida pelo uso de combustíveis fósseis, como os derivados do petróleo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "provoca uma redução de 5% na quantidade de carbono emitido pelos veículos automotores e colabora no controle do desmatamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incentiva o setor econômico brasileiro a se adaptar ao uso de uma fonte de energia derivada de uma biomassa inesgotável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aponta para pequena possibilidade de expansão do uso de biocombustíveis, fixado, por lei, em 5% do consumo de derivados do petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diversifica o uso de fontes alternativas de energia que reduzem os impactos da produção do etanol por meio da monocultura da cana-de-açúcar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

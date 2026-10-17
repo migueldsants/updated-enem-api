@@ -1,0 +1,46 @@
+{
+    "title": "Questão 61 - ENEM 2007",
+    "index": 61,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/61/515fec03-8211-4730-9456-d43a66d538a4.png)\n\n![](https://enem.dev/2007/questions/61/63327b0a-9f1e-4412-a10d-7c8a6196d2a0.png)\n\nAssociação Brasileira de Defesa do Consumidor (com adaptações).\n\nAs figuras acima apresentam dados referentes aos\nconsumos de energia elétrica e de água relativos a cinco\nmáquinas industriais de lavar roupa comercializadas\nno Brasil. A máquina ideal, quanto a rendimento\neconômico e ambiental, é aquela que gasta,\nsimultaneamente, menos energia e água.",
+    "files": [
+        "https://enem.dev/2007/questions/61/515fec03-8211-4730-9456-d43a66d538a4.png",
+        "https://enem.dev/2007/questions/61/63327b0a-9f1e-4412-a10d-7c8a6196d2a0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nessas informações, conclui-se que, no\nconjunto pesquisado,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "quanto mais uma máquina de lavar roupa economiza água, mais ela consome energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a quantidade de energia elétrica consumida por uma máquina de lavar roupa é inversamente proporcional à quantidade de água consumida por ela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a máquina I é ideal, de acordo com a definição apresentada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a máquina que menos consome energia elétrica não é a que consome menos água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a máquina que mais consome energia elétrica não é a que consome mais água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

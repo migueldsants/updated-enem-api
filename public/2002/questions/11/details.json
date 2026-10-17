@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2002",
+    "index": 11,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A coleta de favas é feita por famílias inteiras de trabalhadores rurais (não-proprietários). Enquanto o jovem apanhador de favas pode\nganhar até R$7,50 por dia, os demais trabalhadores adultos ganham, em média, R$5,12 por dia, podendo dedicar-se a outras\natividades extrativistas: a coleta de pequis e panãs, frutos vendidos à beira da estrada, e de lenha, vendida a pequenos compradores.\nA tabela apresenta a renda média anual dos jovens e adolescentes de uma cidade de Minas Gerais, com essas\natividades extrativistas.\n\n![](https://enem.dev/2002/questions/11/d5aeb2cc-c711-4261-a9e7-e4289a0d55d1.png)\n\nForam feitas as seguintes afirmações sobre a importância socioeconômica do extrativismo da fava-d’anta:\nI. A desinformação impede qualquer controle da situação por parte dos coletores, aos quais cabe apenas o papel de trabalhadores\n\nbraçais.\nII. O retorno financeiro para a população é compatível com a importância dos produtos derivados da fava.\nIII. A atividade é menos rentável porque, entre os compradores de favas, existem atravessadores, ao contrário do que acontece na",
+    "files": [
+        "https://enem.dev/2002/questions/11/d5aeb2cc-c711-4261-a9e7-e4289a0d55d1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "venda do pequi.\nIV. A atividade eleva o salário diário do trabalhador, representando a fonte mais importante de sua renda anual.\nEstá correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

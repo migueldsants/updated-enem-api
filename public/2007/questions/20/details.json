@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2007",
+    "index": 20,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "São Paulo, 18 de agosto de 1929.\n\nCarlos [Drummond de Andrade],\n\nAchei graça e gozei com o seu\nentusiasmo pela candidatura Getúlio Vargas –\nJoão Pessoa. É. Mas veja como estamos...\ntrocados. Esse entusiasmo devia ser meu e sou\neu que conservo o ceticismo que deveria ser de\nvocê. (...).\n\nEu... eu contemplo numa torcida apenas\nsimpática a candidatura Getúlio Vargas, que\nantes desejara tanto. Mas pra mim,\npresentemente, essa candidatura (única aceitável,\nestá claro) fica manchada por essas pazes\nfragílimas de governistas mineiros, gaúchos,\nparaibanos (...), com democráticos paulistas (que\npararam de atacar o Bernardes) e oposicionistas\ncariocas e gaúchos. Tudo isso não me entristece.\nContinuo reconhecendo a existência de males\nnecessários, porém me afasta do meu país e da\ncandidatura Getúlio Vargas. Repito: única\naceitável.\n\nMário [de Andrade]\n\nRenato Lemos. Bem traçadas linhas: a história do Brasil em\ncartas pessoais. Rio de Janeiro: Bom Texto, 2004, p. 305.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Acerca da crise política ocorrida em fins da\nPrimeira República, a carta do paulista Mário de\nAndrade ao mineiro Carlos Drummond de\nAndrade revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a simpatia de Drummond pela candidatura Vargas e o desencanto de Mário de Andrade com as composições políticas sustentadas por Vargas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a veneração de Drummond e Mário de Andrade ao gaúcho Getúlio Vargas, que se aliou à oligarquia cafeeira de São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a concordância entre Mário de Andrade e Drummond quanto ao caráter inovador de Vargas, que fez uma ampla aliança para derrotar a oligarquia mineira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a discordância entre Mário de Andrade e Drummond sobre a importância da aliança entre Vargas e o paulista Júlio Prestes nas eleições presidenciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o otimismo de Mário de Andrade em relação a Getúlio Vargas, que se recusara a fazer alianças políticas para vencer as eleições.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

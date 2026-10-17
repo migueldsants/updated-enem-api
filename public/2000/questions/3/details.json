@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2000",
+    "index": 3,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ainda hoje, é muito comum as pessoas utilizarem vasilhames de barro\n(moringas ou potes de cerâmica não esmaltada) para conservar água a uma\ntemperatura menor do que a do ambiente. Isso ocorre porque:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o barro isola a água do ambiente, mantendo-a sempre a uma temperatura menor que a dele, como se fosse isopor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o barro tem poder de “gelar” a água pela sua composição química. Na reação, a água perde calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o barro é poroso, permitindo que a água passe através dele. Parte dessa água evapora, tomando calor da moringa e do restante da água, que são assim resfriadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o barro é poroso, permitindo que a água se deposite na parte de fora da moringa. A água de fora sempre está a uma temperatura maior que a de dentro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a moringa é uma espécie de geladeira natural, liberando substâncias higroscópicas que diminuem naturalmente a temperatura da água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

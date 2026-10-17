@@ -1,0 +1,46 @@
+{
+    "title": "Questão 131 - ENEM 2010 - Reaplicação",
+    "index": 131,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/131/3601777c-6ce0-4f5c-9138-f56e48329536.png)\n\nDisponível em: http://portal.saude.gov.br. Acesso em: 03 set. 2010.\n\n![](https://enem.dev/2010-reaplicacao/questions/131/76b0c96e-5fdc-461c-b554-7a9b407d813b.png)\n\nDisponível em: http://www.dukechargista.com.br. Acesso em: 03 set. 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/131/3601777c-6ce0-4f5c-9138-f56e48329536.png",
+        "https://enem.dev/2010-reaplicacao/questions/131/76b0c96e-5fdc-461c-b554-7a9b407d813b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Todo texto apresenta uma intenção, da qual derivam as\nescolhas linguísticas que o compõem. O texto da campanha\npublicitária e o da charge apresentam, respectivamente,\ncomposição textual pautada por uma estratégia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expositiva, porque informa determinado assunto de modo isento; e interativa, porque apresenta intercâmbio verbal entre dois personagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "descritiva, pois descreve ações necessárias ao combate à dengue; e narrativa, pois um dos personagens conta um fato, um acontecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "injuntiva, uma vez que, por meio do cartaz, diz como se deve combater a dengue; e dialogal, porque estabelece uma interação oral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "narrativa, visto que apresenta relato de ações a serem realizadas; e descritiva, pois um dos personagens descreve a ação realizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "persuasiva, com o propósito de convencer o interlocutor a combater a dengue; e dialogal, pois há a interação oral entre os personagens.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

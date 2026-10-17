@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2001",
+    "index": 37,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Segundo um especialista em petróleo (Estado de S. Paulo, 5 de março de 2000), o consumo\ntotal de energia mundial foi estimado em 8,3 bilhões de toneladas equivalentes de petróleo\n(tep) para 2001. A porcentagem das diversas fontes da energia consumida no globo é\n\n![](https://enem.dev/2001/questions/37/717bb327-8de1-4fdd-96cc-29567f17c3cc.png)",
+    "files": [
+        "https://enem.dev/2001/questions/37/717bb327-8de1-4fdd-96cc-29567f17c3cc.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo as informações apresentadas, para substituir a energia nuclear utilizada é\nnecessário, por exemplo, aumentar a energia proveniente do gás natural em cerca de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

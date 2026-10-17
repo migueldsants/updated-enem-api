@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2010 - Reaplicação",
+    "index": 11,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O gráfico mostra a relação da produção de cereais,\nleguminosas e oleaginosas com a área plantada no\nBrasil, no período de 1980 a 2008. Verifica-se uma\ngrande variação da produção em comparação à área\nplantada, o que caracteriza o crescimento da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "economia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "área plantada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "produtividade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "sustentabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "racionalização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

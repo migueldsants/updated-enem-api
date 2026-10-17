@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2003",
+    "index": 39,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Um grupo de estudantes, saindo de uma escola, observou uma pessoa catando latinhas de alumínio jogadas na\ncalçada. Um deles considerou curioso que a falta de civilidade de quem deixa lixo pelas ruas acaba sendo útil para a\nsubsistência de um desempregado. Outro estudante comentou o significado econômico da sucata recolhida, pois\nouvira dizer que a maior parte do alumínio das latas estaria sendo reciclada. Tentando sintetizar o que estava sendo\nobservado, um terceiro estudante fez três anotações, que apresentou em aula no dia seguinte:\n\nI. A catação de latinhas é prejudicial à indústria de alumínio;\nII. A situação observada nas ruas revela uma condição de duplo desequilíbrio: do ser humano com a natureza\ne dos seres humanos entre si;\nIII. Atividades humanas resultantes de problemas sociais e ambientais podem gerar reflexos (refletir) na\neconomia.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dessas afirmações, você tenderia a concordar, apenas, com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

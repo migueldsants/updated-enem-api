@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2007",
+    "index": 56,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Todas as reações químicas de um ser vivo\nseguem um programa operado por uma central de\ninformações. A meta desse programa é a auto-replicação\nde todos os componentes do sistema, incluindo-se a\nduplicação do próprio programa ou mais precisamente do\nmaterial no qual o programa está inscrito. Cada reprodução\npode estar associada a pequenas modificações do\nprograma.\n\nM. O. Murphy e l. O’neill (Orgs.). O que é vida? 50 anos\ndepois — especulações sobre o futuro da biologia.\nSão Paulo: UNESP. 1997 (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "São indispensáveis à execução do “programa” mencionado\nacima processos relacionados a metabolismo, auto-\nreplicação e mutação, que podem ser exemplificados,\nrespectivamente, por:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fotossíntese, respiração e alterações na seqüência de bases nitrogenadas do código genético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "duplicação do RNA, pareamento de bases nitrogenadas e digestão de constituintes dos alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "excreção de compostos nitrogenados, respiração celular e digestão de constituintes dos alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "respiração celular, duplicação do DNA e alterações na seqüência de bases nitrogenadas do código genético.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "fotossíntese, duplicação do DNA e excreção de compostos nitrogenados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

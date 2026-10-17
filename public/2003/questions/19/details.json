@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2003",
+    "index": 19,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Quando o corpo humano é invadido por elementos estranhos, o sistema imunológico reage. No entanto, muitas vezes\no ataque é tão rápido que pode levar a pessoa à morte. A vacinação permite ao organismo preparar sua defesa com\nantecedência. Mas, se existe suspeita de mal já instalado, é recomendável o uso do soro, que combate de imediato\nos elementos estranhos, enquanto o sistema imunológico se mobiliza para entrar em ação.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando essas informações, o soro específico deve ser usado quando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um idoso deseja se proteger contra gripe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uma criança for picada por cobra peçonhenta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "um bebê deve ser imunizado contra poliomielite.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uma cidade quer prevenir uma epidemia de sarampo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "uma pessoa vai viajar para região onde existe febre amarela.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

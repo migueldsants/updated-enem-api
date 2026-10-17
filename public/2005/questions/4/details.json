@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2005",
+    "index": 4,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2005/questions/4/a57874a5-4e02-48ca-8417-090a3b9ea8ae.png)",
+    "files": [
+        "https://enem.dev/2005/questions/4/a57874a5-4e02-48ca-8417-090a3b9ea8ae.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir da análise dessas características é adequado priorizar as diferentes modalidades de transporte de carga, na\nseguinte ordem:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "país X – rodoviário, ferroviário e aquaviário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "país Y – rodoviário, ferroviário e aquaviário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "país X – aquaviário, ferroviário e rodoviário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "país Y – rodoviário, aquaviário e ferroviário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "país X – ferroviário, aquaviário e rodoviário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

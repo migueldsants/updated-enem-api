@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2007",
+    "index": 42,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico abaixo ilustra o resultado de um estudo\nsobre o aquecimento global. A curva mais escura e\ncontínua representa o resultado de um cálculo em que se\nconsiderou a soma de cinco fatores que influenciaram a\ntemperatura média global de 1900 a 1990, conforme\nmostrado na legenda do gráfico. A contribuição efetiva de\ncada um desses cinco fatores isoladamente é mostrada na\nparte inferior do gráfico.\n\n![](https://enem.dev/2007/questions/42/3c7ed78b-973e-4c06-86e9-fe64b3e83e40.png)\n\ncontribuição efetiva (ºC)",
+    "files": [
+        "https://enem.dev/2007/questions/42/3c7ed78b-973e-4c06-86e9-fe64b3e83e40.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os dados apresentados revelam que, de 1960 a 1990,\ncontribuíram de forma efetiva e positiva para aumentar a\ntemperatura atmosférica:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aerossóis, atividade solar e atividade vulcânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atividade vulcânica, ozônio e gases estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aerossóis, atividade solar e gases estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aerossóis, atividade vulcânica e ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "atividade solar, gases estufa e ozônio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

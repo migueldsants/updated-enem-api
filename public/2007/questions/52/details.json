@@ -1,0 +1,45 @@
+{
+    "title": "Questão 52 - ENEM 2007",
+    "index": 52,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Uma equipe de\npaleontólogos descobriu\num rastro de dinossauro\ncarnívoro e nadador, no\n\n![](https://enem.dev/2007/questions/52/e596ac96-75f9-4ac8-928a-18b33b8369d2.png)\n\nnorte da Espanha.\n\nO rastro completo\ntem comprimento igual a\n15 metros e consiste de\nvários pares simétricos de duas marcas de três\narranhões cada uma, conservadas em arenito.\n\nO espaço entre duas marcas consecutivas\nmostra uma pernada de 2,5 metros. O rastro difere\ndo de um dinossauro não-nadador: “são as unhas\nque penetram no barro — e não a pisada —, o que\ndemonstra que o animal estava nadando sobre a\nágua: só tocava o solo com as unhas, não pisava”,\nafirmam os paleontólogos.\n\nInternet: <www.noticias.uol.com.br> (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/52/e596ac96-75f9-4ac8-928a-18b33b8369d2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dos seguintes fragmentos do texto, considerado\nisoladamente, é variável relevante para se estimar o\ntamanho do dinossauro nadador mencionado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“O rastro completo tem 15 metros de comprimento”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“O espaço entre duas marcas consecutivas mostra uma pernada de 2,5 metros”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“O rastro difere do de um dinossauro não- nadador”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“são as unhas que penetram no barro — e não a pisada”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“o animal estava nadando sobre a água: só tocava o solo com as unhas”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

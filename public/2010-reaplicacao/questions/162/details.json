@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2010 - Reaplicação",
+    "index": 162,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em fevereiro, o governo da Cidade do México, metrópole\ncom uma das maiores frotas de automóveis do mundo,\npassou a oferecer à população bicicletas como opção de\ntransporte. Por uma anuidade de 24 dólares, os usuários\ntêm direito a 30 minutos de uso livre por dia. O ciclista\npode retirar em uma estação e devolver em qualquer\noutra e, se quiser estender a pedalada, paga 3 dólares\npor hora extra.\n\nRevista Exame. 21 abr. 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A expressão que relaciona o valor f pago pela utilização\nda bicicleta por um ano, quando se utilizam x horas\nextras nesse período é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "f(x) = 3x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "f(x) = 24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "f(x) = 27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "f(x) = 3x + 24",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "f(x) = 24x + 3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

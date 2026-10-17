@@ -1,0 +1,47 @@
+{
+    "title": "Questão 43 - ENEM 2001",
+    "index": 43,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Boa parte da água utilizada nas mais diversas atividades humanas não retorna ao ambiente\ncom qualidade para ser novamente consumida. O gráfico mostra alguns dados sobre esse\nfato, em termos dos setores de consumo.\n\nConsumo e restituição de água no mundo\n(em bilhões de m³ / ano)\n\n![](https://enem.dev/2001/questions/43/473af6cb-b84f-4278-9881-ee57ef4ec46c.png)\n\n![](https://enem.dev/2001/questions/43/80bf1a23-b56e-4fd6-b081-ef43cccd49f2.png)\n\n![](https://enem.dev/2001/questions/43/d8a4b0e5-a4ed-41c0-805a-30a607a2d1df.png)\n\nFonte: Adaptado de MARGAT, Jean-François. A água ameaçada pelas atividades humanas. In WIKOWSKI, N. (Coord).\nCiência e tecnologia hoje. São Paulo: Ensaio, 1994.",
+    "files": [
+        "https://enem.dev/2001/questions/43/473af6cb-b84f-4278-9881-ee57ef4ec46c.png",
+        "https://enem.dev/2001/questions/43/80bf1a23-b56e-4fd6-b081-ef43cccd49f2.png",
+        "https://enem.dev/2001/questions/43/d8a4b0e5-a4ed-41c0-805a-30a607a2d1df.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nesses dados, é possível afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mais da metade da água usada não é devolvida ao ciclo hidrológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as atividades industriais são as maiores poluidoras de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mais da metade da água restituída sem qualidade para o consumo contém algum teor de agrotóxico ou adubo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "cerca de um terço do total da água restituída sem qualidade é proveniente das atividades energéticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o consumo doméstico, dentre as atividades humanas, é o que mais consome e repõe água com qualidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2001",
+    "index": 26,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Várias estratégias estão sendo consideradas para a recuperação da diversidade biológica de\num ambiente degradado, dentre elas, a criação de vertebrados em cativeiro. Com esse\nobjetivo, a iniciativa mais adequada, dentre as alternativas abaixo, seria criar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "machos de umas espécies e fêmeas de outras, para possibilitar o acasalamento entre elas e o surgimento de novas espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "muitos indivíduos da espécie mais representativa, de forma a manter a identidade e a diversidade do ecossistema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "muitos indivíduos de uma única espécie, para garantir uma população geneticamente heterogênea e mais resistente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "um número suficiente de indivíduos, do maior número de espécies, que garanta a diversidade genética de cada uma delas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "vários indivíduos de poucas espécies, de modo a garantir, para cada espécie, uma população geneticamente homogênea.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

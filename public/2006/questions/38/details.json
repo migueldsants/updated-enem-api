@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2006",
+    "index": 38,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "À produção industrial de celulose e de papel estão\nassociados alguns problemas ambientais. Um exemplo são\nos odores característicos dos compostos voláteis de\nenxofre (mercaptanas) que se formam durante a remoção\nda lignina da principal matéria-prima para a obtenção\nindustrial das fibras celulósicas que formam o papel: a\nmadeira. É nos estágios de branqueamento que se\nencontra um dos principais problemas ambientais\ncausados pelas indústrias de celulose. Reagentes como\ncloro e hipoclorito de sódio reagem com a lignina residual,\nlevando à formação de compostos organoclorados. Esses\ncompostos, presentes na água industrial, despejada em\ngrande quantidade nos rios pelas indústrias de papel, não\nsão biodegradáveis e acumulam-se nos tecidos vegetais e\nanimais, podendo levar a alterações genéticas.\n\nCelênia P. Santos et al. Papel: como se fabrica?In:Química\nnova na escola, n.° 14, nov./2001, p. 3-7 (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para se diminuírem os problemas ambientais decorrentes\nda fabricação do papel, é recomendável",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a criação de legislação mais branda, a fim de favorecer a fabricação de papel biodegradável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a diminuição das áreas de reflorestamento, com o intuito de reduzir o volume de madeira utilizado na obtenção de fibras celulósicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a distribuição de equipamentos de desodorização à população que vive nas adjacências de indústrias de produção de papel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o tratamento da água industrial, antes de retorná-la aos cursos d’água, com o objetivo de promover a degradação dos compostos orgânicos solúveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o recolhimento, por parte das famílias que habitam as regiões circunvizinhas, dos resíduos sólidos gerados pela indústria de papel, em um processo de coleta seletiva de lixo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

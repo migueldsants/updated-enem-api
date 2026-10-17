@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2003",
+    "index": 25,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Entre os procedimentos recomendados para reduzir acidentes com produtos de limpeza, aquele que deixou de ser\ncumprido, na situação discutida na questão anterior, foi:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Não armazene produtos em embalagens de natureza e finalidade diferentes das originais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Leia atentamente os rótulos e evite fazer misturas cujos resultados sejam desconhecidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Não armazene produtos de limpeza e substâncias químicas em locais próximos a alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Verifique, nos rótulos das embalagens originais, todas as instruções para os primeiros socorros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mantenha os produtos de limpeza em locais absolutamente seguros, fora do alcance de crianças.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

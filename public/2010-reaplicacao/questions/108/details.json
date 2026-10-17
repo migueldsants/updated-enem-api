@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2010 - Reaplicação",
+    "index": 108,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Onde ficam os “artistas”? Onde ficam os “artesãos”? O American Idol islâmico\n\nSubmergidosnointeriordasociedade,semreconhecimento\n\nQuem não gosta do Big Brother diz que os reality shows\nformal, esses grupos passam a ser vistos de diferentes\n\nsão programas vazios, sem cultura. No mundo árabe,\nperspectivas pelos seus intérpretes, a maioria das\n\nesse problema já foi resolvido: em The Millions’ Poet (“O\nvezes, engajados em discussões que se polarizam entre\n\nPoeta dos Milhões”), líder de audiência no golfo pérsico,\nartesanato, cultura erudita e cultura popular.\n\no prêmio vai para o melhor poeta. O programa, que é\n\nPORTO ALEGRE, M. S. Arte e ofício de artesão. São Paulo, 1985 (adaptado). transmitido pela Abu Dhabi TV e tem 70 milhões de\n\nO texto aponta para uma discussão antiga e recorrente espectadores, é uma competição entre 48 poetas de 12\n\nsobre o que é arte. Artesanato é arte ou não? De acordo países árabes — em que o vencedor leva um prêmio de\n\ncom uma tendência inclusiva sobre a relação entre arte US$ 1,3 milhão.\n\ne educação,\n\nMas lá, como aqui, o reality gera controvérsia. O BBB",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "teve a polêmica dos “coloridos” (grupo em que todos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o artesanato é algo do passado e tem sua os participantes eram homossexuais). E Millions’ Poet sobrevivência fadada à extinção por se tratar de detonou uma discussão sobre os direitos da mulher no trabalho estático produzido por poucos. mundo árabe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os artistas populares não têm capacidade de pensar GARATTONI, B. O American Idol islâmico. SuperInteressante. Edição 278, maio 2010 (fragmento). e conceber a arte intelectual, visto que muitos deles No trecho “Mas lá, como aqui, o reality gera controvérsia”, sequer dominam a leitura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o termo destacado foi utilizado para estabelecer uma o artista popular e o artesão, portadores de saber ligação com outro termo presente no texto, isto é, fazer cultural, têm a capacidade de exprimir, em seus referência ao trabalhos, determinada formação cultural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "os artistas populares produzem suas obras pautados A vencedor, que é um poeta árabe. em normas técnicas e educacionais rígidas, B poeta, que mora na região da Arábia. aprendidas em escolas preparatórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C mundo árabe, local em que há o programa. o artesanato tem seu sentido limitado à região em D Brasil, lugar onde há o programa BBB. que está inserido como uma produção particular, sem expansão de seu caráter cultural. E programa, que há no Brasil e na Arábia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

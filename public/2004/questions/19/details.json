@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2004",
+    "index": 19,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2004/questions/19/59045fb9-8009-4b11-907e-a261db08cdb0.png)",
+    "files": [
+        "https://enem.dev/2004/questions/19/59045fb9-8009-4b11-907e-a261db08cdb0.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A conversa entre Mafalda e seus amigos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "revela a real dificuldade de entendimento entre posições que pareciam convergir.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "desvaloriza a diversidade social e cultural e a capacidade de entendimento e respeito entre as pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "expressa o predomínio de uma forma de pensar e a possibilidade de entendimento entre posições divergentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ilustra a possibilidade de entendimento e de respeito entre as pessoas a partir do debate político de idéias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mostra a preponderância do ponto de vista masculino nas discussões políticas para superar divergências.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

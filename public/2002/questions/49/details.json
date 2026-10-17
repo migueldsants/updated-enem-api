@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2002",
+    "index": 49,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Nos peixamentos – designação dada à introdução de peixes em sistemas aquáticos, nos quais a qualidade da água reduziu as\npopulações nativas de peixes – podem ser utilizados peixes importados de outros países, peixes produzidos em unidades de\npiscicultura ou, como é o caso da grande maioria dos peixamentos no Brasil, de peixes capturados em algum ambiente natural e\nliberados em outro. Recentemente começaram a ser utilizados peixes híbridos, como os “paquis”, obtidos por cruzamentos entre pacu\ne tambaqui; também é híbrida a espécie conhecida como surubim ou pintado, piscívoro de grande porte.\n\nEm alguns julgamentos de crimes ambientais, as sentenças, de modo geral, condenam empresas culpadas pela redução da qualidade\nde cursos d’água a realizarem peixamentos. Em geral, os peixamentos tendem a ser repetidos muitas vezes numa mesma área.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A respeito da realização de peixamentos pelas empresas infratoras, pode-se considerar que essa penalidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não leva mais em conta os efeitos da poluição industrial, mas sim as suas causas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "faz a devida diferenciação entre quantidade de peixes e qualidade ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "é indutora de ação que reverte uma das causas básicas da poluição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "confunde quantidade de peixes com boa qualidade ambiental dos cursos d’água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "obriga o poluidor a pagar pelos prejuízos ambientais que causa e a deixar de poluir.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

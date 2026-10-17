@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2010 - Reaplicação",
+    "index": 89,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Cientistas da Austrália descobriram um meio de\nproduzir roupas que se limpam sozinhas. A equipe de\npesquisadores usou nanocristais de dióxido de titânio\n(TiO₂) que, sob ação da luz solar, são capazes de\ndecompor as partículas de sujeira na superfície de um\ntecido. O estudo apresentou bons resultados com fibras\nde algodão e seda. Nesses casos, foram removidas\nmanchas de vinho, bastante resistentes. A nanocamada\nprotetora poderá ser útil na prevenção de infecções\nem hospitais, uma vez que o dióxido de titânio também\nmostrou ser eficaz na destruição das paredes celulares\nde microrganismos que provocam infecções. O termo\nnano vem da unidade de medida nanômetro, que é a\nbilionésima parte de 1 metro.\n\nVeja. Especial Tecnologia. São Paulo: Abril, set. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir dos resultados obtidos pelos pesquisadores\nem relação ao uso de nanocristais de dióxido de titânio\nna produção de tecidos e considerando uma possível\nutilização dessa substância no combate às infecções\nhospitalares, pode-se associar que os nanocristais de\ndióxido de titânio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sãopoucoeficientesemambientes fechados e escuros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "possuem dimensões menores que as de seus átomos formadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "são pouco eficientes na remoção de partículas de sujeira de natureza orgânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "destroem microrganismos causadores de infecções, por meio de osmose celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "interagem fortemente com material orgânico devido à sua natureza apolar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

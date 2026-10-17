@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2000",
+    "index": 45,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "―O continente africano há muito tempo desafia os geólogos porque toda a\nsua metade meridional, a que fica ao sul, ergue-se a mais de 1.000 metros\nsobre o nível do mar. (...) Uma equipe de pesquisadores apresentou uma\nsolução desse desafio sugerindo a existência de um esguicho de lava\nsubterrânea empurrando o planalto africano de baixo para cima.‖\n\n(Adaptado de Revista Superinteressante. São Paulo: Abril,\nnovembro de 1998, p. 12)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando a formação do relevo terrestre, é correto afirmar, com base no\ntexto, que a solução proposta é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "improvável, porque as formas do relevo terrestre não se modificam há milhões de anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pouco fundamentada, pois as forças externas, como as chuvas e o vento, são as principais responsáveis pelas formas de relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "plausível, pois as formas do relevo resultam da ação de forças internas e externas, sendo importante avaliar os movimentos mais profundos no interior da Terra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "plausível, pois a mesma justificativa foi comprovada nas demais regiões da África.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "injustificável, porque os movimentos mais profundos no interior da Terra não interferem nos acidentes geográficos que aparecem na sua superfície.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

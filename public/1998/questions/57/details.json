@@ -1,0 +1,46 @@
+{
+    "title": "Questão 57 - ENEM 1998",
+    "index": 57,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "No início deste século, com a finalidade de possibilitar o crescimento da população de veados no\nplanalto de Kaibab, no Arizona (EUA), moveu-se uma caçada impiedosa aos seus predadores –\npumas, coiotes e lobos. No gráfico abaixo, a linha cheia indica o crescimento real da população de\nveados, no período de 1905 a 1940; a linha pontilhada indica a expectativa quanto ao crescimento da\npopulação de veados, nesse mesmo período, caso o homem não tivesse interferido em Kaibab.\n\n10 0.00 0\n\n![](https://enem.dev/1998/questions/57/e6e5fe4d-e8a9-4c9b-a880-704b163d76cb.png)\n\n50 .0 00\n\nN ú m e ro d e ve a do s\n\n![](https://enem.dev/1998/questions/57/ccaa0ad2-fcd0-4eab-b903-9dc88c8d0520.png)\n\nE x tra ído de A m a bis & M arth o, F un da m e n to s de P s ic o lo g ia M od ern a, pa g . 4 2\n\nPara explicar o fenômeno que ocorreu com a população de veados após a interferência do homem, o\nmesmo estudante elaborou as seguintes hipóteses e/ou conclusões:\n\nI. lobos, pumas e coiotes não eram, certamente, os únicos e mais vorazes predadores dos veados;\n\nquando estes predadores, até então desapercebidos, foram favorecidos pela eliminação de seus\ncompetidores, aumentaram numericamente e quase dizimaram a população de veados.\nII. a falta de alimentos representou para os veados um mal menor que a predação.\nIII. ainda que a atuação dos predadores pudesse representar a morte para muitos veados, a predação\n\ndemonstrou-se um fator positivo para o equilíbrio dinâmico e sobrevivência da população como um\ntodo.\nIV. a morte dos predadores acabou por permitir um crescimento exagerado da população de veados, isto\n\nlevou à degradação excessiva das pastagens, tanto pelo consumo excessivo como pelo seu\npisoteamento.",
+    "files": [
+        "https://enem.dev/1998/questions/57/e6e5fe4d-e8a9-4c9b-a880-704b163d76cb.png",
+        "https://enem.dev/1998/questions/57/ccaa0ad2-fcd0-4eab-b903-9dc88c8d0520.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O estudante, desta vez, acertou se indicou as alternativas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I, II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I, II e IV, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e IV, apenas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

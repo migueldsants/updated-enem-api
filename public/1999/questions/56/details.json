@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 1999",
+    "index": 56,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "O crescimento da população de uma praga agrícola\n\nestá representado em função do tempo, no gráfico Densidade\nao lado, onde a densidade populacional superior a populacional\n\nda praga\n\nP causa prejuízo à lavoura.\n\n![](https://enem.dev/1999/questions/56/633c6d92-98e0-4e9b-881b-b697089ef2a7.png)\n\nNo momento apontado pela seta ¨, um agricultor\nintroduziu uma espécie de inseto que é inimigo P\nnatural da praga, na tentativa de controlá-la\nbiologicamente.\n\nNo momento indicado pela seta ≠, o agricultor\naplicou grande quantidade de inseticida, na ↑ ↑ tempo\ntentativa de eliminar totalmente a praga.\n\n¨ ≠",
+    "files": [
+        "https://enem.dev/1999/questions/56/633c6d92-98e0-4e9b-881b-b697089ef2a7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A análise do gráfico permite concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "se o inseticida tivesse sido usado no momento marcado pela seta ¨, a praga teria sido controlada definitivamente, sem necessidade de um tratamento posterior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "se não tivesse sido usado o inseticida no momento marcado pela seta ≠, a população de praga continuaria aumentando rapidamente e causaria grandes danos à lavoura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o uso do inseticida tornou-se necessário, uma vez que o controle biológico aplicado no momento ¨ não resultou na diminuição da densidade da população da praga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o inseticida atacou tanto as pragas quanto os seus predadores; entretanto, a população de pragas recuperou-se mais rápido voltando a causar dano à lavoura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o controle de pragas por meio do uso de inseticidas é muito mais eficaz que o controle biológico, pois os seus efeitos são muito mais rápidos e têm maior durabilidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

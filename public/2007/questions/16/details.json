@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2007",
+    "index": 16,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "A identidade negra não surge da tomada de\nconsciência de uma diferença de pigmentação ou de uma\ndiferença biológica entre populações negras e brancas\ne(ou) negras e amarelas. Ela resulta de um longo processo\nhistórico que começa com o descobrimento, no século XV,\ndo continente africano e de seus habitantes pelos\nnavegadores portugueses, descobrimento esse que abriu o\ncaminho às relações mercantilistas com a África, ao tráfico\nnegreiro, à escravidão e, enfim, à colonização do\ncontinente africano e de seus povos.\n\nK. Munanga. Algumas considerações sobre a diversidade e a identidade\nnegra no Brasil.In: Diversidade na educação: reflexões e\nexperiências. Brasília: SEMTEC/MEC, 2003, p. 37.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com relação ao assunto tratado no texto acima, é correto\nafirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a colonização da África pelos europeus foi simultânea ao descobrimento desse continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a existência de lucrativo comércio na África levou os portugueses a desenvolverem esse continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o surgimento do tráfico negreiro foi posterior ao início da escravidão no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a exploração da África decorreu do movimento de expansão européia do início da Idade Moderna.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a colonização da África antecedeu as relações comerciais entre esse continente e a Europa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

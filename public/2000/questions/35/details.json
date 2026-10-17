@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2000",
+    "index": 35,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Os textos abaixo relacionam-se a momentos distintos da nossa história.\n\n―A integração regional é um instrumento fundamental para que um\nnúmero cada vez maior de países possa melhorar a sua inserção num\nmundo globalizado, já que eleva o seu nível de competitividade,\naumenta as trocas comerciais, permite o aumento da produtividade,\ncria condições para um maior crescimento econômico e favorece o\naprofundamento dos processos democráticos.\nA integração regional e a globalização surgem assim como processos\ncomplementares e vantajosos.‖\n\n(Declaração de Porto, VIII Cimeira Ibero-Americana, Porto, Portugal, 17 e 18 de\n\noutubro de 1998)\n\n―Um considerável número de mercadorias passou a ser produzido no\nBrasil, substituindo o que não era possível ou era muito caro importar.\nFoi assim que a crise econômica mundial e o encarecimento das\nimportações levaram o governo Vargas a criar as bases para o\ncrescimento industrial brasileiro.‖\n\n(POMAR, Wladimir. Era Vargas – a modernização conservadora)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É correto afirmar que as políticas econômicas mencionadas nos textos são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "opostas, pois, no primeiro texto, o centro das preocupações são as exportações e, no segundo, as importações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "semelhantes, uma vez que ambos demonstram uma tendência protecionista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diferentes, porque, para o primeiro texto, a questão central é a integração regional e, para o segundo, a política de substituição de importações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "semelhantes, porque consideram a integração regional necessária ao desenvolvimento econômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "opostas, pois, para o primeiro texto, a globalização impede o aprofundamento democrático e, para o segundo, a globalização é geradora da crise econômica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

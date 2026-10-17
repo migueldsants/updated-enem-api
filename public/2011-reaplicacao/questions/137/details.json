@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2011 - Reaplicação",
+    "index": 137,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma campanha de vacinação contra um tipo\nespecífico de vírus, que causa uma gripe com alto\níndice de mortalidade, deverá ser realizada em uma\ncidade que tem uma população de 186 000 habitantes.\nA Secretaria de Saúde do município tem os dados\nque evidenciam os grupos de pessoas mais afetadas\npela doença e pretende estabelecer como critério de\nprioridade de vacinação as porcentagens de casos de\nmorte, em decorrência da contaminação pelo vírus, em\nordem decrescente. Observe os dados na tabela:\n\nNúmero de pessoas que foram contaminadas pelo\n\n![](https://enem.dev/2011-reaplicacao/questions/137/a3595d85-a047-46e8-ad97-004f0986f108.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/137/a3595d85-a047-46e8-ad97-004f0986f108.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Tomando como base os dados da tabela, os especialistas\nem saúde pública do município podem verificar que o\ngrupo com maior prioridade de vacinação é o de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "crianças entre 3 e 10 anos, porque a porcentagem de",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "mortos é a de maior valor em relação aos outros grupos. idosos com idade entre 60 e 80 anos, pois foi o grupo que registrou o maior número de casos de pessoas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contaminadas pelo vírus. mulheres gestantes, porque a porcentagem de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "curadas é de 75%. recém-nascidos, porque eles têm uma maior",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "expectativa de vida. pessoas com alto nível de obesidade, pois são do grupo com maior risco de doenças.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

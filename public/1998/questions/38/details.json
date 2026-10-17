@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 1998",
+    "index": 38,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma aula de Biologia, o seguinte texto é apresentado:\n\nLAGOA AZUL ESTÁ DOENTE\n\nOs vereadores da pequena cidade de Lagoa Azul estavam discutindo a situação da Saúde no\nMunicípio. A situação era mais grave com relação a três doenças: Doença de Chagas,\nEsquistossomose e Ascaridíase (lombriga). Na tentativa de prevenir novos casos, foram\napresentadas várias propostas :\n\nProposta 1: Promover uma campanha de vacinação.\nProposta 2: Promover uma campanha de educação da população com relação a noções básicas\nde higiene, incluindo fervura de água.\nProposta 3: Construir rede de saneamento básico.\nProposta 4: Melhorar as condições de edificação das moradias e estimular o uso de telas nas\nportas e janelas e mosquiteiros de filó.\nProposta 5: Realizar campanha de esclarecimento sobre os perigos de banhos nas lagoas.\nProposta 6: Aconselhar o uso controlado de inseticidas.\nProposta 7: Drenar e aterrar as lagoas do município.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para o combate da Ascaridíase, a proposta que trará maior benefício social, se implementada pela\nPrefeitura, será:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2011 - Reaplicação",
+    "index": 136,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere que o esquema represente uma trilha\npoligonal que Carlos deve percorrer, partindo do ponto A\naté chegar ao ponto M.\n\n![](https://enem.dev/2011-reaplicacao/questions/136/04db9423-9d1a-4def-96bb-a70d7840001d.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/136/04db9423-9d1a-4def-96bb-a70d7840001d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sabendo que o segmento AB possui 11 m de\ncomprimento e, a partir desse, o comprimento de cada\nsegmento seguinte possui um metro a menos que o\ncomprimento do segmento anterior, quantos metros\nCarlos terá caminhado ao percorrer toda a trilha?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "176",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "121",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "111",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "66",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "65",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2008",
+    "index": 5,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Um jornal de circulação nacional publicou a seguinte\nnotícia:\n\nChoveu torrencialmente na madrugada de ontem\nem Roraima, horas depois de os pajés caiapós Mantii e\nKucrit, levados de Mato Grosso pela Funai, terem\nparticipado do ritual da dança da chuva, em Boa Vista.\nA chuva durou três horas em todo o estado e as previsões\nindicam que continuará pelo menos até amanhã. Com isso,\nserá possível acabar de vez com o incêndio que ontem\ncompletou 63 dias e devastou parte das florestas do\nestado.\n\nJornal do Brasil, abr./1998 (com adaptações).\n\nConsiderando a situação descrita, avalie as afirmativas\nseguintes.\n\nI No ritual indígena, a dança da chuva, mais que\nconstituir uma manifestação artística, tem a função de\nintervir no ciclo da água.\nII A existência da dança da chuva em algumas culturas\nestá relacionada à importância do ciclo da água para a\nvida.\nIII Uma das informações do texto pode ser expressa em\n\nlinguagem científica da seguinte forma: a dança da\nchuva seria efetiva se provocasse a precipitação das\ngotículas de água das nuvens.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É correto o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

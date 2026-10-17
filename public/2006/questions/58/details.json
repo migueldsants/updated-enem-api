@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2006",
+    "index": 58,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "A figura ao lado\nilustra uma gangorra de\nbrinquedo feita com uma\n\n![](https://enem.dev/2006/questions/58/6d48aeed-4e3f-4019-b065-668a2de47090.png)\n\nvela. A vela é acesa nas\nduas extremidades e,\ninicialmente, deixa-se uma\ndas extremidades mais\nbaixa que a outra. A combustão da parafina da\nextremidade mais baixa provoca a fusão. A parafina da\nextremidade mais baixa da vela pinga mais rapidamente\nque na outra extremidade. O pingar da parafina fundida\nresulta na diminuição da massa da vela na extremidade\nmais baixa, o que ocasiona a inversão das posições.\nAssim, enquanto a vela queima, oscilam as duas\nextremidades.",
+    "files": [
+        "https://enem.dev/2006/questions/58/6d48aeed-4e3f-4019-b065-668a2de47090.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse brinquedo, observa-se a seguinte seqüência de\ntransformações de energia:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "energia resultante de processo químico → energia potencial gravitacional → energia cinética",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "energia potencial gravitacional → energia elástica → energia cinética",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "energia cinética → energia resultante de processo químico → energia potencial gravitacional",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "energia mecânica → energia luminosa → energia potencial gravitacional",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "energia resultante do processo químico → energia luminosa → energia cinética",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

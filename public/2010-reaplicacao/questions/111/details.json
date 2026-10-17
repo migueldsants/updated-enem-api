@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2010 - Reaplicação",
+    "index": 111,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quincas Borba mal podia encobrir a satisfação do triunfo.\nTinha uma asa de frango no prato, e trincava-a com\nfilosófica serenidade. Eu fiz-lhe ainda algumas objeções,\nmas tão frouxas, que ele não gastou muito tempo em\ndestruí-las.\n\n— Para entender bem o meu sistema, concluiu ele,\nimporta não esquecer nunca o princípio universal,\nrepartido e resumido em cada homem. Olha: a\nguerra, que parece uma calamidade, é uma operação\nconveniente, como se disséssemos o estalar dos dedos\nde Humanitas; a fome (e ele chupava filosoficamente a\nasa do frango), a fome é uma prova a que Humanitas\nsubmete a própria víscera. Mas eu não quero outro\ndocumento da sublimidade do meu sistema, senão este\nmesmo frango. Nutriu-se de milho, que foi plantado por\num africano, suponhamos, importado de Angola. Nasceu\nesse africano, cresceu, foi vendido; um navio o trouxe,\num navio construído de madeira cortada no mato por\ndez ou doze homens, levado por velas, que oito ou\ndez homens teceram, sem contar a cordoalha e outras\npartes do aparelho náutico. Assim, este frango, que eu\nalmocei agora mesmo, é o resultado de uma multidão\nde esforços e lutas, executadas com o único fim de dar\nmate ao meu apetite.\n\nASSIS, M. Memórias póstumas de Brás Cubas. Rio de Janeiro: Civilização Brasiliense, 1975.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A filosofia de Quincas Borba — a Humanitas — contém\nprincípios que, conforme a explanação do personagem,\nconsideram a cooperação entre as pessoas uma forma de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "lutar pelo bem da coletividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atender a interesses pessoais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "erradicar a desigualdade social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "minimizar as diferenças individuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estabelecer vínculos sociais profundos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

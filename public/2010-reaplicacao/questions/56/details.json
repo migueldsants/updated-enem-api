@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2010 - Reaplicação",
+    "index": 56,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns fatores podem alterar a rapidez das reações\nquímicas. A seguir destacam-se três exemplos no\ncontexto da preparação e da conservação de alimentos:\n1. A maioria dos produtos alimentícios se conserva por\n\nmuito mais tempo quando submetidos à refrigeração.\nEsse procedimento diminui a rapidez das reações que\ncontribuem para a degradação de certos alimentos.\n2. Um procedimento muito comum utilizado em práticas\n\nde culinária é o corte dos alimentos para acelerar o seu\ncozimento, caso não se tenha uma panela de pressão.\n3. Na preparação de iogurtes, adicionam-se ao leite",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "bactérias produtoras de enzimas que aceleram as\nreações envolvendo açúcares e proteínas lácteas.\nCom base no texto, quais são os fatores que influenciam\na rapidez das transformações químicas relacionadas\naos exemplos 1, 2 e 3, respectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Temperatura, superfície de contato e concentração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Concentração, superfície de contato e catalisadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Temperatura, superfície de contato e catalisadores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Superfície de contato, temperatura e concentração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Temperatura, concentração e catalisadores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

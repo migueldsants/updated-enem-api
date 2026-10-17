@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2008",
+    "index": 7,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A Lei Federal n.º 9.985/2000, que instituiu o\nsistema nacional de unidades de conservação, define dois\ntipos de áreas protegidas. O primeiro, as unidades de\nproteção integral, tem por objetivo preservar a natureza,\nadmitindo-se apenas o uso indireto dos seus recursos\nnaturais, isto é, aquele que não envolve consumo, coleta,\ndano ou destruição dos recursos naturais. O segundo, as\nunidades de uso sustentável, tem por função compatibilizar\na conservação da natureza com o uso sustentável de\nparcela dos recursos naturais. Nesse caso, permite-se a\nexploração do ambiente de maneira a garantir a\nperenidade dos recursos ambientais renováveis e dos\nprocessos ecológicos, mantendo-se a biodiversidade e os\ndemais atributos ecológicos, de forma socialmente justa e\neconomicamente viável.\n\nConsiderando essas informações, analise a seguinte\nsituação hipotética.\n\nAo discutir a aplicação de recursos disponíveis\npara o desenvolvimento de determinada região,\norganizações civis, universidade e governo resolveram\ninvestir na utilização de uma unidade de proteção integral,\no Parque Nacional do Morro do Pindaré, e de uma unidade\nde uso sustentável, a Floresta Nacional do Sabiá. Depois\ndas discussões, a equipe resolveu levar adiante três\nprojetos:\n\nŹ o projeto I consiste de pesquisas científicas\nembasadas exclusivamente na observação de\nanimais;\nŹ o projeto II inclui a construção de uma escola e de\num centro de vivência;\nŹ o projeto III promove a organização de uma\ncomunidade extrativista que poderá coletar e\nexplorar comercialmente frutas e sementes\nnativas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa situação hipotética, atendendo-se à lei mencionada\nacima, é possível desenvolver tanto na unidade de\nproteção integral quanto na de uso sustentável",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas o projeto I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "apenas o projeto III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas os projetos I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas os projetos II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "todos os três projetos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

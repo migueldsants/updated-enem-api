@@ -1,0 +1,49 @@
+{
+    "title": "Questão 2 - ENEM 2001",
+    "index": 2,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [
+        "https://enem.dev/2001/questions/2/6adc12db-26e8-480b-9b0b-6f0bfa4179af.png",
+        "https://enem.dev/2001/questions/2/b2981210-4510-4564-94d9-3c8127eb57d7.png",
+        "https://enem.dev/2001/questions/2/3eed28e4-8be0-4184-bc91-6d9e2f1b415a.png",
+        "https://enem.dev/2001/questions/2/c4f5b5a0-c995-41d9-a720-8bc29c401091.png",
+        "https://enem.dev/2001/questions/2/496cfa96-46f2-4a16-83a9-5e8506f5454f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um engenheiro, para calcular a área de uma cidade, copiou sua planta numa folha de papel\nde boa qualidade, recortou e pesou numa balança de precisão, obtendo 40 g. Em seguida,\nrecortou, do mesmo desenho, uma praça de dimensões reais 100 m x 100m, pesou o recorte\nna mesma balança e obteve 0,08g. Com esses dados foi possível dizer que a área da cidade,\nem metros quadrados, é de, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/2/6adc12db-26e8-480b-9b0b-6f0bfa4179af.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/2/b2981210-4510-4564-94d9-3c8127eb57d7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/2/3eed28e4-8be0-4184-bc91-6d9e2f1b415a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/2/c4f5b5a0-c995-41d9-a720-8bc29c401091.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/2/496cfa96-46f2-4a16-83a9-5e8506f5454f.png",
+            "isCorrect": true
+        }
+    ]
+}

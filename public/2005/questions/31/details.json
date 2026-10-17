@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2005",
+    "index": 31,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Um estudo caracterizou 5 ambientes aquáticos, nomeados de A a E, em uma região, medindo parâmetros físico-\nquímicos de cada um deles, incluindo o pH nos ambientes. O Gráfico I representa os valores de pH dos 5 ambientes.\nUtilizando o gráfico II, que representa a distribuição estatística de espécies em diferentes faixas de pH, pode-se\nesperar um maior número de espécies no ambiente:\n\n![](https://enem.dev/2005/questions/31/9a7b9542-f050-461c-b62e-53d8deb21b32.png)",
+    "files": [
+        "https://enem.dev/2005/questions/31/9a7b9542-f050-461c-b62e-53d8deb21b32.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2011 - Reaplicação",
+    "index": 109,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "— Adiante... Adiante... Não pares... Eu vejo. Canaã!\nCanaã!\n\nMas o horizonte da planície se estendia pelo seio da\nnoite e se confundia com os céus.\n\nMilkau não sabia para onde o impulso os levava:\nera o desconhecido que os atraía com a poderosa\ne magnética força da Ilusão. Começava a sentir a\nangustiada sensação de uma corrida no Infinito...\n\n— Canaã! Canaã!... suplicava ele em pensamento,\npedindo à noite que lhe revelasse a estrada da Promissão.\n\nE tudo era silêncio, e mistério... Corriam... corriam. E\no mundo parecia sem fim, e a terra do Amor mergulhada,\nsumida na névoa incomensurável... E Milkau, num\nsofrimento devorador, ia vendo que tudo era o mesmo;\nhoras e horas, fatigados de voar, e nada variava, e nada\nlhe aparecia... Corriam... corriam...\n\nARANHA, G. Canaã. São Paulo: Ática, 1998 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O sonho da terra prometida revela-se como valor humano\nque faz parte do imaginário literário brasileiro desde a\nchegada dos portugueses. Ao descrever a situação final\ndas personagens Milkau e Maria, Graça Aranha resgata\nesse desejo por meio de uma perspectiva",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "subjetiva, pois valoriza a visão exótica da pátria",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "brasileira. simbólica, pois descreve o amor de um estrangeiro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pelo Brasil. idealizada, pois relata o sonho de uma pátria",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acolhedora de todos. realista, pois traz dados de uma terra geograficamente",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "situada. crítica, pois retrata o desespero de quem não alcançou sua terra.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

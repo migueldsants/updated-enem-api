@@ -1,0 +1,51 @@
+{
+    "title": "Questão 164 - ENEM 2010 - Reaplicação",
+    "index": 164,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Devido aos fortes ventos, uma empresa exploradora\nde petróleo resolveu reforçar a segurança de suas\nplataformas marítimas, colocando cabos de aço para\nmelhor afixar a torre central.\nConsidere que os cabos ficarão perfeitamente esticados\ne terão uma extremidade no ponto médio das arestas\nlaterais da torre central (pirâmide quadrangular regular)\ne a outra no vértice da base da plataforma (que é um\nquadrado de lados paralelos aos lados da base da torre\ncentral e centro coincidente com o centro da base da\npirâmide), como sugere a ilustração.\n\n![](https://enem.dev/2010-reaplicacao/questions/164/ae346f4f-1b1c-432f-906f-806668d48222.png)\n\nSe a altura e a aresta da base da torre central medem,\nrespectivamente, 24 m e m e o lado da base da\n\n![](https://enem.dev/2010-reaplicacao/questions/164/c455f468-4664-4c7d-8f4b-630b2bc4e651.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/164/ae346f4f-1b1c-432f-906f-806668d48222.png",
+        "https://enem.dev/2010-reaplicacao/questions/164/c455f468-4664-4c7d-8f4b-630b2bc4e651.png",
+        "https://enem.dev/2010-reaplicacao/questions/164/59247d54-a2d3-45e6-8e5b-13bdd2b16d00.png",
+        "https://enem.dev/2010-reaplicacao/questions/164/d6701e6d-bda9-43f1-b3e1-993c1dd8a76c.png",
+        "https://enem.dev/2010-reaplicacao/questions/164/bddc837a-d2ef-464c-ac5d-23caa7996fed.png",
+        "https://enem.dev/2010-reaplicacao/questions/164/138a0c5b-23e8-4260-884c-94b345bb10b0.png",
+        "https://enem.dev/2010-reaplicacao/questions/164/f418e8c2-56f4-4085-8cfa-1a387defc40a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "plataforma mede m, então a medida, em metros,\nde cada cabo será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/164/59247d54-a2d3-45e6-8e5b-13bdd2b16d00.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/164/d6701e6d-bda9-43f1-b3e1-993c1dd8a76c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/164/bddc837a-d2ef-464c-ac5d-23caa7996fed.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/164/138a0c5b-23e8-4260-884c-94b345bb10b0.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/164/f418e8c2-56f4-4085-8cfa-1a387defc40a.png",
+            "isCorrect": false
+        }
+    ]
+}

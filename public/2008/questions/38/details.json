@@ -1,0 +1,45 @@
+{
+    "title": "Questão 38 - ENEM 2008",
+    "index": 38,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2008/questions/38/887af3b5-9168-436d-900a-9a63c91bd53f.png)",
+    "files": [
+        "https://enem.dev/2008/questions/38/887af3b5-9168-436d-900a-9a63c91bd53f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na obra Entrudo, de Jean-Baptiste Debret (1768-1848),\napresentada acima,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "registram-se cenas da vida íntima dos senhores de engenho e suas relações com os escravos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "identifica-se a presença de traços marcantes do movimento artístico denominado Cubismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "identificam-se, nas fisionomias, sentimentos de angústia e inquietações que revelam as relações conflituosas entre senhores e escravos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "observa-se a composição harmoniosa e destacam-se as imagens que representam figuras humanas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "constata-se que o artista utilizava a técnica do óleo sobre tela, com pinceladas breves e manchas, sem delinear as figuras ou as fisionomias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

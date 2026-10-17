@@ -1,0 +1,48 @@
+{
+    "title": "Questão 173 - ENEM 2010 - Reaplicação",
+    "index": 173,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/173/a337a69f-0ec0-46b1-b838-ffca6b6656eb.png",
+        "https://enem.dev/2010-reaplicacao/questions/173/d3895e8c-d6af-4c1a-95b9-d68707bcb9ce.png",
+        "https://enem.dev/2010-reaplicacao/questions/173/d9ad876f-a1c8-4c54-9f10-a3fcc25f1bac.png",
+        "https://enem.dev/2010-reaplicacao/questions/173/60e17858-ecee-4b68-aa20-4b694762d871.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um fabricante de creme de leite comercializa seu\nproduto em embalagens cilíndricas de diâmetro da base\nmedindo 4 cm e altura 13,5 cm. O rótulo de cada uma\ncusta R$ 0,60. Esse fabricante comercializará o referido\nproduto em embalagens ainda cilíndricas de mesma\ncapacidade, mas com a medida do diâmetro da base\nigual à da altura.\nLevando-se em consideração exclusivamente o gasto\ncom o rótulo, o valor que o fabricante deverá pagar por\nesse rótulo é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/173/a337a69f-0ec0-46b1-b838-ffca6b6656eb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/173/d3895e8c-d6af-4c1a-95b9-d68707bcb9ce.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 0,60, pois não haverá alteração na capacidade",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/173/d9ad876f-a1c8-4c54-9f10-a3fcc25f1bac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/173/60e17858-ecee-4b68-aa20-4b694762d871.png",
+            "isCorrect": false
+        }
+    ]
+}

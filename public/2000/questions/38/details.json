@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2000",
+    "index": 38,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "No processo de produção do ferro, a sílica é removida do minério por reação\ncom calcário (CaCO3). Sabe-se, teoricamente (cálculo estequiométrico), que\nsão necessários 100 g de calcário para reagir com 60 g de sílica.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dessa forma, pode-se prever que, para a remoção de toda a sílica presente em\n200 toneladas do minério na região 1, a massa de calcário necessária é,\naproximadamente, em toneladas, igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

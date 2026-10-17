@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2010 - Reaplicação",
+    "index": 87,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Devido ao seu alto teor de sais, a água do mar é\nimprópria para o consumo humano e para a maioria\ndos usos da água doce. No entanto, para a indústria,\na água do mar é de grande interesse, uma vez que\nos sais presentes podem servir de matérias-primas\nimportantes para diversos processos. Nesse contexto,\ndevido a sua simplicidade e ao seu baixo potencial de\nimpacto ambiental, o método da precipitação fracionada\ntem sido utilizado para a obtenção dos sais presentes\nna água do mar.\n\nTabela 1: Solubilidade em água de alguns compostos\npresentes na água do mar a 25ºC\n\nSOLUBILIDADE\nSOLUTO FÓRMULA\ng/kg de H₂O\n\nBrometo de sódio NaBr 1,20 × 10³\nCarbonato de cálcio CaCO₃ 1,30 × 10⁻²\nCloreto de sódio NaCl 3,60 × 10²\nCloreto de magnésio MgCl₂ 5,41 × 10²\nSulfato de magnésio MgSO₄ 3,60 × 10²\nSulfato de cálcio CaSO₄ 6,80 × 10⁻¹\n\nPitombo, L.R.M.; Marcondes, M.E.R.; GEPEC. Grupo de pesquisa em Educação em\nQuímica. Química e Sobrevivência: Hidrosfera Fonte de Materiais.\nSão Paulo: EDUSP, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Suponha que uma indústria objetiva separar\ndeterminados sais de uma amostra de água do mar a\n25 °C, por meio da precipitação fracionada. Se essa\namostra contiver somente os sais destacados na tabela,\na seguinte ordem de precipitação será verificada:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Carbonato de cálcio, sulfato de cálcio, cloreto de sódio e sulfato de magnésio, cloreto de magnésio e, por último, brometo de sódio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Brometo de sódio, cloreto de magnésio, cloreto de sódio e sulfato de magnésio, sulfato de cálcio e, por último, carbonato de cálcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cloreto de magnésio, sulfato de magnésio e cloreto de sódio, sulfato de cálcio, carbonato de cálcio e, por último, brometo de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Brometo de sódio, carbonato de cálcio, sulfato de cálcio, cloreto de sódio e sulfato de magnésio e, por último, cloreto de magnésio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cloreto de sódio, sulfato de magnésio, carbonato de cálcio, sulfato de cálcio, cloreto de magnésio e, por último, brometo de sódio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

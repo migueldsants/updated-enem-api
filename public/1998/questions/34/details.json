@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 1998",
+    "index": 34,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Amor é fogo que arde sem se ver;\né ferida que dói e não se sente;\né um contentamento descontente;\né dor que desatina sem doer;\n\nÉ um não querer mais que bem querer;\né solitário andar por entre a gente;\né nunca contentar-se de contente;\né cuidar que se ganha em se perder;\n\nÉ querer estar preso por vontade;\né servir a quem vence, o vencedor;\né ter com quem nos mata lealdade.\n\nMas como causar pode seu favor\nnos corações humanos amizade,\nse tão contrário a si é o mesmo Amor?\n\nLuís de Camões",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O poema pode ser considerado como um texto:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "argumentativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "narrativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "épico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "de propaganda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "teatral.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

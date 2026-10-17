@@ -1,0 +1,49 @@
+{
+    "title": "Questão 12 - ENEM 2006",
+    "index": 12,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Entre 8 mil e 3 mil anos atrás, ocorreu o\ndesaparecimento de grandes mamíferos que viviam na\nAmérica do Sul. Os mapas a seguir apresentam a vegetação\ndessa região antes e depois de uma grande mudança\nclimática que tornou essa região mais quente e mais úmida.\n\n![](https://enem.dev/2006/questions/12/9afc8a9a-fc1d-4f1a-ab67-53449ccd98b4.png)\n\n![](https://enem.dev/2006/questions/12/9655f6ff-cfce-495c-a32c-805a46dea590.png)\n\nSavana aberta Savana fechada\n\n![](https://enem.dev/2006/questions/12/ce7259d9-7f2b-430d-85f8-a5793660c290.png)\n\n![](https://enem.dev/2006/questions/12/4b9b6ca6-aa6d-474f-808a-2e1edacef075.png)\n\n![](https://enem.dev/2006/questions/12/5409146e-8640-4e99-81f0-e77500e60310.png)\n\nEntre 20 mil e 13 mil anos Entre 8 mil e 3 mil anos\n\nRevista Pesquisa Fapesp, n.º 98, 2004.\n\nAs hipóteses a seguir foram levantadas para explicar o\ndesaparecimento dos grandes mamíferos na América do Sul.\n\nI Os seres humanos, que só puderam ocupar a América\n\ndo Sul depois que o clima se tornou mais úmido,\nmataram os grandes animais.\nII Os maiores mamíferos atuais precisam de vastas áreas\n\nabertas para manterem o seu modo de vida, áreas\nessas que desapareceram da América do Sul com a\nmudança climática, o que pode ter provocado a extinção\ndos grandes mamíferos sul-americanos.\nIII A mudança climática foi desencadeada pela queda de\n\num grande asteróide, a qual causou o desaparecimento\ndos grandes mamíferos e das aves.",
+    "files": [
+        "https://enem.dev/2006/questions/12/9afc8a9a-fc1d-4f1a-ab67-53449ccd98b4.png",
+        "https://enem.dev/2006/questions/12/9655f6ff-cfce-495c-a32c-805a46dea590.png",
+        "https://enem.dev/2006/questions/12/ce7259d9-7f2b-430d-85f8-a5793660c290.png",
+        "https://enem.dev/2006/questions/12/4b9b6ca6-aa6d-474f-808a-2e1edacef075.png",
+        "https://enem.dev/2006/questions/12/5409146e-8640-4e99-81f0-e77500e60310.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "É cientificamente aceitável o que se afirma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas em I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas em II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "apenas em III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas em I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 61 - ENEM 2001",
+    "index": 61,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A população rural do Brasil tem decrescido nas últimas décadas. De acordo com dados do\nIBGE, na década de 80, a população rural era de aproximadamente 37 milhões; no ano\n2000 havia cerca de 31 milhões de brasileiros morando no campo. O gráfico apresenta o\ncomportamento da agricultura no Brasil nas duas últimas décadas em relação à produção e\nà área cultivada.\n\n![](https://enem.dev/2001/questions/61/40c491f5-5bb4-4cf9-9b75-46669bba1ea9.png)\n\nVolume 51, nº 213, 1999.",
+    "files": [
+        "https://enem.dev/2001/questions/61/40c491f5-5bb4-4cf9-9b75-46669bba1ea9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Levando em consideração as mudanças ocorridas no campo nas últimas duas décadas e\nanalisando o comportamento do gráfico, é correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as áreas destinadas à lavoura têm aumentado consideravelmente, graças ao crescimento do mercado consumidor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a produção agrícola aumentou juntamente com a área cultivada, devido à abertura do mercado para exportação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a densidade demográfica nas áreas cultivadas tem crescido junto com a produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a área destinada à agricultura não aumentou, mas a produtividade tem crescido, graças à aplicação de novas tecnologias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a produção agrícola do País cresceu no período considerado, enquanto a produtividade do homem do campo diminuiu.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

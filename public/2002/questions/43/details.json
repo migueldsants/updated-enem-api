@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2002",
+    "index": 43,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em usinas hidrelétricas, a queda d’água move turbinas que\nacionam geradores. Em usinas eólicas, os geradores são\nacionados por hélices movidas pelo vento. Na conversão\ndireta solar-elétrica são células fotovoltaicas que produzem\ntensão elétrica. Além de todos produzirem eletricidade, esses\nprocessos têm em comum o fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não provocarem impacto ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "independerem de condições climáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a energia gerada poder ser armazenada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilizarem fontes de energia renováveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "dependerem das reservas de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

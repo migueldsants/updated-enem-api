@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 1999",
+    "index": 42,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Leia o que disse João Cabral de Melo Neto, poeta pernambucano, sobre a função de seus textos:\n\n“Falo somente com o que falo: a linguagem enxuta, contato denso; falo somente do que falo: a vida seca, áspera e clara\ndo sertão; falo somente por quem falo: o homem sertanejo sobrevivendo na adversidade e na míngua. Falo somente para\nquem falo: para os que precisam ser alertados para a situação da miséria no Nordeste.”",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para João Cabral de Melo Neto, no texto literário,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a linguagem do texto deve refletir o tema, e a fala do autor deve denunciar o fato social para determinados leitores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a linguagem do texto não deve ter relação com o tema, e o autor deve ser imparcial para que seu texto seja lido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o escritor deve saber separar a linguagem do tema e a perspectiva pessoal da perspectiva do leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a linguagem pode ser separada do tema, e o escritor deve ser o delator do fato social para todos os leitores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a linguagem está além do tema, e o fato social deve ser a proposta do escritor para convencer o leitor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

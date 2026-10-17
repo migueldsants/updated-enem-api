@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2008",
+    "index": 13,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 12 e 13\n\n1 Torno a ver-vos, ó montes; o destino\n\nAqui me torna a pôr nestes outeiros,\nOnde um tempo os gabões deixei grosseiros\n\n4 Pelo traje da Corte, rico e fino.\n\nAqui estou entre Almendro, entre Corino,\nOs meus fiéis, meus doces companheiros,\n\n7 Vendo correr os míseros vaqueiros\n\nAtrás de seu cansado desatino.\n\nSe o bem desta choupana pode tanto,\n\n10 Que chega a ter mais preço, e mais valia\n\nQue, da Cidade, o lisonjeiro encanto,\n\nAqui descanse a louca fantasia,\n\n13 E o que até agora se tornava em pranto\n\nSe converta em afetos de alegria.\n\nCláudio Manoel da Costa.In: Domício Proença Filho. A poesia\ndos inconfidentes. Rio de Janeiro: Nova Aguilar, 2002, p. 78-9.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Assinale a opção que apresenta um verso do soneto de\nCláudio Manoel da Costa em que o poeta se dirige ao seu\ninterlocutor.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Torno a ver-vos, ó montes; o destino” (v.1)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“Aqui estou entre Almendro, entre Corino,” (v.5)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Os meus fiéis, meus doces companheiros,” (v.6)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Vendo correr os míseros vaqueiros” (v.7)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Que, da Cidade, o lisonjeiro encanto,” (v.11)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

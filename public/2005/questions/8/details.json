@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2005",
+    "index": 8,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Leia o texto abaixo.\n\nO jardim de caminhos que se bifurcam\n(....) Uma lâmpada aclarava a plataforma, mas os rostos dos meninos ficavam na sombra. Um me perguntou: O\nsenhor vai à casa do Dr. Stephen Albert? Sem aguardar resposta, outro disse: A casa fica longe daqui, mas o senhor\nnão se perderá se tomar esse caminho à esquerda e se em cada encruzilhada do caminho dobrar à esquerda.\n\n(Adaptado. Borges, J. Ficções. Rio de Janeiro: Globo, 1997. p.96.)\n\nQuanto à cena descrita acima, considere que\n\nI - o sol nasce à direita dos meninos;\nII - o senhor seguiu o conselho dos meninos, tendo encontrado duas encruzilhadas até a casa.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Concluiu-se que o senhor caminhou, respectivamente, nos sentidos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oeste, sul e leste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "leste, sul e oeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "oeste, norte e leste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "leste, norte e oeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "leste, norte e sul.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

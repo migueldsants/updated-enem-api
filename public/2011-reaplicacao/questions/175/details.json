@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2011 - Reaplicação",
+    "index": 175,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Toda a esfera visível ao longo do ano, nos hemisférios\ncelestes Norte e Sul, está dividida em 88 partes, incluindo,\ncada uma delas, um número variável de estrelas. A\nunidade de medida utilizada pelos astrônomos para\ncalcular a área de uma constelação é o grau quadrado.\nAlgumas constelações são imensas, como Erídano, o\nrio celeste, localizada no hemisfério celeste Sul e ocupa\numa área de 1 138 graus quadrados. Em contraponto,\na constelação Norma, localizada no mesmo hemisfério,\nnão passa de 165 graus quadrados.\n\nCAPOZZOLI, U. Origem e Evolução das Constelações. Scientific American Brasil. Nº 2. 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em um mapa do hemisfério celestial feito em uma escala\nde 1:1 000, as constelações Erídano e Norma ocuparão,\nrespectivamente, uma área, em graus quadrados, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,1138 e 0,0165.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,1138 e 0,165.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,138 e 0,165.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "11 380 e 1 650.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 138 000 e 165 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

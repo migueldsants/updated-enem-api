@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2002",
+    "index": 39,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Considere o papel da técnica no desenvolvimento da constituição de sociedades e três invenções tecnológicas que marcaram\nesse processo: invenção do arco e flecha nas civilizações primitivas, locomotiva nas civilizações do século XIX e televisão nas\ncivilizações modernas.\n\nA respeito dessas invenções são feitas as seguintes afirmações:\n\nI. A primeira ampliou a capacidade de ação dos braços, provocando mudanças na forma de organização social e na\n\nutilização de fontes de alimentação.\nII. A segunda tornou mais eficiente o sistema de transporte, ampliando possibilidades de locomoção e provocando\n\nmudanças na visão de espaço e de tempo.\nIII. A terceira possibilitou um novo tipo de lazer que, envolvendo apenas participação passiva do ser humano, não provocou\n\nmudanças na sua forma de conceber o mundo.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Está correto o que se afirma em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "I e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

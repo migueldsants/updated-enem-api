@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2006",
+    "index": 63,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "As características dos vinhos dependem do\ngrau de maturação das uvas nas parreiras porque as\nconcentrações de diversas substâncias da composição\ndas uvas variam à medida que as uvas vão\namadurecendo. O gráfico a seguir mostra a variação da\nconcentração de três substâncias presentes em uvas,\n\n![](https://enem.dev/2006/questions/63/1a6af4a5-e88f-4a27-af46-2617000c7e47.png)",
+    "files": [
+        "https://enem.dev/2006/questions/63/1a6af4a5-e88f-4a27-af46-2617000c7e47.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O teor alcoólico do vinho deve-se à\nfermentação dos açúcares do suco da uva. Por sua\nvez, a acidez do vinho produzido é proporcional à\nconcentração dos ácidos tartárico e málico.\nConsiderando-se as diferentes características\ndesejadas, as uvas podem ser colhidas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mais cedo, para a obtenção de vinhos menos ácidos e menos alcoólicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mais cedo, para a obtenção de vinhos mais ácidos e mais alcoólicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mais tarde, para a obtenção de vinhos mais alcoólicos e menos ácidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mais cedo e ser fermentadas por mais tempo, para a obtenção de vinhos mais alcoólicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mais tarde e ser fermentadas por menos tempo, para a obtenção de vinhos menos alcoólicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

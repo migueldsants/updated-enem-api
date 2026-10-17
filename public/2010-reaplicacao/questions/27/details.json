@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2010 - Reaplicação",
+    "index": 27,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A ética exige um governo que amplie a igualdade entre\nos cidadãos. Essa é a base da pátria. Sem ela, muitos\nindivíduos não se sentem “em casa”, experimentam-se\ncomo estrangeiros em seu próprio lugar de nascimento.\n\nSILVA, R. R. Ética, defesa nacional, cooperação dos povos. OLIVEIRA, E. R (Org.)\nSegurança & Defesa Nacional: da competição à cooperação regional. São Paulo:\nFundação Memorial da América Latina, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os pressupostos éticos são essenciais para a\nestruturação política e integração de indivíduos em uma\nsociedade. De acordo com o texto, a ética corresponde a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valores e costumes partilhados pela maioria da sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "preceitos normativos impostos pela coação das leis jurídicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "normas determinadas pelo governo, diferentes das leis estrangeiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "transferência dos valores praticados em casa para a esfera social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "proibição da interferência de estrangeiros em nossa pátria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

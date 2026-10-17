@@ -1,0 +1,46 @@
+{
+    "title": "Questão 14 - ENEM 2000",
+    "index": 14,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O esquema abaixo mostra, em termos de potência(energia/tempo),\naproximadamente, o fluxo de energia, a partir de uma certa quantidade de\ncombustível vinda do tanque de gasolina, em um carro viajando com velocidade\nconstante.\n\n![](https://enem.dev/2000/questions/14/ee153955-2206-41f1-9a1c-771b66e56723.png)",
+    "files": [
+        "https://enem.dev/2000/questions/14/ee153955-2206-41f1-9a1c-771b66e56723.png",
+        "https://enem.dev/2000/questions/14/90a92c0e-7a56-4b3e-8be8-9c63529901bc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O esquema mostra que, na queima da gasolina, no motor de combustão, uma\nparte considerável de sua energia é dissipada. Essa perda é da ordem de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "80%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "70%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/14/90a92c0e-7a56-4b3e-8be8-9c63529901bc.png",
+            "isCorrect": false
+        }
+    ]
+}

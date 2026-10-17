@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2002",
+    "index": 6,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela mostra a evolução da frota de veículos leves, e o gráfico, a emissão média do poluente monóxido de carbono (em\n\n![](https://enem.dev/2002/questions/6/5e10681a-7adf-42e7-a465-8215494ebb93.png)\n\nComparando-se a emissão média de monóxido de carbono dos veículos a gasolina e a álcool, pode-se afirmar que\n\nI. no transcorrer do período 1992-2000, a frota a álcool emitiu menos monóxido de carbono.\nII. em meados de 1997, o veículo a gasolina passou a poluir menos que o veículo a álcool.\nIII. o veículo a álcool passou por um aprimoramento tecnológico.",
+    "files": [
+        "https://enem.dev/2002/questions/6/5e10681a-7adf-42e7-a465-8215494ebb93.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "É correto o que se afirma apenas em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2002",
+    "index": 27,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "O código de barras, contido na maior parte dos produtos\nindustrializados, consiste num conjunto de várias barras que\n\n![](https://enem.dev/2002/questions/27/56a4c4b6-3de2-48e5-84bb-36e46547d40a.png)\n\npodem estar preenchidas com cor escura ou não. Quando um\nleitor óptico passa sobre essas barras, a leitura de uma barra\nclara é convertida no número 0 e a de uma barra escura, no\nnúmero 1. Observe abaixo um exemplo simplificado de um\ncódigo em um sistema de código com 20 barras.\n\nSe o leitor óptico for passado da esquerda para a direita irá ler: 01011010111010110001\n\nSe o leitor óptico for passado da direita para a esquerda irá ler: 10001101011101011010\n\nNo sistema de código de barras, para se organizar o processo de leitura óptica de cada código, deve-se levar em consideração\nque alguns códigos podem ter leitura da esquerda para a direita igual à da direita para a esquerda, como o código\n00000000111100000000, no sistema descrito acima.",
+    "files": [
+        "https://enem.dev/2002/questions/27/56a4c4b6-3de2-48e5-84bb-36e46547d40a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em um sistema de códigos que utilize apenas cinco barras, a quantidade de códigos com leitura da esquerda para a direita\nigual à da direita para a esquerda, desconsiderando-se todas as barras claras ou todas as escuras, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2010 - Reaplicação",
+    "index": 94,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Jesulín y Cayetano Rivera salieron a hombros por la\npuerta grande aplaudidos por María José Campanario y\nla duquesa de Alba.\nExpectación, mucha expectación fue la que se vivió el\npasado sábado en la localidad gaditana de Ubrique.\nUn cartel de lujo para una tarde gloriosa formado por\nlos diestros Jesulín, “El Cid”, y Cayetano Rivera. El de\nUbrique pudo presumir de haber sido “profeta en su\ntierra” en una tarde triunfal, con un resultado de tres\norejas y salida por la puerta grande.\nDesde primera hora de la tarde, numerosos curiosos\ny aficionados fueron llegando a los alrededores de la\nplaza y al hotel Sierra de Ubrique, donde hubo un gran\nambiente previo a la cita taurina, dado que era el sitio\ndonde estaban hospedados los toreros.\n\n![](https://enem.dev/2010-reaplicacao/questions/94-espanhol/143443fe-237d-49bc-89de-120f343a691b.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/94-espanhol/143443fe-237d-49bc-89de-120f343a691b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto traz informações acerca de um evento de grande\nimportância ocorrido em Ubrique — uma tourada. De\nacordo com esse fragmento, alguns dos fatos que atestam\na vitória nesse evento típico da cultura espanhola são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a realização de cortejo público ao toureiro e o abraço do adversário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a hospedagem no Hotel Sierra de Ubrique e a presença da família real.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a formação de fã-clubes numerosos e o recebimento de título de nobreza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o acúmulo de maior número de orelhas e a saída pelo portão principal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a reunião de numerosos curiosos e o apreço de uma rica mulher.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2003",
+    "index": 30,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a riqueza dos recursos hídricos brasileiros, uma grave crise de água em nosso país poderia ser\nmotivada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reduzida área de solos agricultáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ausência de reservas de águas subterrâneas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "escassez de rios e de grandes bacias hidrográficas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "falta de tecnologia para retirar o sal da água do mar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "degradação dos mananciais e desperdício no consumo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

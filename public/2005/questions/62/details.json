@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2005",
+    "index": 62,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Um problema ainda não resolvido da geração nuclear de eletricidade é a destinação dos rejeitos radiativos, o\nchamado “lixo atômico”. Os rejeitos mais ativos ficam por um período em piscinas de aço inoxidável nas próprias\nusinas antes de ser, como os demais rejeitos, acondicionados em tambores que são dispostos em áreas cercadas ou\nencerrados em depósitos subterrâneos secos, como antigas minas de sal. A complexidade do problema do lixo\natômico, comparativamente a outros lixos com substâncias tóxicas, se deve ao fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "emitir radiações nocivas, por milhares de anos, em um processo que não tem como ser interrompido artificialmente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "acumular-se em quantidades bem maiores do que o lixo industrial convencional, faltando assim locais para reunir tanto material.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ser constituído de materiais orgânicos que podem contaminar muitas espécies vivas, incluindo os próprios seres humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "exalar continuamente gases venenosos, que tornariam o ar irrespirável por milhares de anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emitir radiações e gases que podem destruir a camada de ozônio e agravar o efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2007",
+    "index": 15,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Há diversas maneiras de o ser humano obter energia para\nseu próprio metabolismo utilizando energia armazenada na\ncana-de-açúcar. O esquema abaixo apresenta quatro\nalternativas dessa utilização.\n\n![](https://enem.dev/2007/questions/15/08f6dc7c-5fc0-46df-a1c0-1b361f67945f.png)\n\nalimentos\nindustrializados",
+    "files": [
+        "https://enem.dev/2007/questions/15/08f6dc7c-5fc0-46df-a1c0-1b361f67945f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir dessas informações, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a alternativa 1 é a que envolve maior diversidade de atividades econômicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a alternativa 2 é a que provoca maior emissão de gás carbônico para a atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as alternativas 3 e 4 são as que requerem menor conhecimento tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "todas as alternativas requerem trabalho humano para a obtenção de energia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "todas as alternativas ilustram o consumo direto, pelo ser humano, da energia armazenada na cana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

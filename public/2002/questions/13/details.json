@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2002",
+    "index": 13,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "No gráfico estão representados os gols marcados e os gols sofridos por uma equipe de futebol nas dez primeiras partidas de\num determinado campeonato.\n\n![](https://enem.dev/2002/questions/13/86913f32-6d8c-48a3-8312-8c3e536c46f1.png)",
+    "files": [
+        "https://enem.dev/2002/questions/13/86913f32-6d8c-48a3-8312-8c3e536c46f1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que, neste campeonato, as equipes ganham 3 pontos para cada vitória, 1 ponto por empate e 0 ponto em caso\nde derrota, a equipe em questão, ao final da décima partida, terá acumulado um número de pontos igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "17.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

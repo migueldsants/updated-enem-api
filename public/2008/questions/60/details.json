@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2008",
+    "index": 60,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Em discurso proferido em 17 de março de 1939, o\nprimeiro-ministro inglês à época, Neville Chamberlain,\nsustentou sua posição política: “Não necessito defender\nminhas visitas à Alemanha no outono passado, que\nalternativa existia? Nada do que pudéssemos ter feito,\nnada do que a França pudesse ter feito, ou mesmo a\nRússia, teria salvado a Tchecoslováquia da destruição.\nMas eu também tinha outro propósito ao ir até Munique.\nEra o de prosseguir com a política por vezes chamada de\n‘apaziguamento europeu’, e Hitler repetiu o que já havia\ndito, ou seja, que os Sudetos, região de população alemã\nna Tchecoslováquia, eram a sua última ambição territorial\nna Europa, e que não queria incluir na Alemanha outros\npovos que não os alemães.”\n\nInternet: <www.johndclare.net> (com adaptações).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Sabendo-se que o compromisso assumido por Hitler em\n1938, mencionado no texto acima, foi rompido pelo líder\nalemão em 1939, infere-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Hitler ambicionava o controle de mais territórios na Europa além da região dos Sudetos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a aliança entre a Inglaterra, a França e a Rússia poderia ter salvado a Tchecoslováquia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o rompimento desse compromisso inspirou a política de ‘apaziguamento europeu’.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a política de Chamberlain de apaziguar o líder alemão era contrária à posição assumida pelas potências aliadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a forma que Chamberlain escolheu para lidar com o problema dos Sudetos deu origem à destruição da Tchecoslováquia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Questão 14 - ENEM 2004",
+    "index": 14,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Para medir o perfil de um terreno, um mestre-de-\nobras utilizou duas varas (V_I e V_II), iguais e\nigualmente graduadas em centímetros, às quais\nfoi acoplada uma mangueira plástica transparente,\nparcialmente preenchida por água (figura ao lado).\n\n![](https://enem.dev/2004/questions/14/73b50fe3-2990-467b-947f-a3b542fe240a.png)\n\nEle fez 3 medições que permitiram levantar o perfil\nda linha que contém, em seqüência, os pontos P₁,\nP₂, P₃ e P₄. Em cada medição, colocou as varas\nem dois diferentes pontos e anotou suas leituras\nna tabela a seguir. A figura representa a primeira\nmedição entre P₁ e P₂.\n\n![](https://enem.dev/2004/questions/14/72595889-3a63-48c7-8b5d-f19642c3759a.png)",
+    "files": [
+        "https://enem.dev/2004/questions/14/73b50fe3-2990-467b-947f-a3b542fe240a.png",
+        "https://enem.dev/2004/questions/14/72595889-3a63-48c7-8b5d-f19642c3759a.png",
+        "https://enem.dev/2004/questions/14/96e1245c-72f3-408a-a578-bab7df6d7ad3.png",
+        "https://enem.dev/2004/questions/14/665855ec-a16c-4e41-a4c9-e5c6b2ec34fa.png",
+        "https://enem.dev/2004/questions/14/1383572e-307e-4a53-991a-b9ad689531ed.png",
+        "https://enem.dev/2004/questions/14/28c92cb2-9c83-4ee3-a61a-4adf4b4542f6.png",
+        "https://enem.dev/2004/questions/14/caa82a40-450b-4535-9c55-a65e18c96a7f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao preencher completamente a tabela, o mestre-de-obras determinou o seguinte perfil para o terreno:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2004/questions/14/96e1245c-72f3-408a-a578-bab7df6d7ad3.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2004/questions/14/665855ec-a16c-4e41-a4c9-e5c6b2ec34fa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2004/questions/14/1383572e-307e-4a53-991a-b9ad689531ed.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2004/questions/14/28c92cb2-9c83-4ee3-a61a-4adf4b4542f6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2004/questions/14/caa82a40-450b-4535-9c55-a65e18c96a7f.png",
+            "isCorrect": false
+        }
+    ]
+}

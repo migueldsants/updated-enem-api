@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2004",
+    "index": 26,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Instruções: As questões de números 26 e 27 referem-se ao poema abaixo.\n\nCidade grande\n\nQue beleza, Montes Claros.\nComo cresceu Montes Claros.\nQuanta indústria em Montes Claros.\nMontes Claros cresceu tanto,\nficou urbe tão notória,\nprima-rica do Rio de Janeiro,\nque já tem cinco favelas\npor enquanto, e mais promete.\n\n(Carlos Drummond de Andrade)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Entre os recursos expressivos empregados no texto, destaca-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "metalinguagem, que consiste em fazer a linguagem referir-se à própria linguagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "intertextualidade, na qual o texto retoma e reelabora outros textos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ironia, que consiste em se dizer o contrário do que se pensa, com intenção crítica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "denotação, caracterizada pelo uso das palavras em seu sentido próprio e objetivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "prosopopéia, que consiste em personificar coisas inanimadas, atribuindo-lhes vida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

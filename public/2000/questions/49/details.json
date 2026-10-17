@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2000",
+    "index": 49,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [
+        "https://enem.dev/2000/questions/49/230d2897-1ace-4934-baf5-7dce4d0a174b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Determinada Estação trata cerca de 30.000 litros de água por segundo. Para\nevitar riscos de fluorose, a concentração máxima de fluoretos nessa água não\ndeve exceder a cerca de 1,5 miligrama por litro de água.\nA quantidade máxima dessa espécie química que pode ser utilizada com\nsegurança, no volume de água tratada em uma hora, nessa Estação, é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,5 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,5 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "96 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "124 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/49/230d2897-1ace-4934-baf5-7dce4d0a174b.png",
+            "isCorrect": true
+        }
+    ]
+}

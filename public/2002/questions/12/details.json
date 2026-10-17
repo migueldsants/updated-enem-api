@@ -1,0 +1,46 @@
+{
+    "title": "Questão 12 - ENEM 2002",
+    "index": 12,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Os seres humanos podem tolerar apenas certos intervalos de temperatura e umidade relativa (UR), e, nessas condições,\noutras variáveis, como os efeitos do sol e do vento, são necessárias para produzir condições confortáveis, nas quais as\npessoas podem viver e trabalhar. O gráfico mostra esses intervalos:\n\n![](https://enem.dev/2002/questions/12/1c5d0884-695e-44d6-9e10-f4006f7df2bc.png)\n\nA tabela mostra temperaturas e umidades relativas do ar de duas cidades, registradas em três meses do ano.\n\n![](https://enem.dev/2002/questions/12/24299b6f-9293-4bfd-9eb0-d16e124ec456.png)",
+    "files": [
+        "https://enem.dev/2002/questions/12/1c5d0884-695e-44d6-9e10-f4006f7df2bc.png",
+        "https://enem.dev/2002/questions/12/24299b6f-9293-4bfd-9eb0-d16e124ec456.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, pode-se afirmar que condições ideais são observadas em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Curitiba com vento em março, e Campo Grande, em outubro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Campo Grande com vento em março, e Curitiba com sol em maio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Curitiba, em outubro, e Campo Grande com sol em março.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Campo Grande com vento em março, Curitiba com sol em outubro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Curitiba, em maio, e Campo Grande, em outubro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

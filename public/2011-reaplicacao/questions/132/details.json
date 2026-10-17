@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2011 - Reaplicação",
+    "index": 132,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/132/0a5bb7af-efcb-4fb2-beab-36b232a29738.png)\n\nBAGNO, M. Não é errado falar assim!: em defesa do português brasileiro.\nSão Paulo: Parábola, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/132/0a5bb7af-efcb-4fb2-beab-36b232a29738.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A situação social em que o falante está inserido é\ndeterminante para o uso da língua. Dessa forma,\ncabe ao usuário adequar-se a cada contexto, a\nseus condicionantes: formalidade/informalidade,\nintimidade/hierarquias etc. Considerando-se a\nsituação comunicativa, há, na charge,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "displicência de ambos os falantes, já que desconsideram a situação em que estão inseridos e usam um registro inadequado ao contexto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dualidade de registros entre os dois falantes, já que ambos usam regras distintas quanto à concordância.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "inobservância do personagem vestido de preto quanto à informalidade da situação e o consequente uso de um registro bastante formal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "inadequação, do ponto de vista da norma padrão, do registro de um e de outro falante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "consenso entre os registros dos dois falantes no tocante à norma padrão, já que ambos usam as mesmas regras de regência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

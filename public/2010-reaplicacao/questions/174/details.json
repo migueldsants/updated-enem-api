@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2010 - Reaplicação",
+    "index": 174,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para dificultar o trabalho de falsificadores, foi lançada\numa nova família de cédulas do real. Com tamanho\nvariável – quanto maior o valor, maior a nota – o dinheiro\nnovo terá vários elementos de segurança. A estreia será\nentre abril e maio, quando começam a circular as notas\nde R$ 50,00 e R$ 100,00.\nAs cédulas atuais têm 14 cm de comprimento e 6,5 cm de\nlargura. A maior cédula será a de R$ 100,00, com 1,6 cm\na mais no comprimento e 0,5 cm maior na largura.\n\nDisponível em: http://br.noticias.yahoo.com. Acesso em: 20 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quais serão as dimensões da nova nota de R$ 100,00?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15,6 cm de comprimento e 6 cm de largura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15,6 cm de comprimento e 6,5 cm de largura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15,6 cm de comprimento e 7 cm de largura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15,9 cm de comprimento e 6,5 cm de largura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "15,9 cm de comprimento e 7 cm de largura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

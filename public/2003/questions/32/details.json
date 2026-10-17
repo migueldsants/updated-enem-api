@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2003",
+    "index": 32,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando os custos e a importância da preservação dos recursos hídricos, uma indústria decidiu purificar parte\nda água que consome para reutilizá-la no processo industrial.\nDe uma perspectiva econômica e ambiental, a iniciativa é importante porque esse processo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "permite que toda água seja devolvida limpa aos mananciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diminui a quantidade de água adquirida e comprometida pelo uso industrial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "reduz o prejuízo ambiental, aumentando o consumo de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "torna menor a evaporação da água e mantém o ciclo hidrológico inalterado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recupera o rio onde são lançadas as águas utilizadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

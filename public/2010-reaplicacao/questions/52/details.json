@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2010 - Reaplicação",
+    "index": 52,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A tabela apresenta dados comparados de respostas de brasileiros, norte-americanos e europeus a perguntas\n\nrelacionadas à compreensão de fatos científicos pelo público leigo. Após cada afirmativa, entre parênteses, aparece\n\nse a afirmativa é Falsa ou Verdadeira. Nas três colunas da direita aparecem os respectivos percentuais de acertos dos\n\ntrês grupos sobre essas afirmativas.\n\n% respostas certas\n\nPesquisa\nBrasileiros Norte-americanos Europeus\n\nOs antibióticos matam tanto vírus quanto\n41,8 51,0 39,7\nbactérias. (Falsa)\n\nOs continentes têm mudado sua posição no\n78,1 79,0 81,8\ndecorrer dos milênios. (Verdadeira)\n\nO Homo sapiens originou-se a partir de uma\n56,4 53,0 68,6\nespécie animal anterior. (Verdadeira)\n\nOs elétrons são menores que os átomos.\n53,6 48,0 41,3\n(Verdadeira)\n\nOs primeiros homens viveram no mesmo\n61,2 48,0 59,4\nperíodo que os dinossauros. (Falsa)\n\nPercepção pública de ciência: uma revisão metodológica e resultados para São Paulo.\nIndicadores de ciência, tecnologia e inovação em São Paulo. São Paulo: Fapesp, 2004 (adaptado).\n\nDe acordo com os dados apresentados na tabela, os norte-americanos, em relação aos europeus e aos brasileiros,",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "demonstram melhor compreender o fato científico sobre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a ação dos antibióticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a origem do ser humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os períodos da pré-história.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o deslocamento dos continentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o tamanho das partículas atômicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

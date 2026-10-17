@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2003",
+    "index": 20,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "O botulismo, intoxicação alimentar que pode levar à morte, é causado por toxinas produzidas por certas bactérias,\ncuja reprodução ocorre nas seguintes condições: é inibida por pH inferior a 4,5 (meio ácido), temperaturas próximas\na 100⁰C, concentrações de sal superiores a 10% e presença de nitritos e nitratos como aditivos.\n\nA ocorrência de casos recentes de botulismo em consumidores de palmito em conserva levou a Agência Nacional de\nVigilância Sanitária (ANVISA) a implementar normas para a fabricação e comercialização do produto.\nNo rótulo de uma determinada marca de palmito em conserva, encontram-se as seguintes informações:\n\nI. Ingredientes: Palmito açaí, sal diluído a 12% em água, ácido cítrico;\nII. Produto fabricado conforme as normas da ANVISA;\nIII. Ecologicamente correto.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As informações do rótulo que têm relação com as medidas contra o botulismo estão contidas em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

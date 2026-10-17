@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2010 - Reaplicação",
+    "index": 41,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A gente não sabemos escolher presidente\nA gente não sabemos tomar conta da gente\nA gente não sabemos nem escovar os dentes\nTem gringo pensando que nóis é indigente\nInútil\nA gente somos inútil\n\nMOREIRA, R. Inútil. 1983 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O fragmento integra a letra de uma canção gravada em\nmomento de intensa mobilização política. A canção foi\ncensurada por estar associada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ao rock nacional, que sofreu limitações desde o início da ditadura militar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a uma crítica ao regime ditatorial que, mesmo em sua fase final, impedia a escolha popular do presidente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "à falta de conteúdo relevante, pois o Estado buscava, naquele contexto, a conscientização da sociedade por meio da música.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "à dominação cultural dos Estados Unidos da América sobre a sociedade brasileira, que o regime militar pretendia esconder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à alusão à baixa escolaridade e à falta de consciência política do povo brasileiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

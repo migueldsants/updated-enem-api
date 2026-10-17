@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2002",
+    "index": 30,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Só falta o Senado aprovar o projeto de lei [sobre o uso de termos estrangeiros no Brasil] para que palavras como shopping\ncenter , delivery e drive-through sejam proibidas em nomes de estabelecimentos e marcas. Engajado nessa valorosa luta\ncontra o inimigo ianque, que quer fazer área de livre comércio com nosso inculto e belo idioma, venho sugerir algumas outras\nmedidas que serão de extrema importância para a preservação da soberania nacional, a saber:\n\n........\n! Nenhum cidadão carioca ou gaúcho poderá dizer “Tu vai” em espaços públicos do território nacional;\n! Nenhum cidadão paulista poderá dizer “Eu lhe amo” e retirar ou acrescentar o plural em sentenças como “Me vê um chopps\ne dois pastel”;\n..........\n! Nenhum dono de borracharia poderá escrever cartaz com a palavra “borraxaria” e nenhum dono de banca de jornal\nanunciará “Vende-se cigarros”;\n..........\n! Nenhum livro de gramática obrigará os alunos a utilizar colocações pronominais como “casar-me-ei” ou “ver-se-ão”.\n\nPIZA, Daniel. Uma proposta imodesta. O Estado de S. Paulo, São Paulo, 8/04/2001.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto acima, o autor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mostra-se favorável ao teor da proposta por entender que a língua portuguesa deve ser protegida contra deturpações de uso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ironiza o projeto de lei ao sugerir medidas que inibam determinados usos regionais e socioculturais da língua.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "denuncia o desconhecimento de regras elementares de concordância verbal e nominal pelo falante brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "revela-se preconceituoso em relação a certos registros lingüísticos ao propor medidas que os controlem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "defende o ensino rigoroso da gramática para que todos aprendam a empregar corretamente os pronomes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2010 - Reaplicação",
+    "index": 112,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo o físico da USP, Cláudio Furukawa, é possível\nser um cidadão ecossustentável adotando atos simples.\nÉ um argumento utilizado pelo físico, para sustentar\na ideia de que podemos contribuir para melhorar a\nqualidade de vida no planeta,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "tampar a panela para a comida não esfriar, seguindo os conselhos da mãe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reduzir a quantidade de calorias, fervendo a água em recipientes tampados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "analisar o calor do GLP, enquanto a água estiver em processo de ebulição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aquecer líquidos utilizando os botijões de 13 quilos, pois consomem menos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminuir a chama do fogão, para aquecer quantidades maiores de líquido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

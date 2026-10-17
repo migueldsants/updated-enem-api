@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2010 - Reaplicação",
+    "index": 22,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A hibridez descreve a cultura de pessoas que mantêm\nsuas conexões com a terra de seus antepassados,\nrelacionando-se com a cultura do local que habitam.\nEles não anseiam retornar à sua “pátria” ou recuperar\nqualquer identidade étnica “pura” ou absoluta; ainda\nassim, preservam traços de outras culturas, tradições e\nhistórias e resistem à assimilação.\n\nCASHMORE, E. Dicionário de relações étnicas e raciais. São Paulo: Selo Negro, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Contrapondo o fenômeno da hibridez à ideia de “pureza”\ncultural, observa-se que ele se manifesta quando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criações originais deixam de existir entre os grupos de artistas, que passam a copiar as essências das obras uns dos outros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "civilizações se fecham a ponto de retomarem os seus próprios modelos culturais do passado, antes abandonados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "populações demonstram menosprezo por seu patrimônio artístico, apropriando-se de produtos culturais estrangeiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elementos culturais autênticos são descaracterizados e reintroduzidos com valores mais altos em seus lugares de origem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "intercâmbios entre diferentes povos e campos de produção cultural passam a gerar novos produtos e",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

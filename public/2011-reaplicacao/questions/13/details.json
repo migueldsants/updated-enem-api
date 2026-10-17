@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2011 - Reaplicação",
+    "index": 13,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A memória não é um simples lembrar ou recordar,\nmas revela uma das formas fundamentais de nossa\nexistência, que é a relação com o tempo, e, no tempo,\ncom aquilo que está invisível, ausente e distante, isto\né, o passado. A memória é o que confere sentido ao\npassado como diferente do presente (mas fazendo ou\npodendo fazer parte dele) e do futuro (mas podendo\npermitir esperá-lo e compreendê-lo).\n\nCHAUÍ, M. Convite à Filosofia. São Paulo: Ática, 1995 (fragmento).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no texto, qual é o significado da memória?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "É a prospecção e retenção de lembranças e",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "recordações. É a perda de nossa relação com o presente,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "preservando o passado. É a capacidade mais alargada para lembrar e",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "recordar fatos passados. É o esforço de apagar o passado e inaugurar o",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "presente. É o potencial de evocar o passado apontando para o futuro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

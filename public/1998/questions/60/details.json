@@ -1,0 +1,45 @@
+{
+    "title": "Questão 60 - ENEM 1998",
+    "index": 60,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma prova de 100 m rasos, o desempenho típico de um corredor padrão é representado pelo\ngráfico a seguir:\n\n![](https://enem.dev/1998/questions/60/b8cdd4bb-c92a-4855-b76c-76df15775180.png)\n\nVelocidade (m/s)⁴\n\nTempo (s)",
+    "files": [
+        "https://enem.dev/1998/questions/60/b8cdd4bb-c92a-4855-b76c-76df15775180.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em que intervalo de tempo o corredor apresenta aceleração máxima?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Entre 0 e 1 segundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Entre 1 e 5 segundos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre 5 e 8 segundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entre 8 e 11 segundos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Entre 9 e 15 segundos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

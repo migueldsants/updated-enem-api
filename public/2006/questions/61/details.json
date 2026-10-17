@@ -1,0 +1,47 @@
+{
+    "title": "Questão 61 - ENEM 2006",
+    "index": 61,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Na preparação da madeira\nem uma indústria de móveis, utiliza-\nse uma lixadeira constituída de\nquatro grupos de polias, como\nilustra o esquema ao lado. Em cada\ngrupo, duas polias de tamanhos\ndiferentes são interligadas por uma\n\n![](https://enem.dev/2006/questions/61/b21792a5-c5af-439e-b9f3-b46811183040.png)\n\n![](https://enem.dev/2006/questions/61/765cd6d1-2073-4138-94f8-5f82b392ac6f.png)\n\n![](https://enem.dev/2006/questions/61/56ea9f62-9ed9-419b-909f-36904b1746ee.png)",
+    "files": [
+        "https://enem.dev/2006/questions/61/b21792a5-c5af-439e-b9f3-b46811183040.png",
+        "https://enem.dev/2006/questions/61/765cd6d1-2073-4138-94f8-5f82b392ac6f.png",
+        "https://enem.dev/2006/questions/61/56ea9f62-9ed9-419b-909f-36904b1746ee.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 2 no sentido horário; 3 e 4 no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 e 3 no sentido horário; 2 e 4 no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 e 2 no sentido anti-horário; 3 e 4 no sentido horário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 e 4 no sentido horário; 2 e 3 no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1, 2, 3 e 4 no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

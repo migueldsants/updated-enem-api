@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2001",
+    "index": 28,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Um produtor de larvas aquáticas para alimentação de peixes ornamentais usou veneno para\ncombater parasitas, mas suspendeu o uso do produto quando os custos se revelaram\nantieconômicos.\nO gráfico registra a evolução das populações de larvas e parasitas.\n\n![](https://enem.dev/2001/questions/28/54750185-5d54-4058-814d-406965d95343.png)",
+    "files": [
+        "https://enem.dev/2001/questions/28/54750185-5d54-4058-814d-406965d95343.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O aspecto biológico, ressaltado a partir da leitura do gráfico, que pode ser considerado o\nmelhor argumento para que o produtor não retome o uso do veneno é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A densidade populacional das larvas e dos parasitas não é afetada pelo uso do veneno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A população de larvas não consegue se estabilizar durante o uso do veneno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As populações mudam o tipo de interação estabelecida ao longo do tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As populações associadas mantêm um comportamento estável durante todo o período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os efeitos das interações negativas diminuem ao longo do tempo, estabilizando as populações.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

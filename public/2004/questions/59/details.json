@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2004",
+    "index": 59,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2004/questions/59/6641eb99-001c-4131-b185-8e6415280575.png)",
+    "files": [
+        "https://enem.dev/2004/questions/59/6641eb99-001c-4131-b185-8e6415280575.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A tira “Hagar” e o poema de Alberto Caeiro (um dos heterônimos de Fernando Pessoa) expressam, com linguagens diferentes,\numa mesma idéia: a de que a compreensão que temos do mundo é condicionada, essencialmente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pelo alcance de cada cultura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "pela capacidade visual do observador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pelo senso de humor de cada um.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pela idade do observador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pela altura do ponto de observação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

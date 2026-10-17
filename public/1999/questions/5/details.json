@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 1999",
+    "index": 5,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Na teoria do Big Bang, o Universo surgiu há cerca de 15 bilhões de anos, a partir da explosão e expansão de uma densíssima",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "gota. De acordo com a escala proposta no texto, essa teoria situaria o início do Universo há cerca de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "150 anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1 000 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 500 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 000 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

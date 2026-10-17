@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2004",
+    "index": 1,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "As Olimpíadas são uma oportunidade para o\ncongraçamento de um grande número de\npaíses, sem discriminação política ou racial,\nainda que seus resultados possam refletir\ncaracterísticas culturais, socioeconômicas e\n\n![](https://enem.dev/2004/questions/1/5c972b69-cc71-430f-bc71-446e887e58f7.png)",
+    "files": [
+        "https://enem.dev/2004/questions/1/5c972b69-cc71-430f-bc71-446e887e58f7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "étnicas. Em 2000, nos Jogos Olímpicos de\nSydney, o total de 300 medalhas de ouro\nconquistadas apresentou a seguinte distri-\nbuição entre os 196 países participantes\ncomo mostra o gráfico.\nEsses resultados mostram que, na distribuição\ndas medalhas de ouro em 2000,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cada país participante conquistou pelo menos uma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cerca de um terço foi conquistado por apenas três países.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "os cinco países mais populosos obtiveram os melhores resultados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os cinco países mais desenvolvidos obtiveram os melhores resultados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cerca de um quarto foi conquistado pelos Estados Unidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

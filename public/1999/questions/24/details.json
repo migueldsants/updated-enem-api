@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 1999",
+    "index": 24,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "José e Antônio viajarão em seus carros com as respectivas\nfamílias para a cidade de Serra Branca. Com a intenção de seguir\nviagem juntos, combinam um encontro no marco inicial da\nrodovia, onde chegarão, de modo independente, entre meio-dia e\n1 hora da tarde. Entretanto, como não querem ficar muito tempo\nesperando um pelo outro, combinam que o primeiro que chegar\nao marco inicial esperará pelo outro, no máximo, meia hora; após\nesse tempo, seguirá viagem sozinho.\n\nChamando de x o horário de chegada de José e de y o horário de\nchegada de Antônio, e representando os pares (x;y) em um\nsistema de eixos cartesianos, a região OPQR ao lado indicada\ncorresponde ao conjunto de todas as possibilidades para o par\n(x;y):\n\nNa região indicada, o conjunto de pontos que representa o evento “José e Antônio chegam ao marco inicial exatamente no",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "mesmo horário” corresponde",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à diagonal OQ.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "à diagonal PR.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao lado PQ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ao lado QR.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ao lado OR.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

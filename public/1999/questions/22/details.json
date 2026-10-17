@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 1999",
+    "index": 22,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Em material para análise de determinado marketing político, lê-se a seguinte conclusão:\n\nA explosão demográfica que ocorreu a partir dos anos 50, especialmente no Terceiro Mundo, suscitou teorias ou políticas\ndemográficas divergentes. Uma primeira teoria, dos neomalthusianos, defende que o crescimento demográfico dificulta o\ndesenvolvimento econômico, já que provoca uma diminuição na renda nacional per capita e desvia os investimentos do\nEstado para setores menos produtivos. Diante disso, o país deveria desenvolver uma rígida política de controle de natalidade.\nUma segunda, a teoria reformista, argumenta que o problema não está na renda per capita e sim na distribuição irregular da\nrenda, que não permite o acesso à educação e saúde. Diante disso o país deve promover a igualdade econômica e a justiça\nsocial.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual dos slogans abaixo poderia ser utilizado para defender o ponto de vista neomalthusiano?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Controle populacional – nosso passaporte para o desenvolvimento.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“Sem reformas sociais o país se reproduz e não produz.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“População abundante, país forte!”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“O crescimento gera fraternidade e riqueza para todos.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Justiça social, sinônimo de desenvolvimento.”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

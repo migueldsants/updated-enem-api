@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2007",
+    "index": 47,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Quanto mais desenvolvida é uma nação, mais lixo\ncada um de seus habitantes produz. Além de o progresso\nelevar o volume de lixo, ele também modifica a qualidade\ndo material despejado. Quando a sociedade progride, ela\ntroca a televisão, o computador, compra mais brinquedos e\naparelhos eletrônicos. Calcula-se que 700 milhões de\naparelhos celulares já foram jogados fora em todo o\nmundo. O novo lixo contém mais mercúrio, chumbo,\nalumínio e bário. Abandonado nos lixões, esse material se\ndeteriora e vaza. As substâncias liberadas infiltram-se no\nsolo e podem chegar aos lençóis freáticos ou a rios\npróximos, espalhando-se pela água.\n\nAnuário Gestão Ambiental 2007, p. 47-8 (com adaptações).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A respeito da produção de lixo e de sua relação com o\nambiente, é correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as substâncias químicas encontradas no lixo levam, freqüentemente, ao aumento da diversidade de espécies e, portanto, ao aumento da produtividade agrícola do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tipo e a quantidade de lixo produzido pela sociedade independem de políticas de educação que proponham mudanças no padrão de consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a produção de lixo é inversamente proporcional ao nível de desenvolvimento econômico das sociedades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o desenvolvimento sustentável requer controle e monitoramento dos efeitos do lixo sobre espécies existentes em cursos d’água, solo e vegetação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o desenvolvimento tecnológico tem elevado a criação de produtos descartáveis, o que evita a geração de lixo e resíduos químicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

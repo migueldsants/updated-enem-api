@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2002",
+    "index": 38,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A capa de uma revista de grande circulação trazia a seguinte informação, relativa a uma reportagem daquela edição:\n“O brasileiro diz que é feliz na cama, mas debaixo dos lençóis 47% não sentem vontade de fazer sexo”.\nO texto abaixo, no entanto, adaptado da mesma reportagem, mostra que o dado acima está errado:\n“Outro problema predominantemente feminino é a falta de desejo − 35% das mulheres não sentem nenhuma vontade de ter\nrelações. Já entre os homens, apenas 12% se queixam de falta de desejo”.\nConsiderando que o número de homens na população seja igual ao de mulheres, a porcentagem aproximada de brasileiros\nque não sentem vontade de fazer sexo, de acordo com a reportagem, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "29%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

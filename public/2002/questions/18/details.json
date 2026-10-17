@@ -1,0 +1,46 @@
+{
+    "title": "Questão 18 - ENEM 2002",
+    "index": 18,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Os níveis de irradiância ultravioleta efetiva (IUV) indicam o risco de exposição ao Sol para pessoas de pele do tipo II – pele de\npigmentação clara. O tempo de exposição segura (TES) corresponde ao tempo de exposição aos raios solares sem que\nocorram queimaduras de pele. A tabela mostra a correlação entre riscos de exposição, IUV e TES.\n\n![](https://enem.dev/2002/questions/18/ed1b0bac-2bbd-40cb-b47b-ea2df543812f.png)\n\nUma das maneiras de se proteger contra queimaduras provocadas pela radiação ultravioleta é o uso dos cremes protetores\nsolares, cujo Fator de Proteção Solar (FPS) é calculado da seguinte maneira:\n\n![](https://enem.dev/2002/questions/18/9ad2a4c1-c748-4c91-a810-410591c08d5a.png)",
+    "files": [
+        "https://enem.dev/2002/questions/18/ed1b0bac-2bbd-40cb-b47b-ea2df543812f.png",
+        "https://enem.dev/2002/questions/18/9ad2a4c1-c748-4c91-a810-410591c08d5a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "TPP = tempo de exposição mínima para produção de vermelhidão na pele protegida (em minutos).\nTPD = tempo de exposição mínima para produção de vermelhidão na pele desprotegida (em minutos).\nO FPS mínimo que uma pessoa de pele tipo II necessita para evitar queimaduras ao se expor ao Sol, considerando TPP o\nintervalo das 12:00 às 14:00 h, num dia em que a irradiância efetiva é maior que 8, de acordo com os dados fornecidos, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

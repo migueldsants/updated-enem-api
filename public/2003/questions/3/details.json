@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2003",
+    "index": 3,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A eficiência de anúncios num painel eletrônico localizado em uma certa avenida movimentada foi avaliada por uma\nempresa. Os resultados mostraram que, em média:\n\n– passam, por dia, 30000 motoristas em frente ao painel eletrônico;\n– 40% dos motoristas que passam observam o painel;\n– um mesmo motorista passa três vezes por semana pelo local.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo os dados acima, se um anúncio de um produto ficar exposto durante sete dias nesse painel, é esperado que\no número mínimo de motoristas diferentes que terão observado o painel seja:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "28000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "42000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "71000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "84000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

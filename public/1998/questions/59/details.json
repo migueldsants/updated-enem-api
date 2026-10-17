@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 1998",
+    "index": 59,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma prova de 100 m rasos, o desempenho típico de um corredor padrão é representado pelo\ngráfico a seguir:\n\n![](https://enem.dev/1998/questions/59/28fa15cc-25be-4963-9a29-8aba93995e06.png)\n\nVelocidade (m/s)⁴\n\nTempo (s)",
+    "files": [
+        "https://enem.dev/1998/questions/59/28fa15cc-25be-4963-9a29-8aba93995e06.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Baseado no gráfico, em que intervalo de tempo a velocidade do corredor é aproximadamente constante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Entre 0 e 1 segundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Entre 1 e 5 segundos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre 5 e 8 segundos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Entre 8 e 11 segundos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Entre 12 e 15 segundos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

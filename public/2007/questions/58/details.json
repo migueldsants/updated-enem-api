@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2007",
+    "index": 58,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "As pressões ambientais pela redução na emissão\nde gás estufa, somadas ao anseio pela diminuição da\ndependência do petróleo, fizeram os olhos do mundo se\nvoltarem para os combustíveis renováveis, principalmente\npara o etanol. Líderes na produção e no consumo de\netanol, Brasil e Estados Unidos da América (EUA)\nproduziram, juntos, cerca de 35 bilhões de litros do produto\nem 2006. Os EUA utilizam o milho como matéria-prima\npara a produção desse álcool, ao passo que o Brasil utiliza\na cana-de-açúcar. O quadro abaixo apresenta alguns\níndices relativos ao processo de obtenção de álcool nesses\n\n![](https://enem.dev/2007/questions/58/caa167c3-0297-40be-b8e5-fe701b760a2b.png)",
+    "files": [
+        "https://enem.dev/2007/questions/58/caa167c3-0297-40be-b8e5-fe701b760a2b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se comparado com o uso do milho como matéria-prima na\nobtenção do etanol, o uso da cana-de-açúcar é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mais eficiente, pois a produtividade do canavial é maior que a do milharal, superando-a em mais do dobro de litros de álcool produzido por hectare.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "mais eficiente, pois gasta-se menos energia fóssil para se produzir 1 litro de álcool a partir do milho do que para produzi-lo a partir da cana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "igualmente eficiente, pois, nas duas situações, as diferenças entre o preço de venda do litro do álcool e o custo de sua produção se equiparam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "menos eficiente, pois o balanço energético para se produzir o etanol a partir da cana é menor que o balanço energético para produzi-lo a partir do milho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "menos eficiente, pois o custo de produção do litro de álcool a partir da cana é menor que o custo de produção a partir do milho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

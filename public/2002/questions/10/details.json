@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2002",
+    "index": 10,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Nativas do Brasil, as várias espécies das plantas conhecidas como fava-d’anta têm lugar garantido no mercado mundial de produtos\ncosméticos e farmacêuticos. Elas praticamente não têm concorrentes, pois apenas uma outra planta chinesa produz os elementos\ncobiçados pela indústria mundial. As plantas acham-se dispersas no cerrado e a sua exploração é feita pela coleta manual das favas\nou, ainda, com instrumentos rústicos (garfos e forquilhas) que retiram os frutos das pontas dos galhos. Alguns catadores quebram\ngalhos ou arbustos para facilitar a coleta. Depois da coleta, as vagens são vendidas aos atacadistas locais que as revendem a\natacadistas regionais, estes sim, os revendedores de fava para as indústrias. Depois de processados, os produtos são exportados.\nEmbora os moradores da região tenham um vasto conhecimento sobre hábitos e usos da fauna e flora locais, pouco ou nada sabem\nsobre a produção de mudas de espécies nativas e, ainda, sobre o destino e o aproveitamento da matéria-prima extraída da fava\nd’anta.\n\nAdaptado de: Extrativismo e biodiversidade: o caso da fava-d’anta. Ciência Hoje, junho, 2000.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ainda que a extração das vagens não seja prejudicial às árvores, a estratégia usada na sua coleta, aliada à eventual pressão de\nmercado, são fatores que podem prejudicar a renovação natural da fava d’anta. Uma proposta viável para que estas plantas nativas\nnão corram nenhum risco de extinção é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "introduzir a coleta mecanizada das favas, reduzindo tanto as perdas durante a coleta quanto os eventuais danos às plantas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "conservar o solo e aumentar a produtividade dessas plantas por meio de irrigação e reposição de sais minerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "domesticar a espécie, introduzindo viveiros que possam abastecer a região de novas mudas, caso isto se torne necessário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "proibir a coleta das favas, aplicando pesadas multas aos infratores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diversificar as atividades econômicas na região do cerrado para aumentar as fontes de renda dos trabalhadores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

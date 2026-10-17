@@ -1,0 +1,46 @@
+{
+    "title": "Questão 62 - ENEM 2006",
+    "index": 62,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2006/questions/62/1efbad77-3249-4c51-843e-73ccb6828f28.png)",
+    "files": [
+        "https://enem.dev/2006/questions/62/1efbad77-3249-4c51-843e-73ccb6828f28.png",
+        "https://enem.dev/2006/questions/62/fb0469b5-1dfb-4d89-9f25-421a1b0e4360.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na figura acima, que representa o projeto de uma\nescada com 5 degraus de mesma altura,\no comprimento total do corrimão é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,8 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,9 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,1 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/62/fb0469b5-1dfb-4d89-9f25-421a1b0e4360.png",
+            "isCorrect": false
+        }
+    ]
+}

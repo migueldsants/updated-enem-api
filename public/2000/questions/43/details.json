@@ -1,0 +1,50 @@
+{
+    "title": "Questão 43 - ENEM 2000",
+    "index": 43,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Uma empresa de transporte armazena seu combustível em um reservatório\ncilíndrico enterrado horizontalmente. Seu conteúdo é medido com uma vara\ngraduada em vinte intervalos, de modo que a distância entre duas graduações\nconsecutivas representa sempre o mesmo volume.\n\n![](https://enem.dev/2000/questions/43/f589918d-763d-4da9-97ce-476bdd05a82c.png)",
+    "files": [
+        "https://enem.dev/2000/questions/43/f589918d-763d-4da9-97ce-476bdd05a82c.png",
+        "https://enem.dev/2000/questions/43/57a04c6c-0f2e-4837-ab82-dddfa7f1e59e.png",
+        "https://enem.dev/2000/questions/43/4fefe44e-e634-4adc-a900-9fdf30fa992a.png",
+        "https://enem.dev/2000/questions/43/e82e4b82-d4be-47fe-8111-27bdf59138b4.png",
+        "https://enem.dev/2000/questions/43/c461725a-1f30-4334-be7e-9519e970c68d.png",
+        "https://enem.dev/2000/questions/43/8aec2a08-1088-40c9-ba3f-0b39ed19867f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A ilustração que melhor representa a distribuição das graduações na vara é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/43/57a04c6c-0f2e-4837-ab82-dddfa7f1e59e.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/43/4fefe44e-e634-4adc-a900-9fdf30fa992a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/43/e82e4b82-d4be-47fe-8111-27bdf59138b4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/43/c461725a-1f30-4334-be7e-9519e970c68d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/43/8aec2a08-1088-40c9-ba3f-0b39ed19867f.png",
+            "isCorrect": false
+        }
+    ]
+}

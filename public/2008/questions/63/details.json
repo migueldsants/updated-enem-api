@@ -1,0 +1,46 @@
+{
+    "title": "Questão 63 - ENEM 2008",
+    "index": 63,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Suponha que o universo tenha 15 bilhões de anos\nde idade e que toda a sua história seja distribuída ao longo\nde 1 ano — o calendário cósmico —, de modo que cada\nsegundo corresponda a 475 anos reais e, assim, 24 dias\ndo calendário cósmico equivaleriam a cerca de 1 bilhão de\nanos reais. Suponha, ainda, que o universo comece em\n1.º de janeiro a zero hora no calendário cósmico e o tempo\npresente esteja em 31 de dezembro às 23 h 59 min 59,99 s.\nA escala abaixo traz o período em que ocorreram alguns\neventos importantes nesse calendário.\n\n![](https://enem.dev/2008/questions/63/0ab7f5b1-d74c-45b1-9222-86477d9e31a8.png)\n\nnovembrodezembro\n\nSe a arte rupestre\nrepresentada ao lado fosse\ninserida na escala, de\nacordo com o período em\n\n![](https://enem.dev/2008/questions/63/04856579-98ec-4d30-a15d-603c62236843.png)",
+    "files": [
+        "https://enem.dev/2008/questions/63/0ab7f5b1-d74c-45b1-9222-86477d9e31a8.png",
+        "https://enem.dev/2008/questions/63/04856579-98ec-4d30-a15d-603c62236843.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "que foi produzida, ela\ndeveria ser colocada na\nposição indicada pela seta\nde número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

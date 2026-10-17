@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 1999",
+    "index": 38,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Uma estação distribuidora de energia elétrica foi atingida por um raio. Este fato provocou escuridão em uma extensa área.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo estatísticas, ocorre em média a cada 10 anos um fato desse tipo. Com base nessa informação, pode-se afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a estação está em funcionamento há no máximo 10 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "daqui a 10 anos deverá cair outro raio na mesma estação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "se a estação já existe há mais de 10 anos, brevemente deverá cair outro raio na mesma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a probabilidade de ocorrência de um raio na estação independe do seu tempo de existência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "é impossível a estação existir há mais de 30 anos sem que um raio já a tenha atingido anteriormente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2011 - Reaplicação",
+    "index": 61,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O manual de instruções de um computador apresenta\nas seguintes recomendações para evitar que o cabo de\nalimentação de energia elétrica se rompa:\n\n• Ao utilizar a fonte de alimentação, acomode\nadequadamente o cabo que vai conectado à tomada,\nevitando dobrá-lo.\n• Ao conectar ou desconectar o computador da\ntomada elétrica, segure o cabo de alimentação pelo\nplugue e não pelo fio.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Caso o usuário não siga essas recomendações e ocorra\no dano previsto, a consequência para o funcionamento\ndo computador será a de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os seus componentes serão danificados por uma descarga elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a velocidade de processamento de dados diminuirá sensivelmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a sua fiação interna passará a sofrer um aquecimento excessivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o monitor utilizado passará a apresentar um brilho muito fraco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os seus circuitos elétricos ficarão sem circulação de corrente.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

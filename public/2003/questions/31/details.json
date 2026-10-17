@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2003",
+    "index": 31,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "“Águas de março definem se falta luz este ano”.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse foi o título de uma reportagem em jornal de circulação nacional, pouco antes do início do racionamento do\nconsumo de energia elétrica, em 2001.\nNo Brasil, a relação entre a produção de eletricidade e a utilização de recursos hídricos, estabelecida nessa\nmanchete, se justifica porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a geração de eletricidade nas usinas hidrelétricas exige a manutenção de um dado fluxo de água nas barragens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o sistema de tratamento da água e sua distribuição consomem grande quantidade de energia elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a geração de eletricidade nas usinas termelétricas utiliza grande volume de água para refrigeração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o consumo de água e de energia elétrica utilizadas na indústria compete com o da agricultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "é grande o uso de chuveiros elétricos, cuja operação implica abundante consumo de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

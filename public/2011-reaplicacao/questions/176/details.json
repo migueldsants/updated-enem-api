@@ -1,0 +1,46 @@
+{
+    "title": "Questão 176 - ENEM 2011 - Reaplicação",
+    "index": 176,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/176/a9786363-4fba-4530-8e54-8e60c2553ebe.png)\n\ncilindro\n\n![](https://enem.dev/2011-reaplicacao/questions/176/fee402bd-25d4-4832-b91f-507c81f051f5.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/176/a9786363-4fba-4530-8e54-8e60c2553ebe.png",
+        "https://enem.dev/2011-reaplicacao/questions/176/fee402bd-25d4-4832-b91f-507c81f051f5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "600 unidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "800 unidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 400 unidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 200 unidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9 600 unidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

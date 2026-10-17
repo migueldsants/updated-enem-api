@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 1998",
+    "index": 26,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Foram feitas comparações entre DNA e proteínas da espécie humana com DNA e proteínas de diversos\nprimatas. Observando a árvore filogenética, você espera que os dados bioquímicos tenham apontado,\nentre os primatas atuais, como nosso parente mais próximo o:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Australopithecus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Chimpanzé.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ramapithecus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Gorila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Orangotango.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

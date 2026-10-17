@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2001",
+    "index": 29,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Num determinado bairro há duas empresas de ônibus, ANDABEM e BOMPASSEIO, que fazem\no trajeto levando e trazendo passageiros do subúrbio ao centro da cidade. Um ônibus de\ncada uma dessas empresas parte do terminal a cada 30 minutos, nos horários indicados na\ntabela.\n\n![](https://enem.dev/2001/questions/29/227bedba-0def-4f29-b6d4-706c14de607f.png)",
+    "files": [
+        "https://enem.dev/2001/questions/29/227bedba-0def-4f29-b6d4-706c14de607f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Carlos mora próximo ao terminal de ônibus e trabalha na cidade. Como não tem hora certa\npara chegar ao trabalho e nem preferência por qualquer das empresas, toma sempre o\nprimeiro ônibus que sai do terminal. Nessa situação, pode-se afirmar que a probabilidade\nde Carlos viajar num ônibus da empresa ANDABEM é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um quarto da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "um terço da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "metade da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "duas vezes maior do que a probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "três vezes maior do que a probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

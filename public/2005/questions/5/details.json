@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2005",
+    "index": 5,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Um professor apresentou os mapas ao lado numa aula sobre as\nimplicações da formação das fronteiras no continente africano.\n\nCom base na aula e na observação dos mapas, os alunos\nfizeram três afirmativas:\n\nI - A brutal diferença entre as fronteiras políticas e as fronteiras\n\nétnicas no continente africano aponta para a artificialidade\nem uma divisão com objetivo de atender apenas aos\n\n![](https://enem.dev/2005/questions/5/877a8f12-888e-4add-8c51-bcef7e297b0e.png)\n\ninteresses da maior potência capitalista na época da\ndescolonização.\nII - As fronteiras políticas jogaram a África em uma situação de\n\nconstante tensão ao desprezar a diversidade étnica e\ncultural, acirrando conflitos entre tribos rivais.\nIII - As fronteiras artificiais criadas no contexto do colonialismo,\n\napós os processos de independência, fizeram da África um\ncontinente marcado por guerras civis, golpes de estado e\nconflitos étnicos e religiosos.\n\n(Atualidades/Vestibular 2005, 1º sem., ed. Abril, p. 68)",
+    "files": [
+        "https://enem.dev/2005/questions/5/877a8f12-888e-4add-8c51-bcef7e297b0e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É verdadeiro apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

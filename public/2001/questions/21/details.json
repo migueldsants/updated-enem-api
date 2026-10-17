@@ -1,0 +1,47 @@
+{
+    "title": "Questão 21 - ENEM 2001",
+    "index": 21,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Pelas normas vigentes, o litro do álcool hidratado que abastece os veículos deve ser\nconstituído de 96% de álcool puro e 4% de água (em volume). As densidades desses\ncomponentes são dadas na tabela.\n\n![](https://enem.dev/2001/questions/21/69835b73-b282-4352-8a83-2bfd48df637b.png)\n\nUm técnico de um órgão de defesa do consumidor inspecionou cinco postos suspeitos de\nvenderem álcool hidratado fora das normas. Colheu uma amostra do produto em cada\nposto, mediu a densidade de cada uma, obtendo:\n\n![](https://enem.dev/2001/questions/21/2d449f15-9e4d-4cb4-85ec-4088b8440360.png)",
+    "files": [
+        "https://enem.dev/2001/questions/21/69835b73-b282-4352-8a83-2bfd48df637b.png",
+        "https://enem.dev/2001/questions/21/2d449f15-9e4d-4cb4-85ec-4088b8440360.png",
+        "https://enem.dev/2001/questions/21/d4bd74db-8c59-4da6-b2ad-e2e3f09abcb8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A partir desses dados, o técnico pôde concluir que estavam com o combustível adequado\nsomente os postos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "III e V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/21/d4bd74db-8c59-4da6-b2ad-e2e3f09abcb8.png",
+            "isCorrect": true
+        }
+    ]
+}

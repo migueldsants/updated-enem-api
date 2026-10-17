@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2011 - Reaplicação",
+    "index": 47,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Disponível em: http://seguindocurso.wordpress.com. Acesso em: 28 jul. 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A tirinha faz referência a uma propriedade de uma grandeza Física, em que a função do jornal utilizado pelo homem\né a de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "absorver a umidade que dissipa calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impedir que o frio do ambiente penetre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "manter o calor do homem concentrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "restringir a perda de calor para o ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "bloquear o vento que sopra trazendo frio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

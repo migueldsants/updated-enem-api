@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2010 - Reaplicação",
+    "index": 57,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Atualmente, existem inúmeras opções de celulares com\ntelas sensíveis ao toque (touchscreen). Para decidir\nqual escolher, é bom conhecer as diferenças entre os\nprincipais tipos de telas sensíveis ao toque existentes\nno mercado. Existem dois sistemas básicos usados para\nreconhecer o toque de uma pessoa:\n• O primeiro sistema consiste de um painel de vidro\n\nnormal, recoberto por duas camadas afastadas por\nespaçadores. Uma camada resistente a riscos é\ncolocada por cima de todo o conjunto. Uma corrente\nelétrica passa através das duas camadas enquanto\na tela está operacional. Quando um usuário toca a\ntela, as duas camadas fazem contato exatamente\nnaquele ponto. A mudança no campo elétrico é\npercebida, e as coordenadas do ponto de contato\nsão calculadas pelo computador.\n• No segundo sistema, uma camada que armazena\n\ncarga elétrica é colocada no painel de vidro do monitor.\nQuando um usuário toca o monitor com seu dedo,\nparte da carga elétrica é transferida para o usuário, de\nmodo que a carga na camada que a armazena diminui.\nEsta redução é medida nos circuitos localizados em\ncada canto do monitor. Considerando as diferenças\nrelativas de carga em cada canto, o computador\ncalcula exatamente onde ocorreu o toque.\n\nDisponível em: http://eletronicos.hsw.uol.com.br. Acesso em: 18 set. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O elemento de armazenamento de carga análogo ao\nexposto no segundo sistema e a aplicação cotidiana\ncorrespondente são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "receptores — televisor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "resistores — chuveiro elétrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "geradores — telefone celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fusíveis — caixa de força residencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "capacitores — flashdemáquinafotográfica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

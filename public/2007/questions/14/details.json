@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2007",
+    "index": 14,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/14/4b425e53-83ca-4a44-9bd6-74fbea4d0085.png)\n\nVejo-o puro\ne afável ao paladar\ncomo beijo de moça, água\nna pele, flor\nque se dissolve na boca. Mas este açúcar\nnão foi feito por mim.\n\nEste açúcar veio\nda mercearia da esquina e tampouco o fez o Oliveira,\n[dono da mercearia.\nEste açúcar veio\nde uma usina de açúcar em Pernambuco\nou no Estado do Rio\ne tampouco o fez o dono da usina.\n\nEste açúcar era cana\ne veio dos canaviais extensos\nque não nascem por acaso\nno regaço do vale.\n\n(...)\n\nEm usinas escuras,\nhomens de vida amarga\ne dura\nproduziram este açúcar\nbranco e puro\ncom que adoço meu café esta manhã em Ipanema.\n\nFerreira Gullar. Toda Poesia. Rio de Janeiro:\nCivilização Brasileira, 1980, p. 227-8.",
+    "files": [
+        "https://enem.dev/2007/questions/14/4b425e53-83ca-4a44-9bd6-74fbea4d0085.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A antítese que configura uma imagem da divisão social do\ntrabalho na sociedade brasileira é expressa poeticamente\nna oposição entre a doçura do branco açúcar e",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o trabalho do dono da mercearia de onde veio o açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o beijo de moça, a água na pele e a flor que se dissolve na boca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o trabalho do dono do engenho em Pernambuco, onde se produz o açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a beleza dos extensos canaviais que nascem no regaço do vale.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o trabalho dos homens de vida amarga em usinas escuras.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

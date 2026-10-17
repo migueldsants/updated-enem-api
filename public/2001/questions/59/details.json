@@ -1,0 +1,46 @@
+{
+    "title": "Questão 59 - ENEM 2001",
+    "index": 59,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico mostra a porcentagem da força de trabalho brasileira em 40 anos, com relação aos\nsetores agrícola, de serviços e industrial/mineral.\n\nNVQM NVSM NVUM\n\nAgricultura\n\n%\n\n![](https://enem.dev/2001/questions/59/860b02b1-7655-4225-89dd-6f6a73f59a0f.png)\n\n![](https://enem.dev/2001/questions/59/886f8e31-c42b-4b7f-b81f-ea5feb598916.png)\n\nIndústria/mineração",
+    "files": [
+        "https://enem.dev/2001/questions/59/860b02b1-7655-4225-89dd-6f6a73f59a0f.png",
+        "https://enem.dev/2001/questions/59/886f8e31-c42b-4b7f-b81f-ea5feb598916.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A leitura do gráfico permite constatar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Em 40 anos, o Brasil deixou de ser essencialmente agrícola para se tornar uma sociedade quase que exclusivamente industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A variação da força de trabalho agrícola foi mais acentuada no período de 1940 a 1960.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Por volta de 1970, a força de trabalho agrícola tornou-se equivalente à industrial e de mineração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Em 1980, metade dos trabalhadores brasileiros constituía a força de trabalho do setor agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "De 1960 a 1980, foi equivalente o crescimento percentual de trabalhadores nos setores industrial/mineral e de serviços.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2008",
+    "index": 3,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Calcula-se que 78% do desmatamento na\nAmazônia tenha sido motivado pela pecuária — cerca de\n35% do rebanho nacional está na região — e que pelo\nmenos 50 milhões de hectares de pastos são pouco\nprodutivos. Enquanto o custo médio para aumentar a\nprodutividade de 1 hectare de pastagem é de 2 mil reais, o\ncusto para derrubar igual área de floresta é estimado em\n800 reais, o que estimula novos desmatamentos.\nAdicionalmente, madeireiras retiram as árvores de valor\ncomercial que foram abatidas para a criação de pastagens.\nOs pecuaristas sabem que problemas ambientais como\nesses podem provocar restrições à pecuária nessas áreas,\na exemplo do que ocorreu em 2006 com o plantio da soja,\no qual, posteriormente, foi proibido em áreas de floresta.\n\nÉpoca, 3/3/2008 e 9/6/2008 (com adaptações).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A partir da situação-problema descrita, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o desmatamento na Amazônia decorre principalmente da exploração ilegal de árvores de valor comercial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "um dos problemas que os pecuaristas vêm enfrentando na Amazônia é a proibição do plantio de soja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a mobilização de máquinas e de força humana torna o desmatamento mais caro que o aumento da produtividade de pastagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o superavit comercial decorrente da exportação de carne produzida na Amazônia compensa a possível degradação ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a recuperação de áreas desmatadas e o aumento de produtividade das pastagens podem contribuir para a redução do desmatamento na Amazônia.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

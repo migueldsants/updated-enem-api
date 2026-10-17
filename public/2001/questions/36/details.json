@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2001",
+    "index": 36,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O consumo total de energia nas residências brasileiras envolve diversas fontes, como\neletricidade, gás de cozinha, lenha, etc. O gráfico mostra a evolução do consumo de energia\nelétrica residencial, comparada com o consumo total de energia residencial, de 1970 a\n1995.\n\n![](https://enem.dev/2001/questions/36/120b2d2e-bc0e-4fac-b8d0-58125f21341e.png)\n\nFonte: valores calculados através dos dados obtidos de: http://infoener.iee.usp.br/1999.",
+    "files": [
+        "https://enem.dev/2001/questions/36/120b2d2e-bc0e-4fac-b8d0-58125f21341e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Verifica-se que a participação percentualpercentual da energia elétrica no total de energia gasto naspercentual\nresidências brasileiras cresceu entre 1970 e 1995, passando, aproximadamente, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10% para 40%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10% para 60%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "20% para 60%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25% para 35%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40% para 80%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

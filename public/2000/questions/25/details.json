@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2000",
+    "index": 25,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "João deseja comprar um carro cujo preço à vista, com todos os descontos\npossíveis, é de R$ 21.000,00, e esse valor não será reajustado nos próximos\nmeses.\nEle tem R$ 20.000,00, que podem ser aplicados a uma taxa de juros\ncompostos de 2% ao mês, e escolhe deixar todo o seu dinheiro aplicado até que\no montante atinja o valor do carro.\nPara ter o carro, João deverá esperar:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dois meses, e terá a quantia exata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "três meses, e terá a quantia exata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "três meses, e ainda sobrarão, aproximadamente, R$ 225,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "quatro meses, e terá a quantia exata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "quatro meses, e ainda sobrarão, aproximadamente, R$ 430,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

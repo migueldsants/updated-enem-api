@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2003",
+    "index": 55,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "O texto abaixo é um trecho do discurso do primeiro-ministro britânico, Tony Blair, pronunciado quando da declaração\n\nde guerra ao regime Talibã:\n\nEssa atrocidade [o atentado de 11 de setembro, em Nova York] foi um ataque contra todos nós, contra pessoas\nde todas e nenhuma religião. Sabemos que a Al-Qaeda ameaça a Europa, incluindo a Grã-Bretanha, e\nqualquer nação que não compartilhe de seu fanatismo. Foi um ataque à vida e aos meios de vida. As empresas\naéreas, o turismo e outras indústrias foram afetadas e a confiança econômica sofreu, afetando empregos e\nnegócios britânicos. Nossa prosperidade e padrão de vida requerem uma resposta aos ataques terroristas.\n\n(O Estado de S. Paulo, 8/10/2001)\n\n![](https://enem.dev/2003/questions/55/4a8a8842-ce14-487e-985c-b39e5dd3dc78.png)",
+    "files": [
+        "https://enem.dev/2003/questions/55/4a8a8842-ce14-487e-985c-b39e5dd3dc78.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "moral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "militar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "jurídica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "econômica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

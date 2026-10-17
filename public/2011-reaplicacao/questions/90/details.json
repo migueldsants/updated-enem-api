@@ -1,0 +1,50 @@
+{
+    "title": "Questão 90 - ENEM 2011 - Reaplicação",
+    "index": 90,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/90/d5e6fcc3-8cba-4668-ae32-6623b381fbd6.png)\n\nA charge ilustra a transferência de matéria numa cadeia alimentar.\nConsiderando as setas indicativas de entrada e saída de energia nos níveis tróficos, o esquema que representa\nesse fluxo é",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/90/d5e6fcc3-8cba-4668-ae32-6623b381fbd6.png",
+        "https://enem.dev/2011-reaplicacao/questions/90/6b0f5f19-9ac1-4c53-b8c8-ab4c17b501be.png",
+        "https://enem.dev/2011-reaplicacao/questions/90/2d7d5380-df07-45ff-a77e-18735be8805d.png",
+        "https://enem.dev/2011-reaplicacao/questions/90/0d68b0e6-99a6-4206-870c-2930e636143f.png",
+        "https://enem.dev/2011-reaplicacao/questions/90/3325efd0-566c-4a3a-b113-9d8d3144a3dc.png",
+        "https://enem.dev/2011-reaplicacao/questions/90/57ecc361-aacb-4e0b-97aa-c1e374752cd6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Legenda: P produtores; C1 consumidor primário; C2 consumidor secundário e C3 consumidor terciário.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/90/6b0f5f19-9ac1-4c53-b8c8-ab4c17b501be.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/90/2d7d5380-df07-45ff-a77e-18735be8805d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/90/0d68b0e6-99a6-4206-870c-2930e636143f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/90/3325efd0-566c-4a3a-b113-9d8d3144a3dc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2011-reaplicacao/questions/90/57ecc361-aacb-4e0b-97aa-c1e374752cd6.png",
+            "isCorrect": true
+        }
+    ]
+}

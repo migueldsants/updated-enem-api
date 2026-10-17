@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2010 - Reaplicação",
+    "index": 32,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os cercamentos do século XVIII podem ser considerados\ncomo sínteses das transformações que levaram à\nconsolidação do capitalismo na Inglaterra. Em primeiro\nlugar, porque sua especialização exigiu uma articulação\nfundamental com o mercado. Como se concentravam\nna atividade de produção de lã, a realização da renda\ndependeu dos mercados, de novas tecnologias de\nbeneficiamento do produto e do emprego de novos tipos de\novelhas. Em segundo lugar, concentrou-se na inter-relação\ndo campo com a cidade e, num primeiro momento, também\nse vinculou à liberação de mão de obra.\n\nRODRIGUES, A. E. M. Revoluções burguesas.In: REIS FILHO, D. A. et al (Orgs.) O Século XX,\nv. I. Rio de Janeiro: Civilização Brasileira, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Outra consequência dos cercamentos que teria\ncontribuído para a Revolução Industrial na Inglaterra foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento do consumo interno.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "congelamento do salário mínimo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fortalecimento dos sindicatos proletários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "enfraquecimento da burguesia industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desmembramento das propriedades improdutivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

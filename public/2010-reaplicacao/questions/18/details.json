@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2010 - Reaplicação",
+    "index": 18,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Gregório de Matos definiu, no século XVII,\no amor e a sensualidade carnal.\nO Amor é finalmente um embaraço de pernas, união de\nbarrigas, um breve tremor de artérias.\nUma confusão de bocas, uma batalha de veias, um\nrebuliço de ancas, quem diz outra coisa é besta.\n\nVAINFAS, R. Brasil de todos os pecados. Revista de História. Ano1, nº 1. Rio de Janeiro:\nBiblioteca Nacional, nov. 2003.\n\nVilhena descreveu ao seu amigo Filopono, no\nséculo XVIII, a sensualidade nas ruas de Salvador.\nCausa essencial de muitas moléstias nesta cidade é a\ndesordenada paixão sensual que atropela e relaxa o rigor\nda Justiça, as leis divinas, eclesiásticas, civis e criminais.\nLogo que anoutece, entulham as ruas libidinosos, vadios\ne ociosos de um e outro sexo. Vagam pelas ruas e, sem\npejo, fazem gala da sua torpeza.\n\nVILHENA, L.S. A Bahia no século XVIII. Coleção Baiana. v. 1. Salvador: Itapuã, 1969 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A sensualidade foi assunto recorrente no Brasil\ncolonial. Opiniões se dividiam quando o tema afrontava\ndiretamente os “bons costumes”. Nesse contexto,\ncontribuía para explicar essas divergências",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aexistência de associações religiosas que defendiam a pureza sexual da população branca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a associação da sensualidade às parcelas mais abastadas da sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o posicionamento liberal da sociedade oitocentista, que reivindicava mudanças de comportamento na sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a política pública higienista, que atrelava a sexualidade a grupos socialmente marginais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a busca do controle do corpo por meio de discurso ambíguo que associava sexo, prazer, libertinagem e pecado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

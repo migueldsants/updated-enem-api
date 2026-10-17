@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2004",
+    "index": 7,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A grande produção brasileira de soja, com expressiva participação na economia do país, vem avançando nas regiões do\nCerrado brasileiro. Esse tipo de produção demanda grandes extensões de terra, o que gera preocupação, sobretudo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "econômica, porque desestimula a mecanização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "social, pois provoca o fluxo migratório para o campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "climática, porque diminui a insolação na região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "política, pois deixa de atender ao mercado externo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ambiental, porque reduz a biodiversidade regional.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

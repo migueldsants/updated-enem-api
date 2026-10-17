@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2006",
+    "index": 45,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "à presença de inibidores da enzima chamada\nciclooxigenase 2 (COX-2). Essa enzima degrada\nsubstâncias liberadas de tecidos lesados e as transforma\nem prostaglandinas pró-inflamatórias, responsáveis pelo\naparecimento de dor e inchaço.\n\nOs antiinflamatórios produzem efeitos colaterais\ndecorrentes da inibição de uma outra enzima, a COX-1,\nresponsável pela formação de prostaglandinas, protetoras\nda mucosa gastrintestinal.\n\nO esquema abaixo mostra alguns antiinflamatórios\n(nome genérico). As setas indicam a maior ou a menor\nafinidade dessas substâncias pelas duas enzimas.\n\nAfinidade MELOXICAM Afinidade\n\n![](https://enem.dev/2006/questions/45/6c3a7389-bcd9-4809-8ea0-f3f3d8d4f11c.png)",
+    "files": [
+        "https://enem.dev/2006/questions/45/6c3a7389-bcd9-4809-8ea0-f3f3d8d4f11c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, é correto concluir-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o piroxicam é o antiinflamatório que mais pode interferir na formação de prostaglandinas protetoras da mucosa gastrintestinal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o rofecoxibe é o antiinflamatório que tem a maior afinidade pela enzima COX-1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a aspirina tem o mesmo grau de afinidade pelas duas enzimas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o diclofenaco, pela posição que ocupa no esquema, tem sua atividade antiinflamatória neutralizada pelas duas enzimas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o nimesulide apresenta o mesmo grau de afinidade pelas enzimas COX-1 e COX-2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

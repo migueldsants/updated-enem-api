@@ -1,0 +1,45 @@
+{
+    "title": "Questão 66 - ENEM 2011 - Reaplicação",
+    "index": 66,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Desde que o homem começou a explorar os recursos\ndo planeta, vem provocando impactos sobre o meio\nambiente. A ilustração mostra, de forma bem-humorada,\numa consequência desses impactos.\n\n![](https://enem.dev/2011-reaplicacao/questions/66/e5b7a690-3b41-4b49-9e9d-6c21208afaa2.png)\n\nDisponível em: http://dukechargista.com.br. Acesso em: 27 jul. 2010.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/66/e5b7a690-3b41-4b49-9e9d-6c21208afaa2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em relação ao impacto sugerido pela figura, trata-se\nde uma consequência direta de ações do homem, que\nmostram sua",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "incapacidade de se adaptar a ambientes desfavoráveis, observada ao longo de sua história evolutiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "capacidade de prever os impactos de suas intervenções no meio ambiente, a médio e longo prazos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "preocupação em associar suas atividades com os benefícios e prejuízos causados ao meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dificuldade de diferenciar as ações que não interferem no meio ambiente, a curto prazo, das que podem originar catástrofes a longo prazo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "capacidade de priorizar as práticas de desenvolvimento social e tecnológico, as quais não provocam degradação do meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

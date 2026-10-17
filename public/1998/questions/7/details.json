@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 1998",
+    "index": 7,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "A\nB",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Caso um garoto se dependure no portão pela extremidade livre, e supondo que as reações máximas\nsuportadas pelas dobradiças sejam iguais,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é mais provável que a dobradiça A arrebente primeiro que a B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "é mais provável que a dobradiça B arrebente primeiro que a A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "seguramente as dobradiças A e B arrebentarão simultaneamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nenhuma delas sofrerá qualquer esforço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o portão quebraria ao meio, ou nada sofreria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

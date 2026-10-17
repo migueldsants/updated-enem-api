@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2010 - Reaplicação",
+    "index": 121,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Riqueza ameaçada\n\nBoa parte dos 180 idiomas sobreviventes está ameaçada\nde extinção ─ mais da metade (110) é falada por menos\nde 500 pessoas. No passado, era comum pessoas\nserem amarradas em árvores quando se expressavam\nem suas línguas, lembra o cacique Felisberto Kokama,\num analfabeto para os nossos padrões e um guardião da\npureza de seu idioma (caracterizado por uma diferença\nmarcante entre a fala masculina e a feminina), lá no\nAmazonas, no Alto Solimões. Outro Kokama, o professor\nLeonel, da região de Santo Antônio do Içá (AM), mostra\no problema atual: “Nosso povo se rendeu às pessoas\nbrancas pelas dificuldades de sobrevivência. O contato\ncom a língua portuguesa foi exterminando e dificultando\na prática da nossa língua. Há poucos falantes, e com\nvergonha de falar. A língua é muito preconceituada entre\nnós mesmos”.\n\nRevista Língua Portuguesa. São Paulo: Segmento, nº 26 , 2007.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O desaparecimento gradual ou abrupto de partes\nimportantes do patrimônio linguístico e cultural do país\npossui causas variadas. Segundo o professor Leonel,\nda região de Santo Antônio do Içá (AM), os idiomas\nindígenas sobreviventes estão ameaçados de extinção\ndevido ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "medo que as pessoas tinham de serem castigadas por falarem a sua língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "número reduzido de índios que continuam falando entre si nas suas reservas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contato com falantes de outras línguas e a imposição de um outro idioma.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "desaparecimento das reservas indígenas em decorrência da influência do branco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "descaso dos governantes em preservar esse patrimônio cultural brasileiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

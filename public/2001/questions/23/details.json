@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2001",
+    "index": 23,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Algumas atividades humanas interferiram significativamente no ciclo natural do enxofre,\nalterando as quantidades das substâncias indicadas no esquema. Ainda hoje isso ocorre,\napesar do grande controle por legislação.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pode-se afirmar que duas dessas interferências são resultantes da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "queima de combustíveis em veículos pesados e da produção de metais a partir de sulfetos metálicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "produção de metais a partir de óxidos metálicos e da vulcanização da borracha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "queima de combustíveis em veículos leves e da produção de metais a partir de óxidos metálicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "queima de combustíveis em indústria e da obtenção de matérias-primas a partir da água do mar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vulcanização da borracha e da obtenção de matérias-primas a partir da água do mar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

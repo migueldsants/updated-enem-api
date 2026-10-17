@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2010 - Reaplicação",
+    "index": 119,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/119/7c5af209-4340-4325-a130-d91296a3a259.png)\n\nDisponível em: http://ziraldo.blogtv.uol.com.br. Acesso em: 27 jul. 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/119/7c5af209-4340-4325-a130-d91296a3a259.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O cartaz de Ziraldo faz parte de uma campanha contra o\nuso de drogas. Essa abordagem, que se diferencia das de\noutras campanhas, pode ser identificada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela seleção do público alvo da campanha,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pela escolha temática do cartaz, cujo texto configura uma",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pela ausência intencional do acento grave, que",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pelo uso da ironia, na oposição imposta entre",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pela criação de um texto de sátira à postura dos",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

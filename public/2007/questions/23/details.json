@@ -1,0 +1,45 @@
+{
+    "title": "Questão 23 - ENEM 2007",
+    "index": 23,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "O Aedes aegypti é vetor transmissor da dengue.\nUma pesquisa feita em São Luís – MA, de 2000 a 2002,\nmapeou os tipos de reservatório onde esse mosquito era\nencontrado. A tabela abaixo mostra parte dos dados\ncoletados nessa pesquisa.\n\n![](https://enem.dev/2007/questions/23/c1bb5d12-2c2e-4a67-afb6-8262c329aab3.png)\n\nRio de Janeiro, out./2004 (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/23/c1bb5d12-2c2e-4a67-afb6-8262c329aab3.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com essa pesquisa, o alvo inicial para a\nredução mais rápida dos focos do mosquito vetor da\ndengue nesse município deveria ser constituído por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pneus e caixas d’água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tambores, tanques e depósitos de barro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "vasos de plantas, poços e cisternas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "materiais de construção e peças de carro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "garrafas, latas e plásticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

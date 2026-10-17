@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2003",
+    "index": 6,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma editora pretende despachar um lote de livros, agrupados em 100 pacotes de 20 cm x 20 cm x 30 cm. A\ntransportadora acondicionará esses pacotes em caixas com formato de bloco retangular de\n40 cm x 40 cm x 60 cm. A quantidade mínima necessária de caixas para esse envio é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "11",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

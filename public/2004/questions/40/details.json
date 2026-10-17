@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2004",
+    "index": 40,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O debate em torno do uso da energia nuclear para produção de eletricidade permanece atual. Em um encontro internacional\npara a discussão desse tema, foram colocados os seguintes argumentos:\n\nI. Uma grande vantagem das usinas nucleares é o fato de não contribuírem para o aumento do efeito estufa, uma vez que o\n\nurânio, utilizado como “combustível”, não é queimado mas sofre fissão.\nII. Ainda que sejam raros os acidentes com usinas nucleares, seus efeitos podem ser tão graves que essa alternativa de\n\ngeração de eletricidade não nos permite ficar tranqüilos.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A respeito desses argumentos, pode-se afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o primeiro é válido e o segundo não é, já que nunca ocorreram acidentes com usinas nucleares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o segundo é válido e o primeiro não é, pois de fato há queima de combustível na geração nuclear de eletricidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o segundo é valido e o primeiro é irrelevante, pois nenhuma forma de gerar eletricidade produz gases do efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ambos são válidos para se compararem vantagens e riscos na opção por essa forma de geração de energia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ambos são irrelevantes, pois a opção pela energia nuclear está-se tornando uma necessidade inquestionável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

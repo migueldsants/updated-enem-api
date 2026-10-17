@@ -1,0 +1,46 @@
+{
+    "title": "Questão 50 - ENEM 2000",
+    "index": 50,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O esquema ilustra o processo de obtenção do álcool etílico a partir da cana-de-\n\n![](https://enem.dev/2000/questions/50/136c53dd-b948-45b7-adcf-a21f3be86df2.png)",
+    "files": [
+        "https://enem.dev/2000/questions/50/136c53dd-b948-45b7-adcf-a21f3be86df2.png",
+        "https://enem.dev/2000/questions/50/74763fd8-3377-4017-bcdd-a15454c93e31.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em 1996, foram produzidos no Brasil 12 bilhões de litros de álcool. A\nquantidade de cana-de-açúcar, em toneladas, que teve de ser colhida para\nesse fim foi aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,7 x 10⁸.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1,2 x 10⁹.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,7 x 10⁹.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,2 x 10¹⁰.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/50/74763fd8-3377-4017-bcdd-a15454c93e31.png",
+            "isCorrect": false
+        }
+    ]
+}

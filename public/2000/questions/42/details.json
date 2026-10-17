@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2000",
+    "index": 42,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Um boato tem um público-alvo e alastra-se com determinada rapidez. Em geral,\nessa rapidez é diretamente proporcional ao número de pessoas desse público\nque conhecem o boato e diretamente proporcional também ao número de\npessoas que não o conhecem. Em outras palavras, sendo R a rapidez de\npropagação, P o público-alvo e x o número de pessoas que conhecem o boato,\ntem-se:\nR(x) = k.x.(P-x), onde k é uma constante positiva característica do boato.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando o modelo acima descrito, se o público-alvo é de 44.000 pessoas,\nentão a máxima rapidez de propagação ocorrerá quando o boato for conhecido\npor um número de pessoas igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11.000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "22.000.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "33.000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "38.000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "44.000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2010 - Reaplicação",
+    "index": 51,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Osfrutossãoexclusivosdasangiospermas, e a dispersão\ndas sementes dessas plantas é muito importante\npara garantir seu sucesso reprodutivo, pois permite a\nconquista de novos territórios. A dispersão é favorecida\npor certas características dos frutos (ex.: cores fortes\ne vibrantes, gosto e odor agradáveis, polpa suculenta)\ne das sementes (ex.: presença de ganchos e outras\nestruturas fixadoras que se aderem às penas e pelos\nde animais, tamanho reduzido, leveza e presença de\nexpansões semelhantes a asas). Nas matas brasileiras,\nos animais da fauna silvestre têm uma importante\ncontribuição na dispersão de sementes e, portanto, na\nmanutenção da diversidade da flora.\n\nCHIARADIA, A. Mini-manual de pesquisa: Biologia. Jun. 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Das características de frutos e sementes apresentadas,\nquais estão diretamente associadas a um mecanismo de\natração de aves e mamíferos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ganchos que permitem a adesão aos pelos e penas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expansões semelhantes a asas que favorecem a flutuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estruturas fixadoras que se aderem às asas das aves.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Frutos com polpa suculenta que fornecem energia aos dispersores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Leveza e tamanho reduzido das sementes, que favorecem a flutuação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

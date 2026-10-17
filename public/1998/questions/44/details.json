@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 1998",
+    "index": 44,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um dos fenômenos mais discutidos e polêmicos da atualidade é a “ Globalização” , a qual impacta de forma\nnegativa:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na mão-de-obra desqualificada, desacelerando o fluxo migratório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nos países subdesenvolvidos, aumentando o crescimento populacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no desenvolvimento econômico dos países industrializados desenvolvidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nos países subdesenvolvidos, provocando o fenômeno da “ exclusão social” .",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "na mão-de-obra qualificada, proporcionando o crescimento de ofertas de emprego e fazendo os salários caírem vertiginosamente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

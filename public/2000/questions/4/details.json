@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2000",
+    "index": 4,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "―Somos servos da lei para podermos ser livres.‖\n\nCícero\n\n―O que apraz ao príncipe tem força de lei.‖\n\nUlpiano\n\nAs frases acima são de dois cidadãos da Roma Clássica que viveram\npraticamente no mesmo século, quando ocorreu a transição da República\n(Cícero) para o Império (Ulpiano).\n\nTendo como base as sentenças acima, considere as afirmações:\n\nI A diferença nos significados da lei é apenas aparente, uma vez que os\n\nromanos não levavam em consideração as normas jurídicas.\n\nII Tanto na República como no Império, a lei era o resultado de discussões\n\nentre os representantes escolhidos pelo povo romano.\n\nIII A lei republicana definia que os direitos de um cidadão acabavam\n\nquando começavam os direitos de outro cidadão.\n\nIV Existia, na época imperial, um poder acima da legislação romana.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Estão corretas, apenas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e IV.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

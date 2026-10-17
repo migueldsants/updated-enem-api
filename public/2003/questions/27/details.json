@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2003",
+    "index": 27,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A biodiversidade diz respeito tanto a genes, espécies, ecossistemas, como a funções, e coloca problemas de gestão\nmuito diferenciados. É carregada de normas de valor. Proteger a biodiversidade pode significar:\n– a eliminação da ação humana, como é a proposta da ecologia radical;\n– a proteção das populações cujos sistemas de produção e cultura repousam num dado ecossistema;\n– a defesa dos interesses comerciais de firmas que utilizam a biodiversidade como matéria-prima, para produzir mercadorias.\n\n(Adaptado de GARAY, I. & DIAS, B. Conservação da biodiversidade em ecossistemas tropicais)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, no tratamento da questão da biodiversidade no Planeta,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o principal desafio é conhecer todos problemas dos ecossistemas, para conseguir protegê-los da ação humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os direitos e os interesses comerciais dos produtores devem ser defendidos, independentemente do equilíbrio ecológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "deve-se valorizar o equilíbrio do meio ambiente, ignorando-se os conflitos gerados pelo uso da terra e seus recursos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o enfoque ecológico é mais importante do que o social, pois as necessidades das populações não devem constituir preocupação para ninguém.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "há diferentes visões em jogo, tanto as que só consideram aspectos ecológicos, quanto as que levam em conta aspectos sociais e econômicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Questão 62 - ENEM 1998",
+    "index": 62,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela a seguir registra a pressão atmosférica em diferentes altitudes, e o gráfico relaciona a pressão\nde vapor da água em função da temperatura\n\n0 760 6 0 0\n\n![](https://enem.dev/1998/questions/62/36563a0a-f27b-47aa-9bc9-a5e6b7a1f89d.png)\n\n4 300 4 0 0\n\n![](https://enem.dev/1998/questions/62/1ea8fd9a-936b-4eb0-a94c-f9cbe1e3152f.png)\n\n10 100 2 0 0\n\n![](https://enem.dev/1998/questions/62/80572086-f21c-422e-aa4a-33c35642e339.png)\n\nUm líquido, num frasco aberto, entra em ebulição a partir do momento em que a sua pressão de vapor se\niguala à pressão atmosférica. Assinale a opção correta, considerando a tabela, o gráfico e os dados\napresentados, sobre as seguintes cidades:\n\n![](https://enem.dev/1998/questions/62/3177bfdd-d225-4596-aed7-8ee6b428e6d4.png)",
+    "files": [
+        "https://enem.dev/1998/questions/62/36563a0a-f27b-47aa-9bc9-a5e6b7a1f89d.png",
+        "https://enem.dev/1998/questions/62/1ea8fd9a-936b-4eb0-a94c-f9cbe1e3152f.png",
+        "https://enem.dev/1998/questions/62/80572086-f21c-422e-aa4a-33c35642e339.png",
+        "https://enem.dev/1998/questions/62/3177bfdd-d225-4596-aed7-8ee6b428e6d4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A temperatura de ebulição será:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "maior em Campos do Jordão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "menor em Natal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "menor no Pico da Neblina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "igual em Campos do Jordão e Natal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "não dependerá da altitude.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

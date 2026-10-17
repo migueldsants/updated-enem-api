@@ -1,0 +1,45 @@
+{
+    "title": "Questão 123 - ENEM 2011 - Reaplicação",
+    "index": 123,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nBrasil africano\nDe várias partes da África, veio a metade dos\nnossos antepassados no período da escravidão, entre\nos séculos XVII e XIX. As muitas línguas que falavam\nmudaram o português existente no Brasil. Da estética à\nculinária, dos costumes à religião, as influências também\nforam numerosas e permanecem. Os estudos africanos\nno país remontam ao começo do século XX, mas há,\nainda, muito para ser descoberto e compreendido\ndessas tantas trocas culturais.\n\n![](https://enem.dev/2011-reaplicacao/questions/123/a08e48a4-45cd-4c2d-993a-ad9615719098.png)\n\nCais em Salvador, em foto de Gaensly & Lindermann, século XX\nRevista Biblioteca Entre Livros: Vozes da África. São Paulo: Ediouro.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/123/a08e48a4-45cd-4c2d-993a-ad9615719098.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao relacionar-se a temática dos Textos I e II, sobre a\ninfluência africana no Brasil, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fazem alusão ao fato de que a contribuição do povo africano para a cultura brasileira não é comprovada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revelam que os estudos referentes à contribuição do povo africano na formação do Brasil é incipiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "demonstram que a construção da identidade nacional é marcada pela presença da cultura africana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "informam que os negros foram os responsáveis pela formação cultural do nosso país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "remetem à ideia de que essa influência inexistiu no âmbito linguístico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

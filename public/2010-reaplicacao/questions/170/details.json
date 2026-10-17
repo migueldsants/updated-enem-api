@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2010 - Reaplicação",
+    "index": 170,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Algumas pesquisas estão sendo desenvolvidas para se obter\narroz e feijão com maiores teores de ferro e zinco e tolerantes\nà seca. Em média, para cada 100 g de arroz cozido, o teor\nde ferro é de 1,5 mg e o de zinco é de 2,0 mg. Para 100 g de\nfeijão, é de 7 mg o teor de ferro e de 3 mg o de zinco. Sabe-\nse que as necessidades diárias dos dois micronutrientes\npara uma pessoa adulta é de aproximadamente 12,25 mg\nde ferro e 10 mg de zinco.\n\nDisponível em: http://www.embrapa.br. Acesso em: 29 abr. 2010 (adaptado).\n\nConsidere que uma pessoa adulta deseja satisfazer suas\nnecessidades diárias de ferro e zinco ingerindo apenas\narroz e feijão. Suponha que seu organismo absorva\ncompletamente todos os micronutrientes oriundos\ndesses alimentos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na situação descrita, que quantidade a pessoa deveria\ncomer diariamente de arroz e feijão, respectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "58 g e 456 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "200 g e 200 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "350 g e 100 g",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "375 g e 500 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "400 g e 89 g",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

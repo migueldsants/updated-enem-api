@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2010 - Reaplicação",
+    "index": 74,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os oceanos absorvem aproximadamente um terço\ndas emissões de CO₂ procedentes de atividades\nhumanas, como a queima de combustíveis fósseis e\nas queimadas. O CO₂ combina-se com as águas dos\noceanos, provocando uma alteração importante em\nsuas propriedades. Pesquisas com vários organismos\nmarinhos revelam que essa alteração nos oceanos afeta\numa série de processos biológicos necessários para o\ndesenvolvimento e a sobrevivência de várias espécies\nda vida marinha.\nA alteração a que se refere o texto diz respeito ao aumento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da acidez das águas dos oceanos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "do estoque de pescado nos oceanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da temperatura média dos oceanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do nível das águas dos oceanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da salinização das águas dos oceanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

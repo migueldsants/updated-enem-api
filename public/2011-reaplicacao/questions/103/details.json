@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2011 - Reaplicação",
+    "index": 103,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ele se aproximou e com a voz cantante de nordestino\nque a emocionou, perguntou-lhe:\n\n― E se me desculpe, senhorinha, posso convidar a\npassear?\n\n― Sim, respondeu atabalhoadamente com pressa,\nantes que ele mudasse de ideia.\n\n― E se me permite, qual é mesmo a sua graça?\n\n― Macabea.\n\n― Maca ― o quê?\n\n― Bea, foi ela obrigada a completar.\n\n― Me desculpe mas até parece doença, doença\nde pele.\n\n― Eu também acho esquisito mas minha mãe botou\nele por promessa a Nossa Senhora da Boa Morte se\neu vingasse, até um ano de idade eu não era chamada\nporque não tinha nome, eu preferia continuar a nunca ser\nchamada em vez de ter um nome que ninguém tem mas\nparece que deu certo — parou um instante retomando o\nfôlego perdido e acrescentou desanimada e com pudor\n― pois como o senhor vê eu vinguei... pois é...\n\n[...]\n\nNuma das vezes em que se encontraram ela afinal\nperguntou-lhe o nome.\n\n― Olímpico de Jesus Moreira Chaves ― mentiu\nele porque tinha como sobrenome apenas o de Jesus,\nsobrenome dos que não têm pai. [...]\n\n― Eu não entendo o seu nome ― disse ela. ―\nOlímpico?\n\nMacabea fingia enorme curiosidade escondendo\ndele que ela nunca entendia tudo muito bem e que isso\nera assim mesmo. Mas ele, galinho de briga que era,\narrepiou-se todo com a pergunta tola e que ele não\nsabia responder. Disse aborrecido:\n\n― Eu sei mas não quero dizer!\n\n― Não faz mal, não faz mal, não faz mal... a gente\nnão precisa entender o nome.\n\nLISPECTOR, C. A hora da estrela. Rio de Janeiro: J. Olympio, 1978 (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na passagem transcrita, a caracterização das\npersonagens e o diálogo que elas estabelecem revelam\nalguns aspectos centrais da obra, entre os quais se\ndestaca a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ênfase metalinguística nas falas dos personagens,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "conscientes de sua limitação linguística e discursiva. relação afetiva dos personagens, por meio da qual",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tentam superar as dificuldades de comunicação. expressividade poética dos personagens, que",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "procuram compreender a origem de seus nomes. privação da palavra, que denota um dos fatores da",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "exclusão social vivida pelos personagens. consciência dos personagens de que o fingimento é uma estratégia argumentativa de persuasão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2003",
+    "index": 40,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O setor de transporte, que concentra uma grande parcela da demanda de energia no país, continuamente busca\nalternativas de combustíveis.\nInvestigando alternativas ao óleo diesel, alguns especialistas apontam para o uso do óleo de girassol, menos\npoluente e de fonte renovável, ainda em fase experimental. Foi constatado que um trator pode rodar, nas mesmas\ncondições, mais tempo com um litro de óleo de girassol, que com um litro de óleo diesel.\nEssa constatação significaria, portanto, que usando óleo de girassol,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o consumo por km seria maior do que com óleo diesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as velocidades atingidas seriam maiores do que com óleo diesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o combustível do tanque acabaria em menos tempo do que com óleo diesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a potência desenvolvida, pelo motor, em uma hora, seria menor do que com óleo diesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a energia liberada por um litro desse combustível seria maior do que por um de óleo diesel.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

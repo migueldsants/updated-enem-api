@@ -1,0 +1,46 @@
+{
+    "title": "Questão 173 - ENEM 2011 - Reaplicação",
+    "index": 173,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Fabiana Murer garante mais uma medalha de ouro\nna Noruega. A atleta brasileira saltou 4,60 m na etapa da\nDiamond League e terminou em primeiro lugar na disputa.\nEla ainda é detentora da melhor marca do ano. Ao final da\nprova, a classificação dos quatro melhores resultados foi:\n\n![](https://enem.dev/2011-reaplicacao/questions/173/a65e0e56-3b77-4f55-a40d-f3eed17d0d95.png)\n\nDisponível em: http://www.globoesporte.globo.com. Acesso em: 24 jun. 2011 (adaptado).\n\n![](https://enem.dev/2011-reaplicacao/questions/173/8a36cd97-72bf-444c-a85e-8d00cccc4f23.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/173/a65e0e56-3b77-4f55-a40d-f3eed17d0d95.png",
+        "https://enem.dev/2011-reaplicacao/questions/173/8a36cd97-72bf-444c-a85e-8d00cccc4f23.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gato.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Leão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pulga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Elefante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Gafanhoto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

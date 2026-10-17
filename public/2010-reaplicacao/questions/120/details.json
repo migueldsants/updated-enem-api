@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2010 - Reaplicação",
+    "index": 120,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Texto I\n\nChão de esmeralda\n\nMe sinto pisando\nUm chão de esmeraldas\nQuando levo meu coração\nÀ Mangueira\nSob uma chuva de rosas\nMeu sangue jorra das veias\nE tinge um tapete\nPra ela sambar\nÉ a realeza dos bambas\nQue quer se mostrar\nSoberba, garbosa\nMinha escola é um catavento a girar\nÉ verde, é rosa\nOh, abre alas pra Mangueira passar\n\nBUARQUE, C.; CARVALHO, H. B. Chico Buarque de Mangueira. Marola Edições Musicais\nLtda. BMG. 1997. Disponível em: www.chicobuarque.com.br. Acesso em: 30 abr. 2010.\n\nTexto II\n\nQuando a escola de samba entra na Marquês de Sapucaí,\na plateia delira, o coração dos componentes bate mais\nforte e o que vale é a emoção. Mas, para que esse\nverdadeiro espetáculo entre em cena, por trás da cortina\nde fumaça dos fogos de artifício, existe um verdadeiro\nbatalhão de alegria: são costureiras, aderecistas,\ndiretores de ala e de harmonia, pesquisador de enredo e\numa infinidade de profissionais que garantem que tudo\nesteja perfeito na hora do desfile.\n\nAMORIM, M.; MACEDO, G. O espetáculo dos bastidores. Revista de Carnaval 2010:\nMangueira. Rio de Janeiro: Estação Primeira de Mangueira, 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ambos os textos exaltam o brilho, a beleza, a tradição e o\ncompromisso dos dirigentes e de todos os componentes\ncom a escola de samba Estação Primeira de Mangueira.\nUma das diferenças que se estabelece entre os textos\né que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o artigo jornalístico cumpre a função de transmitir emoções e sensações, mais do que a letra de música.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a letra de música privilegia a função social de comunicar a seu público a crítica em relação ao samba e aos sambistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a linguagem poética, no Texto I, valoriza imagens metafóricas e a própria escola, enquanto a linguagem, no Texto II, cumpre a função de informar e envolver o leitor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ao associar esmeraldas e rosas às cores da escola, o Texto I acende a rivalidade entre escolas de samba, enquanto o Texto II é neutro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o Texto I sugere a riqueza material da Mangueira, enquanto o Texto II destaca o trabalho na escola de samba.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2011 - Reaplicação",
+    "index": 38,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A questão agrária e as lutas de hoje pela terra são\nherdeiras de processos transcorridos nas décadas\nde 1940 a 1960. Contudo, se no contexto anterior\na questão agrária tinha em sua base o arcaísmo do\nmundo rural, hoje ela é resultante dos processos de\nmodernização da agricultura.\n\nGRYNSZPAN, M. Tempo de Plantar, tempo de colher.In: Nossa História. Ano 1, nº 9,\nSão Paulo: Vera Cruz, jul. 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A modernização da agricultura no Brasil aprofundou as\ncausas da luta pela terra a partir dos anos 1970, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "piorou as relações de trabalho no campo, mas conteve o êxodo rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "elevou a produtividade agrícola, mas intensificou a concentração fundiária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "introduziu novas máquinas na agricultura, mas não criou condições para o escoamento da produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumentou a competitividade da agricultura, mas a desvinculou dos produtos primários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "implementou relações capitalistas no campo, mas impediu a sindicalização dos trabalhadores rurais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

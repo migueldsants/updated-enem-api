@@ -1,0 +1,49 @@
+{
+    "title": "Questão 47 - ENEM 2000",
+    "index": 47,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Um dos grandes problemas das regiões urbanas é o acúmulo de lixo sólido e\nsua disposição. Há vários processos para a disposição do lixo, dentre eles o\naterro sanitário, o depósito a céu aberto e a incineração. Cada um deles\napresenta vantagens e desvantagens.\n\nConsidere as seguintes vantagens de métodos de disposição do lixo:\n\nI diminuição do contato humano direto com o lixo;\nII produção de adubo para agricultura;\nIII baixo custo operacional do processo;\nIV redução do volume de lixo.",
+    "files": [
+        "https://enem.dev/2000/questions/47/e2269773-f067-4755-9a07-88f75901eea9.png",
+        "https://enem.dev/2000/questions/47/217b88a5-8900-4584-9032-0b476e3ce07a.png",
+        "https://enem.dev/2000/questions/47/2d5ebd4b-0ae7-4065-a8ad-4d5ab0dde206.png",
+        "https://enem.dev/2000/questions/47/17ca860f-469a-4d94-b987-69137e26640b.png",
+        "https://enem.dev/2000/questions/47/c0eaaec1-d8ce-4bc7-94c2-d637f09a5bfa.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A relação correta entre cada um dos processos para a disposição do lixo e as\nvantagens apontadas é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/47/e2269773-f067-4755-9a07-88f75901eea9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/47/217b88a5-8900-4584-9032-0b476e3ce07a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/47/2d5ebd4b-0ae7-4065-a8ad-4d5ab0dde206.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/47/17ca860f-469a-4d94-b987-69137e26640b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/47/c0eaaec1-d8ce-4bc7-94c2-d637f09a5bfa.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2004",
+    "index": 27,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Instruções: As questões de números 26 e 27 referem-se ao poema abaixo.\n\nCidade grande\n\nQue beleza, Montes Claros.\nComo cresceu Montes Claros.\nQuanta indústria em Montes Claros.\nMontes Claros cresceu tanto,\nficou urbe tão notória,\nprima-rica do Rio de Janeiro,\nque já tem cinco favelas\npor enquanto, e mais promete.\n\n(Carlos Drummond de Andrade)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No trecho “Montes Claros cresceu tanto,/ (...),/ que já tem cinco favelas”, a palavra que contribui para estabelecer uma relação\nde conseqüência. Dos seguintes versos, todos de Carlos Drummond de Andrade, apresentam esse mesmo tipo de relação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Meu Deus, por que me abandonaste / se sabias que eu não era Deus / se sabias que eu era fraco.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“No meio-dia branco de luz uma voz que aprendeu / a ninar nos longes da senzala – e nunca se esqueceu / chamava para o café.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Teus ombros suportam o mundo / e ele não pesa mais que a mão de uma criança.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“A ausência é um estar em mim. / E sinto-a, branca, tão pegada, aconchegada nos meus braços, / que rio e danço e invento exclamações alegres.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "“Penetra surdamente no reino das palavras. / Lá estão os poemas que esperam ser escritos.”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 41 - ENEM 1999",
+    "index": 41,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Muitas usinas hidroelétricas estão situadas em barragens. As características de algumas das grandes represas e usinas\n\nbrasileiras estão apresentadas no quadro abaixo.\n\n![](https://enem.dev/1999/questions/41/5e6175f0-680f-4331-b7bc-7badf9ede02f.png)",
+    "files": [
+        "https://enem.dev/1999/questions/41/5e6175f0-680f-4331-b7bc-7badf9ede02f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A razão entre a área da região alagada por uma represa e a potência produzida pela usina nela instalada é uma das formas de\nestimar a relação entre o dano e o benefício trazidos por um projeto hidroelétrico. A partir dos dados apresentados no quadro,\no projeto que mais onerou o ambiente em termos de área alagada por potência foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tucuruí.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Furnas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Itaipu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ilha Solteira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sobradinho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

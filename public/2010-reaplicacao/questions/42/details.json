@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2010 - Reaplicação",
+    "index": 42,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Aprimeira instituição de ensino brasileira que inclui disciplinas\nvoltadas ao público LGBT (lésbicas, gays, bissexuais e\ntransexuais) abriu inscrições na semana passada. A grade\ncurricular é inspirada em similares dos Estados Unidos da\nAmérica e da Europa. Ela atenderá jovens com aulas de\nexpressão artística, dança e criação de fanzines. É aberta a\ntodo o público estudantil e tem como principal objetivo impedir\na evasão escolar de grupos socialmente discriminados.\n\nÉpoca, 11 jan. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto trata de uma política pública de ação afirmativa\nvoltada ao público LGBT. Com a criação de uma instituição\nde ensino para atender esse público, pretende-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "contribuir para a invisibilidade do preconceito ao grupo LGBT.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "copiar os modelos educacionais dos EUA e da Europa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "permitir o acesso desse segmento ao ensino técnico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "criar uma estratégia de proteção e isolamento desse grupo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "promover o respeito à diversidade sexual no sistema de ensino.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

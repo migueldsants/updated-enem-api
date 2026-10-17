@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2010 - Reaplicação",
+    "index": 49,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/49/aae5b506-51fa-4f8d-9d12-0de5c219eaa9.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/49/aae5b506-51fa-4f8d-9d12-0de5c219eaa9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os quadrinhos mostram, por meio da projeção da sombra\nda árvore e do menino, a sequência de períodos do dia:\nmatutino, meio-dia e vespertino, que é determinada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela posição vertical da árvore e do menino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pela posição do menino em relação à árvore.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pelo movimento aparente do Sol em torno da Terra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pelo fuso horário específico de cada ponto da",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pela estação do ano, sendo que no inverno os dias",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

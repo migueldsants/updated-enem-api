@@ -1,0 +1,45 @@
+{
+    "title": "Questão 46 - ENEM 2002",
+    "index": 46,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A leitura do poema Descrição da guerra em Guernica traz à lembrança o famoso quadro de Picasso.\n\nEntra pela janela\no anjo camponês;\ncom a terceira luz na mão;\nminucioso, habituado\naos interiores de cereal,\naos utensílios que dormem na fuligem;\nos seus olhos rurais\nnão compreendem bem os símbolos\ndesta colheita: hélices,\nmotores furiosos;\ne estende mais o braço; planta\nno ar, como uma árvore\na chama do candeeiro.\n(...)\n\nCarlos de Oliveira in ANDRADE, Eugénio. Antologia Pessoal da Poesia Portuguesa. Porto: Campo das Letras, 1999.\n\nUma análise cuidadosa do quadro permite que se identifiquem as cenas referidas nos trechos do poema.\n\n![](https://enem.dev/2002/questions/46/b1473d10-ba96-475a-bb72-12b9c224f700.png)",
+    "files": [
+        "https://enem.dev/2002/questions/46/b1473d10-ba96-475a-bb72-12b9c224f700.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Podem ser relacionadas ao texto lido as partes:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a1, a2, a3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "f1, e1, d1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "e1, d1, c1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "c1, c2, c3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "e1, e2, e3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

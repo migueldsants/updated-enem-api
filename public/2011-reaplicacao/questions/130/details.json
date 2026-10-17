@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2011 - Reaplicação",
+    "index": 130,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Sacolas\n\nPor que optar pelas duráveis,\ncomo faziam nossos avós?\n\nO mundo produz sacolas plásticas desde a década\nde 1950. Como não se degradam facilmente na natureza,\ngrande parte delas ainda vão continuar por mais de 300\nanos em algum lugar do planeta.\n\nCalcula-se que até 1 trilhão de sacolas plásticas são\nproduzidas anualmente em todo mundo. O Brasil produz\nmais de 12 bilhões todos os anos, e 80% delas são\nutilizadas uma única vez.\n\nSacolas plásticas são leves e voam ao vento.\nPor isso, elas entopem esgotos e bueiros, causando\nenchentes. São encontradas até no estômago de\ntartarugas marinhas, baleias, focas e golfinhos mortos\npor sufocamento.\n\nVárias redes de supermercados do Brasil e do\nmundo já estão sugerindo o uso de caixas de papelão\ne colocando à venda sacolas de pano ou de plástico\nduráveis para transportar as mercadorias.\n\nSacolas plásticas descartáveis são gratuitas para\nos consumidores, mas têm um custo incalculável para\no meio ambiente.\n\nAnúncio publicitário veiculado na revistaVeja. N° 27, 8 jul. 2009.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os argumentos utilizados no texto indicam que seu\npúblico-alvo é o consumidor e seu objetivo é estimular",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o abandono do uso de sacolas de plástico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a compra de sacolas de pano em supermercados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o engajamento em campanhas de consumo consciente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a divulgação dos perigos das sacolas plásticas para os animais marinhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a reutilização das sacolas de plástico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

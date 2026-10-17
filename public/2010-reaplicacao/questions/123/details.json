@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2010 - Reaplicação",
+    "index": 123,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O novo boca a boca\n\nTomara que não seja verdade, porque, se for, os críticos,\ncomentaristas, os chamados formadores de opinião,\ntodos corremos o risco de perder nossa razão de ser e\nnossos empregos. Há uma nova ameaça à vista. Dizem\nque a Internet será em breve, já está sendo, o boca a\nboca de milhões de pessoas, isto é, vai substituir aquele\nprocesso usado tradicionalmente para recomendar um\nfilme, uma peça, um livro e até um candidato. Não mais\na orientação transmitida pela imprensa e nem mesmo as\ndicas dadas pessoalmente – tudo seria feito virtualmente\npelos mecanismos de mobilização da rede.\n\nVENTURA, Z. O Globo, 19 set. 2009 (fragmento).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o texto, a Internet apresenta a possibilidade\nde modificar as relações sociais, na medida em que\nestabelece novos meios de realizar atividades cotidianas.\nA preocupação do autor acerca do desaparecimento de\ndeterminadas profissões deve-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "às habilidades necessárias a um bom comunicador, que podem ser comprometidas por problemas pessoais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "à confiabilidade das informações transmitidas pelos internautas, que superam as informações jornalísticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ao número de pessoas conectadas à Internet, à rapidez e à facilidade com que a informação acontece.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aos boatos que atingem milhões de pessoas, levando a população a desacreditar nos formadores de opinião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aos computadores serem mais eficazes do que os profissionais da escrita para informar a sociedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

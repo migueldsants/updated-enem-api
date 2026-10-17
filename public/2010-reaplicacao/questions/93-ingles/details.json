@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2010 - Reaplicação",
+    "index": 93,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "Hip hop music\nHip hop music is a musical genre which developed as\npart of hip hop culture, and is defined by key stylistic\nelements such as rapping, DJing, sampling (or synthesis),\nscratching and beatboxing. Hip hop began in the South\nBronx of New York City in the 1970s. The term rap is often\nused synonymously with hip hop, but hip hop denotes the\npractices of an entire subculture.\n\nDisponível em: http://en.wikipedia.org. Acesso em: 8 jul. 2010.\n\nBrazilian hip hop is one of the world’s major hip hop\nscenes, with active rap, break dance, and graffiti scenes,\nespecially in São Paulo, where groups tend to have a\nmore international style, influenced by old school hip hop\nand gangsta rap.\nBrazilian rap has served as a reflection of political,\nsocial, and racial issues plaguing the disenfranchised\nyouth in the suburbs of São Paulo and Rio. The lyrical\ncontent, band names, and song names used by Brazilian\nhip hop artists often connote the socio-political issues\nsurrounding their communities.\n\nDisponível em: http://en.wikipedia.org. Acesso em: 8 jul. 2010 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sendo a música uma das formas de manifestação cultural\nde um país, o rap brasileiro, a partir das informações do\ntexto, tem sido caracterizado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela influência internacional nos nomes de bandas e de músicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "como um instrumento de reflexão crítica do jovem da periferia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "pela irreverência dos cantores, adeptos e suas vestimentas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "como um gênero musical de menor prestígio na sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pela criatividade dos primeiros adeptos do gênero hip hop.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

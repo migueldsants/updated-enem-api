@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2005",
+    "index": 1,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "As questões 1 e 2 referem-se ao poema.\n\nA DANÇA E A ALMA\n\nA DANÇA? Não é movimento, Um estar entre céu e chão,\nsúbito gesto musical. novo domínio conquistado,\nÉ concentração, num momento, onde busque nossa paixão\nda humana graça natural. libertar-se por todo lado...\n\nNo solo não, no éter pairamos, Onde a alma possa descrever\nnele amaríamos ficar. suas mais divinas parábolas\nA dança – não vento nos ramos: sem fugir à forma do ser,\nseiva, força, perene estar. por sobre o mistério das fábulas.\n\n(Carlos Drummond de Andrade. Obra completa. Rio de Janeiro: Aguilar, 1964. p. 366.)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A definição de dança, em linguagem de dicionário, que mais se aproxima do que está expresso no poema é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a mais antiga das artes, servindo como elemento de comunicação e afirmação do homem em todos os momentos de sua existência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a forma de expressão corporal que ultrapassa os limites físicos, possibilitando ao homem a liberação de seu espírito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a manifestação do ser humano, formada por uma seqüência de gestos, passos e movimentos desconcertados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o conjunto organizado de movimentos do corpo, com ritmo determinado por instrumentos musicais, ruídos, cantos, emoções etc.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o movimento diretamente ligado ao psiquismo do indivíduo e, por conseqüência, ao seu desenvolvimento intelectual e à sua cultura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 1999",
+    "index": 1,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "SONETO DE FIDELIDADE\n\nDe tudo ao meu amor serei atento\nAntes e com tal zelo, e sempre, e tanto\nQue mesmo em face do maior encanto\nDele se encante mais meu pensamento.\nQuero vivê-lo em cada vão momento\nE em seu louvor hei de espalhar meu canto\nE rir meu riso e derramar meu pranto\nAo seu pesar ou ao seu contentamento.\nE assim, quando mais tarde me procure\nQuem sabe a morte, angústia de quem vive\nQuem sabe a solidão, fim de quem ama.\nEu possa me dizer do amor (que tive):\nQue não seja imortal, posto que é chama\nMas que seja infinito enquanto dure.\n\n(MORAES, Vinícius de. Antologia poética. São Paulo: Cia das Letras, 1992)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A palavra mesmo pode assumir diferentes significados, de acordo com a sua função na frase. Assinale a alternativa em que o\nsentido de mesmo equivale ao que se verifica no 3º. verso da 1ª. estrofe do poema de Vinícius de Moraes.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Pai, para onde fores, / irei também trilhando as mesmas ruas...” (Augusto dos Anjos)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Agora, como outrora, há aqui o mesmo contraste da vida interior, que é modesta, com a exterior, que é ruidosa.” (Machado de Assis)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Havia o mal, profundo e persistente, para o qual o remédio não surtiu efeito, mesmo em doses variáveis.” (Raimundo Faoro)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "“Mas, olhe cá, Mana Glória, há mesmo necessidade de fazê-lo padre?” (Machado de Assis)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Vamos de qualquer maneira, mas vamos mesmo.” (Aurélio)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

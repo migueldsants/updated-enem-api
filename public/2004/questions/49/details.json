@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2004",
+    "index": 49,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Um rio que é localmente degradado por dejetos orgânicos nele lançados pode passar por um processo de autodepuração. No\nentanto, a recuperação depende, entre outros fatores, da carga de dejetos recebida, da extensão e do volume do rio. Nesse\nprocesso, a distribuição das populações de organismos consumidores e decompositores varia, conforme mostra o esquema:\n\n![](https://enem.dev/2004/questions/49/67a8ccf7-498c-4534-a165-0b8319b0bf22.png)\n\nCom base nas informações fornecidas pelo esquema, são feitas as seguintes considerações sobre o processo de depuração do rio:\n\nI. a vida aquática superior pode voltar a existir a partir de uma certa distância do ponto de lançamento dos dejetos;\nII. os organismos decompositores são os que sobrevivem onde a oferta de oxigênio é baixa ou inexistente e a matéria\n\norgânica é abundante;\n\nIII. as comunidades biológicas, apesar da poluição, não se alteram ao longo do processo de recuperação.",
+    "files": [
+        "https://enem.dev/2004/questions/49/67a8ccf7-498c-4534-a165-0b8319b0bf22.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Está correto o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

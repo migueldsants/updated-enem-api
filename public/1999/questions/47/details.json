@@ -1,0 +1,45 @@
+{
+    "title": "Questão 47 - ENEM 1999",
+    "index": 47,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A obsidiana é uma pedra de origem\n\n![](https://enem.dev/1999/questions/47/7a74fa32-a906-438d-9208-e372db82c430.png)",
+    "files": [
+        "https://enem.dev/1999/questions/47/7a74fa32-a906-438d-9208-e372db82c430.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "é diretamente proporcional à sua idade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dobra a cada 10 000 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aumenta mais rapidamente quando a pedra é mais jovem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "aumenta mais rapidamente quando a pedra é mais velha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a partir de 100 000 anos não aumenta mais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

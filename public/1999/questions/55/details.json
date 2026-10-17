@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 1999",
+    "index": 55,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Com o uso intensivo do computador como ferramenta de escritório, previu-se o declínio acentuado do uso de papel para\n\nescrita. No entanto, essa previsão não se confirmou, e o consumo de papel ainda é muito grande. O papel é produzido a partir\nde material vegetal e, por conta disso, enormes extensões de florestas já foram extintas, uma parte sendo substituída por\nreflorestamentos homogêneos de uma só espécie (no Brasil, principalmente eucalipto).\n\nPara evitar que novas áreas de florestas nativas, principalmente as tropicais, sejam destruídas para suprir a produção\ncrescente de papel, foram propostas as seguintes ações:\n\nI. Aumentar a reciclagem de papel, através da coleta seletiva e processamento em usinas.\nII. Reduzir as tarifas de importação de papel.\nIII. Diminuir os impostos para produtos que usem papel reciclado.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para um meio ambiente global mais saudável, apenas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a proposta I é adequada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a proposta II é adequada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a proposta III é adequada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as propostas I e II são adequadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as propostas I e III são adequadas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

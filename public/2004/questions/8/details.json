@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2004",
+    "index": 8,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "VENDEDORES JOVENS\nFábrica de LONAS – Vendas no Atacado\n10 vagas para estudantes, 18 a 20 anos, sem experiência.\nSalário: R$ 300,00 fixo + comissão de R$ 0,50 por m² vendido.\nContato: 0xx97-43421167 ou atacadista@lonaboa.com.br",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na seleção para as vagas deste anúncio, feita por telefone ou correio eletrônico, propunha-se aos candidatos uma questão a ser\nresolvida na hora. Deveriam calcular seu salário no primeiro mês, se vendessem 500 m de tecido com largura de 1,40 m, e no\nsegundo mês, se vendessem o dobro. Foram bem sucedidos os jovens que responderam, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 300,00 e R$ 500,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 550,00 e R$ 850,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 650,00 e R$ 1000,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R$ 650,00 e R$ 1300,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 950,00 e R$ 1900,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

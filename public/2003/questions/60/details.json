@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2003",
+    "index": 60,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Leia o texto I de Josué de Castro, publicado em 1947.\n\nO Brasil, como país subdesenvolvido, em fase de acelerado processo de industrialização não conseguiu\nainda se libertar da fome.\nOs baixos índices de produtividade agrícola se constituíram como fatores de base no condicionamento de\num abastecimento alimentar insuficiente e inadequado às necessidades alimentares do nosso povo.\n\n(Adaptado de Josué de Castro. Geografia da Fome)\n\nLeia o texto II sobre a fome no Brasil, publicado em 2001.\n\nUma das evidências contidas no mapa da fome consiste na constatação de que o problema alimentar no\nBrasil não reside na disponibilidade e produção interna de grãos e dos produtos tradicionalmente\nconsumidos no País, mas antes no descompasso entre o poder aquisitivo de ampla parcela da população e\no custo de aquisição de uma quantidade de alimentos compatível com as necessidades do trabalhador e de\nsua família.\n\n(http://www.mct.gov.br)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Comparando os textos I e II podemos concluir que a persistência da fome no Brasil resulta principalmente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da renda insuficiente dos trabalhadores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "de uma rede de transporte insuficiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da carência de terras produtivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do processo de industrialização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da pequena produção de grãos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

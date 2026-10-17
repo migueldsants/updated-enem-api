@@ -1,0 +1,45 @@
+{
+    "title": "Questão 50 - ENEM 2011 - Reaplicação",
+    "index": 50,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Iniciativas do poder público para prevenir o uso\nde bebidas alcoólicas por motoristas, causa de muitos\nacidentes nas estradas do país, trouxeram à ordem do dia,\nnão sem suscitar polêmica, o instrumento popularmente\nconhecido como bafômetro. Do ponto de vista de\ndetecção e medição, os instrumentos normalmente\nusados pelas polícias rodoviárias do Brasil e de outros\npaíses utilizam o ar que os “suspeitos” sopram para\ndentro do aparelho, através de um tubo descartável,\npara promover a oxidação do etanol a etanal. O método\nbaseia-se no princípio da pilha de combustível: o etanol\né oxidado em meio ácido sobre um disco plástico poroso\ncoberto com pó de platina (catalisador) e umedecido com\nácido sulfúrico, sendo um eletrodo conectado a cada\nlado desse disco poroso. A corrente elétrica produzida,\nproporcional à concentração de álcool no ar expirado\ndos pulmões da pessoa testada, é lida numa escala que\né proporcional ao teor de álcool no sangue. O esquema\nde funcionamento desse detector de etanol pode ser\nvisto na figura.\n\n![](https://enem.dev/2011-reaplicacao/questions/50/062c997f-94f8-4ae3-877b-62c807dcba80.png)\n\nAs reações eletroquímicas envolvidas no processo são:\n\nEletrodo A:\nCH₃CH₂OH (g) → CH₃CHO (g) + 2 H⁺ (aq) + 2 e⁻\n\nEletrodo B:\n½ O₂ (g) + 2 H⁺ (aq) + 2 e⁻ → H₂O (l)\n\nBRAATHEN, P. C. Hálito culpado: o princípio químico do bafômetro. Química nova na escola.\n\nSão Paulo, nº 5, maio 1997 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/50/062c997f-94f8-4ae3-877b-62c807dcba80.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No estudo das pilhas, empregam-se códigos e\nnomenclaturas próprias da Química, visando caracterizar\nos materiais, as reações e os processos envolvidos.\nNesse contexto, a pilha que compõe o bafômetro\napresenta o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eletrodo A como cátodo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "etanol como agente oxidante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "eletrodo B como polo positivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "gás oxigênio como agente redutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fluxo de elétrons do eletrodo B para o eletrodo A.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

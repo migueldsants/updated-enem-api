@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2000",
+    "index": 8,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Uma companhia de seguros levantou dados sobre os carros de determinada\ncidade e constatou que são roubados, em média, 150 carros por ano.\nO número de carros roubados da marca X é o dobro do número de carros\nroubados da marca Y, e as marcas X e Y juntas respondem por cerca de 60%\ndos carros roubados.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número esperado de carros roubados da marca Y é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

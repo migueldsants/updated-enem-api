@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2001",
+    "index": 48,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A pesca não predatória pressupõe que cada peixe retirado de seu hábitat já tenha procriado,\npelo menos uma vez. Para algumas espécies, isso ocorre depois dos peixes apresentarem a\nmáxima variação anual de seu peso.\nO controle de pesca no Pantanal é feito com base no peso de cada espécie.\nA tabela fornece o peso do pacu, uma dessas espécies, em cada ano.\n\n![](https://enem.dev/2001/questions/48/6d1f0b1f-3a57-444f-908f-97ec5ae5c747.png)",
+    "files": [
+        "https://enem.dev/2001/questions/48/6d1f0b1f-3a57-444f-908f-97ec5ae5c747.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando esses dados, a pesca do pacu deve ser autorizada para espécimes com peso\nde, no mínimo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

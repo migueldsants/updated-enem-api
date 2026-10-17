@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2010 - Reaplicação",
+    "index": 135,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Assaltantes roubam no ABC 135 mil figurinhas da\nCopa do Mundo\n\nCinco assaltantes roubaram 135 mil figurinhas do álbum\nda Copa do Mundo 2010 na noite de quarta-feira (21),\nem Santo André, no ABC. Segundo a assessoria da\nTreelog, empresa que distribui os cromos, ninguém ficou\nferido durante a ação.\nO roubo aconteceu por volta das 23h30. Armados, os\ncriminosos renderam 30 funcionários que estavam\nno local, durante cerca de 30 minutos, e levaram 135\ncaixas, cada uma delas contendo mil figurinhas. Cada\npacote com cinco cromos custa R$ 0,75.\nProcurada pelo G1, a Panini, editora responsável pelas\nfigurinhas, afirmou que a falta dos cromos em algumas\nbancas não tem relação com o roubo. Segundo a editora,\nisso se deve à grande demanda pelas figurinhas.\n\nDisponível em: http://g1.globo.com. Acesso em: 23 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A notícia é um gênero jornalístico. No texto, o que\ncaracteriza a linguagem desse gênero é o uso de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expressões linguísticas populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "palavras de origem estrangeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "variantes linguísticas regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "termos técnicos e científicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "formas da norma padrão da língua.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

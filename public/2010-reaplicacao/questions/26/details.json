@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2010 - Reaplicação",
+    "index": 26,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Para os amigos pão, para os inimigos pau; aos amigos\nse faz justiça, aos inimigos aplica-se a lei.\n\nLEAL, V. N. Coronelismo, enxada e voto. São Paulo: Alfa Omega.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse discurso, típico do contexto histórico da República\nVelha e usado por chefes políticos, expressa uma\nrealidade caracterizada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela força política dos burocratas do nascente Estado republicano, que utilizavam de suas prerrogativas para controlar e dominar o poder nos municípios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pelo controle político dos proprietários no interior do país, que buscavam, por meio dos seus currais eleitorais, enfraquecer a nascente burguesia brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pelo mandonismo das oligarquias no interior do Brasil, que utilizavam diferentes mecanismos assistencialistas e de favorecimento para garantir o controle dos votos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "pelo domínio político de grupos ligados às velhas instituições monárquicas e que não encontraram espaço de ascensão política na nascente república.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pela aliança política firmada entre as oligarquias do Norte e Nordeste do Brasil, que garantiria uma alternância no poder federal de presidentes originários dessas regiões.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

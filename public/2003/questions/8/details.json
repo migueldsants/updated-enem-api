@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2003",
+    "index": 8,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Do pedacinho de papel ao livro impresso vai uma longa distância. Mas o que o escritor quer, mesmo, é isso: ver o seu\ntexto em letra de forma. A gaveta é ótima para aplacar a fúria criativa; ela faz amadurecer o texto da mesma forma\nque a adega faz amadurecer o vinho. Em certos casos, a cesta de papel é melhor ainda.\nO período de maturação na gaveta é necessário, mas não deve se prolongar muito. ‘Textos guardados acabam\ncheirando mal’, disse Silvia Plath, (...) que, com esta frase, deu testemunho das dúvidas que atormentam o escritor:\npublicar ou não publicar? guardar ou jogar fora?\n\n(Moacyr Scliar. O escritor e seus desafios.)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse texto, o escritor Moacyr Scliar usa imagens para refletir sobre uma etapa da criação literária. A idéia de que o\nprocesso de maturação do texto nem sempre é o que garante bons resultados está sugerida na seguinte frase:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“A gaveta é ótima para aplacar a fúria criativa.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Em certos casos, a cesta de papel é melhor ainda.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“O período de maturação na gaveta é necessário, (...).”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Mas o que o escritor quer, mesmo, é isso: ver o seu texto em letra de forma.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“ela (a gaveta) faz amadurecer o texto da mesma forma que a adega faz amadurecer o vinho.”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

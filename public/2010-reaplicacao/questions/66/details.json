@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2010 - Reaplicação",
+    "index": 66,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Segundo Jeffrey M. Smith, pesquisador de um laboratório\nque faz análises de organismos geneticamente\nmodificados, após a introdução da soja transgênica no\nReino Unido, aumentaram em 50% os casos de alergias.\n“O gene que é colocado na soja cria uma proteína nova\nque até então não existia na alimentação humana, a\nqual poderia ser potencialmente alergênica”, explica o\npesquisador.\n\nCorreio do Estado/MS. 19 abr. 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se as informações do texto, os grãos\ntransgênicos que podem causar alergias aos indivíduos\nque irão consumi-los são aqueles que apresentam, em\nsua composição, proteínas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "que podem ser reconhecidas como antigênicas pelo sistema imunológico desses consumidores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "que não são reconhecidas pelos anticorpos produzidos pelo sistema imunológico desses consumidores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "com estrutura primária idêntica às já encontradas no sistema sanguíneo desses consumidores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "com sequência de aminoácidos idêntica às produzidas pelas células brancas do sistema sanguíneo desses consumidores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "com estrutura quaternária idêntica à dos anticorpos produzidos pelo sistema imunológico desses consumidores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

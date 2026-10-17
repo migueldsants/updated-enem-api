@@ -1,0 +1,46 @@
+{
+    "title": "Questão 22 - ENEM 2006",
+    "index": 22,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Os mapas a seguir revelam como as fronteiras e suas\nrepresentações gráficas são mutáveis.\n\nPolôniaRep. Polônia\nChecoslováquia^nha Checa\nAlema-URSS Eslováquia\n\nIugoslávia Bósnia Herzegovina\n\n![](https://enem.dev/2006/questions/22/fa8b7c5b-d23a-4c60-b8f0-38576edacbb6.png)\n\n![](https://enem.dev/2006/questions/22/842f4a3b-b29b-43b9-8138-20b2ad165a81.png)\n\nMar Negro Sérvia e\n\nTurquia Turquia\n\nGuerra Fria (1945-1989) Pós-Guerra Fria",
+    "files": [
+        "https://enem.dev/2006/questions/22/fa8b7c5b-d23a-4c60-b8f0-38576edacbb6.png",
+        "https://enem.dev/2006/questions/22/842f4a3b-b29b-43b9-8138-20b2ad165a81.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essas significativas mudanças nas fronteiras de países da\nEuropa Oriental nas duas últimas décadas do século XX, direta\nou indiretamente, resultaram",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do fortalecimento geopolítico da URSS e de seus países aliados, na ordem internacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da crise do capitalismo na Europa, representada principalmente pela queda do muro de Berlim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da luta de antigas e tradicionais comunidades nacionais e religiosas oprimidas por Estados criados antes da Segunda Guerra Mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do avanço do capitalismo e da ideologia neoliberal no mundo ocidental.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "da necessidade de alguns países subdesenvolvidos ampliarem seus territórios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

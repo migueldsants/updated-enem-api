@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2004",
+    "index": 34,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A necessidade de água tem tornado cada vez mais importante a reutilização planejada desse recurso. Entretanto, os processos\nde tratamento de águas para seu reaproveitamento nem sempre as tornam potáveis, o que leva a restrições em sua utilização.\nAssim, dentre os possíveis empregos para a denominada “água de reuso”, recomenda-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o uso doméstico, para preparo de alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o uso em laboratórios, para a produção de fármacos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o abastecimento de reservatórios e mananciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o uso individual, para banho e higiene pessoal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o uso urbano, para lavagem de ruas e áreas públicas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

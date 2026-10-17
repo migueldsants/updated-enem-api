@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2011 - Reaplicação",
+    "index": 144,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura que segue é formada por 5 quadrados\ncongruentes, cuja medida do lado é L, e um quadrado\nABCD com vértices em um único vértice de quatro dos\ncinco quadrados.\n\n![](https://enem.dev/2011-reaplicacao/questions/144/9376faa8-9d83-441c-9ddf-4ffb353ac96d.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/144/9376faa8-9d83-441c-9ddf-4ffb353ac96d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A área do quadrado ABCD é equivalente à área de um\nretângulo de lados",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2L e 3L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3L e 1L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3L e 3L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4L e 1L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5L e 1L.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

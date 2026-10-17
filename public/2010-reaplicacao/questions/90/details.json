@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2010 - Reaplicação",
+    "index": 90,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com a frequente adulteração de combustíveis, além de\nfiscalização, há necessidade de prover meios para que\no consumidor verifique a qualidade do combustível. Para\nisso, nas bombas de combustível existe um densímetro,\nsemelhante ao ilustrado na figura. Um tubo de vidro\nfechado fica imerso no combustível, devido ao peso\ndas bolinhas de chumbo colocadas no seu interior. Uma\ncoluna vertical central marca a altura de referência, que\ndeve ficar abaixo ou no nível do combustível para indicar\nque sua densidade está adequada. Como o volume do\nlíquido varia com a temperatura mais que o do vidro,\na coluna vertical é preenchida com mercúrio para\ncompensar variações de temperatura.\n\n![](https://enem.dev/2010-reaplicacao/questions/90/4b233ce4-f2f2-4aa6-96a1-bbe5c5b00d02.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/90/4b233ce4-f2f2-4aa6-96a1-bbe5c5b00d02.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, a coluna vertical de mercúrio,\nquando aquecida,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "indica a variação da densidade do combustível com a temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mostra a diferença de altura da coluna a ser corrigida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mede a temperatura ambiente no momento do abastecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "regula a temperatura do densímetro de acordo com a do ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "corrige a altura de referência de acordo com a densidade do líquido.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

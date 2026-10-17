@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2010 - Reaplicação",
+    "index": 68,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Experimentos realizados no século XX demonstraram\nque hormônios femininos e mediadores químicos atuam\nno comportamento materno de determinados animais,\ncomo cachorros, gatos e ratos, reduzindo o medo e\na ansiedade, o que proporciona maior habilidade de\norientação espacial. Por essa razão, as fêmeas desses\nanimais abandonam a prole momentaneamente, a fim\nde encontrar alimentos, o que ocorre com facilidade e\nrapidez. Ainda, são capazes de encontrar rapidamente o\ncaminho de volta para proteger os filhotes.\n\nVARELLA, D. Borboletas da alma: escritos sobre ciência e saúde.\nCompanhia das Letras, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando a situação descrita sob o ponto de\nvista da hereditariedade e da evolução biológica,\no comportamento materno decorrente da ação das\nsubstâncias citadas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "transmitido de geração a geração, sendo que indivíduos portadores dessas características terão mais chance de sobreviver e deixar descendentes com as mesmas características.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "transmitido em intervalos de gerações, alternando descendentes machos e fêmeas, ou seja, em uma geração recebem a característica apenas os machos e, na outra geração, apenas as fêmeas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "determinado pela ação direta do ambiente sobre a fêmea quando ela está no período gestacional, portanto todos os descendentes receberão as características.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "determinado pelas fêmeas, na medida em que elas transmitem o material genético necessário à produção de hormônios e dos mediadores químicos para sua prole de fêmeas, durante o período gestacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "determinado após a fecundação, pois os espermatozoides dos machos transmitem as características para a prole e, ao nascerem, os indivíduos são selecionados pela ação do ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

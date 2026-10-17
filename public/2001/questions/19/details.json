@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2001",
+    "index": 19,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "“Os progressos da medicina condicionaram a sobrevivência de número cada vez maior de\nindivíduos com constituições genéticas que só permitem o bem-estar quando seus efeitos são\ndevidamente controlados através de drogas ou procedimentos terapêuticos. São exemplos os\ndiabéticos e os hemofílicos, que só sobrevivem e levam vida relativamente normal ao\nreceberem suplementação de insulina ou do fator VIII da coagulação sanguínea”.\n\nSALZANO, M. Francisco. Ciência Hoje: SBPC: 21(125), 1996.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essas afirmações apontam para aspectos importantes que podem ser relacionados à\nevolução humana. Pode-se afirmar que, nos termos do texto,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os avanços da medicina minimizam os efeitos da seleção natural sobre as populações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "os usos da insulina e do fator VIII da coagulação sanguínea funcionam como agentes modificadores do genoma humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as drogas medicamentosas impedem a transferência do material genético defeituoso ao longo das gerações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os procedimentos terapêuticos normalizam o genótipo dos hemofílicos e diabéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as intervenções realizadas pela medicina interrompem a evolução biológica do ser humano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

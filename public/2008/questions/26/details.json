@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2008",
+    "index": 26,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Um dos insumos energéticos que volta a ser\nconsiderado como opção para o fornecimento de petróleo\né o aproveitamento das reservas de folhelhos\npirobetuminosos, mais conhecidos como xistos\npirobetuminosos. As ações iniciais para a exploração de\nxistos pirobetuminosos são anteriores à exploração de\npetróleo, porém as dificuldades inerentes aos diversos\nprocessos, notadamente os altos custos de mineração e de\nrecuperação de solos minerados, contribuíram para\nimpedir que essa atividade se expandisse.\n\nO Brasil detém a segunda maior reserva mundial\nde xisto. O xisto é mais leve que os óleos derivados de\npetróleo, seu uso não implica investimento na troca de\nequipamentos e ainda reduz a emissão de particulados\npesados, que causam fumaça e fuligem. Por ser fluido em\ntemperatura ambiente, é mais facilmente manuseado e\narmazenado.\n\nInternet: <www2.petrobras.com.br> (com adaptações).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A substituição de alguns óleos derivados de petróleo pelo\nóleo derivado do xisto pode ser conveniente por motivos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ambientais: a exploração do xisto ocasiona pouca interferência no solo e no subsolo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "técnicos: a fluidez do xisto facilita o processo de produção de óleo, embora seu uso demande troca de equipamentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "econômicos: é baixo o custo da mineração e da produção de xisto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "políticos: a importação de xisto, para atender o mercado interno, ampliará alianças com outros países.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estratégicos: a entrada do xisto no mercado é oportuna diante da possibilidade de aumento dos preços do petróleo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

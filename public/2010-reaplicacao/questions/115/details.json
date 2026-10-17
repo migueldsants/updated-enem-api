@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2010 - Reaplicação",
+    "index": 115,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As doze cores do vermelho\nVocê volta para casa depois de ter ido jantar com sua\namiga dos olhos verdes. Verdes. Às vezes quando você\nsai do escritório você quer se distrair um pouco. Você\nnão suporta mais tem seu trabalho de desenhista. Cópias\nplantas réguas milímetros nanquim compasso 360º.\nde cercado cerco. Antes de dormir você quer estudar\npara a prova de história da arte mas sua menina menor\ntem febre e chama você. A mão dela na sua mão é um\npeixe sem sol em irradiações noturnas. Quentes ondas.\nSeu marido se aproxima os pés calçados de meias nos\nchinelos folgados. Ele olha as horas nos dois relógios\nde pulso. Ele acusa você de ter ficado fora de casa o\ndia todo até tarde da noite enquanto a menina ardia em\nfebre. Ponto e ponta. Dor perfume crescente...\n\nCUNHA, H. P. As doze cores do vermelho. Rio de Janeiro: Tempo Brasileiro, 2009.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A literatura brasileira contemporânea tem abordado,\nsob diferentes perspectivas, questões relacionadas\nao universo feminino. No fragmento, entre os recursos\nexpressivos utilizados na construção da narrativa,\ndestaca-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "repetição de “você”, que se refere ao interlocutor da",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "personagem. ausência de vírgulas, que marca o discurso irritado",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "da personagem. descrição minuciosa do espaço do trabalho, que se",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "opõe ao da casa. autoironia, que ameniza o sentimento de opressão",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da personagem. ausência de metáforas, que é responsável pela objetividade do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

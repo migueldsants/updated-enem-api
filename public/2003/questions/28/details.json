@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2003",
+    "index": 28,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sabe-se que uma área de quatro hectares de floresta, na região tropical, pode conter cerca de 375 espécies de\nplantas enquanto uma área florestal do mesmo tamanho, em região temperada, pode apresentar entre 10 e 15\nespécies.\nO notável padrão de diversidade das florestas tropicais se deve a vários fatores, entre os quais é possível citar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "altitudes elevadas e solos profundos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a ainda pequena intervenção do ser humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "sua transformação em áreas de preservação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "maior insolação e umidade e menor variação climática.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "alternância de períodos de chuvas com secas prolongadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

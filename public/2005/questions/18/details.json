@@ -1,0 +1,47 @@
+{
+    "title": "Questão 18 - ENEM 2005",
+    "index": 18,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 17 e 18.\n\nNa investigação forense, utiliza-se luminol, uma substância que reage com o ferro presente na hemoglobina do\nsangue, produzindo luz que permite visualizar locais contaminados com pequenas quantidades de sangue, mesmo em\nsuperfícies lavadas.\nÉ proposto que, na reação do luminol (I) em meio alcalino, na presença de peróxido de hidrogênio (II) e de um metal\nde transição (Mⁿ⁺), forma-se o composto 3-amino ftalato (III) que sofre uma relaxação dando origem ao produto final\nda reação (IV), com liberação de energia (hν) e de gás nitrogênio (N ).\n\n(Adaptado. Química Nova, 25, nº 6, 2002. pp. 1003-1011.)\n\nI II III IV\n\n![](https://enem.dev/2005/questions/18/abeaca72-50d7-41cd-8025-86cab78a1917.png)\n\n![](https://enem.dev/2005/questions/18/036962d6-687d-48e6-a63b-67fe4435484d.png)\n\n+ hν + N₂\n\n![](https://enem.dev/2005/questions/18/0441415b-5c36-434c-8866-ce39559b7e58.png)\n\n+ H₂O₂ + Mⁿ⁺\n\nDados: pesos moleculares: Luminol = 177\n\n3-amino ftalato = 164",
+    "files": [
+        "https://enem.dev/2005/questions/18/abeaca72-50d7-41cd-8025-86cab78a1917.png",
+        "https://enem.dev/2005/questions/18/036962d6-687d-48e6-a63b-67fe4435484d.png",
+        "https://enem.dev/2005/questions/18/0441415b-5c36-434c-8866-ce39559b7e58.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na análise de uma amostra biológica para análise forense, utilizou-se 54 g de luminol e peróxido de hidrogênio em\nexcesso, obtendo-se um rendimento final de 70%. Sendo assim, a quantidade do produto final (IV) formada na reação\nfoi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "123,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "114,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "86,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "16,2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

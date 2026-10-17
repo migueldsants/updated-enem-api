@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2011 - Reaplicação",
+    "index": 131,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/131/38f50877-9420-4beb-83e3-d25d4f9158e3.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/131/38f50877-9420-4beb-83e3-d25d4f9158e3.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A relação entre texto e imagem potencializa a força de\npersuasão desse anúncio, que apresenta como principal\nobjetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "informar as pessoas de que elas podem perder 70% do seu corpo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "confrontar opiniões acerca do descaso para com o meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "enumerar fatos que possam trazer mais informações ao contexto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conscientizar de que o consumismo de água agride o planeta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "sensibilizar quanto à situação dos que vivem sem água em sacrifício pelo planeta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

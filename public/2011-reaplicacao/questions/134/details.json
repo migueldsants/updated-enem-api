@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2011 - Reaplicação",
+    "index": 134,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Dados Internacionais de Catalogação na Publicação (CPI)\nBiblioteca Goiandira Ayres de Couto\n\nDepartamento Estadual de Trânsito de Goiás.\nManual de primeiros socorros no trânsito / DETRAN-GO;\n(org.) Clives Pereira Sanches. Goiânia: DETRAN-GO, 2005\n25 p. ; il.\n\n1. Primeiros Socorros. 2. Trânsito. 3. Acidentes. 4.\nEmergências. I. Sanches, Clives Pereira. II. Título.\n\nCDU: 351.88:656.11(81)\n\nDisponível em: http://www.scg.goias.gov.br. Acesso em: 28 jul. 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O exemplo de gênero textual citado é largamente\nutilizado em bibliotecas. Suas características o definem\ncomo pertencente ao gênero",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aviso, por instruir o leitor a identificar o autor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ficha, que é utilizada para identificar uma obra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "formulário, que contém informações sobre o autor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "lista, por relacionar os assuntos da obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manual, que define os passos da busca.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Questão 41 - ENEM 2000",
+    "index": 41,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Um boato tem um público-alvo e alastra-se com determinada rapidez. Em geral,\nessa rapidez é diretamente proporcional ao número de pessoas desse público\nque conhecem o boato e diretamente proporcional também ao número de\npessoas que não o conhecem. Em outras palavras, sendo R a rapidez de\npropagação, P o público-alvo e x o número de pessoas que conhecem o boato,\ntem-se:\nR(x) = k.x.(P-x), onde k é uma constante positiva característica do boato.",
+    "files": [
+        "https://enem.dev/2000/questions/41/0f9ba293-c2b9-4f61-b929-a01cd047a992.png",
+        "https://enem.dev/2000/questions/41/be315222-5507-4173-8917-a05fa7ff02ac.png",
+        "https://enem.dev/2000/questions/41/c3042433-6aaa-4cf0-93dc-b92dc79cc44e.png",
+        "https://enem.dev/2000/questions/41/c9802cdc-8288-44b0-87fe-ca1b9de32f43.png",
+        "https://enem.dev/2000/questions/41/e783035a-8f45-48f6-99b4-d6b0f9e8ae3b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O gráfico cartesiano que melhor representa a função R(x), para x real, é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/41/0f9ba293-c2b9-4f61-b929-a01cd047a992.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/41/be315222-5507-4173-8917-a05fa7ff02ac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/41/c3042433-6aaa-4cf0-93dc-b92dc79cc44e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/41/c9802cdc-8288-44b0-87fe-ca1b9de32f43.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/41/e783035a-8f45-48f6-99b4-d6b0f9e8ae3b.png",
+            "isCorrect": true
+        }
+    ]
+}

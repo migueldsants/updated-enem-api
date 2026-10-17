@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2007",
+    "index": 63,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "O artigo 1.º da Lei Federal n.º 9.433/1997 (Lei das\nÁguas) estabelece, entre outros, os seguintes fundamentos:\n\nI a água é um bem de domínio público;\nII a água é um recurso natural limitado, dotado de\nvalor econômico;\nIII em situações de escassez, os usos prioritários dos\nrecursos hídricos são o consumo humano e a\ndessedentação de animais;\nIV a gestão dos recursos hídricos deve sempre\nproporcionar o uso múltiplo das águas.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considere que um rio nasça em uma fazenda cuja\núnica atividade produtiva seja a lavoura irrigada de milho e\nque a companhia de águas do município em que se\nencontra a fazenda colete água desse rio para abastecer a\ncidade. Considere, ainda, que, durante uma estiagem, o\nvolume de água do rio tenha chegado ao nível crítico,\ntornando-se insuficiente para garantir o consumo humano e\na atividade agrícola mencionada.\nNessa situação, qual das medidas abaixo estaria de acordo\ncom o artigo 1.º da Lei das Águas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manter a irrigação da lavoura, pois a água do rio pertence ao dono da fazenda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Interromper a irrigação da lavoura, para se garantir o abastecimento de água para consumo humano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Manter o fornecimento de água apenas para aqueles que pagam mais, já que a água é bem dotado de valor econômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manter o fornecimento de água tanto para a lavoura quanto para o consumo humano, até o esgotamento do rio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interromper o fornecimento de água para a lavoura e para o consumo humano, a fim de que a água seja transferida para outros rios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

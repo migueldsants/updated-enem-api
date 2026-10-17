@@ -1,0 +1,51 @@
+{
+    "title": "Questão 54 - ENEM 1998",
+    "index": 54,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "As figuras abaixo representam a variação anual de temperatura e a quantidade de chuvas mensais em\n\ndado lugar, sendo chamados de climogramas. Neste tipo de gráfico, as temperaturas são\n\nrepresentadas pelas linhas, e as chuvas pelas colunas.\n\n1 2\n\n![](https://enem.dev/1998/questions/54/b2d23123-18ed-4065-ad95-144bc7e34add.png)\n\n![](https://enem.dev/1998/questions/54/bc6d4713-8ea0-4433-87b5-1215a53253f7.png)\n\n![](https://enem.dev/1998/questions/54/4d0427b3-899d-43e7-b8d9-b33e26023902.png)\n\n![](https://enem.dev/1998/questions/54/1a347f85-4e1f-40ae-af20-0510da8522b4.png)\n\n![](https://enem.dev/1998/questions/54/359c8f62-12d0-40e3-ba78-32240550ec82.png)\n\n![](https://enem.dev/1998/questions/54/70eea20c-6aae-43e8-9b01-20fb4d66c31d.png)\n\n![](https://enem.dev/1998/questions/54/42587538-14dc-44a9-8bfd-e7e6399b13ac.png)\n\nLeia e analise.\n\nA distribuição das chuvas no decorrer do ano, conforme mostrado nos gráficos, é um parâmetro\n\nimportante na caracterização de um clima.",
+    "files": [
+        "https://enem.dev/1998/questions/54/b2d23123-18ed-4065-ad95-144bc7e34add.png",
+        "https://enem.dev/1998/questions/54/bc6d4713-8ea0-4433-87b5-1215a53253f7.png",
+        "https://enem.dev/1998/questions/54/4d0427b3-899d-43e7-b8d9-b33e26023902.png",
+        "https://enem.dev/1998/questions/54/1a347f85-4e1f-40ae-af20-0510da8522b4.png",
+        "https://enem.dev/1998/questions/54/359c8f62-12d0-40e3-ba78-32240550ec82.png",
+        "https://enem.dev/1998/questions/54/70eea20c-6aae-43e8-9b01-20fb4d66c31d.png",
+        "https://enem.dev/1998/questions/54/42587538-14dc-44a9-8bfd-e7e6399b13ac.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A esse respeito podemos dizer que a afirmativa:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "está errada, pois o que importa é o total pluviométrico anual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "está certa, pois, juntamente com o total pluviométrico anual, são importantes variáveis na definição das condições de umidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "está errada, pois a distribuição das chuvas não tem nenhuma relação com a temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "está certa, pois é o que vai definir as estações climáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "está certa, pois este é o parâmetro que define o clima de uma dada área.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

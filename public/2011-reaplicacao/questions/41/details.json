@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2011 - Reaplicação",
+    "index": 41,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Eleições, no Império, eram um acontecimento\nmuito especial. Nesses dias o mais modesto cidadão\nvestia sua melhor roupa, ou a menos surrada, e exibia\naté sapatos, peças do vestuário tão valorizadas entre\naqueles que pouco tinham. Em contraste com essa\nmaioria, vestimentas de gala de autoridades civis,\nmilitares e eclesiásticas ― tudo do bom e do melhor\ncompunha a indumentária de quem era mais que um\ncidadão qualquer e queria exibir em público essa sua\nprivilegiada condição.\n\nCAVANI, S. Às urnas, cidadãos!In: Revista de História da Biblioteca Nacional.\nAno 3, nº 26, nov. 2007.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No Brasil do século XIX, a noção de cidadania estava\nvinculada à participação nos processos eleitorais. As\neleições revelavam um tipo de cidadania carente da\nigualdade jurídica defendida nesse mesmo período por\nmuitos movimentos europeus herdeiros do Iluminismo\ndevido à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exclusão dos analfabetos, que impedia a maioria da população de participar das eleições.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "raridade das eleições, que criava apenas a ilusão de participação entre os cidadãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vigência da Constituição do Império, que definia como cidadãos apenas aqueles que eram eleitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "presença do Poder Moderador, que significava, na prática, a inutilidade das eleições legislativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "existência do voto censitário, que reafirmava as hierarquias sociais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

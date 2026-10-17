@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2010 - Reaplicação",
+    "index": 101,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/101/84d58616-f8fc-4090-8998-ce023e095af6.png)\n\nXAVIER, C. Disponível em: http://www.releituras.com. Acesso em: 03 set. 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/101/84d58616-f8fc-4090-8998-ce023e095af6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando a relação entre os usos oral e escrito da\nlíngua, tratada no texto, verifica-se que a escrita",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "modifica as ideias e intenções daqueles que tiveram seus textos registrados por outros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "permite, com mais facilidade, a propagação e a permanência de ideias ao longo do tempo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "figura como um modo comunicativo superior ao da oralidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "leva as pessoas a desacreditarem nos fatos narrados por meio da oralidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tem seu surgimento concomitante ao da oralidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 27 - ENEM 2007",
+    "index": 27,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Textos para as questões 27 e 28\n\n![](https://enem.dev/2007/questions/27/b68679a0-f6a7-4eed-b22a-1deed98c0fe6.png)\n\nAqui na floresta Valente na guerra,\nDos ventos batida, Quem há, como eu sou?\nFaçanhas de bravos Quem vibra o tacape\nNão geram escravos, Com mais valentia?\nQue estimem a vida Quem golpes daria\nSem guerra e lidar. Fatais, como eu dou?\n— Ouvi-me, Guerreiros, — Guerreiros, ouvi-me;\n— Ouvi meu cantar. — Quem há, como eu sou?\n\nGonçalves Dias.\n\n![](https://enem.dev/2007/questions/27/3cb73858-f6a1-4e5f-8c78-e29715fa4de2.png)\n\nMário de Andrade.",
+    "files": [
+        "https://enem.dev/2007/questions/27/b68679a0-f6a7-4eed-b22a-1deed98c0fe6.png",
+        "https://enem.dev/2007/questions/27/3cb73858-f6a1-4e5f-8c78-e29715fa4de2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A leitura comparativa dos dois textos acima indica que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ambos têm como tema a figura do indígena brasileiro apresentada de forma realista e heróica, como símbolo máximo do nacionalismo romântico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a abordagem da temática adotada no texto escrito em versos é discriminatória em relação aos povos indígenas do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as perguntas “— Quem há, como eu sou?” (1.º texto) e “Quem podia saber do Herói?” (2.º texto) expressam diferentes visões da realidade indígena brasileira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o texto romântico, assim como o modernista, aborda o extermínio dos povos indígenas como resultado do processo de colonização no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os versos em primeira pessoa revelam que os indígenas podiam expressar-se poeticamente, mas foram silenciados pela colonização, como demonstra a presença do narrador, no segundo texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

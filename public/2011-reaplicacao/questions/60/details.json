@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2011 - Reaplicação",
+    "index": 60,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com a utilização dos biocombustíveis, grandes áreas\nestão sendo ocupadas com a cultura da cana-de-açúcar,\no que acarreta o desgaste do solo. Para contrabalançar\nesse desgaste, tem-se iniciado o plantio alternado de\ncana-de-açúcar com algumas espécies de leguminosas,\njá que essa rotação dispensa a adubação nitrogenada.\n\nDisponível em: http://www.agencia.cnptia.embrapa.br. Acesso em: 16 jun. 2011(adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa prática agrícola ocasiona o enriquecimento do solo,\nporque as leguminosas possuem bactérias em associação\ncom suas raízes, que favorecem o processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nitrosação, no qual a amônia não absorvida pelas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "plantas é oxidada e convertida em nitrito. fixação, no qual o nitrogênio do ar é convertido em",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "amônia e incorporado em compostos nitrogenados. amonificação, no qual os decompositores devolvem ao solo os compostos minerais e liberam nitrogênio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na forma de amônia. desnitrificação, no qual o nitrato é oxidado em",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "compostos orgânicos que retornam ao solo. nitratação, no qual os nitritos formados são liberados no solo e oxidados, formando nitratos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2010 - Reaplicação",
+    "index": 148,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No dia 12 de janeiro de 2010, o governo da Venezuela\nadotou um plano de racionamento de energia que previa\ncortes no fornecimento em todo o país.\n\nO ministro da Energia afirmou que uma das formas mais\neficazes de se economizar energia nos domicílios seria o\nuso de lâmpadas que consomem 20% menos da energia\nconsumida por lâmpadas normais.\n\nDisponível em: http://www.bbc.co.uk. Acesso em: 23 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em uma residência, o consumo mensal de energia\nproveniente do uso de lâmpadas comuns é de 63 kWh.\nSe todas as lâmpadas dessa residência forem trocadas\npelas lâmpadas econômicas, esse consumo passará a\nser de, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9 kWh.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "11 kWh.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "22 kWh.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35 kWh.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 kWh.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

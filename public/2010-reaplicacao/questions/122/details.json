@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2010 - Reaplicação",
+    "index": 122,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Maurício e o leão chamado Millôr\n\nLivro de Flavia Maria ilustrado por cartunista nasce como\num dos grandes títulos do gênero infantil\n\nUm livro infantil ilustrado por Millôr há de ter alguma\ngrandeza natural, um viço qualquer que o destaque de\num gênero que invade as livrarias (2 mil títulos novos,\ntodo ano) nem sempre com qualidade. Uma pegada que\no afaste do risco de fazer sombra ao fato de ser ilustrado\npor Millôr: Maurício - O Leão de Menino (CosacNaify, 24\npáginas, R$ 35), de Flavia Maria, tem essa pegada.\n\nDisponível em: http://www.revistalingua.com.br. Acesso em: 30 abr. 2010 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Como qualquer outra variedade linguística, a norma\npadrão tem suas especificidades. No texto, observam-\nse marcas da norma padrão que são determinadas\npelo veículo em que ele circula, que é a Revista Língua\nPortuguesa. Entre essas marcas, evidencia-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a obediência às normas gramaticais, como a concordância em “um gênero que invade as livrarias”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a presença de vocabulário arcaico, como em “há de ter alguma grandeza natural”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o predomínio de linguagem figurada, como em “um viço qualquer que o destaque”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o emprego de expressões regionais, como em “tem essa pegada”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o uso de termos técnicos, como em “grandes títulos do gênero infantil”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

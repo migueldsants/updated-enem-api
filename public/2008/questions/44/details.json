@@ -1,0 +1,46 @@
+{
+    "title": "Questão 44 - ENEM 2008",
+    "index": 44,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "O índice de massa corpórea (IMC) é uma medida que\npermite aos médicos fazer uma avaliação preliminar das\ncondições físicas e do risco de uma pessoa desenvolver\ncertas doenças, conforme mostra a tabela abaixo.\n\n![](https://enem.dev/2008/questions/44/737b0d30-7c76-49a9-8099-414e558abe98.png)\n\nConsidere as seguintes informações a respeito de João,\nMaria, Cristina, Antônio e Sérgio.\n\n![](https://enem.dev/2008/questions/44/7e7c71a3-4b62-406d-805b-f36ff4b9da64.png)",
+    "files": [
+        "https://enem.dev/2008/questions/44/737b0d30-7c76-49a9-8099-414e558abe98.png",
+        "https://enem.dev/2008/questions/44/7e7c71a3-4b62-406d-805b-f36ff4b9da64.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os dados das tabelas indicam que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cristina está dentro dos padrões de normalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maria está magra, mas não corre risco de desenvolver doenças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "João está obeso e o risco de desenvolver doenças é muito elevado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Antônio está com sobrepeso e o risco de desenvolver doenças é muito elevado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sérgio está com sobrepeso, mas não corre risco de desenvolver doenças.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

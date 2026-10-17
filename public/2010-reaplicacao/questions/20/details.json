@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2010 - Reaplicação",
+    "index": 20,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Chegança\n\nSou Pataxó,\nSou Xavante e Carriri,\nIanomâmi, sou Tupi\nGuarani, sou Carajá.\nSou Pancaruru,\nCarijó, Tupinajé,\nSou Potiguar, sou Caeté,\nFul-ni-ô, Tupinambá.\n\nEu atraquei num porto muito seguro,\nCéu azul, paz e ar puro...\nBotei as pernas pro ar.\nLogo sonhei que estava no paraíso,\nOnde nem era preciso dormir para sonhar.\n\nMas de repente me acordei com a surpresa:\nUma esquadra portuguesa veio na praia atracar.\nDa grande-nau,\nUm branco de barba escura,\nVestindo uma armadura me apontou pra me pegar.\nE assustado dei um pulo da rede,\nPressenti a fome, a sede,\nEu pensei: “vão me acabar”.\nLevantei-me de Borduna já na mão.\nAí, senti no coração,\nO Brasil vai começar.\n\nNÓBREGA, A; e FREIRE, W. CD Pernambuco falando para o mundo, 1998.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A letra da canção apresenta um tema recorrente na\nhistória da colonização brasileira, as relações de poder\nentre portugueses e povos nativos, e representa uma\ncrítica à ideia presente no chamado mito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da democracia racial, originado das relações cordiais estabelecidas entre portugueses e nativos no período",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "anterior ao início da colonização brasileira. da cordialidade brasileira, advinda da forma como os povos nativos se associaram economicamente aos portugueses, participando dos negócios",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "coloniais açucareiros. do brasileiro receptivo, oriundo da facilidade com que os nativos brasileiros aceitaram as regras impostas pelo",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "colonizador, o que garantiu o sucesso da colonização. da natural miscigenação, resultante da forma como a metrópole incentivou a união entre colonos, ex-escravas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "e nativas para acelerar o povoamento da colônia. do encontro, que identifica a colonização portuguesa como pacífica em função das relações de troca estabelecidas nos primeiros contatos entre portugueses e nativos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

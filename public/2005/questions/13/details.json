@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2005",
+    "index": 13,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Diretores de uma grande indústria siderúrgica, para evitar o desmatamento e adequar a empresa às normas de\nproteção ambiental, resolveram mudar o combustível dos fornos da indústria. O carvão vegetal foi então substituído\npelo carvão mineral. Entretanto, foram observadas alterações ecológicas graves em um riacho das imediações, tais\ncomo a morte dos peixes e dos vegetais ribeirinhos. Tal fato pode ser justificado em decorrência",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da diminuição de resíduos orgânicos na água do riacho, reduzindo a demanda de oxigênio na água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "do aquecimento da água do riacho devido ao monóxido de carbono liberado na queima do carvão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da formação de ácido clorídrico no riacho a partir de produtos da combustão na água, diminuindo o pH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do acúmulo de elementos no riacho, tais como, ferro, derivados do novo combustível utilizado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da formação de ácido sulfúrico no riacho a partir dos óxidos de enxofre liberados na combustão.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2001",
+    "index": 20,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Oxímoro (ou paradoxo) é uma construção textual que agrupa significados que se excluem\nmutuamente. Para Garfield, a frase de saudação de Jon (tirinha abaixo) expressa o maior de\n\n![](https://enem.dev/2001/questions/20/8fd2ea61-ee08-41e0-a31a-9657a5ef99ee.png)",
+    "files": [
+        "https://enem.dev/2001/questions/20/8fd2ea61-ee08-41e0-a31a-9657a5ef99ee.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas alternativas abaixo, estão transcritos versos retirados do poema “O operário em\nconstrução”. Pode-se afirmar que ocorre um oxímoro em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "\"Era ele que erguia casas Onde antes só havia chão.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "\"... a casa que ele fazia Sendo a sua liberdade Era a sua escravidão.\"",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "\"Naquela casa vazia Que ele mesmo levantara Um mundo novo nascia De que sequer suspeitava.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "\"... o operário faz a coisa E a coisa faz o operário.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "\"Ele, um humilde operário Um operário que sabia Exercer a profissão.\" MORAES, Vinícius de. Antologia Poética. São Paulo: Companhia das Letras, 1992.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

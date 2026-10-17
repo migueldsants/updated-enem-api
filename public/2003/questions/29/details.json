@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2003",
+    "index": 29,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A falta de água doce no Planeta será, possivelmente, um dos mais graves problemas deste século. Prevê-se que, nos\npróximos vinte anos, a quantidade de água doce disponível para cada habitante será drasticamente reduzida.\nPor meio de seus diferentes usos e consumos, as atividades humanas interferem no ciclo da água, alterando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a quantidade total, mas não a qualidade da água disponível no Planeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a qualidade da água e sua quantidade disponível para o consumo das populações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a qualidade da água disponível, apenas no sub-solo terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas a disponibilidade de água superficial existente nos rios e lagos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o regime de chuvas, mas não a quantidade de água disponível no Planeta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

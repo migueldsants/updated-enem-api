@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2008",
+    "index": 33,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A figura abaixo representa o boleto de cobrança da\n\nmensalidade de uma escola, referente ao mês de junho de\n\n2008.\n\nBanco S.A.\n\nvencimento\n\nPagável em qualquer agência bancária até a data de vencimento 30/06/2008\n\nCedente Agência/cód. cedente\n\nEscola de Ensino Médio\n\nData documento Nosso número\n\n02/06/2008\n\nUso do banco (=) Valor documento\n\nR$ 500,00\n\nInstruções (-) Descontos\n\nObservação: no caso de pagamento em atraso, cobrar multa\n\n(-) Outras deduções\n\nde R$ 10,00 mais 40 centavos por dia de atraso.\n\n(+) Mora/Multa\n\n(+) Outros acréscimos\n\n(=) Valor Cobrado\n\nSe M(x) é o valor, em reais, da mensalidade a ser paga,",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "em que x é o número de dias em atraso, então",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "M(x) = 500 + 0,4x.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "M(x) = 500 + 10x.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "M(x) = 510 + 0,4x.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "M(x) = 510 + 40x.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "M(x) = 500 + 10,4x.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

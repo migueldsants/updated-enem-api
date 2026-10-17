@@ -1,0 +1,45 @@
+{
+    "title": "Questão 30 - ENEM 1999",
+    "index": 30,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Assim como na relação entre o perfil de um corte de um torno e a peça torneada, sólidos de revolução resultam da rotação de\nfiguras planas em torno de um eixo. Girando-se as figuras abaixo em torno da haste indicada obtêm-se os sólidos de\nrevolução que estão na coluna da direita.\n\n![](https://enem.dev/1999/questions/30/7a887d64-a078-4e92-95b3-55694b4b1d1d.png)",
+    "files": [
+        "https://enem.dev/1999/questions/30/7a887d64-a078-4e92-95b3-55694b4b1d1d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A correspondência correta entre as figuras planas e os sólidos de revolução obtidos é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1A, 2B, 3C, 4D, 5E.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1B, 2C, 3D, 4E, 5A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1B, 2D, 3E, 4A, 5C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1D, 2E, 3A, 4B, 5C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1D, 2E, 3B, 4C, 5A.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

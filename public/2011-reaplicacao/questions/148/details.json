@@ -1,0 +1,46 @@
+{
+    "title": "Questão 148 - ENEM 2011 - Reaplicação",
+    "index": 148,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma agência de viagens de São Paulo (SP) está\norganizando um pacote turístico com destino à cidade de\nFoz do Iguaçu (PR) e fretou um avião com 120 lugares.\n\n![](https://enem.dev/2011-reaplicacao/questions/148/9bfa1328-255c-458c-99a0-882aad8c23d9.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/148/eea03e58-d36d-4cf8-a1c6-65c004db5940.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/148/9bfa1328-255c-458c-99a0-882aad8c23d9.png",
+        "https://enem.dev/2011-reaplicacao/questions/148/eea03e58-d36d-4cf8-a1c6-65c004db5940.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "27",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "45",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "74",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "81",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

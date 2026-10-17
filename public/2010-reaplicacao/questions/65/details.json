@@ -1,0 +1,46 @@
+{
+    "title": "Questão 65 - ENEM 2010 - Reaplicação",
+    "index": 65,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um brinquedo chamado ludião consiste em um pequeno\nfrasco de vidro, parcialmente preenchido com água, que\né emborcado (virado com a boca para baixo) dentro\nde uma garrafa PET cheia de água e tampada. Nessa\nsituação, o frasco fica na parte superior da garrafa,\nconforme mostra a FIGURA 1.\n\n![](https://enem.dev/2010-reaplicacao/questions/65/f8c3d6fe-5074-47cd-8fbb-c963afe70151.png)\n\nQuando a garrafa é pressionada, o frasco se desloca\npara baixo, como mostrado na FIGURA 2.\n\n![](https://enem.dev/2010-reaplicacao/questions/65/3579d8c3-c430-4218-9cf7-07ac38fbca15.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/65/f8c3d6fe-5074-47cd-8fbb-c963afe70151.png",
+        "https://enem.dev/2010-reaplicacao/questions/65/3579d8c3-c430-4218-9cf7-07ac38fbca15.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "FIGURA 2\nAo apertar a garrafa, o movimento de descida do frasco\nocorre porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminui a força para baixo que a água aplica no frasco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumenta a pressão na parte pressionada da garrafa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aumenta a quantidade de água que fica dentro do frasco.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "diminui a força de resistência da água sobre o frasco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminui a pressão que a água aplica na base do frasco.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

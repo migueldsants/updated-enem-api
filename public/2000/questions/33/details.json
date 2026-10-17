@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2000",
+    "index": 33,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O autor do texto abaixo critica, ainda que em linguagem metafórica, a\nsociedade contemporânea em relação aos seus hábitos alimentares.\n\n―Vocês que têm mais de 15 anos, se lembram quando a gente comprava\nleite em garrafa, na leiteria da esquina? (...)\nMas vocês não se lembram de nada, pô! Vai ver nem sabem o que é vaca.\nNem o que é leite. Estou falando isso porque agora mesmo peguei um\npacote de leite – leite em pacote, imagina, Tereza! – na porta dos fundos e\nestava escrito que é pasterizado, ou pasteurizado, sei lá, tem vitamina, é\ngarantido pela embromatologia, foi enriquecido e o escambau.\nSerá que isso é mesmo leite? No dicionário diz que leite é outra coisa:\n‗Líquido branco, contendo água, proteína, açúcar e sais minerais‘. Um\nalimento pra ninguém botar defeito. O ser humano o usa há mais de 5.000\nanos. É o único alimento só alimento. A carne serve pro animal andar, a\nfruta serve pra fazer outra fruta, o ovo serve pra fazer outra galinha (...) O\nleite é só leite. Ou toma ou bota fora.\nEsse aqui examinando bem, é só pra botar fora. Tem chumbo, tem benzina,\ntem mais água do que leite, tem serragem, sou capaz de jurar que nem\nvaca tem por trás desse negócio.\nDepois o pessoal ainda acha estranho que os meninos não gostem de leite.\nMas, como não gostam? Não gostam como? Nunca tomaram! Múúúúúúú!‖\n\n(FERNANDES, Millôr. O Estado de S. Paulo, 22 de agosto de 1999)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A palavra embromatologia usada pelo autor é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um termo científico que significa estudo dos bromatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "uma composição do termo de gíria “embromação” (enganação) com bromatologia, que é o estudo dos alimentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "uma junção do termo de gíria “embromação” (enganação) com lactologia, que é o estudo das embalagens para leite.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "um neologismo da química orgânica que significa a técnica de retirar bromatos dos laticínios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "uma corruptela de termo da agropecuária que significa a ordenha mecânica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

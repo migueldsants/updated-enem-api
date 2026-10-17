@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 1998",
+    "index": 37,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma aula de Biologia, o seguinte texto é apresentado:\n\nLAGOA AZUL ESTÁ DOENTE\n\nOs vereadores da pequena cidade de Lagoa Azul estavam discutindo a situação da Saúde no\nMunicípio. A situação era mais grave com relação a três doenças: Doença de Chagas,\nEsquistossomose e Ascaridíase (lombriga). Na tentativa de prevenir novos casos, foram\napresentadas várias propostas :\n\nProposta 1: Promover uma campanha de vacinação.\nProposta 2: Promover uma campanha de educação da população com relação a noções básicas\nde higiene, incluindo fervura de água.\nProposta 3: Construir rede de saneamento básico.\nProposta 4: Melhorar as condições de edificação das moradias e estimular o uso de telas nas\nportas e janelas e mosquiteiros de filó.\nProposta 5: Realizar campanha de esclarecimento sobre os perigos de banhos nas lagoas.\nProposta 6: Aconselhar o uso controlado de inseticidas.\nProposta 7: Drenar e aterrar as lagoas do município.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em relação à Esquistossomose, a situação é complexa, pois o ciclo de vida do verme que causa a doença\ntem vários estágios, incluindo a existência de um hospedeiro intermediário, um caramujo aquático que é\ncontaminado pelas fezes das pessoas doentes. Analisando as medidas propostas, o combate à doença\nterá sucesso se forem implementadas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 6, pois envolvem a eliminação do agente causador da doença e de seu hospedeiro intermediário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 e 4, pois além de eliminarem o agente causador da doença, também previnem o contato do transmissor com as pessoas sãs.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4 e 6, pois envolvem o extermínio do transmissor da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1, 4 e 6, pois atingirão todas as fases do ciclo de vida do agente causador da doença, incluindo o seu hospedeiro intermediário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 e 5, pois prevenirão a contaminação do hospedeiro intermediário pelas fezes das pessoas doentes e a contaminação de pessoas sãs por águas contaminadas",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2000",
+    "index": 36,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O esquema abaixo representa os diversos meios em que se alimentam aves, de\ndiferentes espécies, que fazem ninho na mesma região.\n\n![](https://enem.dev/2000/questions/36/30844e7d-53a8-40c8-b495-271ccc682e14.png)",
+    "files": [
+        "https://enem.dev/2000/questions/36/30844e7d-53a8-40c8-b495-271ccc682e14.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no esquema, uma classe de alunos procurou identificar a possível\nexistência de competição alimentar entre essas aves e concluiu que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não há competição entre os quatro tipos de aves porque nem todas elas se alimentam nos mesmos locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "não há competição apenas entre as aves dos tipos 1, 2 e 4 porque retiram alimentos de locais exclusivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "há competição porque a ave do tipo 3 se alimenta em todos os lugares e, portanto, compete com todas as demais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "há competição apenas entre as aves 2 e 4 porque retiram grande quantidade de alimentos de um mesmo local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "não se pode afirmar se há competição entre as aves que se alimentam em uma mesma região sem conhecer os tipos de alimento que consomem.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2003",
+    "index": 57,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "O quadro abaixo mostra a taxa de crescimento natural da população brasileira no século XX.\n\n![](https://enem.dev/2003/questions/57/3f0bec46-4466-47a7-9ed5-c1f2cd4aba6a.png)\n\nFonte: IBGE, Anuários Estatísticos do Brasil",
+    "files": [
+        "https://enem.dev/2003/questions/57/3f0bec46-4466-47a7-9ed5-c1f2cd4aba6a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Analisando os dados podemos caracterizar o período entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1920 e 1960, como de crescimento do planejamento familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1950 e 1970, como de nítida explosão demográfica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1960 e 1980, como de crescimento da taxa de fertilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1970 e 1990, como de decréscimo da densidade demográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1980 e 2000, como de estabilização do crescimento demográfico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 1999",
+    "index": 7,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Leia o texto abaixo.\n\nCabelos longos, brinco na orelha esquerda, físico de skatista. Na aparência, o estudante brasiliense Rui Lopes Viana Filho, de\n16 anos, não lembra em nada o estereótipo dos gênios. Ele não usa pesados óculos de grau e está longe de ter um ar\nintrospectivo. No final do mês passado, Rui retornou de Taiwan, onde enfrentou 419 competidores de todo o mundo na 39ª\nOlimpíada Internacional de Matemática. A reluzente medalha de ouro que ele trouxe na bagagem está dependurada sobre a\ncama de seu quarto, atulhado de rascunhos dos problemas matemáticos que aprendeu a decifrar nos últimos cinco anos.\nVeja – Vencer uma olimpíada serve de passaporte para uma carreira profissional meteórica?\n\nRui – Nada disso. Decidi me dedicar à Olimpíada porque sei que a concorrência por um emprego é cada vez mais selvagem e cruel.\nAgora tenho algo a mais para oferecer. O problema é que as coisas estão mudando muito rápido e não sei qual será minha\nprofissão. Além de ser muito novo para decidir sobre o meu futuro profissional, sei que esse conceito de carreira mudou muito.\n\n(Entrevista de Rui Lopes Viana Filho à Veja, 05/08/1998, n.31, p. 9-10)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na pergunta, o repórter estabelece uma relação entre a entrada do estudante no mercado de trabalho e a vitória na Olimpíada.\nO estudante",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "concorda com a relação e afirma que o desempenho na Olimpíada é fundamental para sua entrada no mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "discorda da relação e complementa que é fácil se fazer previsões sobre o mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "discorda da relação e afirma que seu futuro profissional independe de dedicação aos estudos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "discorda da relação e afirma que seu desempenho só é relevante se escolher uma profissão relacionada à matemática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "concorda em parte com a relação e complementa que é complexo fazer previsões sobre o mercado de trabalho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

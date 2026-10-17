@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2002",
+    "index": 32,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo a legislação brasileira, o limite máximo permitido para as concentrações de mercúrio total é de 500 nanogramas por\ngrama de peso úmido. Ainda levando em conta os dados da tabela e o tipo de circulação do mercúrio ao longo da cadeia\nalimentar, pode-se considerar que a ingestão, pelo ser humano, de corvinas capturadas nessas regiões,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "não compromete a sua saúde, uma vez que a concentração de mercúrio é sempre menor que o limite máximo permitido pela legislação brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "não compromete a sua saúde, uma vez que a concentração de poluentes diminui a cada novo consumidor que se acrescenta à cadeia alimentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "não compromete a sua saúde, pois a concentração de poluentes aumenta a cada novo consumidor que se acrescenta à cadeia alimentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "deve ser evitada, apenas quando entre as corvinas e eles se interponham outros consumidores, como, por exemplo, peixes de maior porte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "deve ser evitada sempre, pois a concentração de mercúrio das corvinas ingeridas se soma à já armazenada no organismo humano.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

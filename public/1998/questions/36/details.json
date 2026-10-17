@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 1998",
+    "index": 36,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Uma escola de ensino médio tem 250 alunos que estão matriculados na 1ª, 2ª ou 3ª série. 32% dos\nalunos são homens e 40% dos homens estão na 1ª série. 20% dos alunos matriculados estão na 3ª série,\nsendo 10 alunos homens. Dentre os alunos da 2ª série, o número de mulheres é igual ao número de\nhomens.\n\nA tabela abaixo pode ser preenchida com as informações dadas:\n\n![](https://enem.dev/1998/questions/36/a8919129-8810-49c3-9528-2ed36b6cd9f7.png)",
+    "files": [
+        "https://enem.dev/1998/questions/36/a8919129-8810-49c3-9528-2ed36b6cd9f7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor de a é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "48",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "92",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "102",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "120",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

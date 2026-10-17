@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2011 - Reaplicação",
+    "index": 94,
+    "year": 2011,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "En América, los incas y aztecas cultivaban la planta\nque llamaban tomatl ya desde 700 años a. de C. Cuando\nfue llevada a Europa se destacó por su valor ornamental\ny por la belleza de sus frutos, que en su versión amarilla\nmerecieron un nombre en italiano: pomodoro, esto es,\nmanzana de oro. Utilizada como planta ornamental en\npatios y jardines, por entonces quedó asociada a otras\nsolanáceas venenosas, como la belladona, así que se\nconsideraba que también lo era. No en vano, sus hojas\ncontienen, como las de la planta de la papa, un alcaloide\nllamado solanina. Hasta el siglo XIX los tomates no\nfueron universalmente aceptados como alimento, e\nincluso entonces todavía se cocían durante horas para\neliminar sus “venenos”. Hoy están entre los vegetales\nmás consumidos y deben su prestigio nutricional, sobre\ntodo, al contenido en vitamina C y betacaroteno.\n\nMuy interesante. N° 212. Buenos Aires: GF, mar. 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se as informações apresentadas e o\nprovável público-alvo, o texto foi construído com a\nintenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alertar sobre as características tóxicas do tomate.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "destacar a importância do tomate de cor amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "discorrer sobre a origem do tomate e seus usos no",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mundo. incentivar o consumo do tomate por seus benefícios para a saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estimular o uso do tomate como objeto ornamental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

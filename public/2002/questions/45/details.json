@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2002",
+    "index": 45,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Um jornalista publicou um texto do qual estão transcritos trechos\ndo primeiro e do último parágrafos:\n“ ‘Mamãezinha, minhas mãozinhas vão crescer de novo?’ Jamais\nesquecerei a cena que vi, na TV francesa, de uma menina da\nCosta do Marfim falando com a enfermeira que trocava os\ncurativos de seus dois cotos de braços. (...) ”.\n. ......................................................................................................\n“Como manter a paz num planeta onde boa parte da humanidade\nnão tem acesso às necessidade básicas mais elementares? (...)\nComo reduzir o abismo entre o camponês afegão, a criança\nfaminta do Sudão, o Severino da cesta básica e o corretor de\nWall Street? Como explicar ao menino de Bagdá que morre por\nfalta de remédios, bloqueados pelo Ocidente, que o mal se\nabateu sobre Manhattan? Como dizer aos chechenos que o que\naconteceu nos Estados Unidos é um absurdo? Vejam Grozny, a\ncapital da Chechênia, arrasada pelos russos. Alguém se\nincomodou com os sofrimentos e as milhares de vítimas civis,\ninocentes, desse massacre? Ou como explicar à menina da\nCosta do Marfim o sentido da palavra ‘civilização’ quando ela\ndescobrir que suas mãos não crescerão jamais? ”.\n\nUTZERI, Fritz. Jornal do Brasil, 17/09/2001.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Apresentam-se, abaixo, algumas afirmações também retiradas\ndo mesmo texto. Aquela que explicita uma resposta do autor\npara as perguntas feitas no trecho citado é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“tristeza e indignação são grandes porque os atentados ocorreram em Nova Iorque”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“ao longo da história, o homem civilizado globalizou todas as suas mazelas”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“a Europa nos explorou vergonhosamente”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“o neoliberalismo institui o deus mercado que tudo resolve”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“os negócios das indústrias de armas continuam de vento em popa”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2004",
+    "index": 42,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Há estudos que apontam razões econômicas e ambientais para que o gás natural possa vir a tornar-se, ao longo deste século, a\nprincipal fonte de energia em lugar do petróleo. Justifica-se essa previsão, entre outros motivos, porque o gás natural",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "além de muito abundante na natureza é um combustível renovável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tem novas jazidas sendo exploradas e é menos poluente que o petróleo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "vem sendo produzido com sucesso a partir do carvão mineral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pode ser renovado em escala de tempo muito inferior à do petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "não produz CO₂ em sua queima, impedindo o efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

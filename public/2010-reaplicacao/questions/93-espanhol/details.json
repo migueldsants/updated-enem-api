@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2010 - Reaplicação",
+    "index": 93,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/93-espanhol/c6fcf8a8-9a3f-4138-b4a2-b45ec0aa7f06.png)\n\nDisponível em: www.gaturro.com. Acesso em: 10 ago. 2010.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/93-espanhol/c6fcf8a8-9a3f-4138-b4a2-b45ec0aa7f06.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O gênero textual história em quadrinhos pode ser usado\ncom a intenção de provocar humor. Na tira, o cartunista\nNik atinge o clímax dessa intenção quando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresenta, já no primeiro quadro, a contradição de humores nas feições da professora e do aluno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sugere, com os pontos de exclamação, a entonação incrédula de Gaturro em relação à pergunta de Ágatha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "compõe um cenário irreal em que uma professora não percebe no texto de um aluno sua verdadeira intenção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aponta que Ágatha desconstrói a ideia inicial de Gaturro a respeito das reais intenções da professora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "congela a imagem de Ágatha, indicando seu desinteresse pela situação vivida por Gaturro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

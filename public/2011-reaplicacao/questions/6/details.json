@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2011 - Reaplicação",
+    "index": 6,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As relações sociais, produzidas a partir da\nexpansão do mercado capitalista ― e o sistema de\nfábrica é seu “estágio superior” ―, tornaram possível o\ndesenvolvimento de uma determinada tecnologia, isto é,\naquela que supõe a priori a expropriação dos saberes\ndaqueles que participam do processo de trabalho.\nNesse sentido, foi no sistema de fábrica que uma dada\ntecnologia pôde se impor, não apenas como instrumento\npara incrementar a produtividade do trabalho, mas,\nmuito principalmente, como instrumento para controlar,\ndisciplinar e hierarquizar esse processo de trabalho.\n\nDECCA, E. S. O Nascimento das Fábricas. São Paulo: Brasiliense, 1986 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Mais do que trocar ferramentas pela utilização de\nmáquinas, o capitalismo, por meio do “sistema de\nfábrica”, expropriou o trabalhador do seu “saber fazer”,\nprovocando, assim,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a desestruturação de atividades lucrativas praticadas pelos artesãos ingleses desde a Baixa Idade Média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a divisão e a hierarquização do processo laboral, que ocasionaram o distanciamento do trabalhador do seu produto final.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o movimento dos trabalhadores das áreas urbanas em direção às rurais, devido à escassez de postos de trabalho nas fábricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a organização de grupos familiares em galpões para elaboração e execução de manufaturas que seriam comercializadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a associação da figura do trabalhador à do assalariado, fato que favorecia a valorização do seu trabalho e a inserção no processo fabril.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

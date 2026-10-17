@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2010 - Reaplicação",
+    "index": 14,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Responda sem pestanejar: que país ocupa a liderança\nmundial no mercado de etanol? Para alguns, a resposta\nóbvia é o Brasil. Afinal, o país tem o menor preço de\nprodução do mercado, além de vastas áreas disponíveis\npara o plantio de matéria-prima. Outros dirão que são os\nEUA, donos da maior produção anual. Nos próximos anos,\nessa pergunta não deve gerar mais dúvida, pois a disputa\nnão se dará em plantações de cana-de-açúcar ou nas\nusinas, mas nos laboratórios altamente sofisticados.\n\nTERRA, L. Conexões: estudos de geografia geral. São Paulo: Moderna, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A biotecnologia propicia, entre outras coisas, a produção\ndos biocombustíveis, que vêm se configurando em\nimportantes formas de energias alternativas. Que\nimpacto possíveis pesquisas em laboratórios podem\nprovocar na produção de etanol no Brasil e nos EUA?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento na utilização de novos tipos de matérias- primas para a produção do etanol, elevando a produtividade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Crescimento da produção desse combustível, causando, porém, danos graves ao meio ambiente pelo excesso de plantações de cana-de-açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estagnação no processo produtivo do etanol brasileiro, já que o país deixou de investir nesse tipo de tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Elevação nas exportações de etanol para os EUA, já que a produção interna brasileira é maior que a procura, e o produto tem qualidade superior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumento da fome em ambos os países, em virtude da produção de cana-de-açucar prejudicar a produção de alimentos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

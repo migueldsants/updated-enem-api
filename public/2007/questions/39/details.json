@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2007",
+    "index": 39,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/39/c4547384-bc64-4634-8282-ac5460518cbf.png)\n\nOs fazendeiros da região sudoeste de\nBangladesh, um dos países mais pobres da Ásia, estão\ntentando adaptar-se às mudanças acarretadas pelo\naquecimento global. Antes acostumados a produzir arroz e\nvegetais, responsáveis por boa parte da produção\nnacional, eles estão migrando para o cultivo do camarão.\nCom a subida do nível do mar, a água salgada penetrou\nnos rios e mangues da região, o que inviabilizou a\nagricultura, mas, de outro lado, possibilitou a criação de\ncrustáceos, uma atividade até mais lucrativa.\n\nO lado positivo da situação termina por aí. A maior\nparte da população local foi prejudicada, já que os\nfazendeiros não precisam contratar mais mão-de-obra, o que\naumentou o desemprego. A flora e a fauna do mangue vêm\nsendo afetadas pela nova composição da água. Os lençóis\nfreáticos da região foram atingidos pela água salgada.\n\nGlobo Rural, jun./2007, p.18 (com adaptações).",
+    "files": [
+        "https://enem.dev/2007/questions/39/c4547384-bc64-4634-8282-ac5460518cbf.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A situação descrita acima retrata",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o fortalecimento de atividades produtivas tradicionais em Bangladesh em decorrência dos efeitos do aquecimento global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a introdução de uma nova atividade produtiva que amplia a oferta de emprego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a reestruturação de atividades produtivas como forma de enfrentar mudanças nas condições ambientais da região.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o dano ambiental provocado pela exploração mais intensa dos recursos naturais da região a partir do cultivo do camarão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a busca de investimentos mais rentáveis para Bangladesh crescer economicamente e competir no mercado internacional de grãos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

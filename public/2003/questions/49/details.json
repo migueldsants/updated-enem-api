@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2003",
+    "index": 49,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "O mapa abaixo apresenta parte do contorno da América do Sul destacando a bacia amazônica. Os pontos\nassinalados representam fortificações militares instaladas no século XVIII pelos portugueses. A linha indica o Tratado\nde Tordesilhas revogado pelo Tratado de Madri, apenas em 1750.\n\n![](https://enem.dev/2003/questions/49/632dad3e-36ca-402d-adee-cfb1a8015c45.png)\n\nAdaptado de Carlos de Meira Mattos. Geopolítica e teoria de fronteiras.",
+    "files": [
+        "https://enem.dev/2003/questions/49/632dad3e-36ca-402d-adee-cfb1a8015c45.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pode-se afirmar que a construção dos fortes pelos portugueses visava, principalmente, dominar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "militarmente a bacia hidrográfica do Amazonas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "economicamente as grandes rotas comerciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as fronteiras entre nações indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o escoamento da produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o potencial de pesca da região.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

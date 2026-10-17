@@ -1,0 +1,46 @@
+{
+    "title": "Questão 39 - ENEM 2005",
+    "index": 39,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "A água é um dos fatores determinantes para todos os seres vivos, mas a precipitação varia muito nos continentes,\ncomo podemos observar no mapa abaixo.\n\nMapa de distribuição dos grandes desertos e das áreas úmidas LATITUDE (°) / TEMPERATURA\n\n![](https://enem.dev/2005/questions/39/01b61143-2eee-40ad-8dfd-d4db3dd3ae8d.png)\n\n![](https://enem.dev/2005/questions/39/ff3d4e61-a11f-4709-bf88-cf12df6a2eb5.png)\n\nKoogan , 1996. p. 55)",
+    "files": [
+        "https://enem.dev/2005/questions/39/01b61143-2eee-40ad-8dfd-d4db3dd3ae8d.png",
+        "https://enem.dev/2005/questions/39/ff3d4e61-a11f-4709-bf88-cf12df6a2eb5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao examinar a tabela da temperatura média anual em algumas latitudes, podemos concluir que as chuvas são mais\nabundantes nas maiores latitudes próximas do Equador, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as grandes extensões de terra fria das latitudes extremas impedem precipitações mais abundantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a água superficial é mais quente nos trópicos do que nas regiões temperadas, causando maior precipitação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o ar mais quente tropical retém mais vapor de água na atmosfera, aumentando as precipitações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o ar mais frio das regiões temperadas retém mais vapor de água, impedindo as precipitações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a água superficial é fria e menos abundante nas latitudes extremas, causando menor precipitação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

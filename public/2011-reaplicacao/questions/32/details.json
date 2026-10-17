@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2011 - Reaplicação",
+    "index": 32,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Hoje, o Brasil produz cerca de 16 bilhões de litros\nde álcool por ano, em quase 3 milhões de hectares,\no suficiente para atender a 40% da frota de veículos\nnacionais. Para substituir completamente a gasolina,\nessa produção teria mais que dobrar. De acordo com\na Embrapa, há espaço para isso: cerca de 90 milhões\nde hectares disponíveis para a expansão da agricultura.\n\nGIRARDI, G. O país do etanol. Revista Horizonte Geográfico. Nº 112, 2010.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O Brasil apresenta grande potencialidade para a\nprodução de biocombustíveis, visto que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estimula a produção do etanol a partir do milho, que se apresenta como alternativa de fonte renovável de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior rentabilidade. desenvolve nas áreas agricultáveis de grande porte o cultivo da cana-de-açúcar amparado por técnicas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "e tecnologias tradicionais. disponibiliza, na maior parte das áreas agricultáveis de cana, novos recursos tecnológicos substitutivos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "de técnicas antigas e poluidoras. promove a exploração de energias renováveis de segunda geração, já que garantem produtividade",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "similar ao do álcool. oferece a combinação de solo, clima e fontes renováveis capazes de favorecer uma cadeia de produção com potencial de abastecer o mercado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

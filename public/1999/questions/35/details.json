@@ -1,0 +1,45 @@
+{
+    "title": "Questão 35 - ENEM 1999",
+    "index": 35,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "O diagrama abaixo representa a energia solar que atinge a Terra e sua utilização na geração de eletricidade. A energia solar é\nresponsável pela manutenção do ciclo da água, pela movimentação do ar, e pelo ciclo do carbono que ocorre através da\nfotossíntese dos vegetais, da decomposição e da respiração dos seres vivos, além da formação de combustíveis fósseis.\n\n![](https://enem.dev/1999/questions/35/124934ee-aa99-4e8c-8232-eb1688064d2b.png)\n\nDe acordo com o diagrama, a humanidade aproveita, na forma de energia elétrica, uma fração da energia recebida como",
+    "files": [
+        "https://enem.dev/1999/questions/35/124934ee-aa99-4e8c-8232-eb1688064d2b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "radiação solar, correspondente a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 × 10⁻⁹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,5 × 10⁻⁶",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4 × 10⁻⁴",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,5 × 10⁻³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 × 10⁻²",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

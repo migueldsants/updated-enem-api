@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2011 - Reaplicação",
+    "index": 170,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O salário-mínimo ― menor salário que um trabalhador\npode receber ― é estabelecido por lei e reavaliado todos\nos anos com base no custo de vida da população.\n\nDisponível em: http://www.brasilescola.com. Acesso em: 2 maio 2010 (adaptado).\n\n![](https://enem.dev/2011-reaplicacao/questions/170/0933fed5-7220-4d06-8980-e46091518a56.png)\n\nAno R$\n1994 70,00\n1999 136,00\n2003 240,00\n2008 415,00\n\nBANCOCENTRALDOBRASIL. Disponível em: http://www.ibge.gov.br.\nAcesso em: 28 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/170/0933fed5-7220-4d06-8980-e46091518a56.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Que número inteiro representa, o valor mais aproximado\ndo aumento sofrido pelo salário-mínimo, de 1994 a 2008,\nem pontos percentuais?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "38",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "67",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "265",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "493",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

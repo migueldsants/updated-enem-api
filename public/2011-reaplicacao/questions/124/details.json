@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2011 - Reaplicação",
+    "index": 124,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011-reaplicacao/questions/124/5555c7bd-29ea-42bd-884e-8854968b6028.png)\n\nVeja. Nº 14, 7 abr. 2010.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/124/5555c7bd-29ea-42bd-884e-8854968b6028.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As modernas técnicas de comunicação estão associadas\naos impactos da mensagem. Nesse texto, a intenção é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alertar para os perigos dos animais domésticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mostrar os cuidados com os cães de estimação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "registrar um protesto contra a prisão de animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sugerir brincadeiras de crianças com os cães.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valorizar a adoção como saída para dramas sociais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

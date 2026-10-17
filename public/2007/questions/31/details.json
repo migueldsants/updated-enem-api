@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2007",
+    "index": 31,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Os mapas abaixo apresentam informações acerca\ndos índices de infecção por leishmaniose tegumentar\namericana (LTA) em 1985 e 1999.\n\n![](https://enem.dev/2007/questions/31/62828226-d657-4ce2-bb86-9c96d530d7c1.png)",
+    "files": [
+        "https://enem.dev/2007/questions/31/62828226-d657-4ce2-bb86-9c96d530d7c1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir da leitura dos mapas acima, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o índice de infecção por LTA em Minas Gerais elevou- se muito nesse período.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o estado de Mato Grosso apresentou diminuição do índice de infecção por LTA devido às intensas campanhas de saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a expansão geográfica da LTA ocorreu no sentido norte-sul como resultado do processo predatório de colonização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o índice de infecção por LTA no Maranhão diminuiu em virtude das fortes secas que assolaram o estado nesse período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o aumento da infecção por LTA no Rio Grande do Sul resultou da proliferação do roedor que transmite essa enfermidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

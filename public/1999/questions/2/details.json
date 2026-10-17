@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 1999",
+    "index": 2,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Vinte anos depois da formatura, cinco colegas de turma decidem organizar uma confraternização. Para marcar o dia e o local\n\nda confraternização, precisam comunicar-se por telefone. Cada um conhece o telefone de alguns colegas e desconhece o de\noutros. No quadro abaixo, o número 1 indica que o colega da linha correspondente conhece o telefone do colega da coluna\ncorrespondente; o número 0 indica que o colega da linha não conhece o telefone do colega da coluna. Exemplo: Beto sabe o\ntelefone do Dino que não conhece o telefone do Aldo.\n\n![](https://enem.dev/1999/questions/2/473b5187-4359-44e4-a66e-512a11d44e49.png)",
+    "files": [
+        "https://enem.dev/1999/questions/2/473b5187-4359-44e4-a66e-512a11d44e49.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número mínimo de telefonemas que Aldo deve fazer para se comunicar com Carlos é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2011 - Reaplicação",
+    "index": 178,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um caminhão precisa recolher o lixo das ruas de um\ncerto bairro. Por questões econômicas e ambientais, a\nempresa IMJ, responsável pela coleta, planeja as rotas\nde recolhimento, de modo que o caminhão percorra\na menor distância possível, passando em cada rua\nexatamente uma vez, entrando e saindo de cada ponto.\nQuando isso não é possível, busca-se repetir o menor\nnúmero possível de ruas na rota. Na figura, temos um\nesquema no qual os pontos representam esquinas, e as\nlinhas representam as ruas.\n\n![](https://enem.dev/2011-reaplicacao/questions/178/3f7939a9-bbc0-4a12-9495-d70c58a0fae9.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/178/3f7939a9-bbc0-4a12-9495-d70c58a0fae9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considere que cada rua mede 150 m de comprimento e\nque a rota do caminhão comece e termine no ponto A,\npassando por todas as ruas do esquema.\nA empresa conseguiu encontrar a melhor rota de\nrecolhimento de lixo, na qual o caminhão percorre uma\ndistância igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 400 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 550 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 700 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 850 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 300 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

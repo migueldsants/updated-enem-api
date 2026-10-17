@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2010 - Reaplicação",
+    "index": 97,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Em uma reportagem a respeito da utilização do\ncomputador, um jornalista posicionou-se da seguinte\nforma: A humanidade viveu milhares de anos sem o\ncomputador e conseguiu se virar. Um escritor brasileiro\ndisse com orgulho que ainda escreve a máquina ou a\nmão; que precisa do contato físico com o papel. Um\nprofissional liberal refletiu que o computador não mudou\napenas a vida de algumas pessoas, ampliando a oferta\nde pesquisa e correspondência, mudou a carreira de todo\nmundo. Um professor arrematou que todas as disciplinas\nhoje não podem ser imaginadas sem os recursos da\ncomputação e, para um físico, ele é imprescindível para,\npor exemplo, investigar a natureza subatômica.\n\nComo era a vida antes do computador? OceanAir em Revista. n° 1, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Entre as diferentes estratégias argumentativas utilizadas\nna construção de textos, no fragmento, está presente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a comparação entre elementos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a reduplicação de informações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o confronto de pontos de vista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a repetição de conceitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a citação de autoridade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

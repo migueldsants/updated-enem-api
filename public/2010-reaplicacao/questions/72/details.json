@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2010 - Reaplicação",
+    "index": 72,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A produção de hormônios vegetais (como a auxina,\nligada ao crescimento vegetal) e sua distribuição pelo\norganismo são fortemente influenciadas por fatores\nambientais. Diversos são os estudos que buscam\ncompreender melhor essas influências. O experimento\nseguinte integra um desses estudos.\n\n![](https://enem.dev/2010-reaplicacao/questions/72/cbb79a28-daf0-4d56-ad40-2bfb96fa96e8.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/72/cbb79a28-daf0-4d56-ad40-2bfb96fa96e8.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O fato de a planta do experimento crescer na direção\nhorizontal, e não na vertical, pode ser explicado pelo\nargumento de que o giro faz com que a auxina se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "distribua uniformemente nas faces do caule, estimulando o crescimento de todas elas de forma igual.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "acumule na face inferior do caule e, por isso, determine um crescimento maior dessa parte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "concentre na extremidade do caule e, por isso, iniba o crescimento nessa parte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "distribua uniformemente nas faces do caule e, por isso, iniba o crescimento de todas elas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "concentre na face inferior do caule e, por isso, iniba a atividade das gemas laterais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

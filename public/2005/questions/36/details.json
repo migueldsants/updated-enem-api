@@ -1,0 +1,46 @@
+{
+    "title": "Questão 36 - ENEM 2005",
+    "index": 36,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Quando um reservatório de água é agredido ambientalmente por poluição de origem doméstica ou industrial, uma\nrápida providência é fundamental para diminuir os danos ecológicos. Como o monitoramento constante dessas águas\ndemanda aparelhos caros e testes demorados, cientistas têm se utilizado de biodetectores, como peixes que são\ncolocados em gaiolas dentro da água, podendo ser observados periodicamente.\nPara testar a resistência de três espécies de peixes, cientistas separaram dois grupos de cada espécie, cada um com cem\npeixes, totalizando seis grupos. Foi, então, adicionada a mesma quantidade de poluentes de origem doméstica e industrial, em\nseparado. Durante o período de 24 horas, o número de indivíduos passou a ser contado de hora em hora.\nOs resultados são apresentados abaixo.\n\nEspécie I Espécie II Espécie III\n\n100 100 100\n\npeixes50 50 50\n\n![](https://enem.dev/2005/questions/36/8f29ad6e-8003-48a7-bbf5-89a8caa234b2.png)\n\n![](https://enem.dev/2005/questions/36/c6bc281b-a842-4fc4-9ad9-42fd66d4646e.png)",
+    "files": [
+        "https://enem.dev/2005/questions/36/8f29ad6e-8003-48a7-bbf5-89a8caa234b2.png",
+        "https://enem.dev/2005/questions/36/c6bc281b-a842-4fc4-9ad9-42fd66d4646e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pelos resultados obtidos, a espécie de peixe mais indicada para ser utilizada como detectora de poluição, a fim de que\nsejam tomadas providências imediatas, seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a espécie I, pois sendo menos resistente à poluição, morreria mais rapidamente após a contaminação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a espécie II, pois sendo a mais resistente, haveria mais tempo para testes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a espécie III, pois como apresenta resistência diferente à poluição doméstica e industrial, propicia estudos posteriores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as espécies I e III juntas, pois tendo resistência semelhante em relação à poluição permitem comparar resultados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as espécies II e III juntas, pois como são pouco tolerantes à poluição, propiciam um rápido alerta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

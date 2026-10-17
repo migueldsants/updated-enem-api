@@ -1,0 +1,46 @@
+{
+    "title": "Questão 60 - ENEM 2001",
+    "index": 60,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A Mata Atlântica, que originalmente se estendia por todo o litoral brasileiro, do Ceará ao\nRio Grande do Sul, ostenta hoje o triste título de uma das florestas mais devastadas do\nmundo. Com mais de 1 milhão de quilômetros quadrados, hoje restam apenas 5% da\nvegetação original, como mostram as figuras.\n\n![](https://enem.dev/2001/questions/60/7f92aefa-5dc6-467e-b9ad-ea5a8b4116e5.png)",
+    "files": [
+        "https://enem.dev/2001/questions/60/7f92aefa-5dc6-467e-b9ad-ea5a8b4116e5.png",
+        "https://enem.dev/2001/questions/60/0e558231-5d63-4a3c-b68b-2bcb912a6cea.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando as características histórico-geográficas do Brasil e a partir da análise das\nfiguras é correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as transformações climáticas, especialmente na Região Nordeste, interferiram fortemente na diminuição dessa floresta úmida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nas três últimas décadas, o grau de desenvolvimento regional impediu que a devastação da Mata Atlântica fosse maior do que a registrada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as atividades agrícolas, aliadas ao extrativismo vegetal, têm se constituído, desde o período colonial, na principal causa da devastação da Mata Atlântica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a taxa de devastação dessa floresta tem seguido o sentido oposto ao do crescimento populacional de cada uma das Regiões afetadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/60/0e558231-5d63-4a3c-b68b-2bcb912a6cea.png",
+            "isCorrect": false
+        }
+    ]
+}

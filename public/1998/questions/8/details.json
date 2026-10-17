@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 1998",
+    "index": 8,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Texto 1 Texto 2\n\n“ Mulher, Irmã, escuta-me: não ames, “Teresa, se algum sujeito bancar o\nQuando a teus pés um homem terno e curvo sentimental em cima de você\njurar amor, chorar pranto de sangue, E te jurar uma paixão do tamanho de um\nNão creias, não, mulher: ele te engana! bonde\nAs lágrimas são gotas da mentira Se ele chorar\nE o juramento manto da perfídia.” Se ele ajoelhar\n\nJoaquim Manoel de Macedo Se ele se rasgar todo\n\nNão acredite não Teresa\nÉ lágrima de cinema\nÉ tapeação\nMentira\nCAI FORA”\n\nManuel Bandeira",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os autores, ao fazerem alusão às imagens da lágrima sugerem que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "há um tratamento idealizado da relação homem/mulher.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "há um tratamento realista da relação homem/mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a relação familiar é idealizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a mulher é superior ao homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a mulher é igual ao homem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

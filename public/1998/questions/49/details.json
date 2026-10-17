@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 1998",
+    "index": 49,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Seguem abaixo alguns trechos de uma matéria da revista “Superinteressante”, que descreve hábitos\nde um morador de Barcelona (Espanha), relacionando-os com o consumo de energia e efeitos sobre o\nambiente.\n\nI. “Apenas no banho matinal, por exemplo, um cidadão utiliza cerca de 50 litros de água, que depois terá\n\nque ser tratada. Além disso, a água é aquecida consumindo 1,5 quilowatt-hora (cerca de 1,3 milhões\nde calorias), e para gerar essa energia foi preciso perturbar o ambiente de alguma maneira....”\nII. “Na hora de ir para o trabalho, o percurso médio dos moradores de Barcelona mostra que o carro libera\n\n90 gramas do venenoso monóxido de carbono e 25 gramas de óxidos de nitrogênio ... Ao mesmo\ntempo, o carro consome combustível equivalente a 8,9 kwh.”\nIII. “Na hora de recolher o lixo doméstico... quase 1 kg por dia. Em cada quilo há aproximadamente 240\n\ngramas de papel, papelão e embalagens; 80 gramas de plástico; 55 gramas de metal; 40 gramas de\nmaterial biodegradável e 80 gramas de vidro.”",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com referência ao trecho II, pode-se afirmar que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um automóvel produz monóxido de carbono pelo fato de que a queima dos combustíveis utilizados não é completa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "pode-se concluir que o automóvel em questão não utiliza o álcool como combustível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a produção de óxido de nitrogênio contribui para a chuva ácida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o texto está equivocado, pois os óxidos de nitrogênio lançados na atmosfera não têm qualquer relação com o automóvel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "caso o automóvel fosse elétrico, não poluiria o ambiente com monóxido de carbono, mas lançaria ao ar radiações eletromagnéticas prejudiciais à saúde.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

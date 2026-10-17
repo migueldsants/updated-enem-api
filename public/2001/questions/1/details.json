@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2001",
+    "index": 1,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O mundo é grande\n\nO mundo é grande e cabe\nNesta janela sobre o mar.\nO mar é grande e cabe\nNa cama e no colchão de amar.\nO amor é grande e cabe\nNo breve espaço de beijar.\n\nANDRADE, Carlos Drummond de. Poesia e prosa. Rio de Janeiro: Nova Aguilar, 1983.",
+    "files": [
+        "https://enem.dev/2001/questions/1/97760bfe-e608-4f1e-b900-970754128561.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Neste poema, o poeta realizou uma opção estilística: a reiteração de determinadas construções\ne expressões lingüísticas, como o uso da mesma conjunção para estabelecer a relação entre as\nfrases. Essa conjunção estabelece, entre as idéias relacionadas, um sentido de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oposição.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "comparação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "conclusão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alternância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2001/questions/1/97760bfe-e608-4f1e-b900-970754128561.png",
+            "isCorrect": false
+        }
+    ]
+}

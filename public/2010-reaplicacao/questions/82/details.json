@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2010 - Reaplicação",
+    "index": 82,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os corais que formam o banco dos Abrolhos, na Bahia,\npodem estar extintos até 2050 devido a uma epidemia.\nPor exemplo, os corais-cérebro já tiveram cerca de 10%\nde sua população afetada pela praga-branca, a mais\nprevalente das seis doenças identificadas em Abrolhos,\ncausada provavelmente por uma bactéria. Os cientistas\natribuem a proliferação das patologias ao aquecimento\nglobal e à poluição marinha. O aquecimento global\nreduziria a imunidade dos corais ou estimularia os\npatógenos causadores desses males, trazendo novos\nagentes infecciosos.\n\nFURTADO, F. Peste branca no mar. Ciência hoje. Rio de Janeiro,\nv. 42, n. 251, ago. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A fim de combater a praga-branca, a medida mais\napropriada, segura e de efeitos mais duradouros seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aplicar antibióticos nas águas litorâneas de Abrolhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "substituir os aterros sanitários por centros de reciclagem de lixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "introduzir nas águas de Abrolhos espécies que se alimentem da bactéria causadora da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumentar, mundialmente, o uso de transportes coletivos e diminuir a queima de derivados de petróleo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "criar uma lei que proteja os corais, impedindo que mergulhadores e turistas se aproximem deles e os contaminem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

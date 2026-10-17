@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2008",
+    "index": 24,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "A passagem de uma quantidade adequada de\ncorrente elétrica pelo filamento de uma lâmpada deixa-o\nincandescente, produzindo luz. O gráfico abaixo mostra\ncomo a intensidade da luz emitida pela lâmpada está\ndistribuída no espectro eletromagnético, estendendo-se\ndesde a região do ultravioleta (UV) até a região do\ninfravermelho.\n\n![](https://enem.dev/2008/questions/24/19198d85-d593-45d7-acfc-91ad737beabd.png)",
+    "files": [
+        "https://enem.dev/2008/questions/24/19198d85-d593-45d7-acfc-91ad737beabd.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A eficiência luminosa de uma lâmpada pode ser definida\ncomo a razão entre a quantidade de energia emitida na\nforma de luz visível e a quantidade total de energia gasta\npara o seu funcionamento. Admitindo-se que essas duas\nquantidades possam ser estimadas, respectivamente, pela\nárea abaixo da parte da curva correspondente à faixa de\nluz visível e pela área abaixo de toda a curva, a eficiência\nluminosa dessa lâmpada seria de aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "75%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 1998",
+    "index": 45,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Você está fazendo uma pesquisa sobre a globalização e lê a seguinte passagem, em um livro:\n\nA SOCIEDADE GLOBAL\n\nAs pessoas se alimentam, se vestem, moram, se comunicam, se divertem, por meio de bens e\nserviços mundiais, utilizando mercadorias produzidas pelo capitalismo mundial, globalizado.\n\nSuponhamos que você vá com seus amigos comer Big Mac e tomar Coca-Cola no Mc Donald’s.\nEm seguida, assiste a um filme de Steven Spielberg e volta para casa num ônibus de marca Mercedes.\n\nAo chegar em casa, liga seu aparelho de TV Philips para ver o videoclip de Michael Jackson e, em\nseguida, deve ouvir um CD do grupo Simply Red, gravado pela BMG Ariola Discos em seu equipamento\nAIWA.\n\nVeja quantas empresas transnacionais estiveram presentes nesse seu curto programa de algumas\nhoras.\n\nAdap. Praxedes et alli, 1997. O MERCOSUL. SP, Ed. Ática, 1997.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base no texto e em seus conhecimentos de Geografia e História, marque a resposta correta.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O capitalismo globalizado está eliminando as particularidades culturais dos povos da terra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A cultura, transmitida por empresas transnacionais, tornou-se um fenômeno criador das novas nações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A globalização do capitalismo neutralizou o surgimento de movimentos nacionalistas de forte cunho cultural e divisionista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O capitalismo globalizado atinge apenas a Europa e a América do Norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Empresas transnacionais pertencem a países de uma mesma cultura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

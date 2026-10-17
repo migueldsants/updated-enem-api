@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2006",
+    "index": 37,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "A ocupação predatória associada à expansão da\nfronteira agropecuária e acelerada pelo plantio da soja tem\ndeflagrado, com a perda da cobertura vegetal, a diminuição\nda biodiversidade, a erosão do solo, a escassez e a\ncontaminação dos recursos hídricos no bioma cerrado.\nSegundo ambientalistas, o cerrado brasileiro corre o risco\nde se transformar em um deserto.\n\nA respeito desse assunto, analise as afirmações abaixo.\n\nI Considerando-se que, em 2006, restem apenas 25% da\n\ncobertura vegetal original do cerrado e que, desse\npercentual, 3% sejam derrubados a cada ano, estima-se\nque, em 2030, o cerrado brasileiro se transformará em\ndeserto.\nII Sabe-se que a eventual extinção do bioma cerrado,\n\ndada a pobreza que o caracteriza, não causará impacto\nsistêmico no conjunto dos biomas brasileiros.\nIII A substituição de agrotóxicos por bioinseticidas reduz a\n\ncontaminação dos recursos hídricos no bioma cerrado.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "É correto o que se afirma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas em I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas em III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "apenas em I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas em II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

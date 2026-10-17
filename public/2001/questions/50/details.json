@@ -1,0 +1,45 @@
+{
+    "title": "Questão 50 - ENEM 2001",
+    "index": 50,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "A padronização insuficiente e a ausência de controle na fabricação podem também resultar em\nperdas significativas de energia através das paredes da geladeira. Essas perdas, em função da\nespessura das paredes, para geladeiras e condições de uso típicas, são apresentadas na tabela.\n\n![](https://enem.dev/2001/questions/50/a55c7936-ebff-4172-bcb8-b0c0955febf1.png)",
+    "files": [
+        "https://enem.dev/2001/questions/50/a55c7936-ebff-4172-bcb8-b0c0955febf1.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando uma família típica, com consumo médio mensal de 200 kWh, a perda térmica\npelas paredes de uma geladeira com 4 cm de espessura, relativamente a outra de 10 cm,\ncorresponde a uma porcentagem do consumo total de eletricidade da ordem de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

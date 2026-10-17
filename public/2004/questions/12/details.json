@@ -1,0 +1,46 @@
+{
+    "title": "Questão 12 - ENEM 2004",
+    "index": 12,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Um leitor encontra o seguinte anúncio entre os classificados de um jornal: Vende-se terreno plano\n\n![](https://enem.dev/2004/questions/12/050ba7f4-2b8d-4e0b-8d87-dae07a719e23.png)\n\nInteressado no terreno, o leitor vai ao endereço indicado e, lá chegando, observa um painel com voltada para o sol no período\na planta a seguir, onde estavam destacados os terrenos ainda não vendidos, numerados de I a V: da manhã.\n\n![](https://enem.dev/2004/questions/12/0f6a6bbb-7cef-471c-9ca9-167c174c9609.png)",
+    "files": [
+        "https://enem.dev/2004/questions/12/050ba7f4-2b8d-4e0b-8d87-dae07a719e23.png",
+        "https://enem.dev/2004/questions/12/0f6a6bbb-7cef-471c-9ca9-167c174c9609.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando as informações do jornal, é possível afirmar que o terreno anunciado é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

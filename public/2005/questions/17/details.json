@@ -1,0 +1,47 @@
+{
+    "title": "Questão 17 - ENEM 2005",
+    "index": 17,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 17 e 18.\n\nNa investigação forense, utiliza-se luminol, uma substância que reage com o ferro presente na hemoglobina do\nsangue, produzindo luz que permite visualizar locais contaminados com pequenas quantidades de sangue, mesmo em\nsuperfícies lavadas.\nÉ proposto que, na reação do luminol (I) em meio alcalino, na presença de peróxido de hidrogênio (II) e de um metal\nde transição (Mⁿ⁺), forma-se o composto 3-amino ftalato (III) que sofre uma relaxação dando origem ao produto final\nda reação (IV), com liberação de energia (hν) e de gás nitrogênio (N ).\n\n(Adaptado. Química Nova, 25, nº 6, 2002. pp. 1003-1011.)\n\nI II III IV\n\n![](https://enem.dev/2005/questions/17/0a2a2b0b-2ef0-4d2e-92ce-c29c3a9ef79d.png)\n\n![](https://enem.dev/2005/questions/17/f839a626-5165-4cec-beaa-ed4314b653de.png)\n\n+ hν + N₂\n\n![](https://enem.dev/2005/questions/17/aedfa718-9cbe-43da-ba5b-c8d9a5479ae8.png)\n\n+ H₂O₂ + Mⁿ⁺\n\nDados: pesos moleculares: Luminol = 177\n\n3-amino ftalato = 164",
+    "files": [
+        "https://enem.dev/2005/questions/17/0a2a2b0b-2ef0-4d2e-92ce-c29c3a9ef79d.png",
+        "https://enem.dev/2005/questions/17/f839a626-5165-4cec-beaa-ed4314b653de.png",
+        "https://enem.dev/2005/questions/17/aedfa718-9cbe-43da-ba5b-c8d9a5479ae8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na reação do luminol, está ocorrendo o fenômeno de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fluorescência, quando espécies excitadas por absorção de uma radiação eletromagnética relaxam liberando luz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "incandescência, um processo físico de emissão de luz que transforma energia elétrica em energia luminosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "quimiluminescência, uma reação química que ocorre com liberação de energia eletromagnética na forma de luz.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "fosforescência, em que átomos excitados pela radiação visível sofrem decaimento, emitindo fótons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fusão nuclear a frio, através de reação química de hidrólise com liberação de energia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

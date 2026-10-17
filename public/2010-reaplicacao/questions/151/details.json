@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2010 - Reaplicação",
+    "index": 151,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As Olimpíadas de 2016 serão realizadas na cidade\ndo Rio de Janeiro. Uma das modalidades que trazem\nesperanças de medalhas para o Brasil é a natação.\nAliás, a piscina olímpica merece uma atenção especial\ndevido as suas dimensões. Piscinas olímpicas têm 50\nmetros de comprimento por 25 metros de largura.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se a piscina olímpica fosse representada em uma escala\nde 1:100, ela ficaria com as medidas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,5 centímetro de comprimento e 0,25 centímetro de largura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 centímetros de comprimento e 2,5 centímetros de largura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50 centímetros de comprimento e 25 centímetros de largura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "500 centímetros de comprimento e 250 centímetros de largura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "200 centímetros de comprimento e 400 centímetros de largura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

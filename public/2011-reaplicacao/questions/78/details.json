@@ -1,0 +1,46 @@
+{
+    "title": "Questão 78 - ENEM 2011 - Reaplicação",
+    "index": 78,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Três amostras de minérios de ferro de regiões distintas foram analisadas e os resultados, com valores\naproximados, estão na tabela:\n\nA Fe₂O₃ 100 52,5\n\n![](https://enem.dev/2011-reaplicacao/questions/78/d6c73ed1-5b0a-44ab-aa2f-ce937b469e38.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/78/536c0620-1079-4ced-8df2-4c49adec8630.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/78/d6c73ed1-5b0a-44ab-aa2f-ce937b469e38.png",
+        "https://enem.dev/2011-reaplicacao/questions/78/536c0620-1079-4ced-8df2-4c49adec8630.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "2 Fe₂O₃ + 3 C → 4 Fe + 3 CO₂\n2 FeO + C → 2 Fe + CO₂\nFe₃O₄ + 2 C → 3 Fe + 2 CO₂\nDados: Massas molares (g/mol) C = 12; O = 16; Fe = 56; FeO = 72; Fe₂O₃ = 160; Fe₃O₄ = 232.\nOs minérios que apresentam, respectivamente, a maior pureza e o menor consumo de carvão por tonelada de ferro\nproduzido são os das regiões:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A com 75% e C com 143 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B com 80% e A com 161 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C com 85% e B com 107 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A com 90% e B com 200 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "B com 95% e A com 161 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

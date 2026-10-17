@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2005",
+    "index": 27,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As cobras estão entre os animais peçonhentos que mais causam acidentes no Brasil, principalmente na área rural.\nAs cascavéis (Crotalus), apesar de extremamente venenosas, são cobras que, em relação a outras espécies,\ncausam poucos acidentes a humanos. Isso se deve ao ruído de seu “chocalho”, que faz com que suas vítimas\npercebam sua presença e as evitem. Esses animais só atacam os seres humanos para sua defesa e se alimentam\nde pequenos roedores e aves. Apesar\ndetectadas.\nUltimamente os cientistas observaram que essas cobras têm ficado mais silenciosas, o que passa a ser um\nproblema, pois, se as pessoas não as percebem, aumentam os riscos de acidentes.\nA explicação darwinista para o fato de a cascavel estar ficando mais silenciosa é que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a necessidade de não ser descoberta e morta mudou seu comportamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as alterações no seu código genético surgiram para aperfeiçoá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as mutações sucessivas foram acontecendo para que ela pudesse adaptar-se.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as variedades mais silenciosas foram selecionadas positivamente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as variedades sofreram mutações para se adaptarem à presença de seres humanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

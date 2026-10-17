@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2010 - Reaplicação",
+    "index": 91,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "The record industry\n\nThe record industry is undoubtedly in crisis, with labels\nlaying off employees in continuation. This is because CD\nsales are plummeting as youngsters prefer to download\ntheir music from the Internet, usually free of charge.\n\nAnd yet it´s not all gloom and doom. Some labels are\nin fact thriving. Putumayo World Music, for example, is\ngrowing, thanks to its catalogue of ethnic compilation\nalbums, featuring work by largely unknown artists from\naround the planet.\n\nPutumayo, which takes its name from a valley in\nColombia, was founded in New York in 1993. It began life\nas an alternative clothing company, but soon decided to\nconcentrate on music. Indeed its growth appears to have\ncoincided with that of world music as a genre.\n\nSpeak Up. Ano XXIII, nº 275 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A indústria fonográfica passou por várias mudanças\nno século XX e, como consequência, as empresas\nenfrentaram crises. Entre as causas, o texto da revista\nSpeak Up aponta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o baixo interesse dos jovens por alguns gêneros musicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o acesso a músicas, geralmente sem custo, pela Internet.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a compilação de álbuns com diferentes estilos musicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a ausência de artistas populares entre as pessoas mais jovens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o aumento do número de cantores desconhecidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

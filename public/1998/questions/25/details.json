@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 1998",
+    "index": 25,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "O assunto na aula de Biologia era a evolução do Homem. Foi apresentada aos alunos uma árvore\nfilogenética, igual à mostrada na ilustração, que relacionava primatas atuais e seus ancestrais.\n\n![](https://enem.dev/1998/questions/25/1d998786-6335-4abe-919d-2804498b5e21.png)\n\nÁ rvore filog enétic a prováv el d os a ntropó ides\n\nApós observar o material fornecido pelo professor, os alunos emitiram várias opiniões, a saber:\n\n,1 os macacos antropóides (orangotango, gorila e chimpanzé e gibão) surgiram na Terra mais ou menos\n\ncontemporaneamente ao Homem.\n\n,,1 alguns homens primitivos, hoje extintos, descendem dos macacos antropóides.\n,,,1 na história evolutiva, os homens e os macacos antropóides tiveram um ancestral comum.\n,91 não existe relação de parentesco genético entre macacos antropóides e homens.",
+    "files": [
+        "https://enem.dev/1998/questions/25/1d998786-6335-4abe-919d-2804498b5e21.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Analisando a árvore filogenética, você pode concluir que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "todas as afirmativas estão corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas as afirmativas I e III estão corretas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "apenas as afirmativas II e IV estão corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apenas a afirmativa II está correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apenas a afirmativa IV está correta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

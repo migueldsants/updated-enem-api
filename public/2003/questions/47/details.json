@@ -1,0 +1,45 @@
+{
+    "title": "Questão 47 - ENEM 2003",
+    "index": 47,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2003/questions/47/ed7d1dfe-e994-4490-90d1-129e1f1987af.png)",
+    "files": [
+        "https://enem.dev/2003/questions/47/ed7d1dfe-e994-4490-90d1-129e1f1987af.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando os dois documentos, podemos afirmar que a natureza do pensamento que permite a datação da Terra\né de natureza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "científica no primeiro e mágica no segundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "social no primeiro e política no segundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "religiosa no primeiro e científica no segundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "religiosa no primeiro e econômica no segundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "matemática no primeiro e algébrica no segundo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

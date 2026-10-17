@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2008",
+    "index": 6,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Os ingredientes que compõem uma gotícula de\nnuvem são o vapor de água e um núcleo de condensação\nde nuvens (NCN). Em torno desse núcleo, que consiste em\numa minúscula partícula em suspensão no ar, o vapor de\nágua se condensa, formando uma gotícula microscópica,\nque, devido a uma série de processos físicos, cresce até\nprecipitar-se como chuva.\n\nNa floresta Amazônica, a principal fonte natural de\nNCN é a própria vegetação. As chuvas de nuvens baixas,\nna estação chuvosa, devolvem os NCNs, aerossóis, à\nsuperfície, praticamente no mesmo lugar em que foram\ngerados pela floresta. As nuvens altas são carregadas por\nventos mais intensos, de altitude, e viajam centenas de\nquilômetros de seu local de origem, exportando as\npartículas contidas no interior das gotas de chuva.\nNa Amazônia, cuja taxa de precipitação é uma das mais\naltas do mundo, o ciclo de evaporação e precipitação\nnatural é altamente eficiente.\n\nCom a chegada, em larga escala, dos seres\nhumanos à Amazônia, ao longo dos últimos 30 anos, parte\ndos ciclos naturais está sendo alterada. As emissões de\npoluentes atmosféricos pelas queimadas, na época da\nseca, modificam as características físicas e químicas da\natmosfera amazônica, provocando o seu aquecimento,\ncom modificação do perfil natural da variação da\ntemperatura com a altura, o que torna mais difícil a\nformação de nuvens.\n\nPaulo Artaxo et al. O mecanismo da floresta para fazer chover.In: Scientific\nAmerican Brasil, ano 1, n.º 11, abr./2003, p. 38-45 (com adaptações).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na Amazônia, o ciclo hidrológico depende\nfundamentalmente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da produção de CO₂ oriundo da respiração das árvores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da evaporação, da transpiração e da liberação de aerossóis que atuam como NCNs.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "das queimadas, que produzem gotículas microscópicas de água, as quais crescem até se precipitarem como chuva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "das nuvens de maior altitude, que trazem para a floresta NCNs produzidos a centenas de quilômetros de seu local de origem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da intervenção humana, mediante ações que modificam as características físicas e químicas da atmosfera da região.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 35 - ENEM 2008",
+    "index": 35,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Gráfico para as questões 35 e 36\n\nNo gráfico a seguir, estão especificados a\nprodução brasileira de café, em toneladas; a área\nplantada, em hectares (ha); e o rendimento médio do\nplantio, em kg/ha, no período de 2001 a 2008.\n\nCafé (em grão) — Brasil\n3.000.000 3.000\n2.500.000 2.500 rendimento médio\n2.000.000 2.000\n1.500.000 1.500\n\n![](https://enem.dev/2008/questions/35/9835a92e-d35f-49c8-acca-39916867f145.png)\n\n![](https://enem.dev/2008/questions/35/d49087b8-d1ac-4888-abb9-0d536f07f2a9.png)\n\n20012002200320042005200620072008\n\n![](https://enem.dev/2008/questions/35/ba03ca8d-e1d8-4c04-9de6-5689406736ce.png)\n\nFonte: IBGE",
+    "files": [
+        "https://enem.dev/2008/questions/35/9835a92e-d35f-49c8-acca-39916867f145.png",
+        "https://enem.dev/2008/questions/35/d49087b8-d1ac-4888-abb9-0d536f07f2a9.png",
+        "https://enem.dev/2008/questions/35/ba03ca8d-e1d8-4c04-9de6-5689406736ce.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A análise dos dados mostrados no gráfico revela que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a produção em 2003 foi superior a 2.100.000 toneladas de grãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a produção brasileira foi crescente ao longo de todo o período observado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a área plantada decresceu a cada ano no período de 2001 a 2008.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "os aumentos na produção correspondem a aumentos no rendimento médio do plantio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a área plantada em 2007 foi maior que a de 2001.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

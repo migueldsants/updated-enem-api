@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2004",
+    "index": 45,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O excesso de veículos e os congestionamentos em grandes cidades são temas de freqüentes reportagens. Os meios de\ntransportes utilizados e a forma como são ocupados têm reflexos nesses congestionamentos, além de problemas ambientais e\neconômicos. No gráfico a seguir, podem-se observar valores médios do consumo de energia por passageiro e por quilômetro\nrodado, em diferentes meios de transporte, para veículos em duas condições de ocupação (número de passageiros): ocupação\ntípica e ocupação máxima.\n\n![](https://enem.dev/2004/questions/45/7f17213f-b887-4694-aca2-24b541d295d3.png)",
+    "files": [
+        "https://enem.dev/2004/questions/45/7f17213f-b887-4694-aca2-24b541d295d3.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esses dados indicam que políticas de transporte urbano devem também levar em conta que a maior eficiência no uso de energia\nocorre para os",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ônibus, com ocupação típica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "automóveis, com poucos passageiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "transportes coletivos, com ocupação máxima.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "automóveis, com ocupação máxima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "trens, com poucos passageiros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

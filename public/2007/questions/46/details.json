@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2007",
+    "index": 46,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Uma família de europeus escolheu as praias do\nNordeste para uma temporada de férias. Fazem parte da\nfamília um garoto de 4 anos de idade, que se recupera de\nicterícia, e um bebê de 1 ano de idade, ambos loiros de\nolhos azuis. Os pais concordam que os meninos devem\nusar chapéu durante os passeios na praia. Entretanto,\ndivergem quanto ao uso do filtro solar. Na opinião do pai, o\nbebê deve usar filtro solar com FPS ≥ 20 e o seu irmão não\ndeve usar filtro algum porque precisa tomar sol para se\nfortalecer. A mãe opina que os dois meninos devem usar\nfiltro solar com FPS ≥ 20.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na situação apresentada, comparada à opinião da mãe, a\nopinião do pai é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "correta, porque ele sugere que a família use chapéu durante todo o passeio na praia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "correta, porque o bebê loiro de olhos azuis tem a pele mais sensível que a de seu irmão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "correta, porque o filtro solar com FPS ≥ 20 bloqueia o efeito benéfico do sol na recuperação da icterícia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "incorreta, porque o uso do filtro solar com FPS ≥ 20, com eficiência moderada, evita queimaduras na pele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "incorreta, porque é recomendado que pessoas com olhos e cabelos claros usem filtro solar com FPS ≥ 20.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

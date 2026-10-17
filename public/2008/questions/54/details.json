@@ -1,0 +1,52 @@
+{
+    "title": "Questão 54 - ENEM 2008",
+    "index": 54,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Fractal (do latim fractus, fração, quebrado) — objeto que\npode ser dividido em partes que possuem semelhança com\no objeto inicial. A geometria fractal, criada no século XX,\nestuda as propriedades e o comportamento dos fractais —\nobjetos geométricos formados por repetições de padrões\nsimilares.\n\nO triângulo de Sierpinski, uma das formas elementares da\ngeometria fractal, pode ser obtido por meio dos seguintes\npassos:\n1. comece com um triângulo equilátero (figura 1);\n2. construa um triângulo em que cada lado tenha a\nmetade do tamanho do lado do triângulo anterior e\nfaça três cópias;\n3. posicione essas cópias de maneira que cada triângulo\ntenha um vértice comum com um dos vértices de cada\num dos outros dois triângulos, conforme ilustra a figura 2;\n4. repita sucessivamente os passos 2 e 3 para cada\ncópia dos triângulos obtidos no passo 3 (figura 3).\n\n![](https://enem.dev/2008/questions/54/a33c3038-7844-4b30-b242-a3343e0ccb37.png)\n\n![](https://enem.dev/2008/questions/54/fa32f20d-eb52-45e5-ae15-f8209fcdf24a.png)\n\n![](https://enem.dev/2008/questions/54/fe0e1d07-acb2-4a50-b5bb-0ed158d498ca.png)\n\n...\n\nFigura 1 Figura 2 Figura 3",
+    "files": [
+        "https://enem.dev/2008/questions/54/a33c3038-7844-4b30-b242-a3343e0ccb37.png",
+        "https://enem.dev/2008/questions/54/fa32f20d-eb52-45e5-ae15-f8209fcdf24a.png",
+        "https://enem.dev/2008/questions/54/fe0e1d07-acb2-4a50-b5bb-0ed158d498ca.png",
+        "https://enem.dev/2008/questions/54/48c415cf-ba6f-4829-8ab2-584975eb658e.png",
+        "https://enem.dev/2008/questions/54/a94c1fdb-973d-40c4-85b3-4182e864913a.png",
+        "https://enem.dev/2008/questions/54/8880ae30-936f-464e-850f-5940deea25db.png",
+        "https://enem.dev/2008/questions/54/cab48262-6ccd-4d01-b1c8-faef5745d0b1.png",
+        "https://enem.dev/2008/questions/54/46dd451e-afba-4cab-ae58-1c7e311dbfb7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o procedimento descrito, a figura 4 da\nseqüência apresentada acima é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/54/48c415cf-ba6f-4829-8ab2-584975eb658e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/54/a94c1fdb-973d-40c4-85b3-4182e864913a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/54/8880ae30-936f-464e-850f-5940deea25db.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/54/cab48262-6ccd-4d01-b1c8-faef5745d0b1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/54/46dd451e-afba-4cab-ae58-1c7e311dbfb7.png",
+            "isCorrect": false
+        }
+    ]
+}

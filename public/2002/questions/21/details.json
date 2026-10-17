@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2002",
+    "index": 21,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Em 1958, a seleção brasileira foi campeã mundial pela primeira vez. O texto foi extraído da crônica “A alegria de ser brasileiro”,\ndo dramaturgo Nelson Rodrigues, publicada naquele ano pelo jornal Última Hora.\n\n“Agora, com a chegada da equipe imortal, as lágrimas rolam. Convenhamos que a seleção as merece. Merece por tudo: não só\npelo futebol, que foi o mais belo que os olhos mortais já contemplaram, como também pelo seu maravilhoso índice disciplinar.\nAté este Campeonato, o brasileiro julgava-se um cafajeste nato e hereditário. Olhava o inglês e tinha-lhe inveja. Achava o\ninglês o sujeito mais fino, mais sóbrio, de uma polidez e de uma cerimônia inenarráveis. E, súbito, há o Mundial. Todo mundo\nbaixou o sarrafo no Brasil. Suecos, britânicos, alemães, franceses, checos, russos, davam botinadas em penca. Só o brasileiro\nse mantinha ferozmente dentro dos limites rígidos da esportividade. Então, se verificou o seguinte: o inglês, tal como o\nconcebíamos, não existe. O único inglês que apareceu no Mundial foi o brasileiro. Por tantos motivos, vamos perder a\nvergonha (...), vamos sentar no meio-fio e chorar. Porque é uma alegria ser brasileiro, amigos”.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Além de destacar a beleza do futebol brasileiro, Nelson Rodrigues quis dizer que o comportamento dos jogadores dentro do\ncampo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "foi prejudicial para a equipe e quase pôs a perder a conquista da copa do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mostrou que os brasileiros tinham as mesmas qualidades que admiravam nos europeus, principalmente nos ingleses.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ressaltou o sentimento de inferioridade dos jogadores brasileiros em relação aos europeus, o que os impediu de revidar as agressões sofridas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mostrou que o choro poderia aliviar o sentimento de que os europeus eram superiores aos brasileiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mostrou que os brasileiros eram iguais aos europeus, podendo comportar-se como eles, que não respeitavam os limites da esportividade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

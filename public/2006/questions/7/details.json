@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2006",
+    "index": 7,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "No poema Procura da poesia, Carlos Drummond de\nAndrade expressa a concepção estética de se fazer com\npalavras o que o escultor Michelângelo fazia com\nmármore. O fragmento abaixo exemplifica essa afirmação.\n\n(...)\nPenetra surdamente no reino das palavras.\nLá estão os poemas que esperam ser escritos.\n(...)\nChega mais perto e contempla as palavras.\nCada uma\ntem mil faces secretas sob a face neutra\ne te pergunta, sem interesse pela resposta,\npobre ou terrível, que lhe deres:\ntrouxeste a chave?\n\nCarlos Drummond de Andrade. A rosa do povo.\nRio de Janeiro: Record, 1997, p. 13-14.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse fragmento poético ilustra o seguinte tema\nconstante entre autores modernistas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a nostalgia do passado colonialista revisitado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a preocupação com o engajamento político e social da literatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o trabalho quase artesanal com as palavras, despertando sentidos novos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a produção de sentidos herméticos na busca da perfeição poética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a contemplação da natureza brasileira na perspectiva ufanista da pátria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

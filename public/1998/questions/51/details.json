@@ -1,0 +1,46 @@
+{
+    "title": "Questão 51 - ENEM 1998",
+    "index": 51,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Uma pesquisa de opinião foi realizada para\n\n100\n\navaliar os níveis de audiência de alguns canais de\ntelevisão, entre 20h e 21h, durante uma\ndeterminada noite.\n\n![](https://enem.dev/1998/questions/51/00e9cca1-a9d3-4b42-a0b8-7bf25581c244.png)\n\n![](https://enem.dev/1998/questions/51/91cfdc6c-81f9-4b0d-919d-d3a0ffeac8b1.png)\n\nNº de residências₂₀\n\ncanal",
+    "files": [
+        "https://enem.dev/1998/questions/51/00e9cca1-a9d3-4b42-a0b8-7bf25581c244.png",
+        "https://enem.dev/1998/questions/51/91cfdc6c-81f9-4b0d-919d-d3a0ffeac8b1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A percentagem de entrevistados que declararam estar assistindo à TvB é aproximadamente igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "20%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "22%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "27%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "30%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2004",
+    "index": 51,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Em conflitos regionais e na guerra entre nações tem sido observada a ocorrência de seqüestros, execuções sumárias, torturas e\noutras violações de direitos.\nEm 10 de dezembro de 1948, a Assembléia Geral das Nações Unidas adotou a Declaração Universal dos Direitos do Homem,\nque, em seu artigo 5º, afirma:",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ninguém será submetido a tortura nem a penas ou tratamentos cruéis, desumanos ou degradantes.\nAssim, entre nações que assinaram essa Declaração, é coerente esperar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a Constituição de cada país deva se sobrepor aos Direitos Universais do Homem, apenas enquanto houver conflito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a soberania dos Estados esteja em conformidade com os Direitos Universais do Homem, até mesmo em situações de conflito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "a violação dos direitos humanos por uma nação autorize a mesma violação pela nação adversária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sejam estabelecidos limites de tolerância, para além dos quais a violação aos direitos humanos seria permitida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a autodefesa nacional legitime a supressão dos Direitos Universais do Homem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

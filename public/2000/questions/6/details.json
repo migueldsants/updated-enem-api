@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2000",
+    "index": 6,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma conversa ou leitura de um texto, corre-se o risco de atribuir um significado inadequado a um termo ou expressão, e isso pode levar a certos resultados\ninesperados, como se vê nos quadrinhos abaixo.\n\n![](https://enem.dev/2000/questions/6/6218eeb9-0e4b-4b11-b6a6-0e0ad04ffe3d.png)",
+    "files": [
+        "https://enem.dev/2000/questions/6/6218eeb9-0e4b-4b11-b6a6-0e0ad04ffe3d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa historinha, o efeito humorístico origina-se de uma situação criada pela fala da Rosinha no primeiro quadrinho, que é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Faz uma pose bonita!",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Quer tirar um retrato?",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sua barriga está aparecendo!",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Olha o passarinho!",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Cuidado com o flash!",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

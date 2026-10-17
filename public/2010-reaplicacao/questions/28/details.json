@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2010 - Reaplicação",
+    "index": 28,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Dali avistamos homens que andavam pela praia, obra\nde sete ou oito. Eram pardos, todos nus. Nas mãos\ntraziam arcos com suas setas. Não fazem o menor caso\nde encobrir ou de mostrar suas vergonhas; e nisso têm\ntanta inocência como em mostrar o rosto. Ambos traziam\nos beiços de baixo furados e metidos neles seus ossos\nbrancos e verdadeiros. Os cabelos seus são corredios.\n\nCAMINHA, P. V. Carta. RIBEIRO, D. et al. Viagem pela história do Brasil: documentos.\nSão Paulo: Companhia das Letras, 1997 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto é parte da famosa Carta de Pero Vaz de Caminha,\ndocumento fundamental para a formação da identidade\nbrasileira. Tratando da relação que, desde esse primeiro\ncontato, se estabeleceu entre portugueses e indígenas,\nesse trecho da carta revela a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "preocupação em garantir a integridade do colonizador diante da resistência dos índios à ocupação da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "postura etnocêntrica do europeu diante das características físicas e práticas culturais do indígena.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "orientação da política da Coroa Portuguesa quanto à utilização dos nativos como mão de obra para colonizar a nova terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oposição de interesses entre portugueses e índios, que dificultava o trabalho catequético e exigia amplos recursos para a defesa da posse da nova terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "abundância da terra descoberta, o que possibilitou a sua incorporação aos interesses mercantis portugueses, por meio da exploração econômica dos índios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 1998",
+    "index": 42,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Alunos de uma escola no Rio de Janeiro são convidados a participar de uma excursão ao Parque\nNacional de Jurubatiba. Antes do passeio, eles lêem o trecho de uma reportagem publicada em uma\nrevista:\n\n“Jurubatiba será o primeiro parque nacional em área de restinga, num braço de areia com 31\nquilômetros de extensão, formado entre o mar e dezoito lagoas. Numa área de 14.000 hectares, ali\nvivem jacarés, capivaras, lontras, tamanduás-mirins, além de milhares de aves e de peixes de água\ndoce e salgada.Os peixes de água salgada, na época das cheias, passam para as lagoas, onde\nencontram abrigo, voltando ao mar na cheia seguinte. Nos terrenos mais baixos, próximos aos\nlençóis freáticos, as plantas têm água suficiente para agüentar longas secas. Já nas áreas planas,\nos cactos são um dos poucos vegetais que proliferam, pintando o areal com um verde pálido.”",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto anterior cita alguns exemplos de animais que vivem em Jurubatiba e podem ser classificados como:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mamíferos, peixes e aves, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mamíferos, peixes, aves e anfíbios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "répteis, aves e anfíbios apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mamíferos, répteis, peixes e aves.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "animais pertencentes a uma só classe.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

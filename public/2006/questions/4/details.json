@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2006",
+    "index": 4,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Depois de um bom jantar: feijão com carne-seca,\norelha de porco e couve com angu, arroz-mole\nengordurado, carne de vento assada no espeto, torresmo\nenxuto de toicinho da barriga, viradinho de milho verde e\num prato de caldo de couve, jantar encerrado por um prato\nfundo de canjica com torrões de açúcar, Nhô Tomé\nsaboreou o café forte e se estendeu na rede. A mão direita\nsob a cabeça, à guisa de travesseiro, o indefectível cigarro\nde palha entre as pontas do indicador e do polegar,\nenvernizados pela fumaça, de unhas encanoadas e\nlongas, ficou-se de pança para o ar, modorrento, a olhar\npara as ripas do telhado.\n\nQuem come e não deita, a comida não aproveita,\npensava Nhô Tomé... E pôs-se a cochilar. A sua modorra\ndurou pouco; Tia Policena, ao passar pela sala, bradou\nassombrada:\n\n— Êêh! Sinhô! Vai drumi agora? Não! Num\npresta... Dá pisadêra e póde morrê de ataque de cabeça!\nDespois do armoço num far-má... mais despois da janta?!”\n\nCornélio Pires. Conversas ao pé do fogo. São Paulo:\nImprensa Oficial do Estado de São Paulo, 1987.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse trecho, extraído de texto publicado originalmente em\n1921, o narrador",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresenta, sem explicitar juízos de valor, costumes da época, descrevendo os pratos servidos no jantar e a atitude de Nhô Tomé e de Tia Policena.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "desvaloriza a norma culta da língua porque incorpora à narrativa usos próprios da linguagem regional das personagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "condena os hábitos descritos, dando voz a Tia Policena, que tenta impedir Nhô Tomé de deitar-se após as refeições.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utiliza a diversidade sociocultural e lingüística para demonstrar seu desrespeito às populações das zonas rurais do início do século XX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manifesta preconceito em relação a Tia Policena ao transcrever a fala dela com os erros próprios da região.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

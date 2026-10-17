@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2005",
+    "index": 7,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Zuenir Ventura, em seu livro “Minhas memórias dos outros” (São Paulo: Planeta do Brasil, 2005), referindo-se ao fim\nda “Era Vargas” e ao suicídio do presidente em 1954, comenta:\nQuase como castigo do destino, dois anos depois eu iria trabalhar no jornal de Carlos Lacerda, o inimigo mortal de\nVargas (e nunca esse adjetivo foi tão próprio).\nDiante daquele contexto histórico, muitos estudiosos acreditam que, com o suicídio, Getúlio Vargas atingiu não\napenas a si mesmo, mas o coração de seus aliados e a mente de seus inimigos.\nA afirmação que aparece “entre parênteses” no comentário e uma conseqüência política que atingiu os inimigos de\nVargas aparecem, respectivamente, em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a conspiração envolvendo o jornalista Carlos Lacerda é um dos elementos do desfecho trágico e o recuo da ação de políticos conservadores devido ao impacto da reação popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a tentativa de assassinato sofrida pelo jornalista Carlos Lacerda por apoiar os assessores do presidente que discordavam de suas idéias e o avanço dos conservadores foi intensificado pela ação dos militares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o presidente sentiu-se impotente para atender a seus inimigos, como Carlos Lacerda, que o pressionavam contra a ditadura e os aliados do presidente teriam que aguardar mais uma década para concretizar a democracia progressista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o jornalista Carlos Lacerda foi responsável direto pela morte do presidente e este fato veio impedir definitivamente a ação de grupos conservadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o presidente cometeu o suicído para garantir uma definitiva e dramática vitória contra seus acusadores e oferecendo a própria vida Vargas facilitou as estratégias de regimes autoritários no país.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

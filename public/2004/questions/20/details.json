@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2004",
+    "index": 20,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Instruções: As questões de números 20 e 21 referem-se ao poema abaixo.\n\nBrasil\n\nO Zé Pereira chegou de caravela\nE preguntou pro guarani da mata virgem\n― Sois cristão?\n― Não. Sou bravo, sou forte, sou filho da Morte\nTeterê tetê Quizá Quizá Quecê!\nLá longe a onça resmungava Uu! ua! uu!\nO negro zonzo saído da fornalha\nTomou a palavra e respondeu\n― Sim pela graça de Deus\nCanhem Babá Canhem Babá Cum Cum!\nE fizeram o Carnaval\n\n(Oswald de Andrade)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Este texto apresenta uma versão humorística da formação do Brasil, mostrando-a como uma junção de elementos diferentes.\nConsiderando-se esse aspecto, é correto afirmar que a visão apresentada pelo texto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ambígua, pois tanto aponta o caráter desconjuntado da formação nacional, quanto parece sugerir que esse processo, apesar de tudo, acaba bem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "inovadora, pois mostra que as três raças formadoras – portugueses, negros e índios – pouco contribuíram para a formação da identidade brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "moralizante, na medida em que aponta a precariedade da formação cristã do Brasil como causa da predominância de elementos primitivos e pagãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "preconceituosa, pois critica tanto índios quanto negros, representando de modo positivo apenas o elemento europeu, vindo com as caravelas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "negativa, pois retrata a formação do Brasil como incoerente e defeituosa, resultando em anarquia e falta de seriedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

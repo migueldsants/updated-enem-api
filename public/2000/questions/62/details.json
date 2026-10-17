@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2000",
+    "index": 62,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Van Gogh, pintor holandês nascido em 1853, é\num dos principais nomes da pintura mundial. É\ndele o quadro abaixo.\n\n![](https://enem.dev/2000/questions/62/0683f52d-320c-4571-a079-3d83f47330b2.png)\n\nFortaleza Auto-retrato de orelha cortada\n\nO metabolismo dos carboidratos é fundamental para o ser humano, pois a\npartir desses compostos orgânicos obtém-se grande parte da energia para\nas funções vitais. Por outro lado, desequilíbrios nesse processo podem\nprovocar hiperglicemia ou diabetes.\nO caminho do açúcar no organismo inicia-se com a ingestão de\ncarboidratos que, chegando ao intestino, sofrem a ação de enzimas,\n“quebrando-se” em moléculas menores (glicose, por exemplo) que serão\nabsorvidas.\nA insulina, hormônio produzido no pâncreas, é responsável por facilitar a\nentrada da glicose nas células. Se uma pessoa produz pouca insulina, ou\nse sua ação está diminuída, dificilmente a glicose pode entrar na célula e\nser consumida.",
+    "files": [
+        "https://enem.dev/2000/questions/62/0683f52d-320c-4571-a079-3d83f47330b2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nessas informações, pode-se concluir que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o papel realizado pelas enzimas pode ser diretamente substituído pelo hormônio insulina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a insulina produzida pelo pâncreas tem um papel enzimático sobre as moléculas de açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o acúmulo de glicose no sangue é provocado pelo aumento da ação da insulina, levando o indivíduo a um quadro clínico de hiperglicemia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a diminuição da insulina circulante provoca um acúmulo de glicose no sangue.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o principal papel da insulina é manter o nível de glicose suficientemente alto, evitando, assim, um quadro clínico de diabetes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

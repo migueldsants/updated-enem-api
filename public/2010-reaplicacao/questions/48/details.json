@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2010 - Reaplicação",
+    "index": 48,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No nosso dia a dia deparamo-nos com muitas tarefas\npequenas e problemas que demandam pouca energia\npara serem resolvidos e, por isso, não consideramos a\neficiência energética de nossas ações. No global, isso\nsignifica desperdiçar muito calor que poderia ainda ser\nusado como fonte de energia para outros processos. Em\nambientes industriais, esse reaproveitamento é feito por um\nprocesso chamado de cogeração. A figura a seguir ilustra\num exemplo de cogeração na produção de energia elétrica.\n\n![](https://enem.dev/2010-reaplicacao/questions/48/7191c59a-003d-49c1-8034-5b0cb6e81f92.png)\n\nHINRICHS, R. A.; KLEINBACH, M. Energia e meio ambiente.\nSão Paulo: Pioneira Thomson Learning, 2003 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/48/7191c59a-003d-49c1-8034-5b0cb6e81f92.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em relação ao processo secundário de aproveitamento\nde energia ilustrado na figura, a perda global de energia\né reduzida por meio da transformação de energia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "térmica em mecânica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "mecânica em térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "química em térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "química em mecânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "elétrica em luminosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 1998",
+    "index": 58,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Você está estudando o abolicionismo no Brasil e ficou perplexo ao ler o seguinte documento:\n\nTexto 1\nDiscurso do deputado baiano Jerônimo Sodré Pereira – Brasil 1879\n\nNo dia 5 de março de 1879, o deputado baiano Jerônimo Sodré Pereira, discursando na Câmara, afirmou\nque era preciso que o poder público olhasse para a condição de um milhão de brasileiros, que jazem ainda\nno cativeiro. Nessa altura do discurso foi aparteado por um deputado que disse: “ BRASILEIROS, NÃO” .\n\nEm seguida, você tomou conhecimento da existência do Projeto Axé (Bahia), nos seguintes termos:\n\nTexto 2\nProjeto Axé, Lição de cidadania – 1998 – Brasil\n\nNa língua africana Iorubá, axé significa força mágica. Em Salvador, Bahia, o Projeto Axé conseguiu fazer,\nem apenas três anos, o que sucessivos governos não foram capazes: a um custo dez vezes inferior ao de\nprojetos governamentais, ajuda meninos e meninas de rua a construírem projetos de vida, transformando-\nos de pivetes em cidadãos.\nA receita do Axé é simples: competência pedagógica, administração eficiente, respeito pelo\nmenino, incentivo, formação e bons salários para os educadores. Criado em 1991 pelo advogado e\npedagogo italiano Cesare de Florio La Rocca, o Axé atende hoje a mais de duas mil crianças e\nadolescentes.\nA cultura afro, forte presença na Bahia, dá o tom do Projeto Erê (entidade criança do candomblé),\na parte cultural do Axé. Os meninos participam da banda mirim do Olodum, do Ilé Ayê e de outros blocos,\njogam capoeira e têm um grupo de teatro.\nTodas as atividades são remuneradas. Além da bolsa semanal, as crianças têm alimentação,\nuniforme e vale-transporte.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com a leitura dos dois textos, você descobriu que a cidadania:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "jamais foi negada aos cativos e seus descendentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "foi obtida pelos ex-escravos tâo logo a abolição fora decretada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nâo era incompatível com a escravidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ainda hoje continua incompleta para milhões de brasileiros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "consiste no direito de eleger deputados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

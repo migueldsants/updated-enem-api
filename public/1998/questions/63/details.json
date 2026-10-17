@@ -1,0 +1,47 @@
+{
+    "title": "Questão 63 - ENEM 1998",
+    "index": 63,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "O pH informa a acidez ou a basicidade de uma solução. A escala abaixo apresenta a natureza e o pH\nde algumas soluções e da água pura, a 25°C.\n\n![](https://enem.dev/1998/questions/63/4627dafa-ba96-440e-8b6b-7c0c6dc27eee.png)\n\n![](https://enem.dev/1998/questions/63/a976fd3d-2f27-4d18-b702-2025f3ce5476.png)\n\nsuco de saliva água clara de sabão\nlim ão pura ovo\n\nUma solução desconhecida estava sendo testada no laboratório por um grupo de alunos. Esses alunos\ndecidiram que deveriam medir o pH dessa solução como um dos parâmetros escolhidos na\nidentificação da solução. Os resultados obtidos estão na tabela abaixo.\n\n![](https://enem.dev/1998/questions/63/ccf00970-d813-4d99-b15e-b15372fb134a.png)",
+    "files": [
+        "https://enem.dev/1998/questions/63/4627dafa-ba96-440e-8b6b-7c0c6dc27eee.png",
+        "https://enem.dev/1998/questions/63/a976fd3d-2f27-4d18-b702-2025f3ce5476.png",
+        "https://enem.dev/1998/questions/63/ccf00970-d813-4d99-b15e-b15372fb134a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Da solução testada pelos alunos, o professor retirou 100ml e adicionou água até completar 200ml de\nsolução diluída. O próximo grupo de alunos a medir o pH deverá encontrar para o mesmo:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valores inferiores a 1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "os mesmos valores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "valores entre 5 e 7.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "valores entre 5 e 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sempre o valor 7.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2007",
+    "index": 29,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Há cerca de dez anos, estimava-se que 11,2% da\npopulação brasileira poderiam ser considerados\ndependentes de álcool. Esse índice, dividido por gênero,\napontava que 17,1% da população masculina e 5,7% da\npopulação feminina eram consumidores da bebida.\nQuando analisada a distribuição etária desse consumo,\noutro choque: a pesquisa evidenciou que 41,2% de\nestudantes da educação básica da rede pública brasileira\njá haviam feito uso de álcool.\n\nDados atuais apontam que a porcentagem de\ndependentes de álcool subiu para 15%. Estima-se que o\npaís gaste 7,3% do PIB por ano para tratar de problemas\nrelacionados ao alcoolismo, desde o tratamento de\npacientes até a perda da produtividade no trabalho.\nA indústria do álcool no Brasil, que produz do açúcar ao\nálcool combustível, movimenta 3,5% do PIB.\n\nRevista Brasileira de Psiquiatria, v. 28, n.º 4, dez./2006\ne Internet: <www.alcoolismo.com.br> (com adaptações).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir dos dados acima, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o país, para tratar pessoas com problemas provocados pelo alcoolismo, gasta o dobro do que movimenta para produzir bebida alcoólica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o aumento do número de brasileiros dependentes de álcool acarreta decréscimo no percentual do PIB gasto no tratamento dessas pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o elevado percentual de estudantes que já consumiram bebida alcoólica é indicativo de que o consumo do álcool é problema que deve ser enfrentado pela sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "as mulheres representam metade da população brasileira dependente de álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o aumento na porcentagem de brasileiros dependentes de álcool deveu-se, basicamente, ao crescimento da indústria do álcool.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

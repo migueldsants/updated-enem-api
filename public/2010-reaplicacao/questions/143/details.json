@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2010 - Reaplicação",
+    "index": 143,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "FONTES ALTERNATIVAS\n\nHá um novo impulso para produzir combustível a partir\nde gordura animal. Em abril, a High Plains Bioenergy\ninaugurou uma biorrefinaria próxima a uma fábrica de\nprocessamento de carne suína em Guymon, Oklahoma.\nA refinaria converte a gordura do porco, juntamente com\no óleo vegetal, em biodiesel. A expectativa da fábrica é\ntransformar 14 milhões de quilogramas de banha em 112\nmilhões de litros de biodiesel.\n\nRevista Scientific American. Brasil, ago. 2009 (adaptado).\n\nConsidere que haja uma proporção direta entre a\nmassa de banha transformada e o volume de biodiesel\nproduzido.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para produzir 48 milhões de litros de biodiesel, a\nmassa de banha necessária, em quilogramas, será de,\naproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6 milhões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "33 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "78 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "146 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "384 milhões.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

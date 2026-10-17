@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2010 - Reaplicação",
+    "index": 132,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/132/978d4497-69e4-43ec-b883-6f205c251158.png)\n\nAMARAL, Tarsila do. O mamoeiro. 1925, óleo sobre tela, 65x70, IEB//USP.",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/132/978d4497-69e4-43ec-b883-6f205c251158.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O modernismo brasileiro teve forte influência das\nvanguardas europeias. A partir da Semana de Arte\nModerna, esses conceitos passaram a fazer parte da\narte brasileira definitivamente. Tomando como referência\no quadro O mamoeiro, identifica-se que, nas artes\nplásticas, a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "imagem passa a valer mais que as formas vanguardistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "forma estética ganha linhas retas e valoriza o cotidiano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "natureza passa a ser admirada como um espaço utópico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "imagem privilegia uma ação moderna e industrializada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "forma apresenta contornos e detalhes humanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

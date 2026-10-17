@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2010 - Reaplicação",
+    "index": 84,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Quando ocorre um curto-circuito em uma instalação\nelétrica, como na figura, a resistência elétrica total do\ncircuito diminui muito, estabelecendo-se nele uma\ncorrente muito elevada.\n\n![](https://enem.dev/2010-reaplicacao/questions/84/c5678931-3e9d-43ab-bc89-f452f799d524.png)\n\nO superaquecimento da fiação, devido a esse aumento\nda corrente elétrica, pode ocasionar incêndios, que\nseriam evitados instalando-se fusíveis e disjuntores\nque interrompem essa corrente, quando a mesma\natinge um valor acima do especificado nesses\ndispositivos de proteção.\n\nSuponha que um chuveiro instalado em uma rede elétrica\nde 110 V, em uma residência, possua três posições de\nregulagem da temperatura da água. Na posição verão\nutiliza 2 100 W, na posição primavera, 2 400 W, e na\nposição inverno, 3 200 W.\n\nGREF. Física 3: Eletromagnetismo. São Paulo: EDUSP, 1993 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/84/c5678931-3e9d-43ab-bc89-f452f799d524.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Deseja-se que o chuveiro funcione em qualquer uma das\ntrês posições de regulagem de temperatura, sem que\nhaja riscos de incêndio. Qual deve ser o valor mínimo\nadequado do disjuntor a ser utilizado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "40 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30 A",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "25 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "23 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20 A",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

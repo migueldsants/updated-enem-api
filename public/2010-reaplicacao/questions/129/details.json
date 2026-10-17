@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2010 - Reaplicação",
+    "index": 129,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Expressões Idiomáticas\n\nExpressões idiomáticas ou idiomatismo são expressões\nque se caracterizam por não identificar seu significado\natravés de suas palavras individuais ou no sentido literal.\nNão é possível traduzi-las em outra língua e se originam\nde gírias e culturas de cada região. Nas diversas regiões\ndo país, há várias expressões idiomáticas que integram\nos chamados dialetos.\n\nDisponível em: www.brasilescola.com. Acesso em: 24 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto esclarece o leitor sobre as expressões\nidiomáticas, utilizando-se de um recurso metalinguístico\nque se caracteriza por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "influenciar o leitor sobre atitudes a serem tomadas em relação ao preconceito contra os falantes que utilizam expressões idiomáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "externar atitudes preconceituosas em relação às classes menos favorecidas que utilizam expressões idiomáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "divulgar as várias expressões idiomáticas existentes e controlar a atenção do interlocutor, ativando o canal de comunicação entre ambos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "definir o que são expressões idiomáticas e como elas fazem parte do cotidiano do falante pertencente a grupos regionais diferentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "preocupar-se em elaborar esteticamente os sentidos das expressões idiomáticas existentes em regiões distintas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2003",
+    "index": 12,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "A velha Totonha de quando em vez batia no engenho. E era um acontecimento para a meninada. (...) andava\nléguas e léguas a pé, de engenho a engenho, como uma edição viva das histórias de Mil e Uma Noites (...) era\numa grande artista para dramatizar. Tinha uma memória de prodígio. Recitava contos inteiros em versos,\nintercalando pedaços de prosa, como notas explicativas. (...) Havia sempre rei e rainha, nos seus contos, e forca e\nadivinhações. O que fazia a velha Totonha mais curiosa era a cor local que ela punha nos seus descritivos. (...) Os\nrios e as florestas por onde andavam os seus personagens se pareciam muito com o Paraíba e a Mata do Rolo. O\nseu Barba-Azul era um senhor de engenho de Pernambuco.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "(José Lins do Rego. Menino de engenho)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cor local que a personagem velha Totonha colocava em suas histórias é ilustrada, pelo autor, na seguinte",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“Havia sempre rei e rainha, nos seus contos, e forca e adivinhações”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Era uma grande artista para dramatizar. Tinha uma memória de prodígio”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Andava léguas e léguas a pé, como uma edição viva das Mil e Uma Noites”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Recitava contos inteiros em versos, intercalando pedaços de prosa, como notas explicativas”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2001",
+    "index": 4,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "“... Um operário desenrola o arame, o outro o endireita, um terceiro corta, um quarto o afia\nnas pontas para a colocação da cabeça do alfinete; para fazer a cabeça do alfinete requerem-\nse 3 ou 4 operações diferentes; ...”\n\nSMITH, Adam. A Riqueza das Nações. Investigação sobre a sua Natureza e suas Causas. Vol. I. São Paulo: Nova Cultural, 1985.\n\n![](https://enem.dev/2001/questions/4/4abc1e6b-ea03-48f8-a5f9-a86c05fa8898.png)\n\nA respeito do texto e do quadrinho são feitas as seguintes afirmações:\nI. Ambos retratam a intensa divisão do trabalho, à qual são submetidos os operários.\nII. O texto refere-se à produção informatizada e o quadrinho, à produção artesanal.\nIII. Ambos contêm a idéia de que o produto da atividade industrial não depende do",
+    "files": [
+        "https://enem.dev/2001/questions/4/4abc1e6b-ea03-48f8-a5f9-a86c05fa8898.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "conhecimento de todo o processo por parte do operário.\nDentre essas afirmações, apenas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I está correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II está correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III está correta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e II estão corretas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I e III estão corretas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

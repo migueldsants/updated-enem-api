@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2010 - Reaplicação",
+    "index": 126,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quando vou a São Paulo, ando na rua ou vou ao mercado,\napuro o ouvido; não espero só o sotaque geral dos\nnordestinos, onipresentes, mas para conferir a pronúncia\nde cada um; os paulistas pensam que todo nordestino\nfala igual; contudo as variações são mais numerosas\nque as notas de uma escala musical. Pernambuco,\nParaíba, Rio Grande do Norte, Ceará, Piauí têm no falar\nde seus nativos muito mais variantes do que se imagina.\nE a gente se goza uns dos outros, imita o vizinho, e todo\nmundo ri, porque parece impossível que um praiano de\nbeira-mar não chegue sequer perto de um sertanejo\nde Quixeramobim. O pessoal do Cariri, então, até se\norgulha do falar deles. Têm uns tês doces, quase um the;\njá nós, ásperos sertanejos, fazemos um duro au ou eu\nde todos os terminais em al ou el – carnavau, Raqueu...\nJá os paraibanos trocam o l pelo r. José Américo só me\nchamava, afetuosamente, de Raquer.\n\nQueiroz, R. O Estado de São Paulo. 09 maio 1998 (fragmento adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Raquel de Queiroz comenta, em seu texto, um tipo de\nvariação linguística que se percebe no falar de pessoas\nde diferentes regiões. As características regionais\nexploradas no texto manifestam-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "na fonologia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "no uso do léxico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no grau de formalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na organização sintática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na estruturação morfológica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

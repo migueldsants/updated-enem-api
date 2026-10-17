@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2004",
+    "index": 5,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Em 2003, deu-se início às discussões do Plano Amazônia Sustentável, que rebatiza o Arco do Desmatamento, uma extensa\nfaixa que vai de Rondônia ao Maranhão, como Arco do Povoamento Adensado, a fim de reconhecer as demandas da população\nque vive na região. A Amazônia Ocidental, em contraste, é considerada nesse plano como uma área ainda amplamente\npreservada, na qual se pretende encontrar alternativas para tirar mais renda da floresta em pé do que por meio do\ndesmatamento. O quadro apresenta as três macrorregiões e três estratégias que constam do Plano.\n\nEstratégias:\n\nI. Pavimentação de rodovias para levar a soja até o rio\nAmazonas, por onde será escoada.\n\nII. Apoio à produção de fármacos, extratos e couros vegetais.\n\n![](https://enem.dev/2004/questions/5/3035c161-0723-4200-939a-b7a752375265.png)\n\nIII. Orientação para a expansão do plantio de soja, atraindo os\nprodutores para áreas já desmatadas e atualmente\nabandonadas.",
+    "files": [
+        "https://enem.dev/2004/questions/5/3035c161-0723-4200-939a-b7a752375265.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando as características geográficas da Amazônia, aplicam-se às macrorregiões Amazônia Ocidental, Amazônia Central\ne Arco do Povoamento Adensado, respectivamente, as estratégias",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I, III e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III, I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II, I e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "III, II e I.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

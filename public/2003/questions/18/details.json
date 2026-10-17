@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2003",
+    "index": 18,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Na embalagem de um antibiótico, encontra-se uma bula que, entre outras informações, explica a ação do remédio do\nseguinte modo:",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O medicamento atua por inibição da síntese protéica bacteriana.\nEssa afirmação permite concluir que o antibiótico",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "impede a fotossíntese realizada pelas bactérias causadoras da doença e, assim, elas não se alimentam e morrem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "altera as informações genéticas das bactérias causadoras da doença, o que impede manutenção e reprodução desses organismos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dissolve as membranas das bactérias responsáveis pela doença, o que dificulta o transporte de nutrientes e provoca a morte delas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "elimina os vírus causadores da doença, pois não conseguem obter as proteínas que seriam produzidas pelas bactérias que parasitam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "interrompe a produção de proteína das bactérias causadoras da doença, o que impede sua multiplicação pelo bloqueio de funções vitais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

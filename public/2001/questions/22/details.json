@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2001",
+    "index": 22,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O esquema representa o ciclo do enxofre na natureza, sem considerar a intervenção\nhumana.\n\nAdaptado de BRIMBLECOMBE, P. Air Composition and Chemistry. Cambridge. Cambridge University Press, 1996.\n\nO ciclo representado mostra que a atmosfera, a litosfera, a hidrosfera e a biosfera,\nnaturalmente,\n\nI. são poluídas por compostos de enxofre.\nII. são destinos de compostos de enxofre.\nIII. transportam compostos de enxofre.\nIV. são fontes de compostos de enxofre.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Dessas afirmações, estão corretas, apenas,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II, III e IV.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

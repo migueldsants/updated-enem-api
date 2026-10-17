@@ -1,0 +1,46 @@
+{
+    "title": "Questão 44 - ENEM 2000",
+    "index": 44,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Em uma empresa, existe um galpão que precisa ser dividido em três depósitos e\num hall de entrada de 20 m², conforme a figura abaixo. Os depósitos I, II e III\nserão construídos para o armazenamento de, respectivamente, 90, 60 e 120\nfardos de igual volume, e suas áreas devem ser proporcionais a essas\ncapacidades.\n\n![](https://enem.dev/2000/questions/44/5ec7d765-7343-40aa-a7e7-d008ef35b7ff.png)",
+    "files": [
+        "https://enem.dev/2000/questions/44/5ec7d765-7343-40aa-a7e7-d008ef35b7ff.png",
+        "https://enem.dev/2000/questions/44/02ade29b-953e-4e60-af9d-7af9611d356d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A largura do depósito III dever ser, em metros, igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/44/02ade29b-953e-4e60-af9d-7af9611d356d.png",
+            "isCorrect": false
+        }
+    ]
+}

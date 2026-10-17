@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2006",
+    "index": 51,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Na avaliação da eficiência de usinas quanto à\nprodução e aos impactos ambientais, utilizam-se vários\ncritérios, tais como: razão entre produção efetiva anual de\nenergia elétrica e potência instalada ou razão entre\npotência instalada e área inundada pelo reservatório. No\nquadro seguinte, esses parâmetros são aplicados às duas\nmaiores hidrelétricas do mundo: Itaipu, no Brasil, e Três\nGargantas, na China.\n\n![](https://enem.dev/2006/questions/51/bf2bf4cd-0cb2-4ccf-8d08-aae06972fb1e.png)\n\nCom base nessas informações, avalie as afirmativas que\nse seguem.\n\nI A energia elétrica gerada anualmente e a capacidade\n\nnominal máxima de geração da hidrelétrica de Itaipu são\nmaiores que as da hidrelétrica de Três Gargantas.\nII Itaipu é mais eficiente que Três Gargantas no uso da\n\npotência instalada na produção de energia elétrica.\nIII A razão entre potência instalada e área inundada pelo\n\nreservatório é mais favorável na hidrelétrica Três\nGargantas do que em Itaipu.",
+    "files": [
+        "https://enem.dev/2006/questions/51/bf2bf4cd-0cb2-4ccf-8d08-aae06972fb1e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É correto apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

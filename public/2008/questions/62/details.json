@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2008",
+    "index": 62,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Na América do Sul, as Forças Armadas\nRevolucionárias da Colômbia (Farc) lutam, há décadas,\npara impor um regime de inspiração marxista no país.\nHoje, são acusadas de envolvimento com o narcotráfico, o\nqual supostamente financia suas ações, que incluem\nataques diversos, assassinatos e seqüestros.\n\nNa Ásia, a Al Qaeda, criada por Osama bin Laden,\ndefende o fundamentalismo islâmico e vê nos Estados\nUnidos da América (EUA) e em Israel inimigos poderosos,\nos quais deve combater sem trégua. A mais conhecida de\nsuas ações terroristas ocorreu em 2001, quando foram\natingidos o Pentágono e as torres do World Trade Center.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir das informações acima, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as ações guerrilheiras e terroristas no mundo contemporâneo usam métodos idênticos para alcançar os mesmos propósitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o apoio internacional recebido pelas Farc decorre do desconhecimento, pela maioria das nações, das práticas violentas dessa organização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os EUA, mesmo sendo a maior potência do planeta, foram surpreendidos com ataques terroristas que atingiram alvos de grande importância simbólica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "as organizações mencionadas identificam-se quanto aos princípios religiosos que defendem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tanto as Farc quanto a Al Qaeda restringem sua atuação à área geográfica em que se localizam, respectivamente, América do Sul e Ásia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

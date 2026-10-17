@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2006",
+    "index": 34,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Em certas localidades ao longo do rio Amazonas, são\nencontradas populações de determinada espécie de\nlagarto que se reproduzem por partenogênese. Essas\npopulações são constituídas, exclusivamente, por fêmeas\nque procriam sem machos, gerando apenas fêmeas. Isso\nse deve a mutações que ocorrem ao acaso nas\npopulações bissexuais. Avalie as afirmações seguintes,\nrelativas a esse processo de reprodução.\n\nI Na partenogênese, as fêmeas dão origem apenas a\n\nfêmeas, enquanto, nas populações bissexuadas, cerca\nde 50% dos filhotes são fêmeas.\nII Se uma população bissexuada se mistura com uma que\n\nse reproduz por partenogênese, esta última desaparece.\nIII Na partenogênese, um número x de fêmeas é capaz de\n\nproduzir o dobro do número de descendentes de uma\npopulação bissexuada de x indivíduos, uma vez que,\nnesta, só a fêmea põe ovos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É correto o que se afirma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas em I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas em II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas em I e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "apenas em II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

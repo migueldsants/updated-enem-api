@@ -1,0 +1,45 @@
+{
+    "title": "Questão 50 - ENEM 2004",
+    "index": 50,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Em setembro de 1998, cerca de 10.000 toneladas de ácido sulfúrico (H SO ) foram derramadas pelo navio Bahamas no litoral\n\n2 4\n\ndo Rio Grande do Sul. Para minimizar o impacto ambiental de um desastre desse tipo, é preciso neutralizar a acidez resultante.\nPara isso pode-se, por exemplo, lançar calcário, minério rico em carbonato de cálcio (CaCO ), na região atingida.\nA equação química que representa a neutralização do H SO por CaCO , com a proporção aproximada entre as massas\n\n2 4 3\n\ndessas substâncias é:\n\n![](https://enem.dev/2004/questions/50/e32a0fb3-6fb8-4ec9-98b8-8e7efc64105b.png)",
+    "files": [
+        "https://enem.dev/2004/questions/50/e32a0fb3-6fb8-4ec9-98b8-8e7efc64105b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pode-se avaliar o esforço de mobilização que deveria ser empreendido para enfrentar tal situação, estimando a quantidade de\ncaminhões necessária para carregar o material neutralizante. Para transportar certo calcário que tem 80% de CaCO , esse\nnúmero de caminhões, cada um com carga de 30 toneladas, seria próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "300.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "400.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "500.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

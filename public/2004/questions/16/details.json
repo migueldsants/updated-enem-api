@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2004",
+    "index": 16,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um fabricante de cosméticos decide produzir três diferentes catálogos de seus produtos, visando a públicos distintos. Como\nalguns produtos estarão presentes em mais de um catálogo e ocupam uma página inteira, ele resolve fazer uma contagem para\ndiminuir os gastos com originais de impressão. Os catálogos C₁, C₂ e C₃ terão, respectivamente, 50, 45 e 40 páginas.\nComparando os projetos de cada catálogo, ele verifica que C₁ e C₂ terão 10 páginas em comum; C₁ e C₃ terão 6 páginas em\ncomum; C₂ e C₃ terão 5 páginas em comum, das quais 4 também estarão em C₁.\nEfetuando os cálculos correspondentes, o fabricante concluiu que, para a montagem dos três catálogos, necessitará de um total\nde originais de impressão igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "135.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "126.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "118.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "114.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "110.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

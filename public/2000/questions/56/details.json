@@ -1,0 +1,46 @@
+{
+    "title": "Questão 56 - ENEM 2000",
+    "index": 56,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O quadrinho publicado na revista Newsweek (23/9/1991) ilustra o\ndesespero dos cartógrafos para desenhar o novo mapa-múndi diante das\nconstantes mudanças de fronteiras.\n\n![](https://enem.dev/2000/questions/56/0e22ef9e-07f2-4bbf-b78e-d473c8874877.png)",
+    "files": [
+        "https://enem.dev/2000/questions/56/0e22ef9e-07f2-4bbf-b78e-d473c8874877.png",
+        "https://enem.dev/2000/questions/56/68aa1e4b-bd7c-49d8-94fc-7ec558ffb8b5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Levando em consideração o contexto da época em que a charge foi publicada,\ndentre as frases abaixo, a que melhor completa o texto da fala, propondo outra\ncorreção no mapa, é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“A Albânia já não faz parte da Europa”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“O número de países só está diminuindo”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Cuba já não faz parte do Terceiro Mundo”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“O Kasaquistão acabou de declarar independência”.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/56/68aa1e4b-bd7c-49d8-94fc-7ec558ffb8b5.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2005",
+    "index": 14,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Observe a situação descrita na tirinha abaixo.\n\n(Francisco Caruso & Luisa Daou, Tirinhas de Física, vol. 2, CBPF, Rio de Janeiro, 2000.)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Assim que o menino lança a flecha, há transformação de um tipo de energia em outra. A transformação, nesse caso, é\nde energia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "potencial elástica em energia gravitacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "gravitacional em energia potencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "potencial elástica em energia cinética.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "cinética em energia potencial elástica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "gravitacional em energia cinética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

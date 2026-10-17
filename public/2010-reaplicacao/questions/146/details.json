@@ -1,0 +1,50 @@
+{
+    "title": "Questão 146 - ENEM 2010 - Reaplicação",
+    "index": 146,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma torneira gotejando diariamente é responsável por\ngrandes desperdícios de água. Observe o gráfico que\n\n![](https://enem.dev/2010-reaplicacao/questions/146/31db331a-4ee0-48d4-ae8f-cd81560a8e06.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/146/31db331a-4ee0-48d4-ae8f-cd81560a8e06.png",
+        "https://enem.dev/2010-reaplicacao/questions/146/d322f5d3-7e51-497c-b3dd-84bd30dd6052.png",
+        "https://enem.dev/2010-reaplicacao/questions/146/35037c85-11e4-474a-a2b6-209101547d3e.png",
+        "https://enem.dev/2010-reaplicacao/questions/146/1b8535ec-71e6-4c94-866d-8b6de4c2cd15.png",
+        "https://enem.dev/2010-reaplicacao/questions/146/73132baa-251e-4990-95d2-1033ff56a1bf.png",
+        "https://enem.dev/2010-reaplicacao/questions/146/377011a6-95a8-4d40-bd0b-9798a15b7d26.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se y representa o desperdício de água, em litros, e x\nrepresenta o tempo, em dias, a relação entre x e y é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/146/d322f5d3-7e51-497c-b3dd-84bd30dd6052.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/146/35037c85-11e4-474a-a2b6-209101547d3e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/146/1b8535ec-71e6-4c94-866d-8b6de4c2cd15.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/146/73132baa-251e-4990-95d2-1033ff56a1bf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/146/377011a6-95a8-4d40-bd0b-9798a15b7d26.png",
+            "isCorrect": false
+        }
+    ]
+}

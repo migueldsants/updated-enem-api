@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2005",
+    "index": 11,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A obesidade, que nos países desenvolvidos já é tratada como epidemia, começa a preocupar especialistas no Brasil.\nOs últimos dados da Pesquisa de Orçamentos Familiares, realizada entre 2002 e 2003 pelo IBGE, mostram que\n40,6% da população brasileira estão acima do peso, ou seja, 38,8 milhões de adultos. Desse total, 10,5 milhões são\nconsiderados obesos. Várias são as dietas e os remédios que prometem um emagrecimento rápido e sem riscos. Há\nalguns anos foi lançado no mercado brasileiro um remédio de ação diferente dos demais, pois inibe a ação das\nlipases, enzimas que aceleram a reação de quebra de gorduras. Sem serem quebradas elas não são absorvidas pelo\nintestino, e parte das gorduras ingeridas é eliminada com as fezes. Como os lipídios são altamente energéticos, a\npessoa tende a emagrecer. No entanto, esse remédio apresenta algumas contra-indicações, pois a gordura não\nabsorvida lubrifica o intestino, causando desagradáveis diarréias. Além do mais, podem ocorrer casos de baixa\nabsorção de vitaminas lipossolúveis, como as A, D, E e K, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "essas vitaminas, por serem mais energéticas que as demais, precisam de lipídios para sua absorção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a ausência dos lipídios torna a absorção dessas vitaminas desnecessária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "essas vitaminas reagem com o remédio, transformando-se em outras vitaminas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as lipases também desdobram as vitaminas para que essas sejam absorvidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "essas vitaminas se dissolvem nos lipídios e só são absorvidas junto com eles.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2004",
+    "index": 44,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Já são comercializados no Brasil veículos com motores que podem funcionar com o chamado combustível flexível, ou seja, com\ngasolina ou álcool em qualquer proporção. Uma orientação prática para o abastecimento mais econômico é que o motorista\nmultiplique o preço do litro da gasolina por 0,7 e compare o resultado com o preço do litro de álcool. Se for maior, deve optar\npelo álcool. A razão dessa orientação deve-se ao fato de que, em média, se com um certo volume de álcool o veículo roda dez\nquilômetros, com igual volume de gasolina rodaria cerca de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14 km.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "17 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20 km.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

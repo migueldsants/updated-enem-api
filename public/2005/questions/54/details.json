@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2005",
+    "index": 54,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Pesquisas recentes estimam o seguinte perfil da concentração de oxigênio (O )\natmosférico ao longo da história evolutiva da Terra:\nNo período Carbonífero entre aproximadamente 350 e 300 milhões de anos,\nhouve uma ampla ocorrência de animais gigantes, como por exemplo insetos\nvoadores de 45 centímetros e anfíbios de até 2 metros de comprimento. No\n\n![](https://enem.dev/2005/questions/54/2affe3ee-0217-4c9f-a30f-22186b5e80b9.png)",
+    "files": [
+        "https://enem.dev/2005/questions/54/2affe3ee-0217-4c9f-a30f-22186b5e80b9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "entanto, grande parte da vida na Terra foi extinta há cerca de 250 milhões de\nanos, durante o período Permiano. Sabendo-se que o O é um gás extremamente\nimportante para os processos de obtenção de energia em sistemas biológicos,\nconclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a concentração de nitrogênio atmosférico se manteve constante nos últimos 400 milhões de anos, possibilitando o surgimento de animais gigantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a produção de energia dos organismos fotossintéticos causou a extinção em massa no período Permiano por aumentar a concentração de oxigênio atmosférico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o surgimento de animais gigantes pode ser explicado pelo aumento de concentração de oxigênio atmosférico, o que possibilitou uma maior absorção de oxigênio por esses animais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o aumento da concentração de gás carbônico (CO ) atmosférico no período Carbonífero causou mutações que permitiram o aparecimento de animais gigantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a redução da concentração de oxigênio atmosférico no período Permiano permitiu um aumento da biodiversidade terrestre por meio da indução de processos de obtenção de energia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 52 - ENEM 2004",
+    "index": 52,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "Um certo carro esporte é desenhado na Califórnia, financiado por Tóquio, o protótipo criado em Worthing (Inglaterra) e a\nmontagem é feita nos EUA e México, com componentes eletrônicos inventados em Nova Jérsei (EUA), fabricados no\n\n![](https://enem.dev/2004/questions/52/397cd3d5-f550-4343-876c-3443f51640bb.png)\n\nJapão. (…). Já a indústria de confecção norte-americana, quando inscreve em seus produtos ‘made in USA’, esquece de\nmencionar que eles foram produzidos no México, Caribe ou Filipinas.\n\n(Renato Ortiz, Mundialização e Cultura)",
+    "files": [
+        "https://enem.dev/2004/questions/52/397cd3d5-f550-4343-876c-3443f51640bb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto ilustra como em certos países produz-se tanto um carro esporte caro e sofisticado, quanto roupas que nem sequer levam\numa etiqueta identificando o país produtor. De fato, tais roupas costumam ser feitas em fábricas – chamadas “maquiladoras” –\nsituadas em zonas-francas, onde os trabalhadores nem sempre têm direitos trabalhistas garantidos.\nA produção nessas condições indicaria um processo de globalização que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fortalece os Estados Nacionais e diminui as disparidades econômicas entre eles pela aproximação entre um centro rico e uma periferia pobre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "garante a soberania dos Estados Nacionais por meio da identificação da origem de produção dos bens e mercadorias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fortalece igualmente os Estados Nacionais por meio da circulação de bens e capitais e do intercâmbio de tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "compensa as disparidades econômicas pela socialização de novas tecnologias e pela circulação globalizada da mão-de-obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reafirma as diferenças entre um centro rico e uma periferia pobre, tanto dentro como fora das fronteiras dos Estados Nacionais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

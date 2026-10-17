@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2003",
+    "index": 56,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Os dados abaixo referem-se à origem do petróleo consumido no Brasil em dois diferentes anos.\n\n![](https://enem.dev/2003/questions/56/f22c7573-1e0b-4bd4-905c-56f0c267d7cf.png)",
+    "files": [
+        "https://enem.dev/2003/questions/56/f22c7573-1e0b-4bd4-905c-56f0c267d7cf.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Analisando os dados, pode-se perceber que o Brasil adotou determinadas estratégias energéticas, dentre as quais\npodemos citar:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a diminuição das importações dos países muçulmanos e redução do consumo interno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a redução da produção nacional e diminuição do consumo do petróleo produzido no Oriente Médio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a redução da produção nacional e o aumento das compras de petróleo dos países árabes e africanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o aumento da produção nacional e redução do consumo de petróleo vindo dos países do Oriente Médio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o aumento da dependência externa de petróleo vindo de países mais próximos do Brasil e redução do consumo interno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2007",
+    "index": 17,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Após a Independência, integramo-nos como\nexportadores de produtos primários à divisão internacional do\ntrabalho, estruturada ao redor da Grã-Bretanha. O Brasil\nespecializou-se na produção, com braço escravo importado da\nÁfrica, de plantas tropicais para a Europa e a América do Norte.\nIsso atrasou o desenvolvimento de nossa economia por pelo\nmenos uns oitenta anos. Éramos um país essencialmente\nagrícola e tecnicamente atrasado por depender de produtores\ncativos. Não se poderia confiar a trabalhadores forçados outros\ninstrumentos de produção que os mais toscos e baratos.\n\nO atraso econômico forçou o Brasil a se voltar para\nfora. Era do exterior que vinham os bens de consumo que\nfundamentavam um padrão de vida “civilizado”, marca que\ndistinguia as classes cultas e “naturalmente” dominantes do\npovaréu primitivo e miserável. (...) E de fora vinham também os\ncapitais que permitiam iniciar a construção de uma infra-\nestrutura de serviços urbanos, de energia, transportes e\ncomunicações.\n\nPaul Singer. Evolução da economia e vinculação internacional.\nIn: I. Sachs; J. Willheim; P. S. Pinheiro (Orgs.). Brasil: um século\nde transformações. São Paulo: Cia. das Letras, 2001, p. 80.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Levando-se em consideração as afirmações acima, relativas à\nestrutura econômica do Brasil por ocasião da independência\npolítica (1822), é correto afirmar que o país",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "se industrializou rapidamente devido ao desenvolvimento alcançado no período colonial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "extinguiu a produção colonial baseada na escravidão e fundamentou a produção no trabalho livre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "se tornou dependente da economia européia por realizar tardiamente sua industrialização em relação a outros países.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "se tornou dependente do capital estrangeiro, que foi introduzido no país sem trazer ganhos para a infra- estrutura de serviços urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "teve sua industrialização estimulada pela Grã-Bretanha, que investiu capitais em vários setores produtivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

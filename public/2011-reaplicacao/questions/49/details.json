@@ -1,0 +1,47 @@
+{
+    "title": "Questão 49 - ENEM 2011 - Reaplicação",
+    "index": 49,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considera-se combustível aquele material que,\nquando em combustão, consegue gerar energia. No\ncaso dos biocombustíveis, suas principais vantagens\nde uso são a de serem oriundos de fontes renováveis\ne a de serem menos poluentes que os derivados\nde combustíveis fósseis. Por isso, no Brasil, tem-se\nestimulado o plantio e a industrialização de sementes\noleaginosas para produção de biocombustíveis.\n\nNo quadro, estão os valores referentes à energia\nproduzida pela combustão de alguns biocombustíveis:\n\n![](https://enem.dev/2011-reaplicacao/questions/49/b730b8e5-9b2e-419b-aada-539465b4f205.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/49/b5c98b16-3e66-492c-b72a-8064e1965573.png)\n\n![](https://enem.dev/2011-reaplicacao/questions/49/1481052f-f461-4ec4-9e22-82f2b01a36a1.png)\n\nDisponível em: http://www.biodieselecooleo.com.br. Acesso em: 8 set. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/49/b730b8e5-9b2e-419b-aada-539465b4f205.png",
+        "https://enem.dev/2011-reaplicacao/questions/49/b5c98b16-3e66-492c-b72a-8064e1965573.png",
+        "https://enem.dev/2011-reaplicacao/questions/49/1481052f-f461-4ec4-9e22-82f2b01a36a1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre os diversos tipos de biocombustíveis apresentados\nno quadro, aquele que apresenta melhor rendimento\nenergético em massa é proveniente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "da soja.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "do dendê.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do babaçu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "da mamona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da cana-de-açúcar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

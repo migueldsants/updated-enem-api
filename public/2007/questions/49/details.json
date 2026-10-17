@@ -1,0 +1,47 @@
+{
+    "title": "Questão 49 - ENEM 2007",
+    "index": 49,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões de 49 a 51\n\nOs gráficos abaixo, extraídos do sítio eletrônico do\nIBGE, apresentam a distribuição da população brasileira\npor sexo e faixa etária no ano de 1990 e projeções dessa\npopulação para 2010 e 2030.\n\n![](https://enem.dev/2007/questions/49/675a3e07-edd1-4d88-894d-adcc1b7fa49e.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000\n\n![](https://enem.dev/2007/questions/49/215da80a-fbbd-46d3-a867-c3b3266fb528.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000\n\nhomens⁶⁰ mulheres\n\n![](https://enem.dev/2007/questions/49/cc19abfe-5beb-4918-bd94-68d58beb12ca.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000",
+    "files": [
+        "https://enem.dev/2007/questions/49/675a3e07-edd1-4d88-894d-adcc1b7fa49e.png",
+        "https://enem.dev/2007/questions/49/215da80a-fbbd-46d3-a867-c3b3266fb528.png",
+        "https://enem.dev/2007/questions/49/cc19abfe-5beb-4918-bd94-68d58beb12ca.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir da comparação da pirâmide etária relativa a 1990\ncom as projeções para 2030 e considerando-se os\nprocessos de formação socioeconômica da população\nbrasileira, é correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a expectativa de vida do brasileiro tende a aumentar na medida em que melhoram as condições de vida da população.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a população do país tende a diminuir na medida em que a taxa de mortalidade diminui.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a taxa de mortalidade infantil tende a aumentar na medida em que aumenta o índice de desenvolvimento humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a necessidade de investimentos no setor de saúde tende a diminuir na medida em que aumenta a população idosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o nível de instrução da população tende a diminuir na medida em que diminui a população.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

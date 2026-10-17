@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 1998",
+    "index": 16,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "As diferentes formas em que as sociedades se organizam socioeconomicamente visam a atender suas\nnecessidades para a época. O liberalismo, atualmente, assume papel crescente, com os Estados\ndiminuindo sua atuação em várias áreas, inclusive vendendo empresas estatais. Da idéia de\ninterferência estatal na economia, do “Estado de Bem-Estar”, da assistência social ampla e emprego\ngarantido por lei, e, às vezes, à custa de subsídios (na Europa defendido pela Social-Democracia),\ncaminha-se para um Estado enxuto e ágil, onde a manutenção do progresso econômico e uma maior\nliberdade na conquista do mercado são as formas de assegurar ao cidadão o acesso ao bem-estar. Nem\nsempre a população concorda.\nNeste contexto, as eleições gerais na Alemanha, em 1998, poderão levar Helmuth Kohl, com longa e\nfrutuosa carreira à frente daquele país, a entregar o posto ao social-democrata Gerhard Schroeder.\nO desemprego na Alemanha atinge seu ponto máximo. A moeda única européia será o fim do Marco\nAlemão. A imagem de Helmuth Kohl começa a desvanecer-se. Conseguirá vencer este ano? Seja como\nfor, ele luta. Mas recebeu um novo e tremendo golpe: o Partido Liberal (FDP) deixou Kohl. O\nsecretário Geral do FDP, Guido Westerwelle declarou: Começou o fim da era Kohl!",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A Alemanha ajuda a concretizar o bloco econômico da União Européia. A participação neste bloco implica a\nadoção de um sistema socioeconômico que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dificulta a livre iniciativa econômica, inclusive das grandes empresas na Alemanha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ofereça mercado europeu mais restrito aos produtos e serviços alemães.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminua as oportunidades de iniciativa econômica para os alemães em outros países e vice-versa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "garanta o emprego, na Alemanha, pelo afastamento da concorrência de outros países da própria União Européia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "por meio da união de esforços com os o países da União Européia, permita à economia alemã concorrer em melhores condições com países de fora da União Européia.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

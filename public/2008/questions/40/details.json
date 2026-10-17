@@ -1,0 +1,45 @@
+{
+    "title": "Questão 40 - ENEM 2008",
+    "index": 40,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2008/questions/40/adc530c4-8f90-4dd3-b60c-7f5e2518a94f.png)",
+    "files": [
+        "https://enem.dev/2008/questions/40/adc530c4-8f90-4dd3-b60c-7f5e2518a94f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre os seguintes ditos populares, qual deles melhor\ncorresponde à figura acima?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Com perseverança, tudo se alcança.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Cada macaco no seu galho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Nem tudo que balança cai.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quem tudo quer, tudo perde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Deus ajuda quem cedo madruga.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

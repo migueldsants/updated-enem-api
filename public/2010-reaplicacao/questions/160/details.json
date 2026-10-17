@@ -1,0 +1,47 @@
+{
+    "title": "Questão 160 - ENEM 2010 - Reaplicação",
+    "index": 160,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Pantanal é um dos mais valiosos patrimônios\nnaturais do Brasil. É a maior área úmida continental do\nplaneta — com aproximadamente 210 mil km², sendo\n140 mil km² em território brasileiro, cobrindo parte dos\nestados de Mato Grosso e Mato Grosso do Sul. As\nchuvas fortes são comuns nessa região. O equilíbrio\ndesse ecossistema depende, basicamente, do fluxo\nde entrada e saída de enchentes. As cheias chegam a\n\n![](https://enem.dev/2010-reaplicacao/questions/160/2613b1c3-b567-4f89-9a59-06d4322769aa.png)\n\n![](https://enem.dev/2010-reaplicacao/questions/160/cce36a00-778c-4ef2-86d1-059c385ae5cc.png)\n\n![](https://enem.dev/2010-reaplicacao/questions/160/94a49ec5-e33e-4676-b836-cc2ec3a4de04.png)\n\nDisponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/160/2613b1c3-b567-4f89-9a59-06d4322769aa.png",
+        "https://enem.dev/2010-reaplicacao/questions/160/cce36a00-778c-4ef2-86d1-059c385ae5cc.png",
+        "https://enem.dev/2010-reaplicacao/questions/160/94a49ec5-e33e-4676-b836-cc2ec3a4de04.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Durante o período chuvoso, a área alagada pelas\nenchentes pode chegar a um valor aproximado de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "91,3 mil km².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "93,3 mil km².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "140 mil km².",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "152,1 mil km².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "233,3 mil km².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

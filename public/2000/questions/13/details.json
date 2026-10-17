@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2000",
+    "index": 13,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Um marceneiro deseja construir uma escada trapezoidal com 5 degraus, de\nforma que o mais baixo e o mais alto tenham larguras respectivamente iguais a\n60 cm e a 30 cm, conforme a figura:\n\n![](https://enem.dev/2000/questions/13/95e274fd-2bab-48b6-9a2f-356126023f7c.png)",
+    "files": [
+        "https://enem.dev/2000/questions/13/95e274fd-2bab-48b6-9a2f-356126023f7c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os degraus serão obtidos cortando-se uma peça linear de madeira cujo\ncomprimento mínimo, em cm, deve ser:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "144.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "180.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "210.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "225.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "240.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

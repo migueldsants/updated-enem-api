@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2001",
+    "index": 5,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Uma empresa de alimentos imprimiu em suas embalagens um cartão de apostas do\n\n![](https://enem.dev/2001/questions/5/79c63a79-688f-4282-861c-a4ca82a83f74.png)",
+    "files": [
+        "https://enem.dev/2001/questions/5/79c63a79-688f-4282-861c-a4ca82a83f74.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Cada cartão de apostas possui 7 figuras de bolas de futebol e 8 sinais de “X” distribuídos\nentre os 15 espaços possíveis, de tal forma que a probabilidade de um cliente ganhar o\nprêmio nunca seja igual a zero.\nEm determinado cartão existem duas bolas na linha 4 e duas bolas na linha 5. Com esse\ncartão, a probabilidade de o cliente ganhar o prêmio é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/27.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/36.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/54.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1/72.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1/108.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

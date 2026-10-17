@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2004",
+    "index": 63,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "O consumo diário de energia pelo ser humano vem crescendo e se diversificando ao longo da História, de acordo com as formas\nde organização da vida social. O esquema apresenta o consumo típico de energia de um habitante de diferentes lugares e em\ndiferentes épocas.\n\n![](https://enem.dev/2004/questions/63/ce2ca644-4b99-4fe4-aad2-4e0223e4b7b4.png)",
+    "files": [
+        "https://enem.dev/2004/questions/63/ce2ca644-4b99-4fe4-aad2-4e0223e4b7b4.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo esse esquema, do estágio primitivo ao tecnológico, o consumo de energia per capita no mundo cresceu mais de 100\nvezes, variando muito as taxas de crescimento, ou seja, a razão entre o aumento do consumo e o intervalo de tempo em que\nesse aumento ocorreu. O período em que essa taxa de crescimento foi mais acentuada está associado à passagem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do habitante das cavernas ao homem caçador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "do homem caçador à utilização do transporte por tração animal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "da introdução da agricultura ao crescimento das cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "da Idade Média à máquina a vapor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da Segunda Revolução Industrial aos dias atuais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

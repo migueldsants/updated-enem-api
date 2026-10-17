@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2001",
+    "index": 6,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2001/questions/6/fbc17ac6-1704-4bb7-bc9c-9c61f6ae7e6e.png)",
+    "files": [
+        "https://enem.dev/2001/questions/6/fbc17ac6-1704-4bb7-bc9c-9c61f6ae7e6e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base na análise dessa figura e considerando o conflito entre árabes e israelenses,\npode-se afirmar que, para Israel, é importante manter ocupada a área litigiosa por tratar-se\nde uma região",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "de planície, propícia à atividade agropecuária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estratégica, dado que abrange as duas margens do rio Jordão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "habitada, majoritariamente, por colônias israelenses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "que garante a hegemonia israelense sobre o mar Mediterrâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estrategicamente situada devido ao relevo e aos recursos hídricos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

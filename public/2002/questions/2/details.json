@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2002",
+    "index": 2,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "O mercado financeiro mundial funciona 24 horas por dia. As bolsas de valores estão articuladas, mesmo abrindo e fechando\nem diferentes horários, como ocorre com as bolsas de Nova Iorque, Londres, Pequim e São Paulo. Todas as pessoas que, por\nexemplo, estão envolvidas com exportações e importações de mercadorias precisam conhecer os fusos horários para fazer o\nmelhor uso dessas informações.\n\n![](https://enem.dev/2002/questions/2/43c0640b-319e-46f4-af56-18fa99d509a2.png)",
+    "files": [
+        "https://enem.dev/2002/questions/2/43c0640b-319e-46f4-af56-18fa99d509a2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que as bolsas de valores começam a funcionar às 09:00 horas da manhã e que um investidor mora em Porto\nAlegre, pode-se afirmar que os horários em que ele deve consultar as bolsas e a seqüência em que as informações são obtidas\nestão corretos na alternativa:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pequim (20:00 horas), Nova Iorque (07:00 horas) e Londres (12:00 horas).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nova Iorque (07:00 horas), Londres (12:00 horas) e Pequim (20:00 horas).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pequim (20:00 horas), Londres (12:00 horas) e Nova Iorque (07:00 horas).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Nova Iorque (07:00 horas), Londres (12:00 horas), Pequim (20:00 horas).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nova Iorque (07:00 horas), Pequim (20:00 horas ), Londres (12:00 horas).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

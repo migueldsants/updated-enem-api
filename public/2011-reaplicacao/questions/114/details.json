@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2011 - Reaplicação",
+    "index": 114,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Mudança\n\nNa planície avermelhada os juazeiros alargavam\nduas manchas verdes. Os infelizes tinham caminhado o\ndia inteiro, estavam cansados e famintos. Ordinariamente\nandavam pouco, mas como haviam repousado bastante\nna areia do rio seco, a viagem progredira bem três\nléguas. Fazia horas que procuravam uma sombra. A\nfolhagem dos juazeiros apareceu longe, através dos\ngalhos pelados da catinga rala.\n\nArrastaram-se para lá, devagar, sinhá Vitória com o\nfilho mais novo escanchado no quarto e o baú de folha\nna cabeça, Fabiano sombrio, cambaio. As manchas\ndos juazeiros tornaram a aparecer, Fabiano aligeirou\no passo, esqueceu a fome, a canseira e os ferimentos.\nDeixaram a margem do rio, acompanharam a cerca,\nsubiram uma ladeira, chegaram aos juazeiros. Fazia\ntempo que não viam sombra.\n\nRAMOS, G. Vidas secas. Rio de Janeiro: Record, 2008 (fragmento).\n\nValendo-se de uma narrativa que mantém o\ndistanciamento na abordagem da realidade social em\nquestão, o texto expõe a condição de extrema carência\ndos personagens acuados pela miséria.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O recurso utilizado na construção dessa passagem, o\nqual comprova a postura distanciada do narrador, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "caracterização pitoresca da paisagem natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "descrição equilibrada entre os referentes físicos e psicológicos dos personagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "narração marcada pela sobriedade lexical e sequência temporal linear.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "caricatura dos personagens, compatível com o aspecto degradado que apresentam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "metaforização do espaço sertanejo, alinhada com o projeto de crítica social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

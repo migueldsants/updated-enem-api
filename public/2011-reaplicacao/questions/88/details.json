@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2011 - Reaplicação",
+    "index": 88,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Segundo Aristóteles, uma vez deslocados de seu\nlocal natural, os elementos tendem espontaneamente\na retornar a ele, realizando movimentos chamados\nde naturais.\n\nJá em um movimento denominado forçado, um\ncorpo só permaneceria em movimento enquanto\nhouvesse uma causa para que ele ocorresse. Cessada\nessa causa, o referido elemento entraria em repouso ou\nadquiriria um movimento natural.\n\nPORTO, C. M. A física de Aristóteles: uma construção ingênua?\nRevista Brasileira de Ensino de Física. V. 31, n° 4 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Posteriormente, Newton confrontou a ideia de Aristóteles\nsobre o movimento forçado através da lei da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inércia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "ação e reação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "gravitação universal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conservação da massa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "conservação da energia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

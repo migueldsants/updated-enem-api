@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2006",
+    "index": 3,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Quando o português chegou\nDebaixo de uma bruta chuva\nVestiu o índio\nQue pena!\nFosse uma manhã de Sol\nO índio tinha despido\nO português.\n\nOswald de Andrade. Poesias reunidas.\nRio de Janeiro: Civilização Brasileira, 1978.",
+    "files": [
+        "https://enem.dev/2006/questions/3/96099c6f-147c-4222-b0eb-3720bb69d5a3.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O primitivismo observável no poema acima, de Oswald de\nAndrade, caracteriza de forma marcante",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o regionalismo do Nordeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o concretismo paulista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a poesia Pau-Brasil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o simbolismo pré-modernista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/3/96099c6f-147c-4222-b0eb-3720bb69d5a3.png",
+            "isCorrect": false
+        }
+    ]
+}

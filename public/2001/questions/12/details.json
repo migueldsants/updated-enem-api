@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2001",
+    "index": 12,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Murilo Mendes, em um de seus poemas, dialoga com a carta de Pero Vaz de Caminha:\n\n“A terra é mui graciosa,\nTão fértil eu nunca vi.\nA gente vai passear,\nNo chão espeta um caniço,\nNo dia seguinte nasce\nBengala de castão de oiro.\nTem goiabas, melancias,\nBanana que nem chuchu.\nQuanto aos bichos, tem-nos muito,\nDe plumagens mui vistosas.\nTem macaco até demais\nDiamantes tem à vontade\nEsmeralda é para os trouxas.\nReforçai, Senhor, a arca,\nCruzados não faltarão,\nVossa perna encanareis,\nSalvo o devido respeito.\nFicarei muito saudoso\nSe for embora daqui”.\n\nMENDES, Murilo. Murilo Mendes — poesia completa e prosa. Rio de Janeiro: Nova Aguilar, 1994.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Arcaísmos e termos coloquiais misturam-se nesse poema, criando um efeito de contraste,\ncomo ocorre em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A terra é mui graciosa / Tem macaco até demais",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Salvo o devido respeito / Reforçai, Senhor, a arca",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A gente vai passear / Ficarei muito saudoso",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "De plumagens mui vistosas / Bengala de castão de oiro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "No chão espeta um caniço / Diamantes tem à vontade",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

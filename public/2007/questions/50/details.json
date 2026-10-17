@@ -1,0 +1,47 @@
+{
+    "title": "Questão 50 - ENEM 2007",
+    "index": 50,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões de 49 a 51\n\nOs gráficos abaixo, extraídos do sítio eletrônico do\nIBGE, apresentam a distribuição da população brasileira\npor sexo e faixa etária no ano de 1990 e projeções dessa\npopulação para 2010 e 2030.\n\n![](https://enem.dev/2007/questions/50/81923454-cff3-4f65-94e7-aff5766ab039.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000\n\n![](https://enem.dev/2007/questions/50/47ddfa3d-32fb-4458-837f-29dcad7ac2bc.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000\n\nhomens⁶⁰ mulheres\n\n![](https://enem.dev/2007/questions/50/48af78fe-493f-420d-bc9e-d90a68037a8a.png)\n\n2.000.000 1.500.000 1.000.000 500.000⁰0 500.000 1.000.000 1.500.000 2.000.000",
+    "files": [
+        "https://enem.dev/2007/questions/50/81923454-cff3-4f65-94e7-aff5766ab039.png",
+        "https://enem.dev/2007/questions/50/47ddfa3d-32fb-4458-837f-29dcad7ac2bc.png",
+        "https://enem.dev/2007/questions/50/48af78fe-493f-420d-bc9e-d90a68037a8a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se for confirmada a tendência apresentada nos\ngráficos relativos à pirâmide etária, em 2050,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a população brasileira com 80 anos de idade será composta por mais homens que mulheres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a maioria da população brasileira terá menos de 25 anos de idade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a população brasileira do sexo feminino será inferior a 2 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a população brasileira com mais de 40 anos de idade será maior que em 2030.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a população brasileira será inferior à população de 2010.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

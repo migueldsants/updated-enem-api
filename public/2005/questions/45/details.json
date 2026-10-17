@@ -1,0 +1,43 @@
+{
+    "title": "Questão 45 - ENEM 2005",
+    "index": 45,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Caso os cientistas descobrissem alguma substância que impedisse a reprodução de todos os insetos, certamente nos\nlivraríamos de várias doenças em que esses animais são vetores. Em compensação teríamos grandes problemas\ncomo a diminuição drástica de plantas que dependem dos insetos para polinização, que é o caso das",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "algas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "briófitas como os musgos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pteridófitas como as samambaias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "gimnospermas como os pinheiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "angiospermas como as árvores frutíferas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

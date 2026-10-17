@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2011 - Reaplicação",
+    "index": 174,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Numa sementeira, cinco canteiros quadrados serão\npreparados para plantar, em cada um, dois tipos de\n\n![](https://enem.dev/2011-reaplicacao/questions/174/25e87acf-7c84-4361-a9dd-2325a29ea5c2.png)",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/174/25e87acf-7c84-4361-a9dd-2325a29ea5c2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Suponha que cada canteiro tem 1 m² de área e que nas\nregiões sombreadas de cada canteiro serão plantadas\nas sementes do tipo A. Qual o total da área, em m²,\nreservada para as sementes do tipo B?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

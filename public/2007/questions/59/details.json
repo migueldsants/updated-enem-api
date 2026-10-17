@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2007",
+    "index": 59,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "As pressões ambientais pela redução na emissão\nde gás estufa, somadas ao anseio pela diminuição da\ndependência do petróleo, fizeram os olhos do mundo se\nvoltarem para os combustíveis renováveis, principalmente\npara o etanol. Líderes na produção e no consumo de\netanol, Brasil e Estados Unidos da América (EUA)\nproduziram, juntos, cerca de 35 bilhões de litros do produto\nem 2006. Os EUA utilizam o milho como matéria-prima\npara a produção desse álcool, ao passo que o Brasil utiliza\na cana-de-açúcar. O quadro abaixo apresenta alguns\níndices relativos ao processo de obtenção de álcool nesses\n\n![](https://enem.dev/2007/questions/59/345ddfe1-91c3-4701-8c72-7a67e522e6fb.png)",
+    "files": [
+        "https://enem.dev/2007/questions/59/345ddfe1-91c3-4701-8c72-7a67e522e6fb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se as informações do texto, é correto afirmar\nque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o cultivo de milho ou de cana-de-açúcar favorece o aumento da biodiversidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o impacto ambiental da produção estadunidense de etanol é o mesmo da produção brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a substituição da gasolina pelo etanol em veículos automotores pode atenuar a tendência atual de aumento do efeito estufa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a economia obtida com o uso de etanol como combustível, especialmente nos EUA, vem sendo utilizada para a conservação do meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a utilização de milho e de cana-de-açúcar para a produção de combustíveis renováveis favorece a preservação das características originais do solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

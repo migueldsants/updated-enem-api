@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 1998",
+    "index": 20,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Em um concurso de televisão, apresentam-se ao participante 3 fichas voltadas para baixo, estando\nrepresentada em cada uma delas as letras T, V e E. As fichas encontram-se alinhadas em uma ordem\nqualquer. O participante deve ordenar as fichas ao seu gosto, mantendo as letras voltadas para baixo,\ntentando obter a sigla TVE. Ao desvirá-las, para cada letra que esteja na posição correta ganhará um\nprêmio de R$ 200,00.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A probabilidade de o participante não ganhar qualquer prêmio é igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1/2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1/6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

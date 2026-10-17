@@ -1,0 +1,45 @@
+{
+    "title": "Questão 30 - ENEM 2007",
+    "index": 30,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela abaixo representa, nas diversas regiões\ndo Brasil, a porcentagem de mães que, em 2005,\namamentavam seus filhos nos primeiros meses de vida.\n\n![](https://enem.dev/2007/questions/30/241cbad3-5640-45b0-a79e-5963a59b2dac.png)",
+    "files": [
+        "https://enem.dev/2007/questions/30/241cbad3-5640-45b0-a79e-5963a59b2dac.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao ingerir leite materno, a criança adquire anticorpos\nimportantes que a defendem de doenças típicas da primeira\ninfância. Nesse sentido, a tabela mostra que, em 2005,\npercentualmente, as crianças brasileiras que estavam mais\nprotegidas dessas doenças eram as da região",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Norte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Nordeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sudeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Centro-Oeste.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

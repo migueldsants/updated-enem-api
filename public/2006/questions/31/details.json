@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2006",
+    "index": 31,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [
+        "https://enem.dev/2006/questions/31/187061e9-0b49-43bd-9a25-f1d2adac8b72.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A Terra é cercada pelo vácuo espacial e, assim,\nela só perde energia ao irradiá-la para o espaço.\nO aquecimento global que se verifica hoje decorre de\npequeno desequilíbrio energético, de cerca de 0,3%, entre\na energia que a Terra recebe do Sol e a energia irradiada a\ncada segundo, algo em torno de 1 W/m². Isso significa que\na Terra acumula, anualmente, cerca de 1,6 × 10²² J.\nConsidere que a energia necessária para transformar 1 kg\nde gelo a 0 ºC em água líquida seja igual a 3,2 × 10⁵ J. Se\ntoda a energia acumulada anualmente fosse usada para\nderreter o gelo nos pólos (a 0 ºC), a quantidade de gelo\nderretida anualmente, em trilhões de toneladas, estaria\nentre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20 e 40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "40 e 60.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "60 e 80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "80 e 100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2006/questions/31/187061e9-0b49-43bd-9a25-f1d2adac8b72.png",
+            "isCorrect": false
+        }
+    ]
+}

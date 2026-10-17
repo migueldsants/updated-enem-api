@@ -1,0 +1,47 @@
+{
+    "title": "Questão 23 - ENEM 2005",
+    "index": 23,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Analise o quadro acerca da distribuição da miséria no mundo, nos anos de 1987 a 1998.\n\n![](https://enem.dev/2005/questions/23/f5764379-1d8c-4bdc-8b55-1b21df9ce102.png)\n\n![](https://enem.dev/2005/questions/23/dd8db9c5-7af0-4c93-adc3-788baa95d76b.png)\n\n![](https://enem.dev/2005/questions/23/10da01d9-3caa-431d-a5db-d0701f148800.png)\n\n(Fonte: Banco Mundial.)\n(Adaptado. Gazeta Mercantil, 17 de outubro de 2001, p. A-6)",
+    "files": [
+        "https://enem.dev/2005/questions/23/f5764379-1d8c-4bdc-8b55-1b21df9ce102.png",
+        "https://enem.dev/2005/questions/23/dd8db9c5-7af0-4c93-adc3-788baa95d76b.png",
+        "https://enem.dev/2005/questions/23/10da01d9-3caa-431d-a5db-d0701f148800.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A leitura dos dados apresentados permite afirmar que, no período considerado,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "no sul da Ásia e na África Subsaariana está, proporcionalmente, a maior concentração da população miserável.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "registra-se um aumento generalizado da população pobre e miserável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "na África Subsaariana, o percentual de população pobre foi crescente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "em números absolutos a situação da Europa e da Ásia Central é a melhor dentre todas as regiões consideradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o Oriente Médio e o Norte da África mantiveram o mesmo percentual de população miserável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

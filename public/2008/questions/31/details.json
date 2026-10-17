@@ -1,0 +1,46 @@
+{
+    "title": "Questão 31 - ENEM 2008",
+    "index": 31,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 30 e 31\n\nO gráfico a seguir ilustra a evolução do consumo\nde eletricidade no Brasil, em GWh, em quatro setores de\n\n![](https://enem.dev/2008/questions/31/a567b354-773a-485d-888a-4c071e5f7557.png)",
+    "files": [
+        "https://enem.dev/2008/questions/31/a567b354-773a-485d-888a-4c071e5f7557.png",
+        "https://enem.dev/2008/questions/31/a7bed8ee-bffd-42a7-a074-04cb190cc35b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Observa-se que, de 1975 a 2005, houve aumento quase\nlinear do consumo de energia elétrica. Se essa mesma\ntendência se mantiver até 2035, o setor energético\nbrasileiro deverá preparar-se para suprir uma demanda\ntotal aproximada de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "405 GWh.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "445 GWh.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "680 GWh.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "750 GWh.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2008/questions/31/a7bed8ee-bffd-42a7-a074-04cb190cc35b.png",
+            "isCorrect": false
+        }
+    ]
+}

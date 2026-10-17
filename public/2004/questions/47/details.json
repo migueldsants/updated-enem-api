@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2004",
+    "index": 47,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O bicho-furão-dos-citros causa prejuízos anuais de US$ 50 milhões à citricultura brasileira, mas pode ser combatido eficazmente\nse um certo agrotóxico for aplicado à plantação no momento adequado. É possível determinar esse momento utilizando-se uma\narmadilha constituída de uma caixinha de papelão, contendo uma pastilha com o feromônio da fêmea e um adesivo para prender\no macho. Verificando periodicamente a armadilha, percebe-se a época da chegada do inseto. Uma vantagem do uso dessas\narmadilhas, tanto do ponto de vista ambiental como econômico, seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "otimizar o uso de produtos agrotóxicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "diminuir a população de predadores do bicho-furão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "capturar todos os machos do bicho-furão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "reduzir a área destinada à plantação de laranjas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "espantar o bicho-furão das proximidades do pomar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

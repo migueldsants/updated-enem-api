@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2003",
+    "index": 53,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "Segundo Samuel Huntington (autor do livro, O choque das civilizações e a recomposição da ordem mundial), o\nmundo está dividido em nove “civilizações” conforme o mapa abaixo.\nNa opinião do autor, o ideal seria que cada civilização principal tivesse pelo menos um assento no Conselho de\nSegurança das Nações Unidas.\n\n![](https://enem.dev/2003/questions/53/8bc79aa3-0031-49bf-8116-d186189c0621.png)",
+    "files": [
+        "https://enem.dev/2003/questions/53/8bc79aa3-0031-49bf-8116-d186189c0621.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Sabendo-se que apenas EUA, China, Rússia, França e Inglaterra são membros permanentes do Conselho de\nSegurança, e analisando o mapa acima pode-se concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atualmente apenas três civilizações possuem membros permanentes no Conselho de Segurança.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o poder no Conselho de Segurança está concentrado em torno de apenas dois terços das civilizações citadas pelo autor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o poder no Conselho de Segurança está desequilibrado, porque seus membros pertencem apenas à civilização Ocidental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "existe uma concentração de poder, já que apenas um continente está representado no Conselho de Segurança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o poder está diluído entre as civilizações, de forma que apenas a África não possui representante no Conselho de Segurança.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

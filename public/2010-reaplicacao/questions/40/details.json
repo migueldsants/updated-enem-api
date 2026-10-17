@@ -1,0 +1,45 @@
+{
+    "title": "Questão 40 - ENEM 2010 - Reaplicação",
+    "index": 40,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/40/ae081ed6-1f1c-4d57-9557-38f6cad1a888.png)\n\nDisponível em:http://pimentacomlimao.files.wordpress.com. Acesso em: 17 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/40/ae081ed6-1f1c-4d57-9557-38f6cad1a888.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A charge remete ao contexto do movimento que ficou\nconhecido como Diretas Já, ocorrido entre os anos\nde 1983 e 1984. O elemento histórico evidenciado na\nimagem é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a insistência dos grupos políticos de esquerda em realizar atos políticos ilegais e com poucas chances de serem vitoriosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a mobilização em torno da luta pela democracia frente ao regime militar, cada vez mais desacreditado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "o diálogo dos movimentos sociais e dos partidos políticos, então existentes, com os setores do governo interessados em negociar a abertura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a insatisfação popular diante da atuação dos partidos políticos de oposição ao regime militar criados no início dos anos 80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a capacidade do regime militar em impedir que as manifestações políticas acontecessem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

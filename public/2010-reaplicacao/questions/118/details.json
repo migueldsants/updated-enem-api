@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2010 - Reaplicação",
+    "index": 118,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Não é raro ouvirmos falar que o Brasil é o país das\ndanças ou um país dançante. Essa nossa “fama” é bem\npertinente, se levarmos em consideração a diversidade\nde manifestações rítmicas e expressivas existentes de\nNorte a Sul. Sem contar a imensa repercussão de nível\ninternacional de algumas delas.\n\nDanças trazidas pelos africanos escravizados, danças\nrelativas aos mais diversos rituais, danças trazidas pelos\nimigrantes etc. Algumas preservam suas características\ne pouco se transformaram com o passar do tempo, como\no forró, o maxixe, o xote, o frevo. Outras foram criadas e\nsão recriadas a cada instante: inúmeras influências são\nincorporadas, e as danças transformam-se, multiplicam-\nse. Nos centros urbanos, existem danças como o funk, o\nhip hop, as danças de rua e de salão.\nÉ preciso deixar claro que não há jeito certo ou errado\nde dançar. Todos podem dançar, independentemente\nde biótipo, etnia ou habilidade, respeitando-se as\ndiferenciações de ritmos e estilos individuais.\n\nGASPARI, T. C. Dança e educação física na escola: implicações para a prática pedagógica.\n\nRio de Janeiro: Guanabara Koogan, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no texto, verifica-se que a dança, presente em\ntodas as épocas, espaços geográficos e culturais, é uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "prática corporal que conserva inalteradas suas formas, independentemente das influências culturais da sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "forma de expressão corporal baseada em gestos padronizados e realizada por quem tem habilidade para dançar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "manifestação rítmica e expressiva voltada para as apresentações artísticas, sem que haja preocupação com a linguagem corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "prática que traduz os costumes de determinado povo ou região e está restrita a este.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "representação das manifestações, expressões, comunicações e características culturais de um povo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

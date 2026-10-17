@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2002",
+    "index": 36,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A chuva é determinada, em grande parte, pela topografia e pelo\npadrão dos grandes movimentos atmosféricos ou\nmetereológicos. O gráfico mostra a precipitação anual média\n(linhas verticais) em relação à altitude (curvas) em uma região\nem estudo.\n\n![](https://enem.dev/2002/questions/36/0a87b28e-a5aa-40fc-aee2-5eab0fc7a6fc.png)\n\nDe uma análise ambiental desta região concluiu-se que:\n\nI. Ventos oceânicos carregados de umidade depositam a\n\nmaior parte desta umidade, sob a forma de chuva, nas\nencostas da serra voltadas para o oceano.\nII. Como resultado da maior precipitação nas encostas da\n\nserra, surge uma região de possível desertificação do outro\nlado dessa serra.\nIII. Os animais e as plantas encontram melhores condições de\n\nvida, sem períodos prolongados de seca, nas áreas\ndistantes 25km e 100km, aproximadamente, do oceano.",
+    "files": [
+        "https://enem.dev/2002/questions/36/0a87b28e-a5aa-40fc-aee2-5eab0fc7a6fc.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "É correto o que se afirma em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e II, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

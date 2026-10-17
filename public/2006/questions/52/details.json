@@ -1,0 +1,47 @@
+{
+    "title": "Questão 52 - ENEM 2006",
+    "index": 52,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "—PÁ\n\nTexto para as quest₣es 52 e 53\n\nO carneiro hidráulico ou aríete, dispositivo usado\npara bombear água, não requer combustível ou energia\nelétrica para funcionar, visto que usa a energia da vazão\nde água de uma fonte. A figura a seguir ilustra uma\ninstalação típica de carneiro em um sítio, e a tabela\n\n![](https://enem.dev/2006/questions/52/408881a4-96a9-49fe-afb7-33f696a1cd35.png)\n\n![](https://enem.dev/2006/questions/52/b4df416f-acbf-470e-8e79-bcc8917290ca.png)\n\nobtida pela expressão:\n\nH V\n\nb ,\n\n![](https://enem.dev/2006/questions/52/fe835acb-618c-41de-8cd3-dcdc70ec63af.png)",
+    "files": [
+        "https://enem.dev/2006/questions/52/408881a4-96a9-49fe-afb7-33f696a1cd35.png",
+        "https://enem.dev/2006/questions/52/b4df416f-acbf-470e-8e79-bcc8917290ca.png",
+        "https://enem.dev/2006/questions/52/fe835acb-618c-41de-8cd3-dcdc70ec63af.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No sítio ilustrado, a altura da caixa d’água é o quádruplo da\naltura da fonte. Comparado a motobombas a gasolina, cuja\neficiência energética é cerca de 36%, o carneiro hidráulico\ndo sítio apresenta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "menor eficiência, sendo, portanto, inviável economicamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "menor eficiência, sendo desqualificado do ponto de vista ambiental pela quantidade de energia que desperdiça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mesma eficiência, mas constitui alternativa ecologicamente mais apropriada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "maior eficiência, o que, por si só, justificaria o seu uso em todas as regiões brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "maior eficiência, sendo economicamente viável e ecologicamente correto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

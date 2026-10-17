@@ -1,0 +1,46 @@
+{
+    "title": "Questão 26 - ENEM 2000",
+    "index": 26,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela abaixo apresenta algumas das principais causas de mortes no Brasil,\ndistribuídas por região.\n\n![](https://enem.dev/2000/questions/26/75f67ffe-da91-4ea2-875b-9858075e1f8f.png)\n\nSão conhecidas ainda as seguintes informações sobre as causas de óbitos:\n\n− A dificuldade na obtenção de informações, a falta de notificação e o acesso\n\nprecário aos serviços de saúde são fatores relevantes na contabilização dos\nóbitos por causas mal definidas.\n\n− O aumento da esperança de vida faz com que haja cada vez mais pessoas\n\ncom maiores chances de desenvolver algum tipo de câncer.\n\n− As mortes por doenças do aparelho respiratório estão estreitamente\n\nassociadas à poluição nos grandes centros urbanos.\n\n− Os acidentes de trânsito e os assassinatos representam a quase totalidade\n\ndas mortes por causas externas.\n\n− A região Norte é a única que apresenta todas as taxas por 10.000\n\nhabitantes abaixo da taxa média brasileira.",
+    "files": [
+        "https://enem.dev/2000/questions/26/75f67ffe-da91-4ea2-875b-9858075e1f8f.png",
+        "https://enem.dev/2000/questions/26/067a216e-b746-4b76-8672-bbbc688f26c0.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Levando em consideração essas informações e o panorama social, econômico e\nambiental do Brasil, pode-se concluir que as regiões K, X, W, Y e Z da tabela\nindicam, respectivamente, as regiões:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sul, Norte, Nordeste, Sudeste e Centro-Oeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Centro-Oeste, Sudeste, Norte, Nordeste e Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Centro-Oeste, Nordeste, Norte, Sul e Sudeste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Norte, Nordeste, Sul, Centro-Oeste e Sudeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/26/067a216e-b746-4b76-8672-bbbc688f26c0.png",
+            "isCorrect": false
+        }
+    ]
+}

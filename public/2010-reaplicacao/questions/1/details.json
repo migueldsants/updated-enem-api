@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2010 - Reaplicação",
+    "index": 1,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/1/01ce31e6-9ee0-4edf-a47e-2a375bd055bb.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/1/01ce31e6-9ee0-4edf-a47e-2a375bd055bb.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A tirinha mostra que o ser humano, na busca de atender\nsuas necessidades e de se apropriar dos espaços,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adotou a acomodação evolucionária como forma de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "utilizou o conhecimento e a técnica para criar",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "levou vantagens em relação aos seres de menor",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dispensou o uso da tecnologia por ter um organismo",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sofreu desvantagens em relação a outras espécies,",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

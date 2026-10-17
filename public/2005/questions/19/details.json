@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2005",
+    "index": 19,
+    "year": 2005,
+    "language": null,
+    "discipline": null,
+    "context": "Observe as seguintes estratégias para a ocupação da Amazônia Brasileira.\n\nI - Desenvolvimento de infra-estrutura do projeto Calha Norte;\nII - Exploração mineral por meio do Projeto Ferro Carajás;\nIII - Criação da Superintendência para o Desenvolvimento da Amazônia;\nIV - Extração do látex durante o chamado Surto da Borracha.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A ordenação desses elementos, desde o mais antigo ao mais recente, é a seguinte:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "IV, III, II, I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "I, II, III, IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "IV, II, I, III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "III, IV, II, I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III, IV, I, II.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

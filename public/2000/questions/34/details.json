@@ -1,0 +1,46 @@
+{
+    "title": "Questão 34 - ENEM 2000",
+    "index": 34,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico abaixo refere-se às variações das concentrações de poluentes na\natmosfera, no decorrer de um dia útil, em um grande centro urbano.\n\n![](https://enem.dev/2000/questions/34/5ea7eece-c920-4737-9bc6-89d576270d1e.png)\n\n(Adaptado de NOVAIS, Vera. Ozônio: aliado ou inimigo. São Paulo:\nScipione,1998)\n\nAs seguintes explicações foram dadas para essas variações:\n\nI A concentração de NO diminui, e a de NO2 aumenta em razão da\n\nconversão de NO em NO2.\n\nII A concentração de monóxido de carbono no ar está ligada à maior ou à\n\nmenor intensidade de tráfego.\n\nIII Os veículos emitem óxidos de nitrogênio apenas nos horários de pico de\n\ntráfego do período da manhã.\n\nIV Nos horários de maior insolação, parte do ozônio da estratosfera\n\ndifunde-se para camadas mais baixas da atmosfera.",
+    "files": [
+        "https://enem.dev/2000/questions/34/5ea7eece-c920-4737-9bc6-89d576270d1e.png",
+        "https://enem.dev/2000/questions/34/574ec8c9-fd86-4d2b-be29-fa9cb3895921.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dessas explicações, são plausíveis somente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/34/574ec8c9-fd86-4d2b-be29-fa9cb3895921.png",
+            "isCorrect": false
+        }
+    ]
+}

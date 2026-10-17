@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2003",
+    "index": 4,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "O tempo que um ônibus gasta para ir do ponto inicial ao ponto final de uma linha varia, durante o dia, conforme as condições\ndo trânsito, demorando mais nos horários de maior movimento. A empresa que opera essa linha forneceu, no gráfico abaixo,\no tempo médio de duração da viagem conforme o horário de saída do ponto inicial, no período da manhã.\n\n![](https://enem.dev/2003/questions/4/acbf2e58-da93-45d7-a485-7ada501a1592.png)",
+    "files": [
+        "https://enem.dev/2003/questions/4/acbf2e58-da93-45d7-a485-7ada501a1592.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as informações do gráfico, um passageiro que necessita chegar até as 10h30min ao ponto final dessa\nlinha, deve tomar o ônibus no ponto inicial, no máximo, até as:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9h20min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9h30min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9h00min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8h30min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8h50min",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

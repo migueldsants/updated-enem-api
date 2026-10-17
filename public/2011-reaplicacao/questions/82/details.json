@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2011 - Reaplicação",
+    "index": 82,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na câmara de cozimento de um forno de micro-ondas,\na flutuação do campo elétrico é adequada para o aque-\ncimento da água. Esse tipo de forno utiliza micro-ondas\ncom frequência de 2,45 GHz para alterar a orientação\ndas moléculas de água bilhões de vezes a cada segundo.\nEssa foi a frequência escolhida, porque ela não é usada\nem comunicações e também porque dá às moléculas de\nágua o tempo necessário para completar uma rotação.\nDessa forma, um forno de micro-ondas funciona através\ndo processo de ressonância, transferindo energia para\nos alimentos.\n\nTORRES, C. M. A. et al. Física: ciência e tecnologia. São Paulo: Moderna, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sabendo que a velocidade de propagação das ondas\neletromagnéticas no meio é de cerca de 3 × 10⁸ m/s,\nqual é, aproximadamente, o comprimento de onda da\nmicro-onda presente no forno, em cm?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,22",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8,17",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12,2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "817",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

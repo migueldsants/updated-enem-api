@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2010 - Reaplicação",
+    "index": 63,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura representa uma cadeia alimentar em uma lagoa.\nAs setas indicam o sentido do fluxo de energia entre os\n\n![](https://enem.dev/2010-reaplicacao/questions/63/b77be318-6027-400a-815e-9cb45f539c54.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/63/b77be318-6027-400a-815e-9cb45f539c54.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Sabendo-se que o mercúrio se acumula nos tecidos\nvivos, que componente dessa cadeia alimentar\napresentará maior teor de mercúrio no organismo se\nnessa lagoa ocorrer um derramamento desse metal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As aves, pois são os predadores do topo dessa cadeia e acumulam mercúrio incorporado pelos componentes dos demais elos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Os caramujos, pois se alimentam das raízes das plantas, que acumulam maior quantidade de metal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os grandes peixes, pois acumulam o mercúrio presente nas plantas e nos peixes pequenos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os pequenos peixes, pois acumulam maior quantidade de mercúrio, já que se alimentam das plantas contaminadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As plantas aquáticas, pois absorvem grande quantidade de mercúrio da água através de suas raízes e folhas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

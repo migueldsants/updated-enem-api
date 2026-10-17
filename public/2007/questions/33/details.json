@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2007",
+    "index": 33,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "![](https://enem.dev/2007/questions/33/33f941bb-1828-458d-bddd-7790c2b40e03.png)\n\nFernando Gonsales. Vá Pentear Macacos! São Paulo: Devir, 2004.",
+    "files": [
+        "https://enem.dev/2007/questions/33/33f941bb-1828-458d-bddd-7790c2b40e03.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "São características do tipo de reprodução representado na\ntirinha:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "simplicidade, permuta de material gênico e variabilidade genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rapidez, simplicidade e semelhança genética.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "variabilidade genética, mutação e evolução lenta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "gametogênese, troca de material gênico e complexidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "clonagem, gemulação e partenogênese.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

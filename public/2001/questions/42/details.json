@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2001",
+    "index": 42,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "No trecho abaixo, o narrador, ao descrever a personagem, critica sutilmente um outro estilo\nde época: o romantismo.\n\n“Naquele tempo contava apenas uns quinze ou dezesseis anos; era talvez a mais atrevida\ncriatura da nossa raça, e, com certeza, a mais voluntariosa. Não digo que já lhe coubesse a\nprimazia da beleza, entre as mocinhas do tempo, porque isto não é romance, em que o autor\nsobredoura a realidade e fecha os olhos às sardas e espinhas; mas também não digo que lhe\nmaculasse o rosto nenhuma sarda ou espinha, não. Era bonita, fresca, saía das mãos da\nnatureza, cheia daquele feitiço, precário e eterno, que o indivíduo passa a outro indivíduo,\npara os fins secretos da criação.”\n\nASSIS, Machado de. Memórias Póstumas de Brás Cubas. Rio de Janeiro: Jackson,1957.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A frase do texto em que se percebe a crítica do narrador ao romantismo está transcrita na\nalternativa:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "... o autor sobredoura a realidade e fecha os olhos às sardas e espinhas ...",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "... era talvez a mais atrevida criatura da nossa raça ...",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Era bonita, fresca, saía das mãos da natureza, cheia daquele feitiço, precário e eterno, ...",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Naquele tempo contava apenas uns quinze ou dezesseis anos ...",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "... o indivíduo passa a outro indivíduo, para os fins secretos da criação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2010 - Reaplicação",
+    "index": 9,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No século XIX, para alimentar um habitante urbano, eram\nnecessárias cerca de 60 pessoas trabalhando no campo.\nEssa proporção foi se modificando ao longo destes dois\nséculos. Em certos países, hoje, há um habitante rural\npara cada dez urbanos.\n\nSANTOS, M. Metamorfoses do espaço habitado. São Paulo: EDUSP, 2008.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Oautorexpõeumatendência de aumento de produtividade\nagrícola por trabalhador rural, na qual menos pessoas\nproduzem mais alimentos, que pode ser explicada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pela exigência de abastecimento das populações",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pela imposição de governos que criam políticas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pela incorporação homogênea dos agricultores às",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pela dinamização econômica desse setor e utilização",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "pelo acesso às novas tecnologias, o que fez com que",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

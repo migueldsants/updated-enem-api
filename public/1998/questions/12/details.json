@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 1998",
+    "index": 12,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A eficiência de uma usina, do tipo da representada na figura da questão anterior, é da ordem de 0,9, ou\nseja, 90% da energia da água no início do processo se transforma em energia elétrica. A usina Ji-Paraná,\ndo Estado de Rondônia, tem potência instalada de 512 Milhões de Watt, e a barragem tem altura de\naproximadamente 120m. A vazão do rio Ji-Paraná, em litros de água por segundo, deve ser da ordem de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "50.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "500.000",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

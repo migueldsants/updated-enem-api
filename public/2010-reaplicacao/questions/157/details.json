@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2010 - Reaplicação",
+    "index": 157,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os estilos musicais preferidos pelos jovens brasileiros\nsão o samba, o rock e a MPB. O quadro a seguir registra\no resultado de uma pesquisa relativa à preferência\nmusical de um grupo de 1 000 alunos de uma escola.\nAlguns alunos disseram não ter preferência por nenhum\ndesses três estilos.\n\npreferência rock e\nrock samba MPB\nmusical samba\nnúmero de\n200 180 200 70\nalunos\n\n![](https://enem.dev/2010-reaplicacao/questions/157/8325f6aa-8d47-4d01-8575-a2aa4262ed55.png)",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/157/8325f6aa-8d47-4d01-8575-a2aa4262ed55.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se for selecionado ao acaso um estudante no grupo\npesquisado, qual é a probabilidade de ele preferir\nsomente MPB?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "20%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

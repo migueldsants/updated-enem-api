@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2011 - Reaplicação",
+    "index": 72,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro seguinte foi extraído da seção de solução de problemas de um manual de fogão a gás.\n\nProblemas Causas Correções\n\nBotões de comando não foram selecionados Verifique os botões e repita as operações indicadas no\n\ncorretamente para o cozimento. item “Como Usar”.\n\nNa instalação elétrica da residência o disjuntor está Ligue o disjuntor ou chame um eletricista de sua\nO forno não funciona (não liga)\ndesligado ou falta energia elétrica. confiança.\n\nO registro do gás está fechado. Abra o registro.\n\nChama amarela/vermelha. Verifique se o gás não está no fim.\n\nLimpe o forno após cada utilização conforme item\nO forno solta fumaça Forno sujo de gordura ou molho.\n“Limpeza e Manutenção”.\n\nHá formação de umidade nos alimentos no interior Os alimentos são deixados muito tempo no interior do Não deixe os alimentos no forno por mais de 15\n\ndo forno forno após o término do cozimento. minutos após a finalização do cozimento.\n\nOs tempos de cozimento e a temperatura selecionada Consulte o item tempo na Tabela de Tempos e\nAssa muito lento / assa muito rápido\nnão estão corretos. Temperaturas. Verifique se o gás não está no fim.\n\n![](https://enem.dev/2011-reaplicacao/questions/72/3cd8ad88-4d1f-44b1-986c-1ecd532308cf.png)\n\nAo saborear um alimento preparado no fogão a gás, o consumidor observa que, embora devidamente assado,\n\no alimento contém mais água que o esperado.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/72/3cd8ad88-4d1f-44b1-986c-1ecd532308cf.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sabendo que a receita foi preparada de forma correta, então, de acordo com o fabricante do fogão, o problema é que o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "gás estava no final, o que reduziu a temperatura da chama, deixando-a amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cozinheiro demorou muito para retirar o alimento do forno após o cozimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "botão de comando não foi selecionado corretamente para o cozimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tempo de cozimento e a temperatura selecionada estavam incorretos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "forno estava sujo de gordura ou molho, necessitando de limpeza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

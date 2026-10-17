@@ -1,0 +1,48 @@
+{
+    "title": "Questão 46 - ENEM 2000",
+    "index": 46,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "Em muitos jornais, encontramos charges, quadrinhos, ilustrações, inspirados\nnos fatos noticiados. Veja um exemplo:\n\n![](https://enem.dev/2000/questions/46/cd92ec85-691f-4720-8e1b-41892cb2096c.png)",
+    "files": [
+        "https://enem.dev/2000/questions/46/cd92ec85-691f-4720-8e1b-41892cb2096c.png",
+        "https://enem.dev/2000/questions/46/24301e6d-9a6d-49b0-93e1-84b6430f56d8.png",
+        "https://enem.dev/2000/questions/46/e93e22bb-a862-4fdf-a26c-33e46311652b.png",
+        "https://enem.dev/2000/questions/46/9fd42084-bebf-4a1b-9102-6213371c1a41.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto que se refere a uma situação semelhante à que inspirou a charge é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/46/24301e6d-9a6d-49b0-93e1-84b6430f56d8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/46/e93e22bb-a862-4fdf-a26c-33e46311652b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2000/questions/46/9fd42084-bebf-4a1b-9102-6213371c1a41.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Vou contar para vocês um caso que sucedeu na Paraíba do Norte com um homem que se chamava Pedro João Boa-Morte, lavrador de Chapadinha: talvez tenha morte boa porque vida ele não tinha. (GULLAR, Ferreira. Toda poesia. Rio de Janeiro: Civilização Brasileira, 1983)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Trago-te flores, – restos arrancados Da terra que nos viu passar E ora mortos nos deixa e separados. (ASSIS, Machado de. Obra completa. Rio de Janeiro: Nova Aguillar, 1986)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

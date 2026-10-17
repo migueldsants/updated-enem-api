@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2008",
+    "index": 59,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Na América inglesa, não houve nenhum processo\nsistemático de catequese e de conversão dos índios ao\ncristianismo, apesar de algumas iniciativas nesse sentido.\nBrancos e índios confrontaram-se muitas vezes e mantiveram-\nse separados. Na América portuguesa, a catequese dos índios\ncomeçou com o próprio processo de colonização, e a\nmestiçagem teve dimensões significativas. Tanto na América\ninglesa quanto na portuguesa, as populações indígenas foram\nmuito sacrificadas. Os índios não tinham defesas contra as\ndoenças trazidas pelos brancos, foram derrotados pelas armas\nde fogo destes últimos e, muitas vezes, escravizados.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No processo de colonização das Américas, as populações\nindígenas da América portuguesa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "foram submetidas a um processo de doutrinação religiosa que não ocorreu com os indígenas da América inglesa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "mantiveram sua cultura tão intacta quanto a dos indígenas da América inglesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "passaram pelo processo de mestiçagem, que ocorreu amplamente com os indígenas da América inglesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diferenciaram-se dos indígenas da América inglesa por terem suas terras devolvidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "resistiram, como os indígenas da América inglesa, às doenças trazidas pelos brancos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

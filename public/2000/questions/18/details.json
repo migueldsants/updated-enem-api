@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2000",
+    "index": 18,
+    "year": 2000,
+    "language": null,
+    "discipline": null,
+    "context": "―Precisa-se nacionais sem nacionalismo, (...) movidos pelo presente mas\nestalando naquele cio racial que só as tradições maduram! (...). Precisa-se\ngentes com bastante meiguice no sentimento, bastante força na peitaria,\nbastante paciência no entusiasmo e sobretudo, oh! sobretudo bastante\nvergonha na cara!\n(...) Enfim: precisa-se brasileiros! Assim está escrito no anúncio vistoso de\ncores desesperadas pintado sobre o corpo do nosso Brasil, camaradas.‖\n(Jornal A Noite, São Paulo, 18/12/1925 apud LOPES, Telê Porto Ancona. Mário\nde Andrade: ramais e caminhos. São Paulo: Duas Cidades, 1972)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No trecho acima, Mário de Andrade dá forma a um dos itens do ideário\nmodernista, que é o de firmar a feição de uma língua mais autêntica,\n“brasileira”, ao expressar-se numa variante de linguagem popular identificada\npela (o):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "escolha de palavras como cio, peitaria, vergonha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "emprego da pontuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "repetição do adjetivo bastante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "concordância empregada em Assim está escrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "escolha de construção do tipo precisa-se gentes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

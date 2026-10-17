@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2010 - Reaplicação",
+    "index": 31,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O mestre-sala dos mares\n\nHá muito tempo nas águas da Guanabara\nO dragão do mar reapareceu\nNa figura de um bravo marinheiro\nA quem a história não esqueceu\nConhecido como o almirante negro\nTinha a dignidade de um mestre-sala\nE ao navegar pelo mar com seu bloco de fragatas\nFoi saudado no porto pelas mocinhas francesas\nJovens polacas e por batalhões de mulatas\nRubras cascatas jorravam nas costas\ndos negros pelas pontas das chibatas...\n\nBLANC, A.; BOSCO, J. O mestre-sala dos mares. Disponível em: www.usinadeletras.com.br.\nAcesso em: 19 jan. 2009.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na história brasileira, a chamada Revolta da Chibata,\nliderada por João Cândido, e descrita na música, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a rebelião de escravos contra os castigos físicos, ocorrida na Bahia, em 1848, e repetida no Rio de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Janeiro. a revolta, no porto de Salvador, em 1860, de",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "marinheiros dos navios que faziam o tráfico negreiro. o protesto, ocorrido no Exército, em 1865, contra o castigo de chibatadas em soldados desertores na",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Guerra do Paraguai. a rebelião dos marinheiros, negros e mulatos, em 1910, contra os castigos e as condições de trabalho",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "na Marinha de Guerra. o protesto popular contra o aumento do custo de vida no Rio de Janeiro, em 1917, dissolvido, a chibatadas, pela polícia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

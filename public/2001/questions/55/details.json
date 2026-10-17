@@ -1,0 +1,46 @@
+{
+    "title": "Questão 55 - ENEM 2001",
+    "index": 55,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O quadro apresenta as 10 cidades mais populosas do mundo em 1900 e os resultados de\nprojeções das populações para 2001 e 2015.\n\n![](https://enem.dev/2001/questions/55/46321bf1-8fed-4d8b-a44d-a39538bc5e28.png)\n\n![](https://enem.dev/2001/questions/55/de8fd060-1568-4c63-9a1b-04f03ec8b975.png)",
+    "files": [
+        "https://enem.dev/2001/questions/55/46321bf1-8fed-4d8b-a44d-a39538bc5e28.png",
+        "https://enem.dev/2001/questions/55/de8fd060-1568-4c63-9a1b-04f03ec8b975.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As variações populacionais apresentadas no quadro permitem observar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as maiores cidades do mundo atual devem crescer mais nos primeiros 15 anos deste século do que cresceram em todo o século XX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atualmente as cidades mais populosas do mundo pertencem aos países subdesenvolvidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tóquio, que hoje é a maior cidade do mundo, no início do século XX ainda não era considerada uma grande cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no início do século XX, as cidades com mais de 1 milhão de habitantes estavam localizadas em países que hoje são desenvolvidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o crescimento populacional das grandes cidades, nas primeiras décadas do século XXI, ocorrerá principalmente nos países hoje subdesenvolvidos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

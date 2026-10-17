@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2011 - Reaplicação",
+    "index": 108,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Fernand Léger, artista francês envolvido com o\nmovimento cubista, tinha como princípio transformar\nimagens em figuras geométricas, especialmente cones,\nesferas e cilindros. A obra apresentada mostra o homem\nem uma alusão à Revolução Industrial e ao pós I Guerra\nMundial e explora",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as formas retilíneas e mecanizadas, sem valorização",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "da questão espacial. as formas delicadas e sutis, para humanizar o",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "operário da indústria têxtil. a força da máquina na vida do trabalhador pelo jogo",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "de formas, luz/sombra. os recursos oriundos de um mesmo plano visual",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "para dar sentido a sua proposta. a forma robótica dada aos operários, privilegiando os aspectos triangulares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

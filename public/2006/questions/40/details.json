@@ -1,0 +1,48 @@
+{
+    "title": "Questão 40 - ENEM 2006",
+    "index": 40,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "—PÁ\n\n![](https://enem.dev/2006/questions/40/c246f60d-76d2-4c2e-9dfd-ee637a21a926.png)\n\n![](https://enem.dev/2006/questions/40/f5564475-8330-46aa-babb-29da059fc371.png)\n\n![](https://enem.dev/2006/questions/40/e229a878-d820-4ca7-95ff-0eb21a7eb619.png)\n\nAfloramento do\n\n![](https://enem.dev/2006/questions/40/e424918e-388d-471d-8e7a-69365f06e758.png)\n\nScientific American Brasil, n.º 47, abr./2006 (com adaptações).",
+    "files": [
+        "https://enem.dev/2006/questions/40/c246f60d-76d2-4c2e-9dfd-ee637a21a926.png",
+        "https://enem.dev/2006/questions/40/f5564475-8330-46aa-babb-29da059fc371.png",
+        "https://enem.dev/2006/questions/40/e229a878-d820-4ca7-95ff-0eb21a7eb619.png",
+        "https://enem.dev/2006/questions/40/e424918e-388d-471d-8e7a-69365f06e758.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação ao aqüífero Guarani, é correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "seus depósitos não participam do ciclo da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "águas provenientes de qualquer um de seus compartimentos solidificam-se a 0 °C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "é necessário, para utilização de seu potencial como reservatório de água potável, conhecer detalhadamente o aqüífero.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a água é adequada ao consumo humano direto em grande parte da área do compartimento Norte-Alto Uruguai.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o uso das águas do compartimento Norte-Alto Uruguai para irrigação deixaria ácido o solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

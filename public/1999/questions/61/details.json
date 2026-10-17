@@ -1,0 +1,45 @@
+{
+    "title": "Questão 61 - ENEM 1999",
+    "index": 61,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "Um sistema de radar é programado para registrar\nautomaticamente a velocidade de todos os veículos 40\ntrafegando por uma avenida, onde passam em média 300 30\nveículos por hora, sendo 55 km/h a máxima velocidade 20\n\nVeículos (%)10\n\n![](https://enem.dev/1999/questions/61/eba0f557-8862-48f7-ad3b-944eff80d084.png)\n\n10 20 30 40 50 60 70 80 90 100\n\nveículos de acordo com sua velocidade aproximada.\n\nVelocidade (km/h)",
+    "files": [
+        "https://enem.dev/1999/questions/61/eba0f557-8862-48f7-ad3b-944eff80d084.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A velocidade média dos veículos que trafegam nessa avenida é de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "35 km/h",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "44 km/h",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "55 km/h",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "76 km/h",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "85 km/h",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

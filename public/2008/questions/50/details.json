@@ -1,0 +1,47 @@
+{
+    "title": "Questão 50 - ENEM 2008",
+    "index": 50,
+    "year": 2008,
+    "language": null,
+    "discipline": null,
+    "context": "Texto para as questões 50 e 51\n\nA vida na rua como ela é\nO Ministério do Desenvolvimento Social e\nCombate à Fome (MDS) realizou, em parceria com a ONU,\numa pesquisa nacional sobre a população que vive na rua,\ntendo sido ouvidas 31.922 pessoas em 71 cidades\nbrasileiras. Nesse levantamento, constatou-se que a\nmaioria dessa população sabe ler e escrever (74%), que\napenas 15,1% vivem de esmolas e que, entre os\nmoradores de rua que ingressaram no ensino superior,\n0,7% se diplomou. Outros dados da pesquisa são\napresentados nos quadros abaixo.\n\nAlcoolismo/drogas 36%\nDesemprego 30%\n\n![](https://enem.dev/2008/questions/50/a1a07879-8553-4f3a-b8c6-3982704d4506.png)\n\n![](https://enem.dev/2008/questions/50/aa268657-817b-4815-8bbb-519b94f71601.png)\n\n![](https://enem.dev/2008/questions/50/5a8209ed-1d83-4404-ad24-adcbb35c6e5c.png)",
+    "files": [
+        "https://enem.dev/2008/questions/50/a1a07879-8553-4f3a-b8c6-3982704d4506.png",
+        "https://enem.dev/2008/questions/50/aa268657-817b-4815-8bbb-519b94f71601.png",
+        "https://enem.dev/2008/questions/50/5a8209ed-1d83-4404-ad24-adcbb35c6e5c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As informações apresentadas no texto são suficientes para\nse concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as pessoas que vivem na rua e sobrevivem de esmolas são aquelas que nunca estudaram.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as pessoas que vivem na rua e cursaram o ensino fundamental, completo ou incompleto, são aquelas que sabem ler e escrever.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "existem pessoas que declararam mais de um motivo para estarem vivendo na rua.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "mais da metade das pessoas que vivem na rua e que ingressaram no ensino superior se diplomou.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as pessoas que declararam o desemprego como motivo para viver na rua também declararam a decepção amorosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

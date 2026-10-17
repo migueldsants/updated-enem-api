@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2011 - Reaplicação",
+    "index": 158,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os medicamentos, imediatamente após a ingestão,\ncomeçam a ser metabolizados pelo organismo, o que\nfaz com que sua concentração no sangue diminua\ngradualmente, num processo denominado decaimento.\nDenomina-se meia-vida de uma substância o tempo\nnecessário para que o teor dessa substância no sangue\nse reduza à metade do valor inicial.\nConsidere a situação em que um médico prescreveu a um\npaciente uma dosagem de 800 mg de um medicamento\ncuja meia-vida é 6 horas, com recomendação de tomar\num comprimido a cada 12 horas, durante 3 dias. Para\nesse medicamento, considera-se superdosagem um teor\nsuperior a 1 520 mg, o que causa riscos de intoxicação.\nApressado em recuperar-se a tempo de ir a uma festa,\no paciente sugeriu ao médico que mudasse a prescrição\npara 6 em 6 horas, imaginando que, assim, reduziria\no tempo de tratamento. O médico contra-argumentou,\ninformando ao paciente que, caso antecipasse as doses,\ncorreria o risco de estar intoxicado em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24 horas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "36 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "48 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "72 horas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 33 - ENEM 1999",
+    "index": 33,
+    "year": 1999,
+    "language": null,
+    "discipline": null,
+    "context": "A panela de pressão permite que os alimentos sejam cozidos em água muito mais rapidamente do que em panelas\nconvencionais. Sua tampa possui uma borracha de vedação que não deixa o vapor escapar, a não ser através de um orifício\ncentral sobre o qual assenta um peso que controla a pressão. Quando em uso, desenvolve-se uma pressão elevada no seu\ninterior. Para a sua operação segura, é necessário observar a limpeza do orifício central e a existência de uma válvula de\nsegurança, normalmente situada na tampa.\nO esquema da panela de pressão e um diagrama de fase da água são apresentados abaixo.\n\n![](https://enem.dev/1999/questions/33/dd3936f4-6ca1-4720-bfd4-a36474f8f737.png)\n\n![](https://enem.dev/1999/questions/33/923ff2cd-ec2f-4466-a4b0-d187f4d0716d.png)\n\nA vantagem do uso de panela de pressão é a rapidez para o cozimento de alimentos e isto se deve",
+    "files": [
+        "https://enem.dev/1999/questions/33/dd3936f4-6ca1-4720-bfd4-a36474f8f737.png",
+        "https://enem.dev/1999/questions/33/923ff2cd-ec2f-4466-a4b0-d187f4d0716d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se, por economia, abaixarmos o fogo sob uma panela de pressão logo que se inicia a saída de vapor pela\nválvula, de forma simplesmente a manter a fervura, o tempo de cozimento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "será maior porque a panela “esfria”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "será menor, pois diminui a perda de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "será maior, pois a pressão diminui.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "será maior, pois a evaporação diminui.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "não será alterado, pois a temperatura não varia.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

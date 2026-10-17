@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2006",
+    "index": 41,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "A situação atual das bacias hidrográficas de\nSão Paulo tem sido alvo de preocupações ambientais: a\ndemanda hídrica é maior que a oferta de água e ocorre\nexcesso de poluição industrial e residencial. Um dos\ncasos mais graves de poluição da água é o da bacia do\nalto Tietê, onde se localiza a região metropolitana de\nSão Paulo. Os rios Tietê e Pinheiros estão muito\npoluídos, o que compromete o uso da água pela\npopulação.\n\nAvalie se as ações apresentadas abaixo são adequadas\npara se reduzir a poluição desses rios.\n\nI Investir em mecanismos de reciclagem da água\n\nutilizada nos processos industriais.\nII Investir em obras que viabilizem a transposição de\n\náguas de mananciais adjacentes para os rios\npoluídos.\nIII Implementar obras de saneamento básico e construir\n\nestações de tratamento de esgotos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É adequado o que se propõe",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apenas em I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apenas em II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas em I e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "apenas em II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "em I, II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

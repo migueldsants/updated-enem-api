@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2011 - Reaplicação",
+    "index": 166,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um administrador de um campo de futebol deseja\nrecobri-lo com um tipo de grama que, em condições\nnormais, cresce de acordo com o gráfico a seguir.\n\n![](https://enem.dev/2011-reaplicacao/questions/166/7f1c4553-584c-47fa-8563-cf9a37e5506b.png)\n\nEle precisa ter o campo pronto no dia 11 de junho de\n2012, e o comprimento mínimo da grama nesse dia deve\nser igual a 7 cm.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/166/7f1c4553-584c-47fa-8563-cf9a37e5506b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Supondo-se que o crescimento da grama se dê em\ncondições normais, a grama deve ser plantada, no\nmáximo, até o dia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "17 de maio de 2012.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "21 de maio de 2012.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "23 de maio de 2012.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8 de junho de 2012.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9 de junho de 2012.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

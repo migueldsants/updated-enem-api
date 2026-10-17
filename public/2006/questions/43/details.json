@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2006",
+    "index": 43,
+    "year": 2006,
+    "language": null,
+    "discipline": null,
+    "context": "Na região sul da Bahia, o cacau tem sido cultivado por\nmeio de diferentes sistemas. Em um deles, o convencional, a\nprimeira etapa de preparação do solo corresponde à retirada\nda mata e à queimada dos tocos e das raízes. Em seguida,\npara o plantio da quantidade máxima de cacau na área, os\npés de cacau são plantados próximos uns dos outros. No\ncultivo pelo sistema chamado cabruca, os pés de cacau são\nabrigados entre as plantas de maior porte, em espaço aberto\ncriado pela derrubada apenas das plantas de pequeno porte.\n\nOs cacaueiros dessa região têm sido atacados e\ndevastados pelo fungo chamado vassoura-de-bruxa, que se\nreproduz em ambiente quente e úmido por meio de esporos\nque se espalham no meio aéreo.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As condições ambientais em que os pés de cacau são\nplantados e as condições de vida do fungo vassoura-de-\nbruxa, mencionadas acima, permitem supor-se que sejam\nmais intensamente atacados por esse fungo os cacaueiros\nplantados por meio do sistema",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "convencional, pois os pés de cacau ficam mais expostos ao sol, o que facilita a reprodução do parasita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "convencional, pois a proximidade entre os pés de cacau facilita a disseminação da doença.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "convencional, pois o calor das queimadas cria as condições ideais de reprodução do fungo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cabruca, pois os cacaueiros não suportam a sombra e, portanto, terão seu crescimento prejudicado e adoecerão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cabruca, pois, na competição com outras espécies, os cacaueiros ficam enfraquecidos e adoecem mais facilmente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

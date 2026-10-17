@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2004",
+    "index": 58,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nas recentes expedições espaciais que chegaram ao solo de Marte, e através dos sinais fornecidos por diferentes sondas e\nformas de análise, vem sendo investigada a possibilidade da existência de água naquele planeta. A motivação principal dessas\ninvestigações, que ocupam freqüentemente o noticiário sobre Marte, deve-se ao fato de que a presença de água indicaria,\nnaquele planeta,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a existência de um solo rico em nutrientes e com potencial para a agricultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a existência de ventos, com possibilidade de erosão e formação de canais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a possibilidade de existir ou ter existido alguma forma de vida semelhante à da Terra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a possibilidade de extração de água visando ao seu aproveitamento futuro na Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a viabilidade, em futuro próximo, do estabelecimento de colônias humanas em Marte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

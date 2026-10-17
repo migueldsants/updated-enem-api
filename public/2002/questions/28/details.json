@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2002",
+    "index": 28,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "1 - “(...) O recurso ao terror por parte de quem já detém o poder dentro do Estado não pode ser arrolado entre as formas\nde terrorismo político, porque este se qualifica, ao contrário, como o instrumento ao qual recorrem determinados grupos para\nderrubar um governo acusado de manter-se por meio do terror”.\n\n2 - Em outros casos “ os terroristas combatem contra um Estado de que não fazem parte e não contra um governo (o\nque faz com que sua ação seja conotada como uma forma de guerra), mesmo quando por sua vez não representam um outro\nEstado. Sua ação aparece então como irregular, no sentido de que não podem organizar um exército e não conhecem limites\nterritoriais, já que não provêm de um Estado ”\n\nDicionário de Política (org.) BOBBIO, N., MATTEUCCI, N. e PASQUINO, G., Brasília: Edunb,1986.\n\nDe acordo com as duas afirmações, é possível comparar e distinguir os seguintes eventos históricos:\n\nI. Os movimentos guerrilheiros e de libertação nacional realizados em alguns países da África e do sudeste asiático entre as\n\ndécadas de 1950 e 70 são exemplos do primeiro caso.\nII. Os ataques ocorridos na década de 1990, como às embaixadas de Israel, em Buenos Aires, dos EUA, no Quênia e\n\nTanzânia, e ao World Trade Center em 2001, são exemplos do segundo caso.\nIII. Os movimentos de libertação nacional dos anos 50 a 70 na África e sudeste asiático, e o terrorismo dos anos 90 e 2001\n\nforam ações contra um inimigo invasor e opressor, e são exemplos do primeiro caso.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É correto o que se afirma apenas em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

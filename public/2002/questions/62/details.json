@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2002",
+    "index": 62,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "“A idade da pedra chegou ao fim, não porque faltassem pedras; a era do petróleo chegará igualmente ao fim, mas não por falta\nde petróleo”.\n\nXeque Yamani, Ex-ministro do Petróleo da Arábia Saudita. O Estado de S. Paulo, 20/08/2001.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as características que envolvem a utilização das matérias-primas citadas no texto em diferentes contextos\nhistórico-geográficos, é correto afirmar que, de acordo com o autor, a exemplo do que aconteceu na Idade da Pedra, o fim da\nera do Petróleo estaria relacionado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "à redução e esgotamento das reservas de petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ao desenvolvimento tecnológico e à utilização de novas fontes de energia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ao desenvolvimento dos transportes e conseqüente aumento do consumo de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ao excesso de produção e conseqüente desvalorização do barril de petróleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "à diminuição das ações humanas sobre o meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2010 - Reaplicação",
+    "index": 92,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010-reaplicacao/questions/92-espanhol/24ed77b2-db3f-40eb-9517-41fcfcadc1b2.png)\n\nEl sistema que se ha estado utilizando es el de urna\nelectrónica con teclado numérico para la emisión del voto.\nTiene botones especiales de confirmación e impresión de\nacta inicial con activación por clave. La caja de balotas\nelectrónicas es una computadora personal con un uso\nespecífico que tiene las siguientes características:\nresistente, pequeña en dimensión, liviana, con fuentes\nautónomas de energía y recursos de seguridad. La\ncaracterística más destacable del sistema brasileño\nreside en que permite unificar el registro y verificación de\nla identidad del elector, la emisión y el escrutinio de voto\nen una misma máquina.\n\nVoto electrónico en Brasil. Disponível em: http://www.votoelectronico.info/blog.\nAcesso em: 12 abr. 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/92-espanhol/24ed77b2-db3f-40eb-9517-41fcfcadc1b2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pela observação da imagem e leitura do texto a respeito\nda votação eletrônica no Brasil, identifica-se como tema",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a funcionalidade dos computadores, por meio das palavras-chave teclado, botones, impresión, electrónicas e computadora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a evolução das máquinas modernas, por meio das palavras-chave teclado, botones, electrónicas, energia e máquina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a segurança da informação, por meio das palavras- chave electrónica, clave, seguridad, verificación e identidad.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o sistema brasileiro de votação eletrônica, por meio das palavras-chave urna, teclado, voto, botones e elector.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a linguagem matemática, por meio das palavras- chave numérico, clave, pequeña, dimensión e",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

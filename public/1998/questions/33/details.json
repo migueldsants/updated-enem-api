@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 1998",
+    "index": 33,
+    "year": 1998,
+    "language": null,
+    "discipline": null,
+    "context": "Amor é fogo que arde sem se ver;\né ferida que dói e não se sente;\né um contentamento descontente;\né dor que desatina sem doer;\n\nÉ um não querer mais que bem querer;\né solitário andar por entre a gente;\né nunca contentar-se de contente;\né cuidar que se ganha em se perder;\n\nÉ querer estar preso por vontade;\né servir a quem vence, o vencedor;\né ter com quem nos mata lealdade.\n\nMas como causar pode seu favor\nnos corações humanos amizade,\nse tão contrário a si é o mesmo Amor?\n\nLuís de Camões",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O poema tem, como característica, a figura de linguagem denominada antítese, relação de oposição de\npalavras ou idéias. Assinale a opção em que essa oposição se faz claramente presente.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Amor é fogo que arde sem se ver.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“É um contentamento descontente.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "“É servir a quem se vence, o vencedor.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Mas como causar pode seu favor.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Se tão contrário a si é o mesmo Amor?”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

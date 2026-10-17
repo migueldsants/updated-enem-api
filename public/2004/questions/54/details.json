@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2004",
+    "index": 54,
+    "year": 2004,
+    "language": null,
+    "discipline": null,
+    "context": "A questão étnica no Brasil tem provocado diferentes atitudes:\n\nI. Instituiu-se o “Dia Nacional da Consciência Negra” em 20 de novembro, ao invés da tradicional celebração do 13 de maio.\n\nEssa nova data é o aniversário da morte de Zumbi, que hoje simboliza a crítica à segregação e à exclusão social.\n\nII. Um turista estrangeiro que veio ao Brasil, no carnaval, afirmou que nunca viu tanta convivência harmoniosa entre as\n\ndiversas etnias.\n\nTambém sobre essa questão, estudiosos fazem diferentes reflexões:\n\nEntre nós [brasileiros], (...) a separação imposta pelo sistema de produção foi a mais fluida possível. Permitiu constante\nmobilidade de classe para classe e até de uma raça para outra. Esse amor, acima de preconceitos de raça e de\nconvenções de classe, do branco pela cabocla, pela cunhã, pela índia (...) agiu poderosamente na formação do Brasil,\nadoçando-o.\n\n(Gilberto Freire. O mundo que o português criou.)\n\n[Porém] o fato é que ainda hoje a miscigenação não faz parte de um processo de integração das “raças” em condições de\nigualdade social. O resultado foi que (...) ainda são pouco numerosos os segmentos da “população de cor” que\nconseguiram se integrar, efetivamente, na sociedade competitiva.\n\n(Florestan Fernandes. O negro no mundo dos brancos.)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando as atitudes expostas acima e os pontos de vista dos estudiosos, é correto aproximar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a posição de Gilberto Freire e a de Florestan Fernandes igualmente às duas atitudes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a posição de Gilberto Freire à atitude I e a de Florestan Fernandes à atitude II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a posição de Florestan Fernandes à atitude I e a de Gilberto Freire à atitude II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "somente a posição de Gilberto Freire a ambas as atitudes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "somente a posição de Florestan Fernandes a ambas as atitudes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

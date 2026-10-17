@@ -1,0 +1,49 @@
+{
+    "title": "Questão 165 - ENEM 2010 - Reaplicação",
+    "index": 165,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um experimento foi conduzido com o objetivo de avaliar o\npoder germinativo de duas culturas de cebola, conforme\na tabela.\n\nGerminação de sementes de\nduas culturas de cebola\n\nGerminação\nCulturas TOTAL\nNão\nGerminaram\nGerminaram\n\nA 392 8 400\n\nB 381 19 400\n\nTOTAL 773 27 800\n\nBUSSAB, W. O; MORETIN, L. G. Estatística para as ciências agrárias e biológicas (adaptado).",
+    "files": [
+        "https://enem.dev/2010-reaplicacao/questions/165/477cca71-46ac-48ea-9ae2-85297e0ac606.png",
+        "https://enem.dev/2010-reaplicacao/questions/165/b4a73bc4-4f66-434c-af93-a8251e8cab93.png",
+        "https://enem.dev/2010-reaplicacao/questions/165/58583b84-cdf1-4fd1-bd96-155e0aa6c0bd.png",
+        "https://enem.dev/2010-reaplicacao/questions/165/05f43259-65c3-4b7f-ac1e-5bb53407fd51.png",
+        "https://enem.dev/2010-reaplicacao/questions/165/87284d2d-27dd-4056-ae9f-7f1c85415642.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Desejando-se fazer uma avaliação do poder germinativo\nde uma das culturas de cebola, uma amostra foi\nretirada ao acaso. Sabendo-se que a amostra escolhida\ngerminou, a probabilidade de essa amostra pertencer à\nCultura A é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/165/477cca71-46ac-48ea-9ae2-85297e0ac606.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/165/b4a73bc4-4f66-434c-af93-a8251e8cab93.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/165/58583b84-cdf1-4fd1-bd96-155e0aa6c0bd.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/165/05f43259-65c3-4b7f-ac1e-5bb53407fd51.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010-reaplicacao/questions/165/87284d2d-27dd-4056-ae9f-7f1c85415642.png",
+            "isCorrect": false
+        }
+    ]
+}

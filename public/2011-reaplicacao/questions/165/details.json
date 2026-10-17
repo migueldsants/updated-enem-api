@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2011 - Reaplicação",
+    "index": 165,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um curso preparatório oferece aulas de 8\ndisciplinas distintas. Um aluno, ao se matricular,\nescolhe de 3 a 8 disciplinas para cursar. O preço P,\nem reais, da mensalidade é calculado pela fórmula\n\n![](https://enem.dev/2011-reaplicacao/questions/165/4553ac3e-0ece-411f-a71e-b3dd312624fc.png)\n\n, onde n é o número de disciplinas\n\nescolhidas pelo aluno.\n\nAlex deseja matricular seu filho Júlio e, consultando\nseu orçamento familiar mensal, avaliou que poderia\npagar uma mensalidade de, no máximo, R$ 720,00.",
+    "files": [
+        "https://enem.dev/2011-reaplicacao/questions/165/4553ac3e-0ece-411f-a71e-b3dd312624fc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número máximo de disciplinas que Júlio poderá\nescolher ao se matricular nesse curso, sem estourar o\norçamento familiar, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

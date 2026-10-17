@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2007",
+    "index": 62,
+    "year": 2007,
+    "language": null,
+    "discipline": null,
+    "context": "De acordo com a legislação brasileira, são tipos de água\nengarrafada que podem ser vendidos no comércio para o\nconsumo humano:\n\n• água mineral: água que, proveniente de fontes naturais\n\nou captada artificialmente, possui composição química ou\npropriedades físicas ou físico-químicas específicas, com\ncaracterísticas que lhe conferem ação medicamentosa;\n• água potável de mesa: água que, proveniente de fontes\n\nnaturais ou captada artificialmente, possui características\nque a tornam adequada ao consumo humano;\n• água purificada adicionada de sais: água produzida\n\nartificialmente por meio da adição à água potável de\nsais de uso permitido, podendo ser gaseificada.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os três tipos de água descritos na legislação são potáveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "toda água engarrafada vendida no comércio é água mineral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "água purificada adicionada de sais é um produto natural encontrado em algumas fontes específicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a água potável de mesa é adequada para o consumo humano porque apresenta extensa flora bacteriana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a legislação brasileira reconhece que todos os tipos de água têm ação medicamentosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

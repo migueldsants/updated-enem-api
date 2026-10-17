@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2001",
+    "index": 7,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Atualmente, sistemas de purificação de emissões poluidoras estão sendo exigidos por lei em\num número cada vez maior de países. O controle das emissões de dióxido de enxofre\ngasoso, provenientes da queima de carvão que contém enxofre, pode ser feito pela reação\ndesse gás com uma suspensão de hidróxido de cálcio em água, sendo formado um produto\nnão poluidor do ar.\nA queima do enxofre e a reação do dióxido de enxofre com o hidróxido de cálcio, bem como\nas massas de algumas das substâncias envolvidas nessas reações, podem ser assim\nrepresentadas:\n\nenxofre (32 g) + oxigênio (32 g) → dióxido de enxofre (64 g)\n\ndióxido de enxofre (64 g) + hidróxido de cálcio (74 g) → produto não poluidor",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dessa forma, para absorver todo o dióxido de enxofre produzido pela queima de uma\ntonelada de carvão (contendo 1% de enxofre), é suficiente a utilização de uma massa de\nhidróxido de cálcio de, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "23 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "43 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "64 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "74 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "138 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

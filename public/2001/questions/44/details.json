@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2001",
+    "index": 44,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "O gráfico compara o número de homicídios por grupo de 100.000 habitantes entre 1995 e\n1998 nos EUA, em estados com e sem pena de morte.\n\n![](https://enem.dev/2001/questions/44/27dbebc4-b7d6-4a5a-9c15-a95a2eca05ed.png)",
+    "files": [
+        "https://enem.dev/2001/questions/44/27dbebc4-b7d6-4a5a-9c15-a95a2eca05ed.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base no gráfico, pode-se afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a taxa de homicídios cresceu apenas nos estados sem pena de morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "nos estados com pena de morte a taxa de homicídios é menor que nos estados sem pena de morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no período considerado, os estados com pena de morte apresentaram taxas maiores de homicídios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "entre 1996 e 1997, a taxa de homicídios permaneceu estável nos estados com pena de morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a taxa de homicídios nos estados com pena de morte caiu pela metade no período considerado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

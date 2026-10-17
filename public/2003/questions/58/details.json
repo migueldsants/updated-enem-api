@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2003",
+    "index": 58,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ainda com base na tabela da questão anterior, é correto afirmar que a população brasileira",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentou crescimento percentual menor nas últimas décadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "apresentou crescimento percentual maior nas últimas décadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "decresceu em valores absolutos nas cinco últimas décadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "apresentou apenas uma pequena queda entre 1950 e 1980.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "permaneceu praticamente inalterada desde 1950.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

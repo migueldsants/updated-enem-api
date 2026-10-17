@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2001",
+    "index": 24,
+    "year": 2001,
+    "language": null,
+    "discipline": null,
+    "context": "Um fabricante de brinquedos recebeu o projeto de uma caixa que deverá conter cinco\npequenos sólidos, colocados na caixa por uma abertura em sua tampa. A figura representa a\nplanificação da caixa, com as medidas dadas em centímetros.\n\n![](https://enem.dev/2001/questions/24/c4811d45-fb44-4356-8f53-30476e026ad8.png)\n\nOs sólidos são fabricados nas formas de\n\nI. um cone reto de altura 1 cm e raio da base 1,5 cm.\nII. um cubo de aresta 2 cm.\nIII. uma esfera de raio 1,5 cm.\nIV. um paralelepípedo retangular reto, de dimensões 2 cm, 3 cm e 4 cm.\nV. um cilindro reto de altura 3 cm e raio da base 1 cm.",
+    "files": [
+        "https://enem.dev/2001/questions/24/c4811d45-fb44-4356-8f53-30476e026ad8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O fabricante não aceitou o projeto, pois percebeu que, pela abertura dessa caixa, só poderia\ncolocar os sólidos dos tipos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I, II e V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "I, II, IV e V.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II, III, IV e V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III, IV e V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

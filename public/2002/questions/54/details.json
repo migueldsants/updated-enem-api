@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2002",
+    "index": 54,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "A tabela refere-se a um estudo realizado entre 1994 e 1999 sobre violência sexual com pessoas do sexo feminino no Brasil.\n\n![](https://enem.dev/2002/questions/54/39089e41-e6f6-479f-9d2a-9639d36f653b.png)\n\nA partir dos dados da tabela e para o grupo feminino estudado, são feitas as seguintes afirmações:\n\nI. A mulher não é poupada da violência sexual doméstica em nenhuma das faixas etárias indicadas.\nII. A maior parte das mulheres adultas é agredida por parentes consangüíneos.\nIII. As adolescentes são vítimas de quase todos os tipos de agressores.\nIV. Os pais, biológicos, adotivos e padrastos, são autores de mais de 1/3 dos casos de violência sexual envolvendo crianças.",
+    "files": [
+        "https://enem.dev/2002/questions/54/39089e41-e6f6-479f-9d2a-9639d36f653b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "É verdadeiro apenas o que se afirma em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, III e IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "II, III e IV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

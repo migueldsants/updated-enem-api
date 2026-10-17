@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2003",
+    "index": 54,
+    "year": 2003,
+    "language": null,
+    "discipline": null,
+    "context": "No dia 7 de outubro de 2001, Estados Unidos e Grã-Bretanha declararam guerra ao regime Talibã, no Afeganistão.\n\nLeia trechos das declarações do presidente dos Estados Unidos, George W. Bush, e de Osama Bin Laden, líder\nmuçulmano, nessa ocasião:\n\nGeorge Bush:\nUm comandante-chefe envia os filhos e filhas dos Estados Unidos à batalha em território estrangeiro somente depois de tomar\no maior cuidado e depois de rezar muito. Pedimos-lhes que estejam preparados para o sacrifício das próprias vidas. A partir de\n11 de setembro, uma geração inteira de jovens americanos teve uma nova percepção do valor da liberdade, do seu preço, do\nseu dever e do seu sacrifício. Que Deus continue a abençoar os Estados Unidos.\nOsama Bin Laden:\nDeus abençoou um grupo de vanguarda de muçulmanos, a linha de frente do Islã, para destruir os Estados Unidos. Um\nmilhão de crianças foram mortas no Iraque, e para eles isso não é uma questão clara. Mas quando pouco mais de dez\nforam mortos em Nairóbi e Dar-es-Salaam, o Afeganistão e o Iraque foram bombardeados e a hipocrisia ficou atrás da\ncabeça dos infiéis internacionais. Digo a eles que esses acontecimentos dividiram o mundo em dois campos, o campo\ndos fiéis e o campo dos infiéis. Que Deus nos proteja deles.\n\n(Adaptados de O Estado de S. Paulo, 8/10/2001)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Pode-se afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a justificativa das ações militares encontra sentido apenas nos argumentos de George W. Bush.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a justificativa das ações militares encontra sentido apenas nos argumentos de Osama Bin Laden.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ambos apóiam-se num discurso de fundo religioso para justificar o sacrifício e reivindicar a justiça.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ambos tentam associar a noção de justiça a valores de ordem política, dissociando-a de princípios religiosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ambos tentam separar a noção de justiça das justificativas de ordem religiosa, fundamentando-a numa estratégia militar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

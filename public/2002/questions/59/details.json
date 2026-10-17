@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2002",
+    "index": 59,
+    "year": 2002,
+    "language": null,
+    "discipline": null,
+    "context": "Nas discussões sobre a existência de vida fora da Terra, Marte tem sido um forte candidato a hospedar vida. No entanto, há\nainda uma enorme variação de critérios e considerações sobre a habitabilidade de Marte, especialmente no que diz respeito à\nexistência ou não de água líquida. Alguns dados comparativos entre a Terra e Marte estão apresentados na tabela.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base nesses dados, é possível afirmar que, dentre os fatores abaixo, aquele mais adverso à existência de água líquida\nem Marte é sua",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "grande distância ao Sol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "massa pequena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aceleração da gravidade pequena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "atmosfera rica em CO2 .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "temperatura média muito baixa.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}
